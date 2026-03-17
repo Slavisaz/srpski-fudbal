@@ -39,7 +39,10 @@ header{background:#fff;border-bottom:4px solid var(--red);box-shadow:0 2px 12px 
 .logo-ball{width:62px;height:62px;flex-shrink:0}
 .logo-wm{display:flex;flex-direction:column;line-height:1.05}
 .logo-l1{font-family:var(--fd);font-size:28px;font-weight:800;letter-spacing:.03em;text-transform:uppercase;color:var(--red)}
-.logo-l2{font-family:var(--fu);font-size:9px;font-weight:600;letter-spacing:.22em;text-transform:uppercase;color:var(--txt3);margin-top:3px}
+.logo-l2{display:flex;align-items:center;gap:0;margin-top:4px;line-height:1}
+.logo-l2 .lt{font-family:var(--fu);font-size:10px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--red)}
+.logo-l2 .lsep{color:var(--bdr);margin:0 5px;font-size:9px}
+.logo-l2 .ln{font-family:var(--fu);font-size:9px;font-weight:500;letter-spacing:.12em;text-transform:uppercase;color:var(--txt4)}
 
 /* NAV */
 nav{display:flex;align-items:center;height:100%;gap:2px}
@@ -313,7 +316,15 @@ footer{background:var(--txt);color:rgba(255,255,255,.65);margin-top:48px;border-
 
       <div class="logo-wm">
         <div class="logo-l1">СРПСКИ ФУДБАЛ</div>
-        <div class="logo-l2">Вести · Резултати · Табела · Прогнозе</div>
+        <div class="logo-l2">
+          <span class="lt">Новости</span>
+          <span class="lsep">|</span>
+          <span class="ln">Резултати</span>
+          <span class="lsep">|</span>
+          <span class="ln">Табела</span>
+          <span class="lsep">|</span>
+          <span class="ln">Видео</span>
+        </div>
       </div>
     </a>
 
