@@ -1,7 +1,16 @@
 {
-  "azurirano": "2026-03-17T19:58:34.418305+00:00",
-  "azurirano_sr": "17. 03. 2026. u 19:58",
+  "azurirano": "2026-03-17T20:02:24.308029+00:00",
+  "azurirano_sr": "17. 03. 2026. u 20:02",
   "vesti": [
+    {
+      "naslov": "KOŠTAĆE 50 MILIONA, ZNA GDE HOĆE: Umoran sam od tolikog igranja po hladnoći i kiši!",
+      "opis": "Sprema se letnji prelazni rok, a jedna od glavnih zvezda će biti Holanđanin Kes Smit. Fudbaler AZ Alkmara je nedavno napunio 20 godina i očekuje se da postigne cenu 50 miliona evra. To automtski znači da će samo klubovi iz Premijer lige i najjači klubovi iz Španije i Francuske biti kadri da isparira",
+      "url": "https://www.sportskacentrala.com/2026/03/17/kostace-50-miliona-zna-gde-hoce-umoran-sam-od-tolikog-igranja-po-hladnoci-i-kisi/",
+      "izvor": "Sportska centrala",
+      "logo": "sportskacentrala.com",
+      "datum": "17. 03. 2026. 20:00",
+      "slika": null
+    },
     {
       "naslov": "Evo kako su Grobari dočekali Aleksu Avramovića i Filipa Petruševa u Evroligi",
       "opis": "Košarkaši Partizana igraju na svom terenu zaostalu utakmicu 30. kola Evrolige protiv Dubaija, gde na poluvremenu gube sa 47:38, a zanimljivo je i to da je Arena.",
@@ -140,7 +149,7 @@
   ],
   "prognoza_dana": {
     "datum": "17. 03. 2026.",
-    "vreme": "19:58",
+    "vreme": "20:02",
     "utakmice": [
       {
         "domacin": "ФК Чукарички",
@@ -323,10 +332,10 @@
     }
   ],
   "statistike": {
-    "ukupno_vesti": 15,
+    "ukupno_vesti": 16,
     "izvori": [
-      "Nova.rs Sport",
       "Sportska centrala",
+      "Nova.rs Sport",
       "Meridian Sport",
       "Telegraf Sport"
     ]
