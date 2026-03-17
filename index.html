@@ -786,6 +786,70 @@ window.addEventListener('scroll',()=>{
     }
   });
 });
+
+// ═══════════════════════════════════════════
+// UČITAJ PRAVE VESTI IZ GITHUB JSON-a
+// Koristi public Cloudflare proxy da zaobiđe CORS
+// ═══════════════════════════════════════════
+const JSON_URL = 'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json';
+const PROXY = 'https://api.allorigins.win/raw?url=';
+
+async function ucitajVesti() {
+  try {
+    const res = await fetch(PROXY + encodeURIComponent(JSON_URL) + '&t=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+
+    if (!data.vesti || !data.vesti.length) return;
+
+    // Ažuriraj timestamp
+    const ts = document.getElementById('poslednje-azuriranje');
+    if (ts) ts.textContent = 'Ажурирано: ' + (data.azurirano_sr || '');
+
+    // Boje za kartice
+    const boje = [
+      ['#e8f0fb','#003F8A'], ['#fff0f0','#CC0000'],
+      ['#f0f7f0','#16a34a'], ['#fffbf0','#D4A017'],
+      ['#f5f0fb','#7c3aed'], ['#fff0f8','#be185d']
+    ];
+
+    const grid = document.getElementById('vesti-grid');
+    if (!grid) return;
+
+    const html = data.vesti.slice(0, 6).map((v, i) => {
+      const [bg, fg] = boje[i % boje.length];
+      const slovo = (v.naslov || 'В')[0];
+      const opis = (v.opis || '').substring(0, 140);
+      const izvor = (v.izvor || 'Sport').toUpperCase();
+      return `<div class="nc fi-anim" onclick="window.open('${v.url}','_blank')" style="cursor:pointer">
+        <div class="nc-img">
+          <svg viewBox="0 0 360 150" xmlns="http://www.w3.org/2000/svg">
+            <rect width="360" height="150" fill="${bg}"/>
+            <text x="30" y="125" font-family="serif" font-size="128" font-weight="900" fill="${fg}" opacity=".12">${slovo}</text>
+            <text x="14" y="26" font-family="sans-serif" font-size="9" fill="${fg}" opacity=".4" letter-spacing="3">${izvor}</text>
+          </svg>
+        </div>
+        <div class="nc-body">
+          <div class="nc-cat">${v.izvor || 'Sport'}</div>
+          <div class="nc-ttl">${v.naslov || ''}</div>
+          <div class="nc-blrb">${opis}${opis.length >= 140 ? '...' : ''}</div>
+          <div class="nc-meta"><span>${v.datum || ''}</span><span>Прочитај →</span></div>
+        </div>
+      </div>`;
+    }).join('');
+
+    grid.innerHTML = html;
+    console.log('✓ Učitano ' + data.vesti.length + ' vesti');
+
+  } catch(e) {
+    console.warn('Nije moguće učitati vesti:', e.message);
+    // Tiho ostavljamo hardcoded sadržaj ako fetch ne uspe
+  }
+}
+
+// Pokreni odmah i ponovi svakih 15 minuta
+ucitajVesti();
+setInterval(ucitajVesti, 15 * 60 * 1000);
 </script>
 </body>
 </html>
