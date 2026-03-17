@@ -1,0 +1,37 @@
+{
+  "name": "Српски Фудбал",
+  "short_name": "СрпФудбал",
+  "description": "Вести, резултати и табела српског фудбала",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#CC0000",
+  "theme_color": "#CC0000",
+  "orientation": "portrait-primary",
+  "lang": "sr",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KICA8IS0tIFJlZCBiYWNrZ3JvdW5kIHNxdWFyZSB3aXRoIHJvdW5kZWQgY29ybmVycyAoZm9yIG1hc2thYmxlIGljb24pIC0tPgogIDxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiBmaWxsPSIjQ0MwMDAwIiByeD0iODAiLz4KCiAgPCEtLSBXaGl0ZSBjaXJjbGUgLSBiYWxsIGJhc2UgLS0+CiAgPGNpcmNsZSBjeD0iMjU2IiBjeT0iMjU2IiByPSIxOTAiIGZpbGw9IndoaXRlIi8+CgogIDwhLS0gU2VyYmlhbiB0cmljb2xvciBiYW5kcyBjbGlwcGVkIHRvIGJhbGwgLS0+CiAgPGNsaXBQYXRoIGlkPSJiYyI+PGNpcmNsZSBjeD0iMjU2IiBjeT0iMjU2IiByPSIxOTAiLz48L2NsaXBQYXRoPgogIDxnIGNsaXAtcGF0aD0idXJsKCNiYykiPgogICAgPHJlY3QgeD0iNjYiIHk9IjY2IiB3aWR0aD0iMzgwIiBoZWlnaHQ9IjEyNyIgZmlsbD0iI0NDMDAwMCIvPgogICAgPHJlY3QgeD0iNjYiIHk9IjE5MyIgd2lkdGg9IjM4MCIgaGVpZ2h0PSIxMjYiIGZpbGw9IiMwMDNGOEEiLz4KICAgIDxyZWN0IHg9IjY2IiB5PSIzMTkiIHdpZHRoPSIzODAiIGhlaWdodD0iMTI3IiBmaWxsPSIjZjBmMmY1Ii8+CiAgPC9nPgoKICA8IS0tIFBlbnRhZ29uIHBhdGNoZXMgLSByb3RhdGVkIDIywrAgZm9yIGR5bmFtaWMgZmVlbCAtLT4KICA8ZyB0cmFuc2Zvcm09InJvdGF0ZSgyMiwgMjU2LCAyNTYpIiBjbGlwLXBhdGg9InVybCgjYmMpIj4KICAgIDwhLS0gQ2VudGVyIHBlbnRhZ29uIC0tPgogICAgPHBvbHlnb24gcG9pbnRzPSIyNTYsMTc1IDMyMiwyMjAgMjk4LDI5OCAyMTQsMjk4IDE5MCwyMjAiCiAgICAgIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4zNSkiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iOSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogICAgPCEtLSBUb3AgLS0+CiAgICA8cG9seWdvbiBwb2ludHM9IjI1Niw2MCAzMjIsMTA1IDI5OCwxNDggMjE0LDE0OCAxOTAsMTA1IgogICAgICBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuMjgpIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjkiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICAgIDwhLS0gVXBwZXIgcmlnaHQgLS0+CiAgICA8cG9seWdvbiBwb2ludHM9IjM5MCwxMzAgNDQwLDE3MCA0MzUsMjQ1IDM3NSwyNzAgMzM1LDIwMCIKICAgICAgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjI4KSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSI5IiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgICA8IS0tIExvd2VyIHJpZ2h0IC0tPgogICAgPHBvbHlnb24gcG9pbnRzPSIzOTAsMzMwIDQwNSw0MDUgMzQwLDQ0NSAyODUsNDIwIDI5NSwzNDUiCiAgICAgIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4yOCkiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iOSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogICAgPCEtLSBMb3dlciBsZWZ0IC0tPgogICAgPHBvbHlnb24gcG9pbnRzPSIyMjcsNDIwIDE3Miw0NDUgMTA3LDQwNSAxMjIsMzMwIDIxNywzNDUiCiAgICAgIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMC4yOCkiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iOSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogICAgPCEtLSBVcHBlciBsZWZ0IC0tPgogICAgPHBvbHlnb24gcG9pbnRzPSIxNzcsMjAwIDEzNywyNzAgNzcsMjQ1IDcyLDE3MCAxMjIsMTMwIgogICAgICBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDAuMjgpIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjkiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KICA8L2c+CgogIDwhLS0gQmFsbCBib3JkZXIgLS0+CiAgPGNpcmNsZSBjeD0iMjU2IiBjeT0iMjU2IiByPSIxOTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0icmdiYSgyMDAsMjAwLDIwMCwwLjQpIiBzdHJva2Utd2lkdGg9IjQiLz4KCiAgPCEtLSBTcGVjdWxhciBoaWdobGlnaHQgLS0+CiAgPGVsbGlwc2UgY3g9IjE5MCIgY3k9IjE3MCIgcng9IjcwIiByeT0iNDYiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjM1IiB0cmFuc2Zvcm09InJvdGF0ZSgtMzAgMTkwIDE3MCkiLz4KCiAgPCEtLSAi0KHQpCIgdGV4dCBhdCBib3R0b20gb2YgaWNvbiAtLT4KICA8dGV4dCB4PSIyNTYiIHk9IjQ5MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsIEJsYWNrLCBzYW5zLXNlcmlmIgogICAgZm9udC1zaXplPSI0MiIgZm9udC13ZWlnaHQ9IjkwMCIgZmlsbD0id2hpdGUiIGxldHRlci1zcGFjaW5nPSI0Ij7QodCkPC90ZXh0Pgo8L3N2Zz4K",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "sports",
+    "news"
+  ],
+  "shortcuts": [
+    {
+      "name": "Суперлига",
+      "url": "/#superliga"
+    },
+    {
+      "name": "Резултати",
+      "url": "/#rezultati"
+    },
+    {
+      "name": "Прогнозе",
+      "url": "/#prognoze"
+    }
+  ]
+}
