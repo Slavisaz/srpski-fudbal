@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="sr-Cyrl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>СрпскиФудбал.цом — Вести, Резултати, Табела</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,400;0,600;0,700;0,800;1,700&family=Lora:ital,wght@0,400;0,600;1,400&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --red:#CC0000;--redd:#990000;--redl:#ff2222;
+  --blue:#003F8A;--bluem:#1a5aad;--bluel:#e8f0fb;
+  --white:#ffffff;--off:#f4f5f7;--off2:#eceef2;
+  --bdr:#dde1e8;--txt:#111827;--txt2:#374151;
+  --txt3:#6b7280;--txt4:#9ca3af;
+  --gold:#D4A017;--green:#16a34a;
+  --fd:'Barlow Condensed',sans-serif;
+  --fb:'Lora',serif;--fu:'Barlow',sans-serif;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--off);color:var(--txt);font-family:var(--fb);font-size:16px;line-height:1.7}
+a{text-decoration:none;color:inherit}
+
+/* TOPBAR */
+.topbar{background:var(--blue);height:34px;display:flex;align-items:center}
+.tbi{max-width:1280px;margin:0 auto;padding:0 20px;width:100%;display:flex;align-items:center;justify-content:space-between}
+.tbl a{font-family:var(--fu);font-size:11px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:rgba(255,255,255,.7);margin-right:18px;transition:color .15s}
+.tbl a:hover{color:#fff}
+.tbr{font-family:var(--fu);font-size:11px;color:rgba(255,255,255,.45);letter-spacing:.06em}
+
+/* HEADER */
+header{background:#fff;border-bottom:4px solid var(--red);box-shadow:0 2px 12px rgba(0,0,0,.08);position:sticky;top:0;z-index:100}
+.hi{max-width:1280px;margin:0 auto;padding:0 20px;display:flex;align-items:center;height:70px;gap:28px}
+
+/* LOGO */
+.logo{display:flex;align-items:center;gap:12px;flex-shrink:0}
+.logo-ball{width:62px;height:62px;flex-shrink:0}
+.logo-wm{display:flex;flex-direction:column;line-height:1.05}
+.logo-l1{font-family:var(--fd);font-size:28px;font-weight:800;letter-spacing:.03em;text-transform:uppercase;color:var(--red)}
+.logo-l2{font-family:var(--fu);font-size:9px;font-weight:600;letter-spacing:.22em;text-transform:uppercase;color:var(--txt3);margin-top:3px}
+
+/* NAV */
+nav{display:flex;align-items:center;height:100%;gap:2px}
+nav a{font-family:var(--fd);font-size:14px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--txt2);padding:0 13px;height:100%;display:flex;align-items:center;border-bottom:4px solid transparent;margin-bottom:-4px;transition:color .15s,border-color .15s;white-space:nowrap}
+nav a:hover{color:var(--red);border-color:var(--red)}
+nav a.active{color:var(--red);border-color:var(--red)}
+.nav-cta{margin-left:auto;background:var(--red);color:#fff!important;border-radius:4px;padding:8px 13px!important;height:auto!important;border-bottom:none!important;margin-bottom:0!important;font-size:12px!important;transition:background .15s!important}
+.nav-cta:hover{background:var(--redd)!important;color:#fff!important;border-color:transparent!important}
+
+/* TICKER */
+.ticker{background:var(--red);height:30px;display:flex;align-items:center;overflow:hidden}
+.tk-lbl{background:var(--blue);color:#fff;font-family:var(--fd);font-size:11px;font-weight:800;letter-spacing:.15em;text-transform:uppercase;padding:0 14px;height:100%;display:flex;align-items:center;flex-shrink:0}
+.tk-scroll{overflow:hidden;flex:1}
+.tk-track{display:flex;animation:tk 34s linear infinite;white-space:nowrap}
+.tk-track span{font-family:var(--fu);font-size:12px;font-weight:600;color:#fff;padding:0 28px}
+.tk-track span::before{content:'◆';margin-right:28px;font-size:7px;opacity:.45;vertical-align:middle}
+@keyframes tk{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+
+/* HERO */
+.hero{background:var(--blue);border-bottom:4px solid var(--red)}
+.hero-in{max-width:1280px;margin:0 auto;padding:0 20px;display:grid;grid-template-columns:1fr 300px;gap:0}
+.hero-main{position:relative;cursor:pointer;overflow:hidden;min-height:400px;display:flex;align-items:flex-end}
+.hero-bg{position:absolute;inset:0;width:100%;height:100%}
+.hero-cnt{position:relative;z-index:2;padding:30px 32px;background:linear-gradient(to top,rgba(0,23,71,.97) 0%,rgba(0,23,71,.55) 55%,transparent 100%);width:100%}
+.hero-tag{display:inline-flex;align-items:center;gap:5px;background:var(--red);color:#fff;font-family:var(--fd);font-size:11px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;padding:4px 10px;margin-bottom:11px}
+.hero-ttl{font-family:var(--fd);font-size:36px;font-weight:800;line-height:1.1;color:#fff;margin-bottom:10px;letter-spacing:.01em}
+.hero-exc{font-family:var(--fu);font-size:14px;color:rgba(255,255,255,.72);line-height:1.55;max-width:500px;margin-bottom:13px}
+.hero-meta{font-family:var(--fu);font-size:12px;color:rgba(255,255,255,.45)}
+.hero-side{border-left:1px solid rgba(255,255,255,.1);display:flex;flex-direction:column}
+.hs-item{flex:1;position:relative;overflow:hidden;cursor:pointer;border-bottom:1px solid rgba(255,255,255,.08);min-height:132px;display:flex;align-items:flex-end}
+.hs-item:last-child{border-bottom:none}
+.hs-bg{position:absolute;inset:0;width:100%;height:100%}
+.hs-cnt{position:relative;z-index:2;padding:13px 15px;background:linear-gradient(to top,rgba(0,23,71,.95) 0%,rgba(0,23,71,.35) 70%,transparent 100%);width:100%}
+.hs-tag{font-family:var(--fd);font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin-bottom:3px}
+.hs-ttl{font-family:var(--fd);font-size:15px;font-weight:700;line-height:1.25;color:#fff}
+
+/* LAYOUT */
+.page{max-width:1280px;margin:28px auto;padding:0 20px;display:grid;grid-template-columns:1fr 320px;gap:28px}
+
+/* SECTION */
+.sh{display:flex;align-items:center;gap:10px;margin-bottom:16px;padding-bottom:10px;border-bottom:2px solid var(--bdr)}
+.sh-bar{width:4px;height:22px;background:var(--red);border-radius:2px;flex-shrink:0}
+.sh-ttl{font-family:var(--fd);font-size:20px;font-weight:800;text-transform:uppercase;letter-spacing:.04em;color:var(--txt)}
+.sh-more{margin-left:auto;font-family:var(--fu);font-size:12px;font-weight:600;color:var(--blue);letter-spacing:.06em;text-transform:uppercase;transition:color .15s}
+.sh-more:hover{color:var(--red)}
+
+/* NEWS GRID */
+.ng{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-bottom:28px}
+.nc{background:#fff;border:1px solid var(--bdr);overflow:hidden;cursor:pointer;transition:box-shadow .2s,transform .2s}
+.nc:hover{box-shadow:0 6px 24px rgba(0,0,0,.1);transform:translateY(-2px)}
+.nc-img{width:100%;height:150px;overflow:hidden}
+.nc-img svg{width:100%;height:150px;display:block;transition:transform .4s}
+.nc:hover .nc-img svg{transform:scale(1.05)}
+.nc-body{padding:15px}
+.nc-cat{font-family:var(--fd);font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--red);margin-bottom:5px}
+.nc-cat.bl{color:var(--blue)}
+.nc-ttl{font-family:var(--fd);font-size:17px;font-weight:700;line-height:1.2;color:var(--txt);margin-bottom:7px}
+.nc-blrb{font-family:var(--fu);font-size:13px;color:var(--txt3);line-height:1.5;margin-bottom:9px}
+.nc-meta{font-family:var(--fu);font-size:11px;color:var(--txt4);display:flex;justify-content:space-between}
+
+/* RESULTS */
+.res-wrap{background:#fff;border:1px solid var(--bdr);overflow:hidden;margin-bottom:28px}
+.res-head{background:var(--blue);padding:10px 16px;display:flex;align-items:center;justify-content:space-between}
+.res-head-t{font-family:var(--fd);font-size:14px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:#fff}
+.res-head a{font-family:var(--fu);font-size:11px;font-weight:600;color:rgba(255,255,255,.6)}
+.rr{display:grid;grid-template-columns:1fr 100px 1fr;align-items:center;padding:12px 16px;border-bottom:1px solid var(--bdr);cursor:pointer;transition:background .15s}
+.rr:last-child{border-bottom:none}
+.rr:hover{background:var(--off)}
+.rr-t{font-family:var(--fd);font-size:15px;font-weight:700;color:var(--txt)}
+.rr-t.r{text-align:right}
+.rr-sc{text-align:center}
+.rr-n{font-family:var(--fd);font-size:22px;font-weight:800;color:var(--txt);letter-spacing:.05em}
+.rr-s{font-family:var(--fu);font-size:9px;color:var(--txt4);letter-spacing:.08em;text-transform:uppercase;margin-top:1px}
+.live-b{display:inline-block;background:var(--red);color:#fff;font-family:var(--fd);font-size:10px;font-weight:700;padding:2px 7px;letter-spacing:.1em;animation:blnk 1.2s infinite}
+@keyframes blnk{0%,100%{opacity:1}50%{opacity:.4}}
+
+/* STANDINGS */
+.stnd{background:#fff;border:1px solid var(--bdr);overflow:hidden;margin-bottom:28px}
+.tbl{width:100%;border-collapse:collapse;font-family:var(--fu);font-size:13px}
+.tbl thead tr{background:var(--off2)}
+.tbl th{font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--txt3);padding:9px 7px;text-align:center;border-bottom:1px solid var(--bdr)}
+.tbl th:nth-child(2){text-align:left}
+.tbl td{padding:10px 7px;text-align:center;color:var(--txt2);border-bottom:1px solid var(--bdr)}
+.tbl tr:last-child td{border-bottom:none}
+.tbl tbody tr:hover{background:var(--off)}
+.tbl td:nth-child(2){text-align:left;font-weight:700;font-size:13.5px;color:var(--txt)}
+.tbl .pts{font-weight:800;font-size:15px;color:var(--txt)}
+.zch td:first-child{border-left:3px solid var(--gold)}
+.zeu td:first-child{border-left:3px solid var(--blue)}
+.zrl td:first-child{border-left:3px solid var(--red)}
+.fr{display:flex;gap:2px;justify-content:center}
+.fd{width:8px;height:8px;border-radius:50%}
+.fd.w{background:#16a34a}.fd.d{background:#9ca3af}.fd.l{background:#dc2626}
+
+/* BETTING */
+.bet-sec{background:#fff;border:1px solid var(--bdr);overflow:hidden;margin-bottom:28px}
+.bet-hd{background:linear-gradient(90deg,var(--blue) 0%,#004fa3 100%);padding:12px 20px;display:flex;align-items:center;gap:10px}
+.bet-hd-t{font-family:var(--fd);font-size:16px;font-weight:800;text-transform:uppercase;letter-spacing:.06em;color:#fff}
+.bet-hd-s{font-family:var(--fu);font-size:11px;color:rgba(255,255,255,.6);margin-left:auto}
+.bet-body{padding:16px}
+.mo{background:var(--off);border:1px solid var(--bdr);border-radius:4px;padding:14px;margin-bottom:10px}
+.mo-ttl{font-family:var(--fd);font-size:14px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;color:var(--txt);margin-bottom:10px;display:flex;align-items:center;gap:8px}
+.mo-ttl .bdg{background:var(--red);color:#fff;font-size:9px;font-weight:700;padding:2px 6px;letter-spacing:.1em;animation:blnk 1.2s infinite}
+.or{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:8px}
+.ob{background:#fff;border:1.5px solid var(--bdr);border-radius:4px;padding:10px 6px;text-align:center;cursor:pointer;transition:all .18s}
+.ob:hover{border-color:var(--blue);background:var(--bluel)}
+.ob.sel{border-color:var(--blue);background:var(--bluel)}
+.ob-lbl{font-family:var(--fu);font-size:10px;font-weight:600;color:var(--txt3);text-transform:uppercase;letter-spacing:.08em;margin-bottom:3px}
+.ob-tm{font-family:var(--fd);font-size:12px;font-weight:700;color:var(--txt);margin-bottom:4px}
+.ob-n{font-family:var(--fd);font-size:22px;font-weight:800;color:var(--blue);line-height:1}
+.ob:hover .ob-n{color:var(--red)}
+.bkr{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--bdr);border-radius:4px;padding:10px 12px;margin-bottom:8px;cursor:pointer;transition:border-color .15s,box-shadow .15s}
+.bkr:hover{border-color:var(--blue);box-shadow:0 2px 10px rgba(0,63,138,.1)}
+.bkr-logo{width:70px;height:32px;border-radius:3px;display:flex;align-items:center;justify-content:center;font-family:var(--fd);font-size:13px;font-weight:800;flex-shrink:0}
+.bkr-info{flex:1}
+.bkr-nm{font-family:var(--fu);font-size:13px;font-weight:700;color:var(--txt)}
+.bkr-bon{font-family:var(--fu);font-size:11px;color:var(--green);font-weight:600}
+.bkr-btn{background:var(--green);color:#fff;font-family:var(--fd);font-size:13px;font-weight:700;padding:8px 14px;border-radius:3px;letter-spacing:.06em;text-transform:uppercase;white-space:nowrap;transition:background .15s}
+.bkr-btn:hover{background:#15803d}
+.bet-disc{font-family:var(--fu);font-size:10px;color:var(--txt4);text-align:center;margin-top:12px;line-height:1.5}
+
+/* VIDEO */
+.vg{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-bottom:28px}
+.vc{background:#fff;border:1px solid var(--bdr);overflow:hidden;cursor:pointer;transition:box-shadow .2s,transform .2s}
+.vc:hover{box-shadow:0 4px 16px rgba(0,0,0,.1);transform:translateY(-2px)}
+.vc-th{position:relative;width:100%;padding-top:56.25%;overflow:hidden;background:var(--off2)}
+.vc-th svg{position:absolute;inset:0;width:100%;height:100%}
+.vc-play{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:40px;height:40px;background:rgba(204,0,0,.9);border-radius:50%;display:flex;align-items:center;justify-content:center}
+.vc-body{padding:11px 12px}
+.vc-ttl{font-family:var(--fd);font-size:14px;font-weight:700;line-height:1.25;color:var(--txt);margin-bottom:4px}
+.vc-meta{font-family:var(--fu);font-size:11px;color:var(--txt4)}
+
+/* SIDEBAR */
+.widget{background:#fff;border:1px solid var(--bdr);overflow:hidden;margin-bottom:20px}
+.wh{background:var(--off2);border-bottom:2px solid var(--red);padding:10px 16px;font-family:var(--fd);font-size:14px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:var(--txt)}
+.wb{padding:14px 16px}
+.nm-t{display:flex;align-items:center;justify-content:center;gap:10px;margin-bottom:7px}
+.nm-tm{font-family:var(--fd);font-size:17px;font-weight:800;text-align:center;flex:1}
+.nm-vs{font-family:var(--fd);font-size:15px;font-weight:700;color:var(--txt3);flex-shrink:0}
+.nm-i{font-family:var(--fu);font-size:11px;color:var(--txt3);text-align:center;letter-spacing:.06em;text-transform:uppercase;margin-bottom:12px}
+.cdown{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}
+.cu{background:var(--blue);padding:10px 4px;text-align:center;border-radius:3px}
+.cu-n{font-family:var(--fd);font-size:24px;font-weight:800;color:#fff;display:block;line-height:1}
+.cu-l{font-family:var(--fu);font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:rgba(255,255,255,.55);margin-top:3px;display:block}
+.sc-row{display:flex;align-items:center;gap:10px;padding:9px 0;border-bottom:1px solid var(--bdr)}
+.sc-row:last-child{border-bottom:none}
+.sc-rk{font-family:var(--fd);font-size:16px;font-weight:800;width:22px;color:var(--txt4);text-align:center;flex-shrink:0}
+.sc-rk.g{color:var(--gold)}
+.sc-av{width:34px;height:34px;border-radius:50%;background:var(--off2);border:2px solid var(--bdr);flex-shrink:0;overflow:hidden;display:flex;align-items:center;justify-content:center}
+.sc-inf{flex:1}
+.sc-nm{font-family:var(--fu);font-size:13px;font-weight:700;color:var(--txt)}
+.sc-cl{font-family:var(--fu);font-size:11px;color:var(--txt3)}
+.sc-gl{font-family:var(--fd);font-size:22px;font-weight:800;color:var(--red)}
+
+/* SIDEBAR BET PROMO */
+.sb-bet{background:linear-gradient(135deg,var(--blue) 0%,#001f5a 100%);border:none;overflow:hidden;margin-bottom:20px}
+.sb-bet-in{padding:20px;text-align:center}
+.sb-flag{display:flex;height:6px;margin-bottom:16px;border-radius:3px;overflow:hidden}
+.sb-flag div:nth-child(1){flex:1;background:var(--red)}
+.sb-flag div:nth-child(2){flex:1;background:#fff}
+.sb-flag div:nth-child(3){flex:1;background:var(--blue)}
+.sb-bet-h{font-family:var(--fd);font-size:18px;font-weight:800;color:#fff;text-transform:uppercase;letter-spacing:.04em;margin-bottom:4px}
+.sb-bet-b{font-family:var(--fd);font-size:34px;font-weight:800;color:var(--gold);line-height:1;margin-bottom:6px}
+.sb-bet-s{font-family:var(--fu);font-size:12px;color:rgba(255,255,255,.6);margin-bottom:16px;line-height:1.45}
+.sb-bet-cta{display:block;background:var(--gold);color:#111;font-family:var(--fd);font-size:15px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;padding:12px;border-radius:3px;margin-bottom:10px;transition:background .15s}
+.sb-bet:hover .sb-bet-cta{background:#f0c030}
+.sb-bet-d{font-family:var(--fu);font-size:9px;color:rgba(255,255,255,.3);line-height:1.4}
+
+/* AD */
+.adbox{background:var(--off2);border:1px dashed var(--bdr);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;margin-bottom:20px}
+.adbox-l{font-family:var(--fu);font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--txt4)}
+
+/* FOOTER */
+footer{background:var(--txt);color:rgba(255,255,255,.65);margin-top:48px;border-top:4px solid var(--red)}
+.f-flag{height:5px;display:flex}
+.f-flag div:nth-child(1){flex:1;background:var(--red)}
+.f-flag div:nth-child(2){flex:1;background:#fff}
+.f-flag div:nth-child(3){flex:1;background:var(--blue)}
+.fi{max-width:1280px;margin:0 auto;padding:40px 20px 20px}
+.fg{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:36px;margin-bottom:32px}
+.f-logo{margin-bottom:12px;display:flex;align-items:center;gap:10px}
+.f-lt{font-family:var(--fd);font-size:22px;font-weight:800;background:linear-gradient(90deg,var(--red) 0%,var(--red) 40%,#aac4ff 60%,#aac4ff 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.f-blrb{font-family:var(--fu);font-size:13px;color:rgba(255,255,255,.4);line-height:1.65}
+.f-ct{font-family:var(--fd);font-size:12px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.3);margin-bottom:12px}
+.fl{list-style:none}
+.fl li{margin-bottom:7px}
+.fl a{font-family:var(--fu);font-size:13px;color:rgba(255,255,255,.5);transition:color .15s}
+.fl a:hover{color:#fff}
+.fb{border-top:1px solid rgba(255,255,255,.08);padding-top:18px;display:flex;justify-content:space-between;font-family:var(--fu);font-size:11px;color:rgba(255,255,255,.25)}
+.f-bd{font-family:var(--fu);font-size:10px;color:rgba(255,255,255,.18);text-align:center;margin-top:10px;line-height:1.5}
+
+/* FADE IN */
+.fi-anim{opacity:0;transform:translateY(12px);animation:fiad .5s ease forwards}
+.fi-anim:nth-child(1){animation-delay:.05s}
+.fi-anim:nth-child(2){animation-delay:.12s}
+.fi-anim:nth-child(3){animation-delay:.19s}
+.fi-anim:nth-child(4){animation-delay:.26s}
+@keyframes fiad{to{opacity:1;transform:translateY(0)}}
+
+@media(max-width:960px){
+  .hero-in{grid-template-columns:1fr}
+  .hero-side{flex-direction:row}
+  .page{grid-template-columns:1fr}
+  .ng{grid-template-columns:1fr}
+  .vg{grid-template-columns:1fr 1fr}
+  .fg{grid-template-columns:1fr 1fr}
+  nav{display:none}
+}
+@media(max-width:600px){
+  .hero-ttl{font-size:26px}
+  .or{grid-template-columns:1fr}
+  .vg{grid-template-columns:1fr}
+  .fg{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+
+<!-- TOPBAR -->
+<div class="topbar">
+  <div class="tbi">
+    <div class="tbl">
+      <a href="#">Суперлига</a><a href="#">Репрезентација</a><a href="#">Европа</a><a href="#">Трансфери</a><a href="#">Видео</a>
+    </div>
+    <div class="tbr">17. март 2026 · Уторак</div>
+  </div>
+</div>
+
+<!-- HEADER -->
+<header>
+  <div class="hi">
+    <a href="#" class="logo">
+      <!-- FINAL LOGO BALL — Serbian tricolor, dynamic angle, correct pentagon geometry -->
+      <svg class="logo-ball" viewBox="-1 -1 202 202" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <clipPath id="lbc"><circle cx="100" cy="100" r="99"/></clipPath>
+          <radialGradient id="lbg" cx="33%" cy="27%" r="66%">
+            <stop offset="0%" stop-color="#fff"/>
+            <stop offset="100%" stop-color="#bfc6d0"/>
+          </radialGradient>
+          <radialGradient id="lrs" cx="50%" cy="50%" r="50%">
+            <stop offset="55%" stop-color="rgba(0,0,0,0)"/>
+            <stop offset="100%" stop-color="rgba(0,0,0,0.22)"/>
+          </radialGradient>
+        </defs>
+        <!-- Ball base -->
+        <circle cx="100" cy="100" r="99" fill="url(#lbg)"/>
+        <!-- Serbian tricolor: RED · BLUE · WHITE -->
+        <g clip-path="url(#lbc)">
+          <rect x="1" y="1"   width="198" height="66" fill="#CC0000"/>
+          <rect x="1" y="67"  width="198" height="66" fill="#003F8A"/>
+          <rect x="1" y="133" width="198" height="67" fill="#e4e7ef"/>
+        </g>
+        <!-- CENTER pentagon: cx=100,cy=92, r=35, rotated 22° -->
+        <polygon clip-path="url(#lbc)"
+          points="113,60 135,94 108,126 70,111 73,70"
+          fill="rgba(255,255,255,0.32)" stroke="white" stroke-width="3.5" stroke-linejoin="round"/>
+        <!-- OUTER 5 — centers at dist=96, clipped at edge -->
+        <polygon clip-path="url(#lbc)" points="168,16  134,37  103,11  118,-26 158,-23" fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="3.5" stroke-linejoin="round"/>
+        <polygon clip-path="url(#lbc)" points="194,133 163,107 178,70  218,73  228,112" fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="3.5" stroke-linejoin="round"/>
+        <polygon clip-path="url(#lbc)" points="90,193  105,156 145,159 155,198 121,219" fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="3.5" stroke-linejoin="round"/>
+        <polygon clip-path="url(#lbc)" points="1,114   41,117  51,156  17,177  -14,151" fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="3.5" stroke-linejoin="round"/>
+        <polygon clip-path="url(#lbc)" points="49,4    59,43   25,64   -6,38   9,1"    fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="3.5" stroke-linejoin="round"/>
+        <!-- Rim shading + highlight -->
+        <circle cx="100" cy="100" r="99" fill="url(#lrs)"/>
+        <ellipse cx="60" cy="44" rx="28" ry="19" fill="white" opacity="0.50" transform="rotate(-30 60 44)"/>
+        <ellipse cx="55" cy="39" rx="13" ry="9"  fill="white" opacity="0.62" transform="rotate(-30 55 39)"/>
+        <!-- Border -->
+        <circle cx="100" cy="100" r="99" fill="none" stroke="#a4adb8" stroke-width="1.5"/>
+      </svg>
+
+      <div class="logo-wm">
+        <div class="logo-l1">СРПСКИ ФУДБАЛ</div>
+        <div class="logo-l2">Вести · Резултати · Табела · Прогнозе</div>
+      </div>
+    </a>
+
+    <nav>
+      <a href="#vesti" class="active">Вести</a>
+      <a href="#superliga">Суперлига</a>
+      <a href="#reprezentacija">Репрезентација</a>
+      <a href="#rezultati">Резултати</a>
+      <a href="#prognoze">Прогнозе</a>
+      <a href="#video">Видео</a>
+      <a href="#prognoze" class="nav-cta">⚡ ПРОГНОЗЕ →</a>
+    </nav>
+  </div>
+</header>
+
+<!-- TICKER -->
+<div class="ticker">
+  <div class="tk-lbl">🔴 УЖИВО</div>
+  <div class="tk-scroll">
+    <div class="tk-track">
+      <span>Влахович постигао 18. гол у Серији А — нови лични рекорд</span>
+      <span>Партизан – Звезда: Вечити дерби у недељу 23. марта у 18:00</span>
+      <span>Тадић: "Финалне преговоре водим са три клуба"</span>
+      <span>АЕК Атина – ЦЗ Звезда 1:2 (Европска лига)</span>
+      <span>Пикси позвао Митровића и Тадића у репрезентацију</span>
+      <span>Чукарички – Нови Пазар тренутно 1:1 (68')</span>
+      <span>Влахович: Играч месеца у Серији А — март 2026</span>
+      <span>Влахович постигао 18. гол у Серији А — нови лични рекорд</span>
+      <span>Партизан – Звезда: Вечити дерби у недељу 23. марта у 18:00</span>
+      <span>Тадић: "Финалне преговоре водим са три клуба"</span>
+      <span>АЕК Атина – ЦЗ Звезда 1:2 (Европска лига)</span>
+      <span>Пикси позвао Митровића и Тадића у репрезентацију</span>
+      <span>Чукарички – Нови Пазар тренутно 1:1 (68')</span>
+      <span>Влахович: Играч месеца у Серији А — март 2026</span>
+    </div>
+  </div>
+</div>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-in">
+    <div class="hero-main">
+      <svg class="hero-bg" viewBox="0 0 760 400" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <radialGradient id="hbg" cx="40%" cy="60%" r="70%"><stop offset="0%" stop-color="#001f5a"/><stop offset="100%" stop-color="#000b24"/></radialGradient>
+        </defs>
+        <rect width="760" height="400" fill="url(#hbg)"/>
+        <ellipse cx="380" cy="200" rx="320" ry="180" fill="rgba(0,80,0,.14)"/>
+        <circle cx="380" cy="200" r="60" fill="none" stroke="rgba(255,255,255,.04)" stroke-width="2"/>
+        <line x1="380" y1="30" x2="380" y2="370" stroke="rgba(255,255,255,.04)" stroke-width="2"/>
+        <rect x="0" y="0" width="760" height="8" fill="#CC0000" opacity=".4"/>
+        <rect x="0" y="392" width="760" height="8" fill="#003F8A" opacity=".3"/>
+        <text x="420" y="375" font-family="serif" font-size="380" font-weight="900" fill="rgba(204,0,0,.04)">Ф</text>
+      </svg>
+      <div class="hero-cnt">
+        <div class="hero-tag">🔥 Издвојено</div>
+        <div class="hero-ttl">Влахович блиста: нови рекорд<br>у Серији А — 18 голова</div>
+        <div class="hero-exc">Душан Влахович поставио је нови лични рекорд са 18 голова у сезони. Јувентус верује да Душа може донети Скудето Торину ове сезоне.</div>
+        <div class="hero-meta">17. март 2026 · Серија А · <span style="color:rgba(255,255,255,.7)">▶ Прочитај</span></div>
+      </div>
+    </div>
+
+    <div class="hero-side">
+      <div class="hs-item">
+        <svg class="hs-bg" viewBox="0 0 300 134" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+          <rect width="300" height="134" fill="#001436"/>
+          <circle cx="250" cy="67" r="90" fill="rgba(0,63,138,.18)"/>
+          <text x="10" y="118" font-family="serif" font-size="125" font-weight="900" fill="rgba(0,63,138,.1)">З</text>
+        </svg>
+        <div class="hs-cnt"><div class="hs-tag">Суперлига</div><div class="hs-ttl">Звезда +2 бода — Вечити дерби у петак</div></div>
+      </div>
+      <div class="hs-item">
+        <svg class="hs-bg" viewBox="0 0 300 134" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+          <rect width="300" height="134" fill="#1e0008"/>
+          <circle cx="60" cy="67" r="90" fill="rgba(204,0,0,.1)"/>
+          <text x="120" y="118" font-family="serif" font-size="125" font-weight="900" fill="rgba(204,0,0,.09)">С</text>
+        </svg>
+        <div class="hs-cnt"><div class="hs-tag">Репрезентација</div><div class="hs-ttl">Пикси: Тадић и Митровић враћени у тим</div></div>
+      </div>
+      <div class="hs-item">
+        <svg class="hs-bg" viewBox="0 0 300 134" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+          <rect width="300" height="134" fill="#0d1200"/>
+          <circle cx="150" cy="0" r="100" fill="rgba(212,160,23,.07)"/>
+          <text x="125" y="118" font-family="serif" font-size="125" font-weight="900" fill="rgba(212,160,23,.07)">Т</text>
+        </svg>
+        <div class="hs-cnt"><div class="hs-tag">Трансфери</div><div class="hs-ttl">Тадић: Три клуба — одлука до краја марта</div></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- PAGE -->
+<div class="page">
+<div>
+
+  <!-- AD leaderboard -->
+  <div class="adbox" style="height:90px;margin-bottom:24px;">
+    <div class="adbox-l">Google AdSense — 728×90 Leaderboard</div>
+    <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXX" crossorigin="anonymous"></script> -->
+  </div>
+
+  <!-- NEWS -->
+  <div id="vesti">
+    <div class="sh"><div class="sh-bar"></div><h2 class="sh-ttl">Најновије вести</h2><a href="#" class="sh-more">Све вести →</a></div>
+    <div class="ng">
+      <div class="nc fi-anim">
+        <div class="nc-img"><svg viewBox="0 0 360 150" xmlns="http://www.w3.org/2000/svg"><rect width="360" height="150" fill="#e8f0fb"/><circle cx="300" cy="75" r="100" fill="rgba(0,63,138,.09)"/><text x="15" y="125" font-family="serif" font-size="128" font-weight="900" fill="rgba(0,63,138,.07)">П</text><text x="14" y="26" font-family="sans-serif" font-size="9" fill="rgba(0,63,138,.28)" letter-spacing="3">ПАРТИЗАН</text></svg></div>
+        <div class="nc-body">
+          <div class="nc-cat">Суперлига</div>
+          <div class="nc-ttl">Партизан: Нови нападач стиже пред крај сезоне</div>
+          <div class="nc-blrb">Управа Партизана у финалној фази преговора са бразилским крилним играчем из Порта.</div>
+          <div class="nc-meta"><span>17. мар 2026</span><span>4 мин</span></div>
+        </div>
+      </div>
+      <div class="nc fi-anim">
+        <div class="nc-img"><svg viewBox="0 0 360 150" xmlns="http://www.w3.org/2000/svg"><rect width="360" height="150" fill="#fff0f0"/><circle cx="60" cy="75" r="100" fill="rgba(204,0,0,.07)"/><text x="168" y="125" font-family="serif" font-size="128" font-weight="900" fill="rgba(204,0,0,.06)">М</text></svg></div>
+        <div class="nc-body">
+          <div class="nc-cat">Серија А</div>
+          <div class="nc-ttl">МСС: Три одбрањена пенала у четири меча — рекорд</div>
+          <div class="nc-blrb">Вратар Торина у неверојатној форми, Торино чврсто гледа у Европу.</div>
+          <div class="nc-meta"><span>17. мар 2026</span><span>3 мин</span></div>
+        </div>
+      </div>
+      <div class="nc fi-anim">
+        <div class="nc-img"><svg viewBox="0 0 360 150" xmlns="http://www.w3.org/2000/svg"><rect width="360" height="150" fill="#f0f7f0"/><circle cx="180" cy="0" r="130" fill="rgba(22,163,74,.05)"/><text x="90" y="125" font-family="serif" font-size="128" font-weight="900" fill="rgba(22,163,74,.06)">Р</text></svg></div>
+        <div class="nc-body">
+          <div class="nc-cat bl">Репрезентација</div>
+          <div class="nc-ttl">Србија – Француска: Велики тест у јуну пред СП квалификације</div>
+          <div class="nc-blrb">ФСС потврдио пријатељску утакмицу против Француске у Паризу.</div>
+          <div class="nc-meta"><span>16. мар 2026</span><span>2 мин</span></div>
+        </div>
+      </div>
+      <div class="nc fi-anim">
+        <div class="nc-img"><svg viewBox="0 0 360 150" xmlns="http://www.w3.org/2000/svg"><rect width="360" height="150" fill="#fffbf0"/><circle cx="360" cy="150" r="130" fill="rgba(212,160,23,.06)"/><text x="28" y="125" font-family="serif" font-size="128" font-weight="900" fill="rgba(212,160,23,.07)">В</text></svg></div>
+        <div class="nc-body">
+          <div class="nc-cat">Серија А</div>
+          <div class="nc-ttl">Влахович: "Желим Скудето — Јувентус је мој клуб"</div>
+          <div class="nc-blrb">Најскупљи Србин у ексклузивном интервјуу о животу у Торину.</div>
+          <div class="nc-meta"><span>15. мар 2026</span><span>5 мин</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MID AD -->
+  <div class="adbox" style="height:90px;margin-bottom:24px;">
+    <div class="adbox-l">Google AdSense — 728×90</div>
+  </div>
+
+  <!-- BETTING AFFILIATE -->
+  <div id="prognoze" class="bet-sec">
+    <div class="bet-hd">
+      <span style="font-size:20px">⚡</span>
+      <span class="bet-hd-t">Спортске Прогнозе — Данашње Утакмице</span>
+      <span class="bet-hd-s">18+  ·  Игра одговорно</span>
+    </div>
+    <div class="bet-body">
+
+      <!-- LIVE MATCH ODDS -->
+      <div class="mo">
+        <div class="mo-ttl">Суперлига · Чукарички vs Нови Пазар <span class="bdg" id="live-bdg">УЖИВО 68'</span></div>
+        <div class="or">
+          <div class="ob" onclick="selOdd(this)"><div class="ob-lbl">Победа 1</div><div class="ob-tm">Чукарички</div><div class="ob-n">1.85</div></div>
+          <div class="ob" onclick="selOdd(this)"><div class="ob-lbl">Нерешено</div><div class="ob-tm">X</div><div class="ob-n">3.20</div></div>
+          <div class="ob" onclick="selOdd(this)"><div class="ob-lbl">Победа 2</div><div class="ob-tm">Нови Пазар</div><div class="ob-n">4.10</div></div>
+        </div>
+      </div>
+
+      <!-- DERBY ODDS -->
+      <div class="mo">
+        <div class="mo-ttl">Суперлига · Партизан vs ЦЗ Звезда — 23. март 18:00</div>
+        <div class="or">
+          <div class="ob" onclick="selOdd(this)"><div class="ob-lbl">Победа 1</div><div class="ob-tm">Партизан</div><div class="ob-n">2.65</div></div>
+          <div class="ob" onclick="selOdd(this)"><div class="ob-lbl">Нерешено</div><div class="ob-tm">X</div><div class="ob-n">3.05</div></div>
+          <div class="ob" onclick="selOdd(this)"><div class="ob-lbl">Победа 2</div><div class="ob-tm">ЦЗ Звезда</div><div class="ob-n">2.40</div></div>
+        </div>
+      </div>
+
+      <!-- BOOKMAKERS -->
+      <div style="margin:16px 0 10px;font-family:var(--fd);font-size:13px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:var(--txt3)">Топ Кладионице Србије</div>
+
+      <div class="bkr">
+        <div class="bkr-logo" style="background:#ff6600;color:#fff;letter-spacing:.02em">МОЗАН</div>
+        <div class="bkr-info"><div class="bkr-nm">Мозан Спорт</div><div class="bkr-bon">🎁 100% бонус до 5.000 РСД за нове играче</div></div>
+        <div class="bkr-btn">Играј →</div>
+      </div>
+      <div class="bkr">
+        <div class="bkr-logo" style="background:#001e6e;color:#fff;font-size:11px">МЕРИДИАН</div>
+        <div class="bkr-info"><div class="bkr-nm">Меридијан Бет</div><div class="bkr-bon">🎁 Добродошли бонус 3.000 РСД</div></div>
+        <div class="bkr-btn">Играј →</div>
+      </div>
+      <div class="bkr">
+        <div class="bkr-logo" style="background:#e30613;color:#fff">ADMIRAL</div>
+        <div class="bkr-info"><div class="bkr-nm">Адмирал Бет</div><div class="bkr-bon">🎁 Фри бет 1.500 РСД без ризика</div></div>
+        <div class="bkr-btn">Играј →</div>
+      </div>
+      <div class="bkr">
+        <div class="bkr-logo" style="background:#00a651;color:#fff">BET365</div>
+        <div class="bkr-info"><div class="bkr-nm">Bet365 Србија</div><div class="bkr-bon">🎁 До €50 бонуса за нове играче</div></div>
+        <div class="bkr-btn">Играј →</div>
+      </div>
+
+      <div class="bet-disc">⚠ Рекламни садржај · 18+ · Играч одговорно · <a href="#" style="color:var(--blue)">igrajodgovorno.rs</a> · Партнерски линкови генеришу провизију</div>
+    </div>
+  </div>
+
+  <!-- RESULTS -->
+  <div id="rezultati">
+    <div class="sh"><div class="sh-bar"></div><h2 class="sh-ttl">Резултати — Суперлига</h2><a href="#" class="sh-more">Сви →</a></div>
+    <div class="res-wrap">
+      <div class="res-head"><span class="res-head-t">Суперлига Србије — Коло 24</span><a href="#">Пун распоред</a></div>
+      <div class="rr"><div class="rr-t">ФК Партизан</div><div class="rr-sc"><div class="rr-n">2 – 1</div><div class="rr-s">15. март · ПУН ТИМЕ</div></div><div class="rr-t r">ФК Войводина</div></div>
+      <div class="rr"><div class="rr-t">ФК Радник</div><div class="rr-sc"><div class="rr-n">0 – 3</div><div class="rr-s">14. март · ПУН ТИМЕ</div></div><div class="rr-t r">ЦЗ Звезда</div></div>
+      <div class="rr" style="background:#fff8f8"><div class="rr-t" style="display:flex;align-items:center;gap:8px"><span class="live-b" id="live-sc">УЖИВО 68'</span>Чукарички</div><div class="rr-sc"><div class="rr-n" style="color:var(--red)">1 – 1</div><div class="rr-s">ТРЕНУТНО</div></div><div class="rr-t r">Нови Пазар</div></div>
+      <div class="rr"><div class="rr-t">ФК Напредак</div><div class="rr-sc"><div class="rr-n">1 – 2</div><div class="rr-s">13. март · ПУН ТИМЕ</div></div><div class="rr-t r">ФК Спартак</div></div>
+    </div>
+  </div>
+
+  <!-- STANDINGS -->
+  <div id="superliga" style="margin-top:28px">
+    <div class="sh"><div class="sh-bar"></div><h2 class="sh-ttl">Табела Суперлиге 2025/26</h2><a href="#" class="sh-more">Пуна →</a></div>
+    <div class="stnd">
+      <table class="tbl">
+        <thead><tr><th>#</th><th>Клуб</th><th>У</th><th>П</th><th>Н</th><th>И</th><th>+/-</th><th>ГО</th><th>Фор.</th><th>БОД</th></tr></thead>
+        <tbody>
+          <tr class="zch"><td>1</td><td>ЦЗ Звезда</td><td>24</td><td>17</td><td>5</td><td>2</td><td>+34</td><td>56–22</td><td><div class="fr"><div class="fd w"></div><div class="fd w"></div><div class="fd w"></div><div class="fd d"></div><div class="fd w"></div></div></td><td class="pts">56</td></tr>
+          <tr class="zch"><td>2</td><td>ФК Партизан</td><td>24</td><td>16</td><td>6</td><td>2</td><td>+28</td><td>48–20</td><td><div class="fr"><div class="fd w"></div><div class="fd d"></div><div class="fd w"></div><div class="fd w"></div><div class="fd l"></div></div></td><td class="pts">54</td></tr>
+          <tr class="zeu"><td>3</td><td>ФК Войводина</td><td>24</td><td>12</td><td>4</td><td>8</td><td>+10</td><td>38–28</td><td><div class="fr"><div class="fd w"></div><div class="fd l"></div><div class="fd d"></div><div class="fd w"></div><div class="fd d"></div></div></td><td class="pts">40</td></tr>
+          <tr class="zeu"><td>4</td><td>ФК Чукарички</td><td>24</td><td>10</td><td>6</td><td>8</td><td>+6</td><td>34–28</td><td><div class="fr"><div class="fd d"></div><div class="fd d"></div><div class="fd w"></div><div class="fd l"></div><div class="fd w"></div></div></td><td class="pts">36</td></tr>
+          <tr><td>5</td><td>ФК Спартак</td><td>24</td><td>9</td><td>5</td><td>10</td><td>+2</td><td>30–28</td><td><div class="fr"><div class="fd l"></div><div class="fd w"></div><div class="fd w"></div><div class="fd d"></div><div class="fd l"></div></div></td><td class="pts">32</td></tr>
+          <tr><td>6</td><td>ФК Напредак</td><td>24</td><td>8</td><td>5</td><td>11</td><td>-4</td><td>26–30</td><td><div class="fr"><div class="fd d"></div><div class="fd l"></div><div class="fd l"></div><div class="fd w"></div><div class="fd d"></div></div></td><td class="pts">29</td></tr>
+          <tr><td>7</td><td>ФК Радник</td><td>24</td><td>7</td><td>5</td><td>12</td><td>-8</td><td>22–30</td><td><div class="fr"><div class="fd w"></div><div class="fd l"></div><div class="fd d"></div><div class="fd l"></div><div class="fd l"></div></div></td><td class="pts">26</td></tr>
+          <tr class="zrl"><td>8</td><td>ФК Нови Пазар</td><td>24</td><td>4</td><td>4</td><td>16</td><td>-18</td><td>18–36</td><td><div class="fr"><div class="fd l"></div><div class="fd l"></div><div class="fd d"></div><div class="fd l"></div><div class="fd l"></div></div></td><td class="pts">16</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div style="display:flex;gap:20px;font-family:var(--fu);font-size:11px;color:var(--txt3);margin-top:8px;flex-wrap:wrap">
+      <span><span style="display:inline-block;width:10px;height:10px;background:var(--gold);border-radius:50%;margin-right:5px;vertical-align:middle"></span>Шампионска лига</span>
+      <span><span style="display:inline-block;width:10px;height:10px;background:var(--blue);border-radius:50%;margin-right:5px;vertical-align:middle"></span>Европска лига</span>
+      <span><span style="display:inline-block;width:10px;height:10px;background:var(--red);border-radius:50%;margin-right:5px;vertical-align:middle"></span>Испадање</span>
+    </div>
+  </div>
+
+  <!-- VIDEO -->
+  <div id="video" style="margin-top:28px">
+    <div class="sh"><div class="sh-bar"></div><h2 class="sh-ttl">Видео</h2><a href="#" class="sh-more">Сви →</a></div>
+    <div class="vg">
+      <div class="vc">
+        <div class="vc-th"><svg viewBox="0 0 300 170" xmlns="http://www.w3.org/2000/svg"><rect width="300" height="170" fill="#e8f0fb"/><text x="55" y="148" font-family="serif" font-size="148" font-weight="900" fill="rgba(0,63,138,.07)">В</text><text x="12" y="22" font-family="sans-serif" font-size="9" fill="rgba(0,63,138,.28)" letter-spacing="2">ВЛАХОВИЧ</text></svg><div class="vc-play"><svg width="14" height="14" viewBox="0 0 14 14"><polygon points="3,1 13,7 3,13" fill="white"/></svg></div></div>
+        <div class="vc-body"><div class="vc-ttl">Влахович: Хет-трик против Интера</div><div class="vc-meta">2,4М прегледа · 3 дана</div></div>
+      </div>
+      <div class="vc">
+        <div class="vc-th"><svg viewBox="0 0 300 170" xmlns="http://www.w3.org/2000/svg"><rect width="300" height="170" fill="#fff0f0"/><circle cx="250" cy="140" r="120" fill="rgba(204,0,0,.05)"/><text x="38" y="148" font-family="serif" font-size="148" font-weight="900" fill="rgba(204,0,0,.06)">Т</text></svg><div class="vc-play"><svg width="14" height="14" viewBox="0 0 14 14"><polygon points="3,1 13,7 3,13" fill="white"/></svg></div></div>
+        <div class="vc-body"><div class="vc-ttl">Тадић: Слободан ударац у 93. минуту</div><div class="vc-meta">1,1М прегледа · 5 дана</div></div>
+      </div>
+      <div class="vc">
+        <div class="vc-th"><svg viewBox="0 0 300 170" xmlns="http://www.w3.org/2000/svg"><rect width="300" height="170" fill="#f0f7f0"/><circle cx="150" cy="85" r="110" fill="rgba(22,163,74,.04)"/><text x="8" y="148" font-family="serif" font-size="148" font-weight="900" fill="rgba(22,163,74,.06)">С</text></svg><div class="vc-play"><svg width="14" height="14" viewBox="0 0 14 14"><polygon points="3,1 13,7 3,13" fill="white"/></svg></div></div>
+        <div class="vc-body"><div class="vc-ttl">Репрезентација: Тренинг пред Словенију</div><div class="vc-meta">820К прегледа · 1 дан</div></div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /main -->
+
+<!-- SIDEBAR -->
+<div>
+
+  <!-- NEXT MATCH -->
+  <div class="widget">
+    <div class="wh">⚽ Следећа утакмица</div>
+    <div class="wb">
+      <div class="nm-t">
+        <div class="nm-tm" style="color:var(--red)">Србија</div>
+        <div class="nm-vs">vs</div>
+        <div class="nm-tm" style="color:var(--blue)">Словенија</div>
+      </div>
+      <div class="nm-i">22. март 2026 · 20:45 · Рајко Митић</div>
+      <div class="cdown">
+        <div class="cu"><span class="cu-n" id="cd-d">05</span><span class="cu-l">Дана</span></div>
+        <div class="cu"><span class="cu-n" id="cd-h">14</span><span class="cu-l">Сати</span></div>
+        <div class="cu"><span class="cu-n" id="cd-m">22</span><span class="cu-l">Мин</span></div>
+        <div class="cu"><span class="cu-n" id="cd-s">00</span><span class="cu-l">Сек</span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SIDEBAR BET PROMO -->
+  <div class="sb-bet">
+    <div class="sb-bet-in">
+      <div class="sb-flag"><div></div><div></div><div></div></div>
+      <div class="sb-bet-h">Бонус за нове играче</div>
+      <div class="sb-bet-b">5.000 РСД</div>
+      <div class="sb-bet-s">Региструј се на Мозан Спорт и добиј 100% бонус на прво клађење на утакмице Суперлиге!</div>
+      <a href="#prognoze" class="sb-bet-cta">Погледај прогнозу →</a>
+      <div class="sb-bet-d">18+ · Услови важе · igrajodgovorno.rs</div>
+    </div>
+  </div>
+
+  <!-- AD -->
+  <div class="adbox" style="height:250px;">
+    <div class="adbox-l">Google AdSense</div>
+    <div class="adbox-l">300×250</div>
+  </div>
+
+  <!-- TOP SCORERS -->
+  <div class="widget">
+    <div class="wh">🥇 Стрелци Суперлиге</div>
+    <div class="wb">
+      <div class="sc-row"><div class="sc-rk g">1</div><div class="sc-av"><svg width="34" height="34" viewBox="0 0 34 34"><circle cx="17" cy="17" r="17" fill="#fff0f0"/><text x="17" y="22" font-size="15" font-family="serif" font-weight="900" fill="#CC0000" text-anchor="middle">М</text></svg></div><div class="sc-inf"><div class="sc-nm">Максимовић</div><div class="sc-cl">ЦЗ Звезда</div></div><div class="sc-gl">14</div></div>
+      <div class="sc-row"><div class="sc-rk g">2</div><div class="sc-av"><svg width="34" height="34" viewBox="0 0 34 34"><circle cx="17" cy="17" r="17" fill="#e8f0fb"/><text x="17" y="22" font-size="15" font-family="serif" font-weight="900" fill="#003F8A" text-anchor="middle">Л</text></svg></div><div class="sc-inf"><div class="sc-nm">Лукић</div><div class="sc-cl">ФК Партизан</div></div><div class="sc-gl">11</div></div>
+      <div class="sc-row"><div class="sc-rk">3</div><div class="sc-av"><svg width="34" height="34" viewBox="0 0 34 34"><circle cx="17" cy="17" r="17" fill="#f4f5f7"/><text x="17" y="22" font-size="15" font-family="serif" font-weight="900" fill="#6b7280" text-anchor="middle">Ј</text></svg></div><div class="sc-inf"><div class="sc-nm">Јовановић</div><div class="sc-cl">ФК Чукарички</div></div><div class="sc-gl">9</div></div>
+      <div class="sc-row"><div class="sc-rk">4</div><div class="sc-av"><svg width="34" height="34" viewBox="0 0 34 34"><circle cx="17" cy="17" r="17" fill="#f4f5f7"/><text x="17" y="22" font-size="15" font-family="serif" font-weight="900" fill="#6b7280" text-anchor="middle">Н</text></svg></div><div class="sc-inf"><div class="sc-nm">Николић</div><div class="sc-cl">ФК Войводина</div></div><div class="sc-gl">8</div></div>
+      <div class="sc-row"><div class="sc-rk">5</div><div class="sc-av"><svg width="34" height="34" viewBox="0 0 34 34"><circle cx="17" cy="17" r="17" fill="#f4f5f7"/><text x="17" y="22" font-size="15" font-family="serif" font-weight="900" fill="#6b7280" text-anchor="middle">П</text></svg></div><div class="sc-inf"><div class="sc-nm">Петровић</div><div class="sc-cl">ФК Спартак</div></div><div class="sc-gl">7</div></div>
+    </div>
+  </div>
+
+  <!-- TICKETS -->
+  <div class="widget">
+    <div class="wh">🎟 Купи карте</div>
+    <div class="wb">
+      <div style="font-family:var(--fu);font-size:13px;color:var(--txt2);line-height:1.55;margin-bottom:14px">Куpi карте за Вечити дерби и утакмице репрезентације.</div>
+      <a href="#" style="display:block;background:var(--red);color:#fff;text-align:center;padding:12px;font-family:var(--fd);font-size:15px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;border-radius:3px;transition:background .15s" onmouseover="this.style.background='#990000'" onmouseout="this.style.background='#CC0000'">КУПИ КАРТЕ →</a>
+    </div>
+  </div>
+
+  <!-- AD 2 -->
+  <div class="adbox" style="height:250px;">
+    <div class="adbox-l">Google AdSense</div>
+    <div class="adbox-l">300×250</div>
+  </div>
+
+</div><!-- /sidebar -->
+</div><!-- /page -->
+
+<!-- FOOTER -->
+<footer>
+  <div class="f-flag"><div></div><div></div><div></div></div>
+  <div class="fi">
+    <div class="fg">
+      <div>
+        <div class="f-logo">
+          <svg width="34" height="34" viewBox="0 0 56 56" fill="none"><circle cx="28" cy="28" r="26" fill="white" opacity=".1" stroke="rgba(255,255,255,.2)" stroke-width="1"/><polygon points="28,6 34,14 31,22 25,22 22,14" fill="rgba(255,255,255,.55)"/><polygon points="34,38 42,44 34,51 22,51 14,44" fill="rgba(255,255,255,.55)"/><polygon points="34,14 44,16 46,26 38,31 31,22" fill="rgba(255,255,255,.15)"/><polygon points="14,44 8,36 11,26 19,31 22,38" fill="rgba(255,255,255,.15)"/><polygon points="38,31 46,26 49,36 42,44 34,38" fill="rgba(255,255,255,.15)"/><polygon points="19,31 11,26 12,16 22,14 25,22" fill="rgba(255,255,255,.15)"/></svg>
+          <div class="f-lt">СРПСКИ ФУДБАЛ</div>
+        </div>
+        <div class="f-blrb">Водећи извор вести о српском фудбалу. Суперлига, репрезентација, српски фудбалери широм Европе — све на једном месту.</div>
+      </div>
+      <div><div class="f-ct">Садржај</div><ul class="fl"><li><a href="#">Вести</a></li><li><a href="#">Суперлига</a></li><li><a href="#">Репрезентација</a></li><li><a href="#">Европски клубови</a></li><li><a href="#">Трансфери</a></li></ul></div>
+      <div><div class="f-ct">Клубови</div><ul class="fl"><li><a href="#">ЦЗ Звезда</a></li><li><a href="#">ФК Партизан</a></li><li><a href="#">ФК Войводина</a></li><li><a href="#">ФК Чукарички</a></li><li><a href="#">Сви клубови →</a></li></ul></div>
+      <div><div class="f-ct">Информације</div><ul class="fl"><li><a href="#">О нама</a></li><li><a href="#">Оглашавање</a></li><li><a href="#">Партнерски програм</a></li><li><a href="#">Контакт</a></li><li><a href="#">Политика приватности</a></li></ul></div>
+    </div>
+    <div class="fb"><span>© 2026 srpskifudbal.com · serbianfootball.com</span><span>Сва права задржана</span></div>
+    <div class="f-bd">Прогнозе: 18+ · Игра одговорно · igrajodgovorno.rs · Партнерски линкови на кладионице генеришу провизију за сајт.</div>
+  </div>
+</footer>
+
+<script>
+// Countdown
+function tick(){
+  const t=new Date('2026-03-22T20:45:00')-new Date();
+  if(t<=0)return;
+  document.getElementById('cd-d').textContent=String(Math.floor(t/86400000)).padStart(2,'0');
+  document.getElementById('cd-h').textContent=String(Math.floor(t%86400000/3600000)).padStart(2,'0');
+  document.getElementById('cd-m').textContent=String(Math.floor(t%3600000/60000)).padStart(2,'0');
+  document.getElementById('cd-s').textContent=String(Math.floor(t%60000/1000)).padStart(2,'0');
+}
+tick(); setInterval(tick,1000);
+
+// Odd selection
+function selOdd(el){
+  el.closest('.or').querySelectorAll('.ob').forEach(b=>b.classList.remove('sel'));
+  el.classList.add('sel');
+}
+
+// Live minute
+let lm=68;
+setInterval(()=>{
+  lm++;
+  const t=lm<90?`УЖИВО ${lm}'`:'КРАЈ';
+  const a=document.getElementById('live-sc');
+  const b=document.getElementById('live-bdg');
+  if(a)a.textContent=t;
+  if(b)b.textContent=t;
+},30000);
+
+// Nav active
+window.addEventListener('scroll',()=>{
+  const pos=window.scrollY+130;
+  document.querySelectorAll('nav a').forEach(a=>{
+    const id=a.getAttribute('href').replace('#','');
+    const s=document.getElementById(id);
+    if(s&&pos>=s.offsetTop&&pos<s.offsetTop+s.offsetHeight){
+      document.querySelectorAll('nav a').forEach(x=>x.classList.remove('active'));
+      a.classList.add('active');
+    }
+  });
+});
+</script>
+</body>
+</html>

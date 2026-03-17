@@ -1,0 +1,57 @@
+name: 🇷🇸 Srpski Fudbal — Auto Fetch Vesti
+
+on:
+  schedule:
+    # Svakih 60 minuta, 24/7 — potpuno besplatno na GitHub Actions
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    # Omogući ručno pokretanje iz GitHub UI (dugme "Run workflow")
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # 1. Preuzmi kod
+      - name: Checkout repozitorijuma
+        uses: actions/checkout@v4
+
+      # 2. Postavi Python
+      - name: Postavi Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # 3. Instaliraj zavisnosti (samo feedparser — nema ničeg plaćenog)
+      - name: Instaliraj zavisnosti
+        run: |
+          pip install feedparser
+
+      # 4. Pokreni skriptu
+      - name: Povuci srpske fudbalske vesti
+        run: |
+          python fetch_srpski_fudbal.py
+
+      # 5. Provjeri da li se JSON promenio
+      - name: Provjeri promene
+        id: check_changes
+        run: |
+          git diff --quiet public/data/football.json \
+            && echo "changed=false" >> $GITHUB_OUTPUT \
+            || echo "changed=true" >> $GITHUB_OUTPUT
+
+      # 6. Commit i push samo ako ima novih vesti
+      - name: Commit i push ažurirane vesti
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config user.email "bot@srpskifudbal.com"
+          git config user.name "SrpskiFudbal Bot"
+          git add public/data/football.json
+          git commit -m "🔄 Auto-update vesti — $(date -u '+%d.%m.%Y. %H:%M UTC')"
+          git push
+
+      - name: Nema novih vesti
+        if: steps.check_changes.outputs.changed == 'false'
+        run: echo "ℹ Nema novih vesti od poslednjeg pokretanja"
