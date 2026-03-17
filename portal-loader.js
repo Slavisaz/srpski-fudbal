@@ -4,7 +4,7 @@
  * Bez ikakvih API ključeva — samo čita statički JSON
  */
 
-const DATA_URL = '/data/football.json';
+const DATA_URL = 'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json';
 
 // ── Učitaj sve podatke ──────────────────────────────
 async function ucitajPodatke() {
