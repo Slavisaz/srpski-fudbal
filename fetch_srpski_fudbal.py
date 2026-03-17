@@ -415,7 +415,7 @@ def main():
         }
     }
 
-    # 4. Snimi
+    # 4. Snimi JSON
     izlaz = Path("public/data")
     izlaz.mkdir(parents=True, exist_ok=True)
     izlazni_fajl = izlaz / "football.json"
@@ -425,6 +425,11 @@ def main():
 
     velicina = os.path.getsize(izlazni_fajl) / 1024
     print(f"\n✅ Sačuvano → {izlazni_fajl} ({velicina:.1f} KB)")
+
+    # 5. Ubaci vesti direktno u index.html
+    print("\n📰 Upisujem vesti u index.html...")
+    ubaci_vesti_u_html(vesti, podaci["azurirano_sr"])
+
     print(f"   Vesti: {len(vesti)}")
     print(f"   Prognoza kvota: {prognoza['ukupna_kvota']}x")
     print(f"   Primer dobitka (1000 RSD): {prognoza['dobitak_primer']} RSD")
@@ -433,3 +438,71 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# ═══════════════════════════════════════════════════
+# INJECT VESTI DIREKTNO U index.html
+# ═══════════════════════════════════════════════════
+
+SVG_BOJE = [
+    ("#e8f0fb", "rgba(0,63,138,.07)"),
+    ("#fff0f0", "rgba(204,0,0,.06)"),
+    ("#f0f7f0", "rgba(22,163,74,.06)"),
+    ("#fffbf0", "rgba(212,160,23,.07)"),
+    ("#f0f0fb", "rgba(100,0,200,.05)"),
+    ("#fff5f0", "rgba(204,100,0,.06)"),
+]
+
+SVG_SLOVA = "АБВГДЂЕЖЗИЈКЛЉМНЊОПРСТЋУФХЦЧЏШ"
+
+def napravi_vest_html(vest: dict, index: int) -> str:
+    """Kreira HTML karticu za jednu vest."""
+    boja_bg, boja_tekst = SVG_BOJE[index % len(SVG_BOJE)]
+    slovo = SVG_SLOVA[index % len(SVG_SLOVA)]
+    naslov_esc = vest['naslov'].replace('"', '&quot;').replace('<', '&lt;').replace('>', '&gt;')
+    opis_esc = vest.get('opis', '')[:140].replace('"', '&quot;').replace('<', '&lt;').replace('>', '&gt;')
+
+    return f'''      <div class="nc fi-anim" onclick="window.open('{vest['url']}','_blank')" style="cursor:pointer">
+        <div class="nc-img"><svg viewBox="0 0 360 150" xmlns="http://www.w3.org/2000/svg"><rect width="360" height="150" fill="{boja_bg}"/><text x="30" y="125" font-family="serif" font-size="128" font-weight="900" fill="{boja_tekst}">{slovo}</text><text x="14" y="26" font-family="sans-serif" font-size="9" fill="{boja_tekst.replace('.0', '.4')}" letter-spacing="3">{vest['izvor'].upper()}</text></svg></div>
+        <div class="nc-body">
+          <div class="nc-cat">{vest['izvor']}</div>
+          <div class="nc-ttl">{naslov_esc}</div>
+          <div class="nc-blrb">{opis_esc}...</div>
+          <div class="nc-meta"><span>{vest['datum']}</span><span>Прочитај →</span></div>
+        </div>
+      </div>'''
+
+
+def ubaci_vesti_u_html(vesti: list, azurirano: str):
+    """Upisuje prave vesti između markera u index.html."""
+    html_path = Path("index.html")
+    if not html_path.exists():
+        print("   ✗ index.html nije pronađen")
+        return
+
+    sadrzaj = html_path.read_text(encoding="utf-8")
+
+    # Napravi HTML kartice za prvih 6 vesti
+    kartice = "\n".join(napravi_vest_html(v, i) for i, v in enumerate(vesti[:6]))
+
+    # Zameni između markera
+    import re
+    novi_sadrzaj = re.sub(
+        r'<!-- VESTI_START -->.*?<!-- VESTI_END -->',
+        f'<!-- VESTI_START -->\n{kartice}\n      <!-- VESTI_END -->',
+        sadrzaj,
+        flags=re.DOTALL
+    )
+
+    # Ažuriraj timestamp
+    novi_sadrzaj = re.sub(
+        r'id="poslednje-azuriranje"[^>]*>[^<]*<',
+        f'id="poslednje-azuriranje" style="font-family:var(--fu);font-size:11px;color:var(--txt4);margin-left:10px">Ажурирано: {azurirano}<',
+        novi_sadrzaj
+    )
+
+    html_path.write_text(novi_sadrzaj, encoding="utf-8")
+    print(f"   ✓ index.html ažuriran sa {min(len(vesti), 6)} vesti")
+
+
+# Pozovi na kraju main() funkcije — dodaj pre print("\n🏁 Završeno!")
