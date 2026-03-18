@@ -91,54 +91,62 @@ def ispravi_tekst(tekst: str) -> str:
 
 
 # ═══════════════════════════════════════════════════
-# RSS FEEDOVI — srpski sportski portali
+# RSS FEEDOVI — samo srpski ćirilični sportski sajtovi
 # Legalno: koristimo samo naslov, kratki opis i URL
 # ═══════════════════════════════════════════════════
 RSS_FEEDOVI = [
     {
-        "naziv":  "Telegraf Sport",
-        "url":    "https://www.telegraf.rs/sport/fudbal/rss",
-        "backup": "https://www.telegraf.rs/rss",
-        "logo":   "telegraf.rs",
+        "naziv":  "ФСС",
+        "url":    "https://www.fss.rs/sr/rss.html",
+        "backup": "https://www.fss.rs/sr/feed/rss",
+        "logo":   "fss.rs",
     },
     {
-        "naziv":  "Nova.rs Sport",
-        "url":    "https://nova.rs/sport/fudbal/feed/",
-        "backup": "https://nova.rs/feed/",
-        "logo":   "nova.rs",
+        "naziv":  "Политика",
+        "url":    "https://www.politika.rs/rss/rubrika/sport",
+        "backup": "https://www.politika.rs/rss",
+        "logo":   "politika.rs",
     },
     {
-        "naziv":  "Novosti Sport",
+        "naziv":  "Новости",
         "url":    "https://www.novosti.rs/rss/sport.xml",
         "backup": "https://www.novosti.rs/rss/all.xml",
         "logo":   "novosti.rs",
     },
     {
-        "naziv":  "Sportska centrala",
-        "url":    "https://www.sportskacentrala.com/feed/",
-        "backup": None,
-        "logo":   "sportskacentrala.com",
+        "naziv":  "Спортски журнал",
+        "url":    "https://www.sportskizurnal.rs/feed/",
+        "backup": "https://www.sportskizurnal.rs/rss",
+        "logo":   "sportskizurnal.rs",
     },
     {
-        "naziv":  "Meridian Sport",
-        "url":    "https://meridiansport.rs/fudbal/superliga-srbije-domaci-fudbal/feed/",
-        "backup": "https://meridiansport.rs/feed/",
-        "logo":   "meridiansport.rs",
+        "naziv":  "Танјуг",
+        "url":    "https://www.tanjug.rs/rss/sport",
+        "backup": "https://www.tanjug.rs/rss",
+        "logo":   "tanjug.rs",
     },
 ]
 
 # Ključne reči za filtriranje srpskog fudbala
 KLJUCNE_RECI = [
-    "zvezda", "partizan", "vojvodina", "čukarički", "cukarički",
-    "superliga", "srbija", "srbija", "репрезентација", "reprezentacija",
-    "влаховић", "vlahović", "тадић", "tadić", "митровић", "mitrović",
-    "милинковић", "milinković", "јовић", "jović", "хумска", "humska",
-    "маракана", "marakana", "suперлига", "superliga srbije",
-    "fss", "фсс", "superliga",
+    # Ćirilica
+    "фудбал", "суперлига", "партизан", "звезда", "войводина",
+    "чукарички", "репрезентација", "влаховић", "тадић", "митровић",
+    "милинковић", "јовић", "маракана", "хумска", "фсс", "срби",
+    "србија", "утакмица", "гол", "лига", "куп", "трансфер",
+    # Latinica (neki sajtovi mešaju)
+    "fudbal", "superliga", "partizan", "zvezda", "vojvodina",
+    "cukaricki", "reprezentacija", "vlahovic", "tadic", "mitrovic",
+    "milinković", "jovic", "marakana", "humska", "fss",
+    "srbija", "utakmica", "gol", "liga", "kup", "transfer",
 ]
 
-def sadrzi_srpski_fudbal(tekst: str) -> bool:
-    """Proverava da li vest govori o srpskom fudbalu."""
+def sadrzi_srpski_fudbal(tekst: str, naziv_izvora: str = "") -> bool:
+    """Proverava da li vest govori o srpskom fudbalu.
+    FSS uvek relevantan. Ostali filtriraju po ključnim rečima."""
+    # FSS je uvek o srpskom fudbalu
+    if "fss" in naziv_izvora.lower():
+        return True
     tekst_lower = tekst.lower()
     return any(rec in tekst_lower for rec in KLJUCNE_RECI)
 
@@ -199,7 +207,7 @@ def povuci_vesti() -> list:
                 opis   = ocisti_html(getattr(entry, 'summary', ''))[:300]
 
                 # Filtriraj samo srpski fudbal
-                if not sadrzi_srpski_fudbal(naslov + " " + opis):
+                if not sadrzi_srpski_fudbal(naslov + " " + opis, feed_info["naziv"]):
                     continue
 
                 # Ispravi prezimena
