@@ -1,33 +1,33 @@
 {
-  "azurirano": "2026-03-18T11:35:17.367722+00:00",
-  "azurirano_sr": "18. 03. 2026. у 11:35",
+  "azurirano": "2026-03-18T17:33:58.449186+00:00",
+  "azurirano_sr": "18. 03. 2026. у 17:33",
   "vesti": [
     {
       "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/238373/arbeloa-zasluga-pripada-svim-igracima-gvardiola-imamo-svetlu-buducnost/vest",
+      "url": "https://www.tanjug.rs/sport/fudbal/238579/italijanski-strucnjak-marko-dampaolo-imenovan-za-trenera-kremonezea/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "18. 03. 2026. 11:35",
+      "datum": "18. 03. 2026. 17:33",
       "slika": null
     },
     {
-      "naslov": "Жарић Ковачевић: Експо 2027 је снажан подстицај развоју женског предузетништва",
-      "opis": "Ова изложба биће права ствар у право време да Србија покаже шта има, рекла је министарка",
-      "url": "https://www.politika.rs/scc/clanak/739933/zaric-kovacevic-ekspo-2027-je-snazan-podsticaj-razvoju-zenskog-preduzetnistva",
-      "izvor": "Политика",
-      "logo": "politika.rs",
-      "datum": "18. 03. 2026. 11:31",
-      "slika": "https://www.politika.rs/thumbs/upload/Article/Image/2026_03//160z120_T.jpg"
+      "naslov": "АНАЛИЗА ВАР СИТУАЦИЈА | 27. КОЛО МОЗЗАРТ БЕТ СУПЕР ЛИГЕ СРБИЈЕ",
+      "opis": "Нови Пазар – Чукарички Ситуација број 1: 36’ Судијина одлука на терену: директан слободан ударац без дисциплинске мере ВАР: препоручио ОФР – преглед снимка Судијина одлука након ОФР: црвени картон...",
+      "url": "https://fss.rs/analiza-var-situacija-27-kolo-mozzart-bet-super-lige-srbije/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "18. 03. 2026. 15:18",
+      "slika": null
     },
     {
-      "naslov": "Потрошња кокаина и кетамина у порасту",
-      "opis": "Анализа је обухватила укупно 72 милиона људи",
-      "url": "https://www.politika.rs/scc/clanak/739929/potrosnja-kokaina-i-ketamina-u-porastu",
-      "izvor": "Политика",
-      "logo": "politika.rs",
-      "datum": "18. 03. 2026. 11:22",
-      "slika": "https://www.politika.rs/thumbs/upload/Article/Image/2026_03//160z120_13784783--1-.jpg"
+      "naslov": "ЈАСМИНА МИЦКОСКА СУДИ ФУТСАЛ ТУРНИР У ТРОНДХАЈМУ",
+      "opis": "Јасмина Мицкоска, међународни футсал судија за жене, суди турнир у Трондхајму (Норвешка) од 18. до 21. марта, квалификације за Првенство Европе 2027. Турнир се одржава у оквиру главне рунде, група...",
+      "url": "https://fss.rs/jasmina-mickoska-sudi-futsal-turnir-u-trondhajmu/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "18. 03. 2026. 14:01",
+      "slika": null
     },
     {
       "naslov": "АКРЕДИТОВАЊЕ МЕДИЈА | ДРУГИ КРУГ КВАЛИФИКАЦИЈА ЗА У-17 ЕВРОПСКО ПРВЕНСТВО: УТАКМИЦЕ БЕЛГИЈА - ШВАЈЦАРСКА, КИПАР - ШВАЈЦАРСКА И КИПАР - БЕЛГИЈА У БЕОГРАДУ",
@@ -100,79 +100,8 @@
       "logo": "fss.rs",
       "datum": "17. 03. 2026. 11:24",
       "slika": null
-    },
-    {
-      "naslov": "ПОЗНАТЕ ЛОКАЦИЈЕ МАРТОВСКИХ ПРИЈАТЕЉСКИХ УТАКМИЦА РЕПРЕЗЕНТАЦИЈЕ СРБИЈЕ",
-      "opis": "Фудбалска репрезентација Србије одиграће у марту две пријатељске утакмице, а сада су познате и локације на којима ће „орлови“ изаћи на терен. Први меч против селекције Шпаније игра се 27....",
-      "url": "https://fss.rs/poznate-lokacije-martovskih-prijateljskih-utakmica-reprezentacije-srbije/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "16. 03. 2026. 14:52",
-      "slika": null
-    },
-    {
-      "naslov": "W ФУТСАЛ \"А\" | ГЛАВНА РУНДА КВАЛИФИКАЦИЈА, РИВАЛИ ЛИТВАНИЈА, БиХ и ЕНГЛЕСКА, СЕЛЕКТОР МАЈЕС ПОЗВАО 18 ИГРАЧИЦА",
-      "opis": "Женску футсал репрезентацију очекују мечеви главне рунде квалификација за Првенство Европе, мечеви против домаћина Литваније (18. март 19,00), Босне и Херцеговине (19. март 16,00) и Енглеске (21, март...",
-      "url": "https://fss.rs/w-futsal-a-glavna-runda-kvalifikacija-rivali-litvanija-bih-i-engleska-selektor-majes-pozvao-18-igracica/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "15. 03. 2026. 18:52",
-      "slika": null
     }
   ],
-  "prognoza_dana": {
-    "datum": "18. 03. 2026.",
-    "utakmice": [
-      {
-        "domacin": "ФК Чукарички",
-        "gost": "ФК Нови Пазар",
-        "liga": "Суперлига",
-        "datum": "22.03.2026",
-        "vreme": "16:00",
-        "tip": "1X",
-        "kvota": 1.55,
-        "analiza": "Чукарички не губи код куће.",
-        "pouzdanost": 5
-      },
-      {
-        "domacin": "ЦЗ Звезда",
-        "gost": "ФК Партизан",
-        "liga": "Суперлига",
-        "datum": "23.03.2026",
-        "vreme": "18:00",
-        "tip": "1",
-        "kvota": 2.1,
-        "analiza": "Звезда домаћин, 7 бодова предности.",
-        "pouzdanost": 4
-      },
-      {
-        "domacin": "Торино",
-        "gost": "Лацио",
-        "liga": "Серија А",
-        "datum": "22.03.2026",
-        "vreme": "18:00",
-        "tip": "X2",
-        "kvota": 1.65,
-        "analiza": "МСС одлично у голу.",
-        "pouzdanost": 4
-      },
-      {
-        "domacin": "Јувентус",
-        "gost": "Наполи",
-        "liga": "Серија А",
-        "datum": "22.03.2026",
-        "vreme": "20:45",
-        "tip": "1",
-        "kvota": 2.3,
-        "analiza": "Влаховић у одличној форми.",
-        "pouzdanost": 3
-      }
-    ],
-    "ukupna_kvota": 12.35,
-    "ulog_primer": 1000,
-    "dobitak_primer": 12350.0,
-    "napomena": "Прогноза је информативног карактера. Игра одговорно. 18+"
-  },
   "tabela": [
     {
       "poz": 1,
