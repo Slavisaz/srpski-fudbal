@@ -152,7 +152,7 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 
 /* SUPERLIGA WIDGET CSS */
 /* ═══ SUPERLIGA WIDGET ═══ */
-.slw{background:#fff;border:1px solid #dde1e8;border-radius:6px;overflow:hidden;max-width:800px;margin:0 auto}
+.slw{background:#fff;border:1px solid #dde1e8;border-radius:6px;overflow:hidden;max-width:800px;margin:0 auto;width:100%}
 .slw-hd{background:linear-gradient(90deg,#003F8A,#1a5aad);padding:10px 16px;display:flex;align-items:center;justify-content:space-between}
 .slw-title{font-family:'Barlow Condensed',sans-serif;font-size:16px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:#fff;display:flex;align-items:center;gap:8px}
 .slw-dot{width:8px;height:8px;background:#CC0000;border-radius:50%;animation:pulse 1.2s infinite;display:none}
@@ -196,7 +196,7 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 .slw-min{display:inline-block;background:#CC0000;color:#fff;font-size:10px;font-weight:800;padding:1px 5px;border-radius:3px;margin-bottom:3px}
 
 /* Tabela */
-.slw-tbl-wrap{overflow-x:auto}
+.slw-tbl-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;width:100%}
 .slw-tbl{width:100%;border-collapse:collapse;font-size:13px}
 .slw-tbl thead tr{background:#f4f5f7}
 .slw-tbl th{padding:7px 8px;text-align:center;font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#6b7280;border-bottom:1px solid #dde1e8;white-space:nowrap}
@@ -230,7 +230,14 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 @media(max-width:520px){
   .slw-ht{font-size:12px}
   .slw-scn{font-size:18px}
-  .slw-tbl th,.slw-tbl td{padding:5px 4px;font-size:11px}
+  .slw-tbl th,.slw-tbl td{padding:7px 5px;font-size:12px}
+  .slw-tbl th.l,.slw-tbl td.l{padding-left:6px}
+  /* Сакриј П, Н, И колоне — остају # Клуб У ГР Бод */
+  .col-pni{display:none}
+  .slw-tbl td.l{max-width:120px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .slw-pts{font-size:13px}
+  .slw-legend{gap:8px;padding:6px 10px}
+  .slw-leg{font-size:9px}
 }
 
 /* RESPONSIVE */
@@ -364,7 +371,7 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
   <div class="slw-tabs">
     <button class="slw-tab on" onclick="slTab('rez',this)">Резултати</button>
     <button class="slw-tab" onclick="slTab('tab',this)">Табела</button>
-    <button class="slw-tab" onclick="slTab('uzi',this)">Уживо</button>
+    <button class="slw-tab" onclick="slTab('uzi',this)">Уживо<span class="slw-badge" id="slw-badge" style="display:none"></span></button>
     <button class="slw-tab" onclick="slTab('ras',this)">Распоред</button>
   </div>
 
@@ -699,9 +706,21 @@ async function safeApi(path, demo) {
 // HELPERS
 // ═══════════════════════════════════
 function mesec(ts) {
+  if (!ts || ts < 1000000000) return '';
   const d = new Date(ts*1000);
+  if (isNaN(d.getTime())) return '';
   const m = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
-  return `${d.getDate()}. ${m[d.getMonth()]}`;
+  return `${d.getDate()}. ${m[d.getMonth()].toUpperCase()}`;
+}
+function datumVreme(ts) {
+  if (!ts || ts < 1000000000) return {datum:'', vreme:''};
+  const d = new Date(ts*1000);
+  if (isNaN(d.getTime())) return {datum:'', vreme:''};
+  const m = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
+  return {
+    datum: `${d.getDate()}. ${m[d.getMonth()].toUpperCase()}`,
+    vreme: `${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`
+  };
 }
 function vreme(ts) {
   const d = new Date(ts*1000);
@@ -734,13 +753,14 @@ function matchRow(e) {
 
   let sc;
   if (soon) {
-    sc = `<div class="slw-scn grey">${mesec(e.startTimestamp)}</div>
-          <div class="slw-st blue">${vreme(e.startTimestamp)}</div>`;
+    const dv = datumVreme(e.startTimestamp);
+    sc = `<div class="slw-scn grey">${dv.datum}</div>
+          <div class="slw-st blue">${dv.vreme}</div>`;
   } else {
     sc = `${live&&minut?`<div class="slw-min">${minut}'</div>`:''}
           ${tip==='halftime'?'<div class="slw-min">ПВ</div>':''}
           <div class="slw-scn ${live?'red':''}">${gD} – ${gG}</div>
-          <div class="slw-st ${live?'red':'grey'}">${live?'УЖИВО':done?mesec(e.startTimestamp):''}</div>`;
+          <div class="slw-st ${live?'red':'grey'}">${live?'УЖИВО':'ЗАВ'}</div>`;
   }
 
   return `<div class="slw-match ${live?'live':''}">
@@ -750,8 +770,8 @@ function matchRow(e) {
   </div>`;
 }
 
-function hide(id) { document.getElementById(id).style.display='none'; }
-function show(id,html) { document.getElementById(id).innerHTML=html; }
+function hide(id) { const el=document.getElementById(id); if(el) el.style.display='none'; }
+function show(id,html) { const el=document.getElementById(id); if(el) el.innerHTML=html; }
 
 // ═══════════════════════════════════
 // TABS
@@ -825,7 +845,10 @@ async function loadTab() {
       return `<tr class="${zone}">
         <td>${r.position}</td>
         <td class="l">${logo}${timT(r.team?.name||'')}</td>
-        <td>${r.matches}</td><td>${r.wins}</td><td>${r.draws}</td><td>${r.losses}</td>
+        <td>${r.matches}</td>
+        <td class="col-pni">${r.wins}</td>
+        <td class="col-pni">${r.draws}</td>
+        <td class="col-pni">${r.losses}</td>
         <td>${gd}</td>
         <td class="slw-pts">${r.points}</td>
       </tr>`;
@@ -836,8 +859,10 @@ async function loadTab() {
         <table class="slw-tbl">
           <thead><tr>
             <th>#</th><th class="l">Клуб</th>
-            <th title="Утакмице">У</th><th title="Победе">П</th>
-            <th title="Нерешено">Н</th><th title="Изгубљено">И</th>
+            <th title="Утакмице">У</th>
+            <th class="col-pni" title="Победе">П</th>
+            <th class="col-pni" title="Нерешено">Н</th>
+            <th class="col-pni" title="Изгубљено">И</th>
             <th title="Гол разлика">ГР</th>
             <th title="Бодови">Бод</th>
           </tr></thead>
@@ -864,7 +889,8 @@ async function loadTab() {
 // ═══════════════════════════════════
 async function loadUzi() {
   await getSeasonId();
-  document.getElementById('slw-spin-uzi').style.display='block';
+  const spinUzi = document.getElementById('slw-spin-uzi');
+  if (spinUzi) spinUzi.style.display='block';
   document.getElementById('slw-out-uzi').innerHTML='';
   try {
     const d = await safeApi(`/sport/football/events/live`, {events:[]});
@@ -875,16 +901,15 @@ async function loadUzi() {
     const dot = document.getElementById('slw-dot');
 
     if (live.length) {
-      badge.textContent = live.length;
-      badge.style.display = 'inline-block';
-      dot.style.display = 'block';
+      if (badge) { badge.textContent = live.length; badge.style.display = 'inline-block'; }
+      if (dot) dot.style.display = 'block';
       show('slw-out-uzi', `
         <div class="slw-rnd"><span>🔴 УЖИВО — Суперлига</span></div>
         ${live.map(matchRow).join('')}
       `);
     } else {
-      badge.style.display = 'none';
-      dot.style.display = 'none';
+      if (badge) badge.style.display = 'none';
+      if (dot) dot.style.display = 'none';
       show('slw-out-uzi','<div class="slw-spin" style="color:#9ca3af;animation:none">Тренутно нема утакмица уживо.</div>');
     }
     document.getElementById('slw-ts').textContent = 'Ажурирано у '+ts();
