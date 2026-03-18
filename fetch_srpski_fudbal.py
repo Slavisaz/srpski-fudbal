@@ -11,9 +11,46 @@ import feedparser
 import json
 import os
 import re
+import urllib.request
+import urllib.error
 from datetime import datetime, timezone
 from pathlib import Path
 import functools
+
+
+# ═══════════════════════════════════════════════════
+# TRANSLITERACIJA latinica → ćirilica (srpska)
+# ═══════════════════════════════════════════════════
+LAT_CIR = {
+    'lj': 'љ', 'nj': 'њ', 'dž': 'џ', 'dj': 'ђ',
+    'Lj': 'Љ', 'Nj': 'Њ', 'Dž': 'Џ', 'Dj': 'Ђ',
+    'LJ': 'ЉЈ', 'NJ': 'ЊЈ', 'DŽ': 'Џ', 'DJ': 'ЂЈ',
+    'a':'а','b':'б','c':'ц','č':'ч','ć':'ћ',
+    'd':'д','e':'е','f':'ф','g':'г','h':'х',
+    'i':'и','j':'ј','k':'к','l':'л','m':'м',
+    'n':'н','o':'о','p':'п','r':'р','s':'с',
+    'š':'ш','t':'т','u':'у','v':'в','z':'з','ž':'ж',
+    'A':'А','B':'Б','C':'Ц','Č':'Ч','Ć':'Ћ',
+    'D':'Д','E':'Е','F':'Ф','G':'Г','H':'Х',
+    'I':'И','J':'Ј','K':'К','L':'Л','M':'М',
+    'N':'Н','O':'О','P':'П','R':'Р','S':'С',
+    'Š':'Ш','T':'Т','U':'У','V':'В','Z':'З','Ž':'Ж',
+}
+
+def lat_u_cir(tekst):
+    """Prevodi srpsku latinicu u ćirilicu."""
+    if not tekst:
+        return tekst
+    # Digrafi prvo (redosled je važan)
+    for lat, cir in [('lj','љ'),('nj','њ'),('dž','џ'),('dj','ђ'),
+                     ('Lj','Љ'),('Nj','Њ'),('Dž','Џ'),('Dj','Ђ'),
+                     ('LJ','ЉЈ'),('NJ','ЊЈ'),('DŽ','Џ'),('DJ','ЂЈ')]:
+        tekst = tekst.replace(lat, cir)
+    # Jednoslovna zamena
+    rezultat = []
+    for ch in tekst:
+        rezultat.append(LAT_CIR.get(ch, ch))
+    return ''.join(rezultat)
 
 
 # ═══════════════════════════════════════════════════
@@ -92,12 +129,67 @@ RSS_FEEDOVI = [
     },
     {
         "naziv": "Танјуг",
-        "url":   "https://www.tanjug.rs/rss/sport",
-        "backup":"https://www.tanjug.rs/rss",
+        "url":   "SCRAPE:https://www.tanjug.rs/sport/fudbal",
+        "backup": None,
         "logo":  "tanjug.rs",
-        "uvek":  False,
+        "uvek":  True,
     },
 ]
+
+
+# ═══════════════════════════════════════════════════
+# TANJUG SCRAPER — direktno sa sajta
+# ═══════════════════════════════════════════════════
+def scrape_tanjug_fudbal():
+    """Scrape-uje naslove sa tanjug.rs/sport/fudbal i prevodi u ćirilicu."""
+    url = "https://www.tanjug.rs/sport/fudbal"
+    vesti = []
+    try:
+        req = urllib.request.Request(
+            url,
+            headers={'User-Agent': 'srpskifudbal.com/1.0'}
+        )
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            html = resp.read().decode('utf-8', errors='replace')
+
+        # Pronađi linkove ka vestima — format: /sport/fudbal/BROJ-naslov
+        pattern = r'href="(/sport/fudbal/[\w\-]+)"[^>]*>([^<]{15,})</a>'
+        matches = re.findall(pattern, html)
+
+        # Alternativni pattern za h2/h3 naslove
+        if not matches:
+            pattern2 = r'href="(/sport/fudbal/[^"]+)".*?<(?:h[123]|span)[^>]*>([^<]{15,})</(?:h[123]|span)>'
+            matches = re.findall(pattern2, html, re.DOTALL)
+
+        seen = set()
+        for path, naslov in matches:
+            naslov = naslov.strip()
+            if not naslov or path in seen or len(naslov) < 15:
+                continue
+            seen.add(path)
+
+            # Prevedi u ćirilicu
+            naslov_cir = lat_u_cir(naslov)
+            full_url = f"https://www.tanjug.rs{path}"
+
+            vesti.append({
+                "naslov": naslov_cir,
+                "opis":   "",
+                "url":    full_url,
+                "izvor":  "Танјуг",
+                "logo":   "tanjug.rs",
+                "datum":  datetime.now().strftime("%d. %m. %Y. %H:%M"),
+                "slika":  None,
+            })
+
+            if len(vesti) >= 10:
+                break
+
+        print(f"   ✓ Tanjug scrape: {len(vesti)} vesti")
+    except Exception as e:
+        print(f"   ✗ Tanjug scrape greška: {e}")
+
+    return vesti
 
 KLJUCNE_RECI = [
     "фудбал", "суперлига", "партизан", "звезда", "войводина",
@@ -140,6 +232,16 @@ def povuci_vesti():
     vidljivi = set()
 
     for fi in RSS_FEEDOVI:
+        # Tanjug — scraper umesto RSS
+        if fi["url"].startswith("SCRAPE:"):
+            print(f"\n🌐 Scrape-ujem: {fi['naziv']} (tanjug.rs/sport/fudbal)")
+            tanjug_vesti = scrape_tanjug_fudbal()
+            for v in tanjug_vesti:
+                if v["url"] not in vidljivi:
+                    sve.append(v)
+                    vidljivi.add(v["url"])
+            continue
+
         print(f"\n📡 Povlačim: {fi['naziv']} ({fi['url']})")
         try:
             feed = feedparser.parse(fi["url"], agent="srpskifudbal.com/1.0")
@@ -159,8 +261,8 @@ def povuci_vesti():
                 if not url or url in vidljivi:
                     continue
 
-                naslov = ispravi(ocisti(getattr(entry, 'title', '')))
-                opis   = ispravi(ocisti(getattr(entry, 'summary', '')))[:300]
+                naslov = ispravi(lat_u_cir(ocisti(getattr(entry, 'title', ''))))
+                opis   = ispravi(lat_u_cir(ocisti(getattr(entry, 'summary', ''))))[:300]
 
                 if not je_fudbal(naslov + " " + opis, fi.get("uvek", False)):
                     continue
@@ -285,8 +387,58 @@ def ubaci_u_html(vesti, azurirano):
         novi
     )
 
+    # 2. HERO — prva vest
+    if vesti:
+        v0 = vesti[0]
+        hero_html = (
+            f'        <div class="hero-tag">🔥 Издвојено</div>\n'
+            f'        <div class="hero-ttl" id="hero-ttl">'
+            f'<a href="{v0["url"]}" target="_blank" style="color:inherit;text-decoration:none">'
+            f'{v0["naslov"]}</a></div>\n'
+            f'        <div class="hero-exc" id="hero-exc">{v0.get("opis","")[:180]}</div>\n'
+            f'        <div class="hero-meta" id="hero-meta">{v0["datum"]} · {v0["izvor"]} · '
+            f'<a href="{v0["url"]}" target="_blank" style="color:rgba(255,255,255,.7)">▶ Прочитај</a></div>'
+        )
+        novi = re.sub(
+            r'<!-- HERO_START -->.*?<!-- HERO_END -->',
+            f'<!-- HERO_START -->\n{hero_html}\n        <!-- HERO_END -->',
+            novi, flags=re.DOTALL
+        )
+
+    # 3. SIDE STORIES — vesti 1, 2, 3
+    side_boje = [("#001436","rgba(0,63,138,.18)"),("#1e0008","rgba(204,0,0,.1)"),("#0d1200","rgba(212,160,23,.07)")]
+    side_slova = ["З","С","Т"]
+    side_items = ""
+    for i, v in enumerate(vesti[1:4]):
+        bg, fg = side_boje[i % 3]
+        sl = side_slova[i % 3]
+        side_items += (
+            f'      <div class="hs-item" onclick="window.open(\'{v["url"]}\',\'_blank\')" style="cursor:pointer">\n'
+            f'        <svg class="hs-bg" viewBox="0 0 300 134" xmlns="http://www.w3.org/2000/svg">'
+            f'<rect width="300" height="134" fill="{bg}"/>'
+            f'<text x="10" y="118" font-family="serif" font-size="125" font-weight="900" fill="{fg}">{sl}</text>'
+            f'</svg>\n'
+            f'        <div class="hs-cnt"><div class="hs-tag">{v["izvor"]}</div>'
+            f'<div class="hs-ttl">{v["naslov"][:70]}</div></div>\n'
+            f'      </div>\n'
+        )
+    if side_items:
+        novi = re.sub(
+            r'<!-- SIDE_START -->.*?<!-- SIDE_END -->',
+            f'<!-- SIDE_START -->\n{side_items}      <!-- SIDE_END -->',
+            novi, flags=re.DOTALL
+        )
+
+    # 4. TICKER — prvih 8 naslova
+    ticker_spans = "\n".join(f'      <span>{v["naslov"][:80]}</span>' for v in vesti[:8])
+    novi = re.sub(
+        r'<!-- TICKER_START -->.*?<!-- TICKER_END -->',
+        f'<!-- TICKER_START -->\n{ticker_spans}\n      <!-- TICKER_END -->',
+        novi, flags=re.DOTALL
+    )
+
     html_path.write_text(novi, encoding="utf-8")
-    print(f"   ✓ {html_path} ažuriran sa {min(len(vesti),6)} vesti")
+    print(f"   ✓ {html_path} ažuriran — hero + side + ticker + {min(len(vesti),6)} vesti kartica")
 
 
 # ═══════════════════════════════════════════════════
