@@ -1,47 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <!-- Red background square with rounded corners (for maskable icon) -->
-  <rect width="512" height="512" fill="#CC0000" rx="80"/>
-
-  <!-- White circle - ball base -->
-  <circle cx="256" cy="256" r="190" fill="white"/>
-
-  <!-- Serbian tricolor bands clipped to ball -->
-  <clipPath id="bc"><circle cx="256" cy="256" r="190"/></clipPath>
+  <rect width="512" height="512" rx="80" fill="#CC0000"/>
+  <circle cx="256" cy="256" r="200" fill="white"/>
+  <clipPath id="bc"><circle cx="256" cy="256" r="200"/></clipPath>
   <g clip-path="url(#bc)">
-    <rect x="66" y="66" width="380" height="127" fill="#CC0000"/>
-    <rect x="66" y="193" width="380" height="126" fill="#003F8A"/>
-    <rect x="66" y="319" width="380" height="127" fill="#f0f2f5"/>
+    <rect x="56" y="56"  width="400" height="134" fill="#CC0000"/>
+    <rect x="56" y="190" width="400" height="133" fill="#003F8A"/>
+    <rect x="56" y="323" width="400" height="133" fill="#e8eaf0"/>
   </g>
-
-  <!-- Pentagon patches - rotated 22° for dynamic feel -->
   <g transform="rotate(22, 256, 256)" clip-path="url(#bc)">
-    <!-- Center pentagon -->
-    <polygon points="256,175 322,220 298,298 214,298 190,220"
-      fill="rgba(255,255,255,0.35)" stroke="white" stroke-width="9" stroke-linejoin="round"/>
-    <!-- Top -->
-    <polygon points="256,60 322,105 298,148 214,148 190,105"
-      fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="9" stroke-linejoin="round"/>
-    <!-- Upper right -->
-    <polygon points="390,130 440,170 435,245 375,270 335,200"
-      fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="9" stroke-linejoin="round"/>
-    <!-- Lower right -->
-    <polygon points="390,330 405,405 340,445 285,420 295,345"
-      fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="9" stroke-linejoin="round"/>
-    <!-- Lower left -->
-    <polygon points="227,420 172,445 107,405 122,330 217,345"
-      fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="9" stroke-linejoin="round"/>
-    <!-- Upper left -->
-    <polygon points="177,200 137,270 77,245 72,170 122,130"
-      fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="9" stroke-linejoin="round"/>
+    <polygon points="256,180 318,222 295,295 217,295 194,222" fill="rgba(255,255,255,0.30)" stroke="white" stroke-width="5" stroke-linejoin="round"/>
+    <polygon points="256,68 318,110 295,148 217,148 194,110" fill="rgba(255,255,255,0.22)" stroke="white" stroke-width="5" stroke-linejoin="round"/>
+    <polygon points="388,136 435,172 430,245 370,268 338,202" fill="rgba(255,255,255,0.22)" stroke="white" stroke-width="5" stroke-linejoin="round"/>
+    <polygon points="390,330 402,404 338,442 282,418 292,348" fill="rgba(255,255,255,0.22)" stroke="white" stroke-width="5" stroke-linejoin="round"/>
+    <polygon points="230,418 174,442 110,404 122,330 220,348" fill="rgba(255,255,255,0.22)" stroke="white" stroke-width="5" stroke-linejoin="round"/>
+    <polygon points="174,202 142,268 82,245 77,172 124,136" fill="rgba(255,255,255,0.22)" stroke="white" stroke-width="5" stroke-linejoin="round"/>
   </g>
-
-  <!-- Ball border -->
-  <circle cx="256" cy="256" r="190" fill="none" stroke="rgba(200,200,200,0.4)" stroke-width="4"/>
-
-  <!-- Specular highlight -->
-  <ellipse cx="190" cy="170" rx="70" ry="46" fill="white" opacity="0.35" transform="rotate(-30 190 170)"/>
-
-  <!-- "СФ" text at bottom of icon -->
-  <text x="256" y="490" text-anchor="middle" font-family="Arial Black, sans-serif"
-    font-size="42" font-weight="900" fill="white" letter-spacing="4">СФ</text>
+  <circle cx="256" cy="256" r="200" fill="none" stroke="rgba(0,0,0,0.12)" stroke-width="4"/>
+  <ellipse cx="192" cy="168" rx="72" ry="48" fill="white" opacity="0.40" transform="rotate(-30 192 168)"/>
+  <ellipse cx="185" cy="162" rx="34" ry="22" fill="white" opacity="0.55" transform="rotate(-30 185 162)"/>
+  <text x="256" y="498" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="46" font-weight="900" fill="white" letter-spacing="6">СФ</text>
 </svg>

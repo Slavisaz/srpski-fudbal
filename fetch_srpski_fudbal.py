@@ -107,11 +107,11 @@ RSS_FEEDOVI = [
         "uvek":  True,
     },
     {
-        "naziv": "Политика",
-        "url":   "https://www.politika.rs/rss/rubrika/sport",
-        "backup":"https://www.politika.rs/rss",
+        "naziv": "Политика Фудбал",
+        "url":   "https://zurnal.politika.rs/scc/rubrika/19/fudbal",
+        "backup":"https://www.politika.rs/rss/rubrika/sport",
         "logo":  "politika.rs",
-        "uvek":  False,
+        "uvek":  True,
     },
     {
         "naziv": "Новости",
@@ -387,45 +387,22 @@ def ubaci_u_html(vesti, azurirano):
         novi
     )
 
-    # 2. HERO — prva vest
+    # 2. HERO LIST — prvih 5 vesti kao numerisana lista
     if vesti:
-        v0 = vesti[0]
-        hero_html = (
-            f'        <div class="hero-tag">🔥 Издвојено</div>\n'
-            f'        <div class="hero-ttl" id="hero-ttl">'
-            f'<a href="{v0["url"]}" target="_blank" style="color:inherit;text-decoration:none">'
-            f'{v0["naslov"]}</a></div>\n'
-            f'        <div class="hero-exc" id="hero-exc">{v0.get("opis","")[:180]}</div>\n'
-            f'        <div class="hero-meta" id="hero-meta">{v0["datum"]} · {v0["izvor"]} · '
-            f'<a href="{v0["url"]}" target="_blank" style="color:rgba(255,255,255,.7)">▶ Прочитај</a></div>'
-        )
+        hero_items = ""
+        for i, v in enumerate(vesti[:5]):
+            hero_items += (
+                f'      <li class="hero-item" onclick="window.open(\'{v["url"]}\',\'_blank\')" style="cursor:pointer">'
+                f'<span class="hi-num">{i+1}</span>'
+                f'<div class="hi-body">'
+                f'<div class="hi-tag">{v["izvor"]}</div>'
+                f'<div class="hi-ttl">{v["naslov"][:90]}</div>'
+                f'<div class="hi-meta">{v["datum"]}</div>'
+                f'</div></li>\n'
+            )
         novi = re.sub(
             r'<!-- HERO_START -->.*?<!-- HERO_END -->',
-            f'<!-- HERO_START -->\n{hero_html}\n        <!-- HERO_END -->',
-            novi, flags=re.DOTALL
-        )
-
-    # 3. SIDE STORIES — vesti 1, 2, 3
-    side_boje = [("#001436","rgba(0,63,138,.18)"),("#1e0008","rgba(204,0,0,.1)"),("#0d1200","rgba(212,160,23,.07)")]
-    side_slova = ["З","С","Т"]
-    side_items = ""
-    for i, v in enumerate(vesti[1:4]):
-        bg, fg = side_boje[i % 3]
-        sl = side_slova[i % 3]
-        side_items += (
-            f'      <div class="hs-item" onclick="window.open(\'{v["url"]}\',\'_blank\')" style="cursor:pointer">\n'
-            f'        <svg class="hs-bg" viewBox="0 0 300 134" xmlns="http://www.w3.org/2000/svg">'
-            f'<rect width="300" height="134" fill="{bg}"/>'
-            f'<text x="10" y="118" font-family="serif" font-size="125" font-weight="900" fill="{fg}">{sl}</text>'
-            f'</svg>\n'
-            f'        <div class="hs-cnt"><div class="hs-tag">{v["izvor"]}</div>'
-            f'<div class="hs-ttl">{v["naslov"][:70]}</div></div>\n'
-            f'      </div>\n'
-        )
-    if side_items:
-        novi = re.sub(
-            r'<!-- SIDE_START -->.*?<!-- SIDE_END -->',
-            f'<!-- SIDE_START -->\n{side_items}      <!-- SIDE_END -->',
+            f'<!-- HERO_START -->\n{hero_items}      <!-- HERO_END -->',
             novi, flags=re.DOTALL
         )
 
@@ -437,12 +414,48 @@ def ubaci_u_html(vesti, azurirano):
         novi, flags=re.DOTALL
     )
 
+    # Generate prognoza HTML for injection
+    p = prog
+    zvezdicice = lambda n: '★' * n + '☆' * (5-n)
+    utakmice_html = ""
+    for u in p["utakmice"]:
+        utakmice_html += f'''      <div style="background:white;border:1.5px solid var(--bdr);border-radius:4px;padding:10px 12px;margin-bottom:8px">
+        <div style="font-family:var(--fu);font-size:11px;font-weight:600;color:var(--txt3);text-transform:uppercase;letter-spacing:.08em;margin-bottom:4px">{u['liga']} · {u['datum']} {u['vreme']}</div>
+        <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:5px">
+          <div style="font-family:var(--fd);font-size:15px;font-weight:700;color:var(--txt)">{u['domacin']} — {u['gost']}</div>
+          <div style="display:flex;gap:6px;align-items:center;flex-shrink:0">
+            <span style="background:var(--blue);color:white;font-family:var(--fd);font-size:13px;font-weight:800;padding:4px 10px;border-radius:3px">{u['tip']}</span>
+            <span style="font-family:var(--fd);font-size:16px;font-weight:800;color:var(--red)">{u['kvota']:.2f}</span>
+          </div>
+        </div>
+        <div style="font-family:var(--fu);font-size:12px;color:var(--txt3);margin-bottom:4px">{u['analiza']}</div>
+        <div style="font-size:11px;color:#D4A017">{zvezdicice(u['pouzdanost'])} Поузданост</div>
+      </div>\n'''
+
+    prognoza_html = f'''      <div style="background:var(--off);border:1px solid var(--bdr);border-radius:5px;padding:14px;margin-bottom:12px">
+        <div style="font-family:var(--fd);font-size:12px;font-weight:700;color:var(--txt3);text-transform:uppercase;letter-spacing:.08em;margin-bottom:10px">📅 АИ Прогноза за {p['datum']}</div>
+{utakmice_html}
+        <div style="background:var(--blue);border-radius:4px;padding:12px 14px;display:flex;align-items:center;justify-content:space-between;margin-top:4px">
+          <div>
+            <div style="font-family:var(--fd);font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:rgba(255,255,255,.65)">Укупна квота</div>
+            <div style="font-family:var(--fd);font-size:28px;font-weight:800;color:#D4A017;line-height:1">{p['ukupna_kvota']:.2f}x</div>
+          </div>
+          <div style="text-align:right">
+            <div style="font-family:var(--fu);font-size:11px;color:rgba(255,255,255,.55)">Пример (1.000 РСД)</div>
+            <div style="font-family:var(--fd);font-size:20px;font-weight:800;color:white">{int(p['dobitak_primer']):,} РСД</div>
+          </div>
+        </div>
+        <div style="font-family:var(--fu);font-size:10px;color:var(--txt4);text-align:center;margin-top:10px;line-height:1.5">⚠ {p['napomena']}</div>
+      </div>'''
+
+    novi = re.sub(
+        r'<!-- PROGNOZA_START -->.*?<!-- PROGNOZA_END -->',
+        f'<!-- PROGNOZA_START -->\n{prognoza_html}\n      <!-- PROGNOZA_END -->',
+        novi, flags=re.DOTALL
+    )
+
     html_path.write_text(novi, encoding="utf-8")
-    print(f"   ✓ {html_path} ažuriran — hero + side + ticker + {min(len(vesti),6)} vesti kartica")
-
-
-# ═══════════════════════════════════════════════════
-# TABELA I STRELCI
+    print(f"   ✓ {html_path} ažuriran — hero + side + ticker + vesti + prognoza")
 # ═══════════════════════════════════════════════════
 TABELA = [
     {"poz":1,"klub":"ЦЗ Звезда","u":24,"p":17,"n":5,"i":2,"gd":"+34","go":"56-22","bod":56},
