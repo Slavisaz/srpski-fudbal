@@ -1,24 +1,15 @@
 {
-  "azurirano": "2026-03-18T02:10:57.303038+00:00",
-  "azurirano_sr": "18. 03. 2026. у 02:10",
+  "azurirano": "2026-03-18T02:26:44.685186+00:00",
+  "azurirano_sr": "18. 03. 2026. у 02:26",
   "vesti": [
     {
-      "naslov": "Fudbaleri Reala ponovo pobedili Mančester Siti i plasirali se u četvrtfinale Lige šampiona",
+      "naslov": "Најновије вести",
       "opis": "",
       "url": "https://www.tanjug.rs/sport/fudbal/238302/fudbaleri-reala-ponovo-pobedili-mancester-siti-i-plasirali-se-u-cetvrtfinale-lige-sampiona/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "17. 03. 2026. 22:14",
-      "slika": "https://www.tanjug.rs/data/images/2026-03-17/368608_britain-champions-league-soccer_f.jpg"
-    },
-    {
-      "naslov": "Fudbalerima Senegala oduzeta titula, Maroko postao prvak Afrike za \"zelenim stolom\"",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/238303/fudbalerima-senegala-oduzeta-titula-maroko-postao-prvak-afrike-za-zelenim-stolom/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "17. 03. 2026. 22:13",
-      "slika": "https://www.tanjug.rs/data/images/2026-03-17/368607_afcon-title-overturned-soccer_f.jpg"
+      "datum": "18. 03. 2026. 02:26",
+      "slika": null
     },
     {
       "naslov": "Пењароја: Честитам својим играчима на игри у другом полувремену",
@@ -30,33 +21,6 @@
       "slika": "https://www.politika.rs/thumbs/upload/Article/Image/2026_03//160z120_e5ff2fb32958b5952e294a29cc86ee98.jpg"
     },
     {
-      "naslov": "Košarkaši Partizana posle velikog preokreta savladali Dubai u zaostalom meču Evrolige",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/kosarka/238290/kosarkasi-partizana-posle-velikog-preokreta-savladali-dubai-u-zaostalom-mecu-evrolige/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "17. 03. 2026. 21:06",
-      "slika": "https://www.tanjug.rs/data/images/2026-03-17/368570_kosarka-evroliga-partizan_f.jpg"
-    },
-    {
-      "naslov": "Rukometni klub Partizan posle 16 godina vraća Iliju Abutovića za sledeću sezonu",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/ostali-sportovi/238286/rukometni-klub-partizan-posle-16-godina-vraca-iliju-abutovica-za-sledecu-sezonu/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "17. 03. 2026. 20:40",
-      "slika": "https://www.tanjug.rs/data/images/2026-03-17/368576_arbutovic-maja-nastic_f.png"
-    },
-    {
-      "naslov": "Fudbaleri Sportinga pobedili Bode/Glimt 5:0 posle produžetaka za četvrtfinale Lige šampiona",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/238304/fudbaleri-sportinga-pobedili-bodeglimt-50-posle-produzetaka-za-cetvrtfinale-lige-sampiona/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "17. 03. 2026. 20:32",
-      "slika": "https://www.tanjug.rs/data/images/2026-03-17/368609_aptopix-portugal-champions-league-soccer_f.jpg"
-    },
-    {
       "naslov": "СРЂАН ЈОВАНОВИЋ СА САРАДНИЦИМА СУДИ У ПРАГУ, БОШКО ЈОВАНЕТИЋ ПОСМАТРАЧ У МАЈНЦУ",
       "opis": "Срђан Јовановић делегиран је од стране УЕФА да суди реванш утакмицу 1/8 финала Лига конференције, дуел Спарта Праг (Чешка) АЗ Алкмар (Холандија ). Асистираће му Урош Стојковић и Милан...",
       "url": "https://fss.rs/srdjam-jovanovic-sa-saradnicima-sudi-u-pragu-bosko-jovanetic-posmatrac-u-majncu/",
@@ -66,26 +30,8 @@
       "slika": null
     },
     {
-      "naslov": "Fudbalski klub Crvena zvezda daruje paketiće za bebe na meču protiv niškog Radničkog",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/238249/fudbalski-klub-crvena-zvezda-daruje-paketice-za-bebe-na-mecu-protiv-niskog-radnickog/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "17. 03. 2026. 17:58",
-      "slika": "https://www.tanjug.rs/data/images/2026-01-01/338157_shutterstock-2374598989_f.jpg"
-    },
-    {
-      "naslov": "Fudbalska reprezentacija Argentine igraće prijateljski meč protiv Gvatemale 31. marta",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/238206/fudbalska-reprezentacija-argentine-igrace-prijateljski-mec-protiv-gvatemale-31-marta/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "17. 03. 2026. 16:04",
-      "slika": "https://www.tanjug.rs/data/images/2025-06-28/263310_shutterstock-2247653115_f.jpg"
-    },
-    {
-      "naslov": "WU17 | ЧУДЕСАН ПРЕОКРЕТ И ВЕЛИКА ПОБЕДА КАДЕТКИЊА ПРОТИВ ФРАНЦУСКЕ",
-      "opis": "Женска кадетска репрезентација Србије (WU17) остварила је велику победу у мечу 2. кола елит рунде квалификације за Првенство Европе, против Француске 2:1 (2:1). У дуелу који је донео...",
+      "naslov": "WУ17 | ЧУДЕСАН ПРЕОКРЕТ И ВЕЛИКА ПОБЕДА КАДЕТКИЊА ПРОТИВ ФРАНЦУСКЕ",
+      "opis": "Женска кадетска репрезентација Србије (WУ17) остварила је велику победу у мечу 2. кола елит рунде квалификације за Првенство Европе, против Француске 2:1 (2:1). У дуелу који је донео...",
       "url": "https://fss.rs/wu17-cudesan-preokret-i-velika-pobeda-kadetkinja-protiv-francuske/",
       "izvor": "ФСС",
       "logo": "fss.rs",
@@ -93,8 +39,8 @@
       "slika": null
     },
     {
-      "naslov": "MEDIA ACCREDITATION SYSTEM FOR THE SERBIA A NATIONAL TEAM MATCH VS SAUDI ARABIA (MARCH 31)",
-      "opis": "Dear Sir/Madam, We would like to inform you that the media accreditation system for the friendly match of the Serbia A National Team against Saudi Arabia (March 31, TSC Arena...",
+      "naslov": "МЕДИА АЦЦРЕДИТАТИОН СYСТЕМ ФОР ТХЕ СЕРБИА А НАТИОНАЛ ТЕАМ МАТЦХ ВС САУДИ АРАБИА (МАРЦХ 31)",
+      "opis": "Деар Сир/Мадам, Wе wоулд лике то информ yоу тхат тхе медиа аццредитатион сyстем фор тхе фриендлy матцх оф тхе Сербиа А Натионал Теам агаинст Сауди Арабиа (Марцх 31, ТСЦ Арена...",
       "url": "https://fss.rs/media-accreditation-system-for-the-serbia-a-national-team-match-vs-saudi-arabia-march-31/",
       "izvor": "ФСС",
       "logo": "fss.rs",
@@ -120,58 +66,13 @@
       "slika": null
     },
     {
-      "naslov": "KK Zvezda: Bez navijača Partizana na derbi meču regionalne ABA lige",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/kosarka/238181/kk-zvezda-bez-navijaca-partizana-na-derbi-mecu-regionalne-aba-lige/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "17. 03. 2026. 14:41",
-      "slika": "https://www.tanjug.rs/data/images/2025-08-29/286248_1_f.jpg"
-    },
-    {
-      "naslov": "Trener fudbalera Juventusa Lučano Spaleti blizu potpisivanja novog ugovora",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/238115/trener-fudbalera-juventusa-lucano-spaleti-blizu-potpisivanja-novog-ugovora/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "17. 03. 2026. 12:17",
-      "slika": "https://www.tanjug.rs/data/images/2026-03-17/368357_monaco-champions-league-soccer_f.jpg"
-    },
-    {
-      "naslov": "U18 | МЛАЂИ ОМЛАДИНЦИ ИМАЈУ ДВЕ ПРОВЕРЕ У СЛОВАЧКОЈ, СЕЛЕКТОР МИЛАН СТЕГЊАИЋ ПОЗВАО 22 ИГРАЧА",
-      "opis": "Млађа омладинска репрезентација Србије (U18) има две провере у Словачкој, пред јунски старт у квалификацијама за Првенство Европе и мечеве са Португалом, Грчком (домаћин турнира) и Казахстаном. Оба дуела са...",
+      "naslov": "У18 | МЛАЂИ ОМЛАДИНЦИ ИМАЈУ ДВЕ ПРОВЕРЕ У СЛОВАЧКОЈ, СЕЛЕКТОР МИЛАН СТЕГЊАИЋ ПОЗВАО 22 ИГРАЧА",
+      "opis": "Млађа омладинска репрезентација Србије (У18) има две провере у Словачкој, пред јунски старт у квалификацијама за Првенство Европе и мечеве са Португалом, Грчком (домаћин турнира) и Казахстаном. Оба дуела са...",
       "url": "https://fss.rs/u18-mladji-omladinci-imaju-dve-provere-u-slovackoj-selektor-milan-stegnjaic-pozvao-22-igraca/",
       "izvor": "ФСС",
       "logo": "fss.rs",
       "datum": "17. 03. 2026. 11:24",
       "slika": null
-    },
-    {
-      "naslov": "Trener Atletika Dijego Simeone poveo 23 fudbalera na meč protiv Totenhema u Ligi šampiona",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/238077/trener-atletika-dijego-simeone-poveo-23-fudbalera-na-mec-protiv-totenhema-u-ligi-sampiona/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "17. 03. 2026. 10:38",
-      "slika": "https://www.tanjug.rs/data/images/2026-03-17/368274_spain-champions-league-soccer_f.jpg"
-    },
-    {
-      "naslov": "Fudbalski turnir počeće četiri dana pre zvaničnog otvaranja Olimpijskih igara u Los Anđelesu",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/238063/fudbalski-turnir-pocece-cetiri-dana-pre-zvanicnog-otvaranja-olimpijskih-igara-u-los-andelesu/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "17. 03. 2026. 10:07",
-      "slika": "https://www.tanjug.rs/data/images/2025-07-31/276241_shutterstock-2639597681_f.jpg"
-    },
-    {
-      "naslov": "Fudbalski savez Irana traži da utakmice na Svetskom prvenstvu igra u Meksiku",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/238037/fudbalski-savez-irana-trazi-da-utakmice-na-svetskom-prvenstvu-igra-u-meksiku/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "17. 03. 2026. 09:22",
-      "slika": "https://www.tanjug.rs/data/images/2025-10-02/300652_shutterstock-2390258569_f.jpg"
     },
     {
       "naslov": "ПОЗНАТЕ ЛОКАЦИЈЕ МАРТОВСКИХ ПРИЈАТЕЉСКИХ УТАКМИЦА РЕПРЕЗЕНТАЦИЈЕ СРБИЈЕ",
@@ -192,8 +93,8 @@
       "slika": null
     },
     {
-      "naslov": "U17 | СЕЛЕКТОР ИГОР МАТИЋ САОПШТИО СПИСАК ИГРАЧА ЗА ДРУГИ КРУГ КВАЛИФИКАЦИЈА ЗА ЕВРОПСКО ПРВЕНСТВО",
-      "opis": "Кадетска (U-17) репрезентација Србије у периоду од 25. до 31. марта одиграће три утакмице у оквиру другог круга квалификација за Европско првенство које се у јуну ове године одржава у...",
+      "naslov": "У17 | СЕЛЕКТОР ИГОР МАТИЋ САОПШТИО СПИСАК ИГРАЧА ЗА ДРУГИ КРУГ КВАЛИФИКАЦИЈА ЗА ЕВРОПСКО ПРВЕНСТВО",
+      "opis": "Кадетска (У-17) репрезентација Србије у периоду од 25. до 31. марта одиграће три утакмице у оквиру другог круга квалификација за Европско првенство које се у јуну ове године одржава у...",
       "url": "https://fss.rs/u17-selektor-igor-matic-saopstio-spisak-igraca-za-drugi-krug-kvalifikacija-za-evropsko-prvenstvo/",
       "izvor": "ФСС",
       "logo": "fss.rs",
