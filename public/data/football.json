@@ -1,33 +1,51 @@
 {
-  "azurirano": "2026-03-18T08:05:15.707849+00:00",
-  "azurirano_sr": "18. 03. 2026. у 08:05",
+  "azurirano": "2026-03-18T11:35:17.367722+00:00",
+  "azurirano_sr": "18. 03. 2026. у 11:35",
   "vesti": [
     {
       "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/238302/fudbaleri-reala-ponovo-pobedili-mancester-siti-i-plasirali-se-u-cetvrtfinale-lige-sampiona/vest",
+      "url": "https://www.tanjug.rs/sport/fudbal/238373/arbeloa-zasluga-pripada-svim-igracima-gvardiola-imamo-svetlu-buducnost/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "18. 03. 2026. 08:05",
+      "datum": "18. 03. 2026. 11:35",
       "slika": null
     },
     {
-      "naslov": "Катаи јури Рикарда",
-      "opis": "Најбољи стрелац “црвено-белих бори се да постигне највише голова у једној сезони Супер лиге",
-      "url": "https://www.politika.rs/scc/clanak/739867/sport/katai-juri-rikarda",
+      "naslov": "Жарић Ковачевић: Експо 2027 је снажан подстицај развоју женског предузетништва",
+      "opis": "Ова изложба биће права ствар у право време да Србија покаже шта има, рекла је министарка",
+      "url": "https://www.politika.rs/scc/clanak/739933/zaric-kovacevic-ekspo-2027-je-snazan-podsticaj-razvoju-zenskog-preduzetnistva",
       "izvor": "Политика",
       "logo": "politika.rs",
-      "datum": "18. 03. 2026. 07:48",
-      "slika": "https://www.politika.rs/thumbs/upload/Article/Image/2026_03//160z120_Screenshot-.jpg"
+      "datum": "18. 03. 2026. 11:31",
+      "slika": "https://www.politika.rs/thumbs/upload/Article/Image/2026_03//160z120_T.jpg"
     },
     {
-      "naslov": "Србија је наша породица",
-      "opis": "Када вам неко повери свој крај, он вам је поверио кућу, поручио је председник",
-      "url": "https://www.politika.rs/scc/clanak/739865/srbija-je-nasa-porodica",
+      "naslov": "Потрошња кокаина и кетамина у порасту",
+      "opis": "Анализа је обухватила укупно 72 милиона људи",
+      "url": "https://www.politika.rs/scc/clanak/739929/potrosnja-kokaina-i-ketamina-u-porastu",
       "izvor": "Политика",
       "logo": "politika.rs",
-      "datum": "18. 03. 2026. 07:33",
-      "slika": "https://www.politika.rs/thumbs/upload/Article/Image/2026_03//160z120_904z509_Tan2026-03-1414220718_7.jpg"
+      "datum": "18. 03. 2026. 11:22",
+      "slika": "https://www.politika.rs/thumbs/upload/Article/Image/2026_03//160z120_13784783--1-.jpg"
+    },
+    {
+      "naslov": "АКРЕДИТОВАЊЕ МЕДИЈА | ДРУГИ КРУГ КВАЛИФИКАЦИЈА ЗА У-17 ЕВРОПСКО ПРВЕНСТВО: УТАКМИЦЕ БЕЛГИЈА - ШВАЈЦАРСКА, КИПАР - ШВАЈЦАРСКА И КИПАР - БЕЛГИЈА У БЕОГРАДУ",
+      "opis": "Поштовани, Обавештавамо вас да ће од среде, 18. марта (12 часова), до среде, 24. марта (12 часова), бити отворен систем акредитовања медија за утакмице кадетских (У-17) репрезентација Белгије, Швајцарске и...",
+      "url": "https://fss.rs/akreditovanje-medija-drugi-krug-kvalifikacija-za-u-17-evropsko-prvenstvo-utakmice-belgija-svajcarska-kipar-svajcarska-i-kipar-belgija-u-beogradu/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "18. 03. 2026. 10:49",
+      "slika": null
+    },
+    {
+      "naslov": "АКРЕДИТОВАЊЕ МЕДИЈА | ДРУГИ КРУГ КВАЛИФИКАЦИЈА ЗА ЕВРОПСКО ПРВЕНСТВО КАДЕТСКЕ (У-17) РЕПРЕЗЕНТАЦИЈЕ СРБИЈЕ",
+      "opis": "Поштовани, Обавештавамо вас да ће од среде, 18. марта (12 часова), до среде, 24. марта (12 часова), бити отворен систем акредитовања медија за утакмице кадетске (У-17) репрезентације Србије у оквиру...",
+      "url": "https://fss.rs/akreditovanje-medija-drugi-krug-kvalifikacija-za-evropsko-prvenstvo-kadetske-u-17-reprezentacije-srbije/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "18. 03. 2026. 10:34",
+      "slika": null
     },
     {
       "naslov": "СРЂАН ЈОВАНОВИЋ СА САРАДНИЦИМА СУДИ У ПРАГУ, БОШКО ЈОВАНЕТИЋ ПОСМАТРАЧ У МАЈНЦУ",
@@ -99,24 +117,6 @@
       "izvor": "ФСС",
       "logo": "fss.rs",
       "datum": "15. 03. 2026. 18:52",
-      "slika": null
-    },
-    {
-      "naslov": "У17 | СЕЛЕКТОР ИГОР МАТИЋ САОПШТИО СПИСАК ИГРАЧА ЗА ДРУГИ КРУГ КВАЛИФИКАЦИЈА ЗА ЕВРОПСКО ПРВЕНСТВО",
-      "opis": "Кадетска (У-17) репрезентација Србије у периоду од 25. до 31. марта одиграће три утакмице у оквиру другог круга квалификација за Европско првенство које се у јуну ове године одржава у...",
-      "url": "https://fss.rs/u17-selektor-igor-matic-saopstio-spisak-igraca-za-drugi-krug-kvalifikacija-za-evropsko-prvenstvo/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "15. 03. 2026. 18:07",
-      "slika": null
-    },
-    {
-      "naslov": "СРБИЈА НЕ ПУТУЈЕ У ДОХУ, СЛЕДЕ УТАКМИЦЕ ПРОТИВ ШПАНИЈЕ И САУДИЈСКЕ АРАБИЈЕ",
-      "opis": "Безбедоносна ситуација на Блиском Истоку утицала је и на планове А тима Србије и утакмице наше мушке репрезентације овог месеца. И поред свих напора одлазак у Доху из наведених разлога...",
-      "url": "https://fss.rs/srbija-ne-putuje-u-dohu-slede-utakmice-protiv-protiv-spanije-i-saudijske-arabije/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "15. 03. 2026. 13:11",
       "slika": null
     }
   ],
