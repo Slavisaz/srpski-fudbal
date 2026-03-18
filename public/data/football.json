@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-03-18T05:46:02.888359+00:00",
-  "azurirano_sr": "18. 03. 2026. у 05:46",
+  "azurirano": "2026-03-18T08:05:15.707849+00:00",
+  "azurirano_sr": "18. 03. 2026. у 08:05",
   "vesti": [
     {
       "naslov": "Најновије вести",
@@ -8,17 +8,26 @@
       "url": "https://www.tanjug.rs/sport/fudbal/238302/fudbaleri-reala-ponovo-pobedili-mancester-siti-i-plasirali-se-u-cetvrtfinale-lige-sampiona/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "18. 03. 2026. 05:46",
+      "datum": "18. 03. 2026. 08:05",
       "slika": null
     },
     {
-      "naslov": "Пењароја: Честитам својим играчима на игри у другом полувремену",
-      "opis": "Тренер кошаркаша Партизана Ђоан Пењароја изјавио је да је његова екипа играла одлично у другом полувремену вечерашње утакмице Евролиге",
-      "url": "https://www.politika.rs/scc/clanak/739809/sport/kosarka/penjaroja-cestitam-svojim-igracima-na-igri-u-drugom-poluvremenu",
+      "naslov": "Катаи јури Рикарда",
+      "opis": "Најбољи стрелац “црвено-белих бори се да постигне највише голова у једној сезони Супер лиге",
+      "url": "https://www.politika.rs/scc/clanak/739867/sport/katai-juri-rikarda",
       "izvor": "Политика",
       "logo": "politika.rs",
-      "datum": "17. 03. 2026. 21:55",
-      "slika": "https://www.politika.rs/thumbs/upload/Article/Image/2026_03//160z120_e5ff2fb32958b5952e294a29cc86ee98.jpg"
+      "datum": "18. 03. 2026. 07:48",
+      "slika": "https://www.politika.rs/thumbs/upload/Article/Image/2026_03//160z120_Screenshot-.jpg"
+    },
+    {
+      "naslov": "Србија је наша породица",
+      "opis": "Када вам неко повери свој крај, он вам је поверио кућу, поручио је председник",
+      "url": "https://www.politika.rs/scc/clanak/739865/srbija-je-nasa-porodica",
+      "izvor": "Политика",
+      "logo": "politika.rs",
+      "datum": "18. 03. 2026. 07:33",
+      "slika": "https://www.politika.rs/thumbs/upload/Article/Image/2026_03//160z120_904z509_Tan2026-03-1414220718_7.jpg"
     },
     {
       "naslov": "СРЂАН ЈОВАНОВИЋ СА САРАДНИЦИМА СУДИ У ПРАГУ, БОШКО ЈОВАНЕТИЋ ПОСМАТРАЧ У МАЈНЦУ",
