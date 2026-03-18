@@ -34,9 +34,9 @@ img{max-width:100%}
 .hdr-in{max-width:1200px;margin:0 auto;padding:0 16px;display:flex;align-items:center;height:64px;gap:16px;min-width:0}
 .logo{display:flex;align-items:center;gap:10px;flex-shrink:0;min-width:0;text-decoration:none}
 .logo-ball{width:46px;height:46px;flex-shrink:0;overflow:visible}
-.logo-wm{display:flex;flex-direction:column;line-height:1;min-width:0}
+.logo-wm{display:flex;flex-direction:column;line-height:1;min-width:0;align-items:stretch}
 .logo-name{font-family:var(--fd);font-size:24px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;color:var(--red);white-space:nowrap}
-.logo-sub{font-family:var(--fu);font-size:8.5px;font-weight:500;text-transform:uppercase;color:var(--txt4);margin-top:4px;white-space:nowrap;display:flex;justify-content:space-between;width:100%;letter-spacing:.04em}
+.logo-sub{font-family:var(--fu);font-size:8.5px;font-weight:500;text-transform:uppercase;color:var(--txt4);margin-top:4px;white-space:nowrap;display:flex;justify-content:space-between;letter-spacing:.04em;align-self:stretch}
 nav{display:flex;align-items:center;height:100%;gap:2px;margin-left:auto;flex-shrink:0}
 nav a{font-family:var(--fd);font-size:13px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;color:var(--txt3);padding:0 12px;height:100%;display:flex;align-items:center;border-bottom:3px solid transparent;margin-bottom:-3px;transition:color .15s,border-color .15s;white-space:nowrap}
 nav a:hover{color:var(--red);border-color:var(--red)}
@@ -256,7 +256,7 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
   .hdr-in{height:56px;padding:0 12px;gap:10px}
   .logo-ball{width:38px;height:38px}
   .logo-name{font-size:18px}
-  .logo-sub{display:none}
+  .logo-sub{display:flex;font-size:7.5px;margin-top:3px;width:100%}
   .page{padding:14px 12px}
   .mob-menu{top:56px}
   .slw-tab{font-size:11px}
@@ -337,17 +337,10 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 </div>
 
 <div class="ticker">
-  <div class="tk-lbl">Уживо</div>
+  <div class="tk-lbl" id="tk-lbl">Уживо</div>
   <div class="tk-scroll">
     <div class="tk-track" id="ticker-track">
-      <!-- TICKER_START -->
-      <span>Суперлига Србије — Коло 25 у недељу</span>
-      <span>Партизан – Звезда: Вечити дерби 23. марта</span>
-      <span>Репрезентација Србије игра у марту</span>
-      <span>Суперлига Србије — Коло 25 у недељу</span>
-      <span>Партизан – Звезда: Вечити дерби 23. марта</span>
-      <span>Репрезентација Србије игра у марту</span>
-      <!-- TICKER_END -->
+      <span>Учитавам податке...</span>
     </div>
   </div>
 </div>
@@ -383,17 +376,6 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
   <div class="slw-ft">Подаци: <a href="https://apifootball.com" target="_blank">APIfootball.com</a> · <span id="slw-ts">Учитавам...</span></div>
   </div>
 
-  <!-- VESTI -->
-  <div id="vesti" class="sec">
-    <div class="sh">
-      <div class="sh-bar"></div>
-      <h2 class="sh-ttl">Најновије вести</h2>
-      <span class="sh-ts" id="poslednje-azuriranje"></span>
-    </div>
-    <!-- Grid vesti -->
-    <div class="vg" id="vesti-grid"></div>
-  </div>
-
   <!-- AD -->
   <div class="adbox">Google AdSense — 728×90</div>
 
@@ -407,7 +389,7 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
     <div class="vid-grid">
       <div class="vid-card">
         <div class="vid-frame">
-          <iframe src="https://www.youtube.com/embed/videoseries?list=PLlCHJqsNZCQOZ4GQo8QgqPMFDyiMFHWiF"
+          <iframe src="https://www.youtube.com/embed?listType=user_uploads&list=MozzartBetSuperligaSrbije"
             allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
             allowfullscreen loading="lazy" title="Суперлига Хајлајти"></iframe>
         </div>
@@ -418,27 +400,21 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
       </div>
       <div class="vid-card">
         <div class="vid-frame">
-          <iframe src="https://www.youtube.com/embed/videoseries?list=PLlCHJqsNZCQMELLPJNaLwi1RHrXCJj7Y0"
+          <iframe src="https://www.youtube.com/embed?listType=user_uploads&list=fudbalskisavezsrbije"
             allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
-            allowfullscreen loading="lazy" title="Вечити дерби"></iframe>
+            allowfullscreen loading="lazy" title="ФСС Видео"></iframe>
         </div>
         <div class="vid-lbl">
-          <div class="vid-lbl-t">Вечити дерби — Партизан vs Звезда</div>
-          <div class="vid-lbl-s">Mozzart Bet Super liga Srbije · YouTube</div>
+          <div class="vid-lbl-t">Репрезентација Србије</div>
+          <div class="vid-lbl-s">Фудбалски савез Србије · YouTube</div>
         </div>
       </div>
     </div>
-    <div class="vid-card vid-wide">
-      <div class="vid-frame">
-        <iframe src="https://www.youtube.com/embed/videoseries?list=PLlCHJqsNZCQPPTXjv2c2neMO_kWMGwJxr"
-          allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
-          allowfullscreen loading="lazy" title="Репрезентација Србије"></iframe>
-      </div>
-      <div class="vid-lbl">
-        <div class="vid-lbl-t" id="reprezentacija">Репрезентација Србије — ФСС</div>
-        <div class="vid-lbl-s">Фудбалски савез Србије · YouTube</div>
-      </div>
-    </div>
+    <p style="font-size:12px;color:var(--txt4);text-align:center;margin-top:10px">
+      За видео снимке посетите: 
+      <a href="https://www.youtube.com/@MozzartBetSuperligaSrbije" target="_blank" style="color:var(--blue)">Суперлига YouTube</a> · 
+      <a href="https://www.youtube.com/@FudbalskiSavezSrbije" target="_blank" style="color:var(--blue)">ФСС YouTube</a>
+    </p>
   </div>
 
 </div><!-- /main -->
@@ -447,8 +423,8 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 <div class="side">
 
   <!-- Najnovije vesti widget -->
-  <div class="widget">
-    <div class="wh red">🗞 Најновије вести</div>
+  <div class="widget" id="vesti">
+    <div class="wh red">🗞 Најновије вести <span class="sh-ts" id="poslednje-azuriranje" style="font-size:9px;opacity:.6;margin-left:auto;font-family:var(--fu);font-weight:400;letter-spacing:0;text-transform:none"></span></div>
     <div id="sidebar-vesti">
       <div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Учитавам вести...</div>
     </div>
@@ -991,42 +967,6 @@ async function ucitajVesti() {
       'Tanjug Sport':      'Танјуг',
     };
 
-    // Boje za kartice
-    const boje = [
-      ['#e8f0fb','#003F8A'], ['#fff0f0','#CC0000'],
-      ['#f0f7f0','#16a34a'], ['#fffbf0','#D4A017'],
-      ['#f5f0fb','#7c3aed'], ['#fff0f8','#be185d']
-    ];
-
-    const grid = document.getElementById('vesti-grid');
-    if (!grid) return;
-
-    // Главна мрежа — 5 вести
-    const html = data.vesti.slice(0, 5).map((v, i) => {
-      const [bg, fg] = boje[i % boje.length];
-      const slovo = (v.naslov || 'В')[0];
-      const opis = (v.opis || '').substring(0, 140);
-      const izvorKey = v.izvor || v.logo || '';
-      const izvorCir = IZVORI[izvorKey] || IZVORI[v.izvor] || v.izvor || 'Спорт';
-      const izvorLabel = izvorCir.toUpperCase();
-      return `<div class="nc fi-anim" onclick="window.open('${v.url}','_blank')" style="cursor:pointer">
-        <div class="nc-img">
-          <svg viewBox="0 0 360 150" xmlns="http://www.w3.org/2000/svg">
-            <rect width="360" height="150" fill="${bg}"/>
-            <text x="30" y="125" font-family="serif" font-size="128" font-weight="900" fill="${fg}" opacity=".12">${slovo}</text>
-            <text x="14" y="26" font-family="sans-serif" font-size="9" fill="${fg}" opacity=".4" letter-spacing="3">${izvorLabel}</text>
-          </svg>
-        </div>
-        <div class="nc-body">
-          <div class="nc-cat">${izvorCir}</div>
-          <div class="nc-ttl">${v.naslov || ''}</div>
-          <div class="nc-blrb">${opis}${opis.length >= 140 ? '...' : ''}</div>
-          <div class="nc-meta"><span>${v.datum || ''}</span><span>Прочитај →</span></div>
-        </div>
-      </div>`;
-    }).join('');
-    grid.innerHTML = html;
-
     // Sidebar — 5 вести као листа
     const sidebar = document.getElementById('sidebar-vesti');
     if (sidebar) {
@@ -1052,6 +992,90 @@ async function ucitajVesti() {
 // Pokreni odmah i ponovi svakih 15 minuta
 ucitajVesti();
 setInterval(ucitajVesti, 15 * 60 * 1000);
+
+// ═══════════════════════════════════
+// TICKER — dinamički podaci
+// ═══════════════════════════════════
+async function ucitajTicker() {
+  const track = document.getElementById('ticker-track');
+  const lbl   = document.getElementById('tk-lbl');
+  if (!track) return;
+
+  const stavke = [];
+  let imaLive = false;
+
+  // 1. Rezultati / live utakmice iz Superlige
+  try {
+    await getSeasonId();
+
+    // Live utakmice
+    const live = await safeApi('/sport/football/events/live', {events:[]});
+    const liveEvs = (live.events||[]).filter(e=>e.tournament?.uniqueTournament?.id===TID);
+    liveEvs.forEach(e => {
+      const d = timT(e.homeTeam?.name||'');
+      const g = timT(e.awayTeam?.name||'');
+      const gD = e.homeScore?.current ?? '';
+      const gG = e.awayScore?.current ?? '';
+      const min = e.time?.played ? `${e.time.played}'` : 'УЖИВО';
+      stavke.push(`🔴 ${d} ${gD}–${gG} ${g} (${min})`);
+      imaLive = true;
+    });
+
+    // Poslednji kolo rezultati
+    const rez = await safeApi(`/unique-tournament/${TID}/season/${SID}/events/last/0`, DEMO_LAST);
+    const evs = (rez.events||[]).filter(e=>e.status?.type==='finished').slice(0,8);
+    evs.forEach(e => {
+      const d = timT(e.homeTeam?.name||'');
+      const g = timT(e.awayTeam?.name||'');
+      const gD = e.homeScore?.current ?? '';
+      const gG = e.awayScore?.current ?? '';
+      const rnd = e.roundInfo?.round ? `Коло ${e.roundInfo.round}: ` : '';
+      stavke.push(`⚽ ${rnd}${d} ${gD}–${gG} ${g}`);
+    });
+
+    // Naredne utakmice (raspored)
+    const ras = await safeApi(`/unique-tournament/${TID}/season/${SID}/events/next/0`, DEMO_NEXT);
+    (ras.events||[]).slice(0,4).forEach(e => {
+      const d = timT(e.homeTeam?.name||'');
+      const g = timT(e.awayTeam?.name||'');
+      const dv = datumVreme(e.startTimestamp);
+      stavke.push(`📅 ${d} – ${g}  ${dv.datum} ${dv.vreme}`);
+    });
+  } catch(err) {
+    console.warn('Ticker: greška pri učitavanju mečeva', err.message);
+  }
+
+  // 2. Naslovi vesti iz JSON-a
+  try {
+    const res = await fetch(PROXY + encodeURIComponent(JSON_URL) + '&t=' + Date.now());
+    if (res.ok) {
+      const data = await res.json();
+      (data.vesti||[]).slice(0,6).forEach(v => {
+        if (v.naslov) stavke.push(`📰 ${v.naslov}`);
+      });
+    }
+  } catch(e) {}
+
+  if (!stavke.length) {
+    stavke.push('Суперлига Србије 2025/26', 'srpskifudbal.com', 'Резултати · Табела · Вести');
+  }
+
+  // Udvostruči stavke za neprekidni scroll
+  const html = [...stavke, ...stavke].map(s => `<span>${s}</span>`).join('');
+  track.innerHTML = html;
+
+  // Restart animacije
+  track.style.animation = 'none';
+  track.offsetHeight; // reflow
+  const dur = Math.max(30, stavke.length * 6);
+  track.style.animation = `ticker ${dur}s linear infinite`;
+
+  // Label: crveni puls ako ima live
+  if (lbl) lbl.style.background = imaLive ? '#900' : '#900';
+}
+
+ucitajTicker();
+setInterval(ucitajTicker, 60000); // osvežavaj svaki minut
 
 // ═══════════════════════════════════
 // NAV ACTIVE ON SCROLL
