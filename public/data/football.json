@@ -1,14 +1,23 @@
 {
-  "azurirano": "2026-03-18T19:31:30.896252+00:00",
-  "azurirano_sr": "18. 03. 2026. у 19:31",
+  "azurirano": "2026-03-18T21:51:52.161442+00:00",
+  "azurirano_sr": "18. 03. 2026. у 21:51",
   "vesti": [
     {
       "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/238590/fudbaler-pari-sen-zermena-bredli-barkola-pauzirace-dve-nedelje-zbog-povrede-zgloba/vest",
+      "url": "https://www.tanjug.rs/sport/fudbal/238619/fudbaleri-barselone-deklasirali-njukasl-i-plasirali-se-u-cetvrtfinale-lige-sampiona/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "18. 03. 2026. 19:31",
+      "datum": "18. 03. 2026. 21:51",
+      "slika": null
+    },
+    {
+      "naslov": "W ФУТСАЛ ЖЕНЕ | УБЕДЉИВА ПОБЕДА ПРОТИВ ЛИТВАНИЈЕ НА СТАРТУ ГЛАВНЕ РУНДЕ КВАЛИФИКАЦИЈА ЗА ПРВЕНСТВО ЕВРОПЕ",
+      "opis": "Сјајно издање и убедљива победа наше најбоље женске футсал селекције на старту главне рунде квалификација за Првенство Европе. Савладана је Литванија, домаћин турнира, са убедљивих 5:0 (4:0). Све је било...",
+      "url": "https://fss.rs/w-futsal-zene-ubedljiva-pobeda-protiv-litvanije-na-startu-glavne-runde-kvalifikacija-za-prvenstvo-evrope/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "18. 03. 2026. 21:15",
       "slika": null
     },
     {
@@ -90,15 +99,6 @@
       "izvor": "ФСС",
       "logo": "fss.rs",
       "datum": "17. 03. 2026. 14:50",
-      "slika": null
-    },
-    {
-      "naslov": "У18 | МЛАЂИ ОМЛАДИНЦИ ИМАЈУ ДВЕ ПРОВЕРЕ У СЛОВАЧКОЈ, СЕЛЕКТОР МИЛАН СТЕГЊАИЋ ПОЗВАО 22 ИГРАЧА",
-      "opis": "Млађа омладинска репрезентација Србије (У18) има две провере у Словачкој, пред јунски старт у квалификацијама за Првенство Европе и мечеве са Португалом, Грчком (домаћин турнира) и Казахстаном. Оба дуела са...",
-      "url": "https://fss.rs/u18-mladji-omladinci-imaju-dve-provere-u-slovackoj-selektor-milan-stegnjaic-pozvao-22-igraca/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "17. 03. 2026. 11:24",
       "slika": null
     }
   ],
