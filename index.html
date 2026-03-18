@@ -664,13 +664,31 @@ const DEMO_NEXT = {events:[
 ]};
 
 async function safeApi(path, demo) {
-  if (location.protocol === 'file:' || SID === 'DEMO') {
-    return demo; // Lokalni test — demo podaci
+  // Samo lokalni file:// koristi demo
+  if (location.protocol === 'file:') {
+    return demo;
   }
   try {
-    return await api(path);
+    const result = await api(path);
+    if (result) return result;
+    throw new Error('Empty response');
   } catch(e) {
-    console.warn('Live API failed, using demo:', e.message);
+    console.error('API greška:', e.message);
+    // Na serveru — pokušaj direktno SofaScore kroz proxy
+    try {
+      const proxies = [
+        u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
+        u => `https://api.allorigins.win/raw?url=${encodeURIComponent(u)}`,
+      ];
+      const url = 'https://www.sofascore.com/api/v1' + path;
+      for (const p of proxies) {
+        try {
+          const r = await fetch(p(url), {signal: AbortSignal.timeout(6000)});
+          if (r.ok) { const d = await r.json(); if (d) return d; }
+        } catch(e2) { continue; }
+      }
+    } catch(e3) {}
+    console.warn('Svi API pokušaji neuspešni, koristim demo');
     return demo;
   }
 }

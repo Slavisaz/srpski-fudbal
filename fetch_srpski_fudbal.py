@@ -210,7 +210,7 @@ def ocisti(tekst):
     if not tekst:
         return ""
     tekst = re.sub(r'<[^>]+>', '', tekst)
-    for ent, rep in [('&amp;','&'),('&lt;','<'),('&gt;','>'),('&quot;','"'),('&#\d+;','')]:
+    for ent, rep in [('&amp;','&'),('&lt;','<'),('&gt;','>'),('&quot;','"'),('&#\\d+;','')]:
         tekst = re.sub(ent, rep, tekst)
     return re.sub(r'\s+', ' ', tekst).strip()
 
@@ -387,22 +387,22 @@ def ubaci_u_html(vesti, azurirano):
         novi
     )
 
-    # 2. HERO LIST — prvih 5 vesti kao numerisana lista
+    # 2. SIDEBAR VESTI — 3 naslova u desnom stupcu
     if vesti:
-        hero_items = ""
-        for i, v in enumerate(vesti[:5]):
-            hero_items += (
-                f'      <li class="hero-item" onclick="window.open(\'{v["url"]}\',\'_blank\')" style="cursor:pointer">'
-                f'<span class="hi-num">{i+1}</span>'
-                f'<div class="hi-body">'
-                f'<div class="hi-tag">{v["izvor"]}</div>'
-                f'<div class="hi-ttl">{v["naslov"][:90]}</div>'
-                f'<div class="hi-meta">{v["datum"]}</div>'
-                f'</div></li>\n'
+        sidebar_items = ""
+        for i, v in enumerate(vesti[:3]):
+            border = "border-bottom:1px solid var(--bdr);" if i < 2 else ""
+            sidebar_items += (
+                f'      <a href="{v["url"]}" target="_blank" class="sv-item" '
+                f'style="display:block;padding:12px 14px;{border}text-decoration:none;background:white;transition:background .15s" '
+                f'onmouseover="this.style.background=\'var(--off)\'" onmouseout="this.style.background=\'white\'">\n'
+                f'        <div style="font-family:var(--fu);font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.1em;color:var(--txt3);margin-bottom:3px">{v["izvor"]}</div>\n'
+                f'        <div style="font-family:var(--fd);font-size:14px;font-weight:700;color:var(--txt);line-height:1.3">{v["naslov"][:75]}</div>\n'
+                f'      </a>\n'
             )
         novi = re.sub(
-            r'<!-- HERO_START -->.*?<!-- HERO_END -->',
-            f'<!-- HERO_START -->\n{hero_items}      <!-- HERO_END -->',
+            r'<!-- SIDEBAR_VESTI_START -->.*?<!-- SIDEBAR_VESTI_END -->',
+            f'<!-- SIDEBAR_VESTI_START -->\n{sidebar_items}      <!-- SIDEBAR_VESTI_END -->',
             novi, flags=re.DOTALL
         )
 
@@ -414,48 +414,8 @@ def ubaci_u_html(vesti, azurirano):
         novi, flags=re.DOTALL
     )
 
-    # Generate prognoza HTML for injection
-    p = prog
-    zvezdicice = lambda n: '★' * n + '☆' * (5-n)
-    utakmice_html = ""
-    for u in p["utakmice"]:
-        utakmice_html += f'''      <div style="background:white;border:1.5px solid var(--bdr);border-radius:4px;padding:10px 12px;margin-bottom:8px">
-        <div style="font-family:var(--fu);font-size:11px;font-weight:600;color:var(--txt3);text-transform:uppercase;letter-spacing:.08em;margin-bottom:4px">{u['liga']} · {u['datum']} {u['vreme']}</div>
-        <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:5px">
-          <div style="font-family:var(--fd);font-size:15px;font-weight:700;color:var(--txt)">{u['domacin']} — {u['gost']}</div>
-          <div style="display:flex;gap:6px;align-items:center;flex-shrink:0">
-            <span style="background:var(--blue);color:white;font-family:var(--fd);font-size:13px;font-weight:800;padding:4px 10px;border-radius:3px">{u['tip']}</span>
-            <span style="font-family:var(--fd);font-size:16px;font-weight:800;color:var(--red)">{u['kvota']:.2f}</span>
-          </div>
-        </div>
-        <div style="font-family:var(--fu);font-size:12px;color:var(--txt3);margin-bottom:4px">{u['analiza']}</div>
-        <div style="font-size:11px;color:#D4A017">{zvezdicice(u['pouzdanost'])} Поузданост</div>
-      </div>\n'''
-
-    prognoza_html = f'''      <div style="background:var(--off);border:1px solid var(--bdr);border-radius:5px;padding:14px;margin-bottom:12px">
-        <div style="font-family:var(--fd);font-size:12px;font-weight:700;color:var(--txt3);text-transform:uppercase;letter-spacing:.08em;margin-bottom:10px">📅 АИ Прогноза за {p['datum']}</div>
-{utakmice_html}
-        <div style="background:var(--blue);border-radius:4px;padding:12px 14px;display:flex;align-items:center;justify-content:space-between;margin-top:4px">
-          <div>
-            <div style="font-family:var(--fd);font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:rgba(255,255,255,.65)">Укупна квота</div>
-            <div style="font-family:var(--fd);font-size:28px;font-weight:800;color:#D4A017;line-height:1">{p['ukupna_kvota']:.2f}x</div>
-          </div>
-          <div style="text-align:right">
-            <div style="font-family:var(--fu);font-size:11px;color:rgba(255,255,255,.55)">Пример (1.000 РСД)</div>
-            <div style="font-family:var(--fd);font-size:20px;font-weight:800;color:white">{int(p['dobitak_primer']):,} РСД</div>
-          </div>
-        </div>
-        <div style="font-family:var(--fu);font-size:10px;color:var(--txt4);text-align:center;margin-top:10px;line-height:1.5">⚠ {p['napomena']}</div>
-      </div>'''
-
-    novi = re.sub(
-        r'<!-- PROGNOZA_START -->.*?<!-- PROGNOZA_END -->',
-        f'<!-- PROGNOZA_START -->\n{prognoza_html}\n      <!-- PROGNOZA_END -->',
-        novi, flags=re.DOTALL
-    )
-
     html_path.write_text(novi, encoding="utf-8")
-    print(f"   ✓ {html_path} ažuriran — hero + side + ticker + vesti + prognoza")
+    print(f"   ✓ {html_path} ažuriran — vesti: {len(vesti)}, ticker + sidebar")
 # ═══════════════════════════════════════════════════
 TABELA = [
     {"poz":1,"klub":"ЦЗ Звезда","u":24,"p":17,"n":5,"i":2,"gd":"+34","go":"56-22","bod":56},
@@ -491,9 +451,6 @@ def main():
     vesti = povuci_vesti()
 
     # 2. Prognoza dana
-    print("\n🎯 Generišem prognoza dana...")
-    prog = prognoza_dana()
-    print(f"   ✓ Kvota: {prog['ukupna_kvota']}")
 
     # 3. Snimi JSON
     izlaz = Path("public/data")
@@ -504,7 +461,6 @@ def main():
         "azurirano":    datetime.now(timezone.utc).isoformat(),
         "azurirano_sr": azurirano_sr,
         "vesti":        vesti,
-        "prognoza_dana":prog,
         "tabela":       TABELA,
         "strelci":      STRELCI,
     }
