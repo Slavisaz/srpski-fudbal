@@ -31,17 +31,17 @@ img{max-width:100%}
 
 /* HEADER */
 .hdr{background:#fff;border-bottom:3px solid var(--red);position:sticky;top:0;z-index:200;box-shadow:0 2px 16px rgba(0,0,0,.09)}
-.hdr-in{max-width:1200px;margin:0 auto;padding:0 20px;display:flex;align-items:center;height:64px;gap:24px}
-.logo{display:flex;align-items:center;gap:11px;flex-shrink:0}
-.logo-ball{width:52px;height:52px}
-.logo-wm{display:flex;flex-direction:column;line-height:1}
-.logo-name{font-family:var(--fd);font-size:26px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;color:var(--red)}
-.logo-sub{font-family:var(--fu);font-size:9px;font-weight:500;letter-spacing:.18em;text-transform:uppercase;color:var(--txt4);margin-top:3px}
-nav{display:flex;align-items:center;height:100%;gap:2px;margin-left:auto}
+.hdr-in{max-width:1200px;margin:0 auto;padding:0 16px;display:flex;align-items:center;height:64px;gap:16px;min-width:0}
+.logo{display:flex;align-items:center;gap:10px;flex-shrink:0;min-width:0;text-decoration:none}
+.logo-ball{width:46px;height:46px;flex-shrink:0;overflow:visible}
+.logo-wm{display:flex;flex-direction:column;line-height:1;min-width:0}
+.logo-name{font-family:var(--fd);font-size:24px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;color:var(--red);white-space:nowrap}
+.logo-sub{font-family:var(--fu);font-size:8.5px;font-weight:500;text-transform:uppercase;color:var(--txt4);margin-top:4px;white-space:nowrap;display:flex;justify-content:space-between;width:100%;letter-spacing:.04em}
+nav{display:flex;align-items:center;height:100%;gap:2px;margin-left:auto;flex-shrink:0}
 nav a{font-family:var(--fd);font-size:13px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;color:var(--txt3);padding:0 12px;height:100%;display:flex;align-items:center;border-bottom:3px solid transparent;margin-bottom:-3px;transition:color .15s,border-color .15s;white-space:nowrap}
 nav a:hover{color:var(--red);border-color:var(--red)}
-.hdr-date{font-family:var(--fu);font-size:11px;color:var(--txt4);white-space:nowrap;padding-left:12px;border-left:1px solid var(--bdr)}
-.hbtn{display:none;flex-direction:column;gap:5px;cursor:pointer;padding:8px;background:none;border:none;margin-left:auto}
+.hdr-date{font-family:var(--fu);font-size:11px;color:var(--txt4);white-space:nowrap;padding-left:12px;border-left:1px solid var(--bdr);flex-shrink:0}
+.hbtn{display:none;flex-direction:column;gap:5px;cursor:pointer;padding:8px;background:none;border:none;margin-left:auto;flex-shrink:0}
 .hbtn span{width:22px;height:2px;background:var(--txt);border-radius:2px;transition:all .25s}
 .hbtn.open span:nth-child(1){transform:rotate(45deg) translate(5px,5px)}
 .hbtn.open span:nth-child(2){opacity:0}
@@ -148,13 +148,10 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 .nc-meta{font-family:var(--fu);font-size:10px;color:var(--txt4);display:flex;justify-content:space-between;align-items:center;margin-top:auto}
 .nc-meta a{color:var(--blue);font-weight:600;font-size:11px}
 .fi-anim{animation:fadeUp .35s ease both}
-@keyframes fadeUp{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}to{opacity:1;transform:translateY(0)}}
+@keyframes fadeUp{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
 
 /* SUPERLIGA WIDGET CSS */
 /* ═══ SUPERLIGA WIDGET ═══ */
-*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'Barlow',sans-serif;background:#f4f5f7;padding:20px}
-
 .slw{background:#fff;border:1px solid #dde1e8;border-radius:6px;overflow:hidden;max-width:800px;margin:0 auto}
 .slw-hd{background:linear-gradient(90deg,#003F8A,#1a5aad);padding:10px 16px;display:flex;align-items:center;justify-content:space-between}
 .slw-title{font-family:'Barlow Condensed',sans-serif;font-size:16px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:#fff;display:flex;align-items:center;gap:8px}
@@ -249,13 +246,18 @@ body{font-family:'Barlow',sans-serif;background:#f4f5f7;padding:20px}
   .ft-top{grid-template-columns:1fr}
 }
 @media(max-width:600px){
-  .hdr-in{height:56px}
-  .logo-ball{width:44px;height:44px}
-  .logo-name{font-size:20px}
+  .hdr-in{height:56px;padding:0 12px;gap:10px}
+  .logo-ball{width:38px;height:38px}
+  .logo-name{font-size:18px}
   .logo-sub{display:none}
   .page{padding:14px 12px}
   .mob-menu{top:56px}
   .slw-tab{font-size:11px}
+}
+@media(max-width:360px){
+  .logo-name{font-size:16px}
+  .logo-ball{width:32px;height:32px}
+  .hdr-in{padding:0 10px;gap:8px}
 }
 </style>
 </head>
@@ -304,7 +306,7 @@ body{font-family:'Barlow',sans-serif;background:#f4f5f7;padding:20px}
       </svg>
       <div class="logo-wm">
         <div class="logo-name">Српски Фудбал</div>
-        <div class="logo-sub">Вести · Резултати · Табела · Репрезентација</div>
+        <div class="logo-sub"><span>Вести</span><span>Резултати</span><span>Табела</span></div>
       </div>
     </a>
     <nav>
@@ -1023,50 +1025,6 @@ async function ucitajVesti() {
 // Pokreni odmah i ponovi svakih 15 minuta
 ucitajVesti();
 setInterval(ucitajVesti, 15 * 60 * 1000);
-</script
-
-// Override ucitajVesti da popuni featured i grid posebno
-const _orig = ucitajVesti;
-async function ucitajVesti() {
-  await _orig();
-  // Poboljšano prikazivanje — featured + grid
-  const grid = document.getElementById('vesti-grid');
-  if (!grid) return;
-  const items = grid.querySelectorAll('.nc.fi-anim');
-  if (!items.length) return;
-
-  // Uzmi prvu vest kao featured
-  const featured = document.getElementById('vest-featured');
-  if (featured && items[0]) {
-    const first = items[0];
-    const ttl = first.querySelector('.nc-ttl')?.textContent || '';
-    const src = first.querySelector('.nc-cat')?.textContent || '';
-    const blrb = first.querySelector('.nc-blrb')?.textContent || '';
-    const url = first.getAttribute('onclick')?.match(/'([^']+)'/)?.[1] || '#';
-    const dt = first.querySelector('.nc-meta span')?.textContent || '';
-
-    const colors = ['#001436','#1e0008','#0d1200','#1a0a36'];
-    const bg = colors[Math.floor(Math.random()*colors.length)];
-    const letter = (ttl[0] || 'Н').toUpperCase();
-
-    featured.innerHTML = `<div class="vf" onclick="window.open('${url}','_blank')">
-      <div class="vf-img">
-        <svg viewBox="0 0 400 220" xmlns="http://www.w3.org/2000/svg">
-          <rect width="400" height="220" fill="${bg}"/>
-          <text x="20" y="200" font-family="serif" font-size="220" font-weight="900" fill="rgba(255,255,255,.06)">${letter}</text>
-          <text x="14" y="22" font-family="sans-serif" font-size="10" fill="rgba(255,255,255,.3)" letter-spacing="3">${src.toUpperCase()}</text>
-        </svg>
-      </div>
-      <div class="vf-body">
-        <span class="vf-tag">${src}</span>
-        <div class="vf-ttl">${ttl}</div>
-        <div class="vf-desc">${blrb}</div>
-        <div class="vf-meta"><span class="vf-src">${src}</span><span>${dt}</span></div>
-      </div>
-    </div>`;
-    items[0].style.display = 'none'; // Sakrij iz grida
-  }
-}
 
 // ═══════════════════════════════════
 // NAV ACTIVE ON SCROLL
