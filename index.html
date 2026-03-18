@@ -131,8 +131,24 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 .ft-col-h{font-family:var(--fd);font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.4);margin-bottom:10px}
 .ft-col a{display:block;font-size:12px;color:rgba(255,255,255,.55);margin-bottom:7px;transition:color .15s}
 .ft-col a:hover{color:#fff}
+.ft-logo svg.logo-ball{background:none!important;border-radius:0!important}
+.ft-logo{display:flex;align-items:center;gap:10px;margin-bottom:10px}
 .ft-bot{max-width:1200px;margin:16px auto 0;display:flex;justify-content:space-between;font-size:10px;color:rgba(255,255,255,.25);flex-wrap:wrap;gap:8px;align-items:center}
 .ft-tricolor{height:3px;background:linear-gradient(90deg,#CC0000 33.3%,#003F8A 33.3%,#003F8A 66.6%,#e8eaf0 66.6%)}
+
+/* NEWS CARDS from loader */
+.nc{background:#fff;border:1px solid var(--bdr);border-radius:var(--r);overflow:hidden;cursor:pointer;transition:box-shadow .2s,transform .15s;display:flex;flex-direction:column}
+.nc:hover{box-shadow:0 4px 16px rgba(0,0,0,.1);transform:translateY(-2px)}
+.nc-img{height:140px;overflow:hidden;background:var(--off2);flex-shrink:0}
+.nc-img svg,.nc-img img{width:100%;height:100%;object-fit:cover;display:block}
+.nc-body{padding:12px 14px;flex:1;display:flex;flex-direction:column}
+.nc-cat{font-family:var(--fu);font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--red);margin-bottom:5px}
+.nc-ttl{font-family:var(--fd);font-size:16px;font-weight:600;color:var(--txt);line-height:1.25;margin-bottom:6px;flex:1}
+.nc-blrb{font-family:var(--fb);font-size:12px;color:var(--txt3);line-height:1.5;margin-bottom:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.nc-meta{font-family:var(--fu);font-size:10px;color:var(--txt4);display:flex;justify-content:space-between;align-items:center;margin-top:auto}
+.nc-meta a{color:var(--blue);font-weight:600;font-size:11px}
+.fi-anim{animation:fadeUp .35s ease both}
+@keyframes fadeUp{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}to{opacity:1;transform:translateY(0)}}
 
 /* SUPERLIGA WIDGET CSS */
 /* ═══ SUPERLIGA WIDGET ═══ */
@@ -431,21 +447,6 @@ body{font-family:'Barlow',sans-serif;background:#f4f5f7;padding:20px}
     <div class="wh red">🗞 Најновије вести</div>
     <div id="sidebar-vesti">
       <!-- SIDEBAR_VESTI_START -->
-      <a href="#" class="sv-item">
-        <div class="sv-tag">ФСС</div>
-        <div class="sv-ttl">Акредитовање медија и квалификације</div>
-        <div class="sv-dt">18. 03. 2026.</div>
-      </a>
-      <a href="#" class="sv-item">
-        <div class="sv-tag">Суперлига</div>
-        <div class="sv-ttl">Партизан – Звезда: Вечити дерби 23. марта</div>
-        <div class="sv-dt">18. 03. 2026.</div>
-      </a>
-      <a href="#" class="sv-item">
-        <div class="sv-tag">Репрезентација</div>
-        <div class="sv-ttl">Пикси: Тадић и Митровић враћени у тим</div>
-        <div class="sv-dt">18. 03. 2026.</div>
-      </a>
       <!-- SIDEBAR_VESTI_END -->
     </div>
   </div>
@@ -466,45 +467,19 @@ body{font-family:'Barlow',sans-serif;background:#f4f5f7;padding:20px}
   <div class="ft-top">
     <div>
       <div class="ft-logo">
-        <!-- FINAL LOGO BALL — Serbian tricolor, dynamic angle, correct pentagon geometry -->
-      <svg class="logo-ball" viewBox="-1 -1 202 202" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-          <clipPath id="lbc"><circle cx="100" cy="100" r="99"/></clipPath>
-          <radialGradient id="lbg" cx="33%" cy="27%" r="66%">
-            <stop offset="0%" stop-color="#fff"/>
-            <stop offset="100%" stop-color="#bfc6d0"/>
-          </radialGradient>
-          <radialGradient id="lrs" cx="50%" cy="50%" r="50%">
-            <stop offset="55%" stop-color="rgba(0,0,0,0)"/>
-            <stop offset="100%" stop-color="rgba(0,0,0,0.22)"/>
-          </radialGradient>
-        </defs>
-        <!-- Ball base -->
-        <circle cx="100" cy="100" r="99" fill="url(#lbg)"/>
-        <!-- Serbian tricolor: RED · BLUE · WHITE -->
-        <g clip-path="url(#lbc)">
-          <rect x="1" y="1"   width="198" height="66" fill="#CC0000"/>
-          <rect x="1" y="67"  width="198" height="66" fill="#003F8A"/>
-          <rect x="1" y="133" width="198" height="67" fill="#e4e7ef"/>
-        </g>
-        <!-- CENTER pentagon: cx=100,cy=92, r=35, rotated 22° -->
-        <polygon clip-path="url(#lbc)"
-          points="113,60 135,94 108,126 70,111 73,70"
-          fill="rgba(255,255,255,0.32)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
-        <!-- OUTER 5 — centers at dist=96, clipped at edge -->
-        <polygon clip-path="url(#lbc)" points="168,16  134,37  103,11  118,-26 158,-23" fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
-        <polygon clip-path="url(#lbc)" points="194,133 163,107 178,70  218,73  228,112" fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
-        <polygon clip-path="url(#lbc)" points="90,193  105,156 145,159 155,198 121,219" fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
-        <polygon clip-path="url(#lbc)" points="1,114   41,117  51,156  17,177  -14,151" fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
-        <polygon clip-path="url(#lbc)" points="49,4    59,43   25,64   -6,38   9,1"    fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
-        <!-- Rim shading + highlight -->
-        <circle cx="100" cy="100" r="99" fill="url(#lrs)"/>
-        <ellipse cx="60" cy="44" rx="28" ry="19" fill="white" opacity="0.50" transform="rotate(-30 60 44)"/>
-        <ellipse cx="55" cy="39" rx="13" ry="9"  fill="white" opacity="0.62" transform="rotate(-30 55 39)"/>
-        <!-- Border -->
-        <circle cx="100" cy="100" r="99" fill="none" stroke="#a4adb8" stroke-width="1.5"/>
+      <svg viewBox="0 0 52 52" xmlns="http://www.w3.org/2000/svg" width="36" height="36">
+        <circle cx="26" cy="26" r="25" fill="#CC0000"/>
+        <circle cx="26" cy="26" r="17" fill="#003F8A"/>
+        <circle cx="26" cy="26" r="10" fill="white" opacity=".9"/>
+        <text x="26" y="30" text-anchor="middle" font-family="serif" font-size="11" font-weight="900" fill="#CC0000">СФ</text>
+      </svg> xmlns="http://www.w3.org/2000/svg" width="38" height="38">
+        <circle cx="26" cy="26" r="25" fill="#CC0000"/>
+        <circle cx="26" cy="26" r="18" fill="#003F8A"/>
+        <circle cx="26" cy="26" r="11" fill="white" opacity=".9"/>
+        <text x="26" y="31" text-anchor="middle" font-family="serif" font-size="12" font-weight="900" fill="#CC0000">СФ</text>
       </svg>
-        <span class="ft-logo-n">Српски Фудбал</span>
+      <span class="ft-logo-n">Српски Фудбал</span>
+      </div>
       </div>
       <div class="ft-desc">Аутоматски портал о српском фудбалу.<br>Вести · Резултати · Табела · Репрезентација</div>
     </div>
@@ -559,6 +534,26 @@ document.addEventListener('click',e=>{
 // ═══════════════════════════════════
 // SUPERLIGA WIDGET
 // ═══════════════════════════════════
+// ═══ PREVOD TIMOVA ═══
+const TIMOVI_MAP = {
+  'FK Crvena zvezda':'Црвена звезда','Crvena zvezda':'Црвена звезда','Red Star Belgrade':'Црвена звезда',
+  'FK Partizan':'Партизан','Partizan':'Партизан','Partizan Belgrade':'Партизан',
+  'FK Vojvodina':'Војводина','Vojvodina':'Војводина',
+  'FK Čukarički':'Чукарички','Čukarički':'Чукарички','FK Cukaricki':'Чукарички','Cukaricki':'Чукарички',
+  'FK Spartak Subotica':'Спартак Суботица','Spartak Subotica':'Спартак Суботица',
+  'FK Radnik Surdulica':'Радник Сурдулица','Radnik Surdulica':'Радник Сурдулица',
+  'FK Napredak Kruševac':'Напредак Крушевац','Napredak Kruševac':'Напредак Крушевац',
+  'FK Novi Pazar':'Нови Пазар','Novi Pazar':'Нови Пазар',
+  'FK TSC Bačka Topola':'ТСЦ Бачка Топола','TSC Bačka Topola':'ТСЦ Бачка Топола',
+  'FK Radnički Niš':'Раднички Ниш','Radnički Niš':'Раднички Ниш',
+  'FK Voždovac':'Вождовац','Voždovac':'Вождовац',
+  'OFK Beograd':'ОФК Београд','FK Kolubara':'Колубара','Kolubara':'Колубара',
+  'FK Javor Ivanjica':'Јавор Ивањица','FK Mladost Lučani':'Младост Лучани',
+};
+function timT(n) {
+  if (!n) return '';
+  return TIMOVI_MAP[n] || TIMOVI_MAP[n.replace(/^FK /,'')] || n;
+}
 const TID = 210;   // Superliga Srbije
 const BASE = 'https://www.sofascore.com/api/v1';
 let SID = null; // Auto-detected from API
@@ -711,8 +706,8 @@ function matchRow(e) {
   const live = tip === 'inprogress' || tip === 'halftime';
   const done = tip === 'finished';
   const soon = !live && !done;
-  const d = T(e.homeTeam?.name);
-  const g = T(e.awayTeam?.name);
+  const d = timT(e.homeTeam?.name);
+  const g = timT(e.awayTeam?.name);
   const gD = e.homeScore?.current;
   const gG = e.awayScore?.current;
   const minut = e.time?.played;
@@ -809,7 +804,7 @@ async function loadTab() {
 
       return `<tr class="${zone}">
         <td>${r.position}</td>
-        <td class="l">${logo}${T(r.team?.name||'')}</td>
+        <td class="l">${logo}${timT(r.team?.name||'')}</td>
         <td>${r.matches}</td><td>${r.wins}</td><td>${r.draws}</td><td>${r.losses}</td>
         <td>${gd}</td>
         <td>${forma(r.team?.form||'')}</td>
