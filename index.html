@@ -362,7 +362,7 @@ body{font-family:'Barlow',sans-serif;background:#f4f5f7;padding:20px}
   <div class="slw-tabs">
     <button class="slw-tab on" onclick="slTab('rez',this)">Резултати</button>
     <button class="slw-tab" onclick="slTab('tab',this)">Табела</button>
-    <button class="slw-tab" onclick="slTab('uzi',this)">Уживо <span class="slw-badge" id="slw-badge" style="display:none">0</span></button>
+    <button class="slw-tab" onclick="slTab('uzi',this)">Уживо</button>
     <button class="slw-tab" onclick="slTab('ras',this)">Распоред</button>
   </div>
 
@@ -371,7 +371,7 @@ body{font-family:'Barlow',sans-serif;background:#f4f5f7;padding:20px}
   <div class="slw-panel" id="slw-panel-uzi"><div class="slw-spin" id="slw-spin-uzi"></div><div id="slw-out-uzi"></div></div>
   <div class="slw-panel" id="slw-panel-ras"><div class="slw-spin" id="slw-spin-ras"></div><div id="slw-out-ras"></div></div>
 
-  <div class="slw-ft">Подаци: <a href="https://sofascore.com" target="_blank">SofaScore</a> · <span id="slw-ts">Учитавам...</span></div>
+  <div class="slw-ft">Подаци: <a href="https://apifootball.com" target="_blank">APIfootball.com</a> · <span id="slw-ts">Учитавам...</span></div>
   </div>
 
   <!-- VESTI -->
@@ -825,7 +825,6 @@ async function loadTab() {
         <td class="l">${logo}${timT(r.team?.name||'')}</td>
         <td>${r.matches}</td><td>${r.wins}</td><td>${r.draws}</td><td>${r.losses}</td>
         <td>${gd}</td>
-        <td>${forma(r.team?.form||'')}</td>
         <td class="slw-pts">${r.points}</td>
       </tr>`;
     }).join('');
@@ -837,7 +836,7 @@ async function loadTab() {
             <th>#</th><th class="l">Клуб</th>
             <th title="Утакмице">У</th><th title="Победе">П</th>
             <th title="Нерешено">Н</th><th title="Изгубљено">И</th>
-            <th title="Гол разлика">ГР</th><th>Форма</th>
+            <th title="Гол разлика">ГР</th>
             <th title="Бодови">Бод</th>
           </tr></thead>
           <tbody>${tbody}</tbody>
