@@ -52,9 +52,9 @@ header{background:#fff;border-bottom:4px solid var(--red);box-shadow:0 2px 12px 
 .logo-wm{display:flex;flex-direction:column;line-height:1.05}
 .logo-l1{font-family:var(--fd);font-size:28px;font-weight:800;letter-spacing:.03em;text-transform:uppercase;color:var(--red)}
 .logo-l2{display:flex;align-items:center;gap:0;margin-top:4px;line-height:1}
-.logo-l2 .lt{font-family:var(--fu);font-size:10px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--red)}
-.logo-l2 .lsep{color:var(--bdr);margin:0 5px;font-size:9px}
-.logo-l2 .ln{font-family:var(--fu);font-size:9px;font-weight:500;letter-spacing:.12em;text-transform:uppercase;color:var(--txt4)}
+.logo-l2 .lt{font-family:var(--fu);font-size:9px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:var(--txt4)}
+.logo-l2 .lsep{color:var(--bdr);margin:0 6px;font-size:8px}
+.logo-l2 .ln{font-family:var(--fu);font-size:9px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:var(--txt4)}
 
 /* NAV */
 nav{display:flex;align-items:center;height:100%;gap:2px}
@@ -345,16 +345,6 @@ img{max-width:100%;height:auto}
 </head>
 <body>
 
-<!-- TOPBAR -->
-<div class="topbar">
-  <div class="tbi">
-    <div class="tbl">
-      <a href="#">Суперлига</a><a href="#">Репрезентација</a><a href="#">Европа</a><a href="#">Трансфери</a><a href="#">Видео</a>
-    </div>
-    <div class="tbr">17. март 2026 · Уторак</div>
-  </div>
-</div>
-
 <!-- HEADER -->
 <header>
   <div class="hi">
@@ -401,13 +391,13 @@ img{max-width:100%;height:auto}
       <div class="logo-wm">
         <div class="logo-l1">СРПСКИ ФУДБАЛ</div>
         <div class="logo-l2">
-          <span class="lt">Новости</span>
-          <span class="lsep">|</span>
+          <span class="lt">Вести</span>
+          <span class="lsep">·</span>
           <span class="ln">Резултати</span>
-          <span class="lsep">|</span>
+          <span class="lsep">·</span>
           <span class="ln">Табела</span>
-          <span class="lsep">|</span>
-          <span class="ln">Видео</span>
+          <span class="lsep">·</span>
+          <span class="ln">Репрезентација</span>
         </div>
       </div>
     </a>
@@ -420,6 +410,7 @@ img{max-width:100%;height:auto}
       <a href="#prognoze">Прогнозе</a>
       <a href="#video">Видео</a>
       <a href="#prognoze" class="nav-cta">⚡ ПРОГНОЗЕ →</a>
+      <span id="live-date" style="font-family:var(--fu);font-size:11px;color:var(--txt4);margin-left:10px;white-space:nowrap"></span>
     </nav>
   </div>
 </header>
@@ -758,6 +749,16 @@ setInterval(()=>{
   if(a)a.textContent=t;
   if(b)b.textContent=t;
 },30000);
+
+// Live date in header
+(function() {
+  const dani = ['Недеља','Понедељак','Уторак','Среда','Четвртак','Петак','Субота'];
+  const meseci = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
+  const d = new Date();
+  const txt = `${d.getDate()}. ${meseci[d.getMonth()]} ${d.getFullYear()} · ${dani[d.getDay()]}`;
+  const el = document.getElementById('live-date');
+  if(el) el.textContent = txt;
+})();
 
 // Hamburger menu
 function toggleMenu(){
