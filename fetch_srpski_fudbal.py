@@ -1,170 +1,128 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-srpskifudbal.com — Automatska Python skripta
-============================================
-Povlači srpske fudbalske vesti iz RSS feedova
-+ generiše "Prognoza Dana" tiket
-
-Pokretanje: python fetch_srpski_fudbal.py
-GitHub Actions: cron svakih 60 minuta (besplatno)
-
-100% legalno: povlači samo naslov + kratki opis + link
-Nikada ne kopira ceo tekst članka.
+srpskifudbal.com — Auto fetch skripta
+Povlači vesti iz srpskih ćiriličnih sajtova i upisuje u index.html
+GitHub Actions: cron svakih 60 minuta — besplatno
+100% legalno: samo naslov + kratki opis + link
 """
 
 import feedparser
 import json
 import os
 import re
-import random
 from datetime import datetime, timezone
 from pathlib import Path
+import functools
 
 
 # ═══════════════════════════════════════════════════
-# ISPRAVNI NAZIVI I PREZIMENA (ćirilica)
+# ISPRAVNA PREZIMENA — latinica → ćirilica
 # ═══════════════════════════════════════════════════
-ISPRAVNA_PREZIMENA = {
-    # Latinski → Ćirilica (česta greška u RSS feedovima)
-    "Vlahovic":       "Влаховић",
-    "Vlahovič":       "Влаховић",
-    "Vlahović":       "Влаховић",
-    "Tadic":          "Тадић",
-    "Tadić":          "Тадић",
-    "Milinkovic":     "Милинковић",
-    "Milinković":     "Милинковић",
+PREZIMENA = {
+    "Vlahovic": "Влаховић", "Vlahović": "Влаховић",
+    "Tadic": "Тадић", "Tadić": "Тадић",
+    "Milinkovic": "Милинковић", "Milinković": "Милинковић",
     "Milinković-Savić": "Милинковић-Савић",
-    "Savic":          "Савић",
-    "Savić":          "Савић",
-    "Mitrovic":       "Митровић",
-    "Mitrovič":       "Митровић",
-    "Mitrovič":       "Митровић",
-    "Jovic":          "Јовић",
-    "Jovič":          "Јовић",
-    "Lukic":          "Лукић",
-    "Lukić":          "Лукић",
-    "Maksimovic":     "Максимовић",
-    "Maksimović":     "Максимовић",
-    "Pavlovic":       "Павловић",
-    "Pavlović":       "Павловић",
-    "Milenkovic":     "Миленковић",
-    "Milenković":     "Миленковић",
-    "Lazovic":        "Лазовић",
-    "Lazović":        "Лазовић",
-    "Zivkovic":       "Живковић",
-    "Živković":       "Живковић",
-    "Grujic":         "Грујић",
-    "Grujić":         "Грујић",
-    "Kostic":         "Костић",
-    "Kostić":         "Костић",
-    "Rajkovic":       "Рајковић",
-    "Rajković":       "Рајковић",
-    "Piksi":          "Пикси",
-    "Stojkovic":      "Стојковић",
-    "Stojković":      "Стојковић",
-    "Petrovic":       "Петровић",
-    "Petrović":       "Петровић",
-    "Jovanovic":      "Јовановић",
-    "Jovanović":      "Јовановић",
-    "Nikolic":        "Николић",
-    "Nikolić":        "Николић",
-    # Klubovi latinski → ćirilica
-    "Crvena zvezda":  "Crvena zvezda",  # ostaviti jer se mešaju
-    "FK Partizan":    "ФК Партизан",
-    "FK Vojvodina":   "ФК Војводина",
-    "FK Cukaricki":   "ФК Чукарички",
-    "FK Čukarički":   "ФК Чукарички",
-    "FK Spartak":     "ФК Спартак",
-    "FK Radnik":      "ФК Радник",
-    "FK Napredak":    "ФК Напредак",
-    "FK Novi Pazar":  "ФК Нови Пазар",
+    "Savic": "Савић", "Savić": "Савић",
+    "Mitrovic": "Митровић", "Mitrovič": "Митровић",
+    "Jovic": "Јовић", "Jovič": "Јовић",
+    "Lukic": "Лукић", "Lukić": "Лукић",
+    "Maksimovic": "Максимовић", "Maksimović": "Максимовић",
+    "Pavlovic": "Павловић", "Pavlović": "Павловић",
+    "Milenkovic": "Миленковић", "Milenković": "Миленковић",
+    "Lazovic": "Лазовић", "Lazović": "Лазовић",
+    "Zivkovic": "Живковић", "Živković": "Живковић",
+    "Grujic": "Грујић", "Grujić": "Грујић",
+    "Kostic": "Костић", "Kostić": "Костић",
+    "Rajkovic": "Рајковић", "Rajković": "Рајковић",
+    "Stojkovic": "Стојковић", "Stojković": "Стојковић",
+    "Petrovic": "Петровић", "Petrović": "Петровић",
+    "Jovanovic": "Јовановић", "Jovanović": "Јовановић",
+    "Nikolic": "Николић", "Nikolić": "Николић",
+    "FK Partizan": "ФК Партизан",
+    "FK Vojvodina": "ФК Војводина",
+    "FK Cukaricki": "ФК Чукарички",
+    "FK Čukarički": "ФК Чукарички",
+    "FK Spartak": "ФК Спартак",
+    "FK Radnik": "ФК Радник",
+    "FK Napredak": "ФК Напредак",
+    "FK Novi Pazar": "ФК Нови Пазар",
 }
 
-def ispravi_tekst(tekst: str) -> str:
-    """Ispravlja česta pogrešna pisanja prezimena i naziva."""
+def ispravi(tekst):
     if not tekst:
         return tekst
-    for pogresno, tacno in ISPRAVNA_PREZIMENA.items():
-        tekst = tekst.replace(pogresno, tacno)
+    for lat, cir in PREZIMENA.items():
+        tekst = tekst.replace(lat, cir)
     return tekst
 
 
 # ═══════════════════════════════════════════════════
-# RSS FEEDOVI — samo srpski ćirilični sportski sajtovi
-# Legalno: koristimo samo naslov, kratki opis i URL
+# RSS FEEDOVI — samo srpski ćirilični sajtovi
 # ═══════════════════════════════════════════════════
 RSS_FEEDOVI = [
     {
-        "naziv":  "ФСС",
-        "url":    "https://www.fss.rs/sr/rss.html",
-        "backup": "https://www.fss.rs/sr/feed/rss",
-        "logo":   "fss.rs",
+        "naziv": "ФСС",
+        "url":   "https://www.fss.rs/sr/rss.html",
+        "backup":"https://www.fss.rs/rss",
+        "logo":  "fss.rs",
+        "uvek":  True,
     },
     {
-        "naziv":  "Политика",
-        "url":    "https://www.politika.rs/rss/rubrika/sport",
-        "backup": "https://www.politika.rs/rss",
-        "logo":   "politika.rs",
+        "naziv": "Политика",
+        "url":   "https://www.politika.rs/rss/rubrika/sport",
+        "backup":"https://www.politika.rs/rss",
+        "logo":  "politika.rs",
+        "uvek":  False,
     },
     {
-        "naziv":  "Новости",
-        "url":    "https://www.novosti.rs/rss/sport.xml",
-        "backup": "https://www.novosti.rs/rss/all.xml",
-        "logo":   "novosti.rs",
+        "naziv": "Новости",
+        "url":   "https://www.novosti.rs/rss/sport.xml",
+        "backup":"https://www.novosti.rs/rss/all.xml",
+        "logo":  "novosti.rs",
+        "uvek":  False,
     },
     {
-        "naziv":  "Спортски журнал",
-        "url":    "https://www.sportskizurnal.rs/feed/",
-        "backup": "https://www.sportskizurnal.rs/rss",
-        "logo":   "sportskizurnal.rs",
+        "naziv": "Спортски журнал",
+        "url":   "https://www.sportskizurnal.rs/feed/",
+        "backup":"https://www.sportskizurnal.rs/rss",
+        "logo":  "sportskizurnal.rs",
+        "uvek":  True,
     },
     {
-        "naziv":  "Танјуг",
-        "url":    "https://www.tanjug.rs/rss/sport",
-        "backup": "https://www.tanjug.rs/rss",
-        "logo":   "tanjug.rs",
+        "naziv": "Танјуг",
+        "url":   "https://www.tanjug.rs/rss/sport",
+        "backup":"https://www.tanjug.rs/rss",
+        "logo":  "tanjug.rs",
+        "uvek":  False,
     },
 ]
 
-# Ključne reči za filtriranje srpskog fudbala
 KLJUCNE_RECI = [
-    # Ćirilica
     "фудбал", "суперлига", "партизан", "звезда", "войводина",
     "чукарички", "репрезентација", "влаховић", "тадић", "митровић",
-    "милинковић", "јовић", "маракана", "хумска", "фсс", "срби",
-    "србија", "утакмица", "гол", "лига", "куп", "трансфер",
-    # Latinica (neki sajtovi mešaju)
+    "милинковић", "јовић", "маракана", "хумска", "фсс", "србија",
+    "утакмица", "гол", "лига", "куп", "трансфер", "тренер",
     "fudbal", "superliga", "partizan", "zvezda", "vojvodina",
     "cukaricki", "reprezentacija", "vlahovic", "tadic", "mitrovic",
-    "milinković", "jovic", "marakana", "humska", "fss",
-    "srbija", "utakmica", "gol", "liga", "kup", "transfer",
+    "marakana", "humska", "fss", "srbija", "utakmica", "transfer",
 ]
 
-def sadrzi_srpski_fudbal(tekst: str, naziv_izvora: str = "") -> bool:
-    """Proverava da li vest govori o srpskom fudbalu.
-    FSS uvek relevantan. Ostali filtriraju po ključnim rečima."""
-    # FSS je uvek o srpskom fudbalu
-    if "fss" in naziv_izvora.lower():
+def je_fudbal(tekst, uvek=False):
+    if uvek:
         return True
-    tekst_lower = tekst.lower()
-    return any(rec in tekst_lower for rec in KLJUCNE_RECI)
+    return any(r in tekst.lower() for r in KLJUCNE_RECI)
 
-def ocisti_html(tekst: str) -> str:
-    """Uklanja HTML tagove iz teksta."""
+def ocisti(tekst):
     if not tekst:
         return ""
     tekst = re.sub(r'<[^>]+>', '', tekst)
-    tekst = re.sub(r'&amp;', '&', tekst)
-    tekst = re.sub(r'&lt;', '<', tekst)
-    tekst = re.sub(r'&gt;', '>', tekst)
-    tekst = re.sub(r'&quot;', '"', tekst)
-    tekst = re.sub(r'&#\d+;', '', tekst)
-    tekst = re.sub(r'\s+', ' ', tekst).strip()
-    return tekst
+    for ent, rep in [('&amp;','&'),('&lt;','<'),('&gt;','>'),('&quot;','"'),('&#\d+;','')]:
+        tekst = re.sub(ent, rep, tekst)
+    return re.sub(r'\s+', ' ', tekst).strip()
 
-def parsiraj_datum(entry) -> str:
-    """Parsira datum iz RSS entrija."""
+def datum_iz_entry(entry):
     try:
         if hasattr(entry, 'published_parsed') and entry.published_parsed:
             dt = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
@@ -173,344 +131,230 @@ def parsiraj_datum(entry) -> str:
         pass
     return datetime.now().strftime("%d. %m. %Y. %H:%M")
 
-def povuci_vesti() -> list:
-    """Povlači vesti iz svih RSS feedova i filtrira srpski fudbal."""
-    sve_vesti = []
-    vidljivi_url = set()
 
-    for feed_info in RSS_FEEDOVI:
-        print(f"\n📡 Povlačim: {feed_info['naziv']} ({feed_info['url']})")
+# ═══════════════════════════════════════════════════
+# POVLAČENJE VESTI
+# ═══════════════════════════════════════════════════
+def povuci_vesti():
+    sve = []
+    vidljivi = set()
+
+    for fi in RSS_FEEDOVI:
+        print(f"\n📡 Povlačim: {fi['naziv']} ({fi['url']})")
         try:
-            feed = feedparser.parse(
-                feed_info["url"],
-                agent="srpskifudbal.com RSS Agregator/1.0"
-            )
-
-            # Ako feed nije uspeo, pokušaj backup
-            if feed.bozo and feed_info.get("backup"):
-                print(f"   ⚠ Pokušavam backup: {feed_info['backup']}")
-                feed = feedparser.parse(feed_info["backup"])
+            feed = feedparser.parse(fi["url"], agent="srpskifudbal.com/1.0")
+            if (not feed.entries or feed.bozo) and fi.get("backup"):
+                print(f"   ⚠ Backup: {fi['backup']}")
+                feed = feedparser.parse(fi["backup"])
 
             if not feed.entries:
-                print(f"   ✗ Nema entija u feedu")
+                print("   ✗ Nema entija")
                 continue
 
-            print(f"   ✓ Pronađeno {len(feed.entries)} entija")
-            broj_srpskih = 0
+            print(f"   ✓ {len(feed.entries)} entija pronađeno")
+            n = 0
 
-            for entry in feed.entries[:30]:  # max 30 po feedu
+            for entry in feed.entries[:30]:
                 url = getattr(entry, 'link', '')
-                if not url or url in vidljivi_url:
+                if not url or url in vidljivi:
                     continue
 
-                naslov = ocisti_html(getattr(entry, 'title', ''))
-                opis   = ocisti_html(getattr(entry, 'summary', ''))[:300]
+                naslov = ispravi(ocisti(getattr(entry, 'title', '')))
+                opis   = ispravi(ocisti(getattr(entry, 'summary', '')))[:300]
 
-                # Filtriraj samo srpski fudbal
-                if not sadrzi_srpski_fudbal(naslov + " " + opis, feed_info["naziv"]):
+                if not je_fudbal(naslov + " " + opis, fi.get("uvek", False)):
                     continue
 
-                # Ispravi prezimena
-                naslov = ispravi_tekst(naslov)
-                opis   = ispravi_tekst(opis)
-
-                # Uzmi sliku ako postoji
                 slika = None
                 if hasattr(entry, 'media_content') and entry.media_content:
                     slika = entry.media_content[0].get('url')
                 elif hasattr(entry, 'enclosures') and entry.enclosures:
                     slika = entry.enclosures[0].get('href')
 
-                vest = {
-                    "naslov":  naslov,
-                    "opis":    opis,
-                    "url":     url,
-                    "izvor":   feed_info["naziv"],
-                    "logo":    feed_info["logo"],
-                    "datum":   parsiraj_datum(entry),
-                    "slika":   slika,
-                }
+                sve.append({
+                    "naslov": naslov,
+                    "opis":   opis,
+                    "url":    url,
+                    "izvor":  fi["naziv"],
+                    "logo":   fi["logo"],
+                    "datum":  datum_iz_entry(entry),
+                    "slika":  slika,
+                })
+                vidljivi.add(url)
+                n += 1
 
-                sve_vesti.append(vest)
-                vidljivi_url.add(url)
-                broj_srpskih += 1
-
-            print(f"   ✓ {broj_srpskih} srpskih fudbalskih vesti")
+            print(f"   ✓ {n} fudbalskih vesti")
 
         except Exception as e:
             print(f"   ✗ Greška: {e}")
-            continue
 
-    # Sortiraj po datumu (najnovije prvo)
-    sve_vesti.sort(key=lambda v: v["datum"], reverse=True)
-    print(f"\n✅ Ukupno srpskih fudbalskih vesti: {len(sve_vesti)}")
-    return sve_vesti[:50]  # max 50 vesti
+    sve.sort(key=lambda v: v["datum"], reverse=True)
+    print(f"\n✅ Ukupno vesti: {len(sve)}")
+    return sve[:50]
 
 
 # ═══════════════════════════════════════════════════
-# PROGNOZA DANA — Tiket
-# Bira 3-5 utakmica i generiše prognozу
+# PROGNOZA DANA
 # ═══════════════════════════════════════════════════
-
-# Baza utakmica za prognoze (ažuriraj svake nedelje)
-# U produkciji: povuci iz football-data.org /matches endpoint
-UTAKMICE_BAZA = [
-    # Superliga Srbije
-    {
-        "domacin":  "ЦЗ Звезда",
-        "gost":     "ФК Партизан",
-        "liga":     "Суперлига Србије",
-        "datum":    "23.03.2026",
-        "vreme":    "18:00",
-        "tip":      "1",          # домаћин победа
-        "kvota":    2.10,
-        "analiza":  "Звезда домаћин, 7 бодова предности — јак фаворит.",
-        "pouzdanost": 4,          # 1-5
-    },
-    {
-        "domacin":  "ФК Чукарички",
-        "gost":     "ФК Нови Пазар",
-        "liga":     "Суперлига Србије",
-        "datum":    "22.03.2026",
-        "vreme":    "16:00",
-        "tip":      "1X",
-        "kvota":    1.55,
-        "analiza":  "Чукарички не губи код куће у овом полусезону.",
-        "pouzdanost": 5,
-    },
-    {
-        "domacin":  "ФК Войводина",
-        "gost":     "ФК Спартак",
-        "liga":     "Суперлига Србије",
-        "datum":    "22.03.2026",
-        "vreme":    "14:30",
-        "tip":      "ОВ 2.5",
-        "kvota":    1.80,
-        "analiza":  "Обе екипе постижу просечно 2+ гола по мечу.",
-        "pouzdanost": 4,
-    },
-    # Светске лиге — српски играчи у акцији
-    {
-        "domacin":  "Јувентус",
-        "gost":     "Наполи",
-        "liga":     "Серија А",
-        "datum":    "22.03.2026",
-        "vreme":    "20:45",
-        "tip":      "1",
-        "kvota":    2.30,
-        "analiza":  "Влаховић у одличној форми (18 голова), Јувентус борац за Скудето.",
-        "pouzdanost": 3,
-    },
-    {
-        "domacin":  "Торино",
-        "gost":     "Лацио",
-        "liga":     "Серија А",
-        "datum":    "22.03.2026",
-        "vreme":    "18:00",
-        "tip":      "X2",
-        "kvota":    1.65,
-        "analiza":  "МСС одлично у голу — Торино тежак домаћин али Лацио путује добро.",
-        "pouzdanost": 4,
-    },
-    {
-        "domacin":  "Аjакс",
-        "gost":     "Фенербахче",
-        "liga":     "Пријатељска",
-        "datum":    "21.03.2026",
-        "vreme":    "19:00",
-        "tip":      "1",
-        "kvota":    1.90,
-        "analiza":  "Тадић против бившег клуба — Ајакс јаки код куће.",
-        "pouzdanost": 3,
-    },
+UTAKMICE = [
+    {"domacin":"ЦЗ Звезда","gost":"ФК Партизан","liga":"Суперлига","datum":"23.03.2026","vreme":"18:00","tip":"1","kvota":2.10,"analiza":"Звезда домаћин, 7 бодова предности.","pouzdanost":4},
+    {"domacin":"ФК Чукарички","gost":"ФК Нови Пазар","liga":"Суперлига","datum":"22.03.2026","vreme":"16:00","tip":"1X","kvota":1.55,"analiza":"Чукарички не губи код куће.","pouzdanost":5},
+    {"domacin":"ФК Войводина","gost":"ФК Спартак","liga":"Суперлига","datum":"22.03.2026","vreme":"14:30","tip":"ОВ 2.5","kvota":1.80,"analiza":"Обе екипе постижу 2+ голова.","pouzdanost":4},
+    {"domacin":"Јувентус","gost":"Наполи","liga":"Серија А","datum":"22.03.2026","vreme":"20:45","tip":"1","kvota":2.30,"analiza":"Влаховић у одличној форми.","pouzdanost":3},
+    {"domacin":"Торино","gost":"Лацио","liga":"Серија А","datum":"22.03.2026","vreme":"18:00","tip":"X2","kvota":1.65,"analiza":"МСС одлично у голу.","pouzdanost":4},
 ]
 
-def izracunaj_ukupnu_kvotu(utakmice: list) -> float:
-    """Množenje svih kvota za kombinovani tiket."""
-    ukupno = 1.0
-    for u in utakmice:
-        ukupno *= u["kvota"]
-    return round(ukupno, 2)
-
-def generisi_prognoza_dana() -> dict:
-    """
-    Bira 3-5 utakmica i pravi tiket dana.
-    Prioritet: pouzdanost 4-5, kombinacija srpskih + evropskih.
-    """
-    # Sortiraj po pouzdanosti
-    sortirane = sorted(UTAKMICE_BAZA, key=lambda u: u["pouzdanost"], reverse=True)
-
-    # Uzmi top 2 Superliga + 1-2 Serija A/Evropa
-    superliga = [u for u in sortirane if "Суперлига" in u["liga"]]
-    evropa    = [u for u in sortirane if "Суперлига" not in u["liga"]]
-
-    # Biraj 2 superliga + 2 evropa = 4 utakmica
-    izabrane = superliga[:2] + evropa[:2]
-
-    # Ako nemamo dovoljno, dopuni random iz baze
-    if len(izabrane) < 3:
-        preostale = [u for u in sortirane if u not in izabrane]
-        izabrane += preostale[:3 - len(izabrane)]
-
-    ukupna_kvota = izracunaj_ukupnu_kvotu(izabrane)
-
+def prognoza_dana():
+    superliga = sorted([u for u in UTAKMICE if "Суперлига" in u["liga"]], key=lambda u: u["pouzdanost"], reverse=True)
+    evropa    = sorted([u for u in UTAKMICE if "Суперлига" not in u["liga"]], key=lambda u: u["pouzdanost"], reverse=True)
+    izabrane  = superliga[:2] + evropa[:2]
+    kvota = round(functools.reduce(lambda a, b: a * b["kvota"], izabrane, 1.0), 2)
     return {
-        "datum":        datetime.now().strftime("%d. %m. %Y."),
-        "vreme":        datetime.now().strftime("%H:%M"),
-        "utakmice":     izabrane,
-        "ukupna_kvota": ukupna_kvota,
-        "ulog_primer":  1000,
-        "dobitak_primer": round(ukupna_kvota * 1000, 0),
-        "napomena":      (
-            "Прогноза је искључиво информативног карактера. "
-            "Клађење је забавни садржај — играј одговорно. "
-            "Само за особе старије од 18 година."
-        ),
+        "datum":          datetime.now().strftime("%d. %m. %Y."),
+        "utakmice":       izabrane,
+        "ukupna_kvota":   kvota,
+        "ulog_primer":    1000,
+        "dobitak_primer": round(kvota * 1000, 0),
+        "napomena":       "Прогноза је информативног карактера. Игра одговорно. 18+",
     }
 
 
 # ═══════════════════════════════════════════════════
-# STATISTIKE SUPERLIGE (placeholder — zameni API)
+# UPISIVANJE VESTI U index.html
 # ═══════════════════════════════════════════════════
-TABELA_SUPERLIGA = [
-    {"poz":1, "klub":"ЦЗ Звезда",     "u":24,"p":17,"n":5,"i":2, "gd":"+34","go":"56-22","bod":56,"forma":"ПППНП"},
-    {"poz":2, "klub":"ФК Партизан",   "u":24,"p":16,"n":6,"i":2, "gd":"+28","go":"48-20","bod":54,"forma":"ППППИ"},
-    {"poz":3, "klub":"ФК Войводина",  "u":24,"p":12,"n":4,"i":8, "gd":"+10","go":"38-28","bod":40,"forma":"ПИНПН"},
-    {"poz":4, "klub":"ФК Чукарички", "u":24,"p":10,"n":6,"i":8, "gd":"+6", "go":"34-28","bod":36,"forma":"ННПИП"},
-    {"poz":5, "klub":"ФК Спартак",    "u":24,"p":9, "n":5,"i":10,"gd":"+2", "go":"30-28","bod":32,"forma":"ИППНИ"},
-    {"poz":6, "klub":"ФК Напредак",   "u":24,"p":8, "n":5,"i":11,"gd":"-4", "go":"26-30","bod":29,"forma":"НИИ ПН"},
-    {"poz":7, "klub":"ФК Радник",     "u":24,"p":7, "n":5,"i":12,"gd":"-8", "go":"22-30","bod":26,"forma":"ПИНИИ"},
-    {"poz":8, "klub":"ФК Нови Пазар", "u":24,"p":4, "n":4,"i":16,"gd":"-18","go":"18-36","bod":16,"forma":"ИИНИИ"},
+SVG_BOJE = [
+    ("#e8f0fb","rgba(0,63,138,.07)"),
+    ("#fff0f0","rgba(204,0,0,.06)"),
+    ("#f0f7f0","rgba(22,163,74,.06)"),
+    ("#fffbf0","rgba(212,160,23,.07)"),
+    ("#f0f0fb","rgba(100,0,200,.05)"),
+    ("#fff5f0","rgba(204,100,0,.06)"),
+]
+SLOVA = "АБВГДЂЕЖЗИЈКЛЉМНЊОПРСТЋУФХЦЧЏШ"
+
+def kartica_html(vest, i):
+    bg, fg = SVG_BOJE[i % len(SVG_BOJE)]
+    sl = SLOVA[i % len(SLOVA)]
+    n  = vest['naslov'].replace('"','&quot;').replace('<','&lt;').replace('>','&gt;')
+    op = vest.get('opis','')[:140].replace('"','&quot;').replace('<','&lt;').replace('>','&gt;')
+    url = vest['url'].replace("'","%27")
+    return (
+        f'      <div class="nc fi-anim" onclick="window.open(\'{url}\',\'_blank\')" style="cursor:pointer">\n'
+        f'        <div class="nc-img"><svg viewBox="0 0 360 150" xmlns="http://www.w3.org/2000/svg">'
+        f'<rect width="360" height="150" fill="{bg}"/>'
+        f'<text x="30" y="125" font-family="serif" font-size="128" font-weight="900" fill="{fg}">{sl}</text>'
+        f'<text x="14" y="26" font-family="sans-serif" font-size="9" fill="{fg}" opacity=".5" letter-spacing="2">{vest["izvor"].upper()}</text>'
+        f'</svg></div>\n'
+        f'        <div class="nc-body">\n'
+        f'          <div class="nc-cat">{vest["izvor"]}</div>\n'
+        f'          <div class="nc-ttl">{n}</div>\n'
+        f'          <div class="nc-blrb">{op}{"..." if len(op)>=140 else ""}</div>\n'
+        f'          <div class="nc-meta"><span>{vest["datum"]}</span><span>Прочитај →</span></div>\n'
+        f'        </div>\n'
+        f'      </div>'
+    )
+
+def ubaci_u_html(vesti, azurirano):
+    # Probaj index.html u trenutnom i parent direktorijumu
+    for path_try in [Path("index.html"), Path("../index.html"), Path("./index.html")]:
+        if path_try.exists():
+            html_path = path_try
+            break
+    else:
+        print(f"   ✗ index.html nije pronađen!")
+        print(f"   Trenutni dir: {Path.cwd()}")
+        print(f"   Fajlovi: {[f.name for f in Path.cwd().iterdir() if not f.name.startswith('.')]}")
+        return
+
+    sadrzaj = html_path.read_text(encoding="utf-8")
+
+    if "VESTI_START" not in sadrzaj:
+        print("   ✗ Markeri VESTI_START nisu u index.html!")
+        return
+
+    kartice = "\n".join(kartica_html(v, i) for i, v in enumerate(vesti[:6]))
+
+    novi = re.sub(
+        r'<!-- VESTI_START -->.*?<!-- VESTI_END -->',
+        f'<!-- VESTI_START -->\n{kartice}\n      <!-- VESTI_END -->',
+        sadrzaj, flags=re.DOTALL
+    )
+    novi = re.sub(
+        r'id="poslednje-azuriranje"[^>]*>[^<]*<',
+        f'id="poslednje-azuriranje" style="font-family:var(--fu);font-size:11px;color:var(--txt4);margin-left:10px">Ажурирано: {azurirano}<',
+        novi
+    )
+
+    html_path.write_text(novi, encoding="utf-8")
+    print(f"   ✓ {html_path} ažuriran sa {min(len(vesti),6)} vesti")
+
+
+# ═══════════════════════════════════════════════════
+# TABELA I STRELCI
+# ═══════════════════════════════════════════════════
+TABELA = [
+    {"poz":1,"klub":"ЦЗ Звезда","u":24,"p":17,"n":5,"i":2,"gd":"+34","go":"56-22","bod":56},
+    {"poz":2,"klub":"ФК Партизан","u":24,"p":16,"n":6,"i":2,"gd":"+28","go":"48-20","bod":54},
+    {"poz":3,"klub":"ФК Войводина","u":24,"p":12,"n":4,"i":8,"gd":"+10","go":"38-28","bod":40},
+    {"poz":4,"klub":"ФК Чукарички","u":24,"p":10,"n":6,"i":8,"gd":"+6","go":"34-28","bod":36},
+    {"poz":5,"klub":"ФК Спартак","u":24,"p":9,"n":5,"i":10,"gd":"+2","go":"30-28","bod":32},
+    {"poz":6,"klub":"ФК Напредак","u":24,"p":8,"n":5,"i":11,"gd":"-4","go":"26-30","bod":29},
+    {"poz":7,"klub":"ФК Радник","u":24,"p":7,"n":5,"i":12,"gd":"-8","go":"22-30","bod":26},
+    {"poz":8,"klub":"ФК Нови Пазар","u":24,"p":4,"n":4,"i":16,"gd":"-18","go":"18-36","bod":16},
 ]
 
 STRELCI = [
-    {"poz":1, "ime":"А. Максимовић", "klub":"ЦЗ Звезда",     "golovi":14},
-    {"poz":2, "ime":"М. Лукић",      "klub":"ФК Партизан",   "golovi":11},
-    {"poz":3, "ime":"Н. Јовановић",  "klub":"ФК Чукарички", "golovi":9},
-    {"poz":4, "ime":"Д. Николић",    "klub":"ФК Войводина",  "golovi":8},
-    {"poz":5, "ime":"С. Петровић",   "klub":"ФК Спартак",    "golovi":7},
+    {"poz":1,"ime":"А. Максимовић","klub":"ЦЗ Звезда","golovi":14},
+    {"poz":2,"ime":"М. Лукић","klub":"ФК Партизан","golovi":11},
+    {"poz":3,"ime":"Н. Јовановић","klub":"ФК Чукарички","golovi":9},
+    {"poz":4,"ime":"Д. Николић","klub":"ФК Войводина","golovi":8},
+    {"poz":5,"ime":"С. Петровић","klub":"ФК Спартак","golovi":7},
 ]
 
 
 # ═══════════════════════════════════════════════════
-# GLAVNI PROGRAM
+# MAIN
 # ═══════════════════════════════════════════════════
 def main():
     print("=" * 55)
     print("🇷🇸  SrpskiFudbal.com — Auto fetch skripta")
     print(f"    {datetime.now().strftime('%d.%m.%Y. %H:%M:%S')}")
+    print(f"    Radni dir: {Path.cwd()}")
     print("=" * 55)
 
     # 1. Povuci vesti
     vesti = povuci_vesti()
 
-    # 2. Generiši prognoza dana
-    print("\n🎯 Generišem prognoza dana tiket...")
-    prognoza = generisi_prognoza_dana()
-    print(f"   ✓ {len(prognoza['utakmice'])} utakmica, ukupna kvota: {prognoza['ukupna_kvota']}")
+    # 2. Prognoza dana
+    print("\n🎯 Generišem prognoza dana...")
+    prog = prognoza_dana()
+    print(f"   ✓ Kvota: {prog['ukupna_kvota']}")
 
-    # 3. Složi sve u jedan JSON
-    podaci = {
-        "azurirano":     datetime.now(timezone.utc).isoformat(),
-        "azurirano_sr":  datetime.now().strftime("%d. %m. %Y. u %H:%M"),
-        "vesti":         vesti,
-        "prognoza_dana": prognoza,
-        "tabela":        TABELA_SUPERLIGA,
-        "strelci":       STRELCI,
-        "statistike": {
-            "ukupno_vesti": len(vesti),
-            "izvori":       list({v["izvor"] for v in vesti}),
-        }
-    }
-
-    # 4. Snimi JSON
+    # 3. Snimi JSON
     izlaz = Path("public/data")
     izlaz.mkdir(parents=True, exist_ok=True)
-    izlazni_fajl = izlaz / "football.json"
 
-    with open(izlazni_fajl, "w", encoding="utf-8") as f:
+    azurirano_sr = datetime.now().strftime("%d. %m. %Y. у %H:%M")
+    podaci = {
+        "azurirano":    datetime.now(timezone.utc).isoformat(),
+        "azurirano_sr": azurirano_sr,
+        "vesti":        vesti,
+        "prognoza_dana":prog,
+        "tabela":       TABELA,
+        "strelci":      STRELCI,
+    }
+
+    json_path = izlaz / "football.json"
+    with open(json_path, "w", encoding="utf-8") as f:
         json.dump(podaci, f, ensure_ascii=False, indent=2)
+    print(f"\n✅ JSON sačuvan ({os.path.getsize(json_path)/1024:.1f} KB)")
 
-    velicina = os.path.getsize(izlazni_fajl) / 1024
-    print(f"\n✅ Sačuvano → {izlazni_fajl} ({velicina:.1f} KB)")
-
-    # 5. Ubaci vesti direktno u index.html
+    # 4. Ubaci vesti direktno u index.html
     print("\n📰 Upisujem vesti u index.html...")
-    ubaci_vesti_u_html(vesti, podaci["azurirano_sr"])
+    ubaci_u_html(vesti, azurirano_sr)
 
-    print(f"   Vesti: {len(vesti)}")
-    print(f"   Prognoza kvota: {prognoza['ukupna_kvota']}x")
-    print(f"   Primer dobitka (1000 RSD): {prognoza['dobitak_primer']} RSD")
     print("\n🏁 Završeno!")
 
 
 if __name__ == "__main__":
     main()
-
-
-# ═══════════════════════════════════════════════════
-# INJECT VESTI DIREKTNO U index.html
-# ═══════════════════════════════════════════════════
-
-SVG_BOJE = [
-    ("#e8f0fb", "rgba(0,63,138,.07)"),
-    ("#fff0f0", "rgba(204,0,0,.06)"),
-    ("#f0f7f0", "rgba(22,163,74,.06)"),
-    ("#fffbf0", "rgba(212,160,23,.07)"),
-    ("#f0f0fb", "rgba(100,0,200,.05)"),
-    ("#fff5f0", "rgba(204,100,0,.06)"),
-]
-
-SVG_SLOVA = "АБВГДЂЕЖЗИЈКЛЉМНЊОПРСТЋУФХЦЧЏШ"
-
-def napravi_vest_html(vest: dict, index: int) -> str:
-    """Kreira HTML karticu za jednu vest."""
-    boja_bg, boja_tekst = SVG_BOJE[index % len(SVG_BOJE)]
-    slovo = SVG_SLOVA[index % len(SVG_SLOVA)]
-    naslov_esc = vest['naslov'].replace('"', '&quot;').replace('<', '&lt;').replace('>', '&gt;')
-    opis_esc = vest.get('opis', '')[:140].replace('"', '&quot;').replace('<', '&lt;').replace('>', '&gt;')
-
-    return f'''      <div class="nc fi-anim" onclick="window.open('{vest['url']}','_blank')" style="cursor:pointer">
-        <div class="nc-img"><svg viewBox="0 0 360 150" xmlns="http://www.w3.org/2000/svg"><rect width="360" height="150" fill="{boja_bg}"/><text x="30" y="125" font-family="serif" font-size="128" font-weight="900" fill="{boja_tekst}">{slovo}</text><text x="14" y="26" font-family="sans-serif" font-size="9" fill="{boja_tekst.replace('.0', '.4')}" letter-spacing="3">{vest['izvor'].upper()}</text></svg></div>
-        <div class="nc-body">
-          <div class="nc-cat">{vest['izvor']}</div>
-          <div class="nc-ttl">{naslov_esc}</div>
-          <div class="nc-blrb">{opis_esc}...</div>
-          <div class="nc-meta"><span>{vest['datum']}</span><span>Прочитај →</span></div>
-        </div>
-      </div>'''
-
-
-def ubaci_vesti_u_html(vesti: list, azurirano: str):
-    """Upisuje prave vesti između markera u index.html."""
-    html_path = Path("index.html")
-    if not html_path.exists():
-        print("   ✗ index.html nije pronađen")
-        return
-
-    sadrzaj = html_path.read_text(encoding="utf-8")
-
-    # Napravi HTML kartice za prvih 6 vesti
-    kartice = "\n".join(napravi_vest_html(v, i) for i, v in enumerate(vesti[:6]))
-
-    # Zameni između markera
-    import re
-    novi_sadrzaj = re.sub(
-        r'<!-- VESTI_START -->.*?<!-- VESTI_END -->',
-        f'<!-- VESTI_START -->\n{kartice}\n      <!-- VESTI_END -->',
-        sadrzaj,
-        flags=re.DOTALL
-    )
-
-    # Ažuriraj timestamp
-    novi_sadrzaj = re.sub(
-        r'id="poslednje-azuriranje"[^>]*>[^<]*<',
-        f'id="poslednje-azuriranje" style="font-family:var(--fu);font-size:11px;color:var(--txt4);margin-left:10px">Ажурирано: {azurirano}<',
-        novi_sadrzaj
-    )
-
-    html_path.write_text(novi_sadrzaj, encoding="utf-8")
-    print(f"   ✓ index.html ažuriran sa {min(len(vesti), 6)} vesti")
-
-
-# Pozovi na kraju main() funkcije — dodaj pre print("\n🏁 Završeno!")
