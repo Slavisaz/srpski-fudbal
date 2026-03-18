@@ -1,176 +1,238 @@
 {
-  "azurirano": "2026-03-17T20:02:24.308029+00:00",
-  "azurirano_sr": "17. 03. 2026. u 20:02",
+  "azurirano": "2026-03-18T01:52:33.383883+00:00",
+  "azurirano_sr": "18. 03. 2026. у 01:52",
   "vesti": [
     {
-      "naslov": "KOŠTAĆE 50 MILIONA, ZNA GDE HOĆE: Umoran sam od tolikog igranja po hladnoći i kiši!",
-      "opis": "Sprema se letnji prelazni rok, a jedna od glavnih zvezda će biti Holanđanin Kes Smit. Fudbaler AZ Alkmara je nedavno napunio 20 godina i očekuje se da postigne cenu 50 miliona evra. To automtski znači da će samo klubovi iz Premijer lige i najjači klubovi iz Španije i Francuske biti kadri da isparira",
-      "url": "https://www.sportskacentrala.com/2026/03/17/kostace-50-miliona-zna-gde-hoce-umoran-sam-od-tolikog-igranja-po-hladnoci-i-kisi/",
-      "izvor": "Sportska centrala",
-      "logo": "sportskacentrala.com",
-      "datum": "17. 03. 2026. 20:00",
+      "naslov": "Fudbaleri Reala ponovo pobedili Mančester Siti i plasirali se u četvrtfinale Lige šampiona",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/fudbal/238302/fudbaleri-reala-ponovo-pobedili-mancester-siti-i-plasirali-se-u-cetvrtfinale-lige-sampiona/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "17. 03. 2026. 22:14",
+      "slika": "https://www.tanjug.rs/data/images/2026-03-17/368608_britain-champions-league-soccer_f.jpg"
+    },
+    {
+      "naslov": "Fudbalerima Senegala oduzeta titula, Maroko postao prvak Afrike za \"zelenim stolom\"",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/fudbal/238303/fudbalerima-senegala-oduzeta-titula-maroko-postao-prvak-afrike-za-zelenim-stolom/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "17. 03. 2026. 22:13",
+      "slika": "https://www.tanjug.rs/data/images/2026-03-17/368607_afcon-title-overturned-soccer_f.jpg"
+    },
+    {
+      "naslov": "Пењароја: Честитам својим играчима на игри у другом полувремену",
+      "opis": "Тренер кошаркаша Партизана Ђоан Пењароја изјавио је да је његова екипа играла одлично у другом полувремену вечерашње утакмице Евролиге",
+      "url": "https://www.politika.rs/scc/clanak/739809/sport/kosarka/penjaroja-cestitam-svojim-igracima-na-igri-u-drugom-poluvremenu",
+      "izvor": "Политика",
+      "logo": "politika.rs",
+      "datum": "17. 03. 2026. 21:55",
+      "slika": "https://www.politika.rs/thumbs/upload/Article/Image/2026_03//160z120_e5ff2fb32958b5952e294a29cc86ee98.jpg"
+    },
+    {
+      "naslov": "Košarkaši Partizana posle velikog preokreta savladali Dubai u zaostalom meču Evrolige",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/kosarka/238290/kosarkasi-partizana-posle-velikog-preokreta-savladali-dubai-u-zaostalom-mecu-evrolige/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "17. 03. 2026. 21:06",
+      "slika": "https://www.tanjug.rs/data/images/2026-03-17/368570_kosarka-evroliga-partizan_f.jpg"
+    },
+    {
+      "naslov": "Rukometni klub Partizan posle 16 godina vraća Iliju Abutovića za sledeću sezonu",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/ostali-sportovi/238286/rukometni-klub-partizan-posle-16-godina-vraca-iliju-abutovica-za-sledecu-sezonu/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "17. 03. 2026. 20:40",
+      "slika": "https://www.tanjug.rs/data/images/2026-03-17/368576_arbutovic-maja-nastic_f.png"
+    },
+    {
+      "naslov": "Fudbaleri Sportinga pobedili Bode/Glimt 5:0 posle produžetaka za četvrtfinale Lige šampiona",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/fudbal/238304/fudbaleri-sportinga-pobedili-bodeglimt-50-posle-produzetaka-za-cetvrtfinale-lige-sampiona/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "17. 03. 2026. 20:32",
+      "slika": "https://www.tanjug.rs/data/images/2026-03-17/368609_aptopix-portugal-champions-league-soccer_f.jpg"
+    },
+    {
+      "naslov": "СРЂАН ЈОВАНОВИЋ СА САРАДНИЦИМА СУДИ У ПРАГУ, БОШКО ЈОВАНЕТИЋ ПОСМАТРАЧ У МАЈНЦУ",
+      "opis": "Срђан Јовановић делегиран је од стране УЕФА да суди реванш утакмицу 1/8 финала Лига конференције, дуел Спарта Праг (Чешка) АЗ Алкмар (Холандија ). Асистираће му Урош Стојковић и Милан...",
+      "url": "https://fss.rs/srdjam-jovanovic-sa-saradnicima-sudi-u-pragu-bosko-jovanetic-posmatrac-u-majncu/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "17. 03. 2026. 19:00",
       "slika": null
     },
     {
-      "naslov": "Evo kako su Grobari dočekali Aleksu Avramovića i Filipa Petruševa u Evroligi",
-      "opis": "Košarkaši Partizana igraju na svom terenu zaostalu utakmicu 30. kola Evrolige protiv Dubaija, gde na poluvremenu gube sa 47:38, a zanimljivo je i to da je Arena.",
-      "url": "https://www.telegraf.rs/sport/evroliga-kosarka/veciti/4291088-evo-kako-su-grobari-docekali-aleksu-avramovica-i-filipa-petruseva-u-evroligi",
-      "izvor": "Telegraf Sport",
-      "logo": "telegraf.rs",
-      "datum": "17. 03. 2026. 19:54",
+      "naslov": "Fudbalski klub Crvena zvezda daruje paketiće za bebe na meču protiv niškog Radničkog",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/fudbal/238249/fudbalski-klub-crvena-zvezda-daruje-paketice-za-bebe-na-mecu-protiv-niskog-radnickog/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "17. 03. 2026. 17:58",
+      "slika": "https://www.tanjug.rs/data/images/2026-01-01/338157_shutterstock-2374598989_f.jpg"
+    },
+    {
+      "naslov": "Fudbalska reprezentacija Argentine igraće prijateljski meč protiv Gvatemale 31. marta",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/fudbal/238206/fudbalska-reprezentacija-argentine-igrace-prijateljski-mec-protiv-gvatemale-31-marta/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "17. 03. 2026. 16:04",
+      "slika": "https://www.tanjug.rs/data/images/2025-06-28/263310_shutterstock-2247653115_f.jpg"
+    },
+    {
+      "naslov": "WU17 | ЧУДЕСАН ПРЕОКРЕТ И ВЕЛИКА ПОБЕДА КАДЕТКИЊА ПРОТИВ ФРАНЦУСКЕ",
+      "opis": "Женска кадетска репрезентација Србије (WU17) остварила је велику победу у мечу 2. кола елит рунде квалификације за Првенство Европе, против Француске 2:1 (2:1). У дуелу који је донео...",
+      "url": "https://fss.rs/wu17-cudesan-preokret-i-velika-pobeda-kadetkinja-protiv-francuske/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "17. 03. 2026. 15:58",
       "slika": null
     },
     {
-      "naslov": "Srbija je dobila novog Loto milionera: Ovo su svi izvučeni brojevi!",
-      "opis": "Prema najnovijem izveštaju Državne lutrije Srbije, u 22. kolu igre na sreću Loto sedmica iznosila je 4.700.000 evra.",
-      "url": "https://www.telegraf.rs/vesti/srbija/4291084-srbija-je-dobila-novog-loto-milionera-ovo-su-svi-izvuceni-brojevi",
-      "izvor": "Telegraf Sport",
-      "logo": "telegraf.rs",
-      "datum": "17. 03. 2026. 19:42",
+      "naslov": "MEDIA ACCREDITATION SYSTEM FOR THE SERBIA A NATIONAL TEAM MATCH VS SAUDI ARABIA (MARCH 31)",
+      "opis": "Dear Sir/Madam, We would like to inform you that the media accreditation system for the friendly match of the Serbia A National Team against Saudi Arabia (March 31, TSC Arena...",
+      "url": "https://fss.rs/media-accreditation-system-for-the-serbia-a-national-team-match-vs-saudi-arabia-march-31/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "17. 03. 2026. 14:57",
       "slika": null
     },
     {
-      "naslov": "(POLUVREME) Partizan - Dubai: Crno-beli nemoćni, Kabengele i Petrušev se igraju košarke u Areni",
-      "opis": "Košarkaši Partizana igraju zaostali meč 30. kola protiv Dubaija u Beogradskoj Areni. Meč počinje od 20 sati, a sva dešavanja pratite na Telegraf Sportu.",
-      "url": "https://www.telegraf.rs/sport/evroliga-kosarka/veciti/4291006-partizan-dubai-uzivo-prenos-evroliga-30-kolo",
-      "izvor": "Telegraf Sport",
-      "logo": "telegraf.rs",
-      "datum": "17. 03. 2026. 19:41",
+      "naslov": "СИСТЕМ АКРЕДИТОВАЊА МЕДИЈА ЗА УТАКМИЦУ А ТИМА СРБИЈА – САУДИЈСКА АРАБИЈА (31. МАРТ",
+      "opis": "Поштовани, Систем акредитовања медија за пријатељску утакмицу А тима (мушкарци) против Саудијске Арабије (31. март – стадион ”ТСЦ Арена” у Бачкој Тополи од 18 часова) биће отворен до петка 27....",
+      "url": "https://fss.rs/sistem-akreditovanja-medija-za-utakmicu-a-tima-srbija-saudijska-arabija-31-mart/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "17. 03. 2026. 14:52",
       "slika": null
     },
     {
-      "naslov": "Sergej i Vanja Милинковић-Савић se vraćaju u reprezentaciju Srbije",
-      "opis": "Ono što je indirektno najavio krajem prošle godine, Veljko Paunović je uradio pred martovske utakmice – vratio je Sergeja i Vanju Милинковић-Савићa u redove.",
-      "url": "https://www.telegraf.rs/sport/fudbal/4291075-sergej-i-vanja-milinkovic-savic-se-vracaju-u-reprezentaciju-srbije",
-      "izvor": "Telegraf Sport",
-      "logo": "telegraf.rs",
-      "datum": "17. 03. 2026. 19:25",
+      "naslov": "СИСТЕМ АКРЕДИТОВАЊА МЕДИЈА ЗА УТАКМИЦУ А ТИМА ШПАНИЈА – СРБИЈА (27. МАРТ 2026. ГОДИНЕ)",
+      "opis": "Поштовани, Систем акредитовања медија за пријатељску утакмицу А тима (мушкарци) против Шпаније у гостима (27. марта 2026. године) за медије из Србије спроводиће Фудбалски савез Србије односно портпарол Милан Вуковић...",
+      "url": "https://fss.rs/sistem-akreditovanja-medija-za-utakmicu-a-tima-spanija-srbija-27-mart-2026-godine/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "17. 03. 2026. 14:50",
       "slika": null
     },
     {
-      "naslov": "Veliki uspeh Paunovića: Vraćaju se braća Милинковић – Савић!",
-      "opis": "Od završetka Evropskog prvenstva 2024. godine u Nemačkoj, Vanja i Sergej Милинковић Савић su bili van reprezentacije Srbije. Bilo je jasno da više nisu u dobrim odnosima sa selektorom Draganom Стојковићem i da se to neće promeniti dok je on na kormilu A tima. Sada se to menja! Kako prenosi Mozzart s",
-      "url": "https://www.sportskacentrala.com/2026/03/17/veliki-uspeh-paunovica-vracaju-se-braca-milinkovic-savic/",
-      "izvor": "Sportska centrala",
-      "logo": "sportskacentrala.com",
-      "datum": "17. 03. 2026. 19:25",
+      "naslov": "KK Zvezda: Bez navijača Partizana na derbi meču regionalne ABA lige",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/kosarka/238181/kk-zvezda-bez-navijaca-partizana-na-derbi-mecu-regionalne-aba-lige/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "17. 03. 2026. 14:41",
+      "slika": "https://www.tanjug.rs/data/images/2025-08-29/286248_1_f.jpg"
+    },
+    {
+      "naslov": "Trener fudbalera Juventusa Lučano Spaleti blizu potpisivanja novog ugovora",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/fudbal/238115/trener-fudbalera-juventusa-lucano-spaleti-blizu-potpisivanja-novog-ugovora/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "17. 03. 2026. 12:17",
+      "slika": "https://www.tanjug.rs/data/images/2026-03-17/368357_monaco-champions-league-soccer_f.jpg"
+    },
+    {
+      "naslov": "U18 | МЛАЂИ ОМЛАДИНЦИ ИМАЈУ ДВЕ ПРОВЕРЕ У СЛОВАЧКОЈ, СЕЛЕКТОР МИЛАН СТЕГЊАИЋ ПОЗВАО 22 ИГРАЧА",
+      "opis": "Млађа омладинска репрезентација Србије (U18) има две провере у Словачкој, пред јунски старт у квалификацијама за Првенство Европе и мечеве са Португалом, Грчком (домаћин турнира) и Казахстаном. Оба дуела са...",
+      "url": "https://fss.rs/u18-mladji-omladinci-imaju-dve-provere-u-slovackoj-selektor-milan-stegnjaic-pozvao-22-igraca/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "17. 03. 2026. 11:24",
       "slika": null
     },
     {
-      "naslov": "Grobari poslali poruku Dušku Vujoševiću iz Arene: Skandirali njegovo ime, pa podigli i parolu",
-      "opis": "Košarkaši Partizana igraju zaostalu utakmicu 30. kola Evrolige protiv Dubaija, koja je prvobitno odložena zbog rata na Bliskom istoku.",
-      "url": "https://www.telegraf.rs/sport/evroliga-kosarka/veciti/4291071-grobari-poslali-poruku-dusku-vujosevicu-iz-arene-skandirali-njegovo-ime-pa-podigli-i-parolu",
-      "izvor": "Telegraf Sport",
-      "logo": "telegraf.rs",
-      "datum": "17. 03. 2026. 19:15",
+      "naslov": "Trener Atletika Dijego Simeone poveo 23 fudbalera na meč protiv Totenhema u Ligi šampiona",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/fudbal/238077/trener-atletika-dijego-simeone-poveo-23-fudbalera-na-mec-protiv-totenhema-u-ligi-sampiona/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "17. 03. 2026. 10:38",
+      "slika": "https://www.tanjug.rs/data/images/2026-03-17/368274_spain-champions-league-soccer_f.jpg"
+    },
+    {
+      "naslov": "Fudbalski turnir počeće četiri dana pre zvaničnog otvaranja Olimpijskih igara u Los Anđelesu",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/fudbal/238063/fudbalski-turnir-pocece-cetiri-dana-pre-zvanicnog-otvaranja-olimpijskih-igara-u-los-andelesu/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "17. 03. 2026. 10:07",
+      "slika": "https://www.tanjug.rs/data/images/2025-07-31/276241_shutterstock-2639597681_f.jpg"
+    },
+    {
+      "naslov": "Fudbalski savez Irana traži da utakmice na Svetskom prvenstvu igra u Meksiku",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/fudbal/238037/fudbalski-savez-irana-trazi-da-utakmice-na-svetskom-prvenstvu-igra-u-meksiku/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "17. 03. 2026. 09:22",
+      "slika": "https://www.tanjug.rs/data/images/2025-10-02/300652_shutterstock-2390258569_f.jpg"
+    },
+    {
+      "naslov": "ПОЗНАТЕ ЛОКАЦИЈЕ МАРТОВСКИХ ПРИЈАТЕЉСКИХ УТАКМИЦА РЕПРЕЗЕНТАЦИЈЕ СРБИЈЕ",
+      "opis": "Фудбалска репрезентација Србије одиграће у марту две пријатељске утакмице, а сада су познате и локације на којима ће „орлови“ изаћи на терен. Први меч против селекције Шпаније игра се 27....",
+      "url": "https://fss.rs/poznate-lokacije-martovskih-prijateljskih-utakmica-reprezentacije-srbije/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "16. 03. 2026. 14:52",
       "slika": null
     },
     {
-      "naslov": "Čukarički promovisao novog trenera",
-      "opis": "Čukarički je promovisao novog šefa stručnog štaba Marka Jakšića, koji je potpisao ugovor sa dve i po godine sa klubom sa Banovog brda. Srećan sam što sam došao u Čukarički. Od prvog dana mi je jasno gde sam došao, vratio sam se kući. Prošlost ostavljam iza sebe, napravio sam korak napred u karijeri.",
-      "url": "https://www.sportskacentrala.com/2026/03/17/cukaricki-promovisao-novog-trenera/",
-      "izvor": "Sportska centrala",
-      "logo": "sportskacentrala.com",
-      "datum": "17. 03. 2026. 19:10",
+      "naslov": "W ФУТСАЛ \"А\" | ГЛАВНА РУНДА КВАЛИФИКАЦИЈА, РИВАЛИ ЛИТВАНИЈА, БиХ и ЕНГЛЕСКА, СЕЛЕКТОР МАЈЕС ПОЗВАО 18 ИГРАЧИЦА",
+      "opis": "Женску футсал репрезентацију очекују мечеви главне рунде квалификација за Првенство Европе, мечеви против домаћина Литваније (18. март 19,00), Босне и Херцеговине (19. март 16,00) и Енглеске (21, март...",
+      "url": "https://fss.rs/w-futsal-a-glavna-runda-kvalifikacija-rivali-litvanija-bih-i-engleska-selektor-majes-pozvao-18-igracica/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "15. 03. 2026. 18:52",
       "slika": null
     },
     {
-      "naslov": "Pun kofer briga za Blagojevića: Mora da sačuva miljenika navijača, ali i druge oslonce",
-      "opis": "Trener Partizana ima mnogo, mnogo stvari koje će morati da pokuša da ispravi do kraja sezone jer je period bez njega pokazao da je \"parni valjak\" u pr",
-      "url": "https://nova.rs/sport/fudbal/pun-kofer-briga-za-blagojevica-mora-da-sacuva-miljenika-navijaca-ali-i-druge-oslonce/",
-      "izvor": "Nova.rs Sport",
-      "logo": "nova.rs",
-      "datum": "17. 03. 2026. 18:04",
-      "slika": "https://nova.rs/media/images/2026/3/1773751482_TSC-PARTIZAN_53.width-1200.JPG"
-    },
-    {
-      "naslov": "Šta treba da se dogodi da bi Srbija završila na Svetskom prvenstvu?",
-      "opis": "Fudbalska reprezentacija Irana izvesno neće nastupiti na Svetskom prvenstvu u SAD, Kanadi i Maksiku, usled ratnih sukoba koji se dešavaju. Ostaje pitanje ko će ih zameniti, a to nužno ne mora biti selekcija sa istog kontinenta, prema propozicijama FIFA. Zanimljivo je zapitati se kakve su zapravo šan",
-      "url": "https://www.sportskacentrala.com/2026/03/17/sta-treba-da-se-dogodi-da-bi-srbija-zavrsila-na-svetskom-prvenstvu/",
-      "izvor": "Sportska centrala",
-      "logo": "sportskacentrala.com",
-      "datum": "17. 03. 2026. 18:00",
+      "naslov": "U17 | СЕЛЕКТОР ИГОР МАТИЋ САОПШТИО СПИСАК ИГРАЧА ЗА ДРУГИ КРУГ КВАЛИФИКАЦИЈА ЗА ЕВРОПСКО ПРВЕНСТВО",
+      "opis": "Кадетска (U-17) репрезентација Србије у периоду од 25. до 31. марта одиграће три утакмице у оквиру другог круга квалификација за Европско првенство које се у јуну ове године одржава у...",
+      "url": "https://fss.rs/u17-selektor-igor-matic-saopstio-spisak-igraca-za-drugi-krug-kvalifikacija-za-evropsko-prvenstvo/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "15. 03. 2026. 18:07",
       "slika": null
     },
     {
-      "naslov": "Razočarali Zvezdu: Pariz poražen i u Evroligi pred duel sa Partizanom, odlična partija Micića",
-      "opis": "Košarkaši Pariza poraženi su od Hapoela u Sofiji rezultatom 93-82, u odloženoj utakmici 21. kola Evrolige. Pariz je tako, nakon razočaravajućeg poraza od davljenika u prvenstvu, doživeo još jedan neuspeh pred duel sa Partizanom na svom terenu u četvrtak, u 32. kolu. Najviše se u današnjoj pobedi ist",
-      "url": "https://www.sportskacentrala.com/2026/03/17/razocarali-zvezdu-pariz-porazen-i-u-evroligi-pred-duel-sa-partizanom-odlicna-partija-micica/",
-      "izvor": "Sportska centrala",
-      "logo": "sportskacentrala.com",
-      "datum": "17. 03. 2026. 17:28",
+      "naslov": "СРБИЈА НЕ ПУТУЈЕ У ДОХУ, СЛЕДЕ УТАКМИЦЕ ПРОТИВ ШПАНИЈЕ И САУДИЈСКЕ АРАБИЈЕ",
+      "opis": "Безбедоносна ситуација на Блиском Истоку утицала је и на планове А тима Србије и утакмице наше мушке репрезентације овог месеца. И поред свих напора одлазак у Доху из наведених разлога...",
+      "url": "https://fss.rs/srbija-ne-putuje-u-dohu-slede-utakmice-protiv-protiv-spanije-i-saudijske-arabije/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "15. 03. 2026. 13:11",
       "slika": null
-    },
-    {
-      "naslov": "Propao mu povratak među crno-bele: Bivši igrač Partizana gledao poslednju utakmicu i iskazao privrženost klubu (FOTO)",
-      "opis": "Tokom zime se govorilo o mogućem povratku brazilskog napadača Mateuša Saldanje u Partizan, o čemu je i govorio, ali je ipak ostao na istoku, iako je promenio klub. Međutim, da je i dalje privržen crno-belima jasno je nakon njegovog Instagram storija, na kom je otkrio kako gleda prenos poslednje utak",
-      "url": "https://www.sportskacentrala.com/2026/03/17/propao-mu-povratak-medu-crno-bele-bivsi-igrac-partizana-gledao-poslednju-utakmicu-i-iskazao-privrzenost-klubu-foto/",
-      "izvor": "Sportska centrala",
-      "logo": "sportskacentrala.com",
-      "datum": "17. 03. 2026. 17:05",
-      "slika": null
-    },
-    {
-      "naslov": "Bio viđen u Zvezdi, a sada poručio da bi za Švajcarsku igrao pre Srbije: “Imamo najlepšu zemlju na svetu”",
-      "opis": "Filip Stojilković je prethodne sezone nastupao na pozajmici iz Hofenhajma za OFK Beograd i privukao pažnju. On je postigao sedam golova i upisao tri asistencije za Romantičare, ali nije pogađao u kontinuitetu. Ipak, tri gola je postigao protiv Partizana, a tokom proleća prošle godine je praktično bi",
-      "url": "https://www.sportskacentrala.com/2026/03/17/bio-viden-u-zvezdi-sa-sada-porucio-da-bi-za-svajcarsku-igrao-pre-srbije-imamo-najlepsu-zemlju-na-svetu/",
-      "izvor": "Sportska centrala",
-      "logo": "sportskacentrala.com",
-      "datum": "17. 03. 2026. 15:59",
-      "slika": null
-    },
-    {
-      "naslov": "\"Partizan će biti prvak tek kad neki Arnautović ili Ivanić tuže Zvezdu zbog duga\"",
-      "opis": "Legendarni golman Vladimir Стојковић, trenutno čuvar mreže Čukaričkog, podigao je veliku prašinu svojim gostovanjem u podkastu \"2x45\".",
-      "url": "https://nova.rs/sport/fudbal/partizan-ce-biti-prvak-tek-kad-neki-arnautovic-ili-ivanic-tuze-zvezdu-zbog-duga/",
-      "izvor": "Nova.rs Sport",
-      "logo": "nova.rs",
-      "datum": "17. 03. 2026. 14:46",
-      "slika": "https://nova.rs/media/images/2025/11/1764285185_zvezda-partizan-derbi-17656-1024x683.width-1200.jpg"
-    },
-    {
-      "naslov": "Nova era na Brdu, Jakšić preuzeo Čukarički: Nisam Jirgen Klop, ali igraćemo moderno",
-      "opis": "Na Banovom brdu započinje nova era. Čukarički je imenovao Marko Jakšića za šefa stručnog štaba, a saradnja je ozvaničena ugovorom na dve i po godine. Čuka želi stabilnost i povratak ...",
-      "url": "https://meridiansport.rs/fudbal/nova-era-na-brdu-jaksic-preuzeo-cukaricki-nisam-jirgen-klop-ali-igracemo-moderno/",
-      "izvor": "Meridian Sport",
-      "logo": "meridiansport.rs",
-      "datum": "17. 03. 2026. 13:11",
-      "slika": null
-    },
-    {
-      "naslov": "Стојковић objasnio zbog čega je morao da napusti Partizan: Nikada iskrenije govorio o Mijatoviću i sadašnjem trenutku",
-      "opis": "Nekadašnji kapiten Partizana i ljubimac \"grobara\" Vladimir Стојковић otvoreno je govorio o razlozima zbog kojih je 2021. godine odlučio da napusti Hum",
-      "url": "https://nova.rs/sport/fudbal/stojkovic-objasnio-zbog-cega-je-morao-da-napusti-partizan-nikada-iskrenije-govorio-o-mijatovicu-i-sadasnjem-trenutku/",
-      "izvor": "Nova.rs Sport",
-      "logo": "nova.rs",
-      "datum": "17. 03. 2026. 09:24",
-      "slika": "https://nova.rs/media/images/2026/3/1773739456_serbia-denmark-6750.width-1200.JPG"
     }
   ],
   "prognoza_dana": {
-    "datum": "17. 03. 2026.",
-    "vreme": "20:02",
+    "datum": "18. 03. 2026.",
     "utakmice": [
       {
         "domacin": "ФК Чукарички",
         "gost": "ФК Нови Пазар",
-        "liga": "Суперлига Србије",
+        "liga": "Суперлига",
         "datum": "22.03.2026",
         "vreme": "16:00",
         "tip": "1X",
         "kvota": 1.55,
-        "analiza": "Чукарички не губи код куће у овом полусезону.",
+        "analiza": "Чукарички не губи код куће.",
         "pouzdanost": 5
       },
       {
         "domacin": "ЦЗ Звезда",
         "gost": "ФК Партизан",
-        "liga": "Суперлига Србије",
+        "liga": "Суперлига",
         "datum": "23.03.2026",
         "vreme": "18:00",
         "tip": "1",
         "kvota": 2.1,
-        "analiza": "Звезда домаћин, 7 бодова предности — јак фаворит.",
+        "analiza": "Звезда домаћин, 7 бодова предности.",
         "pouzdanost": 4
       },
       {
@@ -181,7 +243,7 @@
         "vreme": "18:00",
         "tip": "X2",
         "kvota": 1.65,
-        "analiza": "МСС одлично у голу — Торино тежак домаћин али Лацио путује добро.",
+        "analiza": "МСС одлично у голу.",
         "pouzdanost": 4
       },
       {
@@ -192,14 +254,14 @@
         "vreme": "20:45",
         "tip": "1",
         "kvota": 2.3,
-        "analiza": "Влаховић у одличној форми (18 голова), Јувентус борац за Скудето.",
+        "analiza": "Влаховић у одличној форми.",
         "pouzdanost": 3
       }
     ],
     "ukupna_kvota": 12.35,
     "ulog_primer": 1000,
     "dobitak_primer": 12350.0,
-    "napomena": "Прогноза је искључиво информативног карактера. Клађење је забавни садржај — играј одговорно. Само за особе старије од 18 година."
+    "napomena": "Прогноза је информативног карактера. Игра одговорно. 18+"
   },
   "tabela": [
     {
@@ -211,8 +273,7 @@
       "i": 2,
       "gd": "+34",
       "go": "56-22",
-      "bod": 56,
-      "forma": "ПППНП"
+      "bod": 56
     },
     {
       "poz": 2,
@@ -223,8 +284,7 @@
       "i": 2,
       "gd": "+28",
       "go": "48-20",
-      "bod": 54,
-      "forma": "ППППИ"
+      "bod": 54
     },
     {
       "poz": 3,
@@ -235,8 +295,7 @@
       "i": 8,
       "gd": "+10",
       "go": "38-28",
-      "bod": 40,
-      "forma": "ПИНПН"
+      "bod": 40
     },
     {
       "poz": 4,
@@ -247,8 +306,7 @@
       "i": 8,
       "gd": "+6",
       "go": "34-28",
-      "bod": 36,
-      "forma": "ННПИП"
+      "bod": 36
     },
     {
       "poz": 5,
@@ -259,8 +317,7 @@
       "i": 10,
       "gd": "+2",
       "go": "30-28",
-      "bod": 32,
-      "forma": "ИППНИ"
+      "bod": 32
     },
     {
       "poz": 6,
@@ -271,8 +328,7 @@
       "i": 11,
       "gd": "-4",
       "go": "26-30",
-      "bod": 29,
-      "forma": "НИИ ПН"
+      "bod": 29
     },
     {
       "poz": 7,
@@ -283,8 +339,7 @@
       "i": 12,
       "gd": "-8",
       "go": "22-30",
-      "bod": 26,
-      "forma": "ПИНИИ"
+      "bod": 26
     },
     {
       "poz": 8,
@@ -295,8 +350,7 @@
       "i": 16,
       "gd": "-18",
       "go": "18-36",
-      "bod": 16,
-      "forma": "ИИНИИ"
+      "bod": 16
     }
   ],
   "strelci": [
@@ -330,14 +384,5 @@
       "klub": "ФК Спартак",
       "golovi": 7
     }
-  ],
-  "statistike": {
-    "ukupno_vesti": 16,
-    "izvori": [
-      "Sportska centrala",
-      "Nova.rs Sport",
-      "Meridian Sport",
-      "Telegraf Sport"
-    ]
-  }
+  ]
 }
