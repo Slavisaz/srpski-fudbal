@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-03-19T19:41:40.721641+00:00",
-  "azurirano_sr": "19. 03. 2026. у 19:41",
+  "azurirano": "2026-03-19T19:52:18.755869+00:00",
+  "azurirano_sr": "19. 03. 2026. у 19:52",
   "vesti": [
     {
       "naslov": "Најновије вести",
@@ -8,34 +8,142 @@
       "url": "https://www.tanjug.rs/sport/fudbal/238918/kadeti-srbije-poceli-pripreme-za-zavrsne-kvalifikacije-za-evropsko-prvenstvo/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "19. 03. 2026. 19:41",
+      "datum": "19. 03. 2026. 19:52",
       "slika": null
     },
     {
-      "naslov": "упграде yоур броwсер",
+      "naslov": "Српски клубови у Европи",
       "opis": "",
-      "url": "http://browsehappy.com/",
+      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "19. 03. 2026. 19:41",
+      "datum": "19. 03. 2026. 19:52",
       "slika": null
     },
     {
-      "naslov": "Дигитално издање Спортског Журнала",
+      "naslov": "Српски тенисери и тенисерке",
       "opis": "",
-      "url": "https://webshop.politika.rs/rs/page/sportski-zurnal",
+      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "19. 03. 2026. 19:41",
+      "datum": "19. 03. 2026. 19:52",
       "slika": null
     },
     {
-      "naslov": "НеwТец Солутионс&нбсп;",
+      "naslov": "Српски спортисти на ОИ",
       "opis": "",
-      "url": "http://www.newtec-solutions.com/",
+      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "19. 03. 2026. 19:41",
+      "datum": "19. 03. 2026. 19:52",
+      "slika": null
+    },
+    {
+      "naslov": "Борилачки спортови ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "19. 03. 2026. 19:52",
+      "slika": null
+    },
+    {
+      "naslov": "Фрајбург петицом почистио Генк",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/clanak/240997/fudbal/liga-evrope/frajburg-peticom-pocistio-genk",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "19. 03. 2026. 19:52",
+      "slika": null
+    },
+    {
+      "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
+      "opis": "",
+      "url": "https://www.rts.rs/rts/informator-o-radu.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "19. 03. 2026. 19:52",
+      "slika": null
+    },
+    {
+      "naslov": "Дигитални предузетник",
+      "opis": "",
+      "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "19. 03. 2026. 19:52",
+      "slika": null
+    },
+    {
+      "naslov": "За мале велике хероје",
+      "opis": "",
+      "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "19. 03. 2026. 19:52",
+      "slika": null
+    },
+    {
+      "naslov": "Николићев АЕК упркос поразу у четвртфиналу Лиге конференције",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/liga_sampiona/5909198/nikolic-aek-poraz-cetvrtfinale-liga-konferencije.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "19. 03. 2026. 19:52",
+      "slika": null
+    },
+    {
+      "naslov": "ФСС расписао изборе и одредио стадионе за Европско првенство за младе 2027.",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/reprezentacija/5909172/fss-raspisao-izbore-i-odredio-stadione-za-evropsko-prvenstvo-za-mlade-2027.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "19. 03. 2026. 19:52",
+      "slika": null
+    },
+    {
+      "naslov": "Најплеменитији подвиг",
+      "opis": "",
+      "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "19. 03. 2026. 19:52",
+      "slika": null
+    },
+    {
+      "naslov": "СРБИЈА И АЛБАНИЈА ОРГАНИЗУЈУ ЕВРОПСКО ПРВЕНСТВО, АЛИ... Не игра се на Маракани, већ на ова четири српска стадиона!",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1587643/srbija-najnovije-vesti-albanija-zajedno-organizuju-u21-evropsko-prvenstvo-2027-odluka-uefa-news-serbia-alabania-european-championship-kojim-stadionima-igra-partizan-tsc-arena-leskovac-loznica",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "19. 03. 2026. 19:52",
+      "slika": null
+    },
+    {
+      "naslov": "БИО МУСЛИНОВА ДЕСНА РУКА У ЗВЕЗДИ: \"Српски Морињо\" селектор Бугарске",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1587622/aleksandar-jankovic-najnovije-vesti-fudbalska-reprezentacija-bugarske-mladen-krstajic-partizan-crvena-zvezda",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "19. 03. 2026. 19:52",
+      "slika": null
+    },
+    {
+      "naslov": "ХИТНО РЕАГОВАО И ФСС: Гол из офсајда који су СВИ ЖИВИ видели сем судија (ВИДЕО)",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1587614/sudijska-komisija-fss-analiza-var-situacija-ofk-beograd-napredak-krusevac-video-jutjub",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "19. 03. 2026. 19:52",
+      "slika": null
+    },
+    {
+      "naslov": "\"НЕКА БУДЕ ТРЕЋА СРЕЋА\": Стигле прве реакције из Графичара пред Куп Србије, ево шта кажу пред Војводину",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1587545/neka-bude-treca-sreca-stigle-prve-reakcije-graficara-pred-kup-srbije-evo-sta-kazu-pred-vojvodinu",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "19. 03. 2026. 19:52",
       "slika": null
     },
     {
