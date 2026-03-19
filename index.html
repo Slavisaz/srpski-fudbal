@@ -1081,12 +1081,22 @@ async function fetchRSS(feedUrl, izvor) {
   }
 }
 
-// Feedovi sa backup URL-ovima
+// Feedovi — više izvora za najnovije vesti
 const FEEDOVI = [
+  // Sportske.net — domaci fudbal
   {url:'https://sportske.net/vesti-domaci-fudbal/feed/', izvor:'Sportske.net'},
-  {url:'https://sportske.net/feed/', izvor:'Sportske.net'},
+  // FSS
   {url:'https://www.fss.rs/sr/rss.html', izvor:'ФСС'},
+  // Tanjug sport
   {url:'https://www.tanjug.rs/rss/sport', izvor:'Танјуг'},
+  // Novosti sport
+  {url:'https://www.novosti.rs/rss/sport.xml', izvor:'Новости'},
+  // Sportski zurnal
+  {url:'https://www.sportskizurnal.rs/feed/', izvor:'Спортски журнал'},
+  // B92 sport
+  {url:'https://www.b92.net/sport/rss', izvor:'Б92 Спорт'},
+  // Mozzart sport
+  {url:'https://sport.mozzartbet.com/sr/feed/', izvor:'Мозарт Спорт'},
 ];
 
 let sveVesti = [];
@@ -1099,44 +1109,48 @@ async function ucitajVesti() {
 
   let sve = [];
 
-  // 1. PRIMARNO — GitHub JSON
-  try {
-    const JSON_URL = 'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json';
-    const res = await fetch(JSON_URL + '?t=' + Date.now(), {signal: AbortSignal.timeout(8000)});
-    if (res.ok) {
-      const data = await res.json();
-      if (data.vesti?.length) {
-        sve = data.vesti.map(v => ({
-          naslov: v.naslov||'', opis: v.opis||'',
-          url: v.url||'#', izvor: v.izvor||'Спорт', datum: v.datum||'', _date: new Date(0),
-        }));
-        if (data.azurirano_sr && azEl) azEl.textContent = data.azurirano_sr;
-        console.log(`✓ GitHub JSON: ${sve.length} vesti`);
-      }
-    }
-  } catch(e) { console.warn('GitHub JSON greška:', e.message); }
+  // Sve paralelno — GitHub JSON + svi RSS feedovi istovremeno
+  const [jsonResult, ...rssResults] = await Promise.allSettled([
+    // GitHub JSON
+    fetch('https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json?t=' + Date.now(),
+      {signal: AbortSignal.timeout(8000)}).then(r => r.ok ? r.json() : null),
+    // Svi RSS feedovi
+    ...FEEDOVI.map(f => fetchRSS(f.url, f.izvor))
+  ]);
 
-  // 2. BONUS — Sportske.net RSS uvek dodaj na vrh
-  try {
-    const sportkseVesti = await fetchRSS('https://sportske.net/vesti-domaci-fudbal/feed/', 'Sportske.net');
-    if (sportkseVesti.length) {
-      const postojeNaslovi = new Set(sve.map(v => v.naslov.slice(0,40)));
-      const nove = sportkseVesti.filter(v => !postojeNaslovi.has(v.naslov.slice(0,40)));
-      sve = [...nove, ...sve];
-      console.log(`✓ Sportske.net: ${nove.length} novih`);
-    }
-  } catch(e) {}
-
-  // 3. FALLBACK
-  if (sve.length === 0) {
-    const sveFetch = await Promise.allSettled(FEEDOVI.map(f => fetchRSS(f.url, f.izvor)));
-    sveFetch.forEach(res => { if (res.status==='fulfilled') sve=sve.concat(res.value); });
+  // GitHub JSON
+  if (jsonResult.status === 'fulfilled' && jsonResult.value?.vesti?.length) {
+    const data = jsonResult.value;
+    sve = data.vesti.map(v => ({
+      naslov: v.naslov||'', opis: v.opis||'',
+      url: v.url||'#', izvor: v.izvor||'Спорт', datum: v.datum||'', _date: new Date(0),
+    }));
+    if (data.azurirano_sr && azEl) azEl.textContent = data.azurirano_sr;
+    console.log(`✓ GitHub JSON: ${sve.length} vesti`);
   }
 
-  // Deduplikuj
+  // Svi RSS feedovi — dodaj nove (ne duplikate)
+  const postojeNaslovi = new Set(sve.map(v => v.naslov.slice(0,40)));
+  rssResults.forEach(res => {
+    if (res.status === 'fulfilled' && Array.isArray(res.value)) {
+      res.value.forEach(v => {
+        if (!postojeNaslovi.has(v.naslov.slice(0,40))) {
+          sve.push(v);
+          postojeNaslovi.add(v.naslov.slice(0,40));
+        }
+      });
+    }
+  });
+
+  // Sortiraj — RSS vesti imaju _date, GitHub nema → RSS na vrhu
+  sve.sort((a,b) => (b._date||0) - (a._date||0));
+
+  // Deduplikuj još jednom
   const seen = new Set();
   sve = sve.filter(v => { const k=v.naslov.slice(0,40); if(seen.has(k)) return false; seen.add(k); return true; });
   sveVesti = sve;
+
+  console.log(`✓ Ukupno vesti: ${sve.length}`);
 
   const repVesti   = sve.filter(v => jeRepVest(v.naslov));
   const opsteVesti = sve.filter(v => !jeRepVest(v.naslov));
@@ -1148,11 +1162,13 @@ async function ucitajVesti() {
       <div class="sv-dt">${v.datum}</div>
     </a>`;
 
-  // MAIN — 5 vesti između reklama
+  // MAIN — 5 najsvežijih vesti između reklama
   if (mainListEl) {
     const zaPrikaz = opsteVesti.slice(0,5);
     mainListEl.innerHTML = zaPrikaz.length
       ? zaPrikaz.map(listaItem).join('')
+      : '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Вести нису доступне.</div>';
+  }
       : '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Вести нису доступне.</div>';
   }
 
