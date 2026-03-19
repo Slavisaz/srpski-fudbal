@@ -60,6 +60,8 @@ nav a:hover{color:var(--red);border-color:var(--red)}
 
 /* LAYOUT */
 .page{max-width:1200px;margin:0 auto;padding:24px 20px;display:grid;grid-template-columns:1fr 320px;gap:28px;align-items:start}
+.main{min-width:0;width:100%}
+.side{min-width:0;width:100%;position:sticky;top:80px}
 
 /* SECTION HEADER */
 .sh{display:flex;align-items:center;gap:10px;margin-bottom:14px;padding-bottom:10px;border-bottom:2px solid var(--bdr)}
@@ -1012,47 +1014,72 @@ function vestiKartica(v, i) {
   </div>`;
 }
 
-async function fetchRSS(url, izvor) {
+async function fetchRSS(feedUrl, izvor) {
+  // Više proxy-ja kao fallback
+  const proxies = [
+    u => `https://api.allorigins.win/raw?url=${encodeURIComponent(u)}&t=${Date.now()}`,
+    u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
+    u => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`,
+  ];
+
+  let txt = null;
+  for (const makeProxy of proxies) {
+    try {
+      const res = await fetch(makeProxy(feedUrl), {signal: AbortSignal.timeout(6000)});
+      if (res.ok) { txt = await res.text(); break; }
+    } catch(e) { continue; }
+  }
+
+  if (!txt) {
+    console.warn(`RSS ${izvor}: svi proxy-ji neuspešni`);
+    return [];
+  }
+
   try {
-    const proxyUrl = PROXY_CORS + encodeURIComponent(url) + '&t=' + Date.now();
-    const res = await fetch(proxyUrl, {signal: AbortSignal.timeout(7000)});
-    if (!res.ok) return [];
-    const txt = await res.text();
     const xml = new DOMParser().parseFromString(txt, 'application/xml');
+    // Proveri da li je parsiranje uspešno
+    if (xml.querySelector('parsererror')) throw new Error('XML parse error');
+
     const items = xml.querySelectorAll('item');
     const vesti = [];
     items.forEach((item, i) => {
       if (i >= 15) return;
       const rawTitle = item.querySelector('title')?.textContent?.trim()||'';
-      const rawDesc  = (item.querySelector('description')?.textContent||'').replace(/<[^>]+>/g,'').trim().slice(0,200);
-      const link     = item.querySelector('link')?.textContent?.trim()||
-                       item.querySelector('guid')?.textContent?.trim()||'#';
-      const pubDate  = item.querySelector('pubDate')?.textContent?.trim()||'';
-      // Prevedi u ćirilicu ako je latinica
-      const naslov = latinicaUCirilicu(rawTitle);
+      // Čišćenje CDATA i HTML entiteta
+      const cleanTitle = rawTitle.replace(/<!\[CDATA\[|\]\]>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').trim();
+      const rawDesc = (item.querySelector('description')?.textContent||'').replace(/<[^>]+>/g,'').replace(/<!\[CDATA\[|\]\]>/g,'').trim().slice(0,200);
+      // Link: pokušaj više tagova
+      let link = item.querySelector('link')?.textContent?.trim() ||
+                 item.querySelector('guid')?.textContent?.trim() || '#';
+      if (link.startsWith('http') === false && link !== '#') link = '#';
+      const pubDate = item.querySelector('pubDate')?.textContent?.trim()||'';
+      const naslov = latinicaUCirilicu(cleanTitle);
       const opis   = latinicaUCirilicu(rawDesc);
       let datum = '';
+      let _date = new Date(0);
       if (pubDate) {
         try {
-          const d = new Date(pubDate);
+          _date = new Date(pubDate);
           const meni = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
-          datum = `${d.getDate()}. ${meni[d.getMonth()]} ${d.getFullYear()} · ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+          datum = `${_date.getDate()}. ${meni[_date.getMonth()]} · ${String(_date.getHours()).padStart(2,'0')}:${String(_date.getMinutes()).padStart(2,'0')}`;
         } catch(e) {}
       }
-      if (naslov.length > 10) vesti.push({naslov, opis, url:link, izvor, datum, _date: pubDate ? new Date(pubDate) : new Date(0)});
+      if (naslov.length > 8) vesti.push({naslov, opis, url:link, izvor, datum, _date});
     });
+    console.log(`✓ RSS ${izvor}: ${vesti.length} vesti`);
     return vesti;
   } catch(e) {
-    console.warn(`RSS ${izvor} greška:`, e.message);
+    console.warn(`RSS ${izvor} parse greška:`, e.message);
     return [];
   }
 }
 
-// Svi RSS feedovi
+// Feedovi sa backup URL-ovima
 const FEEDOVI = [
-  {url:'https://sportske.net/feed/', izvor:'Sportske.net', cir: true},
-  {url:'https://www.fss.rs/sr/rss.html', izvor:'ФСС', cir: false},
-  {url:'https://www.tanjug.rs/rss/sport', izvor:'Танјуг', cir: false},
+  {url:'https://sportske.net/feed/', izvor:'Sportske.net'},
+  {url:'https://sportske.net/vesti-domaci-fudbal/feed/', izvor:'Sportske Домаћи'},
+  {url:'https://www.fss.rs/sr/rss.html', izvor:'ФСС'},
+  {url:'https://www.tanjug.rs/rss/sport', izvor:'Танјуг'},
 ];
 
 let sveVesti = [];
@@ -1070,9 +1097,32 @@ async function ucitajVesti() {
   );
 
   let sve = [];
-  sveFetch.forEach((res, i) => {
+  sveFetch.forEach(res => {
     if (res.status === 'fulfilled') sve = sve.concat(res.value);
   });
+
+  // Ako RSS nije dao ništa — fallback na GitHub JSON
+  if (sve.length === 0) {
+    console.warn('RSS ne radi — probam GitHub JSON fallback...');
+    try {
+      const JSON_URL = 'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json';
+      const res = await fetch(`https://api.allorigins.win/raw?url=${encodeURIComponent(JSON_URL)}&t=${Date.now()}`, {signal: AbortSignal.timeout(8000)});
+      if (res.ok) {
+        const data = await res.json();
+        if (data.vesti?.length) {
+          sve = data.vesti.map(v => ({
+            naslov: v.naslov || '',
+            opis: v.opis || '',
+            url: v.url || '#',
+            izvor: v.izvor || 'Спорт',
+            datum: v.datum || '',
+            _date: v.datum ? new Date(v.datum) : new Date(0),
+          }));
+          console.log(`✓ GitHub JSON fallback: ${sve.length} vesti`);
+        }
+      }
+    } catch(e) { console.warn('GitHub JSON fallback greška:', e.message); }
+  }
 
   // Sortiraj po datumu — najnovije prvo
   sve.sort((a,b) => (b._date||0) - (a._date||0));
@@ -1087,38 +1137,44 @@ async function ucitajVesti() {
 
   sveVesti = sve;
 
-  // Izvuci vesti o reprezentaciji
+  // Reprezentacija filter
   const repVesti = sve.filter(v => jeRepVest(v.naslov));
   const opsteVesti = sve.filter(v => !jeRepVest(v.naslov));
 
-  // GRID vesti — 6 kartica + reprezentacija pinned
+  // GRID — prikaži 6 kartica
   const prikazi = [];
-  if (repVesti.length) prikazi.push({...repVesti[0], _rep: true});
-  const ostale = opsteVesti.slice(0, repVesti.length ? 5 : 6);
-  prikazi.push(...ostale);
+  if (repVesti.length) prikazi.push({...repVesti[0]});
+  prikazi.push(...opsteVesti.slice(0, repVesti.length ? 5 : 6));
 
   if (grid) {
     if (prikazi.length) {
       grid.innerHTML = prikazi.map((v,i) => vestiKartica(v,i)).join('');
     } else {
-      grid.innerHTML = '<div style="color:var(--txt4);padding:20px;grid-column:1/-1;text-align:center">Вести нису доступне. Покушајте касније.</div>';
+      grid.innerHTML = `<div style="color:var(--txt4);padding:24px;grid-column:1/-1;text-align:center;font-size:13px">
+        ⚠️ Вести тренутно нису доступне. Посетите:
+        <a href="https://sportske.net" target="_blank" style="color:var(--blue)">sportske.net</a> · 
+        <a href="https://www.fss.rs" target="_blank" style="color:var(--blue)">fss.rs</a>
+      </div>`;
     }
   }
 
   // Sidebar — 5 najnovijih
-  if (sidebarEl && opsteVesti.length) {
-    sidebarEl.innerHTML = opsteVesti.slice(0,5).map(v =>
-      `<a class="sv-item" href="${v.url}" target="_blank" rel="noopener">
-        <div class="sv-tag">${v.izvor}</div>
-        <div class="sv-ttl">${v.naslov.slice(0,80)}</div>
-        <div class="sv-dt">${v.datum}</div>
-      </a>`
-    ).join('');
+  if (sidebarEl) {
+    const zaPrikaz = opsteVesti.slice(0,5);
+    if (zaPrikaz.length) {
+      sidebarEl.innerHTML = zaPrikaz.map(v =>
+        `<a class="sv-item" href="${v.url}" target="_blank" rel="noopener">
+          <div class="sv-tag">${v.izvor}</div>
+          <div class="sv-ttl">${v.naslov.slice(0,80)}</div>
+          <div class="sv-dt">${v.datum}</div>
+        </a>`
+      ).join('');
+    }
   }
 
-  // Sidebar reprezentacija — uvek prikaži
+  // Sidebar reprezentacija
   if (sidebarRepEl) {
-    const repZaPrikaz = repVesti.length ? repVesti : opsteVesti.filter(v => v.naslov.toLowerCase().includes('срб'));
+    const repZaPrikaz = repVesti.length ? repVesti : sve.filter(v => v.naslov.includes('Срб') || v.naslov.includes('срб'));
     if (repZaPrikaz.length) {
       sidebarRepEl.innerHTML = repZaPrikaz.slice(0,4).map(v =>
         `<a class="sv-item" href="${v.url}" target="_blank" rel="noopener">
@@ -1134,8 +1190,7 @@ async function ucitajVesti() {
 
   // Timestamp
   const now = new Date();
-  const hhMM = `${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
-  if (azEl) azEl.textContent = `Ажурирано у ${hhMM}`;
+  if (azEl) azEl.textContent = `Ажурирано у ${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
 }
 
 ucitajVesti();
