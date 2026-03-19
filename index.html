@@ -403,28 +403,28 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
     <div class="sh">
       <div class="sh-bar"></div>
       <h2 class="sh-ttl">Суперлига — Видео</h2>
-      <a href="https://www.youtube.com/@MozzartBetSuperligaSrbije" target="_blank">YouTube →</a>
+      <a href="https://www.youtube.com/@SuperligaRs1" target="_blank">YouTube →</a>
     </div>
     <div class="vid-grid">
       <!-- Superliga -->
-      <a class="vid-card" href="https://www.youtube.com/@MozzartBetSuperligaSrbije" target="_blank" rel="noopener" style="text-decoration:none;display:block">
+      <a class="vid-card" href="https://www.youtube.com/@SuperligaRs1" target="_blank" rel="noopener" style="text-decoration:none;display:block">
         <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;background:#CC0000">
           <div style="position:absolute;inset:0;background:linear-gradient(135deg,#CC0000 60%,#990000 100%);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px">
             <svg width="64" height="44" viewBox="0 0 68 48" style="filter:drop-shadow(0 2px 8px rgba(0,0,0,.6))">
               <path d="M66.52,7.74C65.73,4.5,63.2,1.97,59.97,1.18 C54.7,0,33.56,0,33.56,0S12.42,0,7.14,1.18 C3.91,1.97,1.38,4.5,.59,7.74 C-0.59,13.02,-0.59,24,-0.59,24s0,10.98,1.18,16.26 c0.79,3.24,3.32,5.77,6.55,6.56 C12.42,48,33.56,48,33.56,48s21.14,0,26.41-1.18 c3.23-0.79,5.76-3.32,6.55-6.56 C67.7,34.98,67.7,24,67.7,24S67.7,13.02,66.52,7.74z" fill="rgba(0,0,0,0.5)"/>
               <path d="M26.96,34.32L44.68,24L26.96,13.68V34.32z" fill="#fff"/>
             </svg>
-            <span style="color:#fff;font-family:var(--fd);font-size:14px;font-weight:700;letter-spacing:.05em;text-shadow:0 1px 4px rgba(0,0,0,.6)">⚽ Mozzart Bet Суперлига</span>
+            <span style="color:#fff;font-family:var(--fd);font-size:14px;font-weight:700;letter-spacing:.05em;text-shadow:0 1px 4px rgba(0,0,0,.6)">⚽ Суперлига Србије</span>
             <span style="color:rgba(255,255,255,.85);font-size:11px;text-shadow:0 1px 3px rgba(0,0,0,.5)">Кликни за најновије видео →</span>
           </div>
         </div>
         <div class="vid-lbl">
-          <div class="vid-lbl-t">Суперлига — Mozzart Bet</div>
-          <div class="vid-lbl-s">Mozzart Bet Super liga Srbije · YouTube</div>
+          <div class="vid-lbl-t">Суперлига Србије</div>
+          <div class="vid-lbl-s">SuperligaRs1 · YouTube</div>
         </div>
       </a>
       <!-- Reprezentacija -->
-      <a class="vid-card" href="https://www.youtube.com/@FudbalskiSavezSrbije" target="_blank" rel="noopener" style="text-decoration:none;display:block">
+      <a class="vid-card" href="https://www.youtube.com/@FSSrbije" target="_blank" rel="noopener" style="text-decoration:none;display:block">
         <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;background:#003F8A">
           <div style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px">
             <svg width="64" height="44" viewBox="0 0 68 48" style="filter:drop-shadow(0 2px 6px rgba(0,0,0,.5))">
@@ -437,7 +437,7 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
         </div>
         <div class="vid-lbl">
           <div class="vid-lbl-t">Репрезентација Србије</div>
-          <div class="vid-lbl-s">Фудбалски савез Србије · YouTube</div>
+          <div class="vid-lbl-s">FSSrbije · YouTube</div>
         </div>
       </a>
     </div>
@@ -1082,11 +1082,20 @@ async function fetchRSS(feedUrl, izvor) {
 // ═══ 5 IZVORA — Танјуг, ФСС, РТС, Политика, Новости ═══
 // Sve na ćirilici, bez duplikata po sadržaju
 const FEEDOVI = [
-  {url:'https://www.tanjug.rs/rss/sport',           izvor:'Танјуг',    max:6},
-  {url:'https://www.fss.rs/sr/rss.html',            izvor:'ФСС',       max:5},
-  {url:'https://www.rts.rs/rss/sekcija/fudbal.xml', izvor:'РТС',       max:5, backup:'https://www.rts.rs/rss/sport.xml'},
-  {url:'https://zurnal.politika.rs/scc/rss/fudbal', izvor:'Политика',  max:5, backup:'https://www.politika.rs/rss/rubrika/sport'},
-  {url:'https://www.novosti.rs/rss/sport.xml',      izvor:'Новости',   max:5, backup:'https://www.novosti.rs/rss/all.xml'},
+  // 1. Tanjug — RSS sport
+  {url:'https://www.tanjug.rs/rss/sport',           izvor:'Танјуг',          max:6},
+  // 2. Sportski zurnal — HTML stranica (nema RSS), samo scrape
+  {scrapeOnly:true,
+   scrapeUrl:'https://zurnal.politika.rs/scc/rubrika/19/fudbal',            izvor:'Спортски журнал', max:5},
+  // 3. RTS — RSS, ako ne radi HTML scrape
+  {url:'https://www.rts.rs/rss/sport.xml',          izvor:'РТС',             max:5,
+   scrapeUrl:'https://www.rts.rs/sport/fudbal.html'},
+  // 4. FSS
+  {url:'https://www.fss.rs/sr/rss.html',            izvor:'ФСС',             max:5,
+   backup:'https://www.fss.rs/rss'},
+  // 5. Novosti
+  {url:'https://www.novosti.rs/rss/sport.xml',      izvor:'Новости',         max:5,
+   backup:'https://www.novosti.rs/rss/all.xml'},
 ];
 
 // Normalizuj naslov za deduplication — ukloni interpunkciju i beline
@@ -1146,7 +1155,7 @@ async function ucitajVesti() {
 
   // Faza 2: RSS feedovi u pozadini — max 5 po izvoru, dedup po sadržaju
   const rssResults = await Promise.allSettled(
-    FEEDOVI.map(f => fetchRSSLimited(f.url, f.izvor, f.max, f.backup))
+    FEEDOVI.map(f => fetchRSSLimited(f))
   );
 
   rssResults.forEach(res => {
@@ -1186,11 +1195,100 @@ async function ucitajVesti() {
   }
 }
 
-// fetchRSS sa limitom po izvoru i backup podrškom
-async function fetchRSSLimited(feedUrl, izvor, maxItems=6, backup=null) {
-  let vesti = await fetchRSS(feedUrl, izvor);
-  if (!vesti.length && backup) vesti = await fetchRSS(backup, izvor);
+// fetchRSS sa limitom po izvoru, backup i scrape fallbackom
+async function fetchRSSLimited(f) {
+  const {url, izvor, max:maxItems=5, backup=null, scrapeUrl=null, scrapeOnly=false} = f;
+  let vesti = [];
+  if (!scrapeOnly) {
+    vesti = await fetchRSS(url, izvor);
+    if (!vesti.length && backup) vesti = await fetchRSS(backup, izvor);
+  }
+  if (!vesti.length && scrapeUrl) {
+    vesti = await scrapeHtmlVesti(scrapeUrl, izvor);
+  }
   return vesti.slice(0, maxItems);
+}
+
+// Ključne reči koje označavaju junk/navigacione linkove — odbaci ih
+const JUNK_FRAZE = [
+  'upgrade','browser','дигитално издање','digital','cookie','prijava','registracija',
+  'претплата','subscription','newsletter','reklam','oglas','advertisement',
+  'početna','home','назад','back','more','читај више','sve vesti','sve vijesti',
+  'архива','archive','kontakt','о нама','about','politika privatnosti','terms',
+  '&nbsp','новитети','мени','menu','навигација','navigation','search','претрага',
+];
+
+function jeJunk(naslov) {
+  const n = naslov.toLowerCase();
+  // Odbaci ako sadrži HTML entitete koji nisu očišćeni
+  if (/&[a-z]+;/.test(naslov)) return true;
+  // Odbaci ako je samo interpunkcija/brojevi
+  if (/^[\d\s\.\-\|\/\\]+$/.test(naslov)) return true;
+  // Odbaci navigacione fraze
+  if (JUNK_FRAZE.some(f => n.includes(f))) return true;
+  // Mora imati bar jednu ćiriličnu ili latiničnu reč od 4+ slova
+  if (!/[\p{L}]{4}/u.test(naslov)) return true;
+  return false;
+}
+
+// HTML scraper — vadi stvarne naslove vesti, odbacuje navigaciju
+async function scrapeHtmlVesti(pageUrl, izvor) {
+  const proxies = [
+    u => `https://api.allorigins.win/raw?url=${encodeURIComponent(u)}&t=${Date.now()}`,
+    u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
+  ];
+  for (const mkProxy of proxies) {
+    try {
+      const r = await fetch(mkProxy(pageUrl), {signal: AbortSignal.timeout(8000)});
+      if (!r.ok) continue;
+      const html = await r.text();
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(html, 'text/html');
+
+      // Pokušaj selektore specifične za vest naslove (h2, h3, article a, .title a)
+      const kandidati = [
+        ...doc.querySelectorAll('article a, .article a, .title a, h2 a, h3 a, .naslov a, .headline a, .vest a'),
+        ...doc.querySelectorAll('a[href]'),
+      ];
+
+      const vesti = [];
+      const seen = new Set();
+      const baseHost = new URL(pageUrl).hostname;
+
+      for (const a of kandidati) {
+        const rawText = a.textContent.replace(/\s+/g,' ').trim();
+        const href = a.getAttribute('href') || '';
+        if (!rawText || rawText.length < 20 || rawText.length > 200) continue;
+        if (jeJunk(rawText)) continue;
+        const norm = rawText.slice(0,50).toLowerCase();
+        if (seen.has(norm)) continue;
+
+        let fullUrl;
+        try {
+          fullUrl = href.startsWith('http') ? href : new URL(href, pageUrl).href;
+        } catch(e) { continue; }
+
+        // Samo linkovi sa istog ili srodnog domena
+        try {
+          const h = new URL(fullUrl).hostname;
+          if (!h.includes(baseHost.split('.').slice(-2).join('.'))) continue;
+        } catch(e) { continue; }
+
+        seen.add(norm);
+        vesti.push({
+          naslov: latinicaUCirilicu(rawText),
+          opis: '', url: fullUrl, izvor,
+          datum: '', _date: new Date(0),
+        });
+        if (vesti.length >= 10) break;
+      }
+      if (vesti.length >= 2) {
+        console.log(`✓ HTML scrape ${izvor}: ${vesti.length}`);
+        return vesti;
+      }
+    } catch(e) { continue; }
+  }
+  return [];
 }
 
 ucitajVesti();

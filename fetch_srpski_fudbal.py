@@ -109,8 +109,8 @@ RSS_FEEDOVI = [
     },
     {
         "naziv": "Спортски журнал",
-        "url":   "https://zurnal.politika.rs/scc/rubrika/19/fudbal",
-        "backup":"https://www.politika.rs/rss/rubrika/sport",
+        "url":   "SCRAPE:https://zurnal.politika.rs/scc/rubrika/19/fudbal",
+        "backup": None,
         "logo":  "zurnal.politika.rs",
         "uvek":  False,
         "max":   5,
@@ -239,28 +239,61 @@ def normalizuj(tekst):
     return re.sub(r'[^\w]', '', tekst.lower())[:50]
 
 
+JUNK_FRAZE_PY = [
+    'upgrade', 'browser', 'дигитално издање', 'digital edition',
+    'cookie', 'prijava', 'registracija', 'претплата', 'subscription',
+    'newsletter', 'reklam', 'oglas', 'početna', 'home page',
+    'читај више', 'sve vesti', 'архива', 'archive', 'kontakt',
+    'о нама', 'politika privatnosti', 'навигација', 'претрага',
+]
+
+def je_junk(tekst):
+    """Vraća True ako je tekst navigacioni / junk link."""
+    if not tekst or len(tekst) < 20:
+        return True
+    if '&' in tekst and ';' in tekst:  # HTML entiteti nisu očišćeni
+        return True
+    n = tekst.lower()
+    if any(f in n for f in JUNK_FRAZE_PY):
+        return True
+    return False
+
+
 def scrape_html_vesti(url, naziv, logo, max_n=5):
-    """Generički scraper za HTML stranice bez RSS-a."""
+    """Scraper za HTML stranice bez RSS-a, sa filtriranjem junk linkova."""
     vesti = []
     try:
-        req = urllib.request.Request(url, headers={'User-Agent': 'srpskifudbal.com/1.0'})
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 srpskifudbal.com/1.0'})
         with urllib.request.urlopen(req, timeout=15) as resp:
             html = resp.read().decode('utf-8', errors='replace')
 
-        # Pronađi <a href="...">naslov</a> sa bar 15 karaktera u naslovu
-        pattern = r'href="(https?://[^"]+)"[^>]*>\s*([^<]{15,})\s*</a>'
-        matches = re.findall(pattern, html)
-        seen = set()
+        from urllib.parse import urlparse, urljoin
+        base_host = urlparse(url).netloc.replace('www.', '')
+
+        # Pronađi sve <a href="...">naslov</a>
+        pattern = r'<a\s[^>]*href=["\']([^"\']+)["\'][^>]*>\s*([^<]{20,200})\s*</a>'
+        matches = re.findall(pattern, html, re.IGNORECASE)
+        seen_norm = set()
         for link, naslov in matches:
-            naslov = naslov.strip()
-            if not naslov or link in seen or len(naslov) < 15:
+            naslov = re.sub(r'\s+', ' ', naslov).strip()
+            # Očisti HTML entitete
+            naslov = re.sub(r'&[a-z]+;', '', naslov).strip()
+            if je_junk(naslov):
                 continue
-            seen.add(link)
+            norm = normalizuj(naslov)
+            if norm in seen_norm:
+                continue
+            # Samo linkovi sa istog domena
+            full_url = link if link.startswith('http') else urljoin(url, link)
+            link_host = urlparse(full_url).netloc.replace('www.', '')
+            if base_host not in link_host and link_host not in base_host:
+                continue
+            seen_norm.add(norm)
             naslov_cir = ispravi(lat_u_cir(naslov))
             vesti.append({
                 "naslov": naslov_cir,
                 "opis":   "",
-                "url":    link,
+                "url":    full_url,
                 "izvor":  naziv,
                 "logo":   logo,
                 "datum":  datetime.now().strftime("%d. %m. %Y. %H:%M"),
@@ -280,7 +313,7 @@ def scrape_html_vesti(url, naziv, logo, max_n=5):
 def povuci_vesti():
     sve = []
     vidljivi_url = set()
-    vidljivi_norm = set()  # dedup po sadržaju naslova
+    vidljivi_norm = set()
 
     def dodaj(vest):
         url = vest.get("url", "")
@@ -294,12 +327,18 @@ def povuci_vesti():
 
     for fi in RSS_FEEDOVI:
         max_n = fi.get("max", 5)
+        url_val = fi.get("url", "")
 
-        # Tanjug — scraper umesto RSS
-        if fi["url"].startswith("SCRAPE:"):
-            print(f"\n🌐 Scrape-ujem: {fi['naziv']} (tanjug.rs/sport/fudbal)")
-            tanjug_vesti = scrape_tanjug_fudbal()
-            for v in tanjug_vesti[:max_n]:
+        # SCRAPE: prefix — direktni HTML scraper
+        if url_val.startswith("SCRAPE:"):
+            scrape_url = url_val[len("SCRAPE:"):]
+            print(f"\n🌐 Scrape-ujem: {fi['naziv']} ({scrape_url})")
+            # Tanjug ima poseban scraper, ostali koriste generički
+            if "tanjug.rs" in scrape_url:
+                vesti_scrape = scrape_tanjug_fudbal()
+            else:
+                vesti_scrape = scrape_html_vesti(scrape_url, fi["naziv"], fi["logo"], max_n)
+            for v in vesti_scrape[:max_n]:
                 dodaj(v)
             continue
 
