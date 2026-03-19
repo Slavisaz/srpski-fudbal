@@ -381,18 +381,6 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
   <!-- AD -->
   <div class="adbox">Google AdSense — 728×90</div>
 
-  <!-- NAJNOVIJE VESTI — above video -->
-  <div id="najnovije" class="sec">
-    <div class="sh">
-      <div class="sh-bar"></div>
-      <h2 class="sh-ttl">Најновије вести</h2>
-      <span class="sh-ts" id="vesti-azurirano" style="margin-left:auto"></span>
-    </div>
-    <div id="vesti-grid" style="display:grid;grid-template-columns:1fr 1fr;gap:12px">
-      <div class="nc" style="padding:20px;color:var(--txt4);font-size:13px;text-align:center;grid-column:1/-1">Учитавам вести...</div>
-    </div>
-  </div>
-
   <!-- AD -->
   <div class="adbox">Google AdSense — 728×90</div>
 
@@ -403,25 +391,27 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
       <h2 class="sh-ttl">Суперлига — Видео</h2>
       <a href="https://www.youtube.com/@MozzartBetSuperligaSrbije" target="_blank">YouTube →</a>
     </div>
-    <div class="vid-grid" id="vid-grid">
-      <!-- Superliga video — loaded by AI search -->
-      <div class="vid-card" id="vid-superliga">
-        <div class="vid-frame" style="display:flex;align-items:center;justify-content:center;background:#f0f2f5;min-height:180px">
-          <span style="color:var(--txt4);font-size:12px">Учитавам видео...</span>
+    <div class="vid-grid">
+      <div class="vid-card">
+        <div class="vid-frame">
+          <iframe src="https://www.youtube.com/embed/live_stream?channel=UCYQoMnXFebmTGLkJY2Yztdg&autoplay=0"
+            allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
+            allowfullscreen loading="lazy" title="Mozzart Bet Superliga"></iframe>
         </div>
         <div class="vid-lbl">
-          <div class="vid-lbl-t" id="vid-superliga-ttl">Суперлига — последње коло</div>
+          <div class="vid-lbl-t">Суперлига — Mozzart Bet</div>
           <div class="vid-lbl-s">Mozzart Bet Super liga Srbije · YouTube</div>
         </div>
       </div>
-      <!-- Reprezentacija video — loaded by AI search -->
-      <div class="vid-card" id="vid-rep">
-        <div class="vid-frame" style="display:flex;align-items:center;justify-content:center;background:#f0f2f5;min-height:180px">
-          <span style="color:var(--txt4);font-size:12px">Учитавам видео...</span>
+      <div class="vid-card">
+        <div class="vid-frame">
+          <iframe src="https://www.youtube.com/embed/live_stream?channel=UCrRiXiELFMRh5bM_bHZzJoA&autoplay=0"
+            allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
+            allowfullscreen loading="lazy" title="Фудбалски савез Србије"></iframe>
         </div>
         <div class="vid-lbl">
-          <div class="vid-lbl-t" id="vid-rep-ttl">Репрезентација Србије</div>
-          <div class="vid-lbl-s">DAZN / UEFA / Mozzart Bet · YouTube</div>
+          <div class="vid-lbl-t">Репрезентација Србије</div>
+          <div class="vid-lbl-s">Фудбалски савез Србије · YouTube</div>
         </div>
       </div>
     </div>
@@ -438,8 +428,8 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 <div class="side">
 
   <!-- Najnovije vesti sidebar -->
-  <div class="widget">
-    <div class="wh red">🗞 Најновије вести</div>
+  <div class="widget" id="vesti">
+    <div class="wh red">🗞 Најновије вести <span id="vesti-azurirano" style="font-size:9px;opacity:.6;margin-left:auto;font-family:var(--fu);font-weight:400;letter-spacing:0;text-transform:none"></span></div>
     <div id="sidebar-vesti">
       <div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Учитавам вести...</div>
     </div>
@@ -491,7 +481,7 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
       <a href="https://www.tanjug.rs" target="_blank">Танјуг</a>
       <a href="https://www.novosti.rs" target="_blank">Новости</a>
       <a href="https://apifootball.com" target="_blank">APIfootball.com</a>
-      <a href="https://serbianfootball.com" target="_blank">серБиАНфудбАЛ.цом</a>
+      <a href="https://srpskifudbal.com" target="_blank">СрпскиФудбал.com</a>
     </div>
   </div>
   <div class="ft-bot">
@@ -1076,8 +1066,8 @@ async function fetchRSS(feedUrl, izvor) {
 
 // Feedovi sa backup URL-ovima
 const FEEDOVI = [
+  {url:'https://sportske.net/vesti-domaci-fudbal/feed/', izvor:'Sportske.net'},
   {url:'https://sportske.net/feed/', izvor:'Sportske.net'},
-  {url:'https://sportske.net/vesti-domaci-fudbal/feed/', izvor:'Sportske Домаћи'},
   {url:'https://www.fss.rs/sr/rss.html', izvor:'ФСС'},
   {url:'https://www.tanjug.rs/rss/sport', izvor:'Танјуг'},
 ];
@@ -1086,17 +1076,15 @@ let sveVesti = [];
 let vestiBroj = 0;
 
 async function ucitajVesti() {
-  const grid = document.getElementById('vesti-grid');
   const azEl = document.getElementById('vesti-azurirano');
   const sidebarEl = document.getElementById('sidebar-vesti');
   const sidebarRepEl = document.getElementById('sidebar-rep');
 
   let sve = [];
 
-  // 1. PRIMARNO — GitHub JSON (ažurira Python skripta svaki sat)
+  // 1. PRIMARNO — GitHub JSON (Python skripta ažurira svaki sat)
   try {
     const JSON_URL = 'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json';
-    // Direktno — GitHub raw ne zahteva proxy
     const res = await fetch(JSON_URL + '?t=' + Date.now(), {signal: AbortSignal.timeout(8000)});
     if (res.ok) {
       const data = await res.json();
@@ -1109,23 +1097,32 @@ async function ucitajVesti() {
           datum: v.datum || '',
           _date: new Date(0),
         }));
-        // Ažuriraj timestamp iz JSON-a
-        if (data.azurirano_sr && azEl) azEl.textContent = 'Ажурирано: ' + data.azurirano_sr;
+        if (data.azurirano_sr && azEl) azEl.textContent = data.azurirano_sr;
         console.log(`✓ GitHub JSON: ${sve.length} vesti`);
       }
     }
   } catch(e) { console.warn('GitHub JSON greška:', e.message); }
 
-  // 2. SEKUNDARNO — RSS feedovi ako GitHub JSON ne radi
+  // 2. BONUS — Sportske.net RSS (uvek dodaj, ne samo fallback)
+  try {
+    const sportkseVesti = await fetchRSS('https://sportske.net/vesti-domaci-fudbal/feed/', 'Sportske.net');
+    if (sportkseVesti.length) {
+      // Dodaj samo one kojih nema u GitHub JSON
+      const postojeNaslovi = new Set(sve.map(v => v.naslov.slice(0,40)));
+      const nove = sportkseVesti.filter(v => !postojeNaslovi.has(v.naslov.slice(0,40)));
+      sve = [...nove, ...sve]; // Sportske.net na vrh jer su najsvežije
+      console.log(`✓ Sportske.net RSS dodato: ${nove.length} novih`);
+    }
+  } catch(e) {}
+
+  // 3. FALLBACK — ostali RSS ako nema ničega
   if (sve.length === 0) {
-    console.warn('GitHub JSON ne radi — probam RSS...');
     const sveFetch = await Promise.allSettled(
-      FEEDOVI.map(f => fetchRSS(f.url, f.izvor))
+      FEEDOVI.slice(2).map(f => fetchRSS(f.url, f.izvor))
     );
     sveFetch.forEach(res => {
       if (res.status === 'fulfilled') sve = sve.concat(res.value);
     });
-    sve.sort((a,b) => (b._date||0) - (a._date||0));
   }
 
   // Deduplikuj
@@ -1139,49 +1136,33 @@ async function ucitajVesti() {
 
   sveVesti = sve;
 
-  // Reprezentacija filter
   const repVesti = sve.filter(v => jeRepVest(v.naslov));
   const opsteVesti = sve.filter(v => !jeRepVest(v.naslov));
 
-  // GRID — 6 kartica
-  const prikazi = [];
-  if (repVesti.length) prikazi.push({...repVesti[0]});
-  prikazi.push(...opsteVesti.slice(0, repVesti.length ? 5 : 6));
-
-  if (grid) {
-    if (prikazi.length) {
-      grid.innerHTML = prikazi.map((v,i) => vestiKartica(v,i)).join('');
-    } else {
-      grid.innerHTML = `<div style="color:var(--txt4);padding:24px;grid-column:1/-1;text-align:center;font-size:13px">
-        ⚠️ Вести тренутно нису доступне. Посетите:
-        <a href="https://sportske.net" target="_blank" style="color:var(--blue)">sportske.net</a> · 
-        <a href="https://www.fss.rs" target="_blank" style="color:var(--blue)">fss.rs</a>
-      </div>`;
-    }
-  }
-
-  // Sidebar — 5 najnovijih
+  // SIDEBAR — 10 najnovijih vesti (lista stil)
   if (sidebarEl) {
-    const zaPrikaz = opsteVesti.slice(0,5);
+    const zaPrikaz = opsteVesti.slice(0, 10);
     if (zaPrikaz.length) {
       sidebarEl.innerHTML = zaPrikaz.map(v =>
         `<a class="sv-item" href="${v.url}" target="_blank" rel="noopener">
           <div class="sv-tag">${v.izvor}</div>
-          <div class="sv-ttl">${v.naslov.slice(0,80)}</div>
+          <div class="sv-ttl">${v.naslov.slice(0, 85)}</div>
           <div class="sv-dt">${v.datum}</div>
         </a>`
       ).join('');
+    } else {
+      sidebarEl.innerHTML = '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Вести нису доступне.</div>';
     }
   }
 
-  // Sidebar reprezentacija
+  // SIDEBAR reprezentacija
   if (sidebarRepEl) {
     const repZaPrikaz = repVesti.length ? repVesti : sve.filter(v => v.naslov.includes('Срб') || v.naslov.includes('срб'));
     if (repZaPrikaz.length) {
-      sidebarRepEl.innerHTML = repZaPrikaz.slice(0,4).map(v =>
+      sidebarRepEl.innerHTML = repZaPrikaz.slice(0, 5).map(v =>
         `<a class="sv-item" href="${v.url}" target="_blank" rel="noopener">
           <div class="sv-tag">${v.izvor}</div>
-          <div class="sv-ttl">${v.naslov.slice(0,75)}</div>
+          <div class="sv-ttl">${v.naslov.slice(0, 75)}</div>
           <div class="sv-dt">${v.datum}</div>
         </a>`
       ).join('');
@@ -1190,92 +1171,14 @@ async function ucitajVesti() {
     }
   }
 
-  // Timestamp ako već nije setovan
   if (azEl && !azEl.textContent) {
     const now = new Date();
-    azEl.textContent = `Ажурирано у ${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
+    azEl.textContent = `${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
   }
 }
 
 ucitajVesti();
 setInterval(ucitajVesti, 5 * 60 * 1000); // svakih 5 minuta
-
-// ═══════════════════════════════════
-// VIDEO — AI pretraga YouTube videa
-// ═══════════════════════════════════
-// Koristi Anthropic API da pronađe najnovije video ID-ove
-async function ucitajVideo() {
-  // Hardcoded pouzdani fallback video ID-ovi (nedavni MozzartBet Superliga klipovi)
-  const FALLBACK_SUPERLIGA = [
-    { id: 'PLKfBdyuDxFSq7RVlJ8H8R7l6jZ52kChJm', isPlaylist: true, label: 'Суперлига — Плеј листа' },
-    { id: 'MozzartBetSuperligaSrbije', isChannel: true, label: 'Mozzart Bet Суперлига' },
-  ];
-  const FALLBACK_REP = [
-    { id: 'fudbalskisavezsrbije', isChannel: true, label: 'Фудбалски савез Србије' },
-  ];
-
-  // Pokusaj da ucita iz Anthropic API
-  try {
-    const response = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: {'Content-Type':'application/json'},
-      body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 1000,
-        tools: [{type:'web_search_20250305',name:'web_search'}],
-        messages: [{
-          role: 'user',
-          content: `Search YouTube for the 2 most recent videos about "Mozzart Bet Super liga Srbije" (Serbian football league highlights, latest kolo). Also search for 1 recent video about "fudbalska reprezentacija Srbije" from DAZN, UEFA, or MozzartBet channels. Return ONLY a JSON object with this exact structure, no other text:
-{"superliga":{"videoId":"YOUTUBE_VIDEO_ID","title":"video title"},"reprezentacija":{"videoId":"YOUTUBE_VIDEO_ID","title":"video title"}}`
-        }]
-      })
-    });
-
-    if (response.ok) {
-      const data = await response.json();
-      const fullText = (data.content||[]).filter(b=>b.type==='text').map(b=>b.text).join('');
-      const jsonMatch = fullText.match(/\{[\s\S]*"superliga"[\s\S]*\}/);
-      if (jsonMatch) {
-        const vidData = JSON.parse(jsonMatch[0]);
-
-        // Postavi superliga video
-        if (vidData.superliga?.videoId) {
-          const slEl = document.getElementById('vid-superliga');
-          const slTtl = document.getElementById('vid-superliga-ttl');
-          if (slEl) {
-            slEl.querySelector('.vid-frame').innerHTML = `<iframe src="https://www.youtube.com/embed/${vidData.superliga.videoId}?autoplay=0&rel=0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen loading="lazy"></iframe>`;
-          }
-          if (slTtl) slTtl.textContent = vidData.superliga.title || 'Суперлига — последње коло';
-        }
-
-        // Postavi reprezentacija video
-        if (vidData.reprezentacija?.videoId) {
-          const repEl = document.getElementById('vid-rep');
-          const repTtl = document.getElementById('vid-rep-ttl');
-          if (repEl) {
-            repEl.querySelector('.vid-frame').innerHTML = `<iframe src="https://www.youtube.com/embed/${vidData.reprezentacija.videoId}?autoplay=0&rel=0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen loading="lazy"></iframe>`;
-          }
-          if (repTtl) repTtl.textContent = vidData.reprezentacija.title || 'Репрезентација Србије';
-        }
-        return; // uspeh
-      }
-    }
-  } catch(e) {
-    console.warn('Video AI greška:', e.message);
-  }
-
-  // Fallback — pouzdane embed stranice
-  const slEl = document.getElementById('vid-superliga');
-  const repEl = document.getElementById('vid-rep');
-  if (slEl) {
-    slEl.querySelector('.vid-frame').innerHTML = `<iframe src="https://www.youtube.com/embed?listType=search&list=Superliga+Srbije+kolo+2026&rel=0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen loading="lazy"></iframe>`;
-  }
-  if (repEl) {
-    repEl.querySelector('.vid-frame').innerHTML = `<iframe src="https://www.youtube.com/embed?listType=search&list=reprezentacija+Srbije+fudbal+2026&rel=0" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture" allowfullscreen loading="lazy"></iframe>`;
-  }
-}
-
-ucitajVideo();
 
 // ═══════════════════════════════════
 // TICKER — RSS iz sportske.net, brzo
