@@ -61,7 +61,7 @@ nav a:hover{color:var(--red);border-color:var(--red)}
 /* LAYOUT */
 .page{max-width:1200px;margin:0 auto;padding:24px 20px;display:grid;grid-template-columns:1fr 320px;gap:28px;align-items:start}
 .main{min-width:0;width:100%}
-.side{min-width:0;width:100%;position:sticky;top:80px;align-self:start}
+.side{min-width:0;width:100%;align-self:start;max-height:calc(100vh - 100px);overflow-y:auto;position:sticky;top:80px}
 
 /* SECTION HEADER */
 .sh{display:flex;align-items:center;gap:10px;margin-bottom:14px;padding-bottom:10px;border-bottom:2px solid var(--bdr)}
@@ -406,38 +406,43 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
       <a href="https://www.youtube.com/@MozzartBetSuperligaSrbije" target="_blank">YouTube →</a>
     </div>
     <div class="vid-grid">
-      <!-- Superliga: playlist of latest videos from MozzartBet channel -->
-      <div class="vid-card">
-        <div class="vid-frame">
-          <iframe
-            src="https://www.youtube.com/embed/videoseries?list=PLd8Axjg_lLpFx6Xw9KPBJNy7-8i-3e9Zk&rel=0"
-            allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
-            allowfullscreen loading="lazy" title="Суперлига видео"></iframe>
+      <!-- Superliga -->
+      <a class="vid-card" href="https://www.youtube.com/@MozzartBetSuperligaSrbije/videos" target="_blank" rel="noopener" style="text-decoration:none;display:block">
+        <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;background:#000">
+          <img src="https://i.ytimg.com/vi/default/mqdefault.jpg"
+            style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;opacity:.7" alt="Суперлига видео">
+          <div style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px">
+            <svg width="64" height="44" viewBox="0 0 68 48" style="filter:drop-shadow(0 2px 6px rgba(0,0,0,.5))">
+              <path d="M66.52,7.74C65.73,4.5,63.2,1.97,59.97,1.18 C54.7,0,33.56,0,33.56,0S12.42,0,7.14,1.18 C3.91,1.97,1.38,4.5,.59,7.74 C-0.59,13.02,-0.59,24,-0.59,24s0,10.98,1.18,16.26 c0.79,3.24,3.32,5.77,6.55,6.56 C12.42,48,33.56,48,33.56,48s21.14,0,26.41-1.18 c3.23-0.79,5.76-3.32,6.55-6.56 C67.7,34.98,67.7,24,67.7,24S67.7,13.02,66.52,7.74z" fill="#f00"/>
+              <path d="M26.96,34.32L44.68,24L26.96,13.68V34.32z" fill="#fff"/>
+            </svg>
+            <span style="color:#fff;font-family:var(--fd);font-size:14px;font-weight:700;letter-spacing:.05em;text-shadow:0 1px 4px rgba(0,0,0,.8)">Mozzart Bet Суперлига</span>
+            <span style="color:rgba(255,255,255,.8);font-size:11px;text-shadow:0 1px 3px rgba(0,0,0,.8)">Кликни за најновије видео →</span>
+          </div>
         </div>
         <div class="vid-lbl">
           <div class="vid-lbl-t">Суперлига — Mozzart Bet</div>
           <div class="vid-lbl-s">Mozzart Bet Super liga Srbije · YouTube</div>
         </div>
-      </div>
-      <!-- Reprezentacija: FSS channel latest -->
-      <div class="vid-card">
-        <div class="vid-frame">
-          <iframe
-            src="https://www.youtube.com/embed/videoseries?list=PLXGVGGnBJtMLkLiiaZdpYEJUeyMplAQCx&rel=0"
-            allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture"
-            allowfullscreen loading="lazy" title="Репрезентација Србије"></iframe>
+      </a>
+      <!-- Reprezentacija -->
+      <a class="vid-card" href="https://www.youtube.com/@FudbalskiSavezSrbije/videos" target="_blank" rel="noopener" style="text-decoration:none;display:block">
+        <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;background:#003F8A">
+          <div style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px">
+            <svg width="64" height="44" viewBox="0 0 68 48" style="filter:drop-shadow(0 2px 6px rgba(0,0,0,.5))">
+              <path d="M66.52,7.74C65.73,4.5,63.2,1.97,59.97,1.18 C54.7,0,33.56,0,33.56,0S12.42,0,7.14,1.18 C3.91,1.97,1.38,4.5,.59,7.74 C-0.59,13.02,-0.59,24,-0.59,24s0,10.98,1.18,16.26 c0.79,3.24,3.32,5.77,6.55,6.56 C12.42,48,33.56,48,33.56,48s21.14,0,26.41-1.18 c3.23-0.79,5.76-3.32,6.55-6.56 C67.7,34.98,67.7,24,67.7,24S67.7,13.02,66.52,7.74z" fill="#f00"/>
+              <path d="M26.96,34.32L44.68,24L26.96,13.68V34.32z" fill="#fff"/>
+            </svg>
+            <span style="color:#fff;font-family:var(--fd);font-size:14px;font-weight:700;letter-spacing:.05em;text-shadow:0 1px 4px rgba(0,0,0,.8)">Репрезентација Србије 🇷🇸</span>
+            <span style="color:rgba(255,255,255,.8);font-size:11px;text-shadow:0 1px 3px rgba(0,0,0,.8)">Кликни за најновије видео →</span>
+          </div>
         </div>
         <div class="vid-lbl">
           <div class="vid-lbl-t">Репрезентација Србије</div>
           <div class="vid-lbl-s">Фудбалски савез Србије · YouTube</div>
         </div>
-      </div>
+      </a>
     </div>
-    <p style="font-size:12px;color:var(--txt4);text-align:center;margin-top:10px">
-      За видео снимке посетите:
-      <a href="https://www.youtube.com/@MozzartBetSuperligaSrbije" target="_blank" style="color:var(--blue)">Суперлига YouTube</a> ·
-      <a href="https://www.youtube.com/@FudbalskiSavezSrbije" target="_blank" style="color:var(--blue)">ФСС YouTube</a>
-    </p>
   </div>
 
 </div><!-- /main -->
@@ -462,6 +467,8 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 </div><!-- /side -->
 
 </div><!-- /page -->
+
+<div style="clear:both"></div>
 
 <footer>
   <div class="ft-tricolor"></div>
