@@ -1,14 +1,14 @@
 {
-  "azurirano": "2026-03-19T17:22:48.330494+00:00",
-  "azurirano_sr": "19. 03. 2026. у 17:22",
+  "azurirano": "2026-03-19T17:51:46.997554+00:00",
+  "azurirano_sr": "19. 03. 2026. у 17:51",
   "vesti": [
     {
       "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/238880/selektor-francuske-didije-desan-saopstio-spisak-fudbalera-za-brazil-i-kolumbiju/vest",
+      "url": "https://www.tanjug.rs/sport/fudbal/238895/izvrsni-odbor-fudbalskog-saveza-srbije-odredio-stadione-na-kojima-ce-biti-odigrano-ep-za-mlade-2027-u-srbiji/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "19. 03. 2026. 17:22",
+      "datum": "19. 03. 2026. 17:51",
       "slika": null
     },
     {
@@ -18,6 +18,15 @@
       "izvor": "ФСС",
       "logo": "fss.rs",
       "datum": "19. 03. 2026. 16:53",
+      "slika": null
+    },
+    {
+      "naslov": "У17 | КАДЕТИ НА ОКУПУ ПРЕД ЗАВРШНИ КРУГ КВАЛИФИКАЦИЈА ЗА ЕВРОПСКО ПРВЕНСТВО, ТРЕНИНГ И ИЗЈАВЕ СЕЛЕКТОРА МАТИЋА, КАПИТЕНА РАДАНОВИЋА И АНОКИЋА (ВИДЕО)",
+      "opis": "Кадетска (У-17) репрезентација Србије окупила се данас у Новој Пазови пред завршни круг квалификација за Европско првенство, које се у јуну 2026. године одржава у Естонији. Изабраници селектора Игора Матића...",
+      "url": "https://fss.rs/u17-kadeti-na-okupu-pred-zavrsni-krug-kvalifikacija-za-evropsko-prvenstvo-trening-i-izjave-selektora-matica-kapitena-radanovica-i-anokica/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "19. 03. 2026. 15:14",
       "slika": null
     },
     {
@@ -90,15 +99,6 @@
       "izvor": "ФСС",
       "logo": "fss.rs",
       "datum": "18. 03. 2026. 10:34",
-      "slika": null
-    },
-    {
-      "naslov": "СРЂАН ЈОВАНОВИЋ СА САРАДНИЦИМА СУДИ У ПРАГУ, БОШКО ЈОВАНЕТИЋ ПОСМАТРАЧ У МАЈНЦУ",
-      "opis": "Срђан Јовановић делегиран је од стране УЕФА да суди реванш утакмицу 1/8 финала Лига конференције, дуел Спарта Праг (Чешка) АЗ Алкмар (Холандија ). Асистираће му Урош Стојковић и Милан...",
-      "url": "https://fss.rs/srdjam-jovanovic-sa-saradnicima-sudi-u-pragu-bosko-jovanetic-posmatrac-u-majncu/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "17. 03. 2026. 19:00",
       "slika": null
     }
   ],
