@@ -100,11 +100,12 @@ def ispravi(tekst):
 # ═══════════════════════════════════════════════════
 RSS_FEEDOVI = [
     {
-        "naziv": "Sportske.net",
-        "url":   "https://sportske.net/feed/",
-        "backup":"https://sportske.net/vesti-domaci-fudbal/feed/",
-        "logo":  "sportske.net",
+        "naziv": "Танјуг",
+        "url":   "SCRAPE:https://www.tanjug.rs/sport/fudbal",
+        "backup": None,
+        "logo":  "tanjug.rs",
         "uvek":  True,
+        "max":   6,
     },
     {
         "naziv": "ФСС",
@@ -112,13 +113,25 @@ RSS_FEEDOVI = [
         "backup":"https://www.fss.rs/rss",
         "logo":  "fss.rs",
         "uvek":  True,
+        "max":   5,
     },
     {
-        "naziv": "Политика Фудбал",
-        "url":   "https://zurnal.politika.rs/scc/rubrika/19/fudbal",
+        "naziv": "РТС",
+        "url":   "https://www.rts.rs/rss/sekcija/fudbal.xml",
+        "backup":"https://www.rts.rs/rss/sport.xml",
+        "logo":  "rts.rs",
+        "uvek":  False,
+        "max":   5,
+        "scrape_url": "https://www.rts.rs/sport/fudbal.html",
+    },
+    {
+        "naziv": "Политика",
+        "url":   "https://zurnal.politika.rs/scc/rss/fudbal",
         "backup":"https://www.politika.rs/rss/rubrika/sport",
         "logo":  "politika.rs",
-        "uvek":  True,
+        "uvek":  False,
+        "max":   5,
+        "scrape_url": "https://zurnal.politika.rs/scc/rubrika/19/fudbal",
     },
     {
         "naziv": "Новости",
@@ -126,20 +139,8 @@ RSS_FEEDOVI = [
         "backup":"https://www.novosti.rs/rss/all.xml",
         "logo":  "novosti.rs",
         "uvek":  False,
-    },
-    {
-        "naziv": "Спортски журнал",
-        "url":   "https://www.sportskizurnal.rs/feed/",
-        "backup":"https://www.sportskizurnal.rs/rss",
-        "logo":  "sportskizurnal.rs",
-        "uvek":  True,
-    },
-    {
-        "naziv": "Танјуг",
-        "url":   "SCRAPE:https://www.tanjug.rs/sport/fudbal",
-        "backup": None,
-        "logo":  "tanjug.rs",
-        "uvek":  True,
+        "max":   5,
+        "scrape_url": "https://www.novosti.rs/sport/fudbal",
     },
 ]
 
@@ -231,41 +232,104 @@ def datum_iz_entry(entry):
     return datetime.now().strftime("%d. %m. %Y. %H:%M")
 
 
+def normalizuj(tekst):
+    """Normalizuj naslov za poređenje — samo slova/brojevi, malo slovo."""
+    if not tekst:
+        return ""
+    return re.sub(r'[^\w]', '', tekst.lower())[:50]
+
+
+def scrape_html_vesti(url, naziv, logo, max_n=5):
+    """Generički scraper za HTML stranice bez RSS-a."""
+    vesti = []
+    try:
+        req = urllib.request.Request(url, headers={'User-Agent': 'srpskifudbal.com/1.0'})
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            html = resp.read().decode('utf-8', errors='replace')
+
+        # Pronađi <a href="...">naslov</a> sa bar 15 karaktera u naslovu
+        pattern = r'href="(https?://[^"]+)"[^>]*>\s*([^<]{15,})\s*</a>'
+        matches = re.findall(pattern, html)
+        seen = set()
+        for link, naslov in matches:
+            naslov = naslov.strip()
+            if not naslov or link in seen or len(naslov) < 15:
+                continue
+            seen.add(link)
+            naslov_cir = ispravi(lat_u_cir(naslov))
+            vesti.append({
+                "naslov": naslov_cir,
+                "opis":   "",
+                "url":    link,
+                "izvor":  naziv,
+                "logo":   logo,
+                "datum":  datetime.now().strftime("%d. %m. %Y. %H:%M"),
+                "slika":  None,
+            })
+            if len(vesti) >= max_n:
+                break
+        print(f"   ✓ HTML scrape {naziv}: {len(vesti)} vesti")
+    except Exception as e:
+        print(f"   ✗ HTML scrape {naziv}: {e}")
+    return vesti
+
+
 # ═══════════════════════════════════════════════════
 # POVLAČENJE VESTI
 # ═══════════════════════════════════════════════════
 def povuci_vesti():
     sve = []
-    vidljivi = set()
+    vidljivi_url = set()
+    vidljivi_norm = set()  # dedup po sadržaju naslova
+
+    def dodaj(vest):
+        url = vest.get("url", "")
+        norm = normalizuj(vest.get("naslov", ""))
+        if url in vidljivi_url or norm in vidljivi_norm:
+            return False
+        vidljivi_url.add(url)
+        vidljivi_norm.add(norm)
+        sve.append(vest)
+        return True
 
     for fi in RSS_FEEDOVI:
+        max_n = fi.get("max", 5)
+
         # Tanjug — scraper umesto RSS
         if fi["url"].startswith("SCRAPE:"):
             print(f"\n🌐 Scrape-ujem: {fi['naziv']} (tanjug.rs/sport/fudbal)")
             tanjug_vesti = scrape_tanjug_fudbal()
-            for v in tanjug_vesti:
-                if v["url"] not in vidljivi:
-                    sve.append(v)
-                    vidljivi.add(v["url"])
+            for v in tanjug_vesti[:max_n]:
+                dodaj(v)
             continue
 
         print(f"\n📡 Povlačim: {fi['naziv']} ({fi['url']})")
+        vesti_izvora = 0
         try:
             feed = feedparser.parse(fi["url"], agent="srpskifudbal.com/1.0")
             if (not feed.entries or feed.bozo) and fi.get("backup"):
-                print(f"   ⚠ Backup: {fi['backup']}")
+                print(f"   ⚠ Backup RSS: {fi['backup']}")
                 feed = feedparser.parse(fi["backup"])
 
             if not feed.entries:
-                print("   ✗ Nema entija")
+                # Pokušaj HTML scrape ako postoji scrape_url
+                if fi.get("scrape_url"):
+                    print(f"   ⚠ Nema RSS → HTML scrape: {fi['scrape_url']}")
+                    html_vesti = scrape_html_vesti(fi["scrape_url"], fi["naziv"], fi["logo"], max_n)
+                    for v in html_vesti:
+                        if dodaj(v):
+                            vesti_izvora += 1
+                else:
+                    print("   ✗ Nema entija")
                 continue
 
             print(f"   ✓ {len(feed.entries)} entija pronađeno")
-            n = 0
 
             for entry in feed.entries[:30]:
+                if vesti_izvora >= max_n:
+                    break
                 url = getattr(entry, 'link', '')
-                if not url or url in vidljivi:
+                if not url:
                     continue
 
                 naslov = ispravi(lat_u_cir(ocisti(getattr(entry, 'title', ''))))
@@ -280,7 +344,7 @@ def povuci_vesti():
                 elif hasattr(entry, 'enclosures') and entry.enclosures:
                     slika = entry.enclosures[0].get('href')
 
-                sve.append({
+                vest = {
                     "naslov": naslov,
                     "opis":   opis,
                     "url":    url,
@@ -288,18 +352,18 @@ def povuci_vesti():
                     "logo":   fi["logo"],
                     "datum":  datum_iz_entry(entry),
                     "slika":  slika,
-                })
-                vidljivi.add(url)
-                n += 1
+                }
+                if dodaj(vest):
+                    vesti_izvora += 1
 
-            print(f"   ✓ {n} fudbalskih vesti")
+            print(f"   ✓ {vesti_izvora} fudbalskih vesti")
 
         except Exception as e:
             print(f"   ✗ Greška: {e}")
 
     sve.sort(key=lambda v: v["datum"], reverse=True)
     print(f"\n✅ Ukupno vesti: {len(sve)}")
-    return sve[:50]
+    return sve[:40]
 
 
 # ═══════════════════════════════════════════════════
