@@ -1,14 +1,23 @@
 {
-  "azurirano": "2026-03-19T11:10:19.219104+00:00",
-  "azurirano_sr": "19. 03. 2026. у 11:10",
+  "azurirano": "2026-03-19T14:42:33.420399+00:00",
+  "azurirano_sr": "19. 03. 2026. у 14:42",
   "vesti": [
     {
       "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/238722/fk-crvena-zvezda-izdvojio-920000-evra-za-sportsko-drustvo-u-prosloj-godini/vest",
+      "url": "https://www.tanjug.rs/sport/fudbal/238796/kup-srbije-fudbaleri-zvezde-protiv-jedinstva-u-polufinalu-vojvodina-sa-graficarom/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "19. 03. 2026. 11:10",
+      "datum": "19. 03. 2026. 14:42",
+      "slika": null
+    },
+    {
+      "naslov": "ПАРОВИ ПОЛУФИНАЛА КУПА СРБИЈЕ | ЈЕДИНСТВО (УБ) - ЦРВЕНА ЗВЕЗДА, ГРАФИЧАР - ВОЈВОДИНА",
+      "opis": "У Спортском центру Фудбалског савеза Србије у Старој Пазови одржана је церемонија жреба за полуфинале МоззартБет Куп Србије, која је још једном потврдила драж најмасовнијег домаћег такмичења. За пласман у...",
+      "url": "https://fss.rs/parovi-polufinala-kupa-srbije-2/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "19. 03. 2026. 13:38",
       "slika": null
     },
     {
@@ -90,15 +99,6 @@
       "izvor": "ФСС",
       "logo": "fss.rs",
       "datum": "17. 03. 2026. 14:52",
-      "slika": null
-    },
-    {
-      "naslov": "СИСТЕМ АКРЕДИТОВАЊА МЕДИЈА ЗА УТАКМИЦУ А ТИМА ШПАНИЈА – СРБИЈА (27. МАРТ 2026. ГОДИНЕ)",
-      "opis": "Поштовани, Систем акредитовања медија за пријатељску утакмицу А тима (мушкарци) против Шпаније у гостима (27. марта 2026. године) за медије из Србије спроводиће Фудбалски савез Србије односно портпарол Милан Вуковић...",
-      "url": "https://fss.rs/sistem-akreditovanja-medija-za-utakmicu-a-tima-spanija-srbija-27-mart-2026-godine/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "17. 03. 2026. 14:50",
       "slika": null
     }
   ],
