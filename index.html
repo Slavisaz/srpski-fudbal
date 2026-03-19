@@ -1082,20 +1082,21 @@ async function fetchRSS(feedUrl, izvor) {
 // ═══ 5 IZVORA — Танјуг, ФСС, РТС, Политика, Новости ═══
 // Sve na ćirilici, bez duplikata po sadržaju
 const FEEDOVI = [
-  // 1. Tanjug — RSS sport
-  {url:'https://www.tanjug.rs/rss/sport',           izvor:'Танјуг',          max:6},
-  // 2. Sportski zurnal — HTML stranica (nema RSS), samo scrape
-  {scrapeOnly:true,
-   scrapeUrl:'https://zurnal.politika.rs/scc/rubrika/19/fudbal',            izvor:'Спортски журнал', max:5},
-  // 3. RTS — RSS, ako ne radi HTML scrape
-  {url:'https://www.rts.rs/rss/sport.xml',          izvor:'РТС',             max:5,
-   scrapeUrl:'https://www.rts.rs/sport/fudbal.html'},
-  // 4. FSS
-  {url:'https://www.fss.rs/sr/rss.html',            izvor:'ФСС',             max:5,
+  // 1. Tanjug — RSS sport (fudbal filter u fetchRSS)
+  {url:'https://www.tanjug.rs/rss/sport',    izvor:'Танјуг',          max:6},
+  // 2. FSS — direktan RSS, samo fudbal
+  {url:'https://www.fss.rs/sr/rss.html',     izvor:'ФСС',             max:5,
    backup:'https://www.fss.rs/rss'},
-  // 5. Novosti
-  {url:'https://www.novosti.rs/rss/sport.xml',      izvor:'Новости',         max:5,
-   backup:'https://www.novosti.rs/rss/all.xml'},
+  // 3. RTS — RSS sport, filtriramo fudbal; fallback HTML scrape fudbal stranice
+  {url:'https://www.rts.rs/rss/sport.xml',   izvor:'РТС',             max:5,
+   scrapeUrl:'https://www.rts.rs/sport/fudbal.html', fudbalOnly:true},
+  // 4. Sportski zurnal — HTML scrape, samo fudbal linkovi
+  {scrapeOnly:true,
+   scrapeUrl:'https://zurnal.politika.rs/scc/rubrika/19/fudbal',
+   izvor:'Спортски журнал',  max:5,  fudbalOnly:true},
+  // 5. Novosti — RSS sport, filtriramo fudbal
+  {url:'https://www.novosti.rs/rss/sport.xml', izvor:'Новости',       max:5,
+   backup:'https://www.novosti.rs/rss/all.xml', fudbalOnly:true},
 ];
 
 // Normalizuj naslov za deduplication — ukloni interpunkciju i beline
@@ -1195,9 +1196,27 @@ async function ucitajVesti() {
   }
 }
 
+// Ključne reči za fudbal — naslov mora sadržati bar jednu
+const FUDBAL_RECI = [
+  'фудбал','фудбала','фудбалу','лига','куп','утакмиц','гол','суперлига',
+  'партизан','звезда','войводина','чукарички','спартак','напредак','радник','нови пазар','тсц',
+  'репрезентација','репрезентације','србија','пикси','селектор','трансфер','тренер',
+  'влаховић','тадић','митровић','милинковић','јовић',
+  'premier','league','champions','europa','serie','bundesliga','laliga','ligue',
+  'fudbal','liga','kup','utakmic','gol','superliga',
+  'partizan','zvezda','vojvodina','cukaricki','spartak','napredak','radnik',
+  'reprezentacija','srbija','transfer','trener',
+  'vlahovic','tadic','mitrovic','milinkovic','jovic',
+];
+
+function jeFudbalNaslov(naslov) {
+  const n = naslov.toLowerCase();
+  return FUDBAL_RECI.some(r => n.includes(r));
+}
+
 // fetchRSS sa limitom po izvoru, backup i scrape fallbackom
 async function fetchRSSLimited(f) {
-  const {url, izvor, max:maxItems=5, backup=null, scrapeUrl=null, scrapeOnly=false} = f;
+  const {url, izvor, max:maxItems=5, backup=null, scrapeUrl=null, scrapeOnly=false, fudbalOnly=false} = f;
   let vesti = [];
   if (!scrapeOnly) {
     vesti = await fetchRSS(url, izvor);
@@ -1205,6 +1224,10 @@ async function fetchRSSLimited(f) {
   }
   if (!vesti.length && scrapeUrl) {
     vesti = await scrapeHtmlVesti(scrapeUrl, izvor);
+  }
+  // Filtriraj samo fudbalske vesti ako je zatraženo
+  if (fudbalOnly) {
+    vesti = vesti.filter(v => jeFudbalNaslov(v.naslov));
   }
   return vesti.slice(0, maxItems);
 }
@@ -1275,6 +1298,9 @@ async function scrapeHtmlVesti(pageUrl, izvor) {
         } catch(e) { continue; }
 
         seen.add(norm);
+        // Extra check: naslov mora biti fudbalski (ili URL sadrži /fudbal)
+        const isFudbalUrl = fullUrl.toLowerCase().includes('fudbal') || fullUrl.toLowerCase().includes('football');
+        if (!isFudbalUrl && !jeFudbalNaslov(latinicaUCirilicu(rawText))) continue;
         vesti.push({
           naslov: latinicaUCirilicu(rawText),
           opis: '', url: fullUrl, izvor,
