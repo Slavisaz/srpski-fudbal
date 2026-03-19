@@ -1,14 +1,14 @@
 {
-  "azurirano": "2026-03-19T14:42:33.420399+00:00",
-  "azurirano_sr": "19. 03. 2026. у 14:42",
+  "azurirano": "2026-03-19T16:45:18.694620+00:00",
+  "azurirano_sr": "19. 03. 2026. у 16:45",
   "vesti": [
     {
       "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/238796/kup-srbije-fudbaleri-zvezde-protiv-jedinstva-u-polufinalu-vojvodina-sa-graficarom/vest",
+      "url": "https://www.tanjug.rs/sport/fudbal/238880/selektor-francuske-didije-desan-saopstio-spisak-fudbalera-za-brazil-i-kolumbiju/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "19. 03. 2026. 14:42",
+      "datum": "19. 03. 2026. 16:45",
       "slika": null
     },
     {
@@ -18,6 +18,24 @@
       "izvor": "ФСС",
       "logo": "fss.rs",
       "datum": "19. 03. 2026. 13:38",
+      "slika": null
+    },
+    {
+      "naslov": "ОДРЖАНА СЕДНИЦА ИО ФСС",
+      "opis": "У Спортском центру ФСС у Старој Пазови одржана је седница Извршног одбора ФСС. На основу извештаја Организационог одбора ФСС за припрему и организацију УЕФА Првенства Европе за играче до 21...",
+      "url": "https://fss.rs/io-fss-dalibor-zorko-novi-direktor-centra-za-edukaciju-fudbalskih-trenera-fss/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "19. 03. 2026. 13:04",
+      "slika": null
+    },
+    {
+      "naslov": "ИО ФСС | ОДЛУКА О РАСПИСИВАЊУ ИЗБОРА У ФУДБАЛСКОМ САВЕЗУ СРБИЈЕ",
+      "opis": "Извршни одбор Фудбалског савеза Србије донео је одлуку о расписивању избора за избор органа Савеза за мандатни период 2026 2030. година. Избори у савезима и стручно струковним организацијама,...",
+      "url": "https://fss.rs/io-fss-odluka-o-raspisivanju-izbora-u-fudbalskom-savezu-srbije/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "19. 03. 2026. 12:42",
       "slika": null
     },
     {
@@ -81,24 +99,6 @@
       "izvor": "ФСС",
       "logo": "fss.rs",
       "datum": "17. 03. 2026. 15:58",
-      "slika": null
-    },
-    {
-      "naslov": "МЕДИА АЦЦРЕДИТАТИОН СYСТЕМ ФОР ТХЕ СЕРБИА А НАТИОНАЛ ТЕАМ МАТЦХ ВС САУДИ АРАБИА (МАРЦХ 31)",
-      "opis": "Деар Сир/Мадам, Wе wоулд лике то информ yоу тхат тхе медиа аццредитатион сyстем фор тхе фриендлy матцх оф тхе Сербиа А Натионал Теам агаинст Сауди Арабиа (Марцх 31, ТСЦ Арена...",
-      "url": "https://fss.rs/media-accreditation-system-for-the-serbia-a-national-team-match-vs-saudi-arabia-march-31/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "17. 03. 2026. 14:57",
-      "slika": null
-    },
-    {
-      "naslov": "СИСТЕМ АКРЕДИТОВАЊА МЕДИЈА ЗА УТАКМИЦУ А ТИМА СРБИЈА – САУДИЈСКА АРАБИЈА (31. МАРТ",
-      "opis": "Поштовани, Систем акредитовања медија за пријатељску утакмицу А тима (мушкарци) против Саудијске Арабије (31. март – стадион ”ТСЦ Арена” у Бачкој Тополи од 18 часова) биће отворен до петка 27....",
-      "url": "https://fss.rs/sistem-akreditovanja-medija-za-utakmicu-a-tima-srbija-saudijska-arabija-31-mart/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "17. 03. 2026. 14:52",
       "slika": null
     }
   ],
