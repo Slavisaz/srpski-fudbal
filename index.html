@@ -61,7 +61,7 @@ nav a:hover{color:var(--red);border-color:var(--red)}
 /* LAYOUT */
 .page{max-width:1200px;margin:0 auto;padding:24px 20px;display:grid;grid-template-columns:1fr 320px;gap:28px;align-items:start}
 .main{min-width:0;width:100%}
-.side{min-width:0;width:100%;position:sticky;top:80px}
+.side{min-width:0;width:100%;position:sticky;top:80px;align-self:start}
 
 /* SECTION HEADER */
 .sh{display:flex;align-items:center;gap:10px;margin-bottom:14px;padding-bottom:10px;border-bottom:2px solid var(--bdr)}
@@ -437,9 +437,9 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 <!-- SIDEBAR -->
 <div class="side">
 
-  <!-- Superliga quick stats -->
+  <!-- Najnovije vesti sidebar -->
   <div class="widget">
-    <div class="wh">⚽ Суперлига — Брзи преглед</div>
+    <div class="wh red">🗞 Најновије вести</div>
     <div id="sidebar-vesti">
       <div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Учитавам вести...</div>
     </div>
@@ -1091,41 +1091,43 @@ async function ucitajVesti() {
   const sidebarEl = document.getElementById('sidebar-vesti');
   const sidebarRepEl = document.getElementById('sidebar-rep');
 
-  // Paralelno fetchuj sve feedove
-  const sveFetch = await Promise.allSettled(
-    FEEDOVI.map(f => fetchRSS(f.url, f.izvor))
-  );
-
   let sve = [];
-  sveFetch.forEach(res => {
-    if (res.status === 'fulfilled') sve = sve.concat(res.value);
-  });
 
-  // Ako RSS nije dao ništa — fallback na GitHub JSON
-  if (sve.length === 0) {
-    console.warn('RSS ne radi — probam GitHub JSON fallback...');
-    try {
-      const JSON_URL = 'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json';
-      const res = await fetch(`https://api.allorigins.win/raw?url=${encodeURIComponent(JSON_URL)}&t=${Date.now()}`, {signal: AbortSignal.timeout(8000)});
-      if (res.ok) {
-        const data = await res.json();
-        if (data.vesti?.length) {
-          sve = data.vesti.map(v => ({
-            naslov: v.naslov || '',
-            opis: v.opis || '',
-            url: v.url || '#',
-            izvor: v.izvor || 'Спорт',
-            datum: v.datum || '',
-            _date: v.datum ? new Date(v.datum) : new Date(0),
-          }));
-          console.log(`✓ GitHub JSON fallback: ${sve.length} vesti`);
-        }
+  // 1. PRIMARNO — GitHub JSON (ažurira Python skripta svaki sat)
+  try {
+    const JSON_URL = 'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json';
+    // Direktno — GitHub raw ne zahteva proxy
+    const res = await fetch(JSON_URL + '?t=' + Date.now(), {signal: AbortSignal.timeout(8000)});
+    if (res.ok) {
+      const data = await res.json();
+      if (data.vesti?.length) {
+        sve = data.vesti.map(v => ({
+          naslov: v.naslov || '',
+          opis: v.opis || '',
+          url: v.url || '#',
+          izvor: v.izvor || 'Спорт',
+          datum: v.datum || '',
+          _date: new Date(0),
+        }));
+        // Ažuriraj timestamp iz JSON-a
+        if (data.azurirano_sr && azEl) azEl.textContent = 'Ажурирано: ' + data.azurirano_sr;
+        console.log(`✓ GitHub JSON: ${sve.length} vesti`);
       }
-    } catch(e) { console.warn('GitHub JSON fallback greška:', e.message); }
+    }
+  } catch(e) { console.warn('GitHub JSON greška:', e.message); }
+
+  // 2. SEKUNDARNO — RSS feedovi ako GitHub JSON ne radi
+  if (sve.length === 0) {
+    console.warn('GitHub JSON ne radi — probam RSS...');
+    const sveFetch = await Promise.allSettled(
+      FEEDOVI.map(f => fetchRSS(f.url, f.izvor))
+    );
+    sveFetch.forEach(res => {
+      if (res.status === 'fulfilled') sve = sve.concat(res.value);
+    });
+    sve.sort((a,b) => (b._date||0) - (a._date||0));
   }
 
-  // Sortiraj po datumu — najnovije prvo
-  sve.sort((a,b) => (b._date||0) - (a._date||0));
   // Deduplikuj
   const seen = new Set();
   sve = sve.filter(v => {
@@ -1141,7 +1143,7 @@ async function ucitajVesti() {
   const repVesti = sve.filter(v => jeRepVest(v.naslov));
   const opsteVesti = sve.filter(v => !jeRepVest(v.naslov));
 
-  // GRID — prikaži 6 kartica
+  // GRID — 6 kartica
   const prikazi = [];
   if (repVesti.length) prikazi.push({...repVesti[0]});
   prikazi.push(...opsteVesti.slice(0, repVesti.length ? 5 : 6));
@@ -1188,9 +1190,11 @@ async function ucitajVesti() {
     }
   }
 
-  // Timestamp
-  const now = new Date();
-  if (azEl) azEl.textContent = `Ажурирано у ${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
+  // Timestamp ako već nije setovan
+  if (azEl && !azEl.textContent) {
+    const now = new Date();
+    azEl.textContent = `Ажурирано у ${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
+  }
 }
 
 ucitajVesti();
