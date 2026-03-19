@@ -100,6 +100,13 @@ def ispravi(tekst):
 # ═══════════════════════════════════════════════════
 RSS_FEEDOVI = [
     {
+        "naziv": "Sportske.net",
+        "url":   "https://sportske.net/feed/",
+        "backup":"https://sportske.net/vesti-domaci-fudbal/feed/",
+        "logo":  "sportske.net",
+        "uvek":  True,
+    },
+    {
         "naziv": "ФСС",
         "url":   "https://www.fss.rs/sr/rss.html",
         "backup":"https://www.fss.rs/rss",
