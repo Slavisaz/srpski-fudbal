@@ -1080,225 +1080,137 @@ async function fetchRSS(feedUrl, izvor) {
 }
 
 // ═══════════════════════════════════════════════════
-// ВЕСТИ — Claude AI чита RSS и враћа фудбалске наслове
+// ВЕСТИ — Claude AI widget (чита сајтове директно)
 // ═══════════════════════════════════════════════════
 
-const VESTI_IZVORI = [
-  { naziv: 'Танјуг',          rss: 'https://www.tanjug.rs/rss/sport' },
-  { naziv: 'ФСС',             rss: 'https://www.fss.rs/sr/rss.html' },
-  { naziv: 'РТС',             rss: 'https://www.rts.rs/rss/sport.xml' },
-  { naziv: 'Спортски журнал', rss: 'https://zurnal.politika.rs/scc/rubrika/19/fudbal' },
-  { naziv: 'Новости',         rss: 'https://www.novosti.rs/rss/sport.xml' },
+const VESTI_SAJTOVI = [
+  { naziv: 'Танјуг',   url: 'https://www.tanjug.rs/sport/fudbal' },
+  { naziv: 'ФСС',      url: 'https://www.fss.rs/sr/vesti/fss-vesti.html' },
+  { naziv: 'РТС',      url: 'https://www.rts.rs/sport/fudbal.html' },
+  { naziv: 'Новости',  url: 'https://www.novosti.rs/sport/fudbal' },
 ];
 
-const PROXY_A = u => `https://api.allorigins.win/raw?url=${encodeURIComponent(u)}&t=${Date.now()}`;
-const PROXY_B = u => `https://corsproxy.io/?${encodeURIComponent(u)}`;
+let sveVesti = [];
 
-async function fetchRawFeed(url) {
-  for (const mkP of [PROXY_A, PROXY_B]) {
-    try {
-      const r = await fetch(mkP(url), { signal: AbortSignal.timeout(7000) });
-      if (r.ok) return await r.text();
-    } catch(e) { continue; }
-  }
-  return null;
-}
-
-// Izvuci stavke iz XML/HTML teksta
-function parseItems(txt, naziv) {
-  if (!txt) return [];
-  const items = [];
-  const rssItems = [...txt.matchAll(/<item[\s>]([\s\S]*?)<\/item>/gi)];
-  if (rssItems.length) {
-    for (const m of rssItems.slice(0, 25)) {
-      const raw = m[1];
-      const titleM = raw.match(/<title[^>]*>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/i);
-      const linkM  = raw.match(/<link[^>]*>\s*([^\s<][^<]*)<\/link>/i) || raw.match(/<guid[^>]*>([^<]+)<\/guid>/i);
-      const dateM  = raw.match(/<pubDate[^>]*>([^<]+)<\/pubDate>/i);
-      const naslov = (titleM?.[1]||'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#\d+;/g,'').replace(/\s+/g,' ').trim();
-      const url    = (linkM?.[1]||'').trim();
-      const datum  = (dateM?.[1]||'').trim();
-      if (naslov.length > 10 && url.startsWith('http')) items.push({ naslov, url, datum, naziv });
-    }
-    return items;
-  }
-  // HTML fallback
-  const links = [...txt.matchAll(/<a\s[^>]*href=["'](https?:\/\/[^"']+)["'][^>]*>\s*([^<]{20,150})\s*<\/a>/gi)];
-  for (const m of links) {
-    const naslov = m[2].replace(/\s+/g,' ').trim();
-    if (naslov.length > 20) items.push({ naslov, url: m[1], datum: '', naziv });
-  }
-  return items;
-}
-
-function normV(n) { return n.toLowerCase().replace(/[^\p{L}\p{N}]/gu,'').slice(0,50); }
-
-const LAT_MAP2 = {'lj':'\u0459','nj':'\u045a','d\u017e':'\u045f','dj':'\u0452','Lj':'\u0409','Nj':'\u040a','D\u017d':'\u040f','Dj':'\u0402',
-'a':'\u0430','b':'\u0431','c':'\u0446','\u010d':'\u0447','\u0107':'\u045b','d':'\u0434','e':'\u0435','f':'\u0444','g':'\u0433','h':'\u0445','i':'\u0438',
-'j':'\u0458','k':'\u043a','l':'\u043b','m':'\u043c','n':'\u043d','o':'\u043e','p':'\u043f','r':'\u0440','s':'\u0441','\u0161':'\u0448','t':'\u0442',
-'u':'\u0443','v':'\u0432','z':'\u0437','\u017e':'\u0436','A':'\u0410','B':'\u0411','C':'\u0426','\u010c':'\u0427','\u0106':'\u040b','D':'\u0414','E':'\u0415',
-'F':'\u0424','G':'\u0413','H':'\u0425','I':'\u0418','J':'\u0408','K':'\u041a','L':'\u041b','M':'\u041c','N':'\u041d','O':'\u041e','P':'\u041f',
-'R':'\u0420','S':'\u0421','\u0160':'\u0428','T':'\u0422','U':'\u0423','V':'\u0412','Z':'\u0417','\u017d':'\u0416'};
-function toCir2(t) {
-  if (!t) return t;
-  for (const [l,c] of [['lj','\u0459'],['nj','\u045a'],['d\u017e','\u045f'],['dj','\u0452'],['Lj','\u0409'],['Nj','\u040a'],['D\u017d','\u040f'],['Dj','\u0402']])
-    t = t.replaceAll(l,c);
-  return t.split('').map(ch => LAT_MAP2[ch]||ch).join('');
-}
-
-function formatDatumV(dateStr) {
-  if (!dateStr) return '';
-  try {
-    const d = new Date(dateStr);
-    if (isNaN(d)) return '';
-    const mn = ['\u0458\u0430\u043d','\u0444\u0435\u0431','\u043c\u0430\u0440','\u0430\u043f\u0440','\u043c\u0430\u0458','\u0458\u0443\u043d','\u0458\u0443\u043b','\u0430\u0432\u0433','\u0441\u0435\u043f','\u043e\u043a\u0442','\u043d\u043e\u0432','\u0434\u0435\u0446'];
-    return `${d.getDate()}. ${mn[d.getMonth()]} \u00b7 ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
-  } catch(e) { return ''; }
-}
-
-const listaItemV = (v) =>
-  `<a class="sv-item" href="${(v.url||'#').replace(/'/g,'%27')}" target="_blank" rel="noopener">
+function listaItemV(v) {
+  const url = (v.url||'#').replace(/'/g,'%27');
+  return `<a class="sv-item" href="${url}" target="_blank" rel="noopener">
     <div class="sv-tag">${v.naziv||''}</div>
     <div class="sv-ttl">${(v.naslov||'').slice(0,95)}</div>
     <div class="sv-dt">${v.datum||''}</div>
   </a>`;
-
-// Claude API filtrira naslove — vraca JSON niz indeksa fudbalskih vesti
-async function claudeFiltriraNaslove(svi) {
-  if (!svi.length) return null;
-  const lista = svi.map((v,i) => `${i+1}. [${v.naziv}] ${v.naslov}`).join('\n');
-  try {
-    const resp = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 800,
-        messages: [{
-          role: 'user',
-          content: `Ovo su naslovi iz srpskih sportskih RSS feedova. Zadatak:\n1. Zadrzi SAMO naslove o fudbalu (Superliga, FK klubovi, reprezentacija Srbije, fudbaleri, transferi, UEFA, FIFA, medjunarodne lige).\n2. Odbaci sve sto nije fudbal: tenis, kosarka, rukomet, atletika, OI, motorsport, odbojka, itd.\n3. Vrati SAMO JSON niz 1-based indeksa koje treba zadrzati. Primer: [1,3,5,7,9]\n4. Bez ikakvog teksta pre ili posle, samo JSON niz.\n\nNaslovi:\n${lista}`
-        }]
-      })
-    });
-    const data = await resp.json();
-    const txt = (data.content?.[0]?.text||'[]').replace(/```[a-z]*|```/g,'').trim();
-    const parsed = JSON.parse(txt);
-    return Array.isArray(parsed) ? parsed : null;
-  } catch(e) {
-    console.warn('Claude API:', e.message);
-    return null;
-  }
 }
-
-// Lokalni fallback filter
-const FUDBAL_KW2 = ['\u0444\u0443\u0434\u0431\u0430\u043b','\u043b\u0438\u0433\u0430','\u043a\u0443\u043f','\u0433\u043e\u043b','\u0443\u0442\u0430\u043a\u043c\u0438\u0446','\u0441\u0443\u043f\u0435\u0440\u043b\u0438\u0433\u0430',
-  '\u043f\u0430\u0440\u0442\u0438\u0437\u0430\u043d','\u0437\u0432\u0435\u0437\u0434\u0430','\u0432\u043e\u0458\u0432\u043e\u0434\u0438\u043d\u0430','\u0447\u0443\u043a\u0430\u0440\u0438\u0447\u043a\u0438','\u0441\u043f\u0430\u0440\u0442\u0430\u043a',
-  '\u0440\u0435\u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0458\u0430','\u0441\u0435\u043b\u0435\u043a\u0442\u043e\u0440','\u0442\u0440\u0430\u043d\u0441\u0444\u0435\u0440','\u0442\u0440\u0435\u043d\u0435\u0440',
-  '\u0432\u043b\u0430\u0445\u043e\u0432\u0438\u045b','\u0442\u0430\u0434\u0438\u045b','\u043c\u0438\u0442\u0440\u043e\u0432\u0438\u045b',
-  'fudbal','liga','kup','utakmic','superliga','partizan','zvezda','vojvodina','reprezentacija','transfer','vlahovic','tadic','mitrovic',
-  'uefa','fifa','premier','champions','europa','serie','bundesliga'];
-function lokalniFilterV(vesti) {
-  return vesti.filter(v => {
-    const n = (v.naslov||'').toLowerCase();
-    return FUDBAL_KW2.some(k => n.includes(k));
-  });
-}
-
-let sveVesti = [];
 
 async function ucitajVesti() {
-  const mainListEl  = document.getElementById('main-vesti-list');
-  const sidebarRepEl= document.getElementById('sidebar-rep');
-  const azEl        = document.getElementById('vesti-azurirano');
+  const mainEl   = document.getElementById('main-vesti-list');
+  const sideEl   = document.getElementById('sidebar-rep');
+  const azEl     = document.getElementById('vesti-azurirano');
 
-  // FAZA 1 — odmah GitHub JSON (brzo)
+  if (mainEl) mainEl.innerHTML = '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">⏳ Учитавам вести...</div>';
+
+  // FAZA 1 — odmah prikaži GitHub JSON ako postoji
   try {
-    const r = await fetch(
-      'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json',
-      { signal: AbortSignal.timeout(5000), cache: 'no-store' }
-    );
-    if (r.ok) {
-      const data = await r.json();
-      if (data?.vesti?.length) {
-        if (data.azurirano_sr && azEl) azEl.textContent = data.azurirano_sr;
-        const jv = data.vesti.map(v => ({
-          naslov: v.naslov||'', url: v.url||'#', naziv: v.izvor||'Спорт', datum: v.datum||''
-        }));
-        if (mainListEl) mainListEl.innerHTML = jv.slice(0,5).map(listaItemV).join('');
-        sveVesti = jv;
+    const jr = await fetch('https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json', {signal:AbortSignal.timeout(4000),cache:'no-store'});
+    if (jr.ok) {
+      const jd = await jr.json();
+      if (jd?.vesti?.length) {
+        if (jd.azurirano_sr && azEl) azEl.textContent = jd.azurirano_sr;
+        sveVesti = jd.vesti.map(v=>({naslov:v.naslov||'',url:v.url||'#',naziv:v.izvor||'',datum:v.datum||''}));
+        if (mainEl) mainEl.innerHTML = sveVesti.slice(0,5).map(listaItemV).join('');
       }
     }
   } catch(e) {}
 
-  // FAZA 2 — povuci RSS iz svih 5 izvora paralelno
-  const feedResults = await Promise.allSettled(
-    VESTI_IZVORI.map(f => fetchRawFeed(f.rss).then(txt => parseItems(txt, f.naziv)))
-  );
+  // FAZA 2 — Claude API čita svaki sajt i izvlači naslove
+  try {
+    const sajtProxied = VESTI_SAJTOVI.map(s => ({
+      naziv: s.naziv,
+      proxyUrl: `https://api.allorigins.win/raw?url=${encodeURIComponent(s.url)}&t=${Date.now()}`
+    }));
 
-  let svi = [];
-  feedResults.forEach(res => { if (res.status === 'fulfilled') svi.push(...res.value); });
+    // Povuci HTML svih sajtova paralelno
+    const htmlovi = await Promise.allSettled(
+      sajtProxied.map(s =>
+        fetch(s.proxyUrl, {signal:AbortSignal.timeout(8000)})
+          .then(r => r.ok ? r.text() : '')
+          .catch(() => '')
+      )
+    );
 
-  // Dedup po URL-u
-  const seenUrl2 = new Set();
-  svi = svi.filter(v => { if(seenUrl2.has(v.url)) return false; seenUrl2.add(v.url); return true; });
-  if (!svi.length) return;
+    // Napravi prompt za Claude — pošalji mu HTML svih sajtova
+    const sajtBlokovi = VESTI_SAJTOVI.map((s, i) => {
+      const html = htmlovi[i].status === 'fulfilled' ? (htmlovi[i].value||'') : '';
+      // Skrati na 6000 karaktera po sajtu
+      const skracen = html.replace(/<script[\s\S]*?<\/script>/gi,'')
+                          .replace(/<style[\s\S]*?<\/style>/gi,'')
+                          .replace(/<[^>]+>/g,' ')
+                          .replace(/\s{2,}/g,' ')
+                          .slice(0,5000);
+      return `=== ${s.naziv} (${s.url}) ===\n${skracen}`;
+    }).join('\n\n');
 
-  // FAZA 3 — Claude bira fudbalske naslove
-  let filtrirani;
-  const indeksi = await claudeFiltriraNaslove(svi);
-  if (indeksi && indeksi.length > 0) {
-    filtrirani = indeksi.map(i => svi[i-1]).filter(Boolean);
-    if (filtrirani.length < 3) filtrirani = lokalniFilterV(svi); // fallback ako Claude vratio premalo
-  } else {
-    filtrirani = lokalniFilterV(svi);
-  }
+    const resp = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 1200,
+        messages: [{
+          role: 'user',
+          content: `Ovo je tekst sa srpskih sportskih sajtova. Izvuci NAJNOVIJE naslove vesti koji se odnose ISKLJUCIVO na fudbal.
 
-  // Prevod u cirilicu + datum
-  filtrirani = filtrirani.map(v => ({
-    ...v, naslov: toCir2(v.naslov), datum: formatDatumV(v.datum)
-  }));
+Pravila:
+- Samo fudbal (srpska Superliga, FK klubovi, reprezentacija Srbije, transferi, UEFA, FIFA, medjunarodne fudbalske lige)
+- Odbaci sve sto nije fudbal: tenis, kosarka, rukomet, atletika, OI, motorsport itd.
+- Prevedi sve latinske naslove u srpsku CIRILICU
+- Vrati TACNO 5 naslova (ili manje ako nema dovoljno), po 1 sa svakog sajta ako moguce
+- Format: JSON niz objekata: [{"naziv":"Танјуг","naslov":"...","url":"https://..."}]
+- Samo JSON, bez ikakvog teksta pre ili posle
 
-  // Dedup po naslovu
-  const seenN2 = new Set();
-  filtrirani = filtrirani.filter(v => {
-    const k = normV(v.naslov);
-    if (seenN2.has(k)) return false;
-    seenN2.add(k); return true;
-  });
+Tekst sajtova:
+${sajtBlokovi}`
+        }]
+      })
+    });
 
-  sveVesti = filtrirani;
+    const data = await resp.json();
+    const txt = (data.content?.[0]?.text||'').replace(/\`\`\`json|\`\`\`/g,'').trim();
+    const vesti = JSON.parse(txt);
 
-  // Ravnomerno po izvoru — 1 od svakog, do 5
-  const grupe = {};
-  filtrirani.forEach(v => { (grupe[v.naziv]=grupe[v.naziv]||[]).push(v); });
-  const red = ['Танјуг','ФСС','РТС','Спортски журнал','Новости'];
-  const ravno = [];
-  for (let r = 0; ravno.length < 5 && r < 5; r++)
-    for (const n of red) { if (ravno.length >= 5) break; if (grupe[n]?.[r]) ravno.push(grupe[n][r]); }
-  const zaPrikaz = ravno.length >= 2 ? ravno : filtrirani.slice(0,5);
+    if (Array.isArray(vesti) && vesti.length > 0) {
+      const now = new Date();
+      const vreme = `${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
+      const obradjene = vesti.map(v => ({
+        naziv:  v.naziv||'',
+        naslov: v.naslov||'',
+        url:    v.url||'#',
+        datum:  vreme,
+      }));
 
-  if (mainListEl) {
-    mainListEl.innerHTML = zaPrikaz.length
-      ? zaPrikaz.map(listaItemV).join('')
-      : '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">\u0412\u0435\u0441\u0442\u0438 \u043d\u0438\u0441\u0443 \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0435.</div>';
-  }
+      sveVesti = obradjene;
+      if (mainEl) mainEl.innerHTML = obradjene.map(listaItemV).join('');
+      if (azEl) azEl.textContent = vreme;
 
-  if (sidebarRepEl) {
-    const repKw2 = ['\u0440\u0435\u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0458','\u043f\u0438\u043a\u0441\u0438','\u0441\u0435\u043b\u0435\u043a\u0442\u043e\u0440'];
-    const rep = filtrirani.filter(v => repKw2.some(k => v.naslov.toLowerCase().includes(k)));
-    const repShow = rep.length ? rep : filtrirani.filter(v => v.naslov.toLowerCase().includes('\u0441\u0440\u0431'));
-    sidebarRepEl.innerHTML = repShow.slice(0,6).map(listaItemV).join('')
-      || '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">\u041d\u0435\u043c\u0430 \u0432\u0435\u0441\u0442\u0438 \u043e \u0440\u0435\u043f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u0458\u0438.</div>';
-  }
-
-  if (azEl) {
-    const now = new Date();
-    azEl.textContent = `${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
+      // Sidebar — reprezentacija
+      if (sideEl) {
+        const repKw = ['репрезентација','пикси','селектор','а тим','srbija','reprezentacija'];
+        const rep = obradjene.filter(v => repKw.some(k => (v.naslov||'').toLowerCase().includes(k)));
+        const repShow = rep.length ? rep : obradjene.filter(v => (v.naslov||'').toLowerCase().includes('срб'));
+        sideEl.innerHTML = repShow.slice(0,6).map(listaItemV).join('')
+          || '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Нема вести о репрезентацији.</div>';
+      }
+    }
+  } catch(e) {
+    console.warn('Vesti greška:', e.message);
+    if (mainEl && !sveVesti.length) {
+      mainEl.innerHTML = '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Вести нису доступне.</div>';
+    }
   }
 }
 
 ucitajVesti();
 setInterval(ucitajVesti, 5 * 60 * 1000);
+
 
 // ═══════════════════════════════════
 // TICKER — RSS iz sportske.net, brzo
