@@ -1,68 +1,14 @@
 {
-  "azurirano": "2026-03-19T21:01:50.395919+00:00",
-  "azurirano_sr": "19. 03. 2026. у 21:01",
+  "azurirano": "2026-03-19T23:02:06.369785+00:00",
+  "azurirano_sr": "19. 03. 2026. у 23:02",
   "vesti": [
-    {
-      "naslov": "Најновије вести",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/238941/fudbaleri-notingem-foresta-posle-penala-do-cetvrtfinala-lige-evrope/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "19. 03. 2026. 21:01",
-      "slika": null
-    },
-    {
-      "naslov": "Српски клубови у Европи",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "19. 03. 2026. 21:01",
-      "slika": null
-    },
-    {
-      "naslov": "Српски тенисери и тенисерке",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "19. 03. 2026. 21:01",
-      "slika": null
-    },
-    {
-      "naslov": "Српски спортисти на ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "19. 03. 2026. 21:01",
-      "slika": null
-    },
-    {
-      "naslov": "Борилачки спортови ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "19. 03. 2026. 21:01",
-      "slika": null
-    },
-    {
-      "naslov": "Инфантино: ФИФА неће предузети мере против Израела и не може да реши…",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241007/fudbal/sirom-planete/infantino-fifa-nece-preduzeti-mere-protiv-izraela-i-ne-moze-da-resi-geopoliticke-sukobe",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "19. 03. 2026. 21:01",
-      "slika": null
-    },
     {
       "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
       "opis": "",
       "url": "https://www.rts.rs/rts/informator-o-radu.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "19. 03. 2026. 21:01",
+      "datum": "19. 03. 2026. 23:02",
       "slika": null
     },
     {
@@ -71,7 +17,7 @@
       "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "19. 03. 2026. 21:01",
+      "datum": "19. 03. 2026. 23:02",
       "slika": null
     },
     {
@@ -80,25 +26,25 @@
       "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "19. 03. 2026. 21:01",
+      "datum": "19. 03. 2026. 23:02",
       "slika": null
     },
     {
-      "naslov": "Форест после пенала елиминисао Митјеланд, Миленковић забележио асистенцију",
+      "naslov": "Италијански дерби у Лиги Европе припао Болоњи након продужетака",
       "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/liga_sampiona/5909195/forest-penali-eliminacija-mitjeland-milenkovic.html",
+      "url": "https://www.rts.rs/sport/fudbal/liga_sampiona/5909246/italija-derbi-bolonja-produzeci-liga-evrope.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "19. 03. 2026. 21:01",
+      "datum": "19. 03. 2026. 23:02",
       "slika": null
     },
     {
-      "naslov": "Инфантино: Светско првенство према плану, Фифа не може да реши геополитичке сукобе",
+      "naslov": "Шерифов гол недовољан Самсунспору, Рајо Ваљекано иде даље",
       "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/5909222/djani-infantino-svetsko-prvenstvo-prema-planu-fifa.html",
+      "url": "https://www.rts.rs/sport/fudbal/liga_sampiona/5909216/serif-gol-samsunspor-rajo-valjekano-cetvrtfinale.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "19. 03. 2026. 21:01",
+      "datum": "19. 03. 2026. 23:02",
       "slika": null
     },
     {
@@ -107,7 +53,16 @@
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "19. 03. 2026. 21:01",
+      "datum": "19. 03. 2026. 23:02",
+      "slika": null
+    },
+    {
+      "naslov": "ТЕЖАК ПЕХ ЗА ЧЕТВРТФИНАЛИСТУ ЛИГЕ ШАМПИОНА! Пропушта прву утакмицу!",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1587573/liga-sampiona-povreda-fudbaler-cetvrtfinalista-real-madrid-tibo-kurtoa",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "19. 03. 2026. 23:02",
       "slika": null
     },
     {
@@ -116,7 +71,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1587675/hrvat-izazvao-skandal-trener-totenhem-optuzen-igor-tudor",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "19. 03. 2026. 21:01",
+      "datum": "19. 03. 2026. 23:02",
       "slika": null
     },
     {
@@ -125,7 +80,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1587705/liga-evrope-osmina-finala-nikola-milenkovic-notingem-prosao",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "19. 03. 2026. 21:01",
+      "datum": "19. 03. 2026. 23:02",
       "slika": null
     },
     {
@@ -134,16 +89,61 @@
       "url": "https://www.novosti.rs/sport/fudbal/1587701/liga-konferencije-osmina-finala-aek-atina-prosao-dalje-srbi-uspesni-marko-nikolic-luka-jovic",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "19. 03. 2026. 21:01",
+      "datum": "19. 03. 2026. 23:02",
       "slika": null
     },
     {
-      "naslov": "УСКОРО ИЗБОРИ У ФСС! Џајићу се смеши нови мандат!",
+      "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1587655/izborna-skupstina-fudbalski-savez-srbije-stara-pazova-predsednik-dragan-dzajic",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "19. 03. 2026. 21:01",
+      "url": "https://www.tanjug.rs/sport/fudbal/238961/fudbaleri-bolonje-posle-produzetaka-savladali-romu-za-plasman-u-cetvrtfinale-lige-evrope/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "19. 03. 2026. 23:01",
+      "slika": null
+    },
+    {
+      "naslov": "Српски клубови у Европи",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "19. 03. 2026. 23:01",
+      "slika": null
+    },
+    {
+      "naslov": "Српски тенисери и тенисерке",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "19. 03. 2026. 23:01",
+      "slika": null
+    },
+    {
+      "naslov": "Српски спортисти на ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "19. 03. 2026. 23:01",
+      "slika": null
+    },
+    {
+      "naslov": "Борилачки спортови ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "19. 03. 2026. 23:01",
+      "slika": null
+    },
+    {
+      "naslov": "Стразбур избацио Ријеку, АЗ Алкмар убедљив у Прагу (ВИДЕО)",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/clanak/241021/fudbal/liga-konferencije/strazbur-izbacio-rijeku-az-alkmar-ubedljiv-u-pragu-video",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "19. 03. 2026. 23:01",
       "slika": null
     },
     {
