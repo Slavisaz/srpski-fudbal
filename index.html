@@ -382,14 +382,16 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
   <div class="adbox">Google AdSense — 728×90</div>
 
   <!-- NAJNOVIJE VESTI — between ads -->
-  <div id="najnovije" class="sec" style="margin-bottom:20px">
+  <div id="vesti" class="sec" style="margin-bottom:20px">
     <div class="sh">
       <div class="sh-bar"></div>
       <h2 class="sh-ttl">Најновије вести</h2>
       <span class="sh-ts" id="vesti-azurirano" style="margin-left:auto"></span>
     </div>
-    <div id="main-vesti-list">
-      <div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Учитавам вести...</div>
+    <div class="widget" style="margin:0">
+      <div id="main-vesti-list">
+        <div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Учитавам вести...</div>
+      </div>
     </div>
   </div>
 
@@ -443,14 +445,6 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 <!-- SIDEBAR -->
 <div class="side">
 
-  <!-- Najnovije vesti sidebar -->
-  <div class="widget" id="vesti">
-    <div class="wh red">🗞 Најновије вести <span id="vesti-azurirano" style="font-size:9px;opacity:.6;margin-left:auto;font-family:var(--fu);font-weight:400;letter-spacing:0;text-transform:none"></span></div>
-    <div id="sidebar-vesti">
-      <div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Учитавам вести...</div>
-    </div>
-  </div>
-
   <!-- Ad 300x250 -->
   <div class="adbox" style="height:250px;flex-direction:column">
     <span>Google AdSense</span>
@@ -459,7 +453,7 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 
   <!-- Reprezentacija vesti widget -->
   <div class="widget">
-    <div class="wh red">🇷🇸 Репрезентација</div>
+    <div class="wh red">🇷🇸 Репрезентација Србије</div>
     <div id="sidebar-rep">
       <div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Учитавам...</div>
     </div>
@@ -1094,7 +1088,6 @@ let vestiBroj = 0;
 async function ucitajVesti() {
   const azEl        = document.getElementById('vesti-azurirano');
   const mainListEl  = document.getElementById('main-vesti-list');
-  const sidebarEl   = document.getElementById('sidebar-vesti');
   const sidebarRepEl= document.getElementById('sidebar-rep');
 
   let sve = [];
@@ -1127,7 +1120,7 @@ async function ucitajVesti() {
     }
   } catch(e) {}
 
-  // 3. FALLBACK ako nema ničega
+  // 3. FALLBACK
   if (sve.length === 0) {
     const sveFetch = await Promise.allSettled(FEEDOVI.map(f => fetchRSS(f.url, f.izvor)));
     sveFetch.forEach(res => { if (res.status==='fulfilled') sve=sve.concat(res.value); });
@@ -1141,7 +1134,6 @@ async function ucitajVesti() {
   const repVesti   = sve.filter(v => jeRepVest(v.naslov));
   const opsteVesti = sve.filter(v => !jeRepVest(v.naslov));
 
-  // Pomoćna funkcija za listItem
   const listaItem = (v) =>
     `<a class="sv-item" href="${v.url}" target="_blank" rel="noopener">
       <div class="sv-tag">${v.izvor}</div>
@@ -1149,29 +1141,21 @@ async function ucitajVesti() {
       <div class="sv-dt">${v.datum}</div>
     </a>`;
 
-  // MAIN LIST — 5 najnovijih između reklama
+  // MAIN — 5 vesti između reklama
   if (mainListEl) {
     const zaPrikaz = opsteVesti.slice(0,5);
     mainListEl.innerHTML = zaPrikaz.length
-      ? `<div class="widget" style="margin:0">${zaPrikaz.map(listaItem).join('')}</div>`
-      : '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Вести нису доступне.</div>';
-  }
-
-  // SIDEBAR vesti — 5 najnovijih
-  if (sidebarEl) {
-    const zaPrikaz = opsteVesti.slice(0,5);
-    sidebarEl.innerHTML = zaPrikaz.length
       ? zaPrikaz.map(listaItem).join('')
       : '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Вести нису доступне.</div>';
   }
 
-  // SIDEBAR reprezentacija — uvek prikaži
+  // SIDEBAR rep
   if (sidebarRepEl) {
     const repZaPrikaz = repVesti.length
       ? repVesti
       : sve.filter(v => v.naslov.includes('Срб') || v.naslov.includes('срб') || v.naslov.toLowerCase().includes('repre'));
     sidebarRepEl.innerHTML = repZaPrikaz.length
-      ? repZaPrikaz.slice(0,5).map(listaItem).join('')
+      ? repZaPrikaz.slice(0,6).map(listaItem).join('')
       : '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Нема вести о репрезентацији.</div>';
   }
 
