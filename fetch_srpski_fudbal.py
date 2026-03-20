@@ -100,6 +100,14 @@ def ispravi(tekst):
 # ═══════════════════════════════════════════════════
 RSS_FEEDOVI = [
     {
+        "naziv": "Мондо",
+        "url":   "https://mondo.rs/rss/646/Sport/Fudbal",
+        "backup": None,
+        "logo":  "mondo.rs",
+        "uvek":  True,
+        "max":   8,
+    },
+    {
         "naziv": "Танјуг",
         "url":   "SCRAPE:https://www.tanjug.rs/sport/fudbal",
         "backup": None,

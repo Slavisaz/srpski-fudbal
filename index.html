@@ -1101,6 +1101,39 @@ function listaItemV(v) {
   </a>`;
 }
 
+// ═══════════════════════════════════════════════════
+// RSS MONDO — brz, direktan, bez AI-ja
+// ═══════════════════════════════════════════════════
+const MONDO_RSS = 'https://mondo.rs/rss/646/Sport/Fudbal';
+
+async function ucitajMondoRSS() {
+  try {
+    const proxy = `https://api.allorigins.win/raw?url=${encodeURIComponent(MONDO_RSS)}&t=${Date.now()}`;
+    const res = await fetch(proxy, {signal: AbortSignal.timeout(6000)});
+    if (!res.ok) return [];
+    const txt = await res.text();
+    const xml = new DOMParser().parseFromString(txt, 'application/xml');
+    const items = Array.from(xml.querySelectorAll('item'));
+    return items.slice(0, 8).map(item => {
+      const rawTitle = item.querySelector('title')?.textContent?.trim() || '';
+      const link     = item.querySelector('link')?.textContent?.trim() || '#';
+      const pubDate  = item.querySelector('pubDate')?.textContent?.trim() || '';
+      let datum = '';
+      if (pubDate) {
+        try {
+          const d = new Date(pubDate);
+          const meni = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
+          datum = `${d.getDate()}. ${meni[d.getMonth()]} · ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+        } catch(e){}
+      }
+      return { naslov: latinicaUCirilicu(rawTitle), url: link, naziv: 'Мондо', datum };
+    }).filter(v => v.naslov.length > 8);
+  } catch(e) {
+    console.warn('Mondo RSS greška:', e.message);
+    return [];
+  }
+}
+
 async function ucitajVesti() {
   const mainEl   = document.getElementById('main-vesti-list');
   const sideEl   = document.getElementById('sidebar-rep');
@@ -1108,12 +1141,24 @@ async function ucitajVesti() {
 
   if (mainEl) mainEl.innerHTML = '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">⏳ Учитавам вести...</div>';
 
-  // FAZA 1 — odmah prikaži GitHub JSON ako postoji
+  // FAZA 0 — Mondo RSS (najbrže, skoro real-time)
+  const mondoVesti = await ucitajMondoRSS();
+  if (mondoVesti.length > 0) {
+    sveVesti = mondoVesti;
+    if (mainEl) mainEl.innerHTML = sveVesti.slice(0,6).map(listaItemV).join('');
+    const now = new Date();
+    const vr = `${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}`;
+    if (azEl) azEl.textContent = vr;
+    console.log(`✓ Mondo RSS: ${mondoVesti.length} vesti`);
+  }
+
+  // FAZA 1 — GitHub JSON (kao fallback/dopuna)
   try {
     const jr = await fetch('https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json', {signal:AbortSignal.timeout(4000),cache:'no-store'});
     if (jr.ok) {
       const jd = await jr.json();
-      if (jd?.vesti?.length) {
+      if (jd?.vesti?.length && mondoVesti.length === 0) {
+        // Koristimo GitHub samo ako Mondo nije uspeo
         if (jd.azurirano_sr && azEl) azEl.textContent = jd.azurirano_sr;
         sveVesti = jd.vesti.map(v=>({naslov:v.naslov||'',url:v.url||'#',naziv:v.izvor||'',datum:v.datum||''}));
         if (mainEl) mainEl.innerHTML = sveVesti.slice(0,5).map(listaItemV).join('');
@@ -1209,7 +1254,17 @@ ${sajtBlokovi}`
 }
 
 ucitajVesti();
-setInterval(ucitajVesti, 5 * 60 * 1000);
+setInterval(ucitajVesti, 2 * 60 * 1000); // osvežavaj svake 2 minuta
+
+// Odmah refresh kad se korisnik vrati na tab (iPhone/mobilni)
+let _poslednji = Date.now();
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible' && Date.now() - _poslednji > 60000) {
+    _poslednji = Date.now();
+    ucitajVesti();
+    ucitajTicker();
+  }
+});
 
 
 // ═══════════════════════════════════
