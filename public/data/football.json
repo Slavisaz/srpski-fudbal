@@ -1,59 +1,14 @@
 {
-  "azurirano": "2026-03-20T21:03:12.002349+00:00",
-  "azurirano_sr": "20. 03. 2026. у 21:03",
+  "azurirano": "2026-03-20T23:00:11.304939+00:00",
+  "azurirano_sr": "20. 03. 2026. у 23:00",
   "vesti": [
-    {
-      "naslov": "Најплеменитији подвиг",
-      "opis": "",
-      "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 21:03",
-      "slika": null
-    },
-    {
-      "naslov": "СУРДУЛИЧАНИ ПРОМЕНИЛИ ТРЕНЕРА, НЕ И НАВИКЕ: Радник разбио Спартак у Суботици",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588113/radnik-surdulica-spartak-subotica-superliga-srbije-najnovije-vesti",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 21:03",
-      "slika": null
-    },
-    {
-      "naslov": "БРИДЕ ИМ ОБРАЗИ ОД ОВОГ ШАМАРА! ФИФА као никада до сада казнила Босну и Херцеговину!",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588085/bosna-hercegovina-najnovije-vesti-fifa-fudbalska-reprezentacija-bosne-hercegovine-kazna-bih-austrija-rumunija",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 21:03",
-      "slika": null
-    },
-    {
-      "naslov": "\"ЉЈУТИО САМ СЕ НА КАТАИЈА\"... Дејан Станковић отворио душу пред меч Звезда - Раднички",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588072/aleksandar-katai-najnovije-vesti-superliga-srbije-dejan-stankovic-radnicki-nis-takis-lemonis",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 21:03",
-      "slika": null
-    },
-    {
-      "naslov": "ПЕТРИЋ ОДРЕДИО СПИСАК СРБИЈЕ! Ови играчи нападају пласман на Европско првенство",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588060/gordan-petric-srbija-najnovije-vesti-evropsko-prvenstvo-fudbalski-savez-srbije",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 21:03",
-      "slika": null
-    },
     {
       "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/239229/fudbaleri-napolija-savladali-kaljari-u-30-kolu-serije-a/vest",
+      "url": "https://www.tanjug.rs/sport/fudbal/239256/remi-fudbalera-bornmuta-i-mancester-junajteda-u-31-kolu-premijer-lige/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "20. 03. 2026. 21:02",
+      "datum": "20. 03. 2026. 23:00",
       "slika": null
     },
     {
@@ -62,7 +17,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 21:02",
+      "datum": "20. 03. 2026. 23:00",
       "slika": null
     },
     {
@@ -71,7 +26,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 21:02",
+      "datum": "20. 03. 2026. 23:00",
       "slika": null
     },
     {
@@ -80,7 +35,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 21:02",
+      "datum": "20. 03. 2026. 23:00",
       "slika": null
     },
     {
@@ -89,16 +44,16 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 21:02",
+      "datum": "20. 03. 2026. 23:00",
       "slika": null
     },
     {
-      "naslov": "Роналда нема на списку Португалије, селектор умирио навијаче",
+      "naslov": "Ланс петардом до врха (ВИДЕО)",
       "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241118/fudbal/sirom-planete/ronalda-nema-na-spisku-portugalije-selektor-umirio-navijace",
+      "url": "https://zurnal.politika.rs/scc/clanak/241135/fudbal/velika-petorka/lans-petardom-do-vrha-video",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 21:02",
+      "datum": "20. 03. 2026. 23:00",
       "slika": null
     },
     {
@@ -107,7 +62,7 @@
       "url": "https://www.rts.rs/rts/informator-o-radu.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 21:02",
+      "datum": "20. 03. 2026. 23:00",
       "slika": null
     },
     {
@@ -116,7 +71,7 @@
       "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 21:02",
+      "datum": "20. 03. 2026. 23:00",
       "slika": null
     },
     {
@@ -125,7 +80,16 @@
       "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 21:02",
+      "datum": "20. 03. 2026. 23:00",
+      "slika": null
+    },
+    {
+      "naslov": "Петровић двапут матиран са \"беле тачке\" - ни Јунатед није победио Борнмут",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910291/petrovic-dvaput-matiran-sa-bele-tacke---ni-junated-nije-pobedio-bornmut.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "20. 03. 2026. 23:00",
       "slika": null
     },
     {
@@ -134,17 +98,125 @@
       "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910226/napoli-nadigrao-kaljari-u-30-kolu-serije-a.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 21:02",
+      "datum": "20. 03. 2026. 23:00",
       "slika": null
     },
     {
-      "naslov": "Радник убедљиво надиграо Спартак у 28. колу Суперлиге Србије",
+      "naslov": "Најплеменитији подвиг",
       "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5910110/radnik-ubedljivo-nadigrao-spartak-u-28-kolu-superlige-srbije.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "20. 03. 2026. 21:02",
+      "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "20. 03. 2026. 23:00",
       "slika": null
+    },
+    {
+      "naslov": "\"У ПРОБЛЕМУ СУ, АЛИ ИХ НЕ ПОТЦЕЊЈУЈЕМО\": Срđан Благојевић отворен пред дуел Младост - Партизан",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1587998/srdjan-blagojevic-partizan-superliga-srbije-najnovije-vesti",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "20. 03. 2026. 23:00",
+      "slika": null
+    },
+    {
+      "naslov": "СУРДУЛИЧАНИ ПРОМЕНИЛИ ТРЕНЕРА, НЕ И НАВИКЕ: Радник разбио Спартак у Суботици",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588113/radnik-surdulica-spartak-subotica-superliga-srbije-najnovije-vesti",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "20. 03. 2026. 23:00",
+      "slika": null
+    },
+    {
+      "naslov": "БРИДЕ ИМ ОБРАЗИ ОД ОВОГ ШАМАРА! ФИФА као никада до сада казнила Босну и Херцеговину!",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588085/bosna-hercegovina-najnovije-vesti-fifa-fudbalska-reprezentacija-bosne-hercegovine-kazna-bih-austrija-rumunija",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "20. 03. 2026. 23:00",
+      "slika": null
+    },
+    {
+      "naslov": "\"ЉЈУТИО САМ СЕ НА КАТАИЈА\"... Дејан Станковић отворио душу пред меч Звезда - Раднички",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588072/aleksandar-katai-najnovije-vesti-superliga-srbije-dejan-stankovic-radnicki-nis-takis-lemonis",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "20. 03. 2026. 23:00",
+      "slika": null
+    },
+    {
+      "naslov": "\"Никад нећу заборавити одакле сам дошао\": Гранит Џака заплакао и сломио се на помен оца из Подујева",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2203472/granit-dzaka-zaplakao-zbog-oca-radzipa-iz-podujeva.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "20. 03. 2026. 20:13",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638097/jpeg/Granit-Dzaka-place-na-pomen-oca-Radzipa-Dzake.jpeg?ts=2026-03-20T20:52:04"
+    },
+    {
+      "naslov": "Пауновић ће овим речима дочекати назад Сергеја: \"Све говори о Србији и теби, носиш грб, заставу и историју\"",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2203460/sergej-milinkovic-savic-se-vraca-u-reprezentaciju.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "20. 03. 2026. 19:40",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638094/jpeg/Sergej-Milinkovic-Savic-slavi-gol-za-Srbiju-u-Kataru.jpeg?ts=2026-03-20T20:23:38"
+    },
+    {
+      "naslov": "Интер има велики план за Декијевог сина: Хрват је превише стидљив, зато се Алекс враћа кући",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2203434/plan-intera-za-aleksandra-stankovica-dekijevog-sina.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "20. 03. 2026. 18:15",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638072/jpeg/Aleksandar-Stankovic-sin-Dejana-Stankovica-vraca-se-u-Inter.jpeg?ts=2026-03-20T19:04:10"
+    },
+    {
+      "naslov": "Радник може и без Марка Јакшића: Није до тренера, њихов систем је хит Суперлиге Србије",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2203425/radnik-iz-surdulice-pobedio-spartak-u-superligi.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "20. 03. 2026. 18:02",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638071/jpeg/FK-Radnik-Surdulica.jpeg?ts=2026-03-20T18:55:43"
+    },
+    {
+      "naslov": "\"Стамболић хтео да узмем Звезду, а онда је Милошевић победио\": Чабриновић претрнуо кад је чуо шта му се спрема",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2203409/ivan-stambolic-obecao-ivanu-cabrinovicu-da-ce-biti-trener-zvezde.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "20. 03. 2026. 17:34",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638070/jpeg/Slobodan-Milosevic-Ivan-Cabrinovic-Ivan-Stambolic.jpg?ts=2026-03-20T18:29:04"
+    },
+    {
+      "naslov": "\"Љутим се на Катаија\": Дејан Станковић јавно признао шта му замера",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2203412/dejan-stankovic-ljutim-se-na-aleksandra-kataija.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "20. 03. 2026. 17:13",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638060/jpeg/Stankovic-Katai.jpeg?ts=2026-03-20T18:13:28"
+    },
+    {
+      "naslov": "Лука више неће да игра да репрезентацију: \"Ћутао сам све до сад, ово је кап која је прелила чашу\"",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2203405/luka-mikulic-nece-da-igra-za-bosnu.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "20. 03. 2026. 16:53",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638056/jpeg/Luka-Mikulic.jpeg?ts=2026-03-20T17:44:48"
+    },
+    {
+      "naslov": "\"Писали су да сам издајник, а нису ме позвали\": Звездин фудбалер ће од сада играти за Србију",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2203382/srbija-ukrala-stefana-gudelja-od-bosne-i-hercegovine.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "20. 03. 2026. 16:04",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638016/jpeg/Stefan-Gudelj.jpeg?ts=2026-03-20T16:33:53"
     },
     {
       "naslov": "WУ17 | ВИСОК ПОРАЗ ОД ИСЛАНДА ЗА КРАЈ КВАЛИФИКАЦИЈА",
