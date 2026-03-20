@@ -35,7 +35,7 @@ jobs:
         run: |
           git config user.email "bot@srpskifudbal.com"
           git config user.name "SrpskiFudbal Bot"
-          git add public/data/football.json index.html
+          git add public/data/football.json
           git diff --staged --quiet && echo "Nema promena, preskacam." && exit 0
           git commit -m "🔄 Auto-update — $(date -u '+%d.%m.%Y. %H:%M UTC')"
           git pull --rebase origin main
