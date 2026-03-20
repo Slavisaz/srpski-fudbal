@@ -1,14 +1,14 @@
 {
-  "azurirano": "2026-03-20T17:24:22.134627+00:00",
-  "azurirano_sr": "20. 03. 2026. у 17:24",
+  "azurirano": "2026-03-20T19:50:56.531063+00:00",
+  "azurirano_sr": "20. 03. 2026. у 19:50",
   "vesti": [
     {
       "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/239198/dejan-stankovic-pred-radnicki-na-pravom-smo-putu-prosli-smo-kroz-dosta-problema/vest",
+      "url": "https://www.tanjug.rs/sport/fudbal/239229/fudbaleri-napolija-savladali-kaljari-u-30-kolu-serije-a/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "20. 03. 2026. 17:24",
+      "datum": "20. 03. 2026. 19:50",
       "slika": null
     },
     {
@@ -17,7 +17,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 17:24",
+      "datum": "20. 03. 2026. 19:50",
       "slika": null
     },
     {
@@ -26,7 +26,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 17:24",
+      "datum": "20. 03. 2026. 19:50",
       "slika": null
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 17:24",
+      "datum": "20. 03. 2026. 19:50",
       "slika": null
     },
     {
@@ -44,16 +44,16 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 17:24",
+      "datum": "20. 03. 2026. 19:50",
       "slika": null
     },
     {
-      "naslov": "Сломљена рука довела до проблема - Ливерпул: Наши играчи нису мете, они…",
+      "naslov": "Врсни стрелац у матичном клубу и у тренерској улози",
       "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241095/fudbal/velika-petorka/slomljena-ruka-dovela-do-problema-liverpul-nasi-igraci-nisu-mete-oni-su-ljudska-bica",
+      "url": "https://zurnal.politika.rs/scc/clanak/241038/fudbal/ostale-lige/vrsni-strelac-u-maticnom-klubu-i-u-trenerskoj-ulozi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 17:24",
+      "datum": "20. 03. 2026. 19:50",
       "slika": null
     },
     {
@@ -62,7 +62,7 @@
       "url": "https://www.rts.rs/rts/informator-o-radu.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 17:24",
+      "datum": "20. 03. 2026. 19:50",
       "slika": null
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 17:24",
+      "datum": "20. 03. 2026. 19:50",
       "slika": null
     },
     {
@@ -80,7 +80,16 @@
       "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 17:24",
+      "datum": "20. 03. 2026. 19:50",
+      "slika": null
+    },
+    {
+      "naslov": "Радник убедљиво надиграо Спартак у 28. колу Суперлиге Србије",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5910110/radnik-ubedljivo-nadigrao-spartak-u-28-kolu-superlige-srbije.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "20. 03. 2026. 19:50",
       "slika": null
     },
     {
@@ -89,16 +98,7 @@
       "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5909993/dejan-stankovic-pred-duel-crvene-zvezde-i-radnickog-superliga-srbije-.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 17:24",
-      "slika": null
-    },
-    {
-      "naslov": "Петрић одредио списак омладинаца Србије за други круг квалификација за ЕП у фудбалу",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/reprezentacija/5909958/petric-odredio-spisak-omladinaca-srbije-za-drugi-krug-kvalifikacija-za-ep-u-fudbalu.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "20. 03. 2026. 17:24",
+      "datum": "20. 03. 2026. 19:50",
       "slika": null
     },
     {
@@ -107,7 +107,25 @@
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 17:24",
+      "datum": "20. 03. 2026. 19:50",
+      "slika": null
+    },
+    {
+      "naslov": "СУРДУЛИЧАНИ ПРОМЕНИЛИ ТРЕНЕРА, НЕ И НАВИКЕ: Радник разбио Спартак у Суботици",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588113/radnik-surdulica-spartak-subotica-superliga-srbije-najnovije-vesti",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "20. 03. 2026. 19:50",
+      "slika": null
+    },
+    {
+      "naslov": "БРИДЕ ИМ ОБРАЗИ ОД ОВОГ ШАМАРА! ФИФА као никада до сада казнила Босну и Херцеговину!",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588085/bosna-hercegovina-najnovije-vesti-fifa-fudbalska-reprezentacija-bosne-hercegovine-kazna-bih-austrija-rumunija",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "20. 03. 2026. 19:50",
       "slika": null
     },
     {
@@ -116,7 +134,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588072/aleksandar-katai-najnovije-vesti-superliga-srbije-dejan-stankovic-radnicki-nis-takis-lemonis",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 17:24",
+      "datum": "20. 03. 2026. 19:50",
       "slika": null
     },
     {
@@ -125,25 +143,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588060/gordan-petric-srbija-najnovije-vesti-evropsko-prvenstvo-fudbalski-savez-srbije",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 17:24",
-      "slika": null
-    },
-    {
-      "naslov": "НА \"МАРАКАНУ\" БЕЗ БЕЛЕ ЗАСТАВЕ! Раднички гостује Звезди, а Лемонис и Јокић силно мотивисани!",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1587991/radnicki-nis-superliga-srbije-crvena-zvezda-takis-lemonis-najnovije-vesti",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 17:24",
-      "slika": null
-    },
-    {
-      "naslov": "\"НАРАВНО ДА ОСЕЋАМО ТО! НАЈБИТНИЈЕ ДА СВАКО РАДИ СВОЈ ПОСАО...\" Срđан Благојевић пред меч Младост - Партизан",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1587950/partizan-mladost-lucani-srdjan-blagojevic-najnovije-vesti",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 17:24",
+      "datum": "20. 03. 2026. 19:50",
       "slika": null
     },
     {
