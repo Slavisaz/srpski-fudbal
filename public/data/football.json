@@ -1,113 +1,14 @@
 {
-  "azurirano": "2026-03-20T19:50:56.531063+00:00",
-  "azurirano_sr": "20. 03. 2026. у 19:50",
+  "azurirano": "2026-03-20T21:03:12.002349+00:00",
+  "azurirano_sr": "20. 03. 2026. у 21:03",
   "vesti": [
-    {
-      "naslov": "Најновије вести",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/239229/fudbaleri-napolija-savladali-kaljari-u-30-kolu-serije-a/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "20. 03. 2026. 19:50",
-      "slika": null
-    },
-    {
-      "naslov": "Српски клубови у Европи",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 19:50",
-      "slika": null
-    },
-    {
-      "naslov": "Српски тенисери и тенисерке",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 19:50",
-      "slika": null
-    },
-    {
-      "naslov": "Српски спортисти на ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 19:50",
-      "slika": null
-    },
-    {
-      "naslov": "Борилачки спортови ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 19:50",
-      "slika": null
-    },
-    {
-      "naslov": "Врсни стрелац у матичном клубу и у тренерској улози",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241038/fudbal/ostale-lige/vrsni-strelac-u-maticnom-klubu-i-u-trenerskoj-ulozi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 19:50",
-      "slika": null
-    },
-    {
-      "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
-      "opis": "",
-      "url": "https://www.rts.rs/rts/informator-o-radu.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "20. 03. 2026. 19:50",
-      "slika": null
-    },
-    {
-      "naslov": "Дигитални предузетник",
-      "opis": "",
-      "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "20. 03. 2026. 19:50",
-      "slika": null
-    },
-    {
-      "naslov": "За мале велике хероје",
-      "opis": "",
-      "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "20. 03. 2026. 19:50",
-      "slika": null
-    },
-    {
-      "naslov": "Радник убедљиво надиграо Спартак у 28. колу Суперлиге Србије",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5910110/radnik-ubedljivo-nadigrao-spartak-u-28-kolu-superlige-srbije.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "20. 03. 2026. 19:50",
-      "slika": null
-    },
-    {
-      "naslov": "Станковић пред Раднички: На правом смо путу, прошли смо кроз доста проблема",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5909993/dejan-stankovic-pred-duel-crvene-zvezde-i-radnickog-superliga-srbije-.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "20. 03. 2026. 19:50",
-      "slika": null
-    },
     {
       "naslov": "Најплеменитији подвиг",
       "opis": "",
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 19:50",
+      "datum": "20. 03. 2026. 21:03",
       "slika": null
     },
     {
@@ -116,7 +17,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588113/radnik-surdulica-spartak-subotica-superliga-srbije-najnovije-vesti",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 19:50",
+      "datum": "20. 03. 2026. 21:03",
       "slika": null
     },
     {
@@ -125,7 +26,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588085/bosna-hercegovina-najnovije-vesti-fifa-fudbalska-reprezentacija-bosne-hercegovine-kazna-bih-austrija-rumunija",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 19:50",
+      "datum": "20. 03. 2026. 21:03",
       "slika": null
     },
     {
@@ -134,7 +35,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588072/aleksandar-katai-najnovije-vesti-superliga-srbije-dejan-stankovic-radnicki-nis-takis-lemonis",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 19:50",
+      "datum": "20. 03. 2026. 21:03",
       "slika": null
     },
     {
@@ -143,7 +44,106 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588060/gordan-petric-srbija-najnovije-vesti-evropsko-prvenstvo-fudbalski-savez-srbije",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 19:50",
+      "datum": "20. 03. 2026. 21:03",
+      "slika": null
+    },
+    {
+      "naslov": "Најновије вести",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/fudbal/239229/fudbaleri-napolija-savladali-kaljari-u-30-kolu-serije-a/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "20. 03. 2026. 21:02",
+      "slika": null
+    },
+    {
+      "naslov": "Српски клубови у Европи",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "20. 03. 2026. 21:02",
+      "slika": null
+    },
+    {
+      "naslov": "Српски тенисери и тенисерке",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "20. 03. 2026. 21:02",
+      "slika": null
+    },
+    {
+      "naslov": "Српски спортисти на ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "20. 03. 2026. 21:02",
+      "slika": null
+    },
+    {
+      "naslov": "Борилачки спортови ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "20. 03. 2026. 21:02",
+      "slika": null
+    },
+    {
+      "naslov": "Роналда нема на списку Португалије, селектор умирио навијаче",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/clanak/241118/fudbal/sirom-planete/ronalda-nema-na-spisku-portugalije-selektor-umirio-navijace",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "20. 03. 2026. 21:02",
+      "slika": null
+    },
+    {
+      "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
+      "opis": "",
+      "url": "https://www.rts.rs/rts/informator-o-radu.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "20. 03. 2026. 21:02",
+      "slika": null
+    },
+    {
+      "naslov": "Дигитални предузетник",
+      "opis": "",
+      "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "20. 03. 2026. 21:02",
+      "slika": null
+    },
+    {
+      "naslov": "За мале велике хероје",
+      "opis": "",
+      "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "20. 03. 2026. 21:02",
+      "slika": null
+    },
+    {
+      "naslov": "Наполи надиграо Каљари у 30. колу Серије А",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910226/napoli-nadigrao-kaljari-u-30-kolu-serije-a.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "20. 03. 2026. 21:02",
+      "slika": null
+    },
+    {
+      "naslov": "Радник убедљиво надиграо Спартак у 28. колу Суперлиге Србије",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5910110/radnik-ubedljivo-nadigrao-spartak-u-28-kolu-superlige-srbije.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "20. 03. 2026. 21:02",
       "slika": null
     },
     {
