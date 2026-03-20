@@ -1,14 +1,59 @@
 {
-  "azurirano": "2026-03-20T07:59:49.321565+00:00",
-  "azurirano_sr": "20. 03. 2026. у 07:59",
+  "azurirano": "2026-03-20T10:06:03.788495+00:00",
+  "azurirano_sr": "20. 03. 2026. у 10:06",
   "vesti": [
+    {
+      "naslov": "Најплеменитији подвиг",
+      "opis": "",
+      "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "20. 03. 2026. 10:06",
+      "slika": null
+    },
+    {
+      "naslov": "У ЈЕКУ РАТА У ИРАНУ! ФИФА повукла радикалан потез, драконски их казнила",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1587813/jeku-rata-iranu-fifa-povukla-radikalan-potez-drakonski-kaznila",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "20. 03. 2026. 10:06",
+      "slika": null
+    },
+    {
+      "naslov": "ПИКСИ ГА ПРЕЦРТАО, ВЕЉЈКО ПАУНОВИЋ ВРАТИО! После браће Милинковић Савић још један фудбалер опет облачи дрес Србије",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1587786/fudbalska-reprezentacija-srbije-najnovije-vesti-dragan-stojkovic-piksi-veljko-paunovic-milan-gajic",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "20. 03. 2026. 10:06",
+      "slika": null
+    },
+    {
+      "naslov": "КАКВА ИЗДАЈА! Иранци највећег ставили на стуб срама, избацили га из репрезентације, одузимају му сву имовину...",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1587779/rat-iranu-serdar-azmun-izbacen-reprezentacija-skandal",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "20. 03. 2026. 10:06",
+      "slika": null
+    },
+    {
+      "naslov": "ЦЕО СВЕТ ЈЕ ЗГРОЖЕН! Иранци обесили младог спортисту и то због чега",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1587767/rat-iranu-ubijen-mladi-sportista-skandal-saleh-mohamadi-obesen",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "20. 03. 2026. 10:06",
+      "slika": null
+    },
     {
       "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/238961/fudbaleri-bolonje-posle-produzetaka-savladali-romu-za-plasman-u-cetvrtfinale-lige-evrope/vest",
+      "url": "https://www.tanjug.rs/sport/fudbal/239018/kosarkasi-crvene-zvezde-veceras-gostuju-panatinaikosu/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "20. 03. 2026. 07:59",
+      "datum": "20. 03. 2026. 10:05",
       "slika": null
     },
     {
@@ -17,7 +62,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 07:59",
+      "datum": "20. 03. 2026. 10:05",
       "slika": null
     },
     {
@@ -26,7 +71,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 07:59",
+      "datum": "20. 03. 2026. 10:05",
       "slika": null
     },
     {
@@ -35,7 +80,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 07:59",
+      "datum": "20. 03. 2026. 10:05",
       "slika": null
     },
     {
@@ -44,16 +89,16 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 07:59",
+      "datum": "20. 03. 2026. 10:05",
       "slika": null
     },
     {
-      "naslov": "Промена у женском фудбалу, свака екипа мора да имам женског тренера",
+      "naslov": "Павићевић: Као да смо породица",
       "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241028/fudbal/sirom-planete/promena-u-zenskom-fudbalu-svaka-ekipa-mora-da-imam-zenskog-trenera",
+      "url": "https://zurnal.politika.rs/scc/clanak/240968/fudbal/super-liga/pavicevic-kao-da-smo-porodica",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 07:59",
+      "datum": "20. 03. 2026. 10:05",
       "slika": null
     },
     {
@@ -62,7 +107,7 @@
       "url": "https://www.rts.rs/rts/informator-o-radu.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 07:59",
+      "datum": "20. 03. 2026. 10:05",
       "slika": null
     },
     {
@@ -71,7 +116,7 @@
       "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 07:59",
+      "datum": "20. 03. 2026. 10:05",
       "slika": null
     },
     {
@@ -80,7 +125,7 @@
       "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 07:59",
+      "datum": "20. 03. 2026. 10:05",
       "slika": null
     },
     {
@@ -89,7 +134,7 @@
       "url": "https://www.rts.rs/sport/fudbal/liga_sampiona/5909293/cetvrtfinale-lige-konferencije-parovi.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 07:59",
+      "datum": "20. 03. 2026. 10:05",
       "slika": null
     },
     {
@@ -98,52 +143,7 @@
       "url": "https://www.rts.rs/sport/fudbal/liga_sampiona/5909286/cetvrtfinale-lige-evrope-parovi.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 07:59",
-      "slika": null
-    },
-    {
-      "naslov": "Најплеменитији подвиг",
-      "opis": "",
-      "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 07:59",
-      "slika": null
-    },
-    {
-      "naslov": "ДЕДА МРАЗ УСРЕД МАРТА СТИЖЕ СА МАРАКАНЕ! Црвена звезда зарадила за Партизан 270.000, али не само то...",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1587763/partizan-crvena-zvezda-najnovije-vesti-fss-deda-mraz-liga-sampiona",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 07:59",
-      "slika": null
-    },
-    {
-      "naslov": "ТЕЖАК ПЕХ ЗА ЧЕТВРТФИНАЛИСТУ ЛИГЕ ШАМПИОНА! Пропушта прву утакмицу!",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1587573/liga-sampiona-povreda-fudbaler-cetvrtfinalista-real-madrid-tibo-kurtoa",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 07:59",
-      "slika": null
-    },
-    {
-      "naslov": "ПРЕМИЈЕР ЛИГА ЗАГРМЕЛА ЗБОГ ХРВАТА! Ево за шта је оптужен!",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1587675/hrvat-izazvao-skandal-trener-totenhem-optuzen-igor-tudor",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 07:59",
-      "slika": null
-    },
-    {
-      "naslov": "ЛИГА ЕВРОПЕ: Срећа погледала Миленковића! \"Шумари\" прошли на пенале!",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1587705/liga-evrope-osmina-finala-nikola-milenkovic-notingem-prosao",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 07:59",
+      "datum": "20. 03. 2026. 10:05",
       "slika": null
     },
     {
