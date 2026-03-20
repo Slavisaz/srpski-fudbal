@@ -1,59 +1,14 @@
 {
-  "azurirano": "2026-03-20T10:06:03.788495+00:00",
-  "azurirano_sr": "20. 03. 2026. у 10:06",
+  "azurirano": "2026-03-20T11:58:13.633879+00:00",
+  "azurirano_sr": "20. 03. 2026. у 11:58",
   "vesti": [
-    {
-      "naslov": "Најплеменитији подвиг",
-      "opis": "",
-      "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 10:06",
-      "slika": null
-    },
-    {
-      "naslov": "У ЈЕКУ РАТА У ИРАНУ! ФИФА повукла радикалан потез, драконски их казнила",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1587813/jeku-rata-iranu-fifa-povukla-radikalan-potez-drakonski-kaznila",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 10:06",
-      "slika": null
-    },
-    {
-      "naslov": "ПИКСИ ГА ПРЕЦРТАО, ВЕЉЈКО ПАУНОВИЋ ВРАТИО! После браће Милинковић Савић још један фудбалер опет облачи дрес Србије",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1587786/fudbalska-reprezentacija-srbije-najnovije-vesti-dragan-stojkovic-piksi-veljko-paunovic-milan-gajic",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 10:06",
-      "slika": null
-    },
-    {
-      "naslov": "КАКВА ИЗДАЈА! Иранци највећег ставили на стуб срама, избацили га из репрезентације, одузимају му сву имовину...",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1587779/rat-iranu-serdar-azmun-izbacen-reprezentacija-skandal",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 10:06",
-      "slika": null
-    },
-    {
-      "naslov": "ЦЕО СВЕТ ЈЕ ЗГРОЖЕН! Иранци обесили младог спортисту и то због чега",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1587767/rat-iranu-ubijen-mladi-sportista-skandal-saleh-mohamadi-obesen",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "20. 03. 2026. 10:06",
-      "slika": null
-    },
     {
       "naslov": "Најновије вести",
       "opis": "",
       "url": "https://www.tanjug.rs/sport/fudbal/239018/kosarkasi-crvene-zvezde-veceras-gostuju-panatinaikosu/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "20. 03. 2026. 10:05",
+      "datum": "20. 03. 2026. 11:58",
       "slika": null
     },
     {
@@ -62,7 +17,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 10:05",
+      "datum": "20. 03. 2026. 11:58",
       "slika": null
     },
     {
@@ -71,7 +26,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 10:05",
+      "datum": "20. 03. 2026. 11:58",
       "slika": null
     },
     {
@@ -80,7 +35,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 10:05",
+      "datum": "20. 03. 2026. 11:58",
       "slika": null
     },
     {
@@ -89,16 +44,16 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 10:05",
+      "datum": "20. 03. 2026. 11:58",
       "slika": null
     },
     {
-      "naslov": "Павићевић: Као да смо породица",
+      "naslov": "Исправно досуђени пенали у Руми и Панчеву",
       "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/240968/fudbal/super-liga/pavicevic-kao-da-smo-porodica",
+      "url": "https://zurnal.politika.rs/scc/clanak/241041/fudbal/ostale-lige/ispravno-dosudeni-penali-u-rumi-i-pancevu",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "20. 03. 2026. 10:05",
+      "datum": "20. 03. 2026. 11:58",
       "slika": null
     },
     {
@@ -107,7 +62,7 @@
       "url": "https://www.rts.rs/rts/informator-o-radu.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 10:05",
+      "datum": "20. 03. 2026. 11:58",
       "slika": null
     },
     {
@@ -116,7 +71,7 @@
       "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 10:05",
+      "datum": "20. 03. 2026. 11:58",
       "slika": null
     },
     {
@@ -125,25 +80,88 @@
       "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 10:05",
+      "datum": "20. 03. 2026. 11:58",
       "slika": null
     },
     {
-      "naslov": "Марко Николић са АЕК-ом напада Мадрид, Палас и Фјорентина у дербију четвртфинала Лиге конференције",
+      "naslov": "Де ла Фуенте одредио списак, Шпанија у најјачем саставу дочекују Србију",
       "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/liga_sampiona/5909293/cetvrtfinale-lige-konferencije-parovi.html",
+      "url": "https://www.rts.rs/sport/fudbal/reprezentacija/5909592/de-la-fuente-spisak-spanija-srbija-prijateljski-mec.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 10:05",
+      "datum": "20. 03. 2026. 11:58",
       "slika": null
     },
     {
-      "naslov": "Енглези на Порто и Болоњу, шпански тимови против Браге и Фрајбурга за полуфинале Лиге Европе",
+      "naslov": "Мароко, 50 година касније – спорне титуле и две истине афричког фудбала",
       "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/liga_sampiona/5909286/cetvrtfinale-lige-evrope-parovi.html",
+      "url": "https://www.rts.rs/sport/fudbal/5909332/africki-kup-nacija-maroko-senegal-titula-gvineja-1976.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "20. 03. 2026. 10:05",
+      "datum": "20. 03. 2026. 11:58",
+      "slika": null
+    },
+    {
+      "naslov": "Најплеменитији подвиг",
+      "opis": "",
+      "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "20. 03. 2026. 11:58",
+      "slika": null
+    },
+    {
+      "naslov": "У ЈЕКУ РАТА У ИРАНУ! ФИФА повукла радикалан потез, драконски их казнила",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1587813/jeku-rata-iranu-fifa-povukla-radikalan-potez-drakonski-kaznila",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "20. 03. 2026. 11:58",
+      "slika": null
+    },
+    {
+      "naslov": "ПИКСИ ГА ПРЕЦРТАО, ВЕЉЈКО ПАУНОВИЋ ВРАТИО! После браће Милинковић Савић још један фудбалер опет облачи дрес Србије",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1587786/fudbalska-reprezentacija-srbije-najnovije-vesti-dragan-stojkovic-piksi-veljko-paunovic-milan-gajic",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "20. 03. 2026. 11:58",
+      "slika": null
+    },
+    {
+      "naslov": "КАКВА ИЗДАЈА! Иранци највећег ставили на стуб срама, избацили га из репрезентације, одузимају му сву имовину...",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1587779/rat-iranu-serdar-azmun-izbacen-reprezentacija-skandal",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "20. 03. 2026. 11:58",
+      "slika": null
+    },
+    {
+      "naslov": "ЦЕО СВЕТ ЈЕ ЗГРОЖЕН! Иранци обесили младог спортисту и то због чега",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1587767/rat-iranu-ubijen-mladi-sportista-skandal-saleh-mohamadi-obesen",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "20. 03. 2026. 11:58",
+      "slika": null
+    },
+    {
+      "naslov": "W ФУТСАЛ ЖЕНЕ | ПОРАЗ ОД БОСНЕ И ХЕРЦЕГОВИНЕ У ДРУГОМ МЕЧУ ГЛАВНЕ РУНДЕ КВАЛИФИКАЦИЈА",
+      "opis": "После сјајног издања на премијери и победе у првом колу главне рунде квалификација за пласман на Првенство Европе, против домаћина Литваније (5:0), наша најбоља женска футсал репрезентација поражена је од...",
+      "url": "https://fss.rs/w-futsal-zene-poraz-od-bosne-i-hercegovine-u-drugom-mecu-glavne-runde-kvalifikacija/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "20. 03. 2026. 11:22",
+      "slika": null
+    },
+    {
+      "naslov": "СЕЛЕКТОР ВЕЉКО ПАУНОВИЋ САОПШТИО СПИСАК ИГРАЧА ЗА МЕЧЕВЕ ПРОТИВ ШПАНИЈЕ И САУДИЈСКЕ АРАБИЈЕ",
+      "opis": "Селектор А репрезентације Србије, Вељко Пауновић, објавио је списак играча на које рачуна за предстојеће две пријатељске утакмице које наш национални тим очекују у мартовском термину. На списку се налазе...",
+      "url": "https://fss.rs/selektor-veljko-paunovic-saopstio-spisak-igraca-za-meceve-protiv-spanije-i-saudijske-arabije/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "20. 03. 2026. 11:08",
       "slika": null
     },
     {
@@ -171,24 +189,6 @@
       "izvor": "ФСС",
       "logo": "fss.rs",
       "datum": "19. 03. 2026. 13:38",
-      "slika": null
-    },
-    {
-      "naslov": "ИО ФСС | ОДРЕЂЕНИ СТАДИОНИ ЗА УЕФА ЕУРО У21, ЗОРКО НОВИ ДИРЕКТОР ЦЕНТРА ЗА ЕДУКАЦИЈУ ТРЕНЕРА",
-      "opis": "У Спортском центру ФСС у Старој Пазови одржана је седница Извршног одбора ФСС. На основу извештаја Организационог одбора ФСС за припрему и организацију УЕФА Првенства Европе за играче до 21...",
-      "url": "https://fss.rs/io-fss-dalibor-zorko-novi-direktor-centra-za-edukaciju-fudbalskih-trenera-fss/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "19. 03. 2026. 13:04",
-      "slika": null
-    },
-    {
-      "naslov": "ИО ФСС | ОДЛУКА О РАСПИСИВАЊУ ИЗБОРА У ФУДБАЛСКОМ САВЕЗУ СРБИЈЕ",
-      "opis": "Извршни одбор Фудбалског савеза Србије донео је одлуку о расписивању избора за избор органа Савеза за мандатни период 2026 2030. година. Избори у савезима и стручно струковним организацијама,...",
-      "url": "https://fss.rs/io-fss-odluka-o-raspisivanju-izbora-u-fudbalskom-savezu-srbije/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "19. 03. 2026. 12:42",
       "slika": null
     }
   ],
