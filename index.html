@@ -453,8 +453,7 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
     <span>Google AdSense</span>
     <span>300×250</span>
   </div>
-
-
+  </div>
 
 </div><!-- /side -->
 
@@ -959,13 +958,22 @@ setInterval(loadRez, 60000);
 setInterval(loadUzi, 30000);
 
 // ═══════════════════════════════════════════════════
-// VESTI — Мондо + Спортске RSS → Claude AI filter
-// rss2json.com (bez CORS), round-robin mešanje izvora
+// VESTI — RSS filter sa Claude AI
+// Proxy: corsproxy.io (primarni) + rssproxy.io (backup)
 // ═══════════════════════════════════════════════════
 
+function listaItemV(v) {
+  const url = (v.url||'#').replace(/'/g,'%27');
+  return `<a class="sv-item" href="${url}" target="_blank" rel="noopener">
+    <div class="sv-tag">${v.naziv||''}</div>
+    <div class="sv-ttl">${(v.naslov||'').slice(0,95)}</div>
+    <div class="sv-dt">${v.datum||''}</div>
+  </a>`;
+}
+
 const RSS_IZVORI = [
-  { naziv: 'Мондо',    url: 'https://mondo.rs/rss/646/Sport/Fudbal',         max: 15 },
-  { naziv: 'Спортске', url: 'https://sportske.net/vesti-domaci-fudbal/feed/', max: 15 },
+  { naziv: 'Мондо',    url: 'https://mondo.rs/rss/646/Sport/Fudbal',         max: 12 },
+  { naziv: 'Спортске', url: 'https://sportske.net/vesti-domaci-fudbal/feed/', max: 12 },
 ];
 
 function formatDatum(pubDate) {
@@ -974,49 +982,58 @@ function formatDatum(pubDate) {
     const d = new Date(pubDate);
     if (isNaN(d.getTime())) return { txt: '', ts: 0 };
     const meni = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
-    return { txt: d.getDate() + '. ' + meni[d.getMonth()] + ' · ' + String(d.getHours()).padStart(2,'0') + ':' + String(d.getMinutes()).padStart(2,'0'), ts: d.getTime() };
+    return {
+      txt: d.getDate() + '. ' + meni[d.getMonth()] + ' · ' + String(d.getHours()).padStart(2,'0') + ':' + String(d.getMinutes()).padStart(2,'0'),
+      ts: d.getTime()
+    };
   } catch(e) { return { txt: '', ts: 0 }; }
 }
 
-async function fetchRSSIzvor(izvor) {
-  try {
-    const url = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(izvor.url) + '&count=20';
-    const res = await fetch(url, { signal: AbortSignal.timeout(8000) });
-    if (res.ok) {
-      const data = await res.json();
-      if (data.status === 'ok' && data.items && data.items.length) {
-        const vesti = data.items.slice(0, izvor.max).map(function(item) {
-          const naslov = latinicaUCirilicu((item.title||'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').trim());
-          const d = formatDatum(item.pubDate);
-          return { naslov: naslov, url: item.link||'#', naziv: izvor.naziv, datum: d.txt, ts: d.ts };
-        }).filter(function(v) { return v.naslov.length > 10; });
-        console.log('RSS2JSON ' + izvor.naziv + ': ' + vesti.length + ' vesti');
-        return vesti;
-      }
-    }
-  } catch(e) { console.warn('rss2json ' + izvor.naziv + ':', e.message); }
-  try {
-    const proxyUrl = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(izvor.url) + '&t=' + Date.now();
-    const res = await fetch(proxyUrl, { signal: AbortSignal.timeout(7000) });
-    if (res.ok) {
+async function fetchXML(url) {
+  // 3 proxy opcije — probaj redom dok jedna ne uspe
+  const proxies = [
+    'https://corsproxy.io/?' + encodeURIComponent(url),
+    'https://api.allorigins.win/raw?url=' + encodeURIComponent(url) + '&t=' + Date.now(),
+    'https://thingproxy.freeboard.io/fetch/' + url,
+  ];
+  for (const proxy of proxies) {
+    try {
+      const res = await fetch(proxy, { signal: AbortSignal.timeout(7000) });
+      if (!res.ok) continue;
       const txt = await res.text();
-      const xml = new DOMParser().parseFromString(txt, 'application/xml');
-      if (!xml.querySelector('parsererror')) {
-        const items = Array.from(xml.querySelectorAll('item')).slice(0, izvor.max);
-        const vesti = items.map(function(item) {
-          const rawTitle = (item.querySelector('title')||{textContent:''}).textContent.replace(/<!\[CDATA\[|\]\]>/g,'').replace(/&amp;/g,'&').trim();
-          const naslov = latinicaUCirilicu(rawTitle);
-          const linkEl = item.querySelector('link');
-          let link = linkEl ? linkEl.textContent.trim() : '#';
-          if (!link.startsWith('http')) link = '#';
-          const d = formatDatum((item.querySelector('pubDate')||{textContent:''}).textContent.trim());
-          return { naslov: naslov, url: link, naziv: izvor.naziv, datum: d.txt, ts: d.ts };
-        }).filter(function(v) { return v.naslov.length > 10; });
-        if (vesti.length > 0) { console.log('AllOrigins ' + izvor.naziv + ': ' + vesti.length); return vesti; }
+      if (txt && txt.length > 100) return txt;
+    } catch(e) { continue; }
+  }
+  return null;
+}
+
+function parseRSSItems(xmlTxt, izvor, max) {
+  try {
+    const xml = new DOMParser().parseFromString(xmlTxt, 'application/xml');
+    if (xml.querySelector('parsererror')) return [];
+    return Array.from(xml.querySelectorAll('item')).slice(0, max).map(function(item) {
+      let title = (item.querySelector('title') || {textContent:''}).textContent;
+      title = title.replace(/<!\[CDATA\[|\]\]>/g, '').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').trim();
+      const naslov = latinicaUCirilicu(title);
+      const linkEl = item.querySelector('link');
+      let link = linkEl ? linkEl.textContent.trim() : '';
+      if (!link || !link.startsWith('http')) {
+        const guid = item.querySelector('guid');
+        link = guid ? guid.textContent.trim() : '#';
       }
-    }
-  } catch(e) { console.warn('allorigins ' + izvor.naziv + ':', e.message); }
-  return [];
+      const pubDate = (item.querySelector('pubDate') || {textContent:''}).textContent.trim();
+      const d = formatDatum(pubDate);
+      return { naslov: naslov, url: link, naziv: izvor, datum: d.txt, ts: d.ts };
+    }).filter(function(v) { return v.naslov && v.naslov.length > 10; });
+  } catch(e) { return []; }
+}
+
+async function fetchRSSIzvor(izvor) {
+  const xmlTxt = await fetchXML(izvor.url);
+  if (!xmlTxt) { console.warn('RSS ' + izvor.naziv + ': svi proxy neuspešni'); return []; }
+  const vesti = parseRSSItems(xmlTxt, izvor.naziv, izvor.max);
+  console.log('RSS ' + izvor.naziv + ': ' + vesti.length + ' vesti');
+  return vesti;
 }
 
 async function aiFilterujVesti(kandidati) {
@@ -1029,13 +1046,14 @@ async function aiFilterujVesti(kandidati) {
       body: JSON.stringify({
         model: 'claude-sonnet-4-20250514',
         max_tokens: 200,
-        messages: [{ role: 'user', content: 'Ovo su naslovi sa srpskih sportskih sajtova. Vrati SAMO indekse vesti o fudbalu.\n\nPRIHVATI: Superliga Srbije, FK klubovi, reprezentacija Srbije, transferi fudbalera, UEFA, Champions League, Premier League, Serie A, Bundesliga, La Liga, fudbalski mec, gol, karton, penal, trener FK.\n\nODBACI: tenis, kosarka, rukomet, odbojka, atletika, plivanje, boks, MMA, motorsport, F1, skijanje, navigacione kategorije sajtova, administrativni tekstovi.\n\nSAMO brojevi razdvojeni zarezom. Primer: 0,3,5\n\n' + lista }]
+        messages: [{ role: 'user', content: 'Ovo su naslovi sa srpskih sportskih sajtova. Vrati SAMO indekse vesti o fudbalu.\n\nPRIHVATI: Superliga Srbije, FK klubovi, reprezentacija Srbije, transferi fudbalera, UEFA, Champions League, Premier League, Serie A, Bundesliga, La Liga, fudbalski mec, gol, karton, penal, trener FK.\n\nODBACI: tenis, kosarka, rukomet, odbojka, atletika, plivanje, boks, MMA, motorsport, F1, skijanje, navigacione kategorije sajtova, administrativni tekstovi medija.\n\nSAMO brojevi razdvojeni zarezom. Primer: 0,3,5\n\n' + lista }]
       })
     });
     const data = await resp.json();
     const txt = ((data.content && data.content[0] && data.content[0].text) || '').trim();
     const indeksi = txt.split(',').map(function(s) { return parseInt(s.trim()); }).filter(function(n) { return !isNaN(n) && n >= 0 && n < kandidati.length; });
-    console.log('AI: ' + indeksi.length + '/' + kandidati.length + ' fudbalskih');
+    console.log('AI filter: ' + indeksi.length + '/' + kandidati.length + ' fudbalskih');
+    if (indeksi.length === 0) return kandidati; // safety: if AI returns nothing, show all
     return indeksi.map(function(i) { return kandidati[i]; });
   } catch(e) {
     console.warn('AI filter greška:', e.message);
@@ -1051,9 +1069,12 @@ async function ucitajVesti() {
 
   if (mainEl) mainEl.innerHTML = '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">⏳ Учитавам вести...</div>';
 
+  // Povuci oba RSS izvora paralelno
   const rezultati = await Promise.allSettled(RSS_IZVORI.map(function(iz) { return fetchRSSIzvor(iz); }));
   const mondoVesti    = rezultati[0].status === 'fulfilled' ? rezultati[0].value : [];
   const sportskeVesti = rezultati[1].status === 'fulfilled' ? rezultati[1].value : [];
+
+  console.log('Mondo: ' + mondoVesti.length + ', Sportske: ' + sportskeVesti.length);
 
   // Round-robin: Мондо[0], Спортске[0], Мондо[1], Спортске[1]...
   const kandidati = [];
@@ -1072,37 +1093,40 @@ async function ucitajVesti() {
     return true;
   });
 
-  // Show immediately (before AI)
+  // Show immediately before AI runs
   if (jedinstveni.length > 0 && mainEl) {
     mainEl.innerHTML = jedinstveni.slice(0, 8).map(listaItemV).join('');
     const now = new Date();
     if (azEl) azEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
   }
 
-  // AI filter runs after initial display
-  const filtrirani = await aiFilterujVesti(jedinstveni.slice(0, 28));
-  let prikaz = filtrirani.length > 0 ? filtrirani : jedinstveni;
-
-  if (prikaz.length === 0) {
+  if (jedinstveni.length === 0) {
+    // Fallback: GitHub JSON
     try {
       const jr = await fetch('https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json', { signal: AbortSignal.timeout(5000), cache: 'no-store' });
       if (jr.ok) {
         const jd = await jr.json();
         if (jd && jd.vesti && jd.vesti.length) {
           if (jd.azurirano_sr && azEl) azEl.textContent = jd.azurirano_sr;
-          prikaz = jd.vesti.map(function(v) { return { naslov: v.naslov||'', url: v.url||'#', naziv: v.izvor||'', datum: v.datum||'', ts: 0 }; });
+          const prikaz = jd.vesti.map(function(v) { return { naslov: v.naslov||'', url: v.url||'#', naziv: v.izvor||'', datum: v.datum||'' }; });
+          sveVesti = prikaz;
+          if (mainEl) mainEl.innerHTML = prikaz.slice(0,8).map(listaItemV).join('');
+          return;
         }
       }
     } catch(e) {}
+    if (mainEl) mainEl.innerHTML = '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Вести тренутно нису доступне.</div>';
+    return;
   }
 
-  sveVesti = prikaz;
-  if (prikaz.length > 0 && mainEl) {
-    mainEl.innerHTML = prikaz.slice(0, 8).map(listaItemV).join('');
+  // AI filter
+  const filtrirani = await aiFilterujVesti(jedinstveni.slice(0, 28));
+  sveVesti = filtrirani;
+
+  if (mainEl) {
+    mainEl.innerHTML = filtrirani.slice(0, 8).map(listaItemV).join('');
     const now = new Date();
     if (azEl) azEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
-  } else if (mainEl) {
-    mainEl.innerHTML = '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Вести тренутно нису доступне.</div>';
   }
 }
 
@@ -1117,7 +1141,6 @@ document.addEventListener('visibilitychange', function() {
     ucitajTicker();
   }
 });
-
 // ═══════════════════════════════════
 // TICKER — RSS iz sportske.net, brzo
 // ═══════════════════════════════════
