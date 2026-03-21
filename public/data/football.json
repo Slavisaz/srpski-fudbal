@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-03-21T04:55:12.068116+00:00",
-  "azurirano_sr": "21. 03. 2026. у 04:55",
+  "azurirano": "2026-03-21T07:10:58.936718+00:00",
+  "azurirano_sr": "21. 03. 2026. у 07:10",
   "vesti": [
     {
       "naslov": "Најновије вести",
@@ -8,7 +8,7 @@
       "url": "https://www.tanjug.rs/sport/fudbal/239256/remi-fudbalera-bornmuta-i-mancester-junajteda-u-31-kolu-premijer-lige/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "21. 03. 2026. 04:55",
+      "datum": "21. 03. 2026. 07:10",
       "slika": null
     },
     {
@@ -17,7 +17,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 04:55",
+      "datum": "21. 03. 2026. 07:10",
       "slika": null
     },
     {
@@ -26,7 +26,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 04:55",
+      "datum": "21. 03. 2026. 07:10",
       "slika": null
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 04:55",
+      "datum": "21. 03. 2026. 07:10",
       "slika": null
     },
     {
@@ -44,16 +44,16 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 04:55",
+      "datum": "21. 03. 2026. 07:10",
       "slika": null
     },
     {
-      "naslov": "ЦАФ отворио Пандорину кутију, Гвинеја тражи титулу од пре пола века",
+      "naslov": "Џајићу нови председнички мандат у ФСС",
       "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241136/fudbal/sirom-planete/caf-otvorio-pandorinu-kutiju-gvineja-trazi-titulu-od-pre-pola-veka",
+      "url": "https://zurnal.politika.rs/scc/clanak/241079/dzajicu-novi-predsednicki-mandat-u-fss",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 04:55",
+      "datum": "21. 03. 2026. 07:10",
       "slika": null
     },
     {
@@ -62,7 +62,7 @@
       "url": "https://www.rts.rs/rts/informator-o-radu.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 04:55",
+      "datum": "21. 03. 2026. 07:10",
       "slika": null
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 04:55",
+      "datum": "21. 03. 2026. 07:10",
       "slika": null
     },
     {
@@ -80,7 +80,16 @@
       "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 04:55",
+      "datum": "21. 03. 2026. 07:10",
+      "slika": null
+    },
+    {
+      "naslov": "Суперлига се наставља - Звезда дочекује Нишлије, Партизан у Лучанима",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5908903/superliga-srbije-28-kolo-2026-partizan-crvena-zvezda-vojvodina.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "21. 03. 2026. 07:10",
       "slika": null
     },
     {
@@ -89,16 +98,7 @@
       "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910291/petrovic-dvaput-matiran-sa-bele-tacke---ni-junated-nije-pobedio-bornmut.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 04:55",
-      "slika": null
-    },
-    {
-      "naslov": "Наполи надиграо Каљари у 30. колу Серије А",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910226/napoli-nadigrao-kaljari-u-30-kolu-serije-a.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "21. 03. 2026. 04:55",
+      "datum": "21. 03. 2026. 07:10",
       "slika": null
     },
     {
@@ -107,7 +107,7 @@
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 04:55",
+      "datum": "21. 03. 2026. 07:10",
       "slika": null
     },
     {
@@ -116,7 +116,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1587998/srdjan-blagojevic-partizan-superliga-srbije-najnovije-vesti",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 04:55",
+      "datum": "21. 03. 2026. 07:10",
       "slika": null
     },
     {
@@ -125,7 +125,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588113/radnik-surdulica-spartak-subotica-superliga-srbije-najnovije-vesti",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 04:55",
+      "datum": "21. 03. 2026. 07:10",
       "slika": null
     },
     {
@@ -134,7 +134,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588085/bosna-hercegovina-najnovije-vesti-fifa-fudbalska-reprezentacija-bosne-hercegovine-kazna-bih-austrija-rumunija",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 04:55",
+      "datum": "21. 03. 2026. 07:10",
       "slika": null
     },
     {
@@ -143,7 +143,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588072/aleksandar-katai-najnovije-vesti-superliga-srbije-dejan-stankovic-radnicki-nis-takis-lemonis",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 04:55",
+      "datum": "21. 03. 2026. 07:10",
       "slika": null
     },
     {
