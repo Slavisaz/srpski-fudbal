@@ -1,113 +1,14 @@
 {
-  "azurirano": "2026-03-21T22:55:16.141738+00:00",
-  "azurirano_sr": "21. 03. 2026. у 22:55",
+  "azurirano": "2026-03-21T23:50:00.951476+00:00",
+  "azurirano_sr": "21. 03. 2026. у 23:50",
   "vesti": [
-    {
-      "naslov": "Најновије вести",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/239404/srpski-fudbaler-dusan-vlahovic-vratio-se-na-teren-u-remiju-juventusa-protiv-sasuola/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "21. 03. 2026. 22:55",
-      "slika": null
-    },
-    {
-      "naslov": "Српски клубови у Европи",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 22:55",
-      "slika": null
-    },
-    {
-      "naslov": "Српски тенисери и тенисерке",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 22:55",
-      "slika": null
-    },
-    {
-      "naslov": "Српски спортисти на ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 22:55",
-      "slika": null
-    },
-    {
-      "naslov": "Борилачки спортови ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 22:55",
-      "slika": null
-    },
-    {
-      "naslov": "Валенсија надиграла Севиљу",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241223/fudbal/velika-petorka/valensija-nadigrala-sevilju",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 22:55",
-      "slika": null
-    },
-    {
-      "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
-      "opis": "",
-      "url": "https://www.rts.rs/rts/informator-o-radu.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "21. 03. 2026. 22:55",
-      "slika": null
-    },
-    {
-      "naslov": "Дигитални предузетник",
-      "opis": "",
-      "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "21. 03. 2026. 22:55",
-      "slika": null
-    },
-    {
-      "naslov": "За мале велике хероје",
-      "opis": "",
-      "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "21. 03. 2026. 22:55",
-      "slika": null
-    },
-    {
-      "naslov": "Влаховић \"сервирао\" победу Јувентусу, Локатели протраћио пенал",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910516/vlahovic-servirao-pobedu-juventusu-lokateli-protracio-penal.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "21. 03. 2026. 22:55",
-      "slika": null
-    },
-    {
-      "naslov": "Благојевић: Много разлога за размишљање и доста посла",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5910503/blagojevic-mnogo-razloga-za-razmisljanje-i-dosta-posla.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "21. 03. 2026. 22:55",
-      "slika": null
-    },
     {
       "naslov": "Најплеменитији подвиг",
       "opis": "",
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 22:55",
+      "datum": "21. 03. 2026. 23:50",
       "slika": null
     },
     {
@@ -116,7 +17,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588391/dusan-vlahovic-fudbaler-najnovije-vesti-povratak-posle-povrede-prva-utakmica-novembra-2025-juventus-rezultati-tabela-premier-league-results-standings-serija",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 22:55",
+      "datum": "21. 03. 2026. 23:50",
       "slika": null
     },
     {
@@ -125,7 +26,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588366/everton-celsi-chelsea-rezultat-golovi-video-transfermarkt-vrednost-klubova-premijer-liga-najnovije-vesti-rezultati-tabela-premier-league-results-standings",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 22:55",
+      "datum": "21. 03. 2026. 23:50",
       "slika": null
     },
     {
@@ -134,7 +35,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588356/partizan-najnovije-vesti-trener-srdjan-blagojevic-reakcija-mladost-lucani-izjava-posle-utakmice-rezultat-superliga-srbije-tabela",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 22:55",
+      "datum": "21. 03. 2026. 23:50",
       "slika": null
     },
     {
@@ -143,7 +44,106 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588275/strahinja-pavlovic-fudbaler-gol-milan-torino-video-snimak-luka-modric-odusevljen-svi-saigraci-podigli-ruke-odusevljeni-srbin-golcinu-serija-tabela-rezultati-fudbalska-reprezentacija-srbije",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 22:55",
+      "datum": "21. 03. 2026. 23:50",
+      "slika": null
+    },
+    {
+      "naslov": "Најновије вести",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/fudbal/239404/srpski-fudbaler-dusan-vlahovic-vratio-se-na-teren-u-remiju-juventusa-protiv-sasuola/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "21. 03. 2026. 23:49",
+      "slika": null
+    },
+    {
+      "naslov": "Српски клубови у Европи",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "21. 03. 2026. 23:49",
+      "slika": null
+    },
+    {
+      "naslov": "Српски тенисери и тенисерке",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "21. 03. 2026. 23:49",
+      "slika": null
+    },
+    {
+      "naslov": "Српски спортисти на ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "21. 03. 2026. 23:49",
+      "slika": null
+    },
+    {
+      "naslov": "Борилачки спортови ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "21. 03. 2026. 23:49",
+      "slika": null
+    },
+    {
+      "naslov": "Душан Влаховић вратио се на терен у ремију Јувентуса против Сасуола",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/clanak/241221/fudbal/velika-petorka/dusan-vlahovic-vratio-se-na-teren-u-remiju-juventusa-protiv-sasuola",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "21. 03. 2026. 23:49",
+      "slika": null
+    },
+    {
+      "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
+      "opis": "",
+      "url": "https://www.rts.rs/rts/informator-o-radu.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "21. 03. 2026. 23:49",
+      "slika": null
+    },
+    {
+      "naslov": "Дигитални предузетник",
+      "opis": "",
+      "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "21. 03. 2026. 23:49",
+      "slika": null
+    },
+    {
+      "naslov": "За мале велике хероје",
+      "opis": "",
+      "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "21. 03. 2026. 23:49",
+      "slika": null
+    },
+    {
+      "naslov": "Влаховић \"сервирао\" победу Јувентусу, Локатели протраћио пенал",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910516/vlahovic-servirao-pobedu-juventusu-lokateli-protracio-penal.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "21. 03. 2026. 23:49",
+      "slika": null
+    },
+    {
+      "naslov": "Благојевић: Много разлога за размишљање и доста посла",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5910503/blagojevic-mnogo-razloga-za-razmisljanje-i-dosta-posla.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "21. 03. 2026. 23:49",
       "slika": null
     },
     {
@@ -153,7 +153,7 @@
       "izvor": "Мондо",
       "logo": "mondo.rs",
       "datum": "21. 03. 2026. 22:52",
-      "slika": "https://static2.mondo.rs/Thumbnail/1405894/jpeg/Poslednja_vest_NAJNOVIJA-VEST-1.jpeg?ts=2024-07-09T21:14:16"
+      "slika": "https://static2.mondo.rs/Thumbnail/1638641/jpeg/Faruk-Isufi.jpeg?ts=2026-03-21T23:56:39"
     },
     {
       "naslov": "Трагедија у српском фудбалу: Преминуо Михаило Веснић (25), бивши играч Младости из Лучана",
