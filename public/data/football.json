@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-03-21T20:54:56.330337+00:00",
-  "azurirano_sr": "21. 03. 2026. у 20:54",
+  "azurirano": "2026-03-21T21:49:12.169566+00:00",
+  "azurirano_sr": "21. 03. 2026. у 21:49",
   "vesti": [
     {
       "naslov": "Најновије вести",
@@ -8,7 +8,7 @@
       "url": "https://www.tanjug.rs/sport/fudbal/239389/dejan-blagojevic-ekipa-mora-jos-da-radi-da-bi-u-sledecim-mecevima-bio-vidljiv-pomak-u-igri/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "21. 03. 2026. 20:54",
+      "datum": "21. 03. 2026. 21:49",
       "slika": null
     },
     {
@@ -17,7 +17,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 20:54",
+      "datum": "21. 03. 2026. 21:49",
       "slika": null
     },
     {
@@ -26,7 +26,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 20:54",
+      "datum": "21. 03. 2026. 21:49",
       "slika": null
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 20:54",
+      "datum": "21. 03. 2026. 21:49",
       "slika": null
     },
     {
@@ -44,16 +44,16 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 20:54",
+      "datum": "21. 03. 2026. 21:49",
       "slika": null
     },
     {
-      "naslov": "Мијаиловић: Заслужили смо победу",
+      "naslov": "Дортмунд бољи од Хамбурга",
       "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241215/fudbal/super-liga/mijailovic-zasluzili-smo-pobedu",
+      "url": "https://zurnal.politika.rs/scc/clanak/241212/fudbal/velika-petorka/dortmund-bolji-od-hamburga",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 20:54",
+      "datum": "21. 03. 2026. 21:49",
       "slika": null
     },
     {
@@ -62,7 +62,7 @@
       "url": "https://www.rts.rs/rts/informator-o-radu.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 20:54",
+      "datum": "21. 03. 2026. 21:49",
       "slika": null
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 20:54",
+      "datum": "21. 03. 2026. 21:49",
       "slika": null
     },
     {
@@ -80,7 +80,16 @@
       "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 20:54",
+      "datum": "21. 03. 2026. 21:49",
+      "slika": null
+    },
+    {
+      "naslov": "Влаховић \"сервирао\" победу Јувентусу, Локатели протраћио пенал",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910516/vlahovic-servirao-pobedu-juventusu-lokateli-protracio-penal.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "21. 03. 2026. 21:49",
       "slika": null
     },
     {
@@ -89,16 +98,7 @@
       "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5910503/blagojevic-mnogo-razloga-za-razmisljanje-i-dosta-posla.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 20:54",
-      "slika": null
-    },
-    {
-      "naslov": "Џаба Партизану играч више, бод у Лучанима за пад на треће место",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5910485/dzaba-partizanu-igrac-vise-bod-u-lucanima-za-pad-na-trece-mesto.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "21. 03. 2026. 20:54",
+      "datum": "21. 03. 2026. 21:49",
       "slika": null
     },
     {
@@ -107,7 +107,7 @@
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 20:54",
+      "datum": "21. 03. 2026. 21:49",
       "slika": null
     },
     {
@@ -116,7 +116,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588366/everton-celsi-chelsea-rezultat-golovi-video-transfermarkt-vrednost-klubova-premijer-liga-najnovije-vesti-rezultati-tabela-premier-league-results-standings",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 20:54",
+      "datum": "21. 03. 2026. 21:49",
       "slika": null
     },
     {
@@ -125,7 +125,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588356/partizan-najnovije-vesti-trener-srdjan-blagojevic-reakcija-mladost-lucani-izjava-posle-utakmice-rezultat-superliga-srbije-tabela",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 20:54",
+      "datum": "21. 03. 2026. 21:49",
       "slika": null
     },
     {
@@ -134,7 +134,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588275/strahinja-pavlovic-fudbaler-gol-milan-torino-video-snimak-luka-modric-odusevljen-svi-saigraci-podigli-ruke-odusevljeni-srbin-golcinu-serija-tabela-rezultati-fudbalska-reprezentacija-srbije",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 20:54",
+      "datum": "21. 03. 2026. 21:49",
       "slika": null
     },
     {
@@ -143,8 +143,17 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588280/hrvatska-najnovije-vesti-istra-varazdin-gol-krtica-urnebesno-video-snimak-josip-radosevic-tabela-hnl-dinamo-zagreb-hajduk-split",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 20:54",
+      "datum": "21. 03. 2026. 21:49",
       "slika": null
+    },
+    {
+      "naslov": "Трагедија у српском фудбалу: Преминуо Михаило Веснић (25), бивши играч Младости из Лучана",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2203861/preminuo-mihailo-vesnic-bivsi-igrac-mladosti-iz-lucana.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "21. 03. 2026. 21:20",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638628/jpeg/Mihailo-Vesnic-pokojni-fudbaler-Mladosti-iz-Lucana.jpeg?ts=2026-03-21T22:17:23"
     },
     {
       "naslov": "\"Сваку утакмицу играч мање и сумњиви картони\": Тренер Младости дигао глас после Партизана",
@@ -181,15 +190,6 @@
       "logo": "mondo.rs",
       "datum": "21. 03. 2026. 19:06",
       "slika": "https://static2.mondo.rs/Thumbnail/1638547/jpeg/Strahinja-Pavlovic-slavi-gol-za-Milan.jpg?ts=2026-03-21T19:54:21"
-    },
-    {
-      "naslov": "Војводина не да мира Партизану: Поново ниже победе, црно-бели под великим притиском",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2203816/vojvodina-pobedila-napredak-i-prestigla-partizan.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "21. 03. 2026. 18:23",
-      "slika": "https://static2.mondo.rs/Thumbnail/1638531/jpeg/Lazar-Randjelovic-u-napadu-Vojvodine-na-stadionu-Karadjordje.jpeg?ts=2026-03-21T19:16:49"
     },
     {
       "naslov": "WУ17 | ВИСОК ПОРАЗ ОД ИСЛАНДА ЗА КРАЈ КВАЛИФИКАЦИЈА",
