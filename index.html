@@ -972,10 +972,9 @@ function latinicaUCirilicu(t) {
 }
 
 // ═══════════════════════════════════════════════════
-// VESTI — 3x Мондо + 2x Спортске, keyword filter
+// VESTI — 2 statična linka + 3 Мондо RSS
 // ═══════════════════════════════════════════════════
 
-// Ćirilična transliteracija
 const LAT_MAP2 = {'lj':'љ','nj':'њ','dž':'џ','dj':'ђ','Lj':'Љ','Nj':'Њ','Dž':'Џ','Dj':'Ђ',
 'a':'а','b':'б','c':'ц','č':'ч','ć':'ћ','d':'д','e':'е','f':'ф','g':'г','h':'х','i':'и',
 'j':'ј','k':'к','l':'л','m':'м','n':'н','o':'о','p':'п','r':'р','s':'с','š':'ш','t':'т',
@@ -989,7 +988,6 @@ function lat2cir(t) {
   return t.split('').map(ch => LAT_MAP2[ch]||ch).join('');
 }
 
-// Keyword filter
 const FUDBAL_KW = [
   'фудбал','суперлига','superliga','partizan','партизан','zvezda','звезда',
   'vojvodina','войводина','čukarički','чукарички','spartak','спартак',
@@ -999,11 +997,10 @@ const FUDBAL_KW = [
   'liga','лига','меч','kolo','коло','penal','пенал','karton','картон',
   'vlahovic','влаховић','tadic','тадић','mitrovic','митровић',
   'fifa','uefa','champions','premier','serie a','bundesliga','la liga',
-  'petric','петрић','piksi','пикси','stojkovic','стојковић','inter','real','barca',
+  'petric','петрић','piksi','пикси','inter','real','barca',
 ];
-function jeFudbal(naslov) {
-  const n = (naslov||'').toLowerCase();
-  return FUDBAL_KW.some(k => n.includes(k));
+function jeFudbal(n) {
+  return FUDBAL_KW.some(k => (n||'').toLowerCase().includes(k));
 }
 
 function formatDatum2(pubDate) {
@@ -1028,50 +1025,21 @@ function listaItemV(v) {
     '</a>';
 }
 
-async function fetchXML2(url) {
-  const proxies = [
-    'https://corsproxy.io/?' + encodeURIComponent(url),
-    'https://api.allorigins.win/raw?url=' + encodeURIComponent(url) + '&t=' + Date.now(),
-    'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(url),
-  ];
-  for (const proxy of proxies) {
-    try {
-      const res = await fetch(proxy, { signal: AbortSignal.timeout(7000) });
-      if (!res.ok) continue;
-      const txt = await res.text();
-      if (txt && txt.length > 200) return txt;
-    } catch(e) { continue; }
-  }
-  return null;
-}
-
-function parseRSS2(xmlTxt, naziv, max) {
-  try {
-    const xml = new DOMParser().parseFromString(xmlTxt, 'application/xml');
-    if (xml.querySelector('parsererror')) return [];
-    const vesti = [];
-    for (const item of Array.from(xml.querySelectorAll('item'))) {
-      let title = (item.querySelector('title')||{textContent:''}).textContent;
-      title = title.replace(/<!\[CDATA\[|\]\]>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').trim();
-      const naslov = lat2cir(title);
-      if (!naslov || naslov.length < 10) continue;
-      if (!jeFudbal(naslov)) continue;
-      const linkEl = item.querySelector('link');
-      let link = linkEl ? linkEl.textContent.trim() : '';
-      if (!link || !link.startsWith('http')) {
-        const guid = item.querySelector('guid');
-        link = guid ? guid.textContent.trim() : '#';
-      }
-      if (!link.startsWith('http')) link = '#';
-      const pub = (item.querySelector('pubDate')||{textContent:''}).textContent.trim();
-      const d = formatDatum2(pub);
-      vesti.push({ naslov, url: link, naziv, datum: d.txt, ts: d.ts });
-      if (vesti.length >= max) break;
-    }
-    console.log('RSS ' + naziv + ': ' + vesti.length + ' fudbalskih');
-    return vesti;
-  } catch(e) { return []; }
-}
+// Statični linkovi — uvek prikazani kao prve 2 vesti
+const STATICNE_VESTI = [
+  {
+    naziv: 'Танјуг',
+    naslov: 'Танјуг — Фудбалске вести',
+    url: 'https://www.tanjug.rs/sport/fudbal',
+    datum: '',
+  },
+  {
+    naziv: 'РТС',
+    naslov: 'РТС — Фудбал',
+    url: 'https://www.rts.rs/sport/fudbal.html',
+    datum: '',
+  },
+];
 
 let sveVesti = [];
 
@@ -1079,57 +1047,51 @@ async function ucitajVesti() {
   const mainEl = document.getElementById('main-vesti-list');
   const azEl   = document.getElementById('vesti-azurirano');
 
-  if (mainEl) mainEl.innerHTML = '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">⏳ Учитавам вести...</div>';
-
-  // Povuci oba izvora paralelno
-  const [mondoXML, sportskeXML] = await Promise.all([
-    fetchXML2('https://mondo.rs/rss/646/Sport/Fudbal'),
-    fetchXML2('https://sportske.net/vesti-domaci-fudbal/feed/'),
-  ]);
-
-  const mondoVesti    = mondoXML    ? parseRSS2(mondoXML,    'Мондо',    6) : [];
-  const sportskeVesti = sportskeXML ? parseRSS2(sportskeXML, 'Спортске', 4) : [];
-
-  console.log('Mondo: ' + mondoVesti.length + ', Sportske: ' + sportskeVesti.length);
-
-  // 3 Мондо + 2 Спортске
-  const prikaz = [...mondoVesti.slice(0,3), ...sportskeVesti.slice(0,2)];
-
-  // Deduplicate
-  const seen = new Set();
-  const jedinstveni = prikaz.filter(function(v) {
-    const key = v.naslov.slice(0,30).toLowerCase().replace(/\s+/g,'');
-    if (seen.has(key)) return false;
-    seen.add(key);
-    return true;
-  });
-
-  if (jedinstveni.length > 0) {
-    sveVesti = jedinstveni;
-    if (mainEl) mainEl.innerHTML = jedinstveni.map(listaItemV).join('');
-    const now = new Date();
-    if (azEl) azEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
-    return;
+  // Odmah prikaži statične + placeholder za Мондо
+  if (mainEl) {
+    mainEl.innerHTML = STATICNE_VESTI.map(listaItemV).join('') +
+      '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">⏳ Учитавам Мондо вести...</div>';
   }
 
-  // Fallback: GitHub JSON
+  // Povuci Мондо RSS
   try {
-    const jr = await fetch('https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json',
-      { signal: AbortSignal.timeout(5000), cache: 'no-store' });
-    if (jr.ok) {
-      const jd = await jr.json();
-      if (jd && jd.vesti && jd.vesti.length) {
-        if (jd.azurirano_sr && azEl) azEl.textContent = jd.azurirano_sr;
-        sveVesti = jd.vesti.map(function(v) {
-          return { naslov:v.naslov||'', url:v.url||'#', naziv:v.izvor||'', datum:v.datum||'' };
-        });
-        if (mainEl) mainEl.innerHTML = sveVesti.slice(0,5).map(listaItemV).join('');
-        return;
-      }
-    }
-  } catch(e) {}
+    const proxyUrl = 'https://api.allorigins.win/raw?url=' + encodeURIComponent('https://mondo.rs/rss/646/Sport/Fudbal') + '&t=' + Date.now();
+    const res = await fetch(proxyUrl, { signal: AbortSignal.timeout(8000) });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const txt = await res.text();
+    const xml = new DOMParser().parseFromString(txt, 'application/xml');
+    if (xml.querySelector('parsererror')) throw new Error('XML parse error');
 
-  if (mainEl) mainEl.innerHTML = '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Вести тренутно нису доступне.</div>';
+    const mondoVesti = [];
+    for (const item of Array.from(xml.querySelectorAll('item'))) {
+      let title = (item.querySelector('title')||{textContent:''}).textContent;
+      title = title.replace(/<!\[CDATA\[|\]\]>/g,'').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').trim();
+      const naslov = lat2cir(title);
+      if (!naslov || naslov.length < 10 || !jeFudbal(naslov)) continue;
+      const linkEl = item.querySelector('link');
+      let link = linkEl ? linkEl.textContent.trim() : '#';
+      if (!link.startsWith('http')) link = '#';
+      const pub = (item.querySelector('pubDate')||{textContent:''}).textContent.trim();
+      const d = formatDatum2(pub);
+      mondoVesti.push({ naslov, url: link, naziv: 'Мондо', datum: d.txt, ts: d.ts });
+      if (mondoVesti.length >= 3) break;
+    }
+
+    console.log('Мондо: ' + mondoVesti.length + ' fudbalskih vesti');
+    sveVesti = [...STATICNE_VESTI, ...mondoVesti];
+
+    if (mainEl) mainEl.innerHTML = sveVesti.map(listaItemV).join('');
+    const now = new Date();
+    if (azEl) azEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
+
+  } catch(e) {
+    console.warn('Мондо RSS greška:', e.message);
+    // Prikaži samo statične ako Мондо ne radi
+    sveVesti = STATICNE_VESTI;
+    if (mainEl) mainEl.innerHTML = STATICNE_VESTI.map(listaItemV).join('');
+    const now = new Date();
+    if (azEl) azEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
+  }
 }
 ucitajVesti();
 setInterval(ucitajVesti, 2 * 60 * 1000);
