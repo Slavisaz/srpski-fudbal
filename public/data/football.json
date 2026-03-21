@@ -1,14 +1,14 @@
 {
-  "azurirano": "2026-03-21T19:04:19.923627+00:00",
-  "azurirano_sr": "21. 03. 2026. у 19:04",
+  "azurirano": "2026-03-21T19:54:11.983520+00:00",
+  "azurirano_sr": "21. 03. 2026. у 19:54",
   "vesti": [
     {
       "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/239376/fudbaleri-vojvodine-pobedili-napredak/vest",
+      "url": "https://www.tanjug.rs/sport/fudbal/239389/fudbaleri-partizana-odigrali-nereseno-na-gostovanju-lucanskoj-mladosti/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "21. 03. 2026. 19:04",
+      "datum": "21. 03. 2026. 19:54",
       "slika": null
     },
     {
@@ -17,7 +17,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 19:04",
+      "datum": "21. 03. 2026. 19:54",
       "slika": null
     },
     {
@@ -26,7 +26,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 19:04",
+      "datum": "21. 03. 2026. 19:54",
       "slika": null
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 19:04",
+      "datum": "21. 03. 2026. 19:54",
       "slika": null
     },
     {
@@ -44,16 +44,16 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 19:04",
+      "datum": "21. 03. 2026. 19:54",
       "slika": null
     },
     {
-      "naslov": "УЖИВО: Младост – Партизан 1:0 (ВИДЕО)",
+      "naslov": "Нови кикс Партизана: Првенац Полтера довољан само за бод (ВИДЕО)",
       "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241149/fudbal/super-liga/uzivo-mladost-partizan-1-0-video",
+      "url": "https://zurnal.politika.rs/scc/clanak/241149/fudbal/super-liga/novi-kiks-partizana-prvenac-poltera-dovoljan-samo-za-bod-video",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 19:04",
+      "datum": "21. 03. 2026. 19:54",
       "slika": null
     },
     {
@@ -62,7 +62,7 @@
       "url": "https://www.rts.rs/rts/informator-o-radu.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 19:04",
+      "datum": "21. 03. 2026. 19:54",
       "slika": null
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 19:04",
+      "datum": "21. 03. 2026. 19:54",
       "slika": null
     },
     {
@@ -80,7 +80,16 @@
       "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 19:04",
+      "datum": "21. 03. 2026. 19:54",
+      "slika": null
+    },
+    {
+      "naslov": "Џаба Партизану играч више, бод у Лучанима за пад на треће место",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5910485/dzaba-partizanu-igrac-vise-bod-u-lucanima-za-pad-na-trece-mesto.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "21. 03. 2026. 19:54",
       "slika": null
     },
     {
@@ -89,16 +98,7 @@
       "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5910480/dejan-stankovic-crvena-zvezda-radnicki-nis-superliga-2026.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 19:04",
-      "slika": null
-    },
-    {
-      "naslov": "Павловићева бомба против Торина вредна \"Пушкаша\"",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910460/strahinja-pavlovic-milan-fudbal-evrogol.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "21. 03. 2026. 19:04",
+      "datum": "21. 03. 2026. 19:54",
       "slika": null
     },
     {
@@ -107,7 +107,16 @@
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 19:04",
+      "datum": "21. 03. 2026. 19:54",
+      "slika": null
+    },
+    {
+      "naslov": "ПАРТИЗАН ПАО НА ТРЕЋЕ МЕСТО ПОСЛЕ НОВОГ КИКСА, А ТРЕНЕР... Срđан Благојевић: Имамо за шта да се боримо!",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588356/partizan-najnovije-vesti-trener-srdjan-blagojevic-reakcija-mladost-lucani-izjava-posle-utakmice-rezultat-superliga-srbije-tabela",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "21. 03. 2026. 19:54",
       "slika": null
     },
     {
@@ -116,7 +125,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588275/strahinja-pavlovic-fudbaler-gol-milan-torino-video-snimak-luka-modric-odusevljen-svi-saigraci-podigli-ruke-odusevljeni-srbin-golcinu-serija-tabela-rezultati-fudbalska-reprezentacija-srbije",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 19:04",
+      "datum": "21. 03. 2026. 19:54",
       "slika": null
     },
     {
@@ -125,7 +134,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588351/miroslav-tanjga-najnovije-vesti-vojvodina-napredak-rezultat-golovi-superliga-srbije-tabela",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 19:04",
+      "datum": "21. 03. 2026. 19:54",
       "slika": null
     },
     {
@@ -134,17 +143,26 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588321/nenad-lalatovic-najnovije-vesti-javor-ivanjica-novi-pazar-rezultat-golovi-penal-odbrana-penala-superliga-srbije-tabela",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 19:04",
+      "datum": "21. 03. 2026. 19:54",
       "slika": null
     },
     {
-      "naslov": "НИШЛИЈЕ ЋЕ ДА ПОБЕСНЕ! Дејан Станковић о малом дербију Звезда - Раднички Ниш: Доđу овде и... морамо да згужвамо и бацимо све!",
+      "naslov": "\"Имамо за шта да се боримо\": Да ли је овим Благојевић признао да се Партизан сада туче за друго место?",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588309/crvena-zvezda-najnovije-vesti-radnicki-nis-dejan-stankovic-izjava-posle-utakmice-niski-autobus-takis-lemonis-superliga-srbije-tabela-rezultati",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 19:04",
-      "slika": null
+      "url": "https://mondo.rs/Sport/Fudbal/a2203840/srdjan-blagojevic-imamo-za-sta-da-se-borimo.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "21. 03. 2026. 19:45",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638586/png/Srdjan-Blagojevic.jpg?ts=2026-03-21T20:37:17"
+    },
+    {
+      "naslov": "Чудесан гол Србина запалио Сан Сиро: Страхиња Павловић поломио пречку, навијачи Милана зинули од шока",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2203832/strahinja-pavlovic-dao-gol-o-precku-na-milan-torino.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "21. 03. 2026. 19:06",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638547/jpeg/Strahinja-Pavlovic-slavi-gol-za-Milan.jpg?ts=2026-03-21T19:54:21"
     },
     {
       "naslov": "Војводина не да мира Партизану: Поново ниже победе, црно-бели под великим притиском",
@@ -172,24 +190,6 @@
       "logo": "mondo.rs",
       "datum": "21. 03. 2026. 17:44",
       "slika": "https://static2.mondo.rs/Thumbnail/1638472/jpeg/Djordje-Petrovic-slavi-sa-saigracima.jpeg?ts=2026-03-21T18:30:05"
-    },
-    {
-      "naslov": "\"Само да ми се врате здрави\": Дејан Станковић после победе причао о бункеру ривала и о репрезентацији",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2203796/dejan-stankovic-o-bunkeru-i-reprezentaciji.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "21. 03. 2026. 17:15",
-      "slika": "https://static2.mondo.rs/Thumbnail/1638439/png/Dejan-Stankovic.jpg?ts=2026-03-21T18:07:49"
-    },
-    {
-      "naslov": "Младост Лучани - Партизан уживо: Кад је тесно, ето Натха",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2203786/partizan-mladost-lucani-uzivo-prenos-livestream-arena-sport.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "21. 03. 2026. 16:33",
-      "slika": "https://static2.mondo.rs/Thumbnail/1638532/jpeg/Partizan-Mladost-Lucani.jpg?ts=2026-03-21T19:20:50"
     },
     {
       "naslov": "WУ17 | ВИСОК ПОРАЗ ОД ИСЛАНДА ЗА КРАЈ КВАЛИФИКАЦИЈА",
