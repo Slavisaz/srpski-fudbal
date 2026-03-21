@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-03-21T11:45:20.949774+00:00",
-  "azurirano_sr": "21. 03. 2026. у 11:45",
+  "azurirano": "2026-03-21T13:55:27.082908+00:00",
+  "azurirano_sr": "21. 03. 2026. у 13:55",
   "vesti": [
     {
       "naslov": "Најновије вести",
@@ -8,7 +8,7 @@
       "url": "https://www.tanjug.rs/sport/fudbal/239309/nemacki-fudbaler-emre-dzan-produzio-ugovor-sa-borusijom-dortmund-do-juna-2027-godine/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "21. 03. 2026. 11:45",
+      "datum": "21. 03. 2026. 13:55",
       "slika": null
     },
     {
@@ -17,7 +17,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 11:45",
+      "datum": "21. 03. 2026. 13:55",
       "slika": null
     },
     {
@@ -26,7 +26,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 11:45",
+      "datum": "21. 03. 2026. 13:55",
       "slika": null
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 11:45",
+      "datum": "21. 03. 2026. 13:55",
       "slika": null
     },
     {
@@ -44,16 +44,16 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 11:45",
+      "datum": "21. 03. 2026. 13:55",
       "slika": null
     },
     {
-      "naslov": "Тањга: Напредак као Реал",
+      "naslov": "Стефановић: Офанзива",
       "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241084/fudbal/vojvodina/tanjga-napredak-kao-real",
+      "url": "https://zurnal.politika.rs/scc/clanak/241087/fudbal/super-liga/stefanovic-ofanziva",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 11:45",
+      "datum": "21. 03. 2026. 13:55",
       "slika": null
     },
     {
@@ -62,7 +62,7 @@
       "url": "https://www.rts.rs/rts/informator-o-radu.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 11:45",
+      "datum": "21. 03. 2026. 13:55",
       "slika": null
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 11:45",
+      "datum": "21. 03. 2026. 13:55",
       "slika": null
     },
     {
@@ -80,7 +80,16 @@
       "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 11:45",
+      "datum": "21. 03. 2026. 13:55",
+      "slika": null
+    },
+    {
+      "naslov": "Влаховић се коначно враћа на терен после 111 дана",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910399/vlahovic-se-konacno-vraca-na-teren-posle-111-dana.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "21. 03. 2026. 13:55",
       "slika": null
     },
     {
@@ -89,16 +98,7 @@
       "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5908903/superliga-srbije-28-kolo-2026-partizan-crvena-zvezda-vojvodina.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 11:45",
-      "slika": null
-    },
-    {
-      "naslov": "Петровић двапут матиран са \"беле тачке\" - ни Јунатед није победио Борнмут",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910291/petrovic-dvaput-matiran-sa-bele-tacke---ni-junated-nije-pobedio-bornmut.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "21. 03. 2026. 11:45",
+      "datum": "21. 03. 2026. 13:55",
       "slika": null
     },
     {
@@ -107,44 +107,71 @@
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 11:45",
+      "datum": "21. 03. 2026. 13:55",
       "slika": null
     },
     {
-      "naslov": "ОЂЈЕКНУЛА ТРАНСФЕР БОМБА! Велика звезда потписала за овај клуб!",
+      "naslov": "ЈЕЗИВ ПРИЗОР ПОСЛЕ МЕЧА! Бивши играч Партизана доживео потрес мозга!",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588229/novi-ugovor-potpis-velika-zvezda-bundesliga-borusija-dortmund-emre-dzan",
+      "url": "https://www.novosti.rs/sport/fudbal/1588266/potres-mozga-srpski-fudbaler-bivsi-igrac-partizan-miroslav-bogosavac",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 11:45",
+      "datum": "21. 03. 2026. 13:55",
       "slika": null
     },
     {
-      "naslov": "ШТА ЋЕ РЕЋИ У ХУМСКОЈ? Благојевић однео још једну велику победу!",
+      "naslov": "ТРАГЕДИЈА: Убијен млади фудбалер (21), страдао у крвавом обрачуну, ухапшена популарна певачица",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588226/partizan-izgubio-spor-srdjan-blagojevic-dobio-arbitrazni-sud-fss-presudio",
+      "url": "https://www.novosti.rs/sport/fudbal/1588264/tragedija-ubijen-mladi-fudbaler-21-stradao-krvavom-obracunu-uhapsena-popularna-pevacica",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 11:45",
+      "datum": "21. 03. 2026. 13:55",
       "slika": null
     },
     {
-      "naslov": "\"У ПРОБЛЕМУ СУ, АЛИ ИХ НЕ ПОТЦЕЊЈУЈЕМО\": Срđан Благојевић отворен пред дуел Младост - Партизан",
+      "naslov": "У МАНЧЕСТЕРУ КИПТЕ ОД БЕСА! Пенали, искључења... Керик поручио: \"Ово је лудило\"",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1587998/srdjan-blagojevic-partizan-superliga-srbije-najnovije-vesti",
+      "url": "https://www.novosti.rs/sport/fudbal/1588260/premijer-liga-mancester-junajted-bornmut-majkl-kerik-najnovije-vesti-bruno-fernandes",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 11:45",
+      "datum": "21. 03. 2026. 13:55",
       "slika": null
     },
     {
-      "naslov": "СУРДУЛИЧАНИ ПРОМЕНИЛИ ТРЕНЕРА, НЕ И НАВИКЕ: Радник разбио Спартак у Суботици",
+      "naslov": "ДОНАЛД ТРАМП ЈЕ БЕСАН! Доживео ново понижење",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588113/radnik-surdulica-spartak-subotica-superliga-srbije-najnovije-vesti",
+      "url": "https://www.novosti.rs/sport/fudbal/1588245/nba-liga-donald-tramp-golden-stejt-voriors-oklahoma-siti-tander-amerika-sad-united-states-america",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 11:45",
+      "datum": "21. 03. 2026. 13:55",
       "slika": null
+    },
+    {
+      "naslov": "Прелеп гол Керкеза у Премијер лиги: Искористио грешку која се не дешава ни у петлићима",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2203713/milos-kerkez-dao-gol-za-liverpul-protiv-brajtona.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "21. 03. 2026. 13:49",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638313/jpeg/Milos-Kerkez-i-Florijan-Virc.jpeg?ts=2026-03-21T14:31:06"
+    },
+    {
+      "naslov": "\"Нек иду политичари да ратују, а не дечаци од 18 година\": Ерик Кантона испрозивао Трампа као нико до сад",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2203716/erik-kantona-napao-donalda-trampa.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "21. 03. 2026. 13:36",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638314/jpeg/Eric-Cantona-Donald-Tramp.jpg?ts=2026-03-21T14:32:04"
+    },
+    {
+      "naslov": "Најбизарнији гол у историји хрватског фудбала: Голман се смејао од муке, ово је прави шоу",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2203710/najbizarniji-gol-u-istoriji-hrvatskog-fudbala.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "21. 03. 2026. 13:28",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638312/jpeg/Bizaran-gol.jpeg?ts=2026-03-21T14:24:15"
     },
     {
       "naslov": "Срđан Благојевић добио Партизан на суду: Нова заврзлама решена на најбољи могући начин за клуб",
@@ -163,33 +190,6 @@
       "logo": "mondo.rs",
       "datum": "20. 03. 2026. 20:13",
       "slika": "https://static2.mondo.rs/Thumbnail/1638097/jpeg/Granit-Dzaka-place-na-pomen-oca-Radzipa-Dzake.jpeg?ts=2026-03-20T20:52:04"
-    },
-    {
-      "naslov": "Пауновић ће овим речима дочекати назад Сергеја: \"Све говори о Србији и теби, носиш грб, заставу и историју\"",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2203460/sergej-milinkovic-savic-se-vraca-u-reprezentaciju.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "20. 03. 2026. 19:40",
-      "slika": "https://static2.mondo.rs/Thumbnail/1638094/jpeg/Sergej-Milinkovic-Savic-slavi-gol-za-Srbiju-u-Kataru.jpeg?ts=2026-03-20T20:23:38"
-    },
-    {
-      "naslov": "Интер има велики план за Декијевог сина: Хрват је превише стидљив, зато се Алекс враћа кући",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2203434/plan-intera-za-aleksandra-stankovica-dekijevog-sina.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "20. 03. 2026. 18:15",
-      "slika": "https://static2.mondo.rs/Thumbnail/1638072/jpeg/Aleksandar-Stankovic-sin-Dejana-Stankovica-vraca-se-u-Inter.jpeg?ts=2026-03-20T19:04:10"
-    },
-    {
-      "naslov": "Радник може и без Марка Јакшића: Није до тренера, њихов систем је хит Суперлиге Србије",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2203425/radnik-iz-surdulice-pobedio-spartak-u-superligi.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "20. 03. 2026. 18:02",
-      "slika": "https://static2.mondo.rs/Thumbnail/1638071/jpeg/FK-Radnik-Surdulica.jpeg?ts=2026-03-20T18:55:43"
     },
     {
       "naslov": "WУ17 | ВИСОК ПОРАЗ ОД ИСЛАНДА ЗА КРАЈ КВАЛИФИКАЦИЈА",
