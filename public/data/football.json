@@ -1,113 +1,23 @@
 {
-  "azurirano": "2026-03-21T13:55:27.082908+00:00",
-  "azurirano_sr": "21. 03. 2026. у 13:55",
+  "azurirano": "2026-03-21T14:57:00.980156+00:00",
+  "azurirano_sr": "21. 03. 2026. у 14:57",
   "vesti": [
-    {
-      "naslov": "Најновије вести",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/239309/nemacki-fudbaler-emre-dzan-produzio-ugovor-sa-borusijom-dortmund-do-juna-2027-godine/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "21. 03. 2026. 13:55",
-      "slika": null
-    },
-    {
-      "naslov": "Српски клубови у Европи",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 13:55",
-      "slika": null
-    },
-    {
-      "naslov": "Српски тенисери и тенисерке",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 13:55",
-      "slika": null
-    },
-    {
-      "naslov": "Српски спортисти на ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 13:55",
-      "slika": null
-    },
-    {
-      "naslov": "Борилачки спортови ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 13:55",
-      "slika": null
-    },
-    {
-      "naslov": "Стефановић: Офанзива",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241087/fudbal/super-liga/stefanovic-ofanziva",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 13:55",
-      "slika": null
-    },
-    {
-      "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
-      "opis": "",
-      "url": "https://www.rts.rs/rts/informator-o-radu.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "21. 03. 2026. 13:55",
-      "slika": null
-    },
-    {
-      "naslov": "Дигитални предузетник",
-      "opis": "",
-      "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "21. 03. 2026. 13:55",
-      "slika": null
-    },
-    {
-      "naslov": "За мале велике хероје",
-      "opis": "",
-      "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "21. 03. 2026. 13:55",
-      "slika": null
-    },
-    {
-      "naslov": "Влаховић се коначно враћа на терен после 111 дана",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910399/vlahovic-se-konacno-vraca-na-teren-posle-111-dana.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "21. 03. 2026. 13:55",
-      "slika": null
-    },
-    {
-      "naslov": "Суперлига се наставља - Звезда дочекује Нишлије, Партизан у Лучанима",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5908903/superliga-srbije-28-kolo-2026-partizan-crvena-zvezda-vojvodina.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "21. 03. 2026. 13:55",
-      "slika": null
-    },
     {
       "naslov": "Најплеменитији подвиг",
       "opis": "",
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 13:55",
+      "datum": "21. 03. 2026. 14:57",
+      "slika": null
+    },
+    {
+      "naslov": "ЦЕО СВЕТ ИМ СЕ СМЕЈЕ: Урнебесан снимак из Хрватске шири се планетом брже од било чега (ВИДЕО)",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588280/hrvatska-najnovije-vesti-istra-varazdin-gol-krtica-urnebesno-video-snimak-josip-radosevic-tabela-hnl-dinamo-zagreb-hajduk-split",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "21. 03. 2026. 14:57",
       "slika": null
     },
     {
@@ -116,7 +26,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588266/potres-mozga-srpski-fudbaler-bivsi-igrac-partizan-miroslav-bogosavac",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 13:55",
+      "datum": "21. 03. 2026. 14:57",
       "slika": null
     },
     {
@@ -125,7 +35,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588264/tragedija-ubijen-mladi-fudbaler-21-stradao-krvavom-obracunu-uhapsena-popularna-pevacica",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 13:55",
+      "datum": "21. 03. 2026. 14:57",
       "slika": null
     },
     {
@@ -134,17 +44,125 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588260/premijer-liga-mancester-junajted-bornmut-majkl-kerik-najnovije-vesti-bruno-fernandes",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 13:55",
+      "datum": "21. 03. 2026. 14:57",
       "slika": null
     },
     {
-      "naslov": "ДОНАЛД ТРАМП ЈЕ БЕСАН! Доживео ново понижење",
+      "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588245/nba-liga-donald-tramp-golden-stejt-voriors-oklahoma-siti-tander-amerika-sad-united-states-america",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 13:55",
+      "url": "https://www.tanjug.rs/sport/fudbal/239309/nemacki-fudbaler-emre-dzan-produzio-ugovor-sa-borusijom-dortmund-do-juna-2027-godine/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "21. 03. 2026. 14:56",
       "slika": null
+    },
+    {
+      "naslov": "Српски клубови у Европи",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "21. 03. 2026. 14:56",
+      "slika": null
+    },
+    {
+      "naslov": "Српски тенисери и тенисерке",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "21. 03. 2026. 14:56",
+      "slika": null
+    },
+    {
+      "naslov": "Српски спортисти на ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "21. 03. 2026. 14:56",
+      "slika": null
+    },
+    {
+      "naslov": "Борилачки спортови ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "21. 03. 2026. 14:56",
+      "slika": null
+    },
+    {
+      "naslov": "УЖИВО: Црвена звезда – Раднички Ниш, Матеус на голу, Дуарте у нападу…",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/clanak/241147/fudbal/super-liga/uzivo-crvena-zvezda-radnicki-nis-mateus-na-golu-duarte-u-napadu-sastavi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "21. 03. 2026. 14:56",
+      "slika": null
+    },
+    {
+      "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
+      "opis": "",
+      "url": "https://www.rts.rs/rts/informator-o-radu.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "21. 03. 2026. 14:56",
+      "slika": null
+    },
+    {
+      "naslov": "Дигитални предузетник",
+      "opis": "",
+      "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "21. 03. 2026. 14:56",
+      "slika": null
+    },
+    {
+      "naslov": "За мале велике хероје",
+      "opis": "",
+      "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "21. 03. 2026. 14:56",
+      "slika": null
+    },
+    {
+      "naslov": "Ливерпул све даљи од Лиге шампиона",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910411/liverpul-sve-dalji-od-lige-sampiona.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "21. 03. 2026. 14:56",
+      "slika": null
+    },
+    {
+      "naslov": "Влаховић се коначно враћа на терен после 111 дана",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910399/vlahovic-se-konacno-vraca-na-teren-posle-111-dana.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "21. 03. 2026. 14:56",
+      "slika": null
+    },
+    {
+      "naslov": "Црвена звезда - Раднички Ниш уживо: Црвено-бели јуре нову победу",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2203739/crvena-zvezda-radnicki-nis-uzivo-prenos.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "21. 03. 2026. 14:17",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638326/jpeg/Aleksandar-Katai.jpeg?ts=2026-03-21T15:15:54"
+    },
+    {
+      "naslov": "Револуција у Јувентусу: Долази комплетно нови тим, један потпис може да отера Душана Влаховића",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2203732/juventus-dovodi-kompletno-novi-tim.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "21. 03. 2026. 14:05",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638324/jpeg/Lucano-Spaleti-Dusan-Vlahovic.jpg?ts=2026-03-21T15:01:02"
     },
     {
       "naslov": "Прелеп гол Керкеза у Премијер лиги: Искористио грешку која се не дешава ни у петлићима",
@@ -172,24 +190,6 @@
       "logo": "mondo.rs",
       "datum": "21. 03. 2026. 13:28",
       "slika": "https://static2.mondo.rs/Thumbnail/1638312/jpeg/Bizaran-gol.jpeg?ts=2026-03-21T14:24:15"
-    },
-    {
-      "naslov": "Срđан Благојевић добио Партизан на суду: Нова заврзлама решена на најбољи могући начин за клуб",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2203611/srdjan-blagojevic-dobio-partizan-na-sudu.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "21. 03. 2026. 10:38",
-      "slika": "https://static2.mondo.rs/Thumbnail/1635220/jpeg/Srdjan-Blagojevic-na-utakmici-Partizan-TSC.jpeg?ts=2026-03-14T16:28:23"
-    },
-    {
-      "naslov": "\"Никад нећу заборавити одакле сам дошао\": Гранит Џака заплакао и сломио се на помен оца из Подујева",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2203472/granit-dzaka-zaplakao-zbog-oca-radzipa-iz-podujeva.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "20. 03. 2026. 20:13",
-      "slika": "https://static2.mondo.rs/Thumbnail/1638097/jpeg/Granit-Dzaka-place-na-pomen-oca-Radzipa-Dzake.jpeg?ts=2026-03-20T20:52:04"
     },
     {
       "naslov": "WУ17 | ВИСОК ПОРАЗ ОД ИСЛАНДА ЗА КРАЈ КВАЛИФИКАЦИЈА",
