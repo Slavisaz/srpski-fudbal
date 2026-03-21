@@ -957,6 +957,20 @@ init();
 setInterval(loadRez, 60000);
 setInterval(loadUzi, 30000);
 
+// Ćirilična transliteracija
+const LAT_MAP = {'lj':'љ','nj':'њ','dž':'џ','dj':'ђ','Lj':'Љ','Nj':'Њ','Dž':'Џ','Dj':'Ђ',
+'a':'а','b':'б','c':'ц','č':'ч','ć':'ћ','d':'д','e':'е','f':'ф','g':'г','h':'х','i':'и',
+'j':'ј','k':'к','l':'л','m':'м','n':'н','o':'о','p':'п','r':'р','s':'с','š':'ш','t':'т',
+'u':'у','v':'в','z':'з','ž':'ж','A':'А','B':'Б','C':'Ц','Č':'Ч','Ć':'Ћ','D':'Д','E':'Е',
+'F':'Ф','G':'Г','H':'Х','I':'И','J':'Ј','K':'К','L':'Л','M':'М','N':'Н','O':'О','P':'П',
+'R':'Р','S':'С','Š':'Ш','T':'Т','U':'У','V':'В','Z':'З','Ž':'Ж'};
+function latinicaUCirilicu(t) {
+  if (!t) return t;
+  for (const [l,c] of [['lj','љ'],['nj','њ'],['dž','џ'],['dj','ђ'],['Lj','Љ'],['Nj','Њ'],['Dž','Џ'],['Dj','Ђ']])
+    t = t.replaceAll(l, c);
+  return t.split('').map(ch => LAT_MAP[ch]||ch).join('');
+}
+
 // ═══════════════════════════════════════════════════
 // VESTI — RSS filter sa Claude AI
 // Proxy: corsproxy.io (primarni) + rssproxy.io (backup)
