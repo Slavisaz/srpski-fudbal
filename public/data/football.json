@@ -1,14 +1,14 @@
 {
-  "azurirano": "2026-03-21T16:59:10.406259+00:00",
-  "azurirano_sr": "21. 03. 2026. у 16:59",
+  "azurirano": "2026-03-21T17:54:19.846899+00:00",
+  "azurirano_sr": "21. 03. 2026. у 17:54",
   "vesti": [
     {
       "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/239365/fudbaleri-bajerna-ubedljivo-savladali-union-berlin/vest",
+      "url": "https://www.tanjug.rs/sport/fudbal/239369/fudbaleri-crvene-zvezde-pobedili-niski-radnicki/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "21. 03. 2026. 16:59",
+      "datum": "21. 03. 2026. 17:54",
       "slika": null
     },
     {
@@ -17,7 +17,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 16:59",
+      "datum": "21. 03. 2026. 17:54",
       "slika": null
     },
     {
@@ -26,7 +26,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 16:59",
+      "datum": "21. 03. 2026. 17:54",
       "slika": null
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 16:59",
+      "datum": "21. 03. 2026. 17:54",
       "slika": null
     },
     {
@@ -44,16 +44,16 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 16:59",
+      "datum": "21. 03. 2026. 17:54",
       "slika": null
     },
     {
-      "naslov": "УЖИВО: Црвена звезда – Раднички Ниш 2:0, Дуарте погађа (ФОТО, ВИДЕО)",
+      "naslov": "Фулам надиграо Барнли",
       "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241147/fudbal/super-liga/uzivo-crvena-zvezda-radnicki-nis-2-0-duarte-pogada-foto-video",
+      "url": "https://zurnal.politika.rs/scc/clanak/241199/fudbal/velika-petorka/fulam-nadigrao-barnli",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "21. 03. 2026. 16:59",
+      "datum": "21. 03. 2026. 17:54",
       "slika": null
     },
     {
@@ -62,7 +62,7 @@
       "url": "https://www.rts.rs/rts/informator-o-radu.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 16:59",
+      "datum": "21. 03. 2026. 17:54",
       "slika": null
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 16:59",
+      "datum": "21. 03. 2026. 17:54",
       "slika": null
     },
     {
@@ -80,7 +80,16 @@
       "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 16:59",
+      "datum": "21. 03. 2026. 17:54",
+      "slika": null
+    },
+    {
+      "naslov": "Звезда дала два гола, Раднички погодио две стативе",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5910416/zvezda-dala-dva-gola-radnicki-pogodio-dve-stative.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "21. 03. 2026. 17:54",
       "slika": null
     },
     {
@@ -89,16 +98,7 @@
       "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5910422/samcovic-sacuvao-pazarcima-bod-u-ivanjici-superliga.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "21. 03. 2026. 16:59",
-      "slika": null
-    },
-    {
-      "naslov": "Ливерпул све даље од Лиге шампиона",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910411/liverpul-sve-dalje-od-lige-sampiona.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "21. 03. 2026. 16:59",
+      "datum": "21. 03. 2026. 17:54",
       "slika": null
     },
     {
@@ -107,7 +107,25 @@
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 16:59",
+      "datum": "21. 03. 2026. 17:54",
+      "slika": null
+    },
+    {
+      "naslov": "НИШЛИЈЕ ЋЕ ДА ПОБЕСНЕ! Дејан Станковић о малом дербију Звезда - Раднички Ниш: Доđу овде и... морамо да згужвамо и бацимо све!",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588309/crvena-zvezda-najnovije-vesti-radnicki-nis-dejan-stankovic-izjava-posle-utakmice-niski-autobus-takis-lemonis-superliga-srbije-tabela-rezultati",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "21. 03. 2026. 17:54",
+      "slika": null
+    },
+    {
+      "naslov": "ЗВЕЗДА РАСПРШИЛА НИШКУ БАЈКУ: Шампион показао Радничком ко је газда српског фудбала (ВИДЕО)",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588243/prenos-uzivo-live-stream-najnovije-vesti-crvena-zvezda-radnicki-nis-arena",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "21. 03. 2026. 17:54",
       "slika": null
     },
     {
@@ -116,7 +134,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588318/bajern-minhen-pobeda-union-berlin-bundesliga",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 16:59",
+      "datum": "21. 03. 2026. 17:54",
       "slika": null
     },
     {
@@ -125,35 +143,35 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588304/reprezentativac-iran-izbacivanje-nacionalni-tim-serdar-amzun-susret-slika-seik-mohamed-bin-rasid-maktum",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 16:59",
+      "datum": "21. 03. 2026. 17:54",
       "slika": null
     },
     {
-      "naslov": "ШАМПИОН ПРЕМИЈЕР ЛИГЕ НАСТАВИО ДА СЕ БРУКА! Велбек понизио четвртфиналисту Лиге шампиона!",
+      "naslov": "Док Премијер лига хвали Србина, у Јунајтеду кипте од беса: \"Đорđе је крив, због њега нема више голова\"",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588295/brajton-pobeda-liverpul-premijer-liga-poraz-sampion",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 16:59",
-      "slika": null
+      "url": "https://mondo.rs/Sport/Fudbal/a2203804/premijer-liga-hvali-djordja-petrovica-protiv-mancester-junajteda.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "21. 03. 2026. 17:44",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638472/jpeg/Djordje-Petrovic-slavi-sa-saigracima.jpeg?ts=2026-03-21T18:30:05"
     },
     {
-      "naslov": "ЦЕО СВЕТ ИМ СЕ СМЕЈЕ: Урнебесан снимак из Хрватске шири се планетом брже од било чега (ВИДЕО)",
+      "naslov": "\"Само да ми се врате здрави\": Дејан Станковић после победе причао о бункеру ривала и о репрезентацији",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588280/hrvatska-najnovije-vesti-istra-varazdin-gol-krtica-urnebesno-video-snimak-josip-radosevic-tabela-hnl-dinamo-zagreb-hajduk-split",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "21. 03. 2026. 16:59",
-      "slika": null
+      "url": "https://mondo.rs/Sport/Fudbal/a2203796/dejan-stankovic-o-bunkeru-i-reprezentaciji.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "21. 03. 2026. 17:15",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638439/png/Dejan-Stankovic.jpg?ts=2026-03-21T18:07:49"
     },
     {
-      "naslov": "Младост Лучани - Партизан уживо: Срđан Благојевић шокирао избором шпица",
+      "naslov": "Младост Лучани - Партизан уживо: Ћирић дао гол из мртвог угла, црно-бели се распали на терену",
       "opis": "",
       "url": "https://mondo.rs/Sport/Fudbal/a2203786/partizan-mladost-lucani-uzivo-prenos-livestream-arena-sport.html",
       "izvor": "Мондо",
       "logo": "mondo.rs",
       "datum": "21. 03. 2026. 16:33",
-      "slika": "https://static2.mondo.rs/Thumbnail/1635228/jpeg/Srdjan-Blagojevic-izlazi-na-utakmicu-Partizana.jpeg?ts=2026-03-14T18:19:40"
+      "slika": "https://static2.mondo.rs/Thumbnail/1638482/png/Mladost-Lucani.jpg?ts=2026-03-21T18:38:48"
     },
     {
       "naslov": "Србин овај меч за Арсенал никад неће заборавити: Зечевић дао гол, па морао да буде као голман",
@@ -172,24 +190,6 @@
       "logo": "mondo.rs",
       "datum": "21. 03. 2026. 15:44",
       "slika": "https://static2.mondo.rs/Thumbnail/1638368/jpeg/Ronaldinjo-.jpeg?ts=2026-03-21T16:30:31"
-    },
-    {
-      "naslov": "\"Мислим да би ме инфаркт опалио\": Ненад Лалатовић се крстио, па честитао Бајрам",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2203751/nenad-lalatovic-se-krstio-i-cestitao-bajram.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "21. 03. 2026. 15:13",
-      "slika": "https://static2.mondo.rs/Thumbnail/1638338/jpeg/Nenad-Lalatovic-se-krsti.jpg?ts=2026-03-21T16:09:10"
-    },
-    {
-      "naslov": "Црвена звезда - Раднички Ниш уживо: Поново су црвено-бели имаи среће, опет статива",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2203739/crvena-zvezda-radnicki-nis-uzivo-prenos.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "21. 03. 2026. 14:17",
-      "slika": "https://static2.mondo.rs/Thumbnail/1638433/jpeg/Bruno-Duarte-slavi-gol-za-Zvezdu-protiv-Radnickog-iz-Nisa.jpeg?ts=2026-03-21T17:52:36"
     },
     {
       "naslov": "WУ17 | ВИСОК ПОРАЗ ОД ИСЛАНДА ЗА КРАЈ КВАЛИФИКАЦИЈА",
