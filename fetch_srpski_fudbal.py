@@ -100,6 +100,14 @@ def ispravi(tekst):
 # ═══════════════════════════════════════════════════
 RSS_FEEDOVI = [
     {
+        "naziv": "Мондо",
+        "url":   "https://mondo.rs/rss/646/Sport/Fudbal",
+        "backup": None,
+        "logo":  "mondo.rs",
+        "uvek":  True,
+        "max":   5,
+    },
+    {
         "naziv": "Танјуг",
         "url":   "SCRAPE:https://www.tanjug.rs/sport/fudbal",
         "backup": None,
@@ -580,9 +588,9 @@ def main():
         json.dump(podaci, f, ensure_ascii=False, indent=2)
     print(f"\n✅ JSON sačuvan ({os.path.getsize(json_path)/1024:.1f} KB)")
 
-    # 4. index.html se NE menja — dinamički se učitava na klijentskoj strani
-    # RSS vesti se povlače direktno u browseru putem JS+AI
-    print("\n📰 index.html se ne menja — vesti su dinamičke (RSS + AI filter)")
+    # 4. Ubaci vesti direktno u index.html
+    print("\n📰 Upisujem vesti u index.html...")
+    # ubaci_u_html — disabled, vesti su dinamičke
 
     print("\n🏁 Završeno!")
 
