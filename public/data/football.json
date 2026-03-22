@@ -1,68 +1,14 @@
 {
-  "azurirano": "2026-03-22T20:56:20.123643+00:00",
-  "azurirano_sr": "22. 03. 2026. у 20:56",
+  "azurirano": "2026-03-22T21:53:08.844199+00:00",
+  "azurirano_sr": "22. 03. 2026. у 21:53",
   "vesti": [
-    {
-      "naslov": "Најновије вести",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/239553/ubedljiva-pobeda-fudbalera-stutgarta-protiv-augsburga-u-bundesligi/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "22. 03. 2026. 20:56",
-      "slika": null
-    },
-    {
-      "naslov": "Српски клубови у Европи",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "22. 03. 2026. 20:56",
-      "slika": null
-    },
-    {
-      "naslov": "Српски тенисери и тенисерке",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "22. 03. 2026. 20:56",
-      "slika": null
-    },
-    {
-      "naslov": "Српски спортисти на ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "22. 03. 2026. 20:56",
-      "slika": null
-    },
-    {
-      "naslov": "Борилачки спортови ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "22. 03. 2026. 20:56",
-      "slika": null
-    },
-    {
-      "naslov": "Лукас Квазниок није више тренер Келна",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241306/fudbal/velika-petorka/lukas-kvazniok-nije-vise-trener-kelna",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "22. 03. 2026. 20:56",
-      "slika": null
-    },
     {
       "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
       "opis": "",
       "url": "https://www.rts.rs/rts/informator-o-radu.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "22. 03. 2026. 20:56",
+      "datum": "22. 03. 2026. 21:53",
       "slika": null
     },
     {
@@ -71,7 +17,7 @@
       "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "22. 03. 2026. 20:56",
+      "datum": "22. 03. 2026. 21:53",
       "slika": null
     },
     {
@@ -80,7 +26,7 @@
       "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "22. 03. 2026. 20:56",
+      "datum": "22. 03. 2026. 21:53",
       "slika": null
     },
     {
@@ -89,7 +35,7 @@
       "url": "https://www.rts.rs/sport/fudbal/5910816/dimitri-paje-okacio-kopacke-o-klin.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "22. 03. 2026. 20:56",
+      "datum": "22. 03. 2026. 21:53",
       "slika": null
     },
     {
@@ -98,7 +44,7 @@
       "url": "https://www.rts.rs/sport/fudbal/5910750/jovic-strelac-u-novoj-pobedi-aek-a.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "22. 03. 2026. 20:56",
+      "datum": "22. 03. 2026. 21:53",
       "slika": null
     },
     {
@@ -107,7 +53,7 @@
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "22. 03. 2026. 20:56",
+      "datum": "22. 03. 2026. 21:53",
       "slika": null
     },
     {
@@ -116,7 +62,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588653/dimitri-paje-kraj-karijere-premijer-liga-najnovije-vesti",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "22. 03. 2026. 20:56",
+      "datum": "22. 03. 2026. 21:53",
       "slika": null
     },
     {
@@ -125,7 +71,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588631/arsenal-mancester-siti-najnovije-vesti-engleski-liga-kup",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "22. 03. 2026. 20:56",
+      "datum": "22. 03. 2026. 21:53",
       "slika": null
     },
     {
@@ -134,7 +80,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588627/cukaricki-zeleznicar-pancevo-superliga-srbije-najnovije-vesti",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "22. 03. 2026. 20:56",
+      "datum": "22. 03. 2026. 21:53",
       "slika": null
     },
     {
@@ -143,7 +89,61 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588605/hrvat-bruka-premijer-liga-totenhem-izgubio-legende-kluba-dzejmi-hara-ostro-igor-tudor",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "22. 03. 2026. 20:56",
+      "datum": "22. 03. 2026. 21:53",
+      "slika": null
+    },
+    {
+      "naslov": "Најновије вести",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/fudbal/239553/ubedljiva-pobeda-fudbalera-stutgarta-protiv-augsburga-u-bundesligi/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "22. 03. 2026. 21:52",
+      "slika": null
+    },
+    {
+      "naslov": "Српски клубови у Европи",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "22. 03. 2026. 21:52",
+      "slika": null
+    },
+    {
+      "naslov": "Српски тенисери и тенисерке",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "22. 03. 2026. 21:52",
+      "slika": null
+    },
+    {
+      "naslov": "Српски спортисти на ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "22. 03. 2026. 21:52",
+      "slika": null
+    },
+    {
+      "naslov": "Борилачки спортови ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "22. 03. 2026. 21:52",
+      "slika": null
+    },
+    {
+      "naslov": "Атлетик Билбао победио Бетис (ВИДЕО)",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/clanak/241311/fudbal/velika-petorka/atletik-bilbao-pobedio-betis-video",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "22. 03. 2026. 21:52",
       "slika": null
     },
     {
