@@ -1,113 +1,32 @@
 {
-  "azurirano": "2026-03-22T17:54:38.372439+00:00",
-  "azurirano_sr": "22. 03. 2026. у 17:54",
+  "azurirano": "2026-03-22T19:06:03.613060+00:00",
+  "azurirano_sr": "22. 03. 2026. у 19:06",
   "vesti": [
-    {
-      "naslov": "Најновије вести",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/239522/fudbaleri-cukarickog-u-90-sestom-minutu-do-pobede-protiv-zeleznicara-u-superligi-srbije/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "22. 03. 2026. 17:54",
-      "slika": null
-    },
-    {
-      "naslov": "Српски клубови у Европи",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "22. 03. 2026. 17:54",
-      "slika": null
-    },
-    {
-      "naslov": "Српски тенисери и тенисерке",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "22. 03. 2026. 17:54",
-      "slika": null
-    },
-    {
-      "naslov": "Српски спортисти на ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "22. 03. 2026. 17:54",
-      "slika": null
-    },
-    {
-      "naslov": "Борилачки спортови ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "22. 03. 2026. 17:54",
-      "slika": null
-    },
-    {
-      "naslov": "Чукарички голом Стојановића у надокнади победио…",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241274/fudbal/super-liga/cukaricki-golom-stojanovica-u-nadoknadi-pobedio-zeleznicar-video",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "22. 03. 2026. 17:54",
-      "slika": null
-    },
-    {
-      "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
-      "opis": "",
-      "url": "https://www.rts.rs/rts/informator-o-radu.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "22. 03. 2026. 17:54",
-      "slika": null
-    },
-    {
-      "naslov": "Дигитални предузетник",
-      "opis": "",
-      "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "22. 03. 2026. 17:54",
-      "slika": null
-    },
-    {
-      "naslov": "За мале велике хероје",
-      "opis": "",
-      "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "22. 03. 2026. 17:54",
-      "slika": null
-    },
-    {
-      "naslov": "Чукарички у надокнади времена до победе против Железничара",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5910656/cukaricki-u-nadoknadi-vremena-do-pobede-protiv-zeleznicara.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "22. 03. 2026. 17:54",
-      "slika": null
-    },
-    {
-      "naslov": "Минималац Аталанте против Вероне",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910647/minimalac-atalante-protiv-verone.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "22. 03. 2026. 17:54",
-      "slika": null
-    },
     {
       "naslov": "Најплеменитији подвиг",
       "opis": "",
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "22. 03. 2026. 17:54",
+      "datum": "22. 03. 2026. 19:06",
+      "slika": null
+    },
+    {
+      "naslov": "УЧИТЕЉЈ НАДИГРАО УЧЕНИКА НА ВЕМБЛИЈУ: Манчестер сити савладао Арсенал у финалу Лига Купа",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588631/arsenal-mancester-siti-najnovije-vesti-engleski-liga-kup",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "22. 03. 2026. 19:06",
+      "slika": null
+    },
+    {
+      "naslov": "СПЕКТАКЛ НА БРДУ: Чукарички у голеади тријумфовао пред гостовање Партизану у Суперлиги Србије",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588627/cukaricki-zeleznicar-pancevo-superliga-srbije-najnovije-vesti",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "22. 03. 2026. 19:06",
       "slika": null
     },
     {
@@ -116,7 +35,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588605/hrvat-bruka-premijer-liga-totenhem-izgubio-legende-kluba-dzejmi-hara-ostro-igor-tudor",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "22. 03. 2026. 17:54",
+      "datum": "22. 03. 2026. 19:06",
       "slika": null
     },
     {
@@ -125,26 +44,134 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588598/totenhem-notingem-forest-najnovije-fudbalske-vesti-premijer-liga-igor-tudor",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "22. 03. 2026. 17:54",
+      "datum": "22. 03. 2026. 19:06",
       "slika": null
     },
     {
-      "naslov": "ОПСТАНАК СВЕ БЛИЖИ! \"Романтика\" изостала на Краљевици!",
+      "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588568/superliga-srbije-ofk-beograd-remi-imt-zajecar-kraljevica-opstanak",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "22. 03. 2026. 17:54",
+      "url": "https://www.tanjug.rs/sport/fudbal/239533/fudbaleri-mancester-sitija-pobedili-arsenal-i-osvojili-liga-kup/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "22. 03. 2026. 19:05",
       "slika": null
     },
     {
-      "naslov": "БАРСЕЛОНА ЧУВА ВРХ ТАБЕЛЕ! Каталонци се мучили али успели да тријумфују и одаље се од Реала",
+      "naslov": "Српски клубови у Европи",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588566/barselona-rajo-valjekano-fudbalske-najnovije-vesti",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "22. 03. 2026. 17:54",
+      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "22. 03. 2026. 19:05",
       "slika": null
+    },
+    {
+      "naslov": "Српски тенисери и тенисерке",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "22. 03. 2026. 19:05",
+      "slika": null
+    },
+    {
+      "naslov": "Српски спортисти на ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "22. 03. 2026. 19:05",
+      "slika": null
+    },
+    {
+      "naslov": "Борилачки спортови ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "22. 03. 2026. 19:05",
+      "slika": null
+    },
+    {
+      "naslov": "Сити освојио Лига куп, бек два пута главом матирао киксера Кепу (ВИДЕО)",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/clanak/241284/fudbal/velika-petorka/siti-osvojio-liga-kup-bek-dva-puta-glavom-matirao-kiksera-kepu-video",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "22. 03. 2026. 19:05",
+      "slika": null
+    },
+    {
+      "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
+      "opis": "",
+      "url": "https://www.rts.rs/rts/informator-o-radu.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "22. 03. 2026. 19:05",
+      "slika": null
+    },
+    {
+      "naslov": "Дигитални предузетник",
+      "opis": "",
+      "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "22. 03. 2026. 19:05",
+      "slika": null
+    },
+    {
+      "naslov": "За мале велике хероје",
+      "opis": "",
+      "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "22. 03. 2026. 19:05",
+      "slika": null
+    },
+    {
+      "naslov": "Манчестер сити освојио Лига куп, О'Рајли сломио Арсенал",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/5910688/mancester-siti-osvojio-liga-kup.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "22. 03. 2026. 19:05",
+      "slika": null
+    },
+    {
+      "naslov": "Чукарички у надокнади времена до победе против Железничара",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/superliga_srbije/5910656/cukaricki-u-nadoknadi-vremena-do-pobede-protiv-zeleznicara.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "22. 03. 2026. 19:05",
+      "slika": null
+    },
+    {
+      "naslov": "ДИРЕКТОР РАНКО СТОЈИЋ И КООРДИНАТОР ПРЕДРАГ РОГАН УГОСТИЛИ ДЕЛЕГАЦИЈУ ФК КИКИНДА",
+      "opis": "Директор за стратегију и развој Фудбалског савеза Србије Ранко Стојић, у друштву координатора млађих селекција Предрага Рогана, угостио је делегацију ФК Кикинда, коју су чинили председник клуба Золтан Гачка и...",
+      "url": "https://fss.rs/direktor-ranko-stojic-i-koordinator-predrag-rogan-ugostili-delegaciju-fk-kikinda/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "22. 03. 2026. 18:43",
+      "slika": null
+    },
+    {
+      "naslov": "Манчестер сити одржао час фудбала Арсеналу: Пехар иде у руке Пепа Гвардиоле",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2204158/mancester-siti-pobedio-arsenal-u-liga-kupu.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "22. 03. 2026. 18:34",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638945/jpeg/Arsenal-Mancester-Siti-13-.jpg?ts=2026-03-22T19:27:35"
+    },
+    {
+      "naslov": "Драма у Атини, Лука Јовић се срушио: Камера одмах снимила забринуту Софију Милошевић",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2204148/luka-jovic-doziveo-povredu-sofija-milosevic-zabrinuta.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "22. 03. 2026. 18:01",
+      "slika": "https://static2.mondo.rs/Thumbnail/1638929/jpeg/Sofija-Milosevic-zabrinuta-zbog-Luke-Jovica.jpeg?ts=2026-03-22T18:48:49"
     },
     {
       "naslov": "Лудница на Бановом брду у 90+6', Лалатовић је ово хтео: Цео тим Чукаричког улетео на терен на дебију Јакшића",
@@ -172,24 +199,6 @@
       "logo": "mondo.rs",
       "datum": "22. 03. 2026. 17:13",
       "slika": "https://static2.mondo.rs/Thumbnail/1638900/jpeg/Dzomo-Sono.jpeg?ts=2026-03-22T18:09:08"
-    },
-    {
-      "naslov": "Цео стадион пао у транс кад је устао Лазар Самарџић: Италија прича о моменту историји која је исписана",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2204123/ceo-stadion-u-transu-kada-je-usao-lazar-samardzic.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "22. 03. 2026. 17:07",
-      "slika": "https://static2.mondo.rs/Thumbnail/1638874/jpeg/Martin-De-Ron-i-Lazar-Samardzic-.jpg?ts=2026-03-22T17:37:22"
-    },
-    {
-      "naslov": "Енглески великан се распада на делове: Са Игором Тудором доживео што није 91 годину",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2204118/totenhem-sa-tudorom-ispada-iz-premijer-lige.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "22. 03. 2026. 16:59",
-      "slika": "https://static2.mondo.rs/Thumbnail/1638876/jpeg/Igor-Tudor-gleda-u-kameru-dok-ispada-sa-Totenhemom-iz-lige.jpeg?ts=2026-03-22T17:46:45"
     },
     {
       "naslov": "WУ17 | ВИСОК ПОРАЗ ОД ИСЛАНДА ЗА КРАЈ КВАЛИФИКАЦИЈА",
@@ -225,15 +234,6 @@
       "izvor": "ФСС",
       "logo": "fss.rs",
       "datum": "20. 03. 2026. 10:11",
-      "slika": null
-    },
-    {
-      "naslov": "ИО ФСС | ОДЛУКА О СИСТЕМУ РАСПОДЕЛЕ СРЕДСТАВА СОЛИДАРНОСТИ",
-      "opis": "Извршни одбор ФСС донео је одлуку о утврђивању система расподеле средстава солидарности за такмичарску сезону 2025/26. са конкретним новчаним износима фудбалским клубовима члановима ФС Србије, односно клубовима који су...",
-      "url": "https://fss.rs/io-fss-odluka-o-sistemu-raspodele-sredstava-solidarnosti/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "19. 03. 2026. 16:53",
       "slika": null
     }
   ],
