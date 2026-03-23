@@ -1,59 +1,14 @@
 {
-  "azurirano": "2026-03-23T08:39:03.393081+00:00",
-  "azurirano_sr": "23. 03. 2026. у 08:39",
+  "azurirano": "2026-03-23T11:33:57.824377+00:00",
+  "azurirano_sr": "23. 03. 2026. у 11:33",
   "vesti": [
-    {
-      "naslov": "Најплеменитији подвиг",
-      "opis": "",
-      "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 08:39",
-      "slika": null
-    },
-    {
-      "naslov": "ФУДБАЛСКИ ЗЕМЉЈОТРЕС! Лажна држава Косово краде играча од 30.000.000 евра",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588722/fudbalski-zemljotres-lazna-drzava-kosovo-krade-igraca-30-000-000-evra",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 08:39",
-      "slika": null
-    },
-    {
-      "naslov": "ПА, ДОКЛЕ ВИШЕ? Стгле нове лоше вести у Хумску",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588693/partizan-najnovije-vesti-ibrahim-zubairu-fudbalski-transfer",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 08:39",
-      "slika": null
-    },
-    {
-      "naslov": "А НАКОН ШАМАРА! Хрвата задесила породична трагедија",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588690/igor-tudor-najnovije-vesti-preminuo-otac-totenhem-druga-liga",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 08:39",
-      "slika": null
-    },
-    {
-      "naslov": "МАĐИОНИЧАР КОЈИ ЈЕ МОГАО МНОГО ВИШЕ: Некада један од најбољих фудбалера Премијер лиге завршио каријеру",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588653/dimitri-paje-kraj-karijere-premijer-liga-najnovije-vesti",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 08:39",
-      "slika": null
-    },
     {
       "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/239567/fudbaleri-reala-pobedili-atletiko-u-derbi-mecu-29-kola-la-lige/vest",
+      "url": "https://www.tanjug.rs/sport/fudbal/239630/espn-antoan-grizman-blizu-prelaska-u-orlando/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "23. 03. 2026. 08:38",
+      "datum": "23. 03. 2026. 11:33",
       "slika": null
     },
     {
@@ -62,7 +17,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 08:38",
+      "datum": "23. 03. 2026. 11:33",
       "slika": null
     },
     {
@@ -71,7 +26,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 08:38",
+      "datum": "23. 03. 2026. 11:33",
       "slika": null
     },
     {
@@ -80,7 +35,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 08:38",
+      "datum": "23. 03. 2026. 11:33",
       "slika": null
     },
     {
@@ -89,16 +44,16 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 08:38",
+      "datum": "23. 03. 2026. 11:33",
       "slika": null
     },
     {
-      "naslov": "Матеус већи професионалац од Жулија Сезара",
+      "naslov": "Тањга: Већ размишљамо о тиму за Европу",
       "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241272/fudbal/zvezda/mateus-veci-profesionalac-od-zulija-sezara",
+      "url": "https://zurnal.politika.rs/scc/clanak/241314/fudbal/vojvodina/tanjga-vec-razmisljamo-o-timu-za-evropu",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 08:38",
+      "datum": "23. 03. 2026. 11:33",
       "slika": null
     },
     {
@@ -107,7 +62,7 @@
       "url": "https://www.rts.rs/rts/informator-o-radu.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "23. 03. 2026. 08:38",
+      "datum": "23. 03. 2026. 11:33",
       "slika": null
     },
     {
@@ -116,7 +71,7 @@
       "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "23. 03. 2026. 08:38",
+      "datum": "23. 03. 2026. 11:33",
       "slika": null
     },
     {
@@ -125,7 +80,16 @@
       "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "23. 03. 2026. 08:38",
+      "datum": "23. 03. 2026. 11:33",
+      "slika": null
+    },
+    {
+      "naslov": "Пауновић: Сви очекују да Србија једног дана игра финале великог такмичења, зато морамо да играмо са најбољима",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/reprezentacija/5911161/fss-veljko-paunovic-fudbalska-selekcija-2026.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "23. 03. 2026. 11:33",
       "slika": null
     },
     {
@@ -134,35 +98,107 @@
       "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910966/fjorentina-inter-remi-serija-a.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "23. 03. 2026. 08:38",
+      "datum": "23. 03. 2026. 11:33",
       "slika": null
     },
     {
-      "naslov": "\"Мадрилењо\" после преокрета припао Реалу",
+      "naslov": "Најплеменитији подвиг",
       "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910964/madrilenjo-posle-preokreta-pripao-realu.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "23. 03. 2026. 08:38",
+      "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "23. 03. 2026. 11:33",
       "slika": null
     },
     {
-      "naslov": "Ко је девојка у загрљају Пепа Гвардиоле? Чим се окренула, сви су схватили о коме се ради",
+      "naslov": "ХУМСКА ОСТАЛА БЕЗ ВЕЋ ВИĐЕНОГ НОВЦА! Пропао трансфер фудбалера Партизана!",
       "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2204282/ko-je-devojka-u-zagrljaju-pepa-gvardiole.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "23. 03. 2026. 08:32",
-      "slika": "https://static2.mondo.rs/Thumbnail/1639213/jpeg/Pep-Gvardiola.jpeg?ts=2026-03-23T09:11:24"
+      "url": "https://www.novosti.rs/sport/fudbal/1588839/partizan-ostao-bez-novca-propao-transfer-turska-corum-fudbaler-ibrahim-zubairu",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "23. 03. 2026. 11:33",
+      "slika": null
     },
     {
-      "naslov": "Кошта 30.000.000 евра и играће за тзв. Косово: Краду га Албанији и европској фудбалској сили",
+      "naslov": "БУУУУУУМ МЕĐУ ЦРВЕНО-БЕЛИМА! Нападач одлази у МЛС лигу!",
       "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2204263/kosovo-krade-reprezentativca-nemacke-brajan-gruda.html",
+      "url": "https://www.novosti.rs/sport/fudbal/1588825/transfer-napadac-odlazak-crvenobeli-prelazak-mls-liga-orlando-antoan-grizman",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "23. 03. 2026. 11:33",
+      "slika": null
+    },
+    {
+      "naslov": "АЛЕКС ФЕРГУСОН ЈЕ БИО ЗАЉЈУБЉЈЕН У ЗВЕЗДУ! Легенда отворила душу: \"Били смо као Барса са Ћавијем и Месијем\", штета што нисам отишао на Острво",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588759/aleks-ferguson-bio-zaljubljen-zvezdu-legenda-otvorila-dusu-bili-smo-kao-barsa-cavijem-mesijem-steta-sto-nisam-otisao-ostrvo",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "23. 03. 2026. 11:33",
+      "slika": null
+    },
+    {
+      "naslov": "ФУДБАЛСКИ ЗЕМЉЈОТРЕС! Лажна држава Косово краде играча од 30.000.000 евра",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588722/fudbalski-zemljotres-lazna-drzava-kosovo-krade-igraca-30-000-000-evra",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "23. 03. 2026. 11:33",
+      "slika": null
+    },
+    {
+      "naslov": "Да ли се Душан Тадић враћа у репрезентацију? Вељко Пауновић директно рекао шта се дешава у Србији",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2204444/da-li-se-dusan-tadic-vraca-u-reprezentaciju-srbije.html",
       "izvor": "Мондо",
       "logo": "mondo.rs",
-      "datum": "23. 03. 2026. 07:28",
-      "slika": "https://static2.mondo.rs/Thumbnail/1639197/jpeg/Brajan-Gruda.jpg?ts=2026-03-23T08:08:20"
+      "datum": "23. 03. 2026. 11:21",
+      "slika": "https://static2.mondo.rs/Thumbnail/1639360/jpeg/Dusan-Tadic-i-Veljko-Paunovic.jpg?ts=2026-03-23T12:25:41"
+    },
+    {
+      "naslov": "Промена на списку Србије: Вељко Пауновић позвао Србобранца у тим, а није Александар Катаи",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2204442/stefan-bukinac-na-spisku-srbije.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "23. 03. 2026. 11:14",
+      "slika": "https://static2.mondo.rs/Thumbnail/1639351/jpeg/Veljko-Paunovic-4-.jpg?ts=2026-03-23T12:13:01"
+    },
+    {
+      "naslov": "\"Морамо да користимо моћ пријатељства\": Тренера Реал Мадрида исмевају због чудне изјаве",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2204422/arbeloa-rekao-da-real-mora-da-koristi-moc-prijateljstva.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "23. 03. 2026. 11:00",
+      "slika": "https://static2.mondo.rs/Thumbnail/1639329/jpeg/Alvaro-Arbeloa.jpeg?ts=2026-03-23T11:59:53"
+    },
+    {
+      "naslov": "\"Подсећа ме на 1990. годину\": Погледајте нови дрес Хрватске, Модрић одмах истакао детаљ",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2204414/novi-dres-hrvatske-za-svetsko-prvenstvo-2026.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "23. 03. 2026. 10:40",
+      "slika": "https://static2.mondo.rs/Thumbnail/1639324/jpeg/Novi-dres-Hrvatske.jpg?ts=2026-03-23T11:38:39"
+    },
+    {
+      "naslov": "Уживо обраћање Вељка Пауновића: Како је убедио браћу Милинковић-Савић?",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2204351/konferencija-veljka-paunovica-selektora-reprezentacije-srbije.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "23. 03. 2026. 10:17",
+      "slika": "https://static2.mondo.rs/Thumbnail/1584070/jpeg/Veljko-Paunovic.jpeg?ts=2025-11-15T19:01:08"
+    },
+    {
+      "naslov": "У19 | ОМЛАДИНСКА СЕЛЕКЦИЈА СРБИЈЕ НА ОКУПУ ПРЕД СТАРТ ДРУГОГ КРУГА КВАЛИФИКАЦИЈА ЗА ЕВРОПСКО ПРВЕНСТВО (ВИДЕО)",
+      "opis": "Омладинска (У-19) репрезентација Србије окупила се у недељу у вечерњим сатима у Београду пред старт завршног круга квалификација за Европско првенство. Изабраници селектора Гордана Петрића данас путују у Португал, где...",
+      "url": "https://fss.rs/u19-omladinska-selekcija-srbije-na-okupu-pred-start-drugog-kruga-kvalifikacija-za-evropsko-prvenstvo-video/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "22. 03. 2026. 23:35",
+      "slika": null
     },
     {
       "naslov": "ДИРЕКТОР РАНКО СТОЈИЋ И КООРДИНАТОР ПРЕДРАГ РОГАН УГОСТИЛИ ДЕЛЕГАЦИЈУ ФК КИКИНДА",
@@ -172,33 +208,6 @@
       "logo": "fss.rs",
       "datum": "22. 03. 2026. 18:43",
       "slika": null
-    },
-    {
-      "naslov": "Манчестер сити одржао час фудбала Арсеналу: Пехар иде у руке Пепа Гвардиоле",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2204158/mancester-siti-pobedio-arsenal-u-liga-kupu.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "22. 03. 2026. 18:34",
-      "slika": "https://static2.mondo.rs/Thumbnail/1638945/jpeg/Arsenal-Mancester-Siti-13-.jpg?ts=2026-03-22T19:27:35"
-    },
-    {
-      "naslov": "Драма у Атини, Лука Јовић се срушио: Камера одмах снимила забринуту Софију Милошевић",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2204148/luka-jovic-doziveo-povredu-sofija-milosevic-zabrinuta.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "22. 03. 2026. 18:01",
-      "slika": "https://static2.mondo.rs/Thumbnail/1638929/jpeg/Sofija-Milosevic-zabrinuta-zbog-Luke-Jovica.jpeg?ts=2026-03-22T18:48:49"
-    },
-    {
-      "naslov": "Лудница на Бановом брду у 90+6', Лалатовић је ово хтео: Цео тим Чукаричког улетео на терен на дебију Јакшића",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2204138/cukaricki-pobedio-zeleznicar-na-debiju-marka-jaksica.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "22. 03. 2026. 17:33",
-      "slika": "https://static2.mondo.rs/Thumbnail/1638927/jpeg/Cukaricki-pobedio-Zeleznicar-u-96-minutu-na-debiju-Marka-Jaksica.jpeg?ts=2026-03-22T18:30:42"
     },
     {
       "naslov": "WУ17 | ВИСОК ПОРАЗ ОД ИСЛАНДА ЗА КРАЈ КВАЛИФИКАЦИЈА",
@@ -225,15 +234,6 @@
       "izvor": "ФСС",
       "logo": "fss.rs",
       "datum": "20. 03. 2026. 11:08",
-      "slika": null
-    },
-    {
-      "naslov": "У19 | СЕЛЕКТОР ГОРДАН ПЕТРИЋ ОДАБРАО ИГРАЧЕ ЗА ЗАВРШНИ КРУГ КВАЛИФИКАЦИЈА ЗА ЕВРОПСКО ПРВЕНСТВО",
-      "opis": "Омладинска (У-19) репрезентација Србије у периоду од 25. до 31. марта одиграће три утакмице другог, завршног круга квалификација за Европско првенство, које се у јуну ове године одржава у Велсу....",
-      "url": "https://fss.rs/u19-selektor-gordan-petric-saopstio-spisak-igraca-za-zavrsni-krug-kvalifikacija-za-evropsko-prvenstvo-u-portugalu/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "20. 03. 2026. 10:11",
       "slika": null
     }
   ],
