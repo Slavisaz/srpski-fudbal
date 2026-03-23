@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-03-23T18:13:28.715355+00:00",
-  "azurirano_sr": "23. 03. 2026. у 18:13",
+  "azurirano": "2026-03-23T20:09:18.973378+00:00",
+  "azurirano_sr": "23. 03. 2026. у 20:09",
   "vesti": [
     {
       "naslov": "Најплеменитији подвиг",
@@ -8,7 +8,25 @@
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 18:13",
+      "datum": "23. 03. 2026. 20:09",
+      "slika": null
+    },
+    {
+      "naslov": "ФИФА ШОКИРАЛА МНОГЕ! Ново правило: ДВЕ ЖЕНЕ морају да буду у сваком стручном штабу репрезентације!",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588994/fifa-najnovije-vesti-zenski-fudbal-novo-pravilo-propis-dve-zene-moraju-budu-strucnom-stabu-reprezentacije-jedna-bude-selektor-ili-pomocnik",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "23. 03. 2026. 20:09",
+      "slika": null
+    },
+    {
+      "naslov": "НА ДИБИДУС НОВОМ ПОЧЕТКУ! Вељко Пауновић окупио \"орлове\", фудбалери Србије крећу на шампиона Европе!",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1589064/fudbalska-reprezentacija-srbije-najnovije-vesti-trening-sergej-milinkovic-savic-vanja-fss-stara-pazova-povratak-reprezentaciju-selektor-veljko-paunovic-spanija-saudijska-arabija",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "23. 03. 2026. 20:09",
       "slika": null
     },
     {
@@ -17,7 +35,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1589031/operacija-fudbaler-prelom-ruke-nigerija-napadac-galatasaraj-liga-sampiona-viktor-osimen-operisan",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 18:13",
+      "datum": "23. 03. 2026. 20:09",
       "slika": null
     },
     {
@@ -26,34 +44,16 @@
       "url": "https://www.novosti.rs/sport/fudbal/1589016/fudbalska-reprezentacija-srbije-najnovije-vesti-sergej-milinkovic-savic-vanja-dolazak-fss-stara-pazova-povratak-reprezentaciju-fotografije-selektor-veljko-paunovic-spisak-igraca-spanija",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 18:13",
-      "slika": null
-    },
-    {
-      "naslov": "ФУДБАЛ ЗАВИЈЕН У ЦРНО! Био је велика нада, само се срушио и умро!",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1589047/fudbal-zavijen-crno-bio-velika-nada-samo-srusio-umro",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 18:13",
-      "slika": null
-    },
-    {
-      "naslov": "ЗВЕЗДА ДИРЕКТНО У ЛИГИ ШАМПИОНА?! Црвено-бели веома близу циља! Ово је доказ томе!",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1589037/crvena-zvezda-liga-sampiona-direktan-plasman-rivali-zvezde-ligu-sampiona-prvenstva-evropi",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 18:13",
+      "datum": "23. 03. 2026. 20:09",
       "slika": null
     },
     {
       "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/239800/mladi-fudbaleri-srbije-okupili-se-u-staroj-pazovi-uoci-puta-u-antaliju/vest",
+      "url": "https://www.tanjug.rs/sport/fudbal/239824/denaro-gatuzo-imamo-veliku-sansu-moramo-da-razmisljamo-samo-o-utakmici-protiv-severne-irske/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "23. 03. 2026. 18:10",
+      "datum": "23. 03. 2026. 20:06",
       "slika": null
     },
     {
@@ -62,7 +62,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 18:10",
+      "datum": "23. 03. 2026. 20:06",
       "slika": null
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 18:10",
+      "datum": "23. 03. 2026. 20:06",
       "slika": null
     },
     {
@@ -80,7 +80,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 18:10",
+      "datum": "23. 03. 2026. 20:06",
       "slika": null
     },
     {
@@ -89,20 +89,38 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 18:10",
+      "datum": "23. 03. 2026. 20:06",
       "slika": null
     },
     {
-      "naslov": "Бук нови спортски директор Милионера",
+      "naslov": "Гинисов рекорд у Мексико Ситију пред Мондијал",
       "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241380/fudbal/velika-petorka/buk-novi-sportski-direktor-milionera",
+      "url": "https://zurnal.politika.rs/scc/clanak/241382/fudbal/sirom-planete/ginisov-rekord-u-meksiko-sitiju-pred-mondijal",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 18:10",
+      "datum": "23. 03. 2026. 20:06",
       "slika": null
     },
     {
-      "naslov": "ПРВИ ТРЕНИНГ ОРЛОВА ПРЕД ДУЕЛ СА ШПАНИЈОМ, 27. МАРТА У ВИЉАРЕАЛУ",
+      "naslov": "Србија урадила први тренинг пред пријатељске мечеве: Пауновић окупио светске шампионе у Пазови",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2204729/reprezentacija-srbije-uradila-trening-pred-prijateljske-meceve.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "23. 03. 2026. 19:19",
+      "slika": "https://static2.mondo.rs/Thumbnail/1639682/jpeg/Veljko-Paunovic-Predrag-Rajkovic-Vanja-Milinkovic-Savic.jpg?ts=2026-03-23T19:59:37"
+    },
+    {
+      "naslov": "\"Склонио је нашег играча из тима због порекла\": Селектор БиХ загрмео на конференцији за медије",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2204707/sergej-barbarez-sklonjen-je-iz-tima-zbog-porekla.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "23. 03. 2026. 18:09",
+      "slika": "https://static2.mondo.rs/Thumbnail/1639628/jpeg/Sergej-Barbarez.jpeg?ts=2026-03-23T19:05:50"
+    },
+    {
+      "naslov": "ПРВИ ТРЕНИНГ ОРЛОВА ПРЕД ДУЕЛ СА ШПАНИЈОМ, 27. МАРТА У ВИЉАРЕАЛУ (ВИДЕО)",
       "opis": "Репрезентација Србије почела је припреме за мартовске провере, против Шпаније у Виљареалу 27. марта и сусрет са Саудијском Арабијом који се игра 31. марта у Бачкој Тополи. Током дана играчи...",
       "url": "https://fss.rs/prvi-trening-orlova-pred-duel-sa-spanijom-27-marta-u-viljarealu/",
       "izvor": "ФСС",
@@ -138,25 +156,7 @@
       "slika": "https://static2.mondo.rs/Thumbnail/1639563/jpeg/Sergej-i-Vanja-Milinkovic-Savic.jpg?ts=2026-03-23T16:53:55"
     },
     {
-      "naslov": "Породична трагедија Игора Тудора: Јавили му чим је доживео нови пораз с Тотенхемом",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2204642/igoru-tudoru-preminuo-otac.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "23. 03. 2026. 15:36",
-      "slika": "https://static2.mondo.rs/Thumbnail/1639554/jpeg/Igor-Tudor.jpg?ts=2026-03-23T16:28:52"
-    },
-    {
-      "naslov": "Цела Босна се дигла због Јове Лукића из Шапца: Због тога је Барбарез данас свима \"запушио уста\"",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2204604/ko-je-jovo-lukic-novi-edin-dzeko-u-bih.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "23. 03. 2026. 15:01",
-      "slika": "https://static2.mondo.rs/Thumbnail/1639518/jpeg/Jovo-Lukic-i-Sergej-Barbarez.jpg?ts=2026-03-23T15:59:37"
-    },
-    {
-      "naslov": "У21 | ОРЛИЋИ НА ОКУПУ ПРЕД ПУТ У АНТАЛИЈУ: ТРЕНИНГ И ИЗЈАВЕ СЕЛЕКТОРА МИРКОВИЋА, КОЛАРЕВИЋА И ТЕГЕЛТИЈЕ",
+      "naslov": "У21 | ОРЛИЋИ НА ОКУПУ ПРЕД ПУТ У АНТАЛИЈУ: ТРЕНИНГ И ИЗЈАВЕ СЕЛЕКТОРА МИРКОВИЋА, КОЛАРЕВИЋА И ТЕГЕЛТИЈЕ (ВИДЕО)",
       "opis": "Млада (У-21) репрезентација Србије окупила се у Спортском центру Фудбалског савеза Србије и започела припреме за утакмицу пријатељског карактера са У-23 селекцијом Киргистана, која је очекује у Анталији 26. марта....",
       "url": "https://fss.rs/u21-orlici-na-okupu-pred-put-u-antaliju-trening-i-izjave-selektora-mirkovica-kolarevica-i-tegeltije/",
       "izvor": "ФСС",
