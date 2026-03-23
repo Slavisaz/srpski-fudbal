@@ -1,59 +1,32 @@
 {
-  "azurirano": "2026-03-23T05:49:06.812639+00:00",
-  "azurirano_sr": "23. 03. 2026. у 05:49",
+  "azurirano": "2026-03-23T08:39:03.393081+00:00",
+  "azurirano_sr": "23. 03. 2026. у 08:39",
   "vesti": [
-    {
-      "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
-      "opis": "",
-      "url": "https://www.rts.rs/rts/informator-o-radu.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "23. 03. 2026. 05:49",
-      "slika": null
-    },
-    {
-      "naslov": "Дигитални предузетник",
-      "opis": "",
-      "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "23. 03. 2026. 05:49",
-      "slika": null
-    },
-    {
-      "naslov": "За мале велике хероје",
-      "opis": "",
-      "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "23. 03. 2026. 05:49",
-      "slika": null
-    },
-    {
-      "naslov": "Подела бодова у Фиренци, Интер без тријумфа на трећем мечу заредом",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910966/fjorentina-inter-remi-serija-a.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "23. 03. 2026. 05:49",
-      "slika": null
-    },
-    {
-      "naslov": "\"Мадрилењо\" после преокрета припао Реалу",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910964/madrilenjo-posle-preokreta-pripao-realu.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "23. 03. 2026. 05:49",
-      "slika": null
-    },
     {
       "naslov": "Најплеменитији подвиг",
       "opis": "",
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 05:49",
+      "datum": "23. 03. 2026. 08:39",
+      "slika": null
+    },
+    {
+      "naslov": "ФУДБАЛСКИ ЗЕМЉЈОТРЕС! Лажна држава Косово краде играча од 30.000.000 евра",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588722/fudbalski-zemljotres-lazna-drzava-kosovo-krade-igraca-30-000-000-evra",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "23. 03. 2026. 08:39",
+      "slika": null
+    },
+    {
+      "naslov": "ПА, ДОКЛЕ ВИШЕ? Стгле нове лоше вести у Хумску",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588693/partizan-najnovije-vesti-ibrahim-zubairu-fudbalski-transfer",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "23. 03. 2026. 08:39",
       "slika": null
     },
     {
@@ -62,7 +35,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588690/igor-tudor-najnovije-vesti-preminuo-otac-totenhem-druga-liga",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 05:49",
+      "datum": "23. 03. 2026. 08:39",
       "slika": null
     },
     {
@@ -71,25 +44,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588653/dimitri-paje-kraj-karijere-premijer-liga-najnovije-vesti",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 05:49",
-      "slika": null
-    },
-    {
-      "naslov": "УЧИТЕЉЈ НАДИГРАО УЧЕНИКА НА ВЕМБЛИЈУ: Манчестер сити савладао Арсенал у финалу Лига Купа",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588631/arsenal-mancester-siti-najnovije-vesti-engleski-liga-kup",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 05:49",
-      "slika": null
-    },
-    {
-      "naslov": "СПЕКТАКЛ НА БРДУ: Чукарички у голеади тријумфовао пред гостовање Партизану у Суперлиги Србије",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588627/cukaricki-zeleznicar-pancevo-superliga-srbije-najnovije-vesti",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 05:49",
+      "datum": "23. 03. 2026. 08:39",
       "slika": null
     },
     {
@@ -98,7 +53,7 @@
       "url": "https://www.tanjug.rs/sport/fudbal/239567/fudbaleri-reala-pobedili-atletiko-u-derbi-mecu-29-kola-la-lige/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "23. 03. 2026. 05:48",
+      "datum": "23. 03. 2026. 08:38",
       "slika": null
     },
     {
@@ -107,7 +62,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 05:48",
+      "datum": "23. 03. 2026. 08:38",
       "slika": null
     },
     {
@@ -116,7 +71,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 05:48",
+      "datum": "23. 03. 2026. 08:38",
       "slika": null
     },
     {
@@ -125,7 +80,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 05:48",
+      "datum": "23. 03. 2026. 08:38",
       "slika": null
     },
     {
@@ -134,17 +89,80 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 05:48",
+      "datum": "23. 03. 2026. 08:38",
       "slika": null
     },
     {
-      "naslov": "Уигравање Орлова за Лигу нација",
+      "naslov": "Матеус већи професионалац од Жулија Сезара",
       "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241265/fudbal/reprezentacija/uigravanje-orlova-za-ligu-nacija",
+      "url": "https://zurnal.politika.rs/scc/clanak/241272/fudbal/zvezda/mateus-veci-profesionalac-od-zulija-sezara",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 05:48",
+      "datum": "23. 03. 2026. 08:38",
       "slika": null
+    },
+    {
+      "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
+      "opis": "",
+      "url": "https://www.rts.rs/rts/informator-o-radu.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "23. 03. 2026. 08:38",
+      "slika": null
+    },
+    {
+      "naslov": "Дигитални предузетник",
+      "opis": "",
+      "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "23. 03. 2026. 08:38",
+      "slika": null
+    },
+    {
+      "naslov": "За мале велике хероје",
+      "opis": "",
+      "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "23. 03. 2026. 08:38",
+      "slika": null
+    },
+    {
+      "naslov": "Подела бодова у Фиренци, Интер без тријумфа на трећем мечу заредом",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910966/fjorentina-inter-remi-serija-a.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "23. 03. 2026. 08:38",
+      "slika": null
+    },
+    {
+      "naslov": "\"Мадрилењо\" после преокрета припао Реалу",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910964/madrilenjo-posle-preokreta-pripao-realu.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "23. 03. 2026. 08:38",
+      "slika": null
+    },
+    {
+      "naslov": "Ко је девојка у загрљају Пепа Гвардиоле? Чим се окренула, сви су схватили о коме се ради",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2204282/ko-je-devojka-u-zagrljaju-pepa-gvardiole.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "23. 03. 2026. 08:32",
+      "slika": "https://static2.mondo.rs/Thumbnail/1639213/jpeg/Pep-Gvardiola.jpeg?ts=2026-03-23T09:11:24"
+    },
+    {
+      "naslov": "Кошта 30.000.000 евра и играће за тзв. Косово: Краду га Албанији и европској фудбалској сили",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2204263/kosovo-krade-reprezentativca-nemacke-brajan-gruda.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "23. 03. 2026. 07:28",
+      "slika": "https://static2.mondo.rs/Thumbnail/1639197/jpeg/Brajan-Gruda.jpg?ts=2026-03-23T08:08:20"
     },
     {
       "naslov": "ДИРЕКТОР РАНКО СТОЈИЋ И КООРДИНАТОР ПРЕДРАГ РОГАН УГОСТИЛИ ДЕЛЕГАЦИЈУ ФК КИКИНДА",
@@ -181,24 +199,6 @@
       "logo": "mondo.rs",
       "datum": "22. 03. 2026. 17:33",
       "slika": "https://static2.mondo.rs/Thumbnail/1638927/jpeg/Cukaricki-pobedio-Zeleznicar-u-96-minutu-na-debiju-Marka-Jaksica.jpeg?ts=2026-03-22T18:30:42"
-    },
-    {
-      "naslov": "Лука Јовић опет пробушио мрежу: Марко Николић са клупе гледао како га води ка титули",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2204135/luka-jovic-dao-gol-vodi-aek-ka-tituli.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "22. 03. 2026. 17:25",
-      "slika": "https://static2.mondo.rs/Thumbnail/1638904/jpeg/Luka-Jovic-gol-za-AEK-4-.jpg?ts=2026-03-22T18:13:21"
-    },
-    {
-      "naslov": "Најдуговечнијег тренера на свету нико не сме да смени: 32 године води исти клуб, ово је његова тајна",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2204126/dzomo-sono-32-godine-vodi-isti-klub.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "22. 03. 2026. 17:13",
-      "slika": "https://static2.mondo.rs/Thumbnail/1638900/jpeg/Dzomo-Sono.jpeg?ts=2026-03-22T18:09:08"
     },
     {
       "naslov": "WУ17 | ВИСОК ПОРАЗ ОД ИСЛАНДА ЗА КРАЈ КВАЛИФИКАЦИЈА",
