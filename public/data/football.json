@@ -1,113 +1,23 @@
 {
-  "azurirano": "2026-03-23T21:55:44.047447+00:00",
-  "azurirano_sr": "23. 03. 2026. у 21:55",
+  "azurirano": "2026-03-23T23:07:26.495166+00:00",
+  "azurirano_sr": "23. 03. 2026. у 23:07",
   "vesti": [
-    {
-      "naslov": "Најновије вести",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/239848/mbape-oporavio-sam-se-od-povrede-kolena-spreman-sam-100-odsto/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "23. 03. 2026. 21:55",
-      "slika": null
-    },
-    {
-      "naslov": "Српски клубови у Европи",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 21:55",
-      "slika": null
-    },
-    {
-      "naslov": "Српски тенисери и тенисерке",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 21:55",
-      "slika": null
-    },
-    {
-      "naslov": "Српски спортисти на ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 21:55",
-      "slika": null
-    },
-    {
-      "naslov": "Борилачки спортови ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 21:55",
-      "slika": null
-    },
-    {
-      "naslov": "Зидан селектор, одбио је Манчестер, Јувентус...",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241398/fudbal/sirom-planete/zidan-selektor-odbio-je-mancester-juventus",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "23. 03. 2026. 21:55",
-      "slika": null
-    },
-    {
-      "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
-      "opis": "",
-      "url": "https://www.rts.rs/rts/informator-o-radu.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "23. 03. 2026. 21:55",
-      "slika": null
-    },
-    {
-      "naslov": "Дигитални предузетник",
-      "opis": "",
-      "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "23. 03. 2026. 21:55",
-      "slika": null
-    },
-    {
-      "naslov": "За мале велике хероје",
-      "opis": "",
-      "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "23. 03. 2026. 21:55",
-      "slika": null
-    },
-    {
-      "naslov": "Фудбалер Галатасараја Виктор Осимен успешно оперисан",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/5911574/fudbaler-galatasaraja-viktor-osimen-uspesno-operisan.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "23. 03. 2026. 21:55",
-      "slika": null
-    },
-    {
-      "naslov": "Ерлинг Халанд не игра на пријатељском мечу против Холандије",
-      "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/5911498/erling-haland-ne-igra-na-prijateljskom-mecu-protiv-holandije.html",
-      "izvor": "РТС",
-      "logo": "rts.rs",
-      "datum": "23. 03. 2026. 21:55",
-      "slika": null
-    },
     {
       "naslov": "Најплеменитији подвиг",
       "opis": "",
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 21:55",
+      "datum": "23. 03. 2026. 23:07",
+      "slika": null
+    },
+    {
+      "naslov": "ХУМСКА ОСТАЛА БЕЗ ВЕЋ ВИĐЕНОГ НОВЦА! Пропао трансфер фудбалера Партизана!",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588839/partizan-ostao-bez-novca-propao-transfer-turska-corum-fudbaler-ibrahim-zubairu",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "23. 03. 2026. 23:07",
       "slika": null
     },
     {
@@ -116,7 +26,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1589059/karlo-anceloti-poziv-fudbalska-reprezentacija-brazila-debitant-kaiki-bruno",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 21:55",
+      "datum": "23. 03. 2026. 23:07",
       "slika": null
     },
     {
@@ -125,7 +35,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1589100/spanija-najnovije-vesti-matijas-almeida-nije-vise-trener-fudbalera-sevilje-sevilla-primera-laliga-fudbalski-transferi",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 21:55",
+      "datum": "23. 03. 2026. 23:07",
       "slika": null
     },
     {
@@ -134,17 +44,71 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588994/fifa-najnovije-vesti-zenski-fudbal-novo-pravilo-propis-dve-zene-moraju-budu-strucnom-stabu-reprezentacije-jedna-bude-selektor-ili-pomocnik",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 21:55",
+      "datum": "23. 03. 2026. 23:07",
       "slika": null
     },
     {
-      "naslov": "НА ДИБИДУС НОВОМ ПОЧЕТКУ! Вељко Пауновић окупио \"орлове\", фудбалери Србије крећу на шампиона Европе!",
+      "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1589064/fudbalska-reprezentacija-srbije-najnovije-vesti-trening-sergej-milinkovic-savic-vanja-fss-stara-pazova-povratak-reprezentaciju-selektor-veljko-paunovic-spanija-saudijska-arabija",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "23. 03. 2026. 21:55",
+      "url": "https://www.tanjug.rs/sport/fudbal/239848/mbape-oporavio-sam-se-od-povrede-kolena-spreman-sam-100-odsto/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "23. 03. 2026. 23:04",
       "slika": null
+    },
+    {
+      "naslov": "Српски клубови у Европи",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "23. 03. 2026. 23:04",
+      "slika": null
+    },
+    {
+      "naslov": "Српски тенисери и тенисерке",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "23. 03. 2026. 23:04",
+      "slika": null
+    },
+    {
+      "naslov": "Српски спортисти на ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "23. 03. 2026. 23:04",
+      "slika": null
+    },
+    {
+      "naslov": "Борилачки спортови ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "23. 03. 2026. 23:04",
+      "slika": null
+    },
+    {
+      "naslov": "Халилхоџић ушао у историју француског фудбала",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/clanak/241430/fudbal/velika-petorka/halilhodzic-usao-u-istoriju-francuskog-fudbala",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "23. 03. 2026. 23:04",
+      "slika": null
+    },
+    {
+      "naslov": "\"Да сам раније отишао из Партизана - не бих био у затвору\": Драган Đурић без длаке на језику о судбини у Хумској",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2204781/dragan-djuric-kaze-da-ne-bi-bio-u-zatvoru-da-je-ranije-napustio-partizan.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "23. 03. 2026. 22:24",
+      "slika": "https://static2.mondo.rs/Thumbnail/1639729/jpeg/Dragan-Djuric.jpeg?ts=2026-03-23T23:21:59"
     },
     {
       "naslov": "Србија урадила први тренинг пред пријатељске мечеве: Пауновић окупио светске шампионе у Пазови",
@@ -190,15 +154,6 @@
       "logo": "mondo.rs",
       "datum": "23. 03. 2026. 16:16",
       "slika": "https://static2.mondo.rs/Thumbnail/1639585/jpeg/Nemanja-Gudelj.jpg?ts=2026-03-23T17:09:42"
-    },
-    {
-      "naslov": "Сергеј и Вања се вратили у репрезентацију Србије: Насмејани од ува до ува, само кад нема Пиксија",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2204654/sergej-i-vanja-opet-u-reprezentaciji-srbije.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "23. 03. 2026. 15:55",
-      "slika": "https://static2.mondo.rs/Thumbnail/1639563/jpeg/Sergej-i-Vanja-Milinkovic-Savic.jpg?ts=2026-03-23T16:53:55"
     },
     {
       "naslov": "У21 | ОРЛИЋИ НА ОКУПУ ПРЕД ПУТ У АНТАЛИЈУ: ТРЕНИНГ И ИЗЈАВЕ СЕЛЕКТОРА МИРКОВИЋА, КОЛАРЕВИЋА И ТЕГЕЛТИЈЕ (ВИДЕО)",
