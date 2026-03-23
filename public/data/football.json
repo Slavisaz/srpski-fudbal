@@ -1,68 +1,14 @@
 {
-  "azurirano": "2026-03-22T23:56:36.045196+00:00",
-  "azurirano_sr": "22. 03. 2026. у 23:56",
+  "azurirano": "2026-03-23T05:49:06.812639+00:00",
+  "azurirano_sr": "23. 03. 2026. у 05:49",
   "vesti": [
-    {
-      "naslov": "Најновије вести",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/239511/remi-u-backoj-topoli-fudbaleri-tsc-a-i-kragujevackog-radnickog-odigrali-bez-golova/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "22. 03. 2026. 23:56",
-      "slika": null
-    },
-    {
-      "naslov": "Српски клубови у Европи",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "22. 03. 2026. 23:56",
-      "slika": null
-    },
-    {
-      "naslov": "Српски тенисери и тенисерке",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "22. 03. 2026. 23:56",
-      "slika": null
-    },
-    {
-      "naslov": "Српски спортисти на ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "22. 03. 2026. 23:56",
-      "slika": null
-    },
-    {
-      "naslov": "Борилачки спортови ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "22. 03. 2026. 23:56",
-      "slika": null
-    },
-    {
-      "naslov": "Реми Фјорентине и Интера (ВИДЕО)",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241330/fudbal/velika-petorka/remi-fjorentine-i-intera-video",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "22. 03. 2026. 23:56",
-      "slika": null
-    },
     {
       "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
       "opis": "",
       "url": "https://www.rts.rs/rts/informator-o-radu.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "22. 03. 2026. 23:56",
+      "datum": "23. 03. 2026. 05:49",
       "slika": null
     },
     {
@@ -71,7 +17,7 @@
       "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "22. 03. 2026. 23:56",
+      "datum": "23. 03. 2026. 05:49",
       "slika": null
     },
     {
@@ -80,7 +26,7 @@
       "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "22. 03. 2026. 23:56",
+      "datum": "23. 03. 2026. 05:49",
       "slika": null
     },
     {
@@ -89,7 +35,7 @@
       "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910966/fjorentina-inter-remi-serija-a.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "22. 03. 2026. 23:56",
+      "datum": "23. 03. 2026. 05:49",
       "slika": null
     },
     {
@@ -98,7 +44,7 @@
       "url": "https://www.rts.rs/sport/fudbal/lige_petice/5910964/madrilenjo-posle-preokreta-pripao-realu.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "22. 03. 2026. 23:56",
+      "datum": "23. 03. 2026. 05:49",
       "slika": null
     },
     {
@@ -107,7 +53,16 @@
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "22. 03. 2026. 23:56",
+      "datum": "23. 03. 2026. 05:49",
+      "slika": null
+    },
+    {
+      "naslov": "А НАКОН ШАМАРА! Хрвата задесила породична трагедија",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588690/igor-tudor-najnovije-vesti-preminuo-otac-totenhem-druga-liga",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "23. 03. 2026. 05:49",
       "slika": null
     },
     {
@@ -116,7 +71,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588653/dimitri-paje-kraj-karijere-premijer-liga-najnovije-vesti",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "22. 03. 2026. 23:56",
+      "datum": "23. 03. 2026. 05:49",
       "slika": null
     },
     {
@@ -125,7 +80,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588631/arsenal-mancester-siti-najnovije-vesti-engleski-liga-kup",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "22. 03. 2026. 23:56",
+      "datum": "23. 03. 2026. 05:49",
       "slika": null
     },
     {
@@ -134,16 +89,61 @@
       "url": "https://www.novosti.rs/sport/fudbal/1588627/cukaricki-zeleznicar-pancevo-superliga-srbije-najnovije-vesti",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "22. 03. 2026. 23:56",
+      "datum": "23. 03. 2026. 05:49",
       "slika": null
     },
     {
-      "naslov": "СВИ СУ БЕСНИ НА ХРВАТА! Легенда клуба оплела: \"Рекао сам да је превара\"!",
+      "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588605/hrvat-bruka-premijer-liga-totenhem-izgubio-legende-kluba-dzejmi-hara-ostro-igor-tudor",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "22. 03. 2026. 23:56",
+      "url": "https://www.tanjug.rs/sport/fudbal/239567/fudbaleri-reala-pobedili-atletiko-u-derbi-mecu-29-kola-la-lige/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "23. 03. 2026. 05:48",
+      "slika": null
+    },
+    {
+      "naslov": "Српски клубови у Европи",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "23. 03. 2026. 05:48",
+      "slika": null
+    },
+    {
+      "naslov": "Српски тенисери и тенисерке",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "23. 03. 2026. 05:48",
+      "slika": null
+    },
+    {
+      "naslov": "Српски спортисти на ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "23. 03. 2026. 05:48",
+      "slika": null
+    },
+    {
+      "naslov": "Борилачки спортови ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "23. 03. 2026. 05:48",
+      "slika": null
+    },
+    {
+      "naslov": "Уигравање Орлова за Лигу нација",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/clanak/241265/fudbal/reprezentacija/uigravanje-orlova-za-ligu-nacija",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "23. 03. 2026. 05:48",
       "slika": null
     },
     {
