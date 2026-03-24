@@ -684,8 +684,54 @@ async function safeApi(path, demo) {
     throw new Error('Empty response');
   } catch(e) {
     console.error('API greška:', e.message);
-    // Worker nije dostupan — vrati demo podatke
-    console.warn('Worker nedostupan, koristim demo podatke');
+    // Direktan Worker poziv kao fallback (bez adaptera — vrati sirove podatke demo-kompatibilno)
+    try {
+      let workerPath = '';
+      if (path.includes('standings'))        workerPath = '/tabela';
+      else if (path.includes('events/last')) workerPath = '/rezultati';
+      else if (path.includes('events/next')) workerPath = '/raspored';
+      else if (path.includes('events/live')) workerPath = '/uzivo';
+      if (workerPath) {
+        const r2 = await fetch(WORKER_URL + workerPath, {signal: AbortSignal.timeout(8000)});
+        if (r2.ok) {
+          const data = await r2.json();
+          // Isti adapter kao u api()
+          if (workerPath === '/tabela' && data.tabela) {
+            return { standings: [{ rows: data.tabela.map(t => ({
+              position: t.poz,
+              team: { name: t.klub, form: (t.forma||'').split('').map(f=>f==='П'?'W':f==='Н'?'D':f==='И'?'L':f).join('') },
+              matches: t.u, wins: t.p, draws: t.n, losses: t.i,
+              scoreDiffFormatted: t.gd, points: t.bod,
+            })) }] };
+          }
+          if (workerPath === '/rezultati' && data.zadnje) {
+            return { events: (data.zadnje.utakmice||[]).map(u => ({
+              id: u.id, roundInfo: { round: data.zadnje.kolo },
+              status: { type: u.statusTip || (u.golD !== null ? 'finished' : 'notstarted') },
+              homeTeam: { name: u.domacin }, awayTeam: { name: u.gost },
+              homeScore: { current: u.golD }, awayScore: { current: u.golG },
+              startTimestamp: null, time: { played: u.minut },
+            })) };
+          }
+          if (workerPath === '/raspored' && data.sledece) {
+            return { events: data.sledece.map(u => ({
+              id: u.id, roundInfo: { round: u.kolo }, status: { type: 'notstarted' },
+              homeTeam: { name: u.domacin }, awayTeam: { name: u.gost },
+              startTimestamp: u.timestamp,
+            })) };
+          }
+          if (workerPath === '/uzivo' && data.uzivo) {
+            return { events: data.uzivo.map(u => ({
+              tournament: { uniqueTournament: { id: TID } },
+              homeTeam: { name: u.domacin }, awayTeam: { name: u.gost },
+              homeScore: { current: u.golD }, awayScore: { current: u.golG },
+              status: { type: 'inprogress' }, time: { played: u.minut },
+            })) };
+          }
+        }
+      }
+    } catch(e3) { console.warn('Worker fallback neuspešan:', e3.message); }
+    console.warn('Svi API pokušaji neuspešni, koristim demo');
     return demo;
   }
 }
