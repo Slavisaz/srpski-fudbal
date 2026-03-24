@@ -369,6 +369,34 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 <!-- MAIN -->
 <div class="main">
 
+  <!-- NAJNOVIJE VESTI — TOP -->
+  <div id="vesti" class="sec" style="margin-bottom:20px">
+    <div class="sh">
+      <div class="sh-bar"></div>
+      <h2 class="sh-ttl">Најновије вести</h2>
+      <span class="sh-ts" id="vesti-azurirano" style="margin-left:auto"></span>
+    </div>
+
+    <!-- Tanjug live RSS cards — 3 naslova -->
+    <div id="tanjug-cards" style="margin-bottom:14px">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px">
+        <span style="font-family:var(--fu);font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red)">● Танјуг</span>
+        <span id="tanjug-ts" style="font-family:var(--fu);font-size:10px;color:var(--txt4)"></span>
+      </div>
+      <div id="tanjug-list" class="tv-list" style="border:1px solid var(--bdr);border-radius:10px;overflow:hidden">
+        <div style="padding:14px;color:#9ca3af;font-size:12px">⏳ Учитавам Танјуг вести...</div>
+      </div>
+    </div>
+
+    <!-- Mondo + other sources -->
+    <div id="main-vesti-list" class="tv-list" style="border:1px solid var(--bdr);border-radius:10px;overflow:hidden">
+      <div style="padding:14px;color:#9ca3af;font-size:12px">Учитавам вести...</div>
+    </div>
+  </div>
+
+  <!-- AD 1 -->
+  <div class="adbox">Google AdSense — 728×90</div>
+
   <!-- SUPERLIGA -->
   <div id="superliga" class="sec">
     <div class="slw" id="slw">
@@ -393,34 +421,6 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
   <div class="slw-panel" id="slw-panel-ras"><div class="slw-spin" id="slw-spin-ras"></div><div id="slw-out-ras"></div></div>
 
   <div class="slw-ft">Подаци: <a href="https://apifootball.com" target="_blank">APIfootball.com</a> · <a href="https://srpskifudbal.com" target="_blank">СрпскиФудбал.com</a> · <span id="slw-ts">Учитавам...</span></div>
-  </div>
-
-  <!-- AD 1 -->
-  <div class="adbox">Google AdSense — 728×90</div>
-
-  <!-- NAJNOVIJE VESTI — between ads -->
-  <div id="vesti" class="sec" style="margin-bottom:20px">
-    <div class="sh">
-      <div class="sh-bar"></div>
-      <h2 class="sh-ttl">Најновије вести</h2>
-      <span class="sh-ts" id="vesti-azurirano" style="margin-left:auto"></span>
-    </div>
-
-    <!-- Tanjug live RSS cards — 3 naslova -->
-    <div id="tanjug-cards" style="margin-bottom:14px">
-      <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px">
-        <span style="font-family:var(--fu);font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red)">● Танјуг</span>
-        <span id="tanjug-ts" style="font-family:var(--fu);font-size:10px;color:var(--txt4)"></span>
-      </div>
-      <div id="tanjug-list" class="tv-list" style="border:1px solid var(--bdr);border-radius:10px;overflow:hidden">
-        <div style="padding:14px;color:#9ca3af;font-size:12px">⏳ Учитавам Танјуг вести...</div>
-      </div>
-    </div>
-
-    <!-- Mondo + other sources -->
-    <div id="main-vesti-list" class="tv-list" style="border:1px solid var(--bdr);border-radius:10px;overflow:hidden">
-      <div style="padding:14px;color:#9ca3af;font-size:12px">Учитавам вести...</div>
-    </div>
   </div>
 
   <!-- AD 2 -->
@@ -1032,10 +1032,12 @@ function latinicaUCirilicu(t) {
 
 function listaItemV(v) {
   const url = (v.url||'#').replace(/'/g,'%27');
-  const imgHtml = v.slika
-    ? `<div class="tv-img"><img src="${v.slika}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'"></div>`
+  let slika = v.slika || '';
+  if (slika.includes('mondo.rs')) slika = 'https://superliga-api.slavisa-cf8.workers.dev/img?url=' + encodeURIComponent(slika);
+  const imgHtml = slika
+    ? `<div class="tv-img"><img src="${slika}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'"></div>`
     : '';
-  const hasImg = !!v.slika;
+  const hasImg = !!slika;
   return `<a class="tv-item" href="${url}" target="_blank" rel="noopener" style="${hasImg?'':'padding-left:14px'}">
     ${imgHtml}
     <div class="tv-body">
