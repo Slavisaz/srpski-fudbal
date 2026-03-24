@@ -418,10 +418,8 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
     </div>
 
     <!-- Mondo + other sources -->
-    <div class="widget" style="margin:0">
-      <div id="main-vesti-list">
-        <div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Учитавам вести...</div>
-      </div>
+    <div id="main-vesti-list" class="tv-list" style="border:1px solid var(--bdr);border-radius:10px;overflow:hidden">
+      <div style="padding:14px;color:#9ca3af;font-size:12px">Учитавам вести...</div>
     </div>
   </div>
 
@@ -1034,11 +1032,18 @@ function latinicaUCirilicu(t) {
 
 function listaItemV(v) {
   const url = (v.url||'#').replace(/'/g,'%27');
-  return '<a class="sv-item" href="' + url + '" target="_blank" rel="noopener">' +
-    '<div class="sv-tag">' + (v.naziv||v.izvor||'') + '</div>' +
-    '<div class="sv-ttl">' + (v.naslov||'').slice(0,95) + '</div>' +
-    '<div class="sv-dt">' + (v.datum||'') + '</div>' +
-    '</a>';
+  const imgHtml = v.slika
+    ? `<div class="tv-img"><img src="${v.slika}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'"></div>`
+    : '';
+  const hasImg = !!v.slika;
+  return `<a class="tv-item" href="${url}" target="_blank" rel="noopener" style="${hasImg?'':'padding-left:14px'}">
+    ${imgHtml}
+    <div class="tv-body">
+      <div class="tv-src">${v.naziv||v.izvor||''}</div>
+      <div class="tv-ttl">${(v.naslov||'').slice(0,95)}</div>
+      <div class="tv-dt">${v.datum||''}</div>
+    </div>
+  </a>`;
 }
 
 // Tanjug RSS card renderer
@@ -1104,8 +1109,7 @@ async function ucitajTanjug() {
 }
 
 const STATICNE_VESTI = [
-  { naziv:'Танјуг', naslov:'Танјуг — Фудбалске вести', url:'https://www.tanjug.rs/sport/fudbal', datum:'' },
-  { naziv:'РТС',    naslov:'РТС Спорт — Фудбалске вести', url:'https://www.rts.rs/sport/fudbal.html', datum:'' },
+  { naziv:'РТС', naslov:'РТС Спорт — Фудбалске вести', url:'https://www.rts.rs/sport/fudbal.html', datum:'', slika:null },
 ];
 
 let sveVesti = [];
@@ -1116,7 +1120,7 @@ async function ucitajVesti() {
 
   // Odmah prikaži statične linkove
   if (mainEl) mainEl.innerHTML = STATICNE_VESTI.map(listaItemV).join('') +
-    '<div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">⏳ Учитавам вести...</div>';
+    '<div style="color:#9ca3af;font-size:12px;padding:14px">⏳ Учитавам вести...</div>';
 
   // Čitaj football.json sa GitHub (brzo, bez proxy-ja, ažurira se svake 30 min)
   try {
@@ -1146,7 +1150,6 @@ async function ucitajVesti() {
 
   } catch(e) {
     console.warn('Vesti greška:', e.message);
-    // Fallback: samo statični linkovi
     sveVesti = STATICNE_VESTI;
     if (mainEl) mainEl.innerHTML = STATICNE_VESTI.map(listaItemV).join('');
     const now = new Date();
