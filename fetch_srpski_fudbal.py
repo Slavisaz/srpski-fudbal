@@ -105,11 +105,11 @@ RSS_FEEDOVI = [
         "backup": None,
         "logo":  "mondo.rs",
         "uvek":  True,
-        "max":   5,
+        "max":   8,
     },
     {
         "naziv": "Танјуг",
-        "url":   "SCRAPE:https://www.tanjug.rs/sport/fudbal",
+        "url":   "https://www.tanjug.rs/rss/sport/fudbal",
         "backup": None,
         "logo":  "tanjug.rs",
         "uvek":  True,
@@ -590,7 +590,7 @@ def main():
 
     # 4. Ubaci vesti direktno u index.html
     print("\n📰 Upisujem vesti u index.html...")
-    # ubaci_u_html — disabled, vesti su dinamičke
+    ubaci_u_html(vesti, azurirano_sr)
 
     print("\n🏁 Završeno!")
 
