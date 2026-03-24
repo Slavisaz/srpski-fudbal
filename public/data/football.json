@@ -1,59 +1,14 @@
 {
-  "azurirano": "2026-03-24T05:16:44.375789+00:00",
-  "azurirano_sr": "24. 03. 2026. у 05:16",
+  "azurirano": "2026-03-24T08:03:50.503343+00:00",
+  "azurirano_sr": "24. 03. 2026. у 08:03",
   "vesti": [
-    {
-      "naslov": "Најплеменитији подвиг",
-      "opis": "",
-      "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "24. 03. 2026. 05:16",
-      "slika": null
-    },
-    {
-      "naslov": "ХУМСКА ОСТАЛА БЕЗ ВЕЋ ВИĐЕНОГ НОВЦА! Пропао трансфер фудбалера Партизана!",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588839/partizan-ostao-bez-novca-propao-transfer-turska-corum-fudbaler-ibrahim-zubairu",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "24. 03. 2026. 05:16",
-      "slika": null
-    },
-    {
-      "naslov": "ДОН КАРЛИТО МОРАО ДА РЕАГУЈЕ! Ново име на списку Бразилаца!",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1589059/karlo-anceloti-poziv-fudbalska-reprezentacija-brazila-debitant-kaiki-bruno",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "24. 03. 2026. 05:16",
-      "slika": null
-    },
-    {
-      "naslov": "СМЕНА КОЈА ЈЕ ОЂЈЕКНУЛА! Трофејни клуб дао отказ тренеру",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1589100/spanija-najnovije-vesti-matijas-almeida-nije-vise-trener-fudbalera-sevilje-sevilla-primera-laliga-fudbalski-transferi",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "24. 03. 2026. 05:16",
-      "slika": null
-    },
-    {
-      "naslov": "ФИФА ШОКИРАЛА МНОГЕ! Ново правило: ДВЕ ЖЕНЕ морају да буду у сваком стручном штабу репрезентације!",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1588994/fifa-najnovije-vesti-zenski-fudbal-novo-pravilo-propis-dve-zene-moraju-budu-strucnom-stabu-reprezentacije-jedna-bude-selektor-ili-pomocnik",
-      "izvor": "Новости",
-      "logo": "novosti.rs",
-      "datum": "24. 03. 2026. 05:16",
-      "slika": null
-    },
     {
       "naslov": "Најновије вести",
       "opis": "",
       "url": "https://www.tanjug.rs/sport/fudbal/239848/mbape-oporavio-sam-se-od-povrede-kolena-spreman-sam-100-odsto/vest",
       "izvor": "Танјуг",
       "logo": "tanjug.rs",
-      "datum": "24. 03. 2026. 05:14",
+      "datum": "24. 03. 2026. 08:03",
       "slika": null
     },
     {
@@ -62,7 +17,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "24. 03. 2026. 05:14",
+      "datum": "24. 03. 2026. 08:03",
       "slika": null
     },
     {
@@ -71,7 +26,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "24. 03. 2026. 05:14",
+      "datum": "24. 03. 2026. 08:03",
       "slika": null
     },
     {
@@ -80,7 +35,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "24. 03. 2026. 05:14",
+      "datum": "24. 03. 2026. 08:03",
       "slika": null
     },
     {
@@ -89,16 +44,106 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "24. 03. 2026. 05:14",
+      "datum": "24. 03. 2026. 08:03",
       "slika": null
     },
     {
-      "naslov": "Халилхоџић ушао у историју француског фудбала",
+      "naslov": "Катаи стрелац са 12.827 дана",
       "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241430/fudbal/velika-petorka/halilhodzic-usao-u-istoriju-francuskog-fudbala",
+      "url": "https://zurnal.politika.rs/scc/clanak/241403/fudbal/zvezda/katai-strelac-sa-12-827-dana",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "24. 03. 2026. 05:14",
+      "datum": "24. 03. 2026. 08:03",
+      "slika": null
+    },
+    {
+      "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
+      "opis": "",
+      "url": "https://www.rts.rs/rts/informator-o-radu.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "24. 03. 2026. 08:03",
+      "slika": null
+    },
+    {
+      "naslov": "Дигитални предузетник",
+      "opis": "",
+      "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "24. 03. 2026. 08:03",
+      "slika": null
+    },
+    {
+      "naslov": "За мале велике хероје",
+      "opis": "",
+      "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "24. 03. 2026. 08:03",
+      "slika": null
+    },
+    {
+      "naslov": "Фудбалер Галатасараја Виктор Осимен успешно оперисан",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/5911574/fudbaler-galatasaraja-viktor-osimen-uspesno-operisan.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "24. 03. 2026. 08:03",
+      "slika": null
+    },
+    {
+      "naslov": "Ерлинг Халанд не игра на пријатељском мечу против Холандије",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/5911498/erling-haland-ne-igra-na-prijateljskom-mecu-protiv-holandije.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "24. 03. 2026. 08:03",
+      "slika": null
+    },
+    {
+      "naslov": "Најплеменитији подвиг",
+      "opis": "",
+      "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "24. 03. 2026. 08:03",
+      "slika": null
+    },
+    {
+      "naslov": "ОДЕ СТРАНАЦ ИЗ ЗВЕЗДЕ! Један од најбољих играча шампиона Србије потврдио одлазак са Маракане",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1589156/ode-stranac-zvezde-jedan-najboljih-igraca-sampiona-srbije-potvrdio-odlazak-marakane",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "24. 03. 2026. 08:03",
+      "slika": null
+    },
+    {
+      "naslov": "СТИГЛЕ ЛОШЕ ВЕСТИ НА МАРАКАНУ! Бивши тренер Партизана \"измимнирао\" Црвену звезду",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1589126/stigle-lose-vesti-marakanu-bivsi-trener-partizana-izmimnirao-crvenu-zvezdu",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "24. 03. 2026. 08:03",
+      "slika": null
+    },
+    {
+      "naslov": "ХУМСКА ОСТАЛА БЕЗ ВЕЋ ВИĐЕНОГ НОВЦА! Пропао трансфер фудбалера Партизана!",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1588839/partizan-ostao-bez-novca-propao-transfer-turska-corum-fudbaler-ibrahim-zubairu",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "24. 03. 2026. 08:03",
+      "slika": null
+    },
+    {
+      "naslov": "ДОН КАРЛИТО МОРАО ДА РЕАГУЈЕ! Ново име на списку Бразилаца!",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1589059/karlo-anceloti-poziv-fudbalska-reprezentacija-brazila-debitant-kaiki-bruno",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "24. 03. 2026. 08:03",
       "slika": null
     },
     {
