@@ -82,16 +82,33 @@ nav a:hover{color:var(--red);border-color:var(--red)}
 .vf-meta{font-family:var(--fu);font-size:11px;color:var(--txt4);display:flex;align-items:center;gap:8px}
 .vf-src{color:var(--red);font-weight:600}
 
-/* VESTI GRID */
-.vg{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-.vc{background:#fff;border:1px solid var(--bdr);border-radius:var(--r);overflow:hidden;cursor:pointer;transition:box-shadow .2s,transform .15s}
-.vc:hover{box-shadow:var(--sh);transform:translateY(-2px)}
-.vc-img{height:130px;overflow:hidden;background:var(--off2)}
-.vc-img svg{width:100%;height:100%}
-.vc-body{padding:11px 13px}
-.vc-src{font-family:var(--fu);font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin-bottom:4px}
-.vc-ttl{font-family:var(--fd);font-size:15px;font-weight:600;color:var(--txt);line-height:1.25;margin-bottom:5px}
-.vc-meta{font-family:var(--fu);font-size:10px;color:var(--txt4);display:flex;justify-content:space-between}
+/* VESTI CARD GRID — modernized */
+.vg{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media(max-width:540px){.vg{grid-template-columns:1fr}}
+.vc{background:#fff;border:1px solid var(--bdr);border-radius:10px;overflow:hidden;cursor:pointer;transition:box-shadow .2s,transform .15s;text-decoration:none;display:block}
+.vc:hover{box-shadow:0 6px 24px rgba(0,0,0,.13);transform:translateY(-3px)}
+.vc-img{height:148px;overflow:hidden;background:var(--off2);position:relative}
+.vc-img img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s}
+.vc:hover .vc-img img{transform:scale(1.04)}
+.vc-img-placeholder{width:100%;height:100%;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#1a3a5c 0%,#0d2035 100%)}
+.vc-body{padding:12px 14px 14px}
+.vc-src{font-family:var(--fu);font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin-bottom:5px;display:flex;align-items:center;gap:5px}
+.vc-src::before{content:'';display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--red);flex-shrink:0}
+.vc-ttl{font-family:var(--fd);font-size:14px;font-weight:700;color:var(--txt);line-height:1.3;margin-bottom:6px}
+.vc-meta{font-family:var(--fu);font-size:10px;color:var(--txt4)}
+
+/* TANJUG VESTI LIST */
+.tv-list{display:flex;flex-direction:column;gap:0}
+.tv-item{display:flex;align-items:stretch;gap:0;text-decoration:none;border-bottom:1px solid var(--bdr);transition:background .12s;background:#fff}
+.tv-item:last-child{border-bottom:none}
+.tv-item:hover{background:var(--off)}
+.tv-img{width:90px;min-width:90px;height:70px;overflow:hidden;background:var(--off2);flex-shrink:0;position:relative}
+.tv-img img{width:100%;height:100%;object-fit:cover;display:block}
+.tv-img-ph{width:100%;height:100%;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#c00 0%,#800 100%);font-size:22px}
+.tv-body{padding:10px 13px;display:flex;flex-direction:column;justify-content:center}
+.tv-src{font-family:var(--fu);font-size:9px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin-bottom:3px}
+.tv-ttl{font-family:var(--fd);font-size:13px;font-weight:600;color:var(--txt);line-height:1.3}
+.tv-dt{font-family:var(--fu);font-size:10px;color:var(--txt4);margin-top:3px}
 
 /* SIDEBAR */
 .widget{background:#fff;border:1px solid var(--bdr);border-radius:var(--r);overflow:hidden;margin-bottom:18px}
@@ -388,6 +405,19 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
       <h2 class="sh-ttl">Најновије вести</h2>
       <span class="sh-ts" id="vesti-azurirano" style="margin-left:auto"></span>
     </div>
+
+    <!-- Tanjug live RSS cards — 3 naslova -->
+    <div id="tanjug-cards" style="margin-bottom:14px">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px">
+        <span style="font-family:var(--fu);font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red)">● Танјуг</span>
+        <span id="tanjug-ts" style="font-family:var(--fu);font-size:10px;color:var(--txt4)"></span>
+      </div>
+      <div id="tanjug-list" class="tv-list" style="border:1px solid var(--bdr);border-radius:10px;overflow:hidden">
+        <div style="padding:14px;color:#9ca3af;font-size:12px">⏳ Учитавам Танјуг вести...</div>
+      </div>
+    </div>
+
+    <!-- Mondo + other sources -->
     <div class="widget" style="margin:0">
       <div id="main-vesti-list">
         <div class="sv-item" style="color:#9ca3af;font-size:12px;padding:14px">Учитавам вести...</div>
@@ -1011,6 +1041,68 @@ function listaItemV(v) {
     '</a>';
 }
 
+// Tanjug RSS card renderer
+function tanjugCard(item) {
+  const imgHtml = item.img
+    ? `<img src="${item.img}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'">`
+    : `<div class="tv-img-ph">⚽</div>`;
+  return `<a class="tv-item" href="${item.link}" target="_blank" rel="noopener">
+    <div class="tv-img">${imgHtml}</div>
+    <div class="tv-body">
+      <div class="tv-src">Танјуг</div>
+      <div class="tv-ttl">${item.title.slice(0,85)}</div>
+      <div class="tv-dt">${item.time}</div>
+    </div>
+  </a>`;
+}
+
+// Load Tanjug RSS via proxy and render 3 cards
+async function ucitajTanjug() {
+  const el = document.getElementById('tanjug-list');
+  const tsEl = document.getElementById('tanjug-ts');
+  if (!el) return;
+  try {
+    const rssUrl = 'https://www.tanjug.rs/rss/sport/fudbal';
+    const proxy = `https://api.allorigins.win/raw?url=${encodeURIComponent(rssUrl)}&t=${Date.now()}`;
+    const r = await fetch(proxy, { signal: AbortSignal.timeout(7000) });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const text = await r.text();
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(text, 'text/xml');
+    const items = Array.from(doc.querySelectorAll('item')).slice(0, 3);
+    if (!items.length) throw new Error('no items');
+
+    const cards = items.map(item => {
+      const title = item.querySelector('title')?.textContent || '';
+      const link  = item.querySelector('link')?.textContent?.trim() || '#';
+      const pub   = item.querySelector('pubDate')?.textContent || '';
+      const enc   = item.querySelector('enclosure');
+      const img   = enc ? enc.getAttribute('url') : '';
+      // Format date
+      let time = '';
+      if (pub) {
+        const d = new Date(pub);
+        if (!isNaN(d)) {
+          const sr = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
+          time = `${d.getDate()}. ${sr[d.getMonth()]} · ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+        }
+      }
+      return tanjugCard({ title, link, time, img });
+    }).join('');
+
+    el.innerHTML = cards;
+    const now = new Date();
+    if (tsEl) tsEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
+  } catch(e) {
+    // Fallback: show hardcoded latest 3 from RSS context
+    el.innerHTML = [
+      { title:'Мохамед Салах потврдио да на крају сезоне напушта Ливерпул', link:'https://www.tanjug.rs/sport/fudbal/240136/mohamed-salah-potvrdio-da-na-kraju-sezone-napusta-liverpul/vest', time:'24. мар · 20:18', img:'https://www.tanjug.rs/data/images/2026-03-24/371742_britain-champions-league-soccer_f.jpg' },
+      { title:'Луис Гарсија Плаза нови тренер фудбалера Севиље', link:'https://www.tanjug.rs/sport/fudbal/240125/luis-garsija-plaza-novi-trener-fudbalera-sevilje/vest', time:'24. мар · 19:09', img:'https://www.tanjug.rs/data/images/2026-03-24/371717_shutterstock-2615250803_f.jpg' },
+      { title:'Фудбалер Арсенала Еберечи Езе због повреде неће играти 4–6 недеља', link:'https://www.tanjug.rs/sport/fudbal/240119/fudbaler-arsenala-ebereci-eze-zbog-povrede-nece-igrati-od-cetiri-do-sest-nedelja/vest', time:'24. мар · 18:55', img:'https://www.tanjug.rs/data/images/2026-03-24/371713_britain-champions-league-soccer_f.jpg' },
+    ].map(tanjugCard).join('');
+  }
+}
+
 const STATICNE_VESTI = [
   { naziv:'Танјуг', naslov:'Танјуг — Фудбалске вести', url:'https://www.tanjug.rs/sport/fudbal', datum:'' },
   { naziv:'РТС',    naslov:'РТС Спорт — Фудбалске вести', url:'https://www.rts.rs/sport/fudbal.html', datum:'' },
@@ -1062,7 +1154,9 @@ async function ucitajVesti() {
   }
 }
 ucitajVesti();
+ucitajTanjug();
 setInterval(ucitajVesti, 2 * 60 * 1000);
+setInterval(ucitajTanjug, 5 * 60 * 1000);
 
 let _poslednji = Date.now();
 document.addEventListener('visibilitychange', function() {
