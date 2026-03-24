@@ -102,12 +102,12 @@ nav a:hover{color:var(--red);border-color:var(--red)}
 .tv-item{display:flex;align-items:stretch;gap:0;text-decoration:none;border-bottom:1px solid var(--bdr);transition:background .12s;background:#fff}
 .tv-item:last-child{border-bottom:none}
 .tv-item:hover{background:var(--off)}
-.tv-img{width:110px;min-width:110px;height:80px;overflow:hidden;background:var(--off2);flex-shrink:0;position:relative}
-.tv-img img{width:100%;height:100%;object-fit:cover;object-position:center top;display:block}
+.tv-img{width:90px;min-width:90px;height:70px;overflow:hidden;background:var(--off2);flex-shrink:0;position:relative}
+.tv-img img{width:100%;height:100%;object-fit:cover;display:block}
 .tv-img-ph{width:100%;height:100%;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#c00 0%,#800 100%);font-size:22px}
-.tv-body{padding:10px 14px;display:flex;flex-direction:column;justify-content:center;flex:1;min-width:0}
+.tv-body{padding:10px 13px;display:flex;flex-direction:column;justify-content:center}
 .tv-src{font-family:var(--fu);font-size:9px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin-bottom:3px}
-.tv-ttl{font-family:var(--fd);font-size:13px;font-weight:600;color:var(--txt);line-height:1.3;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.tv-ttl{font-family:var(--fd);font-size:13px;font-weight:600;color:var(--txt);line-height:1.3}
 .tv-dt{font-family:var(--fu);font-size:10px;color:var(--txt4);margin-top:3px}
 
 /* SIDEBAR */
@@ -1042,238 +1042,149 @@ function latinicaUCirilicu(t) {
 // Динамичне: Мондо вести из JSON-а
 // ═══════════════════════════════════════════════════
 
-// ═══════════════════════════════════════════════════
-// ВЕСТИ — Танјуг RSS + Мондо RSS (директно, са сликама)
-// ═══════════════════════════════════════════════════
-
-function imgSrc(url) {
+function proxyImg(url) {
   if (!url) return '';
-  // Local images saved by GitHub Actions — serve via GitHub raw
-  if (url.startsWith('public/data/images/')) {
-    return 'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/' + url;
-  }
-  // Route Mondo images through our Cloudflare Worker to bypass hotlink protection
+  // Proxy needed for sites with hotlink protection (e.g. mondo.rs)
   if (url.includes('mondo.rs') || url.includes('static2.mondo')) {
-    return WORKER_URL + '/img?url=' + encodeURIComponent(url);
+    return 'https://wsrv.nl/?url=' + encodeURIComponent(url) + '&w=120&h=80&fit=cover&output=webp';
   }
   return url;
 }
 
-// ── Латиница → Ћирилица транслитерација ─────────────────────────
-const _lat2cyr = [
-  ['lj','љ'],['nj','њ'],['dž','џ'],['Lj','Љ'],['Nj','Њ'],['Dž','Џ'],
-  ['LJ','ЉЈ'],['NJ','ЊЈ'],['DŽ','ЏЖ'],
-  ['š','ш'],['đ','ђ'],['č','ч'],['ć','ћ'],['ž','ж'],
-  ['Š','Ш'],['Đ','Ђ'],['Č','Ч'],['Ć','Ћ'],['Ž','Ж'],
-  ['a','а'],['b','б'],['c','ц'],['d','д'],['e','е'],['f','ф'],
-  ['g','г'],['h','х'],['i','и'],['j','ј'],['k','к'],['l','л'],
-  ['m','м'],['n','н'],['o','о'],['p','п'],['r','р'],['s','с'],
-  ['t','т'],['u','у'],['v','в'],['z','з'],
-  ['A','А'],['B','Б'],['C','Ц'],['D','Д'],['E','Е'],['F','Ф'],
-  ['G','Г'],['H','Х'],['I','И'],['J','Ј'],['K','К'],['L','Л'],
-  ['M','М'],['N','Н'],['O','О'],['P','П'],['R','Р'],['S','С'],
-  ['T','Т'],['U','У'],['V','В'],['Z','З'],
-];
-function toCyr(text) {
-  if (!text) return '';
-  // Only transliterate if text looks like Latin Serbian (has š,đ,č,ć,ž or mostly ASCII)
-  const hasSrLatin = /[šđčćžŠĐČĆŽ]/.test(text);
-  const hasCyrillic = /[\u0400-\u04FF]/.test(text);
-  if (hasCyrillic && !hasSrLatin) return text; // already Cyrillic
-  if (!hasSrLatin && !hasCyrillic) {
-    // Pure ASCII — likely Latin Serbian, transliterate
-    let r = text;
-    for (const [l, c] of _lat2cyr) r = r.split(l).join(c);
-    return r;
-  }
-  if (hasSrLatin) {
-    let r = text;
-    for (const [l, c] of _lat2cyr) r = r.split(l).join(c);
-    return r;
-  }
-  return text;
-}
-
-function rssCardHTML(item, izvor) {
-  const src = imgSrc(item.img);
-  const imgHtml = src
-    ? `<img src="${src}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'">`
-    : `<div class="tv-img-ph">⚽</div>`;
-  return `<a class="tv-item" href="${item.link}" target="_blank" rel="noopener">
-    <div class="tv-img">${imgHtml}</div>
+function listaItemV(v) {
+  const url = (v.url||'#').replace(/'/g,'%27');
+  const imgSrc = proxyImg(v.slika);
+  const imgHtml = imgSrc
+    ? `<div class="tv-img"><img src="${imgSrc}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'"></div>`
+    : `<div class="tv-img"><div class="tv-img-ph">⚽</div></div>`;
+  return `<a class="tv-item" href="${url}" target="_blank" rel="noopener">
+    ${imgHtml}
     <div class="tv-body">
-      <div class="tv-src">${izvor}</div>
-      <div class="tv-ttl">${toCyr(item.title||'')}</div>
-      <div class="tv-dt">${item.time||''}</div>
+      <div class="tv-src">${v.naziv||v.izvor||''}</div>
+      <div class="tv-ttl">${(v.naslov||'').slice(0,90)}</div>
+      <div class="tv-dt">${v.datum||''}</div>
     </div>
   </a>`;
 }
 
-function parseRssItems(xmlText, max) {
-  const doc = new DOMParser().parseFromString(xmlText, 'text/xml');
-  const sr = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
-  return Array.from(doc.querySelectorAll('item')).slice(0, max).map(item => {
-    const title = toCyr(item.querySelector('title')?.textContent || '');
-    const link  = item.querySelector('link')?.textContent?.trim() || '#';
-    const pub   = item.querySelector('pubDate')?.textContent || '';
-    const enc   = item.querySelector('enclosure');
-    const img   = enc ? (enc.getAttribute('url') || '') : '';
-    let time = '';
-    if (pub) {
-      const d = new Date(pub);
-      if (!isNaN(d)) time = `${d.getDate()}. ${sr[d.getMonth()]} · ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
-    }
-    return { title, link, img, time };
-  });
+// Tanjug RSS card renderer
+function tanjugCard(item) {
+  const imgHtml = item.img
+    ? `<img src="${item.img}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'">`
+    : `<div class="tv-img-ph">⚽</div>`;
+  return `<a class="tv-item" href="${item.link}" target="_blank" rel="noopener">
+    <div class="tv-img">${imgHtml}</div>
+    <div class="tv-body">
+      <div class="tv-src">Танјуг</div>
+      <div class="tv-ttl">${item.title.slice(0,85)}</div>
+      <div class="tv-dt">${item.time}</div>
+    </div>
+  </a>`;
 }
 
-// ── In-memory cache (survives tab switches, cleared on reload) ──
-const _cache = {};
-function cacheSet(k, v) { _cache[k] = { v, t: Date.now() }; }
-function cacheGet(k, maxAgeMs) {
-  const c = _cache[k];
-  return (c && Date.now() - c.t < maxAgeMs) ? c.v : null;
-}
-
-async function fetchRss(url, timeout) {
-  const proxies = [
-    `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}&t=${Date.now()}`,
-    `https://corsproxy.io/?${encodeURIComponent(url)}`,
-  ];
-  for (const proxy of proxies) {
-    try {
-      const r = await fetch(proxy, { signal: AbortSignal.timeout(timeout) });
-      if (!r.ok) continue;
-      const text = await r.text();
-      if (text.includes('<item>')) return text;
-    } catch(e) { continue; }
-  }
-  throw new Error('All proxies failed');
-}
-
-function renderVesti(el, items, izvor) {
-  if (!el || !items.length) return;
-  el.innerHTML = items.map(i => rssCardHTML(i, izvor)).join('');
-}
-
-function updateTs(tsEl) {
-  if (!tsEl) return;
-  const now = new Date();
-  tsEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
-}
-
-// ── Load football.json (fast GitHub CDN, no proxy needed) ────────
-async function loadFootballJson() {
-  const cached = cacheGet('fjson', 5 * 60 * 1000);
-  if (cached) return cached;
-  const r = await fetch(
-    'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json',
-    { signal: AbortSignal.timeout(6000) }
-  );
-  if (!r.ok) throw new Error('JSON ' + r.status);
-  const d = await r.json();
-  cacheSet('fjson', d);
-  return d;
-}
-
-// ── Tanjug: show football.json fallback instantly, refresh from RSS ──
+// Load Tanjug RSS via proxy and render 3 cards
 async function ucitajTanjug() {
-  const el  = document.getElementById('tanjug-list');
+  const el = document.getElementById('tanjug-list');
   const tsEl = document.getElementById('tanjug-ts');
   if (!el) return;
-
-  // 1. Show cached render immediately (no spinner)
-  const cachedHtml = cacheGet('tanjug_html', 10 * 60 * 1000);
-  if (cachedHtml) { el.innerHTML = cachedHtml; updateTs(tsEl); return; }
-
-  // 2. Show football.json Tanjug entries while RSS loads
   try {
-    const jd = await loadFootballJson();
-    const tanjugItems = (jd.vesti||[])
-      .filter(v => (v.izvor||'').includes('Танјуг'))
-      .slice(0, 3)
-      .map(v => ({ title: toCyr(v.naslov||''), link: v.url||'#', img: v.slika||'', time: v.datum||'' }));
-    if (tanjugItems.length) {
-      el.innerHTML = tanjugItems.map(i => rssCardHTML(i, 'Танјуг')).join('');
-      updateTs(tsEl);
-    }
-  } catch(e) {}
+    const rssUrl = 'https://www.tanjug.rs/rss/sport/fudbal';
+    const proxy = `https://api.allorigins.win/raw?url=${encodeURIComponent(rssUrl)}&t=${Date.now()}`;
+    const r = await fetch(proxy, { signal: AbortSignal.timeout(7000) });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const text = await r.text();
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(text, 'text/xml');
+    const items = Array.from(doc.querySelectorAll('item')).slice(0, 3);
+    if (!items.length) throw new Error('no items');
 
-  // 3. Try RSS in background — update if successful
-  try {
-    const text = await fetchRss('https://www.tanjug.rs/rss/sport/fudbal', 6000);
-    const items = parseRssItems(text, 3);
-    if (items.length) {
-      const html = items.map(i => rssCardHTML(i, 'Танјуг')).join('');
-      el.innerHTML = html;
-      cacheSet('tanjug_html', html);
-      updateTs(tsEl);
-    }
+    const cards = items.map(item => {
+      const title = item.querySelector('title')?.textContent || '';
+      const link  = item.querySelector('link')?.textContent?.trim() || '#';
+      const pub   = item.querySelector('pubDate')?.textContent || '';
+      const enc   = item.querySelector('enclosure');
+      const img   = enc ? enc.getAttribute('url') : '';
+      // Format date
+      let time = '';
+      if (pub) {
+        const d = new Date(pub);
+        if (!isNaN(d)) {
+          const sr = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
+          time = `${d.getDate()}. ${sr[d.getMonth()]} · ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+        }
+      }
+      return tanjugCard({ title, link, time, img });
+    }).join('');
+
+    el.innerHTML = cards;
+    const now = new Date();
+    if (tsEl) tsEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
   } catch(e) {
-    // Already showing fallback — show hardcoded if nothing rendered
-    if (!el.querySelector('.tv-item')) {
-      el.innerHTML = [
-        { title:'Мохамед Салах потврдио да на крају сезоне напушта Ливерпул', link:'https://www.tanjug.rs/sport/fudbal/240136/mohamed-salah-potvrdio-da-na-kraju-sezone-napusta-liverpul/vest', time:'24. мар · 20:18', img:'https://www.tanjug.rs/data/images/2026-03-24/371742_britain-champions-league-soccer_f.jpg' },
-        { title:'Луис Гарсија Плаза нови тренер фудбалера Севиље', link:'https://www.tanjug.rs/sport/fudbal/240125/luis-garsija-plaza-novi-trener-fudbalera-sevilje/vest', time:'24. мар · 19:09', img:'https://www.tanjug.rs/data/images/2026-03-24/371717_shutterstock-2615250803_f.jpg' },
-        { title:'Фудбалер Арсенала Еберечи Езе због повреде неће играти 4–6 недеља', link:'https://www.tanjug.rs/sport/fudbal/240119/fudbaler-arsenala-ebereci-eze-zbog-povrede-nece-igrati-od-cetiri-do-sest-nedelja/vest', time:'24. мар · 18:55', img:'https://www.tanjug.rs/data/images/2026-03-24/371713_britain-champions-league-soccer_f.jpg' },
-      ].map(i => rssCardHTML(i, 'Танјуг')).join('');
-      updateTs(tsEl);
-    }
+    // Fallback: show hardcoded latest 3 from RSS context
+    el.innerHTML = [
+      { title:'Мохамед Салах потврдио да на крају сезоне напушта Ливерпул', link:'https://www.tanjug.rs/sport/fudbal/240136/mohamed-salah-potvrdio-da-na-kraju-sezone-napusta-liverpul/vest', time:'24. мар · 20:18', img:'https://www.tanjug.rs/data/images/2026-03-24/371742_britain-champions-league-soccer_f.jpg' },
+      { title:'Луис Гарсија Плаза нови тренер фудбалера Севиље', link:'https://www.tanjug.rs/sport/fudbal/240125/luis-garsija-plaza-novi-trener-fudbalera-sevilje/vest', time:'24. мар · 19:09', img:'https://www.tanjug.rs/data/images/2026-03-24/371717_shutterstock-2615250803_f.jpg' },
+      { title:'Фудбалер Арсенала Еберечи Езе због повреде неће играти 4–6 недеља', link:'https://www.tanjug.rs/sport/fudbal/240119/fudbaler-arsenala-ebereci-eze-zbog-povrede-nece-igrati-od-cetiri-do-sest-nedelja/vest', time:'24. мар · 18:55', img:'https://www.tanjug.rs/data/images/2026-03-24/371713_britain-champions-league-soccer_f.jpg' },
+    ].map(tanjugCard).join('');
   }
-}
-
-// ── Mondo: show football.json instantly, try RSS in background ───
-async function ucitajMondo() {
-  const el  = document.getElementById('main-vesti-list');
-  const azEl = document.getElementById('vesti-azurirano');
-  if (!el) return;
-
-  // 1. Show cached render immediately
-  const cachedHtml = cacheGet('mondo_html', 5 * 60 * 1000);
-  if (cachedHtml) { el.innerHTML = cachedHtml; updateTs(azEl); return; }
-
-  // 2. Show football.json Mondo entries immediately (no spinner!)
-  try {
-    const jd = await loadFootballJson();
-    const mondo = (jd.vesti||[]).filter(v=>(v.izvor||'').includes('Мондо')).slice(0,3);
-    if (mondo.length) {
-      el.innerHTML = mondo.map(v => rssCardHTML(
-        { title: v.naslov||'', link: v.url||'#', img: v.slika||'', time: v.datum||'' }, 'Мондо'
-      )).join('');
-      updateTs(azEl);
-    }
-  } catch(e) {}
-
-  // 3. Try Mondo RSS in background — update silently if successful
-  try {
-    const text = await fetchRss('https://www.mondo.rs/rss/sport/fudbal', 8000);
-    const items = parseRssItems(text, 3);
-    if (items.length) {
-      const html = items.map(i => rssCardHTML(i, 'Мондо')).join('');
-      el.innerHTML = html;
-      cacheSet('mondo_html', html);
-      updateTs(azEl);
-    }
-  } catch(e) { /* keep football.json data */ }
 }
 
 const STATICNE_VESTI = [];
+
 let sveVesti = [];
 
 async function ucitajVesti() {
-  await Promise.all([ucitajTanjug(), ucitajMondo()]);
-}
+  const mainEl = document.getElementById('main-vesti-list');
+  const azEl   = document.getElementById('vesti-azurirano');
 
+  // Odmah prikaži statične linkove
+  if (mainEl) mainEl.innerHTML = STATICNE_VESTI.map(listaItemV).join('') +
+    '<div style="color:#9ca3af;font-size:12px;padding:14px">⏳ Учитавам вести...</div>';
+
+  // Čitaj football.json sa GitHub (brzo, bez proxy-ja, ažurira se svake 30 min)
+  try {
+    const jr = await fetch(
+      'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json',
+      { signal: AbortSignal.timeout(6000), cache: 'no-store' }
+    );
+    if (!jr.ok) throw new Error('HTTP ' + jr.status);
+    const jd = await jr.json();
+
+    // Uzmi Мондо vesti iz JSON-а (max 3)
+    const mondoVesti = (jd.vesti || [])
+      .filter(v => (v.izvor||'').includes('Мондо') || (v.izvor||'').includes('Mondo'))
+      .slice(0, 3)
+      .map(v => ({ naziv: v.izvor||'Мондо', naslov: v.naslov||'', url: v.url||'#', datum: v.datum||'' }));
+
+    // Ako nema Мондо vesti, uzmi prvih 3 bez obzira na izvor
+    const dinamicne = mondoVesti.length > 0
+      ? mondoVesti
+      : (jd.vesti || []).slice(0, 3).map(v => ({ naziv: v.izvor||'', naslov: v.naslov||'', url: v.url||'#', datum: v.datum||'' }));
+
+    sveVesti = [...STATICNE_VESTI, ...dinamicne];
+    if (mainEl) mainEl.innerHTML = sveVesti.map(listaItemV).join('');
+
+    const now = new Date();
+    if (azEl) azEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
+
+  } catch(e) {
+    console.warn('Vesti greška:', e.message);
+    sveVesti = STATICNE_VESTI;
+    if (mainEl) mainEl.innerHTML = STATICNE_VESTI.map(listaItemV).join('');
+    const now = new Date();
+    if (azEl) azEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
+  }
+}
 ucitajVesti();
+ucitajTanjug();
+setInterval(ucitajVesti, 2 * 60 * 1000);
 setInterval(ucitajTanjug, 5 * 60 * 1000);
-setInterval(ucitajMondo,  3 * 60 * 1000);
 
 let _poslednji = Date.now();
 document.addEventListener('visibilitychange', function() {
   if (document.visibilityState === 'visible' && Date.now() - _poslednji > 60000) {
     _poslednji = Date.now();
-    ucitajTanjug();
-    ucitajMondo();
+    ucitajVesti();
     ucitajTicker();
   }
 });

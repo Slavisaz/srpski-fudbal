@@ -1,51 +1,240 @@
 {
-  "azurirano": "2026-03-24T22:02:41.470025+00:00",
-  "azurirano_sr": "24. 03. 2026. у 22:02",
+  "azurirano": "2026-03-24T15:18:50.733947+00:00",
+  "azurirano_sr": "24. 03. 2026. у 15:18",
   "vesti": [
     {
-      "naslov": "Mohamed Salah potvrdio da na kraju sezone napušta Liverpul",
+      "naslov": "Најновије вести",
       "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/240136/mohamed-salah-potvrdio-da-na-kraju-sezone-napusta-liverpul/vest",
+      "url": "https://www.tanjug.rs/sport/fudbal/239995/ceska-desetine-uhapsenih-zbog-namestanja-meceva-i-korupcije/vest",
       "izvor": "Танјуг",
-      "logo": "www.tanjug.rs",
-      "datum": "24. мар. 2026. 19:18",
-      "slika": "public/data/images/3f9c62a87b4041b6.jpg"
+      "logo": "tanjug.rs",
+      "datum": "24. 03. 2026. 15:18",
+      "slika": null
     },
     {
-      "naslov": "Luis Garsija Plaza novi trener fudbalera Sevilje",
+      "naslov": "Српски клубови у Европи",
       "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/240125/luis-garsija-plaza-novi-trener-fudbalera-sevilje/vest",
-      "izvor": "Танјуг",
-      "logo": "www.tanjug.rs",
-      "datum": "24. мар. 2026. 18:09",
-      "slika": "public/data/images/4649951a489d5521.jpg"
+      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "24. 03. 2026. 15:18",
+      "slika": null
     },
     {
-      "naslov": "Fudbaler Arsenala Ebereči Eze zbog povrede neće igrati od četiri do šest nedelja",
+      "naslov": "Српски тенисери и тенисерке",
       "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/240119/fudbaler-arsenala-ebereci-eze-zbog-povrede-nece-igrati-od-cetiri-do-sest-nedelja/vest",
-      "izvor": "Танјуг",
-      "logo": "www.tanjug.rs",
-      "datum": "24. мар. 2026. 17:55",
-      "slika": "public/data/images/7562cdeafa0ff1f3.jpg"
+      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "24. 03. 2026. 15:18",
+      "slika": null
     },
     {
-      "naslov": "NAJBOLjI ASISTENT U LIGI : Lazar Ranđelović krilni napadač Vojvodine",
+      "naslov": "Српски спортисти на ОИ",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1589306/najbolji-asistent-ligi-lazar-randjelovic-krilni-napadac-vojvodine",
+      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "24. 03. 2026. 15:18",
+      "slika": null
+    },
+    {
+      "naslov": "Борилачки спортови ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "24. 03. 2026. 15:18",
+      "slika": null
+    },
+    {
+      "naslov": "Сукоб у Мостару, једна особа је теже повређена (ВИДЕО)",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/clanak/241482/fudbal/eks-ju/sukob-u-mostaru-jedna-osoba-je-teze-povredena-video",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "24. 03. 2026. 15:18",
+      "slika": null
+    },
+    {
+      "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
+      "opis": "",
+      "url": "https://www.rts.rs/rts/informator-o-radu.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "24. 03. 2026. 15:18",
+      "slika": null
+    },
+    {
+      "naslov": "Дигитални предузетник",
+      "opis": "",
+      "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "24. 03. 2026. 15:18",
+      "slika": null
+    },
+    {
+      "naslov": "За мале велике хероје",
+      "opis": "",
+      "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "24. 03. 2026. 15:18",
+      "slika": null
+    },
+    {
+      "naslov": "Гризман напушта Атлетико Мадрид, каријеру наставља у Орланду",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/5912171/grizman-u-orlandu.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "24. 03. 2026. 15:18",
+      "slika": null
+    },
+    {
+      "naslov": "Чешка полиција привела више десетина особа због намештања фудбалских утакмица",
+      "opis": "",
+      "url": "https://www.rts.rs/sport/fudbal/5912057/ceska-fudbal-policija-namestanje-tundra.html",
+      "izvor": "РТС",
+      "logo": "rts.rs",
+      "datum": "24. 03. 2026. 15:18",
+      "slika": null
+    },
+    {
+      "naslov": "Најплеменитији подвиг",
+      "opis": "",
+      "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
-      "logo": "www.novosti.rs",
-      "datum": "24. мар. 2026. 22:00",
-      "slika": "public/data/images/605a0c8521150457.jpg"
+      "logo": "novosti.rs",
+      "datum": "24. 03. 2026. 15:18",
+      "slika": null
     },
     {
-      "naslov": "PRED FINIŠ ŠAMPIONSKE TRKE! Panika u premijerligašu, mesec dana bez jednog od najboljih!",
+      "naslov": "АМА, ДОСТА ЈЕ БИЛО МАЛТРЕТМАНА! \"Мали\" клуб устао против шампиона Европе и одушевио цео свет борбом против неправде!",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1589458/povreda-fudbaler-premijer-liga-fudbalski-klub-arsenal-mesec-dana-ebereci-eze-pauzira",
+      "url": "https://www.novosti.rs/sport/fudbal/1589322/liga-sampiona-najnovije-vesti-lans-odbio-pomeri-utakmicu-psz-pari-sen-zermen-trazio-odlaganje-zbog-liverpul-uefa-champions-league-borba-protiv-nepravde-pomeranje-meceva-velikih-klubova",
       "izvor": "Новости",
-      "logo": "www.novosti.rs",
-      "datum": "24. мар. 2026. 21:50",
-      "slika": "public/data/images/c09c5e046558341b.jpg"
+      "logo": "novosti.rs",
+      "datum": "24. 03. 2026. 15:18",
+      "slika": null
+    },
+    {
+      "naslov": "\"АКО ЈЕ МАРАДОНА БИО БОГ, ОНДА ЈЕ ОН ИСУС!\" Син Дијега Арманда о новом \"свецу\" Напуља",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1589374/dijego-armando-maradona-skot-mektominej-napoli-najnovije-vesti",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "24. 03. 2026. 15:18",
+      "slika": null
+    },
+    {
+      "naslov": "\"ТИ СИ ЈЕДНО СМЕЋЕ\"! Хрват који је одавао тајне Србима доживео брутално понижење",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1589344/jedno-smece-hrvat-koji-odavao-tajne-srbima-doziveo-brutalno-ponizenje",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "24. 03. 2026. 15:18",
+      "slika": null
+    },
+    {
+      "naslov": "ДА ЛИ ЋЕ ИГРАТИ НА СВЕТСКОМ ПРВЕНСТВУ? Славни Аргентинац објавио кад завршава каријеру!",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1589337/kraj-karijere-slavni-fudbaler-objavio-kad-zavrsava-karijeru-agentinac-povlacenje-nikolas-otamendi",
+      "izvor": "Новости",
+      "logo": "novosti.rs",
+      "datum": "24. 03. 2026. 15:18",
+      "slika": null
+    },
+    {
+      "naslov": "Душан Влаховић није седео скрштених руку: Пао договор и то кад смо се најмање надали",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2205167/dusan-vlahovic-ostaje-u-juventusu.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "24. 03. 2026. 15:02",
+      "slika": "https://static2.mondo.rs/Thumbnail/1640113/jpeg/Dusan-Vlahovic.jpg?ts=2026-03-24T15:50:13"
+    },
+    {
+      "naslov": "\"Моја жена кува и пере, иако смо милионери\": Златан Ибрахимовић открио зашто у његовој кући нема луксузног живота",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2205150/zlatan-ibrahimovic-moja-zena-kuva-i-pegla.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "24. 03. 2026. 14:35",
+      "slika": "https://static2.mondo.rs/Thumbnail/1640098/jpeg/Zlatan-Ibrahimovic-i-Helena-Seger.jpg?ts=2026-03-24T15:05:20"
+    },
+    {
+      "naslov": "Хаос какав се не памти у фудбалу: 47 људи и клубова умешано у скандал",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2205108/47-ljudi-i-klubova-pod-istragom-u-ceskoj.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "24. 03. 2026. 13:46",
+      "slika": "https://static2.mondo.rs/Thumbnail/1640106/jpeg/Fudbalska-lopta.jpg?ts=2026-03-24T15:19:42"
+    },
+    {
+      "naslov": "Кад нема Тадића, за Србију игра Станић који се на њега угледа: \"Не кријем да ми је идол\"",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2205037/petar-stanic-u-reprezentaciji-srbije.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "24. 03. 2026. 12:15",
+      "slika": "https://static2.mondo.rs/Thumbnail/1640036/jpeg/Petar-Stanic.jpg?ts=2026-03-24T13:13:26"
+    },
+    {
+      "naslov": "На ово су у Звезди најпоноснији: Изашла листа 50 најбољих младих фудбалера, двојица бране част Србије",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2205030/kostov-i-maksimovic-u-top-50-mladih-igraca.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "24. 03. 2026. 12:02",
+      "slika": "https://static2.mondo.rs/Thumbnail/1640025/jpeg/Kostov-Maksimovic.jpeg?ts=2026-03-24T12:56:52"
+    },
+    {
+      "naslov": "АНАЛИЗА ВАР СИТУАЦИЈА | 28. КОЛО МОЗЗАРТ БЕТ СУПЕР ЛИГЕ СРБИЈЕ",
+      "opis": "Јавор Матис – Нови Пазар Ситуација број 1: 90+5’ Судијина одлука на терену: казнени ударац ВАР: потврдио одлуку судије Објашњење: Одбрамбени играч, у покушају да одигра лоптом, не додирује лопту,...",
+      "url": "https://fss.rs/analiza-var-situacija-28-kolo-mozzart-bet-super-lige-srbije/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "24. 03. 2026. 10:41",
+      "slika": null
+    },
+    {
+      "naslov": "ЕВРОПА ГА ЈЕ УПОЗНАЛА, САДА ЋЕ И СРБИЈА, ПЕТАР СТАНИЋ | РЕПРЕЗЕНТАЦИЈА ОСТВАРЕЊЕ СНА, СЕРГЕЈ МИ ЈЕ ЈЕДАН ОД ИДОЛА, РАДУЈЕ МЕ ПОВРАТАК НА ТСЦ АРЕНУ (ВИДЕО)",
+      "opis": "Фудбалска репрезетација Србије окупила се у понедељак у Спортском центру у Старој Пазови и почела припреме за два утакмице у мартовском термину против Шпаније у Виљареалу и против Саудијске Арабије...",
+      "url": "https://fss.rs/evropa-ga-je-upoznala-sada-ce-i-srbija-petar-stanic-reprezentacija-ostvarenje-sna-sergej-mi-je-jedan-od-idola-raduje-me-povratak-na-tsc-arenu-video/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "24. 03. 2026. 10:24",
+      "slika": null
+    },
+    {
+      "naslov": "ВЕЉКО БИРМАНЧЕВИЋ | ВЕЛИКА ЈЕ ЧАСТ ИГРАТИ ЗА СРБИЈУ, ПРОТИВ ШПАНИЈЕ ИДЕМО ТАКМИЧАРСКИ И ХРАБРО (ВИДЕО)",
+      "opis": "Репрезентацију Србије очекују две јаке провере у мартовском термину, против Шпаније 27. марта у Виљареалу од 21.00 и против Саудијске Арабије 31. марта у Бачкој Тополи од 18.00. Међу играчима...",
+      "url": "https://fss.rs/veljko-birmancevic-velika-je-cast-igrati-za-srbiju-protiv-spanije-idemo-takmicarski-i-hrabro/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "24. 03. 2026. 09:33",
+      "slika": null
+    },
+    {
+      "naslov": "ПРВИ ТРЕНИНГ ОРЛОВА ПРЕД ДУЕЛ СА ШПАНИЈОМ, 27. МАРТА У ВИЉАРЕАЛУ (ВИДЕО)",
+      "opis": "Репрезентација Србије почела је припреме за мартовске провере, против Шпаније у Виљареалу 27. марта и сусрет са Саудијском Арабијом који се игра 31. марта у Бачкој Тополи. Током дана играчи...",
+      "url": "https://fss.rs/prvi-trening-orlova-pred-duel-sa-spanijom-27-marta-u-viljarealu/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "23. 03. 2026. 17:49",
+      "slika": null
+    },
+    {
+      "naslov": "У21 | ОРЛИЋИ НА ОКУПУ ПРЕД ПУТ У АНТАЛИЈУ: ТРЕНИНГ И ИЗЈАВЕ СЕЛЕКТОРА МИРКОВИЋА, КОЛАРЕВИЋА И ТЕГЕЛТИЈЕ (ВИДЕО)",
+      "opis": "Млада (У-21) репрезентација Србије окупила се у Спортском центру Фудбалског савеза Србије и започела припреме за утакмицу пријатељског карактера са У-23 селекцијом Киргистана, која је очекује у Анталији 26. марта....",
+      "url": "https://fss.rs/u21-orlici-na-okupu-pred-put-u-antaliju-trening-i-izjave-selektora-mirkovica-kolarevica-i-tegeltije/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "23. 03. 2026. 14:35",
+      "slika": null
     }
   ],
   "tabela": [
