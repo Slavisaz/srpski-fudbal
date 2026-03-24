@@ -1,23 +1,14 @@
 {
-  "azurirano": "2026-03-24T11:12:53.580016+00:00",
-  "azurirano_sr": "24. 03. 2026. у 11:12",
+  "azurirano": "2026-03-24T14:37:39.019134+00:00",
+  "azurirano_sr": "24. 03. 2026. у 14:37",
   "vesti": [
-    {
-      "naslov": "Најновије вести",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/239949/veljko-birmancevic-velika-je-cast-igrati-za-srbiju-igracemo-hrabro-protiv-spanije/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "24. 03. 2026. 11:12",
-      "slika": null
-    },
     {
       "naslov": "Српски клубови у Европи",
       "opis": "",
       "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "24. 03. 2026. 11:12",
+      "datum": "24. 03. 2026. 14:37",
       "slika": null
     },
     {
@@ -26,7 +17,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "24. 03. 2026. 11:12",
+      "datum": "24. 03. 2026. 14:37",
       "slika": null
     },
     {
@@ -35,7 +26,7 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "24. 03. 2026. 11:12",
+      "datum": "24. 03. 2026. 14:37",
       "slika": null
     },
     {
@@ -44,16 +35,16 @@
       "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "24. 03. 2026. 11:12",
+      "datum": "24. 03. 2026. 14:37",
       "slika": null
     },
     {
-      "naslov": "Клоп о Реалу: Имам довољан број година, али као тренер нисам потпуно готов",
+      "naslov": "Флик: Одлука о Рашфорду и Канселу на крају сезоне",
       "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241445/fudbal/sirom-planete/klop-o-realu-imam-dovoljan-broj-godina-ali-kao-trener-nisam-potpuno-gotov",
+      "url": "https://zurnal.politika.rs/scc/clanak/241469/fudbal/velika-petorka/flik-odluka-o-rasfordu-i-kanselu-na-kraju-sezone",
       "izvor": "Спортски журнал",
       "logo": "zurnal.politika.rs",
-      "datum": "24. 03. 2026. 11:12",
+      "datum": "24. 03. 2026. 14:37",
       "slika": null
     },
     {
@@ -62,7 +53,7 @@
       "url": "https://www.rts.rs/rts/informator-o-radu.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "24. 03. 2026. 11:12",
+      "datum": "24. 03. 2026. 14:37",
       "slika": null
     },
     {
@@ -71,7 +62,7 @@
       "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "24. 03. 2026. 11:12",
+      "datum": "24. 03. 2026. 14:37",
       "slika": null
     },
     {
@@ -80,25 +71,25 @@
       "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "24. 03. 2026. 11:12",
+      "datum": "24. 03. 2026. 14:37",
       "slika": null
     },
     {
-      "naslov": "Бирманчевић: Велика је част наступати за Србију, играћемо храбро против Шпаније",
+      "naslov": "Чешка полиција привела више десетина особа због намештања фудбалских утакмица",
       "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/reprezentacija/5911857/birmancevic-cast-srbija-spanija-prijateljska-utakmica.html",
+      "url": "https://www.rts.rs/sport/fudbal/5912057/ceska-fudbal-policija-namestanje-tundra.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "24. 03. 2026. 11:12",
+      "datum": "24. 03. 2026. 14:37",
       "slika": null
     },
     {
-      "naslov": "Клоп: Реал ме није звао, не планирам да напустим Ред Бул",
+      "naslov": "Станић: Репрезентација Србије остварење сна, радује ме повратак на \"ТСЦ арену\"",
       "opis": "",
-      "url": "https://www.rts.rs/sport/fudbal/5911824/klop-real-madrid-poziv-red-bul-ostanak.html",
+      "url": "https://www.rts.rs/sport/fudbal/reprezentacija/5911965/stanic-reprezentacija-srbije-tsc-arena.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "24. 03. 2026. 11:12",
+      "datum": "24. 03. 2026. 14:37",
       "slika": null
     },
     {
@@ -107,44 +98,134 @@
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "24. 03. 2026. 11:12",
+      "datum": "24. 03. 2026. 14:37",
       "slika": null
     },
     {
-      "naslov": "КЛОП У РЕАЛ МАДРИД? Ево шта каже искусни немачки стручњак",
+      "naslov": "\"ТИ СИ ЈЕДНО СМЕЋЕ\"! Хрват који је одавао тајне Србима доживео брутално понижење",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1589251/klop-real-madrid-evo-sta-kaze-iskusni-nemacki-strucnjak",
+      "url": "https://www.novosti.rs/sport/fudbal/1589344/jedno-smece-hrvat-koji-odavao-tajne-srbima-doziveo-brutalno-ponizenje",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "24. 03. 2026. 11:12",
+      "datum": "24. 03. 2026. 14:37",
       "slika": null
     },
     {
-      "naslov": "ЈЕЗИВА ТРАГЕДИЈА! Голман брутално убијен у пуцњави, породица у шоку",
+      "naslov": "ДА ЛИ ЋЕ ИГРАТИ НА СВЕТСКОМ ПРВЕНСТВУ? Славни Аргентинац објавио кад завршава каријеру!",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1589188/jeziva-tragedija-golman-brutalno-ubijen-pucnjavi-porodica-soku",
+      "url": "https://www.novosti.rs/sport/fudbal/1589337/kraj-karijere-slavni-fudbaler-objavio-kad-zavrsava-karijeru-agentinac-povlacenje-nikolas-otamendi",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "24. 03. 2026. 11:12",
+      "datum": "24. 03. 2026. 14:37",
       "slika": null
     },
     {
-      "naslov": "ОДЕ СТРАНАЦ ИЗ ЗВЕЗДЕ! Један од најбољих играча шампиона Србије потврдио одлазак са Маракане",
+      "naslov": "САГА ЈЕ ЗАВРШЕНА! Душан Влаховић потписује!",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1589156/ode-stranac-zvezde-jedan-najboljih-igraca-sampiona-srbije-potvrdio-odlazak-marakane",
+      "url": "https://www.novosti.rs/sport/fudbal/1589326/dusan-vlahovic-potpis-ugovor-fudbalska-reprezentacija-srbije-klub-juventus-torino-produzetak-saradnja",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "24. 03. 2026. 11:12",
+      "datum": "24. 03. 2026. 14:37",
       "slika": null
     },
     {
-      "naslov": "СТИГЛЕ ЛОШЕ ВЕСТИ НА МАРАКАНУ! Бивши тренер Партизана \"измимнирао\" Црвену звезду",
+      "naslov": "ПОСЛЕ СМРТИ ОЦА! Хрват сазнао најгору могућу вест!",
       "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1589126/stigle-lose-vesti-marakanu-bivsi-trener-partizana-izmimnirao-crvenu-zvezdu",
+      "url": "https://www.novosti.rs/sport/fudbal/1589302/otkaz-hrvat-premijer-liga-totenhem-hotsput-otpustio-trener-igor-tudor",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "24. 03. 2026. 11:12",
+      "datum": "24. 03. 2026. 14:37",
       "slika": null
+    },
+    {
+      "naslov": "\"Моја жена кува и пере, иако смо милионери\": Златан Ибрахимовић открио зашто у његовој кући нема луксузног живота",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2205150/zlatan-ibrahimovic-moja-zena-kuva-i-pegla.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "24. 03. 2026. 14:35",
+      "slika": "https://static2.mondo.rs/Thumbnail/1640098/jpeg/Zlatan-Ibrahimovic-i-Helena-Seger.jpg?ts=2026-03-24T15:05:20"
+    },
+    {
+      "naslov": "Хаос какав се не памти у фудбалу: 47 људи и клубова умешано у скандал",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2205108/47-ljudi-i-klubova-pod-istragom-u-ceskoj.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "24. 03. 2026. 13:46",
+      "slika": "https://static2.mondo.rs/Thumbnail/1640106/jpeg/Fudbalska-lopta.jpg?ts=2026-03-24T15:19:42"
+    },
+    {
+      "naslov": "Чешка: Десетине ухапшених због намештања мечева и корупције",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/fudbal/239995/ceska-desetine-uhapsenih-zbog-namestanja-meceva-i-korupcije/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "24. 03. 2026. 13:36",
+      "slika": "https://www.tanjug.rs/data/images/2026-03-24/371440_czech-republic-soccer-match-fixing_f.jpg"
+    },
+    {
+      "naslov": "Аргентински фудбалер Николас Отаменди се после СП повлачи из репрезентације",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/fudbal/240021/argentinski-fudbaler-nikolas-otamendi-se-posle-sp-povlaci-iz-reprezentacije/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "24. 03. 2026. 12:57",
+      "slika": "https://www.tanjug.rs/data/images/2026-03-24/371500_italy-champions-league-soccer_f.jpg"
+    },
+    {
+      "naslov": "Кад нема Тадића, за Србију игра Станић који се на њега угледа: \"Не кријем да ми је идол\"",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2205037/petar-stanic-u-reprezentaciji-srbije.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "24. 03. 2026. 12:15",
+      "slika": "https://static2.mondo.rs/Thumbnail/1640036/jpeg/Petar-Stanic.jpg?ts=2026-03-24T13:13:26"
+    },
+    {
+      "naslov": "На ово су у Звезди најпоноснији: Изашла листа 50 најбољих младих фудбалера, двојица бране част Србије",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2205030/kostov-i-maksimovic-u-top-50-mladih-igraca.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "24. 03. 2026. 12:02",
+      "slika": "https://static2.mondo.rs/Thumbnail/1640025/jpeg/Kostov-Maksimovic.jpeg?ts=2026-03-24T12:56:52"
+    },
+    {
+      "naslov": "Несуđени тренер Звезде пред отказом: 7 недеља и не могу да га виде очима",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2205024/albert-rijera-dobija-otkaz-u-frankfurtu-posle-7-kola.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "24. 03. 2026. 11:54",
+      "slika": "https://static2.mondo.rs/Thumbnail/1640012/jpeg/Albert-Riera-5-.jpg?ts=2026-03-24T12:41:18"
+    },
+    {
+      "naslov": "Погледајте како се облаче фудбалери Француске: Смеју им се у чему долазе на окупљање",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2205010/kako-su-se-fudbaleri-francuske-obukli-za-okupljanje.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "24. 03. 2026. 11:33",
+      "slika": "https://static2.mondo.rs/Thumbnail/1640006/jpeg/Okupljanje-Francuske.jpg?ts=2026-03-24T12:32:10"
+    },
+    {
+      "naslov": "Ланс одбио да одложи утакмицу француског првенства против Пари Сен Жермена",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/fudbal/239983/lans-odbio-da-odlozi-utakmicu-francuskog-prvenstva-protiv-pari-sen-zermena/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "24. 03. 2026. 11:26",
+      "slika": "https://www.tanjug.rs/data/images/2025-09-18/293878_shutterstock-1291798471_f.jpg"
+    },
+    {
+      "naslov": "Селектор Босне изазвао скандал: Оптужио тренера да је намерно склонио Тахировића, овај морао да се извињава",
+      "opis": "",
+      "url": "https://mondo.rs/Sport/Fudbal/a2204995/tahirovic-morao-da-se-izvini-treneru-zbog-optuzbi-selektora.html",
+      "izvor": "Мондо",
+      "logo": "mondo.rs",
+      "datum": "24. 03. 2026. 11:13",
+      "slika": "https://static2.mondo.rs/Thumbnail/1639971/jpeg/Benjamin-Tahirovic.jpeg?ts=2026-03-24T12:10:04"
     },
     {
       "naslov": "Огромна сваđа око Лиге шампиона: Енглези хоће да мењају правила како њима паше",
@@ -156,85 +237,31 @@
       "slika": "https://static2.mondo.rs/Thumbnail/1639966/jpeg/Liga-sampiona.jpg?ts=2026-03-24T11:42:02"
     },
     {
-      "naslov": "АНАЛИЗА ВАР СИТУАЦИЈА | 28. КОЛО МОЗЗАРТ БЕТ СУПЕР ЛИГЕ СРБИЈЕ",
-      "opis": "Јавор Матис – Нови Пазар Ситуација број 1: 90+5’ Судијина одлука на терену: казнени ударац ВАР: потврдио одлуку судије Објашњење: Одбрамбени играч, у покушају да одигра лоптом, не додирује лопту,...",
-      "url": "https://fss.rs/analiza-var-situacija-28-kolo-mozzart-bet-super-lige-srbije/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "24. 03. 2026. 10:41",
-      "slika": null
-    },
-    {
-      "naslov": "\"То сам замишљао и о томе сам маштао\": Вељко Бирманчевић схватио шта цео живот прича Пауновић",
+      "naslov": "Петар Станић: Репрезентација Србије остварење сна, радује ме повратак на ТСЦ арену",
       "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2204976/veljko-birmancevic-o-dolasku-u-hetafe-i-reprezentaciji.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "24. 03. 2026. 10:37",
-      "slika": "https://static2.mondo.rs/Thumbnail/1639961/jpeg/Veljko-Birmancevic.jpg?ts=2026-03-24T11:30:28"
+      "url": "https://www.tanjug.rs/sport/fudbal/239972/petar-stanic-reprezentacija-srbije-ostvarenje-sna-raduje-me-povratak-na-tsc-arenu/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "24. 03. 2026. 10:50",
+      "slika": "https://www.tanjug.rs/data/images/2026-01-30/349832_shutterstock-1012740448_f.jpg"
     },
     {
-      "naslov": "Звездан Терзић се огласио због вести из Русије: \"Није истина то за Дејана Станковића\"",
+      "naslov": "Вељко Бирманчевић: Велика је част играти за Србију, играћемо храбро против Шпаније",
       "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2204963/zvezdan-terzic-nije-istina-to-za-stankovica-i-spartak.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "24. 03. 2026. 10:24",
-      "slika": "https://static2.mondo.rs/Thumbnail/1639955/jpeg/Dejan-Stankovic-i-Zvezdan-Terzic.jpg?ts=2026-03-24T11:19:41"
+      "url": "https://www.tanjug.rs/sport/fudbal/239949/veljko-birmancevic-velika-je-cast-igrati-za-srbiju-igracemo-hrabro-protiv-spanije/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "24. 03. 2026. 10:09",
+      "slika": "https://www.tanjug.rs/data/images/2026-03-24/371383_veljko-birmancevic_f.png"
     },
     {
-      "naslov": "ЕВРОПА ГА ЈЕ УПОЗНАЛА, САДА ЋЕ И СРБИЈА, ПЕТАР СТАНИЋ | РЕПРЕЗЕНТАЦИЈА ОСТВАРЕЊЕ СНА, СЕРГЕЈ МИ ЈЕ ЈЕДАН ОД ИДОЛА, РАДУЈЕ МЕ ПОВРАТАК НА ТСЦ АРЕНУ (ВИДЕО)",
-      "opis": "Фудбалска репрезетација Србије окупила се у понедељак у Спортском центру у Старој Пазови и почела припреме за два утакмице у мартовском термину против Шпаније у Виљареалу и против Саудијске Арабије...",
-      "url": "https://fss.rs/evropa-ga-je-upoznala-sada-ce-i-srbija-petar-stanic-reprezentacija-ostvarenje-sna-sergej-mi-je-jedan-od-idola-raduje-me-povratak-na-tsc-arenu-video/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "24. 03. 2026. 10:24",
-      "slika": null
-    },
-    {
-      "naslov": "Потпуни хаос на улицама Мостара: Хулигани истрчали из комбија и запалили аутомобил",
+      "naslov": "Јирген Клоп: Не планирам ускоро да напустим Ред Бул",
       "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2204902/haos-u-mostaru-huligani-zapalili-automobil.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "24. 03. 2026. 09:36",
-      "slika": "https://static2.mondo.rs/Thumbnail/1639881/jpeg/Tuca-u-Mostaru.jpg?ts=2026-03-24T10:36:59"
-    },
-    {
-      "naslov": "ВЕЉКО БИРМАНЧЕВИЋ | ВЕЛИКА ЈЕ ЧАСТ ИГРАТИ ЗА СРБИЈУ, ПРОТИВ ШПАНИЈЕ ИДЕМО ТАКМИЧАРСКИ И ХРАБРО (ВИДЕО)",
-      "opis": "Репрезентацију Србије очекују две јаке провере у мартовском термину, против Шпаније 27. марта у Виљареалу од 21.00 и против Саудијске Арабије 31. марта у Бачкој Тополи од 18.00. Међу играчима...",
-      "url": "https://fss.rs/veljko-birmancevic-velika-je-cast-igrati-za-srbiju-protiv-spanije-idemo-takmicarski-i-hrabro/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "24. 03. 2026. 09:33",
-      "slika": null
-    },
-    {
-      "naslov": "\"Шта су Сплит и Хајдук без Пољуда?\": Цела Далмација чека да ли ће култни стадион бити срушен",
-      "opis": "",
-      "url": "https://mondo.rs/Sport/Fudbal/a2204897/da-li-se-rusi-stadion-poljud.html",
-      "izvor": "Мондо",
-      "logo": "mondo.rs",
-      "datum": "24. 03. 2026. 09:28",
-      "slika": "https://static2.mondo.rs/Thumbnail/1639878/jpeg/Poljud-Hajduk-Split.jpg?ts=2026-03-24T10:27:53"
-    },
-    {
-      "naslov": "ПРВИ ТРЕНИНГ ОРЛОВА ПРЕД ДУЕЛ СА ШПАНИЈОМ, 27. МАРТА У ВИЉАРЕАЛУ (ВИДЕО)",
-      "opis": "Репрезентација Србије почела је припреме за мартовске провере, против Шпаније у Виљареалу 27. марта и сусрет са Саудијском Арабијом који се игра 31. марта у Бачкој Тополи. Током дана играчи...",
-      "url": "https://fss.rs/prvi-trening-orlova-pred-duel-sa-spanijom-27-marta-u-viljarealu/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "23. 03. 2026. 17:49",
-      "slika": null
-    },
-    {
-      "naslov": "У21 | ОРЛИЋИ НА ОКУПУ ПРЕД ПУТ У АНТАЛИЈУ: ТРЕНИНГ И ИЗЈАВЕ СЕЛЕКТОРА МИРКОВИЋА, КОЛАРЕВИЋА И ТЕГЕЛТИЈЕ (ВИДЕО)",
-      "opis": "Млада (У-21) репрезентација Србије окупила се у Спортском центру Фудбалског савеза Србије и започела припреме за утакмицу пријатељског карактера са У-23 селекцијом Киргистана, која је очекује у Анталији 26. марта....",
-      "url": "https://fss.rs/u21-orlici-na-okupu-pred-put-u-antaliju-trening-i-izjave-selektora-mirkovica-kolarevica-i-tegeltije/",
-      "izvor": "ФСС",
-      "logo": "fss.rs",
-      "datum": "23. 03. 2026. 14:35",
-      "slika": null
+      "url": "https://www.tanjug.rs/sport/fudbal/239941/jirgen-klop-ne-planiram-uskoro-da-napustim-red-bul/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "24. 03. 2026. 09:48",
+      "slika": "https://www.tanjug.rs/data/images/2026-03-24/371372_red-bull-klopp-soccer_f.jpg"
     }
   ],
   "tabela": [
