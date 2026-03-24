@@ -1032,10 +1032,15 @@ function latinicaUCirilicu(t) {
 
 function listaItemV(v) {
   const url = (v.url||'#').replace(/'/g,'%27');
-  const imgHtml = v.slika
-    ? `<div class="tv-img"><img src="${v.slika}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'"></div>`
+  // Proxy Mondo images through GitHub raw (local path) or direct URL
+  let slika = v.slika || '';
+  if (slika && slika.startsWith('public/data/images/')) {
+    slika = 'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/' + slika;
+  }
+  const imgHtml = slika
+    ? `<div class="tv-img"><img src="${slika}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'"></div>`
     : '';
-  const hasImg = !!v.slika;
+  const hasImg = !!slika;
   return `<a class="tv-item" href="${url}" target="_blank" rel="noopener" style="${hasImg?'':'padding-left:14px'}">
     ${imgHtml}
     <div class="tv-body">
