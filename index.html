@@ -369,7 +369,46 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 <!-- MAIN -->
 <div class="main">
 
-  <!-- SUPERLIGA -->
+  <!-- NAJNOVIJE VESTI — TOP -->
+  <div id="vesti" class="sec" style="margin-bottom:20px">
+    <div class="sh">
+      <div class="sh-bar"></div>
+      <h2 class="sh-ttl">Најновије вести</h2>
+      <span class="sh-ts" id="vesti-azurirano" style="margin-left:auto"></span>
+    </div>
+
+    <!-- Tanjug live RSS cards — 3 naslova -->
+    <div id="tanjug-cards" style="margin-bottom:14px">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px">
+        <span style="font-family:var(--fu);font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red)">● Танјуг</span>
+        <span id="tanjug-ts" style="font-family:var(--fu);font-size:10px;color:var(--txt4)"></span>
+      </div>
+      <div id="tanjug-list" class="tv-list" style="border:1px solid var(--bdr);border-radius:10px;overflow:hidden">
+        <div style="padding:14px;color:#9ca3af;font-size:12px">⏳ Учитавам Танјуг вести...</div>
+      </div>
+    </div>
+
+    <!-- Mondo + other sources with images -->
+    <div id="main-vesti-list" class="tv-list" style="border:1px solid var(--bdr);border-radius:10px;overflow:hidden">
+      <div style="padding:14px;color:#9ca3af;font-size:12px">Учитавам вести...</div>
+    </div>
+
+    <!-- Static RTS link at bottom -->
+    <div style="margin-top:8px">
+      <a href="https://www.rts.rs/sport/fudbal.html" target="_blank" rel="noopener"
+         style="display:flex;align-items:center;gap:10px;padding:10px 14px;background:#fff;border:1px solid var(--bdr);border-radius:8px;text-decoration:none;transition:background .12s"
+         onmouseover="this.style.background='var(--off)'" onmouseout="this.style.background='#fff'">
+        <span style="font-family:var(--fu);font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red)">РТС</span>
+        <span style="font-family:var(--fd);font-size:13px;font-weight:600;color:var(--txt)">РТС Спорт — Фудбалске вести</span>
+        <span style="margin-left:auto;font-family:var(--fu);font-size:11px;color:var(--txt4)">→</span>
+      </a>
+    </div>
+  </div>
+
+  <!-- AD 1 -->
+  <div class="adbox">Google AdSense — 728×90</div>
+
+  <!-- SUPERLIGA widget -->
   <div id="superliga" class="sec">
     <div class="slw" id="slw">
   <div class="slw-hd">
@@ -394,33 +433,6 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 
   <div class="slw-ft">Подаци: <a href="https://apifootball.com" target="_blank">APIfootball.com</a> · <a href="https://srpskifudbal.com" target="_blank">СрпскиФудбал.com</a> · <span id="slw-ts">Учитавам...</span></div>
   </div>
-
-  <!-- AD 1 -->
-  <div class="adbox">Google AdSense — 728×90</div>
-
-  <!-- NAJNOVIJE VESTI — between ads -->
-  <div id="vesti" class="sec" style="margin-bottom:20px">
-    <div class="sh">
-      <div class="sh-bar"></div>
-      <h2 class="sh-ttl">Најновије вести</h2>
-      <span class="sh-ts" id="vesti-azurirano" style="margin-left:auto"></span>
-    </div>
-
-    <!-- Tanjug live RSS cards — 3 naslova -->
-    <div id="tanjug-cards" style="margin-bottom:14px">
-      <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px">
-        <span style="font-family:var(--fu);font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red)">● Танјуг</span>
-        <span id="tanjug-ts" style="font-family:var(--fu);font-size:10px;color:var(--txt4)"></span>
-      </div>
-      <div id="tanjug-list" class="tv-list" style="border:1px solid var(--bdr);border-radius:10px;overflow:hidden">
-        <div style="padding:14px;color:#9ca3af;font-size:12px">⏳ Учитавам Танјуг вести...</div>
-      </div>
-    </div>
-
-    <!-- Mondo + other sources -->
-    <div id="main-vesti-list" class="tv-list" style="border:1px solid var(--bdr);border-radius:10px;overflow:hidden">
-      <div style="padding:14px;color:#9ca3af;font-size:12px">Учитавам вести...</div>
-    </div>
   </div>
 
   <!-- AD 2 -->
@@ -1034,13 +1046,12 @@ function listaItemV(v) {
   const url = (v.url||'#').replace(/'/g,'%27');
   const imgHtml = v.slika
     ? `<div class="tv-img"><img src="${v.slika}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'"></div>`
-    : '';
-  const hasImg = !!v.slika;
-  return `<a class="tv-item" href="${url}" target="_blank" rel="noopener" style="${hasImg?'':'padding-left:14px'}">
+    : `<div class="tv-img"><div class="tv-img-ph">⚽</div></div>`;
+  return `<a class="tv-item" href="${url}" target="_blank" rel="noopener">
     ${imgHtml}
     <div class="tv-body">
       <div class="tv-src">${v.naziv||v.izvor||''}</div>
-      <div class="tv-ttl">${(v.naslov||'').slice(0,95)}</div>
+      <div class="tv-ttl">${(v.naslov||'').slice(0,90)}</div>
       <div class="tv-dt">${v.datum||''}</div>
     </div>
   </a>`;
@@ -1108,9 +1119,7 @@ async function ucitajTanjug() {
   }
 }
 
-const STATICNE_VESTI = [
-  { naziv:'РТС', naslov:'РТС Спорт — Фудбалске вести', url:'https://www.rts.rs/sport/fudbal.html', datum:'', slika:null },
-];
+const STATICNE_VESTI = [];
 
 let sveVesti = [];
 
