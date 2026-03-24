@@ -1048,6 +1048,10 @@ function latinicaUCirilicu(t) {
 
 function imgSrc(url) {
   if (!url) return '';
+  // Local images saved by GitHub Actions — serve via GitHub raw
+  if (url.startsWith('public/data/images/')) {
+    return 'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/' + url;
+  }
   // Route Mondo images through our Cloudflare Worker to bypass hotlink protection
   if (url.includes('mondo.rs') || url.includes('static2.mondo')) {
     return WORKER_URL + '/img?url=' + encodeURIComponent(url);
@@ -1088,80 +1092,139 @@ function parseRssItems(xmlText, max) {
   });
 }
 
-async function fetchRss(url, timeout) {
-  // Try allorigins first, then corsproxy as backup — race both after 3s
-  const p1 = fetch(`https://api.allorigins.win/raw?url=${encodeURIComponent(url)}&t=${Date.now()}`,
-    { signal: AbortSignal.timeout(timeout) });
-  const p2 = fetch(`https://corsproxy.io/?${encodeURIComponent(url)}`,
-    { signal: AbortSignal.timeout(timeout) });
-  // Whichever resolves first and is ok wins
-  return new Promise((resolve, reject) => {
-    let done = false;
-    [p1, p2].forEach(p => p.then(async r => {
-      if (done || !r.ok) return;
-      const text = await r.text();
-      if (!done && text.includes('<item>')) { done = true; resolve(text); }
-    }).catch(() => {}));
-    setTimeout(() => { if (!done) reject(new Error('RSS timeout')); }, timeout + 500);
-  });
+// ── In-memory cache (survives tab switches, cleared on reload) ──
+const _cache = {};
+function cacheSet(k, v) { _cache[k] = { v, t: Date.now() }; }
+function cacheGet(k, maxAgeMs) {
+  const c = _cache[k];
+  return (c && Date.now() - c.t < maxAgeMs) ? c.v : null;
 }
 
-// ── Tanjug ──
+async function fetchRss(url, timeout) {
+  const proxies = [
+    `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}&t=${Date.now()}`,
+    `https://corsproxy.io/?${encodeURIComponent(url)}`,
+  ];
+  for (const proxy of proxies) {
+    try {
+      const r = await fetch(proxy, { signal: AbortSignal.timeout(timeout) });
+      if (!r.ok) continue;
+      const text = await r.text();
+      if (text.includes('<item>')) return text;
+    } catch(e) { continue; }
+  }
+  throw new Error('All proxies failed');
+}
+
+function renderVesti(el, items, izvor) {
+  if (!el || !items.length) return;
+  el.innerHTML = items.map(i => rssCardHTML(i, izvor)).join('');
+}
+
+function updateTs(tsEl) {
+  if (!tsEl) return;
+  const now = new Date();
+  tsEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
+}
+
+// ── Load football.json (fast GitHub CDN, no proxy needed) ────────
+async function loadFootballJson() {
+  const cached = cacheGet('fjson', 5 * 60 * 1000);
+  if (cached) return cached;
+  const r = await fetch(
+    'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json',
+    { signal: AbortSignal.timeout(6000) }
+  );
+  if (!r.ok) throw new Error('JSON ' + r.status);
+  const d = await r.json();
+  cacheSet('fjson', d);
+  return d;
+}
+
+// ── Tanjug: show football.json fallback instantly, refresh from RSS ──
 async function ucitajTanjug() {
-  const el = document.getElementById('tanjug-list');
+  const el  = document.getElementById('tanjug-list');
   const tsEl = document.getElementById('tanjug-ts');
   if (!el) return;
+
+  // 1. Show cached render immediately (no spinner)
+  const cachedHtml = cacheGet('tanjug_html', 10 * 60 * 1000);
+  if (cachedHtml) { el.innerHTML = cachedHtml; updateTs(tsEl); return; }
+
+  // 2. Show football.json Tanjug entries while RSS loads
   try {
-    const text = await fetchRss('https://www.tanjug.rs/rss/sport/fudbal', 5000);
+    const jd = await loadFootballJson();
+    const tanjugItems = (jd.vesti||[])
+      .filter(v => (v.izvor||'').includes('Танјуг'))
+      .slice(0, 3)
+      .map(v => ({ title: v.naslov||'', link: v.url||'#', img: v.slika||'', time: v.datum||'' }));
+    if (tanjugItems.length) {
+      el.innerHTML = tanjugItems.map(i => rssCardHTML(i, 'Танјуг')).join('');
+      updateTs(tsEl);
+    }
+  } catch(e) {}
+
+  // 3. Try RSS in background — update if successful
+  try {
+    const text = await fetchRss('https://www.tanjug.rs/rss/sport/fudbal', 6000);
     const items = parseRssItems(text, 3);
-    if (!items.length) throw new Error('no items');
-    el.innerHTML = items.map(i => rssCardHTML(i, 'Танјуг')).join('');
-    const now = new Date();
-    if (tsEl) tsEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
+    if (items.length) {
+      const html = items.map(i => rssCardHTML(i, 'Танјуг')).join('');
+      el.innerHTML = html;
+      cacheSet('tanjug_html', html);
+      updateTs(tsEl);
+    }
   } catch(e) {
-    el.innerHTML = [
-      { title:'Мохамед Салах потврдио да на крају сезоне напушта Ливерпул', link:'https://www.tanjug.rs/sport/fudbal/240136/mohamed-salah-potvrdio-da-na-kraju-sezone-napusta-liverpul/vest', time:'24. мар · 20:18', img:'https://www.tanjug.rs/data/images/2026-03-24/371742_britain-champions-league-soccer_f.jpg' },
-      { title:'Луис Гарсија Плаза нови тренер фудбалера Севиље', link:'https://www.tanjug.rs/sport/fudbal/240125/luis-garsija-plaza-novi-trener-fudbalera-sevilje/vest', time:'24. мар · 19:09', img:'https://www.tanjug.rs/data/images/2026-03-24/371717_shutterstock-2615250803_f.jpg' },
-      { title:'Фудбалер Арсенала Еберечи Езе због повреде неће играти 4–6 недеља', link:'https://www.tanjug.rs/sport/fudbal/240119/fudbaler-arsenala-ebereci-eze-zbog-povrede-nece-igrati-od-cetiri-do-sest-nedelja/vest', time:'24. мар · 18:55', img:'https://www.tanjug.rs/data/images/2026-03-24/371713_britain-champions-league-soccer_f.jpg' },
-    ].map(i => rssCardHTML(i, 'Танјуг')).join('');
+    // Already showing fallback — show hardcoded if nothing rendered
+    if (!el.querySelector('.tv-item')) {
+      el.innerHTML = [
+        { title:'Мохамед Салах потврдио да на крају сезоне напушта Ливерпул', link:'https://www.tanjug.rs/sport/fudbal/240136/mohamed-salah-potvrdio-da-na-kraju-sezone-napusta-liverpul/vest', time:'24. мар · 20:18', img:'https://www.tanjug.rs/data/images/2026-03-24/371742_britain-champions-league-soccer_f.jpg' },
+        { title:'Луис Гарсија Плаза нови тренер фудбалера Севиље', link:'https://www.tanjug.rs/sport/fudbal/240125/luis-garsija-plaza-novi-trener-fudbalera-sevilje/vest', time:'24. мар · 19:09', img:'https://www.tanjug.rs/data/images/2026-03-24/371717_shutterstock-2615250803_f.jpg' },
+        { title:'Фудбалер Арсенала Еберечи Езе због повреде неће играти 4–6 недеља', link:'https://www.tanjug.rs/sport/fudbal/240119/fudbaler-arsenala-ebereci-eze-zbog-povrede-nece-igrati-od-cetiri-do-sest-nedelja/vest', time:'24. мар · 18:55', img:'https://www.tanjug.rs/data/images/2026-03-24/371713_britain-champions-league-soccer_f.jpg' },
+      ].map(i => rssCardHTML(i, 'Танјуг')).join('');
+      updateTs(tsEl);
+    }
   }
 }
 
-// ── Mondo RSS ──
+// ── Mondo: show football.json instantly, try RSS in background ───
 async function ucitajMondo() {
-  const el = document.getElementById('main-vesti-list');
+  const el  = document.getElementById('main-vesti-list');
   const azEl = document.getElementById('vesti-azurirano');
   if (!el) return;
-  el.innerHTML = '<div style="padding:14px;color:#9ca3af;font-size:12px">⏳ Учитавам Мондо вести...</div>';
+
+  // 1. Show cached render immediately
+  const cachedHtml = cacheGet('mondo_html', 5 * 60 * 1000);
+  if (cachedHtml) { el.innerHTML = cachedHtml; updateTs(azEl); return; }
+
+  // 2. Show football.json Mondo entries immediately (no spinner!)
   try {
-    const text = await fetchRss('https://www.mondo.rs/rss/sport/fudbal', 6000);
-    const items = parseRssItems(text, 3);
-    if (!items.length) throw new Error('no items');
-    el.innerHTML = items.map(i => rssCardHTML(i, 'Мондо')).join('');
-    const now = new Date();
-    if (azEl) azEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
-  } catch(e) {
-    // Fallback: football.json Mondo entries
-    try {
-      const jr = await fetch('https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json',
-        { signal: AbortSignal.timeout(5000), cache: 'no-store' });
-      const jd = await jr.json();
-      const mondo = (jd.vesti||[]).filter(v=>(v.izvor||'').includes('Мондо')).slice(0,3);
+    const jd = await loadFootballJson();
+    const mondo = (jd.vesti||[]).filter(v=>(v.izvor||'').includes('Мондо')).slice(0,3);
+    if (mondo.length) {
       el.innerHTML = mondo.map(v => rssCardHTML(
         { title: v.naslov||'', link: v.url||'#', img: v.slika||'', time: v.datum||'' }, 'Мондо'
-      )).join('') || '<div style="padding:14px;color:#9ca3af;font-size:12px">Нема вести.</div>';
-    } catch(e2) {
-      el.innerHTML = '<div style="padding:14px;color:#9ca3af;font-size:12px">Грешка при учитавању вести.</div>';
+      )).join('');
+      updateTs(azEl);
     }
-    const now = new Date();
-    if (azEl) azEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
-  }
+  } catch(e) {}
+
+  // 3. Try Mondo RSS in background — update silently if successful
+  try {
+    const text = await fetchRss('https://www.mondo.rs/rss/sport/fudbal', 8000);
+    const items = parseRssItems(text, 3);
+    if (items.length) {
+      const html = items.map(i => rssCardHTML(i, 'Мондо')).join('');
+      el.innerHTML = html;
+      cacheSet('mondo_html', html);
+      updateTs(azEl);
+    }
+  } catch(e) { /* keep football.json data */ }
 }
 
 const STATICNE_VESTI = [];
 let sveVesti = [];
 
-// ucitajVesti is now just an alias that refreshes both
 async function ucitajVesti() {
   await Promise.all([ucitajTanjug(), ucitajMondo()]);
 }
