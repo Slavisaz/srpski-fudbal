@@ -1119,10 +1119,9 @@ function listaItemV(v) {
 
   let imgHtml = '';
   if (slika && slika.includes('mondo.rs')) {
-    // Try real image with SVG fallback unique per item
+    // Use SVG illustration directly — mondo.rs blocks hotlinking
     const idx = _mondoIdx++;
-    const fallbackSvg = mondoSvg(idx);
-    imgHtml = `<div class="tv-img"><img src="${slika}" alt="" loading="lazy" onerror="this.src='${fallbackSvg}'"></div>`;
+    imgHtml = `<div class="tv-img"><img src="${mondoSvg(idx)}" alt=""></div>`;
   } else if (slika) {
     imgHtml = `<div class="tv-img"><img src="${slika}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'"></div>`;
   } else if (isMondo) {
