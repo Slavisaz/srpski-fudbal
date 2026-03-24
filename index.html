@@ -1033,7 +1033,7 @@ function latinicaUCirilicu(t) {
 function listaItemV(v) {
   const url = (v.url||'#').replace(/'/g,'%27');
   let slika = v.slika || '';
-  if (slika.includes('mondo.rs')) slika = 'https://superliga-api.slavisa-cf8.workers.dev/img?url=' + encodeURIComponent(slika);
+  if (slika.includes('mondo.rs')) slika = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(slika);
   const imgHtml = slika
     ? `<div class="tv-img"><img src="${slika}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'"></div>`
     : '';
@@ -1110,9 +1110,7 @@ async function ucitajTanjug() {
   }
 }
 
-const STATICNE_VESTI = [
-  { naziv:'РТС', naslov:'РТС Спорт — Фудбалске вести', url:'https://www.rts.rs/sport/fudbal.html', datum:'', slika:null },
-];
+const STATICNE_VESTI = [];
 
 let sveVesti = [];
 
