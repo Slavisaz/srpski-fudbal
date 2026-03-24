@@ -548,8 +548,12 @@ function timT(n) {
   if (!n) return '';
   return TIMOVI_MAP[n] || TIMOVI_MAP[n.replace(/^FK /,'')] || n;
 }
-const TID = 210;   // Superliga Srbije
-const BASE = 'https://www.sofascore.com/api/v1';
+const TID = 210;   // Superliga Srbije (SofaScore ID — zadržan za Worker kompatibilnost)
+// ═══ API-Football konfiguracija ═══
+const APIF_KEY  = 'b80e630effea6fbdac1643532977e620';
+const APIF_BASE = 'https://v3.football.api-sports.io';
+const APIF_LEAGUE = 271; // Superliga Srbije na API-Football
+const APIF_SEASON = 2025;
 let SID = null; // Auto-detected from API
 
 // ═══ CLOUDFLARE WORKER URL — promeni nakon deploya ═══
@@ -790,7 +794,7 @@ async function loadRez() {
     show('slw-out-rez', `
       <div class="slw-rnd">
         <span>Суперлига — Коло ${last}</span>
-        <a href="https://www.sofascore.com/tournament/football/serbia/mozzart-bet-superliga/210" target="_blank">Сви →</a>
+
       </div>
       ${byRound[last].map(matchRow).join('')}
     `);
@@ -870,27 +874,48 @@ async function loadTab() {
 }
 
 // ═══════════════════════════════════
-// UZIVO
+// UZIVO — API-Football
 // ═══════════════════════════════════
 async function loadUzi() {
-  await getSeasonId();
   const spinUzi = document.getElementById('slw-spin-uzi');
   if (spinUzi) spinUzi.style.display='block';
   document.getElementById('slw-out-uzi').innerHTML='';
+  const badge = document.getElementById('slw-badge');
+  const dot   = document.getElementById('slw-dot');
   try {
-    const d = await safeApi(`/sport/football/events/live`, {events:[]});
+    const r = await fetch(
+      `${APIF_BASE}/fixtures?league=${APIF_LEAGUE}&season=${APIF_SEASON}&live=all`,
+      { headers: { 'x-apisports-key': APIF_KEY }, signal: AbortSignal.timeout(10000) }
+    );
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    const data = await r.json();
     hide('slw-spin-uzi');
 
-    const live = (d.events||[]).filter(e=>e.tournament?.uniqueTournament?.id===TID);
-    const badge = document.getElementById('slw-badge');
-    const dot = document.getElementById('slw-dot');
-
-    if (live.length) {
-      if (badge) { badge.textContent = live.length; badge.style.display = 'inline-block'; }
+    const fixtures = (data.response || []);
+    if (fixtures.length) {
+      if (badge) { badge.textContent = fixtures.length; badge.style.display = 'inline-block'; }
       if (dot) dot.style.display = 'block';
+      const rows = fixtures.map(f => {
+        const dom  = timT(f.teams?.home?.name || '');
+        const gost = timT(f.teams?.away?.name || '');
+        const golD = f.goals?.home ?? '–';
+        const golG = f.goals?.away ?? '–';
+        const min  = f.fixture?.status?.elapsed ? `${f.fixture.status.elapsed}'` : 'УЖИВО';
+        return `<div class="slw-match live">
+          <div class="slw-min">${min}</div>
+          <div class="slw-teams">
+            <span>${dom}</span>
+            <div class="slw-sc">
+              <div class="slw-scn red">${golD} – ${golG}</div>
+              <div class="slw-st red">УЖИВО</div>
+            </div>
+            <span>${gost}</span>
+          </div>
+        </div>`;
+      }).join('');
       show('slw-out-uzi', `
         <div class="slw-rnd"><span>🔴 УЖИВО — Суперлига</span></div>
-        ${live.map(matchRow).join('')}
+        ${rows}
       `);
     } else {
       if (badge) badge.style.display = 'none';
@@ -900,7 +925,7 @@ async function loadUzi() {
     document.getElementById('slw-ts').textContent = 'Ажурирано у '+ts();
   } catch(e) {
     hide('slw-spin-uzi');
-    show('slw-out-uzi',`<div class="slw-err">Грешка: ${e.message}</div>`);
+    show('slw-out-uzi',`<div class="slw-err">Грешка при учитавању: ${e.message}</div>`);
   }
 }
 
@@ -1058,20 +1083,24 @@ async function ucitajTicker() {
   const stavke = [];
   let imaLive = false;
 
-  // 1. Live utakmice iz Superlige
+  // 1. Live utakmice iz Superlige — API-Football
   try {
-    await getSeasonId();
-    const live = await safeApi('/sport/football/events/live', {events:[]});
-    const liveEvs = (live.events||[]).filter(e=>e.tournament?.uniqueTournament?.id===TID);
-    liveEvs.forEach(e => {
-      const d = timT(e.homeTeam?.name||'');
-      const g = timT(e.awayTeam?.name||'');
-      const gD = e.homeScore?.current ?? '';
-      const gG = e.awayScore?.current ?? '';
-      const min = e.time?.played ? `${e.time.played}'` : 'УЖИВО';
-      stavke.push(`🔴 ${d} ${gD}–${gG} ${g} (${min})`);
-      imaLive = true;
-    });
+    const liveR = await fetch(
+      `${APIF_BASE}/fixtures?league=${APIF_LEAGUE}&season=${APIF_SEASON}&live=all`,
+      { headers: { 'x-apisports-key': APIF_KEY }, signal: AbortSignal.timeout(8000) }
+    );
+    if (liveR.ok) {
+      const liveData = await liveR.json();
+      (liveData.response || []).forEach(f => {
+        const d   = timT(f.teams?.home?.name || '');
+        const g   = timT(f.teams?.away?.name || '');
+        const gD  = f.goals?.home ?? '';
+        const gG  = f.goals?.away ?? '';
+        const min = f.fixture?.status?.elapsed ? `${f.fixture.status.elapsed}'` : 'УЖИВО';
+        stavke.push(`🔴 ${d} ${gD}–${gG} ${g} (${min})`);
+        imaLive = true;
+      });
+    }
     // Poslednji rezultati
     const rez = await safeApi(`/unique-tournament/${TID}/season/${SID}/events/last/0`, DEMO_LAST);
     (rez.events||[]).filter(e=>e.status?.type==='finished').slice(0,6).forEach(e => {
