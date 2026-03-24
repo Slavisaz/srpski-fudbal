@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-03-24T21:57:44.771529+00:00",
-  "azurirano_sr": "24. 03. 2026. у 21:57",
+  "azurirano": "2026-03-24T22:02:41.470025+00:00",
+  "azurirano_sr": "24. 03. 2026. у 22:02",
   "vesti": [
     {
       "naslov": "Mohamed Salah potvrdio da na kraju sezone napušta Liverpul",
@@ -30,6 +30,15 @@
       "slika": "public/data/images/7562cdeafa0ff1f3.jpg"
     },
     {
+      "naslov": "NAJBOLjI ASISTENT U LIGI : Lazar Ranđelović krilni napadač Vojvodine",
+      "opis": "",
+      "url": "https://www.novosti.rs/sport/fudbal/1589306/najbolji-asistent-ligi-lazar-randjelovic-krilni-napadac-vojvodine",
+      "izvor": "Новости",
+      "logo": "www.novosti.rs",
+      "datum": "24. мар. 2026. 22:00",
+      "slika": "public/data/images/605a0c8521150457.jpg"
+    },
+    {
       "naslov": "PRED FINIŠ ŠAMPIONSKE TRKE! Panika u premijerligašu, mesec dana bez jednog od najboljih!",
       "opis": "",
       "url": "https://www.novosti.rs/sport/fudbal/1589458/povreda-fudbaler-premijer-liga-fudbalski-klub-arsenal-mesec-dana-ebereci-eze-pauzira",
@@ -37,15 +46,6 @@
       "logo": "www.novosti.rs",
       "datum": "24. мар. 2026. 21:50",
       "slika": "public/data/images/c09c5e046558341b.jpg"
-    },
-    {
-      "naslov": "KVARTET SRBA, PA OSTALI! Kostov ubedljivo ispred svih! Partizan ima jednog predstavnika!",
-      "opis": "",
-      "url": "https://www.novosti.rs/sport/fudbal/1589469/fudbaler-crvena-zvezda-najbolji-asistent-cies-vasilije-kostov",
-      "izvor": "Новости",
-      "logo": "www.novosti.rs",
-      "datum": "24. мар. 2026. 20:47",
-      "slika": "public/data/images/630d9cb982062906.jpg"
     }
   ],
   "tabela": [
