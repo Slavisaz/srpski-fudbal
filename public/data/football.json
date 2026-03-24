@@ -1,59 +1,14 @@
 {
-  "azurirano": "2026-03-24T14:37:39.019134+00:00",
-  "azurirano_sr": "24. 03. 2026. у 14:37",
+  "azurirano": "2026-03-24T14:48:07.007243+00:00",
+  "azurirano_sr": "24. 03. 2026. у 14:48",
   "vesti": [
-    {
-      "naslov": "Српски клубови у Европи",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "24. 03. 2026. 14:37",
-      "slika": null
-    },
-    {
-      "naslov": "Српски тенисери и тенисерке",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "24. 03. 2026. 14:37",
-      "slika": null
-    },
-    {
-      "naslov": "Српски спортисти на ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "24. 03. 2026. 14:37",
-      "slika": null
-    },
-    {
-      "naslov": "Борилачки спортови ОИ",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "24. 03. 2026. 14:37",
-      "slika": null
-    },
-    {
-      "naslov": "Флик: Одлука о Рашфорду и Канселу на крају сезоне",
-      "opis": "",
-      "url": "https://zurnal.politika.rs/scc/clanak/241469/fudbal/velika-petorka/flik-odluka-o-rasfordu-i-kanselu-na-kraju-sezone",
-      "izvor": "Спортски журнал",
-      "logo": "zurnal.politika.rs",
-      "datum": "24. 03. 2026. 14:37",
-      "slika": null
-    },
     {
       "naslov": "Информатор о раду Јавне медијске установе „Радио-телевизија Србије“",
       "opis": "",
       "url": "https://www.rts.rs/rts/informator-o-radu.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "24. 03. 2026. 14:37",
+      "datum": "24. 03. 2026. 14:48",
       "slika": null
     },
     {
@@ -62,7 +17,7 @@
       "url": "https://www.rts.rs/magazin/digitalni-preduzetnik.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "24. 03. 2026. 14:37",
+      "datum": "24. 03. 2026. 14:48",
       "slika": null
     },
     {
@@ -71,7 +26,7 @@
       "url": "https://www.rts.rs/magazin/Zamalevelikeheroje.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "24. 03. 2026. 14:37",
+      "datum": "24. 03. 2026. 14:48",
       "slika": null
     },
     {
@@ -80,7 +35,7 @@
       "url": "https://www.rts.rs/sport/fudbal/5912057/ceska-fudbal-policija-namestanje-tundra.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "24. 03. 2026. 14:37",
+      "datum": "24. 03. 2026. 14:48",
       "slika": null
     },
     {
@@ -89,7 +44,7 @@
       "url": "https://www.rts.rs/sport/fudbal/reprezentacija/5911965/stanic-reprezentacija-srbije-tsc-arena.html",
       "izvor": "РТС",
       "logo": "rts.rs",
-      "datum": "24. 03. 2026. 14:37",
+      "datum": "24. 03. 2026. 14:48",
       "slika": null
     },
     {
@@ -98,7 +53,7 @@
       "url": "https://www.novosti.rs/reportaze/najplemenitiji-podvig",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "24. 03. 2026. 14:37",
+      "datum": "24. 03. 2026. 14:48",
       "slika": null
     },
     {
@@ -107,7 +62,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1589344/jedno-smece-hrvat-koji-odavao-tajne-srbima-doziveo-brutalno-ponizenje",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "24. 03. 2026. 14:37",
+      "datum": "24. 03. 2026. 14:48",
       "slika": null
     },
     {
@@ -116,7 +71,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1589337/kraj-karijere-slavni-fudbaler-objavio-kad-zavrsava-karijeru-agentinac-povlacenje-nikolas-otamendi",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "24. 03. 2026. 14:37",
+      "datum": "24. 03. 2026. 14:48",
       "slika": null
     },
     {
@@ -125,7 +80,7 @@
       "url": "https://www.novosti.rs/sport/fudbal/1589326/dusan-vlahovic-potpis-ugovor-fudbalska-reprezentacija-srbije-klub-juventus-torino-produzetak-saradnja",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "24. 03. 2026. 14:37",
+      "datum": "24. 03. 2026. 14:48",
       "slika": null
     },
     {
@@ -134,7 +89,52 @@
       "url": "https://www.novosti.rs/sport/fudbal/1589302/otkaz-hrvat-premijer-liga-totenhem-hotsput-otpustio-trener-igor-tudor",
       "izvor": "Новости",
       "logo": "novosti.rs",
-      "datum": "24. 03. 2026. 14:37",
+      "datum": "24. 03. 2026. 14:48",
+      "slika": null
+    },
+    {
+      "naslov": "Српски клубови у Европи",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/54/srpski-klubovi-u-evropi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "24. 03. 2026. 14:47",
+      "slika": null
+    },
+    {
+      "naslov": "Српски тенисери и тенисерке",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/146/srpski-teniseri-i-teniserke",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "24. 03. 2026. 14:47",
+      "slika": null
+    },
+    {
+      "naslov": "Српски спортисти на ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/112/srpski-sportisti-na-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "24. 03. 2026. 14:47",
+      "slika": null
+    },
+    {
+      "naslov": "Борилачки спортови ОИ",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/rubrika/145/borilacki-sportovi-oi",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "24. 03. 2026. 14:47",
+      "slika": null
+    },
+    {
+      "naslov": "Удружење навијача поднело жалбу Европској комисији против ФИФА",
+      "opis": "",
+      "url": "https://zurnal.politika.rs/scc/clanak/241470/fudbal/sirom-planete/udruzenje-navijaca-podnelo-zalbu-evropskoj-komisiji-protiv-fifa",
+      "izvor": "Спортски журнал",
+      "logo": "zurnal.politika.rs",
+      "datum": "24. 03. 2026. 14:47",
       "slika": null
     },
     {
@@ -246,6 +246,24 @@
       "slika": "https://www.tanjug.rs/data/images/2026-01-30/349832_shutterstock-1012740448_f.jpg"
     },
     {
+      "naslov": "АНАЛИЗА ВАР СИТУАЦИЈА | 28. КОЛО МОЗЗАРТ БЕТ СУПЕР ЛИГЕ СРБИЈЕ",
+      "opis": "Јавор Матис – Нови Пазар Ситуација број 1: 90+5’ Судијина одлука на терену: казнени ударац ВАР: потврдио одлуку судије Објашњење: Одбрамбени играч, у покушају да одигра лоптом, не додирује лопту,...",
+      "url": "https://fss.rs/analiza-var-situacija-28-kolo-mozzart-bet-super-lige-srbije/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "24. 03. 2026. 10:41",
+      "slika": null
+    },
+    {
+      "naslov": "ЕВРОПА ГА ЈЕ УПОЗНАЛА, САДА ЋЕ И СРБИЈА, ПЕТАР СТАНИЋ | РЕПРЕЗЕНТАЦИЈА ОСТВАРЕЊЕ СНА, СЕРГЕЈ МИ ЈЕ ЈЕДАН ОД ИДОЛА, РАДУЈЕ МЕ ПОВРАТАК НА ТСЦ АРЕНУ (ВИДЕО)",
+      "opis": "Фудбалска репрезетација Србије окупила се у понедељак у Спортском центру у Старој Пазови и почела припреме за два утакмице у мартовском термину против Шпаније у Виљареалу и против Саудијске Арабије...",
+      "url": "https://fss.rs/evropa-ga-je-upoznala-sada-ce-i-srbija-petar-stanic-reprezentacija-ostvarenje-sna-sergej-mi-je-jedan-od-idola-raduje-me-povratak-na-tsc-arenu-video/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "24. 03. 2026. 10:24",
+      "slika": null
+    },
+    {
       "naslov": "Вељко Бирманчевић: Велика је част играти за Србију, играћемо храбро против Шпаније",
       "opis": "",
       "url": "https://www.tanjug.rs/sport/fudbal/239949/veljko-birmancevic-velika-je-cast-igrati-za-srbiju-igracemo-hrabro-protiv-spanije/vest",
@@ -262,6 +280,33 @@
       "logo": "tanjug.rs",
       "datum": "24. 03. 2026. 09:48",
       "slika": "https://www.tanjug.rs/data/images/2026-03-24/371372_red-bull-klopp-soccer_f.jpg"
+    },
+    {
+      "naslov": "ВЕЉКО БИРМАНЧЕВИЋ | ВЕЛИКА ЈЕ ЧАСТ ИГРАТИ ЗА СРБИЈУ, ПРОТИВ ШПАНИЈЕ ИДЕМО ТАКМИЧАРСКИ И ХРАБРО (ВИДЕО)",
+      "opis": "Репрезентацију Србије очекују две јаке провере у мартовском термину, против Шпаније 27. марта у Виљареалу од 21.00 и против Саудијске Арабије 31. марта у Бачкој Тополи од 18.00. Међу играчима...",
+      "url": "https://fss.rs/veljko-birmancevic-velika-je-cast-igrati-za-srbiju-protiv-spanije-idemo-takmicarski-i-hrabro/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "24. 03. 2026. 09:33",
+      "slika": null
+    },
+    {
+      "naslov": "ПРВИ ТРЕНИНГ ОРЛОВА ПРЕД ДУЕЛ СА ШПАНИЈОМ, 27. МАРТА У ВИЉАРЕАЛУ (ВИДЕО)",
+      "opis": "Репрезентација Србије почела је припреме за мартовске провере, против Шпаније у Виљареалу 27. марта и сусрет са Саудијском Арабијом који се игра 31. марта у Бачкој Тополи. Током дана играчи...",
+      "url": "https://fss.rs/prvi-trening-orlova-pred-duel-sa-spanijom-27-marta-u-viljarealu/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "23. 03. 2026. 17:49",
+      "slika": null
+    },
+    {
+      "naslov": "У21 | ОРЛИЋИ НА ОКУПУ ПРЕД ПУТ У АНТАЛИЈУ: ТРЕНИНГ И ИЗЈАВЕ СЕЛЕКТОРА МИРКОВИЋА, КОЛАРЕВИЋА И ТЕГЕЛТИЈЕ (ВИДЕО)",
+      "opis": "Млада (У-21) репрезентација Србије окупила се у Спортском центру Фудбалског савеза Србије и започела припреме за утакмицу пријатељског карактера са У-23 селекцијом Киргистана, која је очекује у Анталији 26. марта....",
+      "url": "https://fss.rs/u21-orlici-na-okupu-pred-put-u-antaliju-trening-i-izjave-selektora-mirkovica-kolarevica-i-tegeltije/",
+      "izvor": "ФСС",
+      "logo": "fss.rs",
+      "datum": "23. 03. 2026. 14:35",
+      "slika": null
     }
   ],
   "tabela": [
