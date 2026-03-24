@@ -1042,20 +1042,10 @@ function latinicaUCirilicu(t) {
 // Динамичне: Мондо вести из JSON-а
 // ═══════════════════════════════════════════════════
 
-function proxyImg(url) {
-  if (!url) return '';
-  // Proxy needed for sites with hotlink protection (e.g. mondo.rs)
-  if (url.includes('mondo.rs') || url.includes('static2.mondo')) {
-    return 'https://wsrv.nl/?url=' + encodeURIComponent(url) + '&w=120&h=80&fit=cover&output=webp';
-  }
-  return url;
-}
-
 function listaItemV(v) {
   const url = (v.url||'#').replace(/'/g,'%27');
-  const imgSrc = proxyImg(v.slika);
-  const imgHtml = imgSrc
-    ? `<div class="tv-img"><img src="${imgSrc}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'"></div>`
+  const imgHtml = v.slika
+    ? `<div class="tv-img"><img src="${v.slika}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'"></div>`
     : `<div class="tv-img"><div class="tv-img-ph">⚽</div></div>`;
   return `<a class="tv-item" href="${url}" target="_blank" rel="noopener">
     ${imgHtml}
