@@ -102,12 +102,12 @@ nav a:hover{color:var(--red);border-color:var(--red)}
 .tv-item{display:flex;align-items:stretch;gap:0;text-decoration:none;border-bottom:1px solid var(--bdr);transition:background .12s;background:#fff}
 .tv-item:last-child{border-bottom:none}
 .tv-item:hover{background:var(--off)}
-.tv-img{width:90px;min-width:90px;height:70px;overflow:hidden;background:var(--off2);flex-shrink:0;position:relative}
-.tv-img img{width:100%;height:100%;object-fit:cover;display:block}
+.tv-img{width:110px;min-width:110px;height:80px;overflow:hidden;background:var(--off2);flex-shrink:0;position:relative}
+.tv-img img{width:100%;height:100%;object-fit:cover;object-position:center top;display:block}
 .tv-img-ph{width:100%;height:100%;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#c00 0%,#800 100%);font-size:22px}
-.tv-body{padding:10px 13px;display:flex;flex-direction:column;justify-content:center}
+.tv-body{padding:10px 14px;display:flex;flex-direction:column;justify-content:center;flex:1;min-width:0}
 .tv-src{font-family:var(--fu);font-size:9px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin-bottom:3px}
-.tv-ttl{font-family:var(--fd);font-size:13px;font-weight:600;color:var(--txt);line-height:1.3}
+.tv-ttl{font-family:var(--fd);font-size:13px;font-weight:600;color:var(--txt);line-height:1.3;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
 .tv-dt{font-family:var(--fu);font-size:10px;color:var(--txt4);margin-top:3px}
 
 /* SIDEBAR */
@@ -1046,15 +1046,25 @@ function latinicaUCirilicu(t) {
 // ВЕСТИ — Танјуг RSS + Мондо RSS (директно, са сликама)
 // ═══════════════════════════════════════════════════
 
+function imgSrc(url) {
+  if (!url) return '';
+  // Route Mondo images through our Cloudflare Worker to bypass hotlink protection
+  if (url.includes('mondo.rs') || url.includes('static2.mondo')) {
+    return WORKER_URL + '/img?url=' + encodeURIComponent(url);
+  }
+  return url;
+}
+
 function rssCardHTML(item, izvor) {
-  const imgHtml = item.img
-    ? `<img src="${item.img}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'">`
+  const src = imgSrc(item.img);
+  const imgHtml = src
+    ? `<img src="${src}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'">`
     : `<div class="tv-img-ph">⚽</div>`;
   return `<a class="tv-item" href="${item.link}" target="_blank" rel="noopener">
     <div class="tv-img">${imgHtml}</div>
     <div class="tv-body">
       <div class="tv-src">${izvor}</div>
-      <div class="tv-ttl">${(item.title||'').slice(0,88)}</div>
+      <div class="tv-ttl">${item.title||''}</div>
       <div class="tv-dt">${item.time||''}</div>
     </div>
   </a>`;
