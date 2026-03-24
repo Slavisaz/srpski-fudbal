@@ -1059,6 +1059,41 @@ function imgSrc(url) {
   return url;
 }
 
+// ── Латиница → Ћирилица транслитерација ─────────────────────────
+const _lat2cyr = [
+  ['lj','љ'],['nj','њ'],['dž','џ'],['Lj','Љ'],['Nj','Њ'],['Dž','Џ'],
+  ['LJ','ЉЈ'],['NJ','ЊЈ'],['DŽ','ЏЖ'],
+  ['š','ш'],['đ','ђ'],['č','ч'],['ć','ћ'],['ž','ж'],
+  ['Š','Ш'],['Đ','Ђ'],['Č','Ч'],['Ć','Ћ'],['Ž','Ж'],
+  ['a','а'],['b','б'],['c','ц'],['d','д'],['e','е'],['f','ф'],
+  ['g','г'],['h','х'],['i','и'],['j','ј'],['k','к'],['l','л'],
+  ['m','м'],['n','н'],['o','о'],['p','п'],['r','р'],['s','с'],
+  ['t','т'],['u','у'],['v','в'],['z','з'],
+  ['A','А'],['B','Б'],['C','Ц'],['D','Д'],['E','Е'],['F','Ф'],
+  ['G','Г'],['H','Х'],['I','И'],['J','Ј'],['K','К'],['L','Л'],
+  ['M','М'],['N','Н'],['O','О'],['P','П'],['R','Р'],['S','С'],
+  ['T','Т'],['U','У'],['V','В'],['Z','З'],
+];
+function toCyr(text) {
+  if (!text) return '';
+  // Only transliterate if text looks like Latin Serbian (has š,đ,č,ć,ž or mostly ASCII)
+  const hasSrLatin = /[šđčćžŠĐČĆŽ]/.test(text);
+  const hasCyrillic = /[\u0400-\u04FF]/.test(text);
+  if (hasCyrillic && !hasSrLatin) return text; // already Cyrillic
+  if (!hasSrLatin && !hasCyrillic) {
+    // Pure ASCII — likely Latin Serbian, transliterate
+    let r = text;
+    for (const [l, c] of _lat2cyr) r = r.split(l).join(c);
+    return r;
+  }
+  if (hasSrLatin) {
+    let r = text;
+    for (const [l, c] of _lat2cyr) r = r.split(l).join(c);
+    return r;
+  }
+  return text;
+}
+
 function rssCardHTML(item, izvor) {
   const src = imgSrc(item.img);
   const imgHtml = src
@@ -1068,7 +1103,7 @@ function rssCardHTML(item, izvor) {
     <div class="tv-img">${imgHtml}</div>
     <div class="tv-body">
       <div class="tv-src">${izvor}</div>
-      <div class="tv-ttl">${item.title||''}</div>
+      <div class="tv-ttl">${toCyr(item.title||'')}</div>
       <div class="tv-dt">${item.time||''}</div>
     </div>
   </a>`;
@@ -1078,7 +1113,7 @@ function parseRssItems(xmlText, max) {
   const doc = new DOMParser().parseFromString(xmlText, 'text/xml');
   const sr = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
   return Array.from(doc.querySelectorAll('item')).slice(0, max).map(item => {
-    const title = item.querySelector('title')?.textContent || '';
+    const title = toCyr(item.querySelector('title')?.textContent || '');
     const link  = item.querySelector('link')?.textContent?.trim() || '#';
     const pub   = item.querySelector('pubDate')?.textContent || '';
     const enc   = item.querySelector('enclosure');
@@ -1157,7 +1192,7 @@ async function ucitajTanjug() {
     const tanjugItems = (jd.vesti||[])
       .filter(v => (v.izvor||'').includes('Танјуг'))
       .slice(0, 3)
-      .map(v => ({ title: v.naslov||'', link: v.url||'#', img: v.slika||'', time: v.datum||'' }));
+      .map(v => ({ title: toCyr(v.naslov||''), link: v.url||'#', img: v.slika||'', time: v.datum||'' }));
     if (tanjugItems.length) {
       el.innerHTML = tanjugItems.map(i => rssCardHTML(i, 'Танјуг')).join('');
       updateTs(tsEl);
