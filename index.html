@@ -1145,46 +1145,47 @@ async function fetchRSS(rssUrl) {
   throw new Error('Svi proxy neuspešni');
 }
 
-// Load Tanjug RSS via proxy and render 3 cards
+// Load Tanjug vesti iz football.json (puni GitHub Actions svake 30 min)
 async function ucitajTanjug() {
   const el = document.getElementById('tanjug-list');
   const tsEl = document.getElementById('tanjug-ts');
   if (!el) return;
   try {
-    const rssUrl = 'https://www.tanjug.rs/rss/sport/fudbal';
-    const text = await fetchRSS(rssUrl);
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(text, 'text/xml');
-    const items = Array.from(doc.querySelectorAll('item')).slice(0, 3);
-    if (!items.length) throw new Error('no items');
+    const jr = await fetch(
+      'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json',
+      { signal: AbortSignal.timeout(7000), cache: 'no-store' }
+    );
+    if (!jr.ok) throw new Error('HTTP ' + jr.status);
+    const jd = await jr.json();
 
-    const cards = items.map(item => {
-      const title = item.querySelector('title')?.textContent || '';
-      const link  = item.querySelector('link')?.textContent?.trim() || '#';
-      const pub   = item.querySelector('pubDate')?.textContent || '';
-      const enc   = item.querySelector('enclosure');
-      const img   = enc ? enc.getAttribute('url') : '';
-      // Format date
-      let time = '';
-      if (pub) {
-        const d = new Date(pub);
-        if (!isNaN(d)) {
-          const sr = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
-          time = `${d.getDate()}. ${sr[d.getMonth()]} · ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
-        }
-      }
-      return tanjugCard({ title: latCyr(title), link, time, img });
+    const sr = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
+    const tanjugVesti = (jd.vesti || [])
+      .filter(v => (v.izvor||'').includes('Танјуг') || (v.izvor||'').includes('Tanjug'))
+      .slice(0, 3);
+
+    if (!tanjugVesti.length) throw new Error('no items');
+
+    el.innerHTML = tanjugVesti.map(v => {
+      const imgHtml = v.slika
+        ? `<img src="${v.slika}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'">`
+        : `<div class="tv-img-ph">⚽</div>`;
+      return `<a class="tv-item" href="${v.url||'#'}" target="_blank" rel="noopener">
+        <div class="tv-img">${imgHtml}</div>
+        <div class="tv-body">
+          <div class="tv-src">Танјуг</div>
+          <div class="tv-ttl">${(v.naslov||'').slice(0,85)}</div>
+          <div class="tv-dt">${v.datum||''}</div>
+        </div>
+      </a>`;
     }).join('');
 
-    el.innerHTML = cards;
     const now = new Date();
     if (tsEl) tsEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
   } catch(e) {
     el.innerHTML = '<div style="padding:14px;color:#9ca3af;font-size:12px">⚠️ Танјуг вести тренутно нису доступне. <a href="https://www.tanjug.rs/sport/fudbal" target="_blank" style="color:var(--red)">Отвори сајт →</a></div>';
-    console.warn('Tanjug RSS greška:', e.message);
+    console.warn('Tanjug greška:', e.message);
   }
 }
-
 const STATICNE_VESTI = [];
 
 let sveVesti = [];
@@ -1195,42 +1196,20 @@ async function ucitajVesti() {
 
   if (mainEl) mainEl.innerHTML = '<div style="color:#9ca3af;font-size:12px;padding:14px">⏳ Учитавам вести...</div>';
 
-  // Fetch Mondo RSS direktno — uvek sveže vesti
   try {
-    const mondoRss = 'https://mondo.rs/rss/sport';
-    const text = await fetchRSS(mondoRss);
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(text, 'text/xml');
-    const srM = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
+    const jr = await fetch(
+      'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json',
+      { signal: AbortSignal.timeout(7000), cache: 'no-store' }
+    );
+    if (!jr.ok) throw new Error('HTTP ' + jr.status);
+    const jd = await jr.json();
 
-    const FUDBAL_KW = ['фудбал','fudbal','liga','лига','kup','куп','reprezentacija','репрезентација',
-      'transfer','трансфер','premier','champions','uefa','fifa','gol','гол','utakmica','утакмица',
-      'trener','тренер','igrač','играч','klub','клуб','superliga','суперлига'];
-
-    const dinamicne = Array.from(doc.querySelectorAll('item'))
-      .filter(item => {
-        const t = (item.querySelector('title')?.textContent || '').toLowerCase();
-        const d = (item.querySelector('description')?.textContent || '').toLowerCase();
-        return FUDBAL_KW.some(kw => t.includes(kw) || d.includes(kw));
-      })
+    const mondoVesti = (jd.vesti || [])
+      .filter(v => (v.izvor||'').includes('Мондо') || (v.izvor||'').includes('Mondo'))
       .slice(0, 3)
-      .map(item => {
-        const naslov = item.querySelector('title')?.textContent || '';
-        const url    = item.querySelector('link')?.textContent?.trim() || '#';
-        const pub    = item.querySelector('pubDate')?.textContent || '';
-        // Mondo slika iz enclosure ili media:content
-        const enc  = item.querySelector('enclosure');
-        const med  = item.querySelector('content');
-        const slika = enc?.getAttribute('url') || med?.getAttribute('url') || '';
-        let datum = '';
-        if (pub) {
-          const d = new Date(pub);
-          if (!isNaN(d)) datum = `${d.getDate()}. ${String(d.getMonth()+1).padStart(2,'0')}. ${d.getFullYear()}. ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
-        }
-        return { naziv: 'Мондо', naslov, url, datum, izvor: 'Мондо', slika };
-      });
+      .map(v => ({ naziv: 'Мондо', naslov: v.naslov||'', url: v.url||'#', datum: v.datum||'', izvor: 'Мондо', slika: v.slika||'' }));
 
-    sveVesti = [...STATICNE_VESTI, ...dinamicne];
+    sveVesti = [...STATICNE_VESTI, ...mondoVesti];
     if (mainEl) mainEl.innerHTML = sveVesti.length
       ? sveVesti.map(listaItemV).join('')
       : '<div style="padding:14px;color:#9ca3af;font-size:12px">⚠️ Мондо вести тренутно нису доступне.</div>';
@@ -1239,7 +1218,7 @@ async function ucitajVesti() {
     if (azEl) azEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
 
   } catch(e) {
-    console.warn('Mondo RSS greška:', e.message);
+    console.warn('Mondo greška:', e.message);
     if (mainEl) mainEl.innerHTML = '<div style="padding:14px;color:#9ca3af;font-size:12px">⚠️ Мондо вести тренутно нису доступне. <a href="https://mondo.rs/Sport/Fudbal" target="_blank" style="color:var(--red)">Отвори сајт →</a></div>';
   }
 }
@@ -1277,7 +1256,6 @@ async function ucitajKurir() {
       const title = item.querySelector('title')?.textContent || '';
       const link  = item.querySelector('link')?.textContent?.trim() || '#';
       const pub   = item.querySelector('pubDate')?.textContent || '';
-      // Kurir uses <media:content> or <enclosure> for images
       const media = item.querySelector('content') || item.querySelector('enclosure');
       const img   = media ? (media.getAttribute('url') || '') : '';
       let time = '';
@@ -1298,7 +1276,6 @@ async function ucitajKurir() {
     console.warn('Kurir RSS greška:', e.message);
   }
 }
-
 ucitajVesti();
 ucitajTanjug();
 ucitajKurir();
