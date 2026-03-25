@@ -16,29 +16,46 @@ from zoneinfo import ZoneInfo
 # ── Konfiguracija feedova ──────────────────────────────────────────────────────
 FEEDS = [
     {
-        "url": "https://mondo.rs/rss/sport",
-        "izvor": "Мондо",
-        "logo": "mondo.rs",
-        "filter_kw": ["фудбал", "fudbal", "liga", "лига", "kup", "куп",
-                      "reprezentacija", "репрезентација", "premier", "champions",
-                      "transfer", "трансфер", "SuperSport", "superliga"],
-    },
-    {
         "url": "https://www.tanjug.rs/rss/sport/fudbal",
         "izvor": "Танјуг",
         "logo": "tanjug.rs",
         "filter_kw": [],  # sve su fudbalske
+        "max": 3,
     },
     {
         "url": "https://www.kurir.rs/rss/sport/fudbal",
         "izvor": "Курир",
         "logo": "kurir.rs",
         "filter_kw": [],  # sve su fudbalske
+        "max": 3,
+    },
+    {
+        "url": "https://www.mozzartsport.com/rss/1.xml",
+        "izvor": "МозартСпорт",
+        "logo": "mozzartsport.com",
+        "filter_kw": ["фудбал", "fudbal", "liga", "лига", "kup", "куп",
+                      "reprezentacija", "репрезентација", "premier", "champions",
+                      "transfer", "трансфер", "superliga", "суперлига"],
+        "max": 2,
+    },
+    {
+        "url": "https://www.b92.net/rss/sport/fudbal/srpski-fudbal",
+        "izvor": "Б92",
+        "logo": "b92.net",
+        "filter_kw": [],  # sve su srpski fudbal
+        "max": 1,
+    },
+    {
+        "url": "https://www.b92.net/rss/sport/fudbal/vesti",
+        "izvor": "Б92 Вести",
+        "logo": "b92.net",
+        "filter_kw": [],  # sve su fudbalske vesti
+        "max": 1,
     },
 ]
 
 BELGRADE_TZ = ZoneInfo("Europe/Belgrade")
-MAX_PO_FEEDU = 5   # maksimalno vesti po izvoru
+MAX_PO_FEEDU = 5   # default maksimum vesti po izvoru (ako nije definisano u feedu)
 MAX_UKUPNO  = 30  # ukupni limit
 
 
@@ -141,7 +158,7 @@ def povuci_feed(cfg: dict) -> list:
             "slika":  slika,
         })
 
-        if len(vesti) >= MAX_PO_FEEDU:
+        if len(vesti) >= cfg.get("max", MAX_PO_FEEDU):
             break
 
     print(f"    ✓ {len(vesti)} vesti")
