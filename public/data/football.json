@@ -1,7 +1,25 @@
 {
-  "azurirano": "2026-03-25T14:50:23.420142+00:00",
-  "azurirano_sr": "25. 03. 2026. у 15:50",
+  "azurirano": "2026-03-25T18:10:37.247652+00:00",
+  "azurirano_sr": "25. 03. 2026. у 19:10",
   "vesti": [
+    {
+      "naslov": "Đenaro Gatuzo: Moja je odluka da Italija igra u Bergamu, nisam želeo da nam u Milanu zvižde",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/fudbal/240346/denaro-gatuzo-moja-je-odluka-da-italija-igra-u-bergamu-nisam-zeleo-da-nam-u-milanu-zvizde/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "25. 03. 2026. у 17:33",
+      "slika": "https://www.tanjug.rs/data/images/2026-03-25/372205_italy-wcup-playoffs-soccer_f.jpg"
+    },
+    {
+      "naslov": "Veljko Milosavljević: Zaslužena pobeda protiv Engleske, dali smo sve od sebe",
+      "opis": "",
+      "url": "https://www.tanjug.rs/sport/fudbal/240325/veljko-milosavljevic-zasluzena-pobeda-protiv-engleske-dali-smo-sve-od-sebe/vest",
+      "izvor": "Танјуг",
+      "logo": "tanjug.rs",
+      "datum": "25. 03. 2026. у 16:04",
+      "slika": "https://www.tanjug.rs/data/images/2025-10-08/302679_1_f.jpg"
+    },
     {
       "naslov": "Omladinci Srbije pobedili Englesku na startu kvalifikacija za Evropsko prvenstvo",
       "opis": "",
@@ -30,67 +48,49 @@
       "slika": "https://www.tanjug.rs/data/images/2026-03-25/372007_sergej-milinkovic-savi_f.png"
     },
     {
-      "naslov": "Luka Jović: Očekujem pozitivan rezultat protiv Španije, daćemo sve od sebe",
+      "naslov": "TRENER IMA PODRŠKU PLAVACA: Rosenior ostaje u Čelsiju čak iako se ekipa ne plasira u Ligu šampiona",
       "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/240224/luka-jovic-ocekujem-pozitivan-rezultat-protiv-spanije-dacemo-sve-od-sebe/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "25. 03. 2026. у 11:19",
-      "slika": "https://www.tanjug.rs/data/images/2026-03-25/372009_luka-jovic_f.png"
-    },
-    {
-      "naslov": "FSS dodelio Zlatne lopte Luki Joviću, Strahinji Pavloviću i Sergeju Milinković-Saviću",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/240215/fss-dodelio-zlatne-lopte-luki-jovicu-strahinji-pavlovicu-i-sergeju-milinkovic-savicu/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "25. 03. 2026. у 10:42",
-      "slika": "https://www.tanjug.rs/data/images/2025-09-06/289055_fudbal-fss-dresovi_f.jpg"
-    },
-    {
-      "naslov": "ZA SADA - NE! Roberto De Zerbi imao spreman odgovor za Totenhem!",
-      "opis": "",
-      "url": "https://www.kurir.rs/sport/fudbal/9950470/roberto-de-zerbi-nece-preuzeti-totenhem-pre-kraja-sezone",
+      "url": "https://www.kurir.rs/sport/fudbal/9950718/rosenior-ostaje-u-celsiju-cak-iako-se-ekipa-ne-plasira-u-ligu-sampiona",
       "izvor": "Курир",
       "logo": "kurir.rs",
-      "datum": "25. 03. 2026. у 15:27",
-      "slika": "https://static.kurir.rs/Thumbnail/2488908/jpeg/Roberto-De-Zerbi.jpeg?ts=2026-02-11T08:57:44"
+      "datum": "25. 03. 2026. у 18:48",
+      "slika": "https://static.kurir.rs/Thumbnail/2464697/jpeg/Lijam-Rosenior.jpeg?ts=2026-01-06T11:13:39"
     },
     {
-      "naslov": "PARTIZAN DOBIO DUPLO VIŠE NOVCA OD DRŽAVE NEGO CRVENA ZVEZDA! Crno na belo: Ovo su svi podaci i brojke! Sada je sve jasno...",
+      "naslov": "NE STIŠAVA SE BURA NAKON NAJVEĆEG SKANDALA U ISTORIJI FUDBALA: Senegal se žalio nakon   oduzete titule!",
       "opis": "",
-      "url": "https://www.kurir.rs/sport/fudbal/9950398/partizan-dobio-duplo-vise-novca-od-zvezde",
+      "url": "https://www.kurir.rs/sport/fudbal/9950695/senegal-se-zalio-na-oduzetu-titulu",
       "izvor": "Курир",
       "logo": "kurir.rs",
-      "datum": "25. 03. 2026. у 14:34",
-      "slika": "https://static.kurir.rs/Thumbnail/2509981/jpeg/PARTIZAN-SKUPSTINA_25.jpg?ts=2026-03-10T20:37:40"
+      "datum": "25. 03. 2026. у 18:26",
+      "slika": "https://static.kurir.rs/Thumbnail/2516351/jpeg/Senegal-Maroko-Kup-africkih-nacija.jpeg?ts=2026-03-18T08:54:24"
     },
     {
-      "naslov": "FUDBALERI SRBIJE SRUŠILI MOĆNU ENGLESKU! \"Orlići\" ostvarili veliku pobedu i napravili krupan korak ka Evropskom prvenstvu!",
+      "naslov": "PLAČ NA ENFILDU ZBOG SALAHA! Emotivne poruke igrača Liverpula: Najveći i nenadmašan...",
       "opis": "",
-      "url": "https://www.kurir.rs/sport/fudbal/9950302/omladinska-u19-reprezentacija-srbije-pobedila-englesku",
+      "url": "https://www.kurir.rs/sport/fudbal/9950650/igraci-liverpula-se-oprastaju-od-mohameda-salaha",
       "izvor": "Курир",
       "logo": "kurir.rs",
-      "datum": "25. 03. 2026. у 13:53",
-      "slika": "https://static.kurir.rs/Thumbnail/2522291/jpeg/U19.jpg?ts=2026-03-25T14:15:02"
+      "datum": "25. 03. 2026. у 17:36",
+      "slika": "https://static.kurir.rs/Thumbnail/2352791/jpeg/Mohamed-Salah-Liverpul.jpeg?ts=2025-08-16T09:58:59"
     },
     {
-      "naslov": "NASER ĐIGA I CRVENA ZVEZDA! IMA LI ŠANSE I KOLIKO JE REALNO: Nekadašnji štoper rado bi se vratio na Marakanu, ali...",
+      "naslov": "PRVI MEMORIJAL U ČAST PARTIZANOVE LEGENDE: Oglasio se Slavko Delibašić, otac Andrije Delibašića",
       "opis": "",
-      "url": "https://www.kurir.rs/sport/fudbal/9950323/djiga-i-zvezda-da-li-je-realno",
+      "url": "https://www.kurir.rs/sport/fudbal/9950593/otac-andrije-delibasica-uputio-apel-navijacima",
       "izvor": "Курир",
       "logo": "kurir.rs",
-      "datum": "25. 03. 2026. у 13:27",
-      "slika": "https://static.kurir.rs/Thumbnail/2075509/jpeg/djiga2.jpg?ts=2024-09-09T12:31:12"
+      "datum": "25. 03. 2026. у 17:31",
+      "slika": "https://static.kurir.rs/Thumbnail/2522489/jpeg/2026-03-25-16_38_25-Apel-Slavka-Delibasica-navijacima-YouTube-Mozilla-Firefox.jpg?ts=2026-03-25T16:38:58"
     },
     {
-      "naslov": "PORTUGALAC NA CENTRU: Poznato ko sudi meč Španija - Srbija!",
+      "naslov": "NOVA BURA U SRPSKOM FUDBALU Spartak izdao oštro saopštenje: Protiv nas je u 28 kola svirano 13 penala!",
       "opis": "",
-      "url": "https://www.kurir.rs/sport/fudbal/9950252/portugalac-luis-godinjo-sudi-mec-srbija-spanija",
+      "url": "https://www.kurir.rs/sport/fudbal/9950639/saopstenje-fk-spartak-iz-subotice-protiv-nas-je-u-28-kola-svirano-13-penala",
       "izvor": "Курир",
       "logo": "kurir.rs",
-      "datum": "25. 03. 2026. у 12:31",
-      "slika": "https://static.kurir.rs/Thumbnail/2522181/jpeg/Luis-Godinjo.jpeg?ts=2026-03-25T12:30:45"
+      "datum": "25. 03. 2026. у 17:19",
+      "slika": "https://static.kurir.rs/Thumbnail/2522518/jpeg/spartak-partizan-633290.jpg?ts=2026-03-25T17:15:21"
     }
   ]
 }
