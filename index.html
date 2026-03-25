@@ -388,6 +388,17 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
       </div>
     </div>
 
+    <!-- Kurir live RSS cards — 3 naslova -->
+    <div id="kurir-cards" style="margin-bottom:14px">
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px">
+        <span style="font-family:var(--fu);font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red)">● Курир</span>
+        <span id="kurir-ts" style="font-family:var(--fu);font-size:10px;color:var(--txt4)"></span>
+      </div>
+      <div id="kurir-list" class="tv-list" style="border:1px solid var(--bdr);border-radius:10px;overflow:hidden">
+        <div style="padding:14px;color:#9ca3af;font-size:12px">⏳ Учитавам Курир вести...</div>
+      </div>
+    </div>
+
     <!-- Mondo + other sources -->
     <div id="main-vesti-list" class="tv-list" style="border:1px solid var(--bdr);border-radius:10px;overflow:hidden">
       <div style="padding:14px;color:#9ca3af;font-size:12px">Учитавам вести...</div>
@@ -1226,12 +1237,12 @@ async function ucitajVesti() {
     const mondoVesti = (jd.vesti || [])
       .filter(v => (v.izvor||'').includes('Мондо') || (v.izvor||'').includes('Mondo'))
       .slice(0, 3)
-      .map(v => ({ naziv: v.izvor||'Мондо', naslov: v.naslov||'', url: v.url||'#', datum: v.datum||'' }));
+      .map(v => ({ naziv: v.izvor||'Мондо', naslov: v.naslov||'', url: v.url||'#', datum: v.datum||'', izvor: v.izvor||'Мондо', slika: v.slika||'' }));
 
     // Ako nema Мондо vesti, uzmi prvih 3 bez obzira na izvor
     const dinamicne = mondoVesti.length > 0
       ? mondoVesti
-      : (jd.vesti || []).slice(0, 3).map(v => ({ naziv: v.izvor||'', naslov: v.naslov||'', url: v.url||'#', datum: v.datum||'' }));
+      : (jd.vesti || []).slice(0, 3).map(v => ({ naziv: v.izvor||'', naslov: v.naslov||'', url: v.url||'#', datum: v.datum||'', izvor: v.izvor||'', slika: v.slika||'' }));
 
     sveVesti = [...STATICNE_VESTI, ...dinamicne];
     if (mainEl) mainEl.innerHTML = sveVesti.map(listaItemV).join('');
@@ -1247,16 +1258,79 @@ async function ucitajVesti() {
     if (azEl) azEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
   }
 }
+// ═══════════════════════════════════
+// KURIR — RSS fudbalske vesti
+// ═══════════════════════════════════
+function kurirCard(item) {
+  const imgHtml = item.img
+    ? `<img src="${item.img}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'">`
+    : `<div class="tv-img-ph">⚽</div>`;
+  return `<a class="tv-item" href="${item.link}" target="_blank" rel="noopener">
+    <div class="tv-img">${imgHtml}</div>
+    <div class="tv-body">
+      <div class="tv-src">Курир</div>
+      <div class="tv-ttl">${item.title.slice(0,85)}</div>
+      <div class="tv-dt">${item.time}</div>
+    </div>
+  </a>`;
+}
+
+async function ucitajKurir() {
+  const el = document.getElementById('kurir-list');
+  const tsEl = document.getElementById('kurir-ts');
+  if (!el) return;
+  try {
+    const rssUrl = 'https://www.kurir.rs/rss/sport/fudbal';
+    const proxy = `https://api.allorigins.win/raw?url=${encodeURIComponent(rssUrl)}&t=${Date.now()}`;
+    const r = await fetch(proxy, { signal: AbortSignal.timeout(8000) });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const text = await r.text();
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(text, 'text/xml');
+    const items = Array.from(doc.querySelectorAll('item')).slice(0, 3);
+    if (!items.length) throw new Error('no items');
+
+    const sr = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
+    const cards = items.map(item => {
+      const title = item.querySelector('title')?.textContent || '';
+      const link  = item.querySelector('link')?.textContent?.trim() || '#';
+      const pub   = item.querySelector('pubDate')?.textContent || '';
+      // Kurir uses <media:content> or <enclosure> for images
+      const media = item.querySelector('content') || item.querySelector('enclosure');
+      const img   = media ? (media.getAttribute('url') || '') : '';
+      let time = '';
+      if (pub) {
+        const d = new Date(pub);
+        if (!isNaN(d)) {
+          time = `${d.getDate()}. ${sr[d.getMonth()]} · ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+        }
+      }
+      return kurirCard({ title, link, time, img });
+    }).join('');
+
+    el.innerHTML = cards;
+    const now = new Date();
+    if (tsEl) tsEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
+  } catch(e) {
+    el.innerHTML = '<div style="padding:14px;color:#9ca3af;font-size:12px">⚠️ Курир вести тренутно нису доступне.</div>';
+    console.warn('Kurir RSS greška:', e.message);
+  }
+}
+
 ucitajVesti();
 ucitajTanjug();
+ucitajKurir();
 setInterval(ucitajVesti, 2 * 60 * 1000);
 setInterval(ucitajTanjug, 5 * 60 * 1000);
+setInterval(ucitajKurir, 5 * 60 * 1000);
 
 let _poslednji = Date.now();
 document.addEventListener('visibilitychange', function() {
   if (document.visibilityState === 'visible' && Date.now() - _poslednji > 60000) {
     _poslednji = Date.now();
     ucitajVesti();
+    ucitajTanjug();
+    ucitajKurir();
     ucitajTicker();
   }
 });
