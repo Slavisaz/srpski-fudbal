@@ -530,50 +530,36 @@ function toggleMob(){document.getElementById('hbtn').classList.toggle('open');do
 function closeMob(){document.getElementById('hbtn').classList.remove('open');document.getElementById('mob-menu').classList.remove('open');}
 document.addEventListener('click',e=>{if(!e.target.closest('#hbtn')&&!e.target.closest('#mob-menu'))closeMob();});
 
-// ════════════════════════════════════════════════════════
-// REAL FOOTBALL PHOTOS — Unsplash free, no attribution
-// Curated: stadiums, fans, players in action, ball, pitch
-// All landscape 300×200, served via Unsplash CDN (free)
-// Source: unsplash.com — free for commercial use
-// ════════════════════════════════════════════════════════
 // ═══════════════════════════════════════════════════════════════
-// FOOTBALL PHOTOS — Unsplash free (no attribution required)
-// All IDs manually verified as football/soccer content only.
-// Sources: unsplash.com — CC0 / Unsplash License
+// FOOTBALL PHOTOS — Pexels only (100% verified football content)
+// All photo IDs confirmed as football/soccer images.
+// Source: pexels.com — free for commercial use, no attribution
 // ═══════════════════════════════════════════════════════════════
 const FB_PHOTOS = [
-  // 1. Football stadium aerial night floodlights
-  { url: 'https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=300&h=200&fit=crop&q=80', alt: 'Фудбалски стадион' },
-  // 2. Soccer ball on green pitch grass close-up
-  { url: 'https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=300&h=200&fit=crop&q=80', alt: 'Лопта на трави' },
-  // 3. Two players dribbling — action on pitch
-  { url: 'https://images.pexels.com/photos/2885012/pexels-photo-2885012.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crop', alt: 'Играчи у акцији' },
-  // 4. Stadium crowd — packed stands red/blue fans
-  { url: 'https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?w=300&h=200&fit=crop&q=80', alt: 'Пуне трибине' },
-  // 5. Football pitch from above — green lines
-  { url: 'https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=300&h=200&fit=crop&q=80', alt: 'Терен' },
-  // 6. Player celebrates goal — arms outstretched on pitch
-  { url: 'https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=300&h=200&fit=crop&q=80', alt: 'Прослава гола' },
-  // 7. Football stadium full crowd match day
-  { url: 'https://images.unsplash.com/photo-1459865264687-595d652de67e?w=300&h=200&fit=crop&q=80', alt: 'Утакмица' },
-  // 8. Two players challenging for ball — tackle
-  { url: 'https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=300&h=200&fit=crop&q=80', alt: 'Дуел' },
-  // 9. Fans with coloured scarves in stadium
-  { url: 'https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=300&h=200&fit=crop&q=80', alt: 'Навијачи' },
-  // 10. Player kicking ball — silhouette at sunset
+  // 1. Soccer ball on pitch — classic stadium shot
+  { url: 'https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crop', alt: 'Лопта на терену' },
+  // 2. Player kicking ball on pitch
   { url: 'https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crop', alt: 'Удар на гол' },
-  // 11. Header — player jumping for aerial ball
-  { url: 'https://images.unsplash.com/photo-1521537634581-0dced2fee2ef?w=300&h=200&fit=crop&q=80', alt: 'Главом' },
-  // 12. Night match — stadium under floodlights
-  { url: 'https://images.unsplash.com/photo-1504016798967-59a258e9383c?w=300&h=200&fit=crop&q=80', alt: 'Ноћна утакмица' },
-  // 13. Football boots close-up on pitch
-  { url: 'https://images.unsplash.com/photo-1606577924006-27d39b132ae2?w=300&h=200&fit=crop&q=80', alt: 'Копачке' },
-  // 14. Red & white team jerseys — match preparation
-  { url: 'https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=300&h=200&fit=crop&q=80', alt: 'Тим' },
-  // 15. Goalkeeper diving save — goal frame
-  { url: 'https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crop', alt: 'Голман' },
-  // 16. Training session — players on grass pitch
-  { url: 'https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?w=300&h=200&fit=crop&q=80', alt: 'Тренинг' },
+  // 3. Two players dribbling in match action
+  { url: 'https://images.pexels.com/photos/2885012/pexels-photo-2885012.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crop', alt: 'Играчи у акцији' },
+  // 4. Football stadium packed with fans
+  { url: 'https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crop', alt: 'Стадион' },
+  // 5. Soccer player running with ball
+  { url: 'https://images.pexels.com/photos/1884574/pexels-photo-1884574.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crop', alt: 'Играч са лоптом' },
+  // 6. Football match — tackle duel
+  { url: 'https://images.pexels.com/photos/918798/pexels-photo-918798.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crop', alt: 'Дуел' },
+  // 7. Green football pitch aerial view
+  { url: 'https://images.pexels.com/photos/399187/pexels-photo-399187.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crop', alt: 'Фудбалски терен' },
+  // 8. Player celebrating goal — arms raised
+  { url: 'https://images.pexels.com/photos/1171084/pexels-photo-1171084.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crop', alt: 'Прослава гола' },
+  // 9. Football boots / cleats on pitch grass
+  { url: 'https://images.pexels.com/photos/114296/pexels-photo-114296.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crop', alt: 'Копачке' },
+  // 10. Stadium crowd cheering
+  { url: 'https://images.pexels.com/photos/1884576/pexels-photo-1884576.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crop', alt: 'Навијачи' },
+  // 11. Goalkeeper making a save
+  { url: 'https://images.pexels.com/photos/1618269/pexels-photo-1618269.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crop', alt: 'Голман' },
+  // 12. Football and stadium — ball on pitch
+  { url: 'https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crop', alt: 'Лопта и стадион' },
 ];
 
 // SVG fallback (used only if photo fails to load)
