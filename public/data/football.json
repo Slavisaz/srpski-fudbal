@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-03-26T05:53:27.218077+00:00",
-  "azurirano_sr": "26. 03. 2026. у 06:53",
+  "azurirano": "2026-03-26T08:36:22.051975+00:00",
+  "azurirano_sr": "26. 03. 2026. у 09:36",
   "vesti": [
     {
       "naslov": "Disciplinska komisija UEFA kaznila Fenerbahče utakmicom bez navijača na gostovanjima",
@@ -30,6 +30,15 @@
       "slika": "https://www.tanjug.rs/data/images/2025-10-08/302679_1_f.jpg"
     },
     {
+      "naslov": "SRBIJA - ARGENTINA! Kakav spektakl: Orlovi protiv Lea Mesija pred start Mundijala",
+      "opis": "",
+      "url": "https://www.kurir.rs/sport/fudbal/9950924/srbija-argentina-prijateljski-mec-pred-mundijal",
+      "izvor": "Курир",
+      "logo": "kurir.rs",
+      "datum": "26. 03. 2026. у 07:21",
+      "slika": "https://static.kurir.rs/Thumbnail/2104619/jpeg/profimedia-0919334322.jpg?ts=2024-10-11T07:57:56"
+    },
+    {
       "naslov": "BILA JE IZBAČENA I ISPLJUVANA IZ FUDBALA: A, sada zarađuje 660.000 evra godišnje i smeje im se u lice",
       "opis": "",
       "url": "https://www.kurir.rs/sport/fudbal/9943901/bila-je-ispljuvana-a-sada-zaradjuje-660-000-evra",
@@ -48,40 +57,31 @@
       "slika": "https://static.kurir.rs/Thumbnail/2475908/jpeg/profimedia-1068591825.jpg?ts=2026-01-23T19:34:49"
     },
     {
-      "naslov": "IZJAVA KOJA ĆE RAZBESNETI SLAVNOG PORTUGALCA! Karager: Salah je veća legenda Premijer lige od Ronalda!",
-      "opis": "",
-      "url": "https://www.kurir.rs/sport/fudbal/9950284/izjava-karagera-o-salahu",
-      "izvor": "Курир",
-      "logo": "kurir.rs",
-      "datum": "26. 03. 2026. у 02:43",
-      "slika": "https://static.kurir.rs/Thumbnail/2352792/jpeg/Mohamed-Salah-Liverpul.jpeg?ts=2025-08-16T09:59:08"
-    },
-    {
-      "naslov": "Banfield protiv niželigaša koji sanja čudo",
-      "opis": "Maleni Real Pilar dolazi noćas (01.15) u južni deo Buenos Ajresa u Kupu Argentine",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/banfield-protiv-nizeligasa-koji-sanja-cudo/539581",
+      "naslov": "Cirkus 'Embape i lekari' se nastavlja: Pogrešili nogu i Kamavingi, kome sada verovati?",
+      "opis": "Hronologija spornog slučaja u čijem centru se nalazi jedan od najboljih fudbalera planete",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cirkus-embape-i-lekari-se-nastavlja-pogresili-nogu-i-kamavingi-kome-sada-verovati/539609",
       "izvor": "МозартСпорт",
       "logo": "mozzartsport.com",
-      "datum": "25. 03. 2026. у 23:31",
-      "slika": "https://cdn3.mozzartsport.com/upload/825x464/News/Image/2026_03/1774444857434_000_994N3NA_(1)_Cropped.jpg.webp"
+      "datum": "26. 03. 2026. у 09:43",
+      "slika": "https://cdn3.mozzartsport.com/upload/825x464/News/Image/2026_03/1774478470118_2026-03-25T202047Z_1815852378_UP1EM3P1K76O4_RTRMADP_3_SOCCER-FRIENDLY-BRA-FRA-PREVIEW_Cropped.jpg.webp"
     },
     {
-      "naslov": "Savršen dan za srpski fudbal: Kadeti se mučili sa Kipranima, rešio ih majstor Matanović",
-      "opis": "Teško izvojevana pobeda a na početku kvalifikacija za EP protiv Kiprana golovima u finišu – 3:1. Sledi meč sa Belgijom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/savrsen-dan-za-srpski-fudbal-kadeti-se-mucili-sa-kipranima-resio-ih-majstor-matanovic/539597",
+      "naslov": "PRELAZZI: Igra se tamo gde se živi, živi se tamo gde se igra",
+      "opis": "Šta je to Magnusov efekat u Berlunijevoj jednačini i kakve on veze ima sa Svetskim prvenstvom u fudbalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-igra-se-tamo-gde-se-zivi-zivi-se-tamo-gde-se-igra/539621",
       "izvor": "МозартСпорт",
       "logo": "mozzartsport.com",
-      "datum": "25. 03. 2026. у 19:59",
-      "slika": "https://cdn3.mozzartsport.com/upload/825x464/News/Image/2026_03/1774461689601_U17_SERBIA_vs_CYPRUS_23_(1).jpg.webp"
+      "datum": "26. 03. 2026. у 09:20",
+      "slika": "https://cdn3.mozzartsport.com/upload/825x464/News/Image/2026_03/1774509646744_2019-02-13T000858Z_702584712_RC1D32231900_RTRMADP_3_SOCCER-BOLIVIA-STADIUM_Cropped.jpg.webp"
     },
     {
-      "naslov": "Otkriveno: Ovo je Zvezdin plan za leto",
-      "opis": "Sve glasnije se priča o letnjem prelaznom roku, a domaći mediji već pišu o planovima Crvene zvezde.",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219197/fk-crvena-zvezda-i-letnji-prelazni-rok/vest",
+      "naslov": "Srbija &quot;testira&quot; svetskog prvaka pred Mundijal?",
+      "opis": "Srbija će u petak odmeriti snage sa Španijom, evropskim prvakom, a u junu bi mogla da odmeri snage i sa Argentinom, svetskim šampionom.",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219266/srbija-testira-argentinu/vest",
       "izvor": "Б92",
       "logo": "b92.net",
-      "datum": "25. 03. 2026. у 20:15",
-      "slika": "https://www.b92.net/data/images/2026-03-21/222899_zvezda-radnicki-34279404_f.JPG"
+      "datum": "26. 03. 2026. у 09:14",
+      "slika": "https://www.b92.net/data/images/2026-03-16/221211_13331777_f.jpg"
     },
     {
       "naslov": "UEFA kaznila Fenerbahče",
