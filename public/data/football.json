@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-03-25T23:05:59.248401+00:00",
-  "azurirano_sr": "26. 03. 2026. у 00:05",
+  "azurirano": "2026-03-26T00:04:59.181071+00:00",
+  "azurirano_sr": "26. 03. 2026. у 01:04",
   "vesti": [
     {
       "naslov": "Disciplinska komisija UEFA kaznila Fenerbahče utakmicom bez navijača na gostovanjima",
@@ -30,13 +30,22 @@
       "slika": "https://www.tanjug.rs/data/images/2025-10-08/302679_1_f.jpg"
     },
     {
-      "naslov": "POTPUNA LUDNICA - ZVEZDA IMA SVE U SVOJIM RUKAMA NAKON TRILERA U VITORIJI: Ovako izgleda   tabela Evrolige posle dramatične pobede crveno-belih!",
+      "naslov": "CRNO-BELI SLAVILI U NIKŠIĆU: Fudbaleri Partizana pobednici prvog Memorijala \"Andrija Delibašić\"",
       "opis": "",
-      "url": "https://www.kurir.rs/sport/fudbal/9950653/ovako-izgleda-tabela-evrolige",
+      "url": "https://www.kurir.rs/sport/fudbal/9950907/fudbaleri-partizana-pobednici-prvog-memorijala-andrija-delibasic",
       "izvor": "Курир",
       "logo": "kurir.rs",
-      "datum": "25. 03. 2026. у 22:58",
-      "slika": "https://static.kurir.rs/Thumbnail/2522782/jpeg/2026-03-25-22_28_05-.jpg?ts=2026-03-25T22:30:13"
+      "datum": "26. 03. 2026. у 00:43",
+      "slika": "https://static.kurir.rs/Thumbnail/2233936/jpeg/andrija.jpg?ts=2025-03-19T12:15:41"
+    },
+    {
+      "naslov": "SEVERNA MAKEDONIJA GOSTUJE DANSKOJ U BARAŽU! Sedloski: Došli smo u Kopenhagen da eliminišemo domaćina",
+      "opis": "",
+      "url": "https://www.kurir.rs/sport/fudbal/9950905/makedonci-gostuju-danskoj-u-barazu-za-mundijal",
+      "izvor": "Курир",
+      "logo": "kurir.rs",
+      "datum": "26. 03. 2026. у 00:35",
+      "slika": "https://static.kurir.rs/Thumbnail/2454559/jpeg/profimedia-1049515203.jpg?ts=2025-12-22T19:24:05"
     },
     {
       "naslov": "UEFA KAZNILA BENFIKU: Istraga protiv Prestijanija i dalje traje",
@@ -46,15 +55,6 @@
       "logo": "kurir.rs",
       "datum": "25. 03. 2026. у 21:45",
       "slika": "https://static.kurir.rs/Thumbnail/2498089/jpeg/Vinisijus-Benfika.jpeg?ts=2026-02-23T15:37:31"
-    },
-    {
-      "naslov": "\"ČUJEM GLASOVE KOJI MI GOVORE: ODVEDI IH NA MUNDIJAL\" Gatuzo: Polufinale baraža najvažnija utakmica u mojoj trenerskoj karijeri",
-      "opis": "",
-      "url": "https://www.kurir.rs/sport/fudbal/9950808/gatuzo-polufinale-baraza-najvaznija-utakmica-u-mojoj-trenerskoj-karijeri",
-      "izvor": "Курир",
-      "logo": "kurir.rs",
-      "datum": "25. 03. 2026. у 21:04",
-      "slika": "https://static.kurir.rs/Thumbnail/2308684/jpeg/Djenaro-Gatuzo.jpeg?ts=2025-06-19T13:44:52"
     },
     {
       "naslov": "Banfield protiv niželigaša koji sanja čudo",
