@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-03-26T21:57:41.845839+00:00",
-  "azurirano_sr": "26. 03. 2026. у 22:57",
+  "azurirano": "2026-03-26T22:59:46.580652+00:00",
+  "azurirano_sr": "26. 03. 2026. у 23:59",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Francuske pobedili Brazil u prijateljskoj utakmici",
+      "url": "https://www.tanjug.rs/sport/fudbal/240681/fudbaleri-francuske-pobedili-brazil-u-prijateljskoj-utakmici/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 03. 2026. у 23:21",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Italije pobedili Severnu Irsku i prošli u finale baraža kvalifikacija za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/240675/fudbaleri-italije-pobedili-severnu-irsku-i-prosli-u-finale-baraza-kvalifikacija-za-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 03. 2026. у 23:04",
+      "slika": null
+    },
+    {
       "naslov": "Košarkaši Borca poraženi od Beča u ABA ligi",
       "url": "https://www.tanjug.rs/sport/fudbal/240670/kosarkasi-borca-porazeni-od-beca-u-aba-ligi/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/240654/koko-gof-prva-finalistkinja-wta-turnira-u-majamiju/vest",
       "izvor": "Танјуг",
       "datum": "26. 03. 2026. у 21:43",
-      "slika": null
-    },
-    {
-      "naslov": "Veljko Paunović: Došli smo da se takmičimo protiv Španije, moramo da budemo na nivou zadatka",
-      "url": "https://www.tanjug.rs/sport/fudbal/240641/veljko-paunovic-dosli-smo-da-se-takmicimo-protiv-spanije-moramo-da-budemo-na-nivou-zadatka/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 03. 2026. у 20:56",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Turske pobedili Rumuniju i prošli u finale baraža kvalifikacija za Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/240632/fudbaleri-turske-pobedili-rumuniju-i-prosli-u-finale-baraza-kvalifikacija-za-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 03. 2026. у 20:04",
       "slika": null
     },
     {
