@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-26T21:04:14.293421+00:00",
-  "azurirano_sr": "26. 03. 2026. у 22:04",
+  "azurirano": "2026-03-26T21:57:41.845839+00:00",
+  "azurirano_sr": "26. 03. 2026. у 22:57",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Makedonci nisu ta liga: Оprez! Danska podsetila na \"dark horse\" verziju pre Katara",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/makedonci-nisu-ta-liga-prez-danska-podsetila-na-dark-horse-verziju-pre-katara/539694",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 03. 2026. у 23:42",
+      "slika": null
+    },
     {
       "naslov": "De la Fuente: Iznenadilo me što Srbija nema bolje rezultate, drago mi je da Paunoviću dobro ide",
       "url": "https://www.mozzartsport.com/fudbal/vesti/de-la-fuente-iznenadilo-me-sto-srbija-nema-bolje-rezultate-drago-mi-je-da-paunovicu-dobro-ide/539690",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "\"Prodajem hemijsku za 100 evra i poklanjam kartu za Španija - Srbija\"",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prodajem-hemijsku-za-100-evra-i-poklanjam-kartu-za-spanija-srbija/539632",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 03. 2026. у 12:21",
+      "naslov": "Košarkaši Borca poraženi od Beča u ABA ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/240670/kosarkasi-borca-porazeni-od-beca-u-aba-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 03. 2026. у 22:48",
+      "slika": null
+    },
+    {
+      "naslov": "Koko Gof prva finalistkinja WTA turnira u Majamiju",
+      "url": "https://www.tanjug.rs/sport/fudbal/240654/koko-gof-prva-finalistkinja-wta-turnira-u-majamiju/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 03. 2026. у 21:43",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/240632/fudbaleri-turske-pobedili-rumuniju-i-prosli-u-finale-baraza-kvalifikacija-za-svetsko-prvenstvo/vest",
       "izvor": "Танјуг",
       "datum": "26. 03. 2026. у 20:04",
-      "slika": null
-    },
-    {
-      "naslov": "Mladi fudbaleri Srbije odigrali nerešeno protiv Kirgistana u prijateljskoj utakmici",
-      "url": "https://www.tanjug.rs/sport/fudbal/240602/mladi-fudbaleri-srbije-odigrali-nereseno-protiv-kirgistana-u-prijateljskoj-utakmici/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 03. 2026. у 17:35",
-      "slika": null
-    },
-    {
-      "naslov": "Megvajer: Pregovaram sa Mančester junajtedom o novom ugovoru",
-      "url": "https://www.tanjug.rs/sport/fudbal/240555/megvajer-pregovaram-sa-mancester-junajtedom-o-novom-ugovoru/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 03. 2026. у 14:22",
       "slika": null
     },
     {
