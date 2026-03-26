@@ -1,96 +1,77 @@
 {
-  "azurirano": "2026-03-26T15:57:10.355847+00:00",
-  "azurirano_sr": "26. 03. 2026. у 16:57",
+  "azurirano": "2026-03-26T19:40:21.444954+00:00",
+  "azurirano_sr": "26. 03. 2026. у 20:40",
+  "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Megvajer: Pregovaram sa Mančester junajtedom o novom ugovoru",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/240555/megvajer-pregovaram-sa-mancester-junajtedom-o-novom-ugovoru/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "26. 03. 2026. у 14:22",
-      "slika": "https://www.tanjug.rs/data/images/2026-03-26/372495_britain-premier-league-soccer_f.jpg"
-    },
-    {
-      "naslov": "Francuska liga odložila meč između fudbalera Lansa i Pari Sen Žermena",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/240553/francuska-liga-odlozila-mec-izmedu-fudbalera-lansa-i-pari-sen-zermena/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "26. 03. 2026. у 14:08",
-      "slika": "https://www.tanjug.rs/data/images/2026-02-01/350905_shutterstock-2234660551_f.jpg"
-    },
-    {
-      "naslov": "Fudbaleri Srbije odradili poslednji trening u Staroj Pazovi uoči puta u Španiju",
-      "opis": "",
-      "url": "https://www.tanjug.rs/sport/fudbal/240498/fudbaleri-srbije-odradili-poslednji-trening-u-staroj-pazovi-uoci-puta-u-spaniju/vest",
-      "izvor": "Танјуг",
-      "logo": "tanjug.rs",
-      "datum": "26. 03. 2026. у 11:53",
-      "slika": "https://www.tanjug.rs/data/images/2026-01-30/349832_shutterstock-1012740448_f.jpg"
-    },
-    {
-      "naslov": "IZ GENERACIJE KOJA JE SRUŠILA ENGLEZE U A REPREZENTACIJI BIĆE IZMEĐU 10 I 12 IGRAČA: Jovan Damjanović ima jasnu poruku za Srbiju!",
-      "opis": "",
-      "url": "https://www.kurir.rs/sport/fudbal/9951583/damjanovic-tvrdi-da-ce-10-do-12-klinaca-uci-u-a-reprezentaciju",
-      "izvor": "Курир",
-      "logo": "kurir.rs",
-      "datum": "26. 03. 2026. у 16:10",
-      "slika": "https://static.kurir.rs/Thumbnail/1996781/jpeg/serbia-u18italy-u18-122.jpg?ts=2024-05-10T13:24:59"
-    },
-    {
-      "naslov": "PARIŽANI ISTERALI SVOJE: Francuska liga odložila utakmicu Lansa i Pari Sen Žermena u interesu domaćeg fudbala",
-      "opis": "",
-      "url": "https://www.kurir.rs/sport/fudbal/9951576/francuska-liga-odlozila-utakmicu-lansa-i-pari-sen-zermena-u-interesu-domaceg-fudbala",
-      "izvor": "Курир",
-      "logo": "kurir.rs",
-      "datum": "26. 03. 2026. у 16:05",
-      "slika": "https://static.kurir.rs/Thumbnail/2498768/jpeg/profimedia-1076034022.jpg?ts=2026-02-24T14:08:56"
-    },
-    {
-      "naslov": "\"AKO DOZVOLE DA OVO PROĐE...\" Senegalci okupili advokate iz Evrope! Nastavlja se haos posle najvećeg skandala u istoriji fudbala",
-      "opis": "",
-      "url": "https://www.kurir.rs/sport/fudbal/9951239/senegalci-okupili-evropske-advokate-zbog-najveceg-skandala-u-istoriji-fudbala",
-      "izvor": "Курир",
-      "logo": "kurir.rs",
-      "datum": "26. 03. 2026. у 15:56",
-      "slika": "https://static.kurir.rs/Thumbnail/2472316/jpeg/Maroko-Senegal.jpg?ts=2026-01-19T09:37:19"
+      "naslov": "Ne sluti na dobro: Mlada reprezentacija remizirala sa Kirgistanom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ne-sluti-na-dobro-mlada-reprezentacija-remizirala-sa-kirgistanom/539670",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 03. 2026. у 18:39",
+      "slika": null
     },
     {
       "naslov": "Mađarski klinac srpskih korena na meti HSV-a: Prate ga i Lajpcig, Inter i Benfika",
-      "opis": "Andrej Vasiljević, koji trenutno nastupa za Mađarsku, mogao bi na leto da se pridruži Bundesligašu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/maarski-klinac-srpskih-korena-na-meti-hsva-prate-ga-i-lajpcig-inter-i-benfika/539638",
-      "izvor": "МозартСпорт",
-      "logo": "mozzartsport.com",
+      "izvor": "Мозарт Спорт",
       "datum": "26. 03. 2026. у 12:38",
-      "slika": "https://cdn3.mozzartsport.com/upload/825x464/News/Image/2026_03/1774521533119_1766782231363_1070668855_Cropped_Cropped.jpg.webp.webp"
+      "slika": null
+    },
+    {
+      "naslov": "\"Prodajem hemijsku za 100 evra i poklanjam kartu za Španija - Srbija\"",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prodajem-hemijsku-za-100-evra-i-poklanjam-kartu-za-spanija-srbija/539632",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 03. 2026. у 12:21",
+      "slika": null
     },
     {
       "naslov": "Cirkus 'Embape i lekari' se nastavlja: Pogrešili nogu i Kamavingi, kome sada verovati?",
-      "opis": "Hronologija spornog slučaja u čijem centru se nalazi jedan od najboljih fudbalera planete",
       "url": "https://www.mozzartsport.com/fudbal/vesti/cirkus-embape-i-lekari-se-nastavlja-pogresili-nogu-i-kamavingi-kome-sada-verovati/539609",
-      "izvor": "МозартСпорт",
-      "logo": "mozzartsport.com",
+      "izvor": "Мозарт Спорт",
       "datum": "26. 03. 2026. у 09:43",
-      "slika": "https://cdn3.mozzartsport.com/upload/825x464/News/Image/2026_03/1774478470118_2026-03-25T202047Z_1815852378_UP1EM3P1K76O4_RTRMADP_3_SOCCER-FRIENDLY-BRA-FRA-PREVIEW_Cropped.jpg.webp"
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Turske pobedili Rumuniju i prošli u finale baraža kvalifikacija za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/240632/fudbaleri-turske-pobedili-rumuniju-i-prosli-u-finale-baraza-kvalifikacija-za-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 03. 2026. у 20:04",
+      "slika": null
+    },
+    {
+      "naslov": "Mladi fudbaleri Srbije odigrali nerešeno protiv Kirgistana u prijateljskoj utakmici",
+      "url": "https://www.tanjug.rs/sport/fudbal/240602/mladi-fudbaleri-srbije-odigrali-nereseno-protiv-kirgistana-u-prijateljskoj-utakmici/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 03. 2026. у 17:35",
+      "slika": null
+    },
+    {
+      "naslov": "Megvajer: Pregovaram sa Mančester junajtedom o novom ugovoru",
+      "url": "https://www.tanjug.rs/sport/fudbal/240555/megvajer-pregovaram-sa-mancester-junajtedom-o-novom-ugovoru/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 03. 2026. у 14:22",
+      "slika": null
+    },
+    {
+      "naslov": "Francuska liga odložila meč između fudbalera Lansa i Pari Sen Žermena",
+      "url": "https://www.tanjug.rs/sport/fudbal/240553/francuska-liga-odlozila-mec-izmedu-fudbalera-lansa-i-pari-sen-zermena/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 03. 2026. у 14:08",
+      "slika": null
+    },
+    {
+      "naslov": "&quot;Orlovi&quot; u Bačkoj Topoli – karte u prodaji",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219500/orlovi-u-backoj-topoli-karte-u-prodaji/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 03. 2026. у 18:41",
+      "slika": null
     },
     {
       "naslov": "&quot;Orlići&quot; remizirali sa Kirgistanom",
-      "opis": "Fudbaleri Srbije do 21 godine odigrali su nerešeno sa U21 selekcijom Kirgistana.",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219463/orlici-remizirali-sa-kirgistanom/vest",
-      "izvor": "Б92",
-      "logo": "b92.net",
+      "izvor": "Б92 Српски фудбал",
       "datum": "26. 03. 2026. у 16:54",
-      "slika": "https://www.b92.net/data/images/2026-03-26/224282_met-7605-scaled_f.jpg"
-    },
-    {
-      "naslov": "UEFA kaznila Fenerbahče",
-      "opis": "Disciplinska komisija UEFA kaznila Fenerbahče utakmicom bez navijača na gostovanjima.",
-      "url": "https://www.b92.net/sport/fudbal/vesti/219235/uefa-kaznila-fenerbahce/vest",
-      "izvor": "Б92 Вести",
-      "logo": "b92.net",
-      "datum": "26. 03. 2026. у 00:05",
-      "slika": "https://www.b92.net/data/images/2025-11-10/185989_13454475_f.jpg"
+      "slika": null
     }
   ]
 }
