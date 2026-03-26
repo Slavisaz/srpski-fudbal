@@ -84,7 +84,9 @@ nav a:hover{color:var(--red);border-color:var(--red)}
 .ai-news-item{display:flex;align-items:stretch;border-bottom:1px solid var(--bdr);text-decoration:none;transition:background .12s;background:#fff;cursor:pointer}
 .ai-news-item:last-child{border-bottom:none}
 .ai-news-item:hover{background:var(--off)}
-.ani-thumb{width:88px;min-width:88px;height:68px;flex-shrink:0;overflow:hidden;position:relative}
+.ani-thumb{width:88px;min-width:88px;height:68px;flex-shrink:0;overflow:hidden;position:relative;background:var(--off2)}
+.ani-thumb img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
+.ai-news-item:hover .ani-thumb img{transform:scale(1.08)}
 .ani-body{padding:10px 13px;display:flex;flex-direction:column;justify-content:center;min-width:0}
 .ani-src{font-family:var(--fu);font-size:9px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin-bottom:3px;display:flex;align-items:center;gap:4px}
 .ani-fresh{background:#16a34a;color:#fff;font-size:8px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:1px 5px;border-radius:3px}
@@ -104,8 +106,8 @@ nav a:hover{color:var(--red);border-color:var(--red)}
 .ai-refresh-btn{background:none;border:1px solid var(--bdr);border-radius:3px;padding:3px 9px;font-family:var(--fu);font-size:10px;color:var(--txt3);cursor:pointer;transition:all .15s}
 .ai-refresh-btn:hover{border-color:var(--red);color:var(--red)}
 
-/* GENERIC FOOTBALL SVG THUMBNAILS */
-.fb-thumb{width:100%;height:100%;display:flex;align-items:center;justify-content:center}
+
+
 
 /* TV-LIST (used by Superliga widget) */
 .tv-list{display:flex;flex-direction:column;gap:0}
@@ -524,34 +526,47 @@ function toggleMob(){document.getElementById('hbtn').classList.toggle('open');do
 function closeMob(){document.getElementById('hbtn').classList.remove('open');document.getElementById('mob-menu').classList.remove('open');}
 document.addEventListener('click',e=>{if(!e.target.closest('#hbtn')&&!e.target.closest('#mob-menu'))closeMob();});
 
-// ════════════════════════════════════
-// GENERIC FOOTBALL SVG THUMBNAILS
-// 8 distinct illustrated placeholders — no real photos, no copyright issues
-// ════════════════════════════════════
-const FB_THUMBS = [
-  // Thumbnail 0 — pitch top-down
-  `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="68" fill="#1a5c2e"/><rect x="4" y="4" width="80" height="60" fill="none" stroke="rgba(255,255,255,.5)" stroke-width="1.5"/><line x1="44" y1="4" x2="44" y2="64" stroke="rgba(255,255,255,.5)" stroke-width="1.5"/><circle cx="44" cy="34" r="9" fill="none" stroke="rgba(255,255,255,.5)" stroke-width="1.5"/><rect x="4" y="20" width="12" height="28" fill="none" stroke="rgba(255,255,255,.5)" stroke-width="1.5"/><rect x="72" y="20" width="12" height="28" fill="none" stroke="rgba(255,255,255,.5)" stroke-width="1.5"/></svg>`,
-  // Thumbnail 1 — football close-up
-  `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="68" fill="#0d2035"/><circle cx="44" cy="34" r="22" fill="white" stroke="#ccc" stroke-width="1"/><polygon points="44,16 52,24 50,34 44,38 38,34 36,24" fill="#1a1a1a"/><polygon points="44,52 52,44 50,34 44,38 38,34 36,44" fill="#1a1a1a"/><polygon points="22,28 30,24 36,24 38,34 30,40 22,40" fill="#1a1a1a"/><polygon points="66,28 58,24 52,24 50,34 58,40 66,40" fill="#1a1a1a"/></svg>`,
-  // Thumbnail 2 — stadium stands
-  `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="68" fill="#0a1628"/><rect x="0" y="40" width="88" height="28" fill="#1a5c2e"/><ellipse cx="44" cy="40" rx="35" ry="10" fill="none" stroke="rgba(255,255,255,.3)" stroke-width="1"/><rect x="10" y="8" width="68" height="32" fill="none" stroke="rgba(255,255,255,.15)" stroke-width="1" rx="4"/><rect x="15" y="12" width="58" height="6" fill="rgba(204,0,0,.6)"/><rect x="15" y="22" width="58" height="6" fill="rgba(0,63,138,.6)"/><rect x="15" y="32" width="58" height="4" fill="rgba(255,255,255,.15)"/><circle cx="44" cy="44" r="5" fill="none" stroke="rgba(255,255,255,.4)" stroke-width="1"/></svg>`,
-  // Thumbnail 3 — goal net
-  `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="68" fill="#1a3a5c"/><rect x="14" y="14" width="60" height="38" fill="none" stroke="white" stroke-width="2.5"/><line x1="14" y1="52" x2="74" y2="52" stroke="white" stroke-width="2.5"/><g stroke="rgba(255,255,255,.25)" stroke-width="0.8"><line x1="24" y1="14" x2="24" y2="52"/><line x1="34" y1="14" x2="34" y2="52"/><line x1="44" y1="14" x2="44" y2="52"/><line x1="54" y1="14" x2="54" y2="52"/><line x1="64" y1="14" x2="64" y2="52"/><line x1="14" y1="24" x2="74" y2="24"/><line x1="14" y1="34" x2="74" y2="34"/><line x1="14" y1="44" x2="74" y2="44"/></g></svg>`,
-  // Thumbnail 4 — Serbian tricolor shield
-  `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="68" fill="#0d1117"/><path d="M44,8 L64,16 L64,40 Q64,56 44,62 Q24,56 24,40 L24,16 Z" fill="none" stroke="rgba(255,255,255,.3)" stroke-width="1.5"/><clipPath id="shld"><path d="M44,8 L64,16 L64,40 Q64,56 44,62 Q24,56 24,40 L24,16 Z"/></clipPath><g clip-path="url(#shld)"><rect x="24" y="8" width="40" height="18" fill="#CC0000"/><rect x="24" y="26" width="40" height="18" fill="#003F8A"/><rect x="24" y="44" width="40" height="18" fill="#e4e7ef"/></g><path d="M44,8 L64,16 L64,40 Q64,56 44,62 Q24,56 24,40 L24,16 Z" fill="none" stroke="rgba(255,255,255,.4)" stroke-width="1.5"/></svg>`,
-  // Thumbnail 5 — scoreboard
-  `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="68" fill="#111"/><rect x="8" y="14" width="72" height="40" rx="4" fill="#1a2540" stroke="rgba(255,255,255,.1)" stroke-width="1"/><text x="44" y="36" text-anchor="middle" font-family="monospace" font-size="22" font-weight="900" fill="#fff" letter-spacing="4">1 — 0</text><text x="20" y="50" text-anchor="middle" font-family="sans-serif" font-size="7" fill="rgba(204,0,0,.9)" font-weight="700">ЦЗ</text><text x="68" y="50" text-anchor="middle" font-family="sans-serif" font-size="7" fill="rgba(255,255,255,.5)" font-weight="700">ПАР</text><rect x="8" y="58" width="72" height="4" rx="2" fill="#CC0000" opacity=".6"/></svg>`,
-  // Thumbnail 6 — trophy
-  `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="68" fill="#1a1400"/><path d="M36,12 L52,12 L52,34 Q52,44 44,46 Q36,44 36,34 Z" fill="#D4A017" stroke="#a07800" stroke-width="1"/><path d="M36,18 L28,18 Q24,18 24,24 Q24,30 30,32 L36,30" fill="none" stroke="#D4A017" stroke-width="2.5"/><path d="M52,18 L60,18 Q64,18 64,24 Q64,30 58,32 L52,30" fill="none" stroke="#D4A017" stroke-width="2.5"/><rect x="40" y="46" width="8" height="10" fill="#D4A017"/><rect x="32" y="56" width="24" height="4" rx="2" fill="#D4A017"/><text x="44" y="34" text-anchor="middle" font-family="serif" font-size="12" fill="#7a5800" font-weight="900">★</text></svg>`,
-  // Thumbnail 7 — player silhouette
-  `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="68" fill="#0d2035"/><ellipse cx="44" cy="16" rx="7" ry="7" fill="rgba(255,255,255,.7)"/><path d="M32,28 Q36,24 44,24 Q52,24 56,28 L58,48 L50,48 L48,38 L44,40 L40,38 L38,48 L30,48 Z" fill="rgba(204,0,0,.8)"/><line x1="38" y1="48" x2="36" y2="62" stroke="rgba(255,255,255,.5)" stroke-width="3" stroke-linecap="round"/><line x1="50" y1="48" x2="52" y2="62" stroke="rgba(255,255,255,.5)" stroke-width="3" stroke-linecap="round"/><line x1="32" y1="34" x2="22" y2="42" stroke="rgba(204,0,0,.7)" stroke-width="3" stroke-linecap="round"/><line x1="56" y1="34" x2="66" y2="42" stroke="rgba(204,0,0,.7)" stroke-width="3" stroke-linecap="round"/></svg>`,
+// ════════════════════════════════════════════════════════
+// REAL FOOTBALL PHOTOS — Unsplash free, no attribution
+// Curated: stadiums, fans, players in action, ball, pitch
+// All landscape 300×200, served via Unsplash CDN (free)
+// Source: unsplash.com — free for commercial use
+// ════════════════════════════════════════════════════════
+const FB_PHOTOS = [
+  // Stadium aerial / night
+  { url: 'https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=300&h=200&fit=crop&q=80', alt: 'Football stadium' },
+  // Players in action — tackle
+  { url: 'https://images.unsplash.com/photo-1508098682722-e99c643e7f0b?w=300&h=200&fit=crop&q=80', alt: 'Players in action' },
+  // Ball on grass close-up
+  { url: 'https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=300&h=200&fit=crop&q=80', alt: 'Football on grass' },
+  // Fans / supporters crowd
+  { url: 'https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?w=300&h=200&fit=crop&q=80', alt: 'Football fans' },
+  // Green pitch from above
+  { url: 'https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=300&h=200&fit=crop&q=80', alt: 'Football pitch' },
+  // Player celebrating goal
+  { url: 'https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=300&h=200&fit=crop&q=80', alt: 'Goal celebration' },
+  // Stadium stands filled with fans
+  { url: 'https://images.unsplash.com/photo-1459865264687-595d652de67e?w=300&h=200&fit=crop&q=80', alt: 'Stadium crowd' },
+  // Goalkeeper in action
+  { url: 'https://images.unsplash.com/photo-1571167530149-c1105da4c2c0?w=300&h=200&fit=crop&q=80', alt: 'Goalkeeper save' },
+  // Red/blue colored fans with flares
+  { url: 'https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=300&h=200&fit=crop&q=80', alt: 'Fans with flares' },
+  // Outdoor pitch sunset
+  { url: 'https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=300&h=200&fit=crop&q=80', alt: 'Football at sunset' },
+  // Header / aerial duel
+  { url: 'https://images.unsplash.com/photo-1521537634581-0dced2fee2ef?w=300&h=200&fit=crop&q=80', alt: 'Aerial duel' },
+  // Night match stadium lights
+  { url: 'https://images.unsplash.com/photo-1504016798967-59a258e9383c?w=300&h=200&fit=crop&q=80', alt: 'Night match' },
 ];
+
+// SVG fallback (used only if photo fails to load)
+const FB_FALLBACK_SVG = `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="68" fill="#1a5c2e"/><rect x="4" y="4" width="80" height="60" fill="none" stroke="rgba(255,255,255,.5)" stroke-width="1.5"/><line x1="44" y1="4" x2="44" y2="64" stroke="rgba(255,255,255,.5)" stroke-width="1.5"/><circle cx="44" cy="34" r="9" fill="none" stroke="rgba(255,255,255,.5)" stroke-width="1.5"/></svg>`;
 
 let _thumbIdx = 0;
 function nextThumb() {
-  const t = FB_THUMBS[_thumbIdx % FB_THUMBS.length];
+  const photo = FB_PHOTOS[_thumbIdx % FB_PHOTOS.length];
   _thumbIdx++;
-  return t;
+  return `<img src="${photo.url}" alt="${photo.alt}" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s" onerror="this.parentElement.innerHTML='${FB_FALLBACK_SVG}'">`;
 }
 
 // Source color class
