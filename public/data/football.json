@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-26T19:40:21.444954+00:00",
-  "azurirano_sr": "26. 03. 2026. у 20:40",
+  "azurirano": "2026-03-26T21:04:14.293421+00:00",
+  "azurirano_sr": "26. 03. 2026. у 22:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "De la Fuente: Iznenadilo me što Srbija nema bolje rezultate, drago mi je da Paunoviću dobro ide",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/de-la-fuente-iznenadilo-me-sto-srbija-nema-bolje-rezultate-drago-mi-je-da-paunovicu-dobro-ide/539690",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 03. 2026. у 21:56",
+      "slika": null
+    },
     {
       "naslov": "Ne sluti na dobro: Mlada reprezentacija remizirala sa Kirgistanom",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ne-sluti-na-dobro-mlada-reprezentacija-remizirala-sa-kirgistanom/539670",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Cirkus 'Embape i lekari' se nastavlja: Pogrešili nogu i Kamavingi, kome sada verovati?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cirkus-embape-i-lekari-se-nastavlja-pogresili-nogu-i-kamavingi-kome-sada-verovati/539609",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 03. 2026. у 09:43",
+      "naslov": "Veljko Paunović: Došli smo da se takmičimo protiv Španije, moramo da budemo na nivou zadatka",
+      "url": "https://www.tanjug.rs/sport/fudbal/240641/veljko-paunovic-dosli-smo-da-se-takmicimo-protiv-spanije-moramo-da-budemo-na-nivou-zadatka/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 03. 2026. у 20:56",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Francuska liga odložila meč između fudbalera Lansa i Pari Sen Žermena",
-      "url": "https://www.tanjug.rs/sport/fudbal/240553/francuska-liga-odlozila-mec-izmedu-fudbalera-lansa-i-pari-sen-zermena/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 03. 2026. у 14:08",
+      "naslov": "Paunović pred Španiju: &quot;Sve je bitno&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219550/veljko-paunovic-i-strahinja-pavlovic-pred-spanija-srbija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 03. 2026. у 21:45",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219500/orlovi-u-backoj-topoli-karte-u-prodaji/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "26. 03. 2026. у 18:41",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Orlići&quot; remizirali sa Kirgistanom",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219463/orlici-remizirali-sa-kirgistanom/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 03. 2026. у 16:54",
       "slika": null
     }
   ]
