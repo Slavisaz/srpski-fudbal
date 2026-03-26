@@ -533,30 +533,38 @@ document.addEventListener('click',e=>{if(!e.target.closest('#hbtn')&&!e.target.c
 // Source: unsplash.com — free for commercial use
 // ════════════════════════════════════════════════════════
 const FB_PHOTOS = [
-  // Stadium aerial / night
-  { url: 'https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=300&h=200&fit=crop&q=80', alt: 'Football stadium' },
-  // Players in action — tackle
-  { url: 'https://images.unsplash.com/photo-1508098682722-e99c643e7f0b?w=300&h=200&fit=crop&q=80', alt: 'Players in action' },
-  // Ball on grass close-up
-  { url: 'https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=300&h=200&fit=crop&q=80', alt: 'Football on grass' },
-  // Fans / supporters crowd
-  { url: 'https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?w=300&h=200&fit=crop&q=80', alt: 'Football fans' },
-  // Green pitch from above
-  { url: 'https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=300&h=200&fit=crop&q=80', alt: 'Football pitch' },
-  // Player celebrating goal
-  { url: 'https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=300&h=200&fit=crop&q=80', alt: 'Goal celebration' },
-  // Stadium stands filled with fans
-  { url: 'https://images.unsplash.com/photo-1459865264687-595d652de67e?w=300&h=200&fit=crop&q=80', alt: 'Stadium crowd' },
-  // Goalkeeper in action
-  { url: 'https://images.unsplash.com/photo-1571167530149-c1105da4c2c0?w=300&h=200&fit=crop&q=80', alt: 'Goalkeeper save' },
-  // Red/blue colored fans with flares
-  { url: 'https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=300&h=200&fit=crop&q=80', alt: 'Fans with flares' },
-  // Outdoor pitch sunset
-  { url: 'https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=300&h=200&fit=crop&q=80', alt: 'Football at sunset' },
-  // Header / aerial duel
-  { url: 'https://images.unsplash.com/photo-1521537634581-0dced2fee2ef?w=300&h=200&fit=crop&q=80', alt: 'Aerial duel' },
-  // Night match stadium lights
-  { url: 'https://images.unsplash.com/photo-1504016798967-59a258e9383c?w=300&h=200&fit=crop&q=80', alt: 'Night match' },
+  // 1. Stadium night — aerial view (verified OK)
+  { url: 'https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=300&h=200&fit=crop&q=80', alt: 'Фудбалски стадион' },
+  // 2. Soccer players on pitch — dribbling action (verified OK)
+  { url: 'https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=300&h=200&fit=crop&q=80', alt: 'Играчи у акцији' },
+  // 3. Football / soccer ball on green grass closeup (verified OK)
+  { url: 'https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=300&h=200&fit=crop&q=80', alt: 'Лопта на трави' },
+  // 4. Packed stadium with fans in red and blue — Serbian colors (verified OK)
+  { url: 'https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?w=300&h=200&fit=crop&q=80', alt: 'Навијачи' },
+  // 5. Green football pitch from above (verified OK)
+  { url: 'https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=300&h=200&fit=crop&q=80', alt: 'Терен' },
+  // 6. Player goal celebration — arms raised (verified OK)
+  { url: 'https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=300&h=200&fit=crop&q=80', alt: 'Прослава гола' },
+  // 7. Stadium crowd stands packed (verified OK)
+  { url: 'https://images.unsplash.com/photo-1459865264687-595d652de67e?w=300&h=200&fit=crop&q=80', alt: 'Пуне трибине' },
+  // 8. Two players fighting for the ball on pitch (replaces broken goalkeeper)
+  { url: 'https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=300&h=200&fit=crop&q=80', alt: 'Дуел за лопту' },
+  // 9. Fans in colorful stands with scarves (verified OK)
+  { url: 'https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=300&h=200&fit=crop&q=80', alt: 'Навијачи са шалтерима' },
+  // 10. Football sunset — player silhouette kicking ball
+  { url: 'https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=300&h=200&fit=crop&q=80', alt: 'Фудбал у залазак' },
+  // 11. Player header / aerial duel (verified OK)
+  { url: 'https://images.unsplash.com/photo-1521537634581-0dced2fee2ef?w=300&h=200&fit=crop&q=80', alt: 'Глава за лоптом' },
+  // 12. Night floodlit stadium match atmosphere (verified OK)
+  { url: 'https://images.unsplash.com/photo-1504016798967-59a258e9383c?w=300&h=200&fit=crop&q=80', alt: 'Ноћна утакмица' },
+  // 13. Red football jersey / national team colors (Serbia red)
+  { url: 'https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=300&h=200&fit=crop&q=80', alt: 'Репрезентација' },
+  // 14. Goalkeeper in goal net — hands raised
+  { url: 'https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=300&h=200&fit=crop&q=80', alt: 'Голман' },
+  // 15. Player dribbling close-up boots on ball
+  { url: 'https://images.unsplash.com/photo-1606577924006-27d39b132ae2?w=300&h=200&fit=crop&q=80', alt: 'Дрибловање' },
+  // 16. Corner kick — fans in background stadium
+  { url: 'https://images.unsplash.com/photo-1508098682722-e99c643e7f0b?w=300&h=200&fit=crop&q=80&fm=jpg&cs=tinysrgb', alt: 'Корнер' },
 ];
 
 // SVG fallback (used only if photo fails to load)
@@ -565,8 +573,11 @@ const FB_FALLBACK_SVG = `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/
 let _thumbIdx = 0;
 function nextThumb() {
   const photo = FB_PHOTOS[_thumbIdx % FB_PHOTOS.length];
+  // Fallback chain: try next photo in list, then SVG
+  const fallbackIdx = (_thumbIdx + 1) % FB_PHOTOS.length;
+  const fallbackUrl = FB_PHOTOS[fallbackIdx].url;
   _thumbIdx++;
-  return `<img src="${photo.url}" alt="${photo.alt}" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s" onerror="this.parentElement.innerHTML='${FB_FALLBACK_SVG}'">`;
+  return `<img src="${photo.url}" alt="${photo.alt}" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s" onerror="if(!this.dataset.tried){this.dataset.tried=1;this.src='${fallbackUrl}';}else{this.parentElement.innerHTML='${FB_FALLBACK_SVG.replace(/'/g,'\x27')}';}">`;
 }
 
 // Source color class
@@ -578,6 +589,18 @@ function srcClass(izvor) {
   if (l.includes('танјуг') || l.includes('tanjug')) return 'src-tanjug';
   if (l.includes('б92') || l.includes('b92')) return 'src-b92';
   return '';
+}
+
+// ════════════════════════════════════
+// HTML ENTITY DECODER
+// Fixes &quot; &amp; &lt; &gt; &#39; etc. in RSS titles
+// ════════════════════════════════════
+function decodeHtml(str) {
+  if (!str) return str;
+  // Use textarea trick — browser natively decodes all HTML entities
+  const txt = document.createElement('textarea');
+  txt.innerHTML = str;
+  return txt.value;
 }
 
 // ════════════════════════════════════
@@ -627,7 +650,7 @@ function parseRSS(xml, izvor) {
   const items = Array.from(doc.querySelectorAll('item'));
   const months = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
   return items.map(item => {
-    const title = latCyr((item.querySelector('title')?.textContent || '').trim());
+    const title = latCyr(decodeHtml((item.querySelector('title')?.textContent || '').trim()));
     const link  = (item.querySelector('link')?.textContent?.trim() ||
                    item.querySelector('guid')?.textContent?.trim() || '#');
     const pub   = item.querySelector('pubDate')?.textContent || '';
@@ -703,7 +726,7 @@ async function runAiAgent(force=false) {
   if (jd && jd.vesti && jd.vesti.length > 0) {
     // Use cached JSON — very fast
     allItems = jd.vesti.map(v => ({
-      title:  latCyr(v.naslov || ''),
+      title:  latCyr(decodeHtml(v.naslov || '')),
       link:   v.url || '#',
       datum:  v.datum || '',
       ts:     0,
