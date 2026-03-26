@@ -533,35 +533,30 @@ document.addEventListener('click',e=>{if(!e.target.closest('#hbtn')&&!e.target.c
 
 
 // ═══════════════════════════════════════════════════════
-// FOOTBALL PHOTOS — Unsplash Source API (free, no key, real photos)
-// Format: https://source.unsplash.com/WxH/?search+term&sig=N
-// sig= forces unique image per slot (not same image repeated)
+// FOOTBALL PHOTOS — Multi-source with reliable fallbacks
+// Unsplash direct → Lorem Picsum sport seeds → SVG
 // ═══════════════════════════════════════════════════════
-const _SIG = Date.now(); // unique per session so images refresh
 const FB_PHOTOS = [
-  `https://source.unsplash.com/300x200/?football+stadium+night&sig=${_SIG+1}`,
-  `https://source.unsplash.com/300x200/?soccer+player+ball&sig=${_SIG+2}`,
-  `https://source.unsplash.com/300x200/?football+fans+stadium&sig=${_SIG+3}`,
-  `https://source.unsplash.com/300x200/?soccer+match+action&sig=${_SIG+4}`,
-  `https://source.unsplash.com/300x200/?football+pitch+green&sig=${_SIG+5}`,
-  `https://source.unsplash.com/300x200/?soccer+goalkeeper&sig=${_SIG+6}`,
-  `https://source.unsplash.com/300x200/?football+stadium+crowd&sig=${_SIG+7}`,
-  `https://source.unsplash.com/300x200/?soccer+training+players&sig=${_SIG+8}`,
-  `https://source.unsplash.com/300x200/?football+celebration+goal&sig=${_SIG+9}`,
-  `https://source.unsplash.com/300x200/?soccer+ball+grass&sig=${_SIG+10}`,
-  `https://source.unsplash.com/300x200/?football+match+sport&sig=${_SIG+11}`,
-  `https://source.unsplash.com/300x200/?stadium+lights+night+sport&sig=${_SIG+12}`,
+  // Unsplash direct CDN — football photos
+  {u:'https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/football1/300/200'},
+  {u:'https://images.unsplash.com/photo-1574629810360-7efbbe195018?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/soccer2/300/200'},
+  {u:'https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/stadium3/300/200'},
+  {u:'https://images.unsplash.com/photo-1575361204480-aadea25e6e68?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/ball4/300/200'},
+  {u:'https://images.unsplash.com/photo-1459865264687-595d652de67e?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/pitch5/300/200'},
+  {u:'https://images.unsplash.com/photo-1529900748604-07564a03e7a6?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/match6/300/200'},
+  {u:'https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/fans7/300/200'},
+  {u:'https://images.unsplash.com/photo-1518604666860-9ed391f76460?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/train8/300/200'},
+  {u:'https://images.unsplash.com/photo-1521537634581-0dced2fee2ef?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/goal9/300/200'},
+  {u:'https://images.unsplash.com/photo-1560272564-c83b66b1ad12?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/boots10/300/200'},
+  {u:'https://images.unsplash.com/photo-1551958219-acbc3c0f7111?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/night11/300/200'},
+  {u:'https://images.unsplash.com/photo-1606229365485-93a3b8ee0385?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/player12/300/200'},
 ];
-
-// SVG fallback if Unsplash fails
-const FB_SVG_FALLBACK = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 68"><rect width="88" height="68" fill="#1e5c1e"/><rect x="4" y="4" width="80" height="60" fill="none" stroke="rgba(255,255,255,.5)" stroke-width="1.5"/><line x1="44" y1="4" x2="44" y2="64" stroke="rgba(255,255,255,.4)" stroke-width="1.2"/><circle cx="44" cy="34" r="10" fill="none" stroke="rgba(255,255,255,.5)" stroke-width="1.2"/><circle cx="44" cy="34" r="2" fill="white"/></svg>`;
 
 let _thumbIdx = Math.floor(Math.random() * 12);
 function nextThumb() {
-  const url = FB_PHOTOS[_thumbIdx % FB_PHOTOS.length];
-  const next = FB_PHOTOS[(_thumbIdx + 1) % FB_PHOTOS.length];
+  const p = FB_PHOTOS[_thumbIdx % FB_PHOTOS.length];
   _thumbIdx++;
-  return `<img src="${url}" alt="Фудбал" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s" onerror="if(!this.dataset.f){this.dataset.f=1;this.src='${next}';}else{this.parentElement.innerHTML='${FB_SVG_FALLBACK.replace(/`/g,'\`').replace(/'/g,"\'")}';}">`;
+  return `<img src="${p.u}" alt="Фудбал" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s" onerror="if(!this.dataset.f){this.dataset.f=1;this.src='${p.f}';}else{this.style.display='none';this.parentElement.innerHTML='<div style=\'width:100%;height:100%;background:linear-gradient(135deg,#1a5c1a,#2d8a2d);display:flex;align-items:center;justify-content:center;font-size:28px\'>⚽</div>';}">`;
 }
 
 
