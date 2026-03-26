@@ -6,8 +6,6 @@
 <meta name="theme-color" content="#CC0000">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Српски Фудбал">
-<link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='90' fill='%23e8eef5'/><defs><clipPath id='bc'><circle cx='256' cy='256' r='200'/></clipPath></defs><circle cx='256' cy='256' r='200' fill='%23fff' stroke='%23c8d0da' stroke-width='3'/><g clip-path='url(%23bc)'><rect x='56' y='56' width='400' height='134' fill='%23CC0000'/><rect x='56' y='190' width='400' height='132' fill='%23003F8A'/><rect x='56' y='322' width='400' height='134' fill='%23e8eaf0'/></g><g clip-path='url(%23bc)' fill='rgba(0,0,0,0.12)' stroke='rgba(0,0,0,0.2)' stroke-width='2'><polygon points='256,172 296,198 282,240 230,240 216,198'/><polygon points='256,56 296,82 282,124 230,124 216,82'/><polygon points='388,136 420,172 404,208 364,200 352,164'/><polygon points='392,330 400,372 366,396 332,376 340,336'/><polygon points='256,368 296,394 282,436 230,436 216,394'/><polygon points='120,330 172,336 180,376 146,396 112,372'/><polygon points='124,136 160,164 148,200 108,208 92,172'/></g><circle cx='256' cy='256' r='200' fill='none' stroke='%23b0bac8' stroke-width='3'/><text x='256' y='410' text-anchor='middle' font-family='Arial Black,Arial,sans-serif' font-size='72' font-weight='900' fill='%23CC0000' letter-spacing='6'>СФ</text><ellipse cx='196' cy='168' rx='56' ry='36' fill='white' opacity='0.45' transform='rotate(-30 196 168)'/><ellipse cx='188' cy='160' rx='26' ry='16' fill='white' opacity='0.60' transform='rotate(-30 188 160)'/></svg>">
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='90' fill='%23e8eef5'/><defs><clipPath id='bc'><circle cx='256' cy='256' r='200'/></clipPath></defs><circle cx='256' cy='256' r='200' fill='%23fff' stroke='%23c8d0da' stroke-width='3'/><g clip-path='url(%23bc)'><rect x='56' y='56' width='400' height='134' fill='%23CC0000'/><rect x='56' y='190' width='400' height='132' fill='%23003F8A'/><rect x='56' y='322' width='400' height='134' fill='%23e8eaf0'/></g><g clip-path='url(%23bc)' fill='rgba(0,0,0,0.12)' stroke='rgba(0,0,0,0.2)' stroke-width='2'><polygon points='256,172 296,198 282,240 230,240 216,198'/><polygon points='256,56 296,82 282,124 230,124 216,82'/><polygon points='388,136 420,172 404,208 364,200 352,164'/><polygon points='392,330 400,372 366,396 332,376 340,336'/><polygon points='256,368 296,394 282,436 230,436 216,394'/><polygon points='120,330 172,336 180,376 146,396 112,372'/><polygon points='124,136 160,164 148,200 108,208 92,172'/></g><circle cx='256' cy='256' r='200' fill='none' stroke='%23b0bac8' stroke-width='3'/><text x='256' y='410' text-anchor='middle' font-family='Arial Black,Arial,sans-serif' font-size='72' font-weight='900' fill='%23CC0000' letter-spacing='6'>СФ</text><ellipse cx='196' cy='168' rx='56' ry='36' fill='white' opacity='0.45' transform='rotate(-30 196 168)'/><ellipse cx='188' cy='160' rx='26' ry='16' fill='white' opacity='0.60' transform='rotate(-30 188 160)'/></svg>">
 <link rel="manifest" href="/manifest.json">
 <title>СрпскиФудбал — Вести, Резултати, Табела</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -61,7 +59,7 @@ nav a:hover{color:var(--red);border-color:var(--red)}
 /* LAYOUT */
 .page{max-width:1200px;margin:0 auto;padding:24px 20px;display:grid;grid-template-columns:1fr 320px;gap:28px;align-items:start}
 .main{min-width:0;width:100%}
-.side{min-width:0;width:100%;align-self:start;max-height:calc(100vh - 100px);overflow-y:auto;position:sticky;top:80px}
+.side{min-width:0;width:100%;align-self:start;position:sticky;top:80px}
 
 /* SECTION HEADER */
 .sh{display:flex;align-items:center;gap:10px;margin-bottom:14px;padding-bottom:10px;border-bottom:2px solid var(--bdr)}
@@ -71,33 +69,45 @@ nav a:hover{color:var(--red);border-color:var(--red)}
 .sh a{font-family:var(--fu);font-size:12px;color:var(--blue);margin-left:auto}
 .sec{margin-bottom:32px}
 
-/* VESTI FEATURED */
-.vf{background:#fff;border:1px solid var(--bdr);border-radius:var(--r);overflow:hidden;cursor:pointer;transition:box-shadow .2s;margin-bottom:14px;display:grid;grid-template-columns:1.2fr 1fr}
-.vf:hover{box-shadow:var(--sh)}
-.vf-img{background:var(--blue);min-height:220px;position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center}
-.vf-body{padding:22px 20px;display:flex;flex-direction:column;justify-content:center}
-.vf-tag{display:inline-block;background:var(--red);color:#fff;font-family:var(--fd);font-size:10px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;padding:3px 8px;border-radius:2px;margin-bottom:10px;align-self:flex-start}
-.vf-ttl{font-family:var(--fd);font-size:21px;font-weight:700;color:var(--txt);line-height:1.2;margin-bottom:8px}
-.vf-desc{font-family:var(--fb);font-size:13px;color:var(--txt3);line-height:1.6;margin-bottom:10px}
-.vf-meta{font-family:var(--fu);font-size:11px;color:var(--txt4);display:flex;align-items:center;gap:8px}
-.vf-src{color:var(--red);font-weight:600}
+/* ═══ AI AGENT NEWS SECTION ═══ */
+.ai-agent-wrap{background:#fff;border:1px solid var(--bdr);border-radius:10px;overflow:hidden;margin-bottom:20px}
+.ai-agent-hdr{background:linear-gradient(90deg,#0d1117 0%,#1a2332 100%);padding:12px 16px;display:flex;align-items:center;gap:10px}
+.ai-agent-badge{background:var(--red);color:#fff;font-family:var(--fd);font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;padding:3px 8px;border-radius:3px;display:flex;align-items:center;gap:5px}
+.ai-agent-badge::before{content:'';width:6px;height:6px;border-radius:50%;background:#fff;animation:blink 1s infinite;flex-shrink:0}
+.ai-agent-title{font-family:var(--fd);font-size:15px;font-weight:700;color:#fff;letter-spacing:.03em}
+.ai-agent-ts{font-family:var(--fu);font-size:10px;color:rgba(255,255,255,.35);margin-left:auto}
+.ai-agent-loading{padding:20px 16px;display:flex;align-items:center;gap:10px;color:var(--txt3);font-size:13px}
+.ai-agent-loading::before{content:'';width:20px;height:20px;border:2px solid var(--bdr);border-top-color:var(--red);border-radius:50%;animation:spin .7s linear infinite;flex-shrink:0}
+.ai-news-list{display:flex;flex-direction:column;gap:0}
 
-/* VESTI CARD GRID — modernized */
-.vg{display:grid;grid-template-columns:1fr 1fr;gap:14px}
-@media(max-width:540px){.vg{grid-template-columns:1fr}}
-.vc{background:#fff;border:1px solid var(--bdr);border-radius:10px;overflow:hidden;cursor:pointer;transition:box-shadow .2s,transform .15s;text-decoration:none;display:block}
-.vc:hover{box-shadow:0 6px 24px rgba(0,0,0,.13);transform:translateY(-3px)}
-.vc-img{height:148px;overflow:hidden;background:var(--off2);position:relative}
-.vc-img img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s}
-.vc:hover .vc-img img{transform:scale(1.04)}
-.vc-img-placeholder{width:100%;height:100%;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#1a3a5c 0%,#0d2035 100%)}
-.vc-body{padding:12px 14px 14px}
-.vc-src{font-family:var(--fu);font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin-bottom:5px;display:flex;align-items:center;gap:5px}
-.vc-src::before{content:'';display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--red);flex-shrink:0}
-.vc-ttl{font-family:var(--fd);font-size:14px;font-weight:700;color:var(--txt);line-height:1.3;margin-bottom:6px}
-.vc-meta{font-family:var(--fu);font-size:10px;color:var(--txt4)}
+/* News item — generic football SVG placeholder, no real images */
+.ai-news-item{display:flex;align-items:stretch;border-bottom:1px solid var(--bdr);text-decoration:none;transition:background .12s;background:#fff;cursor:pointer}
+.ai-news-item:last-child{border-bottom:none}
+.ai-news-item:hover{background:var(--off)}
+.ani-thumb{width:88px;min-width:88px;height:68px;flex-shrink:0;overflow:hidden;position:relative}
+.ani-body{padding:10px 13px;display:flex;flex-direction:column;justify-content:center;min-width:0}
+.ani-src{font-family:var(--fu);font-size:9px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin-bottom:3px;display:flex;align-items:center;gap:4px}
+.ani-fresh{background:#16a34a;color:#fff;font-size:8px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:1px 5px;border-radius:3px}
+.ani-ttl{font-family:var(--fd);font-size:13px;font-weight:600;color:var(--txt);line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.ani-dt{font-family:var(--fu);font-size:10px;color:var(--txt4);margin-top:3px}
+.ani-en{font-family:var(--fu);font-size:10px;color:var(--txt3);font-style:italic;margin-top:2px;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
 
-/* TANJUG VESTI LIST */
+/* Source colors */
+.src-fss{color:#D4A017}
+.src-mozzart{color:#e05c00}
+.src-tanjug{color:#003F8A}
+.src-b92{color:#CC0000}
+
+/* AI status bar */
+.ai-status{padding:8px 16px;background:var(--off);border-top:1px solid var(--bdr);display:flex;align-items:center;justify-content:space-between;font-family:var(--fu);font-size:10px;color:var(--txt4)}
+.ai-status-dot{width:6px;height:6px;border-radius:50%;background:var(--green);animation:blink 2s infinite;display:inline-block;margin-right:5px}
+.ai-refresh-btn{background:none;border:1px solid var(--bdr);border-radius:3px;padding:3px 9px;font-family:var(--fu);font-size:10px;color:var(--txt3);cursor:pointer;transition:all .15s}
+.ai-refresh-btn:hover{border-color:var(--red);color:var(--red)}
+
+/* GENERIC FOOTBALL SVG THUMBNAILS */
+.fb-thumb{width:100%;height:100%;display:flex;align-items:center;justify-content:center}
+
+/* TV-LIST (used by Superliga widget) */
 .tv-list{display:flex;flex-direction:column;gap:0}
 .tv-item{display:flex;align-items:stretch;gap:0;text-decoration:none;border-bottom:1px solid var(--bdr);transition:background .12s;background:#fff}
 .tv-item:last-child{border-bottom:none}
@@ -124,14 +134,11 @@ nav a:hover{color:var(--red);border-color:var(--red)}
 /* VIDEO */
 .vid-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:12px}
 .vid-card{border-radius:var(--r);overflow:hidden;box-shadow:var(--sh)}
-.vid-frame{position:relative;padding-bottom:56.25%;height:0;overflow:hidden}
-.vid-frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;border:none}
 .vid-lbl{padding:8px 12px;background:#fff;border:1px solid var(--bdr);border-top:none}
 .vid-lbl-t{font-family:var(--fd);font-size:13px;font-weight:600;color:var(--txt)}
 .vid-lbl-s{font-family:var(--fu);font-size:10px;color:var(--txt4);margin-top:2px}
-.vid-wide .vid-frame{padding-bottom:45%}
 
-/* MOBILE MENU */
+/* MOB MENU */
 .mob-menu{display:none;position:fixed;top:64px;left:0;right:0;background:#fff;border-bottom:3px solid var(--red);box-shadow:0 8px 24px rgba(0,0,0,.15);z-index:199;padding:8px 0}
 .mob-menu.open{display:block}
 .mob-menu a{display:block;padding:13px 24px;font-family:var(--fd);font-size:16px;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--txt2);border-bottom:1px solid var(--bdr);transition:background .12s}
@@ -144,68 +151,43 @@ nav a:hover{color:var(--red);border-color:var(--red)}
 footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 .ft-top{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:1.5fr 1fr 1fr;gap:32px;padding-bottom:28px;border-bottom:1px solid rgba(255,255,255,.1)}
 .ft-logo{display:flex;align-items:center;gap:10px;margin-bottom:10px}
-.ft-logo .logo-ball{width:38px;height:38px}
 .ft-logo-n{font-family:var(--fd);font-size:20px;font-weight:700;color:#fff;letter-spacing:.03em;text-transform:uppercase}
 .ft-desc{font-size:11px;color:rgba(255,255,255,.35);line-height:1.7}
 .ft-col-h{font-family:var(--fd);font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:rgba(255,255,255,.4);margin-bottom:10px}
 .ft-col a{display:block;font-size:12px;color:rgba(255,255,255,.55);margin-bottom:7px;transition:color .15s}
 .ft-col a:hover{color:#fff}
-.ft-logo svg.logo-ball{background:none!important;border-radius:0!important}
-.ft-logo{display:flex;align-items:center;gap:10px;margin-bottom:10px}
 .ft-bot{max-width:1200px;margin:16px auto 0;display:flex;justify-content:space-between;font-size:10px;color:rgba(255,255,255,.25);flex-wrap:wrap;gap:8px;align-items:center}
 .ft-tricolor{height:3px;background:linear-gradient(90deg,#CC0000 33.3%,#003F8A 33.3%,#003F8A 66.6%,#e8eaf0 66.6%)}
 
-/* NEWS CARDS from loader */
-.nc{background:#fff;border:1px solid var(--bdr);border-radius:var(--r);overflow:hidden;cursor:pointer;transition:box-shadow .2s,transform .15s;display:flex;flex-direction:column}
-.nc:hover{box-shadow:0 4px 16px rgba(0,0,0,.1);transform:translateY(-2px)}
-.nc-img{height:140px;overflow:hidden;background:var(--off2);flex-shrink:0}
-.nc-img svg,.nc-img img{width:100%;height:100%;object-fit:cover;display:block}
-.nc-body{padding:12px 14px;flex:1;display:flex;flex-direction:column}
-.nc-cat{font-family:var(--fu);font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--red);margin-bottom:5px}
-.nc-ttl{font-family:var(--fd);font-size:16px;font-weight:600;color:var(--txt);line-height:1.25;margin-bottom:6px;flex:1}
-.nc-blrb{font-family:var(--fb);font-size:12px;color:var(--txt3);line-height:1.5;margin-bottom:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.nc-meta{font-family:var(--fu);font-size:10px;color:var(--txt4);display:flex;justify-content:space-between;align-items:center;margin-top:auto}
-.nc-meta a{color:var(--blue);font-weight:600;font-size:11px}
-.fi-anim{animation:fadeUp .35s ease both}
-@keyframes fadeUp{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
-
-/* SUPERLIGA WIDGET CSS */
-/* ═══ SUPERLIGA WIDGET ═══ */
+/* SUPERLIGA */
 .slw{background:#fff;border:1px solid #dde1e8;border-radius:6px;overflow:hidden;max-width:800px;margin:0;width:100%}
 .slw-hd{background:linear-gradient(90deg,#003F8A,#1a5aad);padding:10px 16px;display:flex;align-items:center;justify-content:space-between}
-.slw-title{font-family:'Barlow Condensed',sans-serif;font-size:16px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:#fff;display:flex;align-items:center;gap:8px}
-.slw-dot{width:8px;height:8px;background:#CC0000;border-radius:50%;animation:pulse 1.2s infinite;display:none}
-@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.slw-title{font-family:var(--fd);font-size:16px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:#fff;display:flex;align-items:center;gap:8px}
+.slw-dot{width:8px;height:8px;background:#CC0000;border-radius:50%;animation:blink2 1.2s infinite;display:none}
+@keyframes blink2{0%,100%{opacity:1}50%{opacity:.3}}
 .slw-season{font-size:10px;font-weight:600;color:rgba(255,255,255,.5);letter-spacing:.1em;text-transform:uppercase}
-
 .slw-tabs{display:flex;background:#002d6a;border-bottom:2px solid #CC0000}
-.slw-tab{flex:1;padding:9px 0;font-family:'Barlow Condensed',sans-serif;font-size:13px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:rgba(255,255,255,.5);text-align:center;cursor:pointer;border:none;background:none;transition:all .15s;position:relative}
+.slw-tab{flex:1;padding:9px 0;font-family:var(--fd);font-size:13px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;color:rgba(255,255,255,.5);text-align:center;cursor:pointer;border:none;background:none;transition:all .15s;position:relative}
 .slw-tab:hover{color:rgba(255,255,255,.85)}
 .slw-tab.on{color:#fff;background:rgba(255,255,255,.07)}
 .slw-tab.on::after{content:'';position:absolute;bottom:-2px;left:0;right:0;height:2px;background:#CC0000}
-.slw-badge{display:inline-block;background:#CC0000;color:#fff;font-size:10px;font-weight:800;padding:1px 5px;border-radius:3px;margin-left:4px;animation:pulse 1.2s infinite}
-
+.slw-badge{display:inline-block;background:#CC0000;color:#fff;font-size:10px;font-weight:800;padding:1px 5px;border-radius:3px;margin-left:4px;animation:blink2 1.2s infinite}
 .slw-panel{display:none}
 .slw-panel.on{display:block}
-
 .slw-spin{padding:30px;text-align:center;color:#9ca3af;font-size:13px}
 .slw-spin::before{content:'';display:block;width:28px;height:28px;border:3px solid #e5e7eb;border-top-color:#003F8A;border-radius:50%;animation:spin .7s linear infinite;margin:0 auto 10px}
 @keyframes spin{to{transform:rotate(360deg)}}
 .slw-err{padding:20px;text-align:center;color:#CC0000;font-size:13px}
-
-.slw-rnd{background:#003F8A;color:#fff;padding:7px 14px;display:flex;align-items:center;justify-content:space-between;font-family:'Barlow Condensed',sans-serif;font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
-.slw-rnd a{font-size:11px;color:rgba(255,255,255,.6);text-decoration:none}
-
+.slw-rnd{background:#003F8A;color:#fff;padding:7px 14px;display:flex;align-items:center;justify-content:space-between;font-family:var(--fd);font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
 .slw-match{display:grid;grid-template-columns:1fr 110px 1fr;align-items:center;padding:10px 14px;border-bottom:1px solid #f0f2f5;transition:background .12s}
 .slw-match:hover{background:#f8f9fb}
 .slw-match:last-child{border-bottom:none}
 .slw-match.live{background:#fff8f8}
-.slw-match.live:hover{background:#fef2f2}
 .slw-ht{font-size:14px;font-weight:600;color:#111827}
 .slw-ht.r{text-align:right}
 .slw-ht.l{text-align:left}
 .slw-sc{text-align:center}
-.slw-scn{font-family:'Barlow Condensed',sans-serif;font-size:22px;font-weight:800;color:#111827;line-height:1}
+.slw-scn{font-family:var(--fd);font-size:22px;font-weight:800;color:#111827;line-height:1}
 .slw-scn.red{color:#CC0000}
 .slw-scn.grey{font-size:14px;color:#6b7280}
 .slw-st{font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;margin-top:2px}
@@ -213,8 +195,6 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 .slw-st.grey{color:#9ca3af}
 .slw-st.blue{color:#003F8A}
 .slw-min{display:inline-block;background:#CC0000;color:#fff;font-size:10px;font-weight:800;padding:1px 5px;border-radius:3px;margin-bottom:3px}
-
-/* Tabela */
 .slw-tbl-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;width:100%}
 .slw-tbl{width:100%;border-collapse:collapse;font-size:13px}
 .slw-tbl thead tr{background:#f4f5f7}
@@ -229,35 +209,16 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 .slw-tbl tr.ecl td:first-child{border-left:3px solid #16a34a}
 .slw-tbl tr.rel td:first-child{border-left:3px solid #CC0000}
 .slw-pts{font-weight:800;color:#111827}
-.slw-logo{width:18px;height:18px;vertical-align:middle;margin-right:6px;object-fit:contain}
-
 .slw-forma{display:flex;gap:3px;justify-content:center}
 .slw-fd{width:14px;height:14px;border-radius:50%;font-size:8px;font-weight:800;color:#fff;display:flex;align-items:center;justify-content:center}
 .slw-fd.П{background:#16a34a}
 .slw-fd.Н{background:#9ca3af}
 .slw-fd.И{background:#CC0000}
-
 .slw-legend{display:flex;gap:14px;padding:8px 14px;flex-wrap:wrap;border-top:1px solid #f0f2f5;background:#fafbfc}
 .slw-leg{display:flex;align-items:center;gap:5px;font-size:10px;color:#6b7280}
 .slw-legdot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
-
 .slw-ft{padding:6px 14px;text-align:right;font-size:10px;color:#9ca3af;border-top:1px solid #f0f2f5;background:#fafbfc}
 .slw-ft a{color:#003F8A;text-decoration:none}
-
-.slw-upcoming-lbl{padding:8px 14px 4px;font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#9ca3af}
-
-@media(max-width:520px){
-  .slw-ht{font-size:12px}
-  .slw-scn{font-size:18px}
-  .slw-tbl th,.slw-tbl td{padding:7px 5px;font-size:12px}
-  .slw-tbl th.l,.slw-tbl td.l{padding-left:6px}
-  /* Сакриј П, Н, И колоне — остају # Клуб У ГР Бод */
-  .col-pni{display:none}
-  .slw-tbl td.l{max-width:120px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-  .slw-pts{font-size:13px}
-  .slw-legend{gap:8px;padding:6px 10px}
-  .slw-leg{font-size:9px}
-}
 
 /* RESPONSIVE */
 @media(max-width:960px){
@@ -265,9 +226,6 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
   nav{display:none}
   .hbtn{display:flex}
   .hdr-date{display:none}
-  .vf{grid-template-columns:1fr}
-  .vf-img{min-height:160px}
-  .vg{grid-template-columns:1fr}
   .vid-grid{grid-template-columns:1fr}
   .ft-top{grid-template-columns:1fr}
 }
@@ -275,15 +233,15 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
   .hdr-in{height:56px;padding:0 12px;gap:10px}
   .logo-ball{width:38px;height:38px}
   .logo-name{font-size:18px}
-  .logo-sub{display:flex;font-size:7.5px;margin-top:3px;width:100%}
   .page{padding:14px 12px}
   .mob-menu{top:56px}
   .slw-tab{font-size:11px}
 }
-@media(max-width:360px){
-  .logo-name{font-size:16px}
-  .logo-ball{width:32px;height:32px}
-  .hdr-in{padding:0 10px;gap:8px}
+@media(max-width:520px){
+  .slw-ht{font-size:12px}
+  .slw-scn{font-size:18px}
+  .slw-tbl th,.slw-tbl td{padding:7px 5px;font-size:12px}
+  .col-pni{display:none}
 }
 </style>
 </head>
@@ -292,7 +250,6 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 <header class="hdr">
   <div class="hdr-in">
     <a href="/" class="logo">
-      <!-- FINAL LOGO BALL — Serbian tricolor, dynamic angle, correct pentagon geometry -->
       <svg class="logo-ball" viewBox="-1 -1 202 202" xmlns="http://www.w3.org/2000/svg">
         <defs>
           <clipPath id="lbc"><circle cx="100" cy="100" r="99"/></clipPath>
@@ -305,29 +262,21 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
             <stop offset="100%" stop-color="rgba(0,0,0,0.22)"/>
           </radialGradient>
         </defs>
-        <!-- Ball base -->
         <circle cx="100" cy="100" r="99" fill="url(#lbg)"/>
-        <!-- Serbian tricolor: RED · BLUE · WHITE -->
         <g clip-path="url(#lbc)">
           <rect x="1" y="1"   width="198" height="66" fill="#CC0000"/>
           <rect x="1" y="67"  width="198" height="66" fill="#003F8A"/>
           <rect x="1" y="133" width="198" height="67" fill="#e4e7ef"/>
         </g>
-        <!-- CENTER pentagon: cx=100,cy=92, r=35, rotated 22° -->
-        <polygon clip-path="url(#lbc)"
-          points="113,60 135,94 108,126 70,111 73,70"
-          fill="rgba(255,255,255,0.32)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
-        <!-- OUTER 5 — centers at dist=96, clipped at edge -->
-        <polygon clip-path="url(#lbc)" points="168,16  134,37  103,11  118,-26 158,-23" fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
-        <polygon clip-path="url(#lbc)" points="194,133 163,107 178,70  218,73  228,112" fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
-        <polygon clip-path="url(#lbc)" points="90,193  105,156 145,159 155,198 121,219" fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
-        <polygon clip-path="url(#lbc)" points="1,114   41,117  51,156  17,177  -14,151" fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
-        <polygon clip-path="url(#lbc)" points="49,4    59,43   25,64   -6,38   9,1"    fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
-        <!-- Rim shading + highlight -->
+        <polygon clip-path="url(#lbc)" points="113,60 135,94 108,126 70,111 73,70" fill="rgba(255,255,255,0.32)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+        <polygon clip-path="url(#lbc)" points="168,16 134,37 103,11 118,-26 158,-23" fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+        <polygon clip-path="url(#lbc)" points="194,133 163,107 178,70 218,73 228,112" fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+        <polygon clip-path="url(#lbc)" points="90,193 105,156 145,159 155,198 121,219" fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+        <polygon clip-path="url(#lbc)" points="1,114 41,117 51,156 17,177 -14,151" fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+        <polygon clip-path="url(#lbc)" points="49,4 59,43 25,64 -6,38 9,1" fill="rgba(255,255,255,0.28)" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
         <circle cx="100" cy="100" r="99" fill="url(#lrs)"/>
         <ellipse cx="60" cy="44" rx="28" ry="19" fill="white" opacity="0.50" transform="rotate(-30 60 44)"/>
         <ellipse cx="55" cy="39" rx="13" ry="9"  fill="white" opacity="0.62" transform="rotate(-30 55 39)"/>
-        <!-- Border -->
         <circle cx="100" cy="100" r="99" fill="none" stroke="#a4adb8" stroke-width="1.5"/>
       </svg>
       <div class="logo-wm">
@@ -359,83 +308,68 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
   <div class="tk-lbl" id="tk-lbl">Уживо</div>
   <div class="tk-scroll">
     <div class="tk-track" id="ticker-track">
-      <span>Учитавам податке...</span>
+      <span>Учитавам вести...</span>
     </div>
   </div>
 </div>
 
 <div class="page">
-
-<!-- MAIN -->
 <div class="main">
 
-  <!-- NAJNOVIJE VESTI — TOP -->
+  <!-- ══════════════════════════════════════
+       AI ВЕСТ АГЕНТ — Српски фудбал
+       Извори: ФСС · Мозарт · Танјуг · Б92
+       ══════════════════════════════════════ -->
   <div id="vesti" class="sec" style="margin-bottom:20px">
     <div class="sh">
       <div class="sh-bar"></div>
       <h2 class="sh-ttl">Најновије вести</h2>
-      <span class="sh-ts" id="vesti-azurirano" style="margin-left:auto"></span>
+      <span class="sh-ts" id="vesti-ts" style="margin-left:auto"></span>
     </div>
 
-    <!-- Tanjug live RSS cards — 3 naslova -->
-    <div id="tanjug-cards" style="margin-bottom:14px">
-      <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px">
-        <span style="font-family:var(--fu);font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red)">● Танјуг</span>
-        <span id="tanjug-ts" style="font-family:var(--fu);font-size:10px;color:var(--txt4)"></span>
+    <div class="ai-agent-wrap" id="ai-agent-wrap">
+      <div class="ai-agent-hdr">
+        <div class="ai-agent-badge">АИ Агент</div>
+        <div class="ai-agent-title">Фудбалске вести — уживо</div>
+        <div class="ai-agent-ts" id="agent-ts"></div>
       </div>
-      <div id="tanjug-list" class="tv-list" style="border:1px solid var(--bdr);border-radius:10px;overflow:hidden">
-        <div style="padding:14px;color:#9ca3af;font-size:12px">⏳ Учитавам Танјуг вести...</div>
+      <div id="ai-news-container">
+        <div class="ai-agent-loading">Учитавам вести из ФСС, Мозарт Спорт, Танјуг и Б92...</div>
       </div>
-    </div>
-
-    <!-- Kurir live RSS cards — 3 naslova -->
-    <div id="kurir-cards" style="margin-bottom:14px">
-      <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px">
-        <span style="font-family:var(--fu);font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red)">● Курир</span>
-        <span id="kurir-ts" style="font-family:var(--fu);font-size:10px;color:var(--txt4)"></span>
+      <div class="ai-status">
+        <span><span class="ai-status-dot"></span>АИ агент активан · <span id="ai-count">0</span> наслова · извори: ФСС · Мозарт · Танјуг · Б92</span>
+        <button class="ai-refresh-btn" onclick="runAiAgent(true)">↻ Освежи</button>
       </div>
-      <div id="kurir-list" class="tv-list" style="border:1px solid var(--bdr);border-radius:10px;overflow:hidden">
-        <div style="padding:14px;color:#9ca3af;font-size:12px">⏳ Учитавам Курир вести...</div>
-      </div>
-    </div>
-
-    <!-- Mondo + other sources -->
-    <div id="main-vesti-list" class="tv-list" style="border:1px solid var(--bdr);border-radius:10px;overflow:hidden">
-      <div style="padding:14px;color:#9ca3af;font-size:12px">Учитавам вести...</div>
     </div>
   </div>
 
-  <!-- AD 1 -->
+  <!-- AD -->
   <div class="adbox">Google AdSense — 728×90</div>
 
   <!-- SUPERLIGA -->
   <div id="superliga" class="sec">
     <div class="slw" id="slw">
-  <div class="slw-hd">
-    <div class="slw-title">
-      <span class="slw-dot" id="slw-dot"></span>
-      ⚽ Суперлига Србије
+      <div class="slw-hd">
+        <div class="slw-title">
+          <span class="slw-dot" id="slw-dot"></span>
+          ⚽ Суперлига Србије
+        </div>
+        <div class="slw-season">Сезона 2025/26</div>
+      </div>
+      <div class="slw-tabs">
+        <button class="slw-tab on" onclick="slTab('rez',this)">Резултати</button>
+        <button class="slw-tab" onclick="slTab('tab',this)">Табела</button>
+        <button class="slw-tab" onclick="slTab('uzi',this)">Уживо<span class="slw-badge" id="slw-badge" style="display:none"></span></button>
+        <button class="slw-tab" onclick="slTab('ras',this)">Распоред</button>
+      </div>
+      <div class="slw-panel on" id="slw-panel-rez"><div class="slw-spin" id="slw-spin-rez"></div><div id="slw-out-rez"></div></div>
+      <div class="slw-panel" id="slw-panel-tab"><div class="slw-spin" id="slw-spin-tab"></div><div id="slw-out-tab"></div></div>
+      <div class="slw-panel" id="slw-panel-uzi"><div class="slw-spin" id="slw-spin-uzi"></div><div id="slw-out-uzi"></div></div>
+      <div class="slw-panel" id="slw-panel-ras"><div class="slw-spin" id="slw-spin-ras"></div><div id="slw-out-ras"></div></div>
+      <div class="slw-ft">Подаци: <a href="https://apifootball.com" target="_blank">APIfootball.com</a> · <a href="https://srpskifudbal.com" target="_blank">СрпскиФудбал.com</a> · <span id="slw-ts">Учитавам...</span></div>
     </div>
-    <div class="slw-season">Сезона 2025/26</div>
+    <div class="adbox" style="margin-top:16px">Google AdSense — 728×90</div>
   </div>
-
-  <div class="slw-tabs">
-    <button class="slw-tab on" onclick="slTab('rez',this)">Резултати</button>
-    <button class="slw-tab" onclick="slTab('tab',this)">Табела</button>
-    <button class="slw-tab" onclick="slTab('uzi',this)">Уживо<span class="slw-badge" id="slw-badge" style="display:none"></span></button>
-    <button class="slw-tab" onclick="slTab('ras',this)">Распоред</button>
-  </div>
-
-  <div class="slw-panel on" id="slw-panel-rez"><div class="slw-spin" id="slw-spin-rez"></div><div id="slw-out-rez"></div></div>
-  <div class="slw-panel" id="slw-panel-tab"><div class="slw-spin" id="slw-spin-tab"></div><div id="slw-out-tab"></div></div>
-  <div class="slw-panel" id="slw-panel-uzi"><div class="slw-spin" id="slw-spin-uzi"></div><div id="slw-out-uzi"></div></div>
-  <div class="slw-panel" id="slw-panel-ras"><div class="slw-spin" id="slw-spin-ras"></div><div id="slw-out-ras"></div></div>
-
-  <div class="slw-ft">Подаци: <a href="https://apifootball.com" target="_blank">APIfootball.com</a> · <a href="https://srpskifudbal.com" target="_blank">СрпскиФудбал.com</a> · <span id="slw-ts">Учитавам...</span></div>
-  </div>
-
-  <!-- AD 2 -->
-  <div class="adbox">Google AdSense — 728×90</div>
 
   <!-- VIDEO -->
   <div id="video" class="sec">
@@ -445,39 +379,31 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
       <a href="https://www.youtube.com/@SuperligaRs1" target="_blank">YouTube →</a>
     </div>
     <div class="vid-grid">
-      <!-- Superliga -->
       <a class="vid-card" href="https://www.youtube.com/@SuperligaRs1" target="_blank" rel="noopener" style="text-decoration:none;display:block">
         <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;background:#CC0000">
           <div style="position:absolute;inset:0;background:linear-gradient(135deg,#CC0000 60%,#990000 100%);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px">
             <svg width="64" height="44" viewBox="0 0 68 48" style="filter:drop-shadow(0 2px 8px rgba(0,0,0,.6))">
-              <path d="M66.52,7.74C65.73,4.5,63.2,1.97,59.97,1.18 C54.7,0,33.56,0,33.56,0S12.42,0,7.14,1.18 C3.91,1.97,1.38,4.5,.59,7.74 C-0.59,13.02,-0.59,24,-0.59,24s0,10.98,1.18,16.26 c0.79,3.24,3.32,5.77,6.55,6.56 C12.42,48,33.56,48,33.56,48s21.14,0,26.41-1.18 c3.23-0.79,5.76-3.32,6.55-6.56 C67.7,34.98,67.7,24,67.7,24S67.7,13.02,66.52,7.74z" fill="rgba(0,0,0,0.5)"/>
+              <path d="M66.52,7.74C65.73,4.5,63.2,1.97,59.97,1.18C54.7,0,33.56,0,33.56,0S12.42,0,7.14,1.18C3.91,1.97,1.38,4.5,.59,7.74C-0.59,13.02,-0.59,24,-0.59,24s0,10.98,1.18,16.26c0.79,3.24,3.32,5.77,6.55,6.56C12.42,48,33.56,48,33.56,48s21.14,0,26.41-1.18c3.23-0.79,5.76-3.32,6.55-6.56C67.7,34.98,67.7,24,67.7,24S67.7,13.02,66.52,7.74z" fill="rgba(0,0,0,0.5)"/>
               <path d="M26.96,34.32L44.68,24L26.96,13.68V34.32z" fill="#fff"/>
             </svg>
             <span style="color:#fff;font-family:var(--fd);font-size:14px;font-weight:700;letter-spacing:.05em;text-shadow:0 1px 4px rgba(0,0,0,.6)">⚽ Суперлига Србије</span>
             <span style="color:rgba(255,255,255,.85);font-size:11px;text-shadow:0 1px 3px rgba(0,0,0,.5)">Кликни за најновије видео →</span>
           </div>
         </div>
-        <div class="vid-lbl">
-          <div class="vid-lbl-t">Суперлига Србије</div>
-          <div class="vid-lbl-s">SuperligaRs1 · YouTube</div>
-        </div>
+        <div class="vid-lbl"><div class="vid-lbl-t">Суперлига Србије</div><div class="vid-lbl-s">SuperligaRs1 · YouTube</div></div>
       </a>
-      <!-- Reprezentacija -->
       <a class="vid-card" href="https://www.youtube.com/@FSSrbije" target="_blank" rel="noopener" style="text-decoration:none;display:block">
         <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;background:#003F8A">
           <div style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px">
             <svg width="64" height="44" viewBox="0 0 68 48" style="filter:drop-shadow(0 2px 6px rgba(0,0,0,.5))">
-              <path d="M66.52,7.74C65.73,4.5,63.2,1.97,59.97,1.18 C54.7,0,33.56,0,33.56,0S12.42,0,7.14,1.18 C3.91,1.97,1.38,4.5,.59,7.74 C-0.59,13.02,-0.59,24,-0.59,24s0,10.98,1.18,16.26 c0.79,3.24,3.32,5.77,6.55,6.56 C12.42,48,33.56,48,33.56,48s21.14,0,26.41-1.18 c3.23-0.79,5.76-3.32,6.55-6.56 C67.7,34.98,67.7,24,67.7,24S67.7,13.02,66.52,7.74z" fill="#f00"/>
+              <path d="M66.52,7.74C65.73,4.5,63.2,1.97,59.97,1.18C54.7,0,33.56,0,33.56,0S12.42,0,7.14,1.18C3.91,1.97,1.38,4.5,.59,7.74C-0.59,13.02,-0.59,24,-0.59,24s0,10.98,1.18,16.26c0.79,3.24,3.32,5.77,6.55,6.56C12.42,48,33.56,48,33.56,48s21.14,0,26.41-1.18c3.23-0.79,5.76-3.32,6.55-6.56C67.7,34.98,67.7,24,67.7,24S67.7,13.02,66.52,7.74z" fill="#f00"/>
               <path d="M26.96,34.32L44.68,24L26.96,13.68V34.32z" fill="#fff"/>
             </svg>
             <span style="color:#fff;font-family:var(--fd);font-size:14px;font-weight:700;letter-spacing:.05em;text-shadow:0 1px 4px rgba(0,0,0,.8)">Репрезентација Србије 🇷🇸</span>
             <span style="color:rgba(255,255,255,.8);font-size:11px;text-shadow:0 1px 3px rgba(0,0,0,.8)">Кликни за најновије видео →</span>
           </div>
         </div>
-        <div class="vid-lbl">
-          <div class="vid-lbl-t">Репрезентација Србије</div>
-          <div class="vid-lbl-s">FSSrbije · YouTube</div>
-        </div>
+        <div class="vid-lbl"><div class="vid-lbl-t">Репрезентација Србије</div><div class="vid-lbl-s">FSSrbije · YouTube</div></div>
       </a>
     </div>
   </div>
@@ -485,20 +411,51 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 </div><!-- /main -->
 
 <!-- SIDEBAR -->
-<div class="side">
+<div class="side" id="reprezentacija">
+  <div class="widget">
+    <div class="wh red">🇷🇸 Репрезентација</div>
+    <a class="sv-item" href="https://www.fss.rs" target="_blank" rel="noopener">
+      <div class="sv-tag">ФСС Службено</div>
+      <div class="sv-ttl">Фудбалски савез Србије</div>
+      <div class="sv-dt">fss.rs — званичне информације</div>
+    </a>
+    <a class="sv-item" href="https://www.fss.rs/sr/a-reprezentacija.html" target="_blank" rel="noopener">
+      <div class="sv-tag">А Репрезентација</div>
+      <div class="sv-ttl">Сениорска репрезентација Србије</div>
+    </a>
+    <a class="sv-item" href="https://www.fss.rs/sr/u21.html" target="_blank" rel="noopener">
+      <div class="sv-tag">У21</div>
+      <div class="sv-ttl">Репрезентација У21</div>
+    </a>
+  </div>
 
-  <!-- Ad 300x250 -->
+  <div class="widget">
+    <div class="wh">📰 Извори вести</div>
+    <a class="sv-item" href="https://www.fss.rs" target="_blank" rel="noopener">
+      <div class="sv-tag src-fss">ФСС</div>
+      <div class="sv-ttl">fss.rs — Фудбалски савез Србије</div>
+    </a>
+    <a class="sv-item" href="https://www.mozzartsport.com" target="_blank" rel="noopener">
+      <div class="sv-tag src-mozzart">Мозарт Спорт</div>
+      <div class="sv-ttl">mozzartsport.com</div>
+    </a>
+    <a class="sv-item" href="https://www.tanjug.rs/sport/fudbal" target="_blank" rel="noopener">
+      <div class="sv-tag src-tanjug">Танјуг</div>
+      <div class="sv-ttl">tanjug.rs — Фудбалске вести</div>
+    </a>
+    <a class="sv-item" href="https://www.b92.net/sport/fudbal/" target="_blank" rel="noopener">
+      <div class="sv-tag src-b92">Б92</div>
+      <div class="sv-ttl">b92.net — Српски фудбал</div>
+    </a>
+  </div>
+
   <div class="adbox" style="height:250px;flex-direction:column">
     <span>Google AdSense</span>
     <span>300×250</span>
   </div>
-  </div>
-
-</div><!-- /side -->
+</div>
 
 </div><!-- /page -->
-
-<div style="clear:both"></div>
 
 <footer>
   <div class="ft-tricolor"></div>
@@ -514,7 +471,7 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
         </svg>
         <span class="ft-logo-n">Српски Фудбал</span>
       </div>
-      <div class="ft-desc">Аутоматски портал о српском фудбалу.<br>Вести · Резултати · Табела</div>
+      <div class="ft-desc">Аутоматски АИ портал о српском фудбалу.<br>Вести · Резултати · Табела<br>Вести: само оригинални наслови и линкови.</div>
     </div>
     <div class="ft-col">
       <div class="ft-col-h">Навигација</div>
@@ -525,22 +482,33 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
     <div class="ft-col">
       <div class="ft-col-h">Извори</div>
       <a href="https://www.fss.rs" target="_blank">ФСС</a>
+      <a href="https://www.mozzartsport.com" target="_blank">Мозарт Спорт</a>
       <a href="https://www.tanjug.rs" target="_blank">Танјуг</a>
-      <a href="https://www.novosti.rs" target="_blank">Новости</a>
+      <a href="https://www.b92.net/sport/fudbal/" target="_blank">Б92</a>
       <a href="https://apifootball.com" target="_blank">APIfootball.com</a>
-      <a href="https://srpskifudbal.com" target="_blank">СрпскиФудбал.com</a>
     </div>
   </div>
   <div class="ft-bot">
     <span>© 2026 СрпскиФудбал.цом — Аутоматски АИ портал</span>
-    <span>Подаци: APIfootball.com · ФСС · Танјуг · Новости</span>
+    <span>Вести: ФСС · Мозарт Спорт · Танјуг · Б92</span>
   </div>
 </footer>
 
 <script>
-// ═══════════════════════════════════
-// DATE
-// ═══════════════════════════════════
+// ════════════════════════════════════
+// CONSTANTS
+// ════════════════════════════════════
+const WORKER_URL  = 'https://superliga-api.slavisa-cf8.workers.dev';
+const APIF_BASE   = 'https://v3.football.api-sports.io';
+const APIF_KEY    = 'b80e630effea6fbdac1643532977e620';
+const APIF_LEAGUE = 271;
+const APIF_SEASON = 2025;
+const TID = 210;
+let SID = 1;
+
+// ════════════════════════════════════
+// DATE HEADER
+// ════════════════════════════════════
 (function(){
   const d=new Date();
   const dn=['нед','пон','уто','сри','чет','пет','суб'];
@@ -549,510 +517,58 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
   if(el) el.textContent=d.getDate()+'. '+mn[d.getMonth()]+' '+d.getFullYear()+' · '+dn[d.getDay()];
 })();
 
-// ═══════════════════════════════════
+// ════════════════════════════════════
 // MOBILE MENU
-// ═══════════════════════════════════
-function toggleMob(){
-  document.getElementById('hbtn').classList.toggle('open');
-  document.getElementById('mob-menu').classList.toggle('open');
-}
-function closeMob(){
-  document.getElementById('hbtn').classList.remove('open');
-  document.getElementById('mob-menu').classList.remove('open');
-}
-document.addEventListener('click',e=>{
-  if(!e.target.closest('#hbtn')&&!e.target.closest('#mob-menu')) closeMob();
-});
+// ════════════════════════════════════
+function toggleMob(){document.getElementById('hbtn').classList.toggle('open');document.getElementById('mob-menu').classList.toggle('open');}
+function closeMob(){document.getElementById('hbtn').classList.remove('open');document.getElementById('mob-menu').classList.remove('open');}
+document.addEventListener('click',e=>{if(!e.target.closest('#hbtn')&&!e.target.closest('#mob-menu'))closeMob();});
 
-// ═══════════════════════════════════
-// SUPERLIGA WIDGET
-// ═══════════════════════════════════
-// ═══ PREVOD TIMOVA ═══
-const TIMOVI_MAP = {
-  'FK Crvena zvezda':'Црвена звезда','Crvena zvezda':'Црвена звезда','Red Star Belgrade':'Црвена звезда',
-  'FK Partizan':'Партизан','Partizan':'Партизан','Partizan Belgrade':'Партизан',
-  'FK Vojvodina':'Војводина','Vojvodina':'Војводина',
-  'FK Čukarički':'Чукарички','Čukarički':'Чукарички','FK Cukaricki':'Чукарички','Cukaricki':'Чукарички',
-  'FK Spartak Subotica':'Спартак Суботица','Spartak Subotica':'Спартак Суботица',
-  'FK Radnik Surdulica':'Радник Сурдулица','Radnik Surdulica':'Радник Сурдулица',
-  'FK Napredak Kruševac':'Напредак Крушевац','Napredak Kruševac':'Напредак Крушевац',
-  'FK Novi Pazar':'Нови Пазар','Novi Pazar':'Нови Пазар',
-  'FK TSC Bačka Topola':'ТСЦ Бачка Топола','TSC Bačka Topola':'ТСЦ Бачка Топола',
-  'FK Radnički Niš':'Раднички Ниш','Radnički Niš':'Раднички Ниш',
-  'FK Voždovac':'Вождовац','Voždovac':'Вождовац',
-  'OFK Beograd':'ОФК Београд','FK Kolubara':'Колубара','Kolubara':'Колубара',
-  'FK Javor Ivanjica':'Јавор Ивањица','FK Mladost Lučani':'Младост Лучани',
-};
-function timT(n) {
-  if (!n) return '';
-  return TIMOVI_MAP[n] || TIMOVI_MAP[n.replace(/^FK /,'')] || n;
-}
-const TID = 210;   // Superliga Srbije (SofaScore ID — zadržan za Worker kompatibilnost)
-// ═══ API-Football konfiguracija ═══
-const APIF_KEY  = 'b80e630effea6fbdac1643532977e620';
-const APIF_BASE = 'https://v3.football.api-sports.io';
-const APIF_LEAGUE = 271; // Superliga Srbije na API-Football
-const APIF_SEASON = 2025;
-let SID = null; // Auto-detected from API
-
-// ═══ CLOUDFLARE WORKER URL — promeni nakon deploya ═══
-// Deploy worker: dash.cloudflare.com → Workers → Create → nalepi srpskifudbal-worker.js
-const WORKER_URL = 'https://superliga-api.slavisa-cf8.workers.dev';
-
-async function api(path) {
-  // Na serveru (https://) — koristi Worker koji ima pristup SofaScore
-  if (location.protocol !== 'file:') {
-    // Worker routes: /tabela, /rezultati, /uzivo, /all
-    let workerPath = '';
-    if (path.includes('standings'))       workerPath = '/tabela';
-    else if (path.includes('events/last')) workerPath = '/rezultati';
-    else if (path.includes('events/next')) workerPath = '/raspored';
-    else if (path.includes('events/live')) workerPath = '/uzivo';
-    else if (path.includes('seasons'))    workerPath = '/seasons';
-    
-    if (workerPath) {
-      const r = await fetch(WORKER_URL + workerPath, {signal: AbortSignal.timeout(10000)});
-      if (r.ok) {
-        const data = await r.json();
-        // Worker vraca wrapped data — adapter za direktan SofaScore format
-        if (workerPath === '/tabela' && data.tabela) {
-          // Konvertuj Worker format → SofaScore format za widget
-          return { standings: [{ rows: data.tabela.map(t => ({
-            position: t.poz,
-            team: { name: t.klub, form: t.forma?.split('').map(f=>f==='П'?'W':f==='Н'?'D':f==='И'?'L':f).join('') || '' },
-            matches: t.u, wins: t.p, draws: t.n, losses: t.i,
-            scoreDiffFormatted: t.gd, points: t.bod,
-          })) }] };
-        }
-        if (workerPath === '/rezultati' && data.zadnje) {
-          return { events: data.zadnje.utakmice?.map(u => ({
-            id: u.id,
-            roundInfo: { round: data.zadnje.kolo },
-            status: { type: u.statusTip || (u.golD !== null ? 'finished' : 'notstarted') },
-            homeTeam: { name: u.domacin }, awayTeam: { name: u.gost },
-            homeScore: { current: u.golD }, awayScore: { current: u.golG },
-            startTimestamp: null, time: { played: u.minut },
-          })) || [] };
-        }
-        if (workerPath === '/raspored' && data.sledece) {
-          return { events: data.sledece.map(u => ({
-            id: u.id,
-            roundInfo: { round: u.kolo },
-            status: { type: 'notstarted' },
-            homeTeam: { name: u.domacin }, awayTeam: { name: u.gost },
-            startTimestamp: u.timestamp,
-          })) };
-        }
-        if (workerPath === '/uzivo' && data.uzivo) {
-          return { events: data.uzivo.map(u => ({
-            tournament: { uniqueTournament: { id: TID } },
-            homeTeam: { name: u.domacin }, awayTeam: { name: u.gost },
-            homeScore: { current: u.golD }, awayScore: { current: u.golG },
-            status: { type: 'inprogress' }, time: { played: u.minut },
-          })) };
-        }
-        if (workerPath === '/seasons') {
-          // Worker nema /seasons — fallback
-          throw new Error('use fallback');
-        }
-        return data;
-      }
-    }
-  }
-  throw new Error('API nedostupan');
-}
-
-// ═══════════════════════════════════
-// DEMO DATA (fallback za lokalni test)
-// ═══════════════════════════════════
-const DEMO_LAST = {events:[
-  {id:1,roundInfo:{round:24},status:{type:'finished'},startTimestamp:1742000000,
-   homeTeam:{name:'FK Partizan'},awayTeam:{name:'FK Vojvodina'},
-   homeScore:{current:2},awayScore:{current:1}},
-  {id:2,roundInfo:{round:24},status:{type:'finished'},startTimestamp:1741900000,
-   homeTeam:{name:'FK Radnik Surdulica'},awayTeam:{name:'FK Crvena zvezda'},
-   homeScore:{current:0},awayScore:{current:3}},
-  {id:3,roundInfo:{round:24},status:{type:'inprogress'},startTimestamp:1742050000,
-   homeTeam:{name:'FK Čukarički'},awayTeam:{name:'FK Novi Pazar'},
-   homeScore:{current:1},awayScore:{current:1},time:{played:68}},
-  {id:4,roundInfo:{round:24},status:{type:'finished'},startTimestamp:1741800000,
-   homeTeam:{name:'FK Napredak Kruševac'},awayTeam:{name:'FK Spartak Subotica'},
-   homeScore:{current:1},awayScore:{current:2}},
-]};
-
-const DEMO_STAND = {standings:[{rows:[
-  {position:1,team:{name:'FK Crvena zvezda',id:84,form:'ПППНП'},matches:24,wins:17,draws:5,losses:2,scoresFor:56,scoresAgainst:22,scoreDiffFormatted:'+34',points:56},
-  {position:2,team:{name:'FK Partizan',id:85,form:'ППППИ'},matches:24,wins:16,draws:6,losses:2,scoresFor:48,scoresAgainst:20,scoreDiffFormatted:'+28',points:54},
-  {position:3,team:{name:'FK Vojvodina',id:374,form:'ПИНПН'},matches:24,wins:12,draws:4,losses:8,scoresFor:38,scoresAgainst:28,scoreDiffFormatted:'+10',points:40},
-  {position:4,team:{name:'FK Čukarički',id:1650,form:'ННПИП'},matches:24,wins:10,draws:6,losses:8,scoresFor:34,scoresAgainst:28,scoreDiffFormatted:'+6',points:36},
-  {position:5,team:{name:'FK Spartak Subotica',id:375,form:'ИППНИ'},matches:24,wins:9,draws:5,losses:10,scoresFor:30,scoresAgainst:28,scoreDiffFormatted:'+2',points:32},
-  {position:6,team:{name:'FK Napredak Kruševac',id:377,form:'НИИNП'},matches:24,wins:8,draws:5,losses:11,scoresFor:26,scoresAgainst:30,scoreDiffFormatted:'-4',points:29},
-  {position:7,team:{name:'FK Radnik Surdulica',id:376,form:'ПИNИИ'},matches:24,wins:7,draws:5,losses:12,scoresFor:22,scoresAgainst:30,scoreDiffFormatted:'-8',points:26},
-  {position:8,team:{name:'FK Novi Pazar',id:1649,form:'ИИНИИ'},matches:24,wins:4,draws:4,losses:16,scoresFor:18,scoresAgainst:36,scoreDiffFormatted:'-18',points:16},
-]}]};
-
-const DEMO_NEXT = {events:[
-  {id:10,roundInfo:{round:25},status:{type:'notstarted'},startTimestamp:1742832000,
-   homeTeam:{name:'FK Crvena zvezda'},awayTeam:{name:'FK Partizan'}},
-  {id:11,roundInfo:{round:25},status:{type:'notstarted'},startTimestamp:1742745600,
-   homeTeam:{name:'FK Vojvodina'},awayTeam:{name:'FK Spartak Subotica'}},
-  {id:12,roundInfo:{round:25},status:{type:'notstarted'},startTimestamp:1742745600,
-   homeTeam:{name:'FK Čukarički'},awayTeam:{name:'FK Napredak Kruševac'}},
-]};
-
-async function safeApi(path, demo) {
-  // Samo lokalni file:// koristi demo
-  if (location.protocol === 'file:') {
-    return demo;
-  }
-  try {
-    const result = await api(path);
-    if (result) return result;
-    throw new Error('Empty response');
-  } catch(e) {
-    console.error('API greška:', e.message);
-    // Na serveru — pokušaj direktno SofaScore kroz proxy
-    try {
-      const proxies = [
-        u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
-        u => `https://api.allorigins.win/raw?url=${encodeURIComponent(u)}`,
-      ];
-      const url = 'https://www.sofascore.com/api/v1' + path;
-      for (const p of proxies) {
-        try {
-          const r = await fetch(p(url), {signal: AbortSignal.timeout(6000)});
-          if (r.ok) { const d = await r.json(); if (d) return d; }
-        } catch(e2) { continue; }
-      }
-    } catch(e3) {}
-    console.warn('Svi API pokušaji neuspešni, koristim demo');
-    return demo;
-  }
-}
-
-// ═══════════════════════════════════
-// HELPERS
-// ═══════════════════════════════════
-function mesec(ts) {
-  if (!ts || ts < 1000000000) return '';
-  const d = new Date(ts*1000);
-  if (isNaN(d.getTime())) return '';
-  const m = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
-  return `${d.getDate()}. ${m[d.getMonth()].toUpperCase()}`;
-}
-function datumVreme(ts) {
-  if (!ts || ts < 1000000000) return {datum:'', vreme:''};
-  const d = new Date(ts*1000);
-  if (isNaN(d.getTime())) return {datum:'', vreme:''};
-  const m = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
-  return {
-    datum: `${d.getDate()}. ${m[d.getMonth()].toUpperCase()}`,
-    vreme: `${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`
-  };
-}
-function vreme(ts) {
-  const d = new Date(ts*1000);
-  return `${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
-}
-function ts() {
-  const d = new Date();
-  return `${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
-}
-
-function forma(str) {
-  if (!str) return '';
-  return '<div class="slw-forma">' +
-    str.split('').map(f => {
-      const c = f==='W'?'П':f==='D'?'Н':f==='L'?'И':f==='P'?'П':f==='N'?'Н':f==='I'?'И':f;
-      return `<div class="slw-fd ${c}">${c}</div>`;
-    }).join('') + '</div>';
-}
-
-function matchRow(e) {
-  const tip = e.status?.type || 'notstarted';
-  const live = tip === 'inprogress' || tip === 'halftime';
-  const done = tip === 'finished';
-  const soon = !live && !done;
-  const d = timT(e.homeTeam?.name);
-  const g = timT(e.awayTeam?.name);
-  const gD = e.homeScore?.current;
-  const gG = e.awayScore?.current;
-  const minut = e.time?.played;
-
-  let sc;
-  if (soon) {
-    const dv = datumVreme(e.startTimestamp);
-    sc = `<div class="slw-scn grey">${dv.datum}</div>
-          <div class="slw-st blue">${dv.vreme}</div>`;
-  } else {
-    sc = `${live&&minut?`<div class="slw-min">${minut}'</div>`:''}
-          ${tip==='halftime'?'<div class="slw-min">ПВ</div>':''}
-          <div class="slw-scn ${live?'red':''}">${gD} – ${gG}</div>
-          ${live?'<div class="slw-st red">УЖИВО</div>':''}`;
-  }
-
-  return `<div class="slw-match ${live?'live':''}">
-    <div class="slw-ht r">${d}</div>
-    <div class="slw-sc">${sc}</div>
-    <div class="slw-ht l">${g}</div>
-  </div>`;
-}
-
-function hide(id) { const el=document.getElementById(id); if(el) el.style.display='none'; }
-function show(id,html) { const el=document.getElementById(id); if(el) el.innerHTML=html; }
-
-// ═══════════════════════════════════
-// TABS
-// ═══════════════════════════════════
-function slTab(name, btn) {
-  document.querySelectorAll('.slw-tab').forEach(t=>t.classList.remove('on'));
-  document.querySelectorAll('.slw-panel').forEach(p=>p.classList.remove('on'));
-  btn.classList.add('on');
-  document.getElementById('slw-panel-'+name).classList.add('on');
-  if (name==='tab') loadTab();
-  if (name==='uzi') loadUzi();
-  if (name==='ras') loadRas();
-}
-
-// ═══════════════════════════════════
-// REZULTATI
-// ═══════════════════════════════════
-let rezLoaded = false;
-async function loadRez() {
-  await getSeasonId();
-  try {
-    const d = await safeApi(`/unique-tournament/${TID}/season/${SID}/events/last/0`, DEMO_LAST);
-    hide('slw-spin-rez');
-    const evs = d.events || [];
-    if (!evs.length) { show('slw-out-rez','<div class="slw-err">Нема резултата.</div>');; return; }
-
-    const byRound = {};
-    evs.forEach(e => { const k=e.roundInfo?.round||0; (byRound[k]=byRound[k]||[]).push(e); });
-    const last = Math.max(...Object.keys(byRound).map(Number));
-
-    show('slw-out-rez', `
-      <div class="slw-rnd">
-        <span>Суперлига — Коло ${last}</span>
-
-      </div>
-      ${byRound[last].map(matchRow).join('')}
-    `);
-    document.getElementById('slw-ts').textContent = 'Ажурирано у '+ts();
-    rezLoaded = true;
-  } catch(e) {
-    hide('slw-spin-rez');
-    show('slw-out-rez',`<div class="slw-err">Грешка: ${e.message}</div>`);
-  }
-}
-
-// ═══════════════════════════════════
-// TABELA
-// ═══════════════════════════════════
-let tabLoaded = false;
-async function loadTab() {
-  if (tabLoaded) return;
-  await getSeasonId();
-  try {
-    const d = await safeApi(`/unique-tournament/${TID}/season/${SID}/standings/total`, DEMO_STAND);
-    hide('slw-spin-tab');
-    const rows = d.standings?.[0]?.rows || [];
-    if (!rows.length) { show('slw-out-tab','<div class="slw-err">Нема табеле.</div>'); return; }
-
-    const n = rows.length;
-    const tbody = rows.map((r,i) => {
-      let zone = '';
-      if (i===0) zone='cl';
-      else if (i<=2) zone='el';
-      else if (i===3) zone='ecl';
-      else if (i>=n-2) zone='rel';
-
-      const logo = '';
-      const fr = (r.team?.form||'').split('').map(f=>f==='W'?'P':f==='D'?'N':f==='L'?'I':f).join('');
-      const gd = r.scoreDiffFormatted || `${r.scoresFor}-${r.scoresAgainst}`;
-
-      return `<tr class="${zone}">
-        <td>${r.position}</td>
-        <td class="l">${logo}${timT(r.team?.name||'')}</td>
-        <td>${r.matches}</td>
-        <td class="col-pni">${r.wins}</td>
-        <td class="col-pni">${r.draws}</td>
-        <td class="col-pni">${r.losses}</td>
-        <td>${gd}</td>
-        <td class="slw-pts">${r.points}</td>
-      </tr>`;
-    }).join('');
-
-    show('slw-out-tab', `
-      <div class="slw-tbl-wrap">
-        <table class="slw-tbl">
-          <thead><tr>
-            <th>#</th><th class="l">Клуб</th>
-            <th title="Утакмице">У</th>
-            <th class="col-pni" title="Победе">П</th>
-            <th class="col-pni" title="Нерешено">Н</th>
-            <th class="col-pni" title="Изгубљено">И</th>
-            <th title="Гол разлика">ГР</th>
-            <th title="Бодови">Бод</th>
-          </tr></thead>
-          <tbody>${tbody}</tbody>
-        </table>
-      </div>
-      <div class="slw-legend">
-        <div class="slw-leg"><div class="slw-legdot" style="background:#D4A017"></div>Лига шампиона</div>
-        <div class="slw-leg"><div class="slw-legdot" style="background:#003F8A"></div>Лига Европе</div>
-        <div class="slw-leg"><div class="slw-legdot" style="background:#16a34a"></div>Конференц лига</div>
-        <div class="slw-leg"><div class="slw-legdot" style="background:#CC0000"></div>Испадање</div>
-      </div>
-    `);
-    document.getElementById('slw-ts').textContent = 'Ажурирано у '+ts();
-    tabLoaded = true;
-  } catch(e) {
-    hide('slw-spin-tab');
-    show('slw-out-tab',`<div class="slw-err">Грешка: ${e.message}</div>`);
-  }
-}
-
-// ═══════════════════════════════════
-// UZIVO — API-Football
-// ═══════════════════════════════════
-async function loadUzi() {
-  const spinUzi = document.getElementById('slw-spin-uzi');
-  if (spinUzi) spinUzi.style.display='block';
-  document.getElementById('slw-out-uzi').innerHTML='';
-  const badge = document.getElementById('slw-badge');
-  const dot   = document.getElementById('slw-dot');
-  try {
-    const r = await fetch(
-      `${APIF_BASE}/fixtures?league=${APIF_LEAGUE}&season=${APIF_SEASON}&live=all`,
-      { headers: { 'x-apisports-key': APIF_KEY }, signal: AbortSignal.timeout(10000) }
-    );
-    if (!r.ok) throw new Error(`HTTP ${r.status}`);
-    const data = await r.json();
-    hide('slw-spin-uzi');
-
-    const fixtures = (data.response || []);
-    if (fixtures.length) {
-      if (badge) { badge.textContent = fixtures.length; badge.style.display = 'inline-block'; }
-      if (dot) dot.style.display = 'block';
-      const rows = fixtures.map(f => {
-        const dom  = timT(f.teams?.home?.name || '');
-        const gost = timT(f.teams?.away?.name || '');
-        const golD = f.goals?.home ?? '–';
-        const golG = f.goals?.away ?? '–';
-        const min  = f.fixture?.status?.elapsed ? `${f.fixture.status.elapsed}'` : 'УЖИВО';
-        return `<div class="slw-match live">
-          <div class="slw-min">${min}</div>
-          <div class="slw-teams">
-            <span>${dom}</span>
-            <div class="slw-sc">
-              <div class="slw-scn red">${golD} – ${golG}</div>
-              <div class="slw-st red">УЖИВО</div>
-            </div>
-            <span>${gost}</span>
-          </div>
-        </div>`;
-      }).join('');
-      show('slw-out-uzi', `
-        <div class="slw-rnd"><span>🔴 УЖИВО — Суперлига</span></div>
-        ${rows}
-      `);
-    } else {
-      if (badge) badge.style.display = 'none';
-      if (dot) dot.style.display = 'none';
-      show('slw-out-uzi','<div class="slw-spin" style="color:#9ca3af;animation:none">Тренутно нема утакмица уживо.</div>');
-    }
-    document.getElementById('slw-ts').textContent = 'Ажурирано у '+ts();
-  } catch(e) {
-    hide('slw-spin-uzi');
-    show('slw-out-uzi',`<div class="slw-err">Грешка при учитавању: ${e.message}</div>`);
-  }
-}
-
-// ═══════════════════════════════════
-// RASPORED
-// ═══════════════════════════════════
-async function loadRas() {
-  if (document.getElementById('slw-out-ras').innerHTML) return;
-  await getSeasonId();
-  try {
-    const d = await safeApi(`/unique-tournament/${TID}/season/${SID}/events/next/0`, DEMO_NEXT);
-    hide('slw-spin-ras');
-    const evs = d.events || [];
-    if (!evs.length) { show('slw-out-ras','<div class="slw-err">Нема предстојећих утакмица.</div>'); return; }
-
-    const byRound = {};
-    evs.forEach(e => { const k=e.roundInfo?.round||0; (byRound[k]=byRound[k]||[]).push(e); });
-
-    let html = '';
-    for (const [k, utakmice] of Object.entries(byRound).sort((a,b)=>a[0]-b[0])) {
-      html += `<div class="slw-rnd"><span>Коло ${k}</span></div>`;
-      html += utakmice.map(matchRow).join('');
-    }
-    show('slw-out-ras', html);
-    document.getElementById('slw-ts').textContent = 'Ажурирано у '+ts();
-  } catch(e) {
-    hide('slw-spin-ras');
-    show('slw-out-ras',`<div class="slw-err">Грешка: ${e.message}</div>`);
-  }
-}
-
-// ═══════════════════════════════════
-// AUTO DETECT SEASON ID
-// ═══════════════════════════════════
-async function getSeasonId() {
-  if (SID) return SID;
-  if (location.protocol === 'file:') { SID = 'DEMO'; return SID; }
-  // Worker handles season internally — widget samo treba bilo koji broj
-  SID = 1; // Worker ignorise SID, koristi interni
-  return SID;
-}
-
-// ═══════════════════════════════════
-// INIT + AUTO REFRESH
-// ═══════════════════════════════════
-async function init() {
-  await getSeasonId();
-  console.log('Using Season ID:', SID);
-  loadRez();
-  loadUzi();
-}
-
-init();
-setInterval(loadRez, 60000);
-setInterval(loadUzi, 30000);
-
-// Ćirilična transliteracija
-const LAT_MAP = {'lj':'љ','nj':'њ','dž':'џ','dj':'ђ','Lj':'Љ','Nj':'Њ','Dž':'Џ','Dj':'Ђ',
-'a':'а','b':'б','c':'ц','č':'ч','ć':'ћ','d':'д','e':'е','f':'ф','g':'г','h':'х','i':'и',
-'j':'ј','k':'к','l':'л','m':'м','n':'н','o':'о','p':'п','r':'р','s':'с','š':'ш','t':'т',
-'u':'у','v':'в','z':'з','ž':'ж','A':'А','B':'Б','C':'Ц','Č':'Ч','Ć':'Ћ','D':'Д','E':'Е',
-'F':'Ф','G':'Г','H':'Х','I':'И','J':'Ј','K':'К','L':'Л','M':'М','N':'Н','O':'О','P':'П',
-'R':'Р','S':'С','Š':'Ш','T':'Т','U':'У','V':'В','Z':'З','Ž':'Ж'};
-function latinicaUCirilicu(t) {
-  if (!t) return t;
-  for (const [l,c] of [['lj','љ'],['nj','њ'],['dž','џ'],['dj','ђ'],['Lj','Љ'],['Nj','Њ'],['Dž','Џ'],['Dj','Ђ']])
-    t = t.replaceAll(l, c);
-  return t.split('').map(ch => LAT_MAP[ch]||ch).join('');
-}
-
-// ═══════════════════════════════════════════════════
-// ВЕСТИ — čita iz football.json (GitHub Actions puni svake 30 min)
-// Статични линкови: Танјуг + РТС
-// Динамичне: Мондо вести из JSON-а
-// ═══════════════════════════════════════════════════
-
-// 3 unique SVG football illustrations for Mondo fallback
-// Prave generičke fudbalske slike (picsum, jedinstvene po naslovu)
-const MONDO_PHOTOS = [
-  'football1','soccer2','sport3','stadium4','goal5','pitch6','ball7','match8'
+// ════════════════════════════════════
+// GENERIC FOOTBALL SVG THUMBNAILS
+// 8 distinct illustrated placeholders — no real photos, no copyright issues
+// ════════════════════════════════════
+const FB_THUMBS = [
+  // Thumbnail 0 — pitch top-down
+  `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="68" fill="#1a5c2e"/><rect x="4" y="4" width="80" height="60" fill="none" stroke="rgba(255,255,255,.5)" stroke-width="1.5"/><line x1="44" y1="4" x2="44" y2="64" stroke="rgba(255,255,255,.5)" stroke-width="1.5"/><circle cx="44" cy="34" r="9" fill="none" stroke="rgba(255,255,255,.5)" stroke-width="1.5"/><rect x="4" y="20" width="12" height="28" fill="none" stroke="rgba(255,255,255,.5)" stroke-width="1.5"/><rect x="72" y="20" width="12" height="28" fill="none" stroke="rgba(255,255,255,.5)" stroke-width="1.5"/></svg>`,
+  // Thumbnail 1 — football close-up
+  `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="68" fill="#0d2035"/><circle cx="44" cy="34" r="22" fill="white" stroke="#ccc" stroke-width="1"/><polygon points="44,16 52,24 50,34 44,38 38,34 36,24" fill="#1a1a1a"/><polygon points="44,52 52,44 50,34 44,38 38,34 36,44" fill="#1a1a1a"/><polygon points="22,28 30,24 36,24 38,34 30,40 22,40" fill="#1a1a1a"/><polygon points="66,28 58,24 52,24 50,34 58,40 66,40" fill="#1a1a1a"/></svg>`,
+  // Thumbnail 2 — stadium stands
+  `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="68" fill="#0a1628"/><rect x="0" y="40" width="88" height="28" fill="#1a5c2e"/><ellipse cx="44" cy="40" rx="35" ry="10" fill="none" stroke="rgba(255,255,255,.3)" stroke-width="1"/><rect x="10" y="8" width="68" height="32" fill="none" stroke="rgba(255,255,255,.15)" stroke-width="1" rx="4"/><rect x="15" y="12" width="58" height="6" fill="rgba(204,0,0,.6)"/><rect x="15" y="22" width="58" height="6" fill="rgba(0,63,138,.6)"/><rect x="15" y="32" width="58" height="4" fill="rgba(255,255,255,.15)"/><circle cx="44" cy="44" r="5" fill="none" stroke="rgba(255,255,255,.4)" stroke-width="1"/></svg>`,
+  // Thumbnail 3 — goal net
+  `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="68" fill="#1a3a5c"/><rect x="14" y="14" width="60" height="38" fill="none" stroke="white" stroke-width="2.5"/><line x1="14" y1="52" x2="74" y2="52" stroke="white" stroke-width="2.5"/><g stroke="rgba(255,255,255,.25)" stroke-width="0.8"><line x1="24" y1="14" x2="24" y2="52"/><line x1="34" y1="14" x2="34" y2="52"/><line x1="44" y1="14" x2="44" y2="52"/><line x1="54" y1="14" x2="54" y2="52"/><line x1="64" y1="14" x2="64" y2="52"/><line x1="14" y1="24" x2="74" y2="24"/><line x1="14" y1="34" x2="74" y2="34"/><line x1="14" y1="44" x2="74" y2="44"/></g></svg>`,
+  // Thumbnail 4 — Serbian tricolor shield
+  `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="68" fill="#0d1117"/><path d="M44,8 L64,16 L64,40 Q64,56 44,62 Q24,56 24,40 L24,16 Z" fill="none" stroke="rgba(255,255,255,.3)" stroke-width="1.5"/><clipPath id="shld"><path d="M44,8 L64,16 L64,40 Q64,56 44,62 Q24,56 24,40 L24,16 Z"/></clipPath><g clip-path="url(#shld)"><rect x="24" y="8" width="40" height="18" fill="#CC0000"/><rect x="24" y="26" width="40" height="18" fill="#003F8A"/><rect x="24" y="44" width="40" height="18" fill="#e4e7ef"/></g><path d="M44,8 L64,16 L64,40 Q64,56 44,62 Q24,56 24,40 L24,16 Z" fill="none" stroke="rgba(255,255,255,.4)" stroke-width="1.5"/></svg>`,
+  // Thumbnail 5 — scoreboard
+  `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="68" fill="#111"/><rect x="8" y="14" width="72" height="40" rx="4" fill="#1a2540" stroke="rgba(255,255,255,.1)" stroke-width="1"/><text x="44" y="36" text-anchor="middle" font-family="monospace" font-size="22" font-weight="900" fill="#fff" letter-spacing="4">1 — 0</text><text x="20" y="50" text-anchor="middle" font-family="sans-serif" font-size="7" fill="rgba(204,0,0,.9)" font-weight="700">ЦЗ</text><text x="68" y="50" text-anchor="middle" font-family="sans-serif" font-size="7" fill="rgba(255,255,255,.5)" font-weight="700">ПАР</text><rect x="8" y="58" width="72" height="4" rx="2" fill="#CC0000" opacity=".6"/></svg>`,
+  // Thumbnail 6 — trophy
+  `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="68" fill="#1a1400"/><path d="M36,12 L52,12 L52,34 Q52,44 44,46 Q36,44 36,34 Z" fill="#D4A017" stroke="#a07800" stroke-width="1"/><path d="M36,18 L28,18 Q24,18 24,24 Q24,30 30,32 L36,30" fill="none" stroke="#D4A017" stroke-width="2.5"/><path d="M52,18 L60,18 Q64,18 64,24 Q64,30 58,32 L52,30" fill="none" stroke="#D4A017" stroke-width="2.5"/><rect x="40" y="46" width="8" height="10" fill="#D4A017"/><rect x="32" y="56" width="24" height="4" rx="2" fill="#D4A017"/><text x="44" y="34" text-anchor="middle" font-family="serif" font-size="12" fill="#7a5800" font-weight="900">★</text></svg>`,
+  // Thumbnail 7 — player silhouette
+  `<svg viewBox="0 0 88 68" xmlns="http://www.w3.org/2000/svg"><rect width="88" height="68" fill="#0d2035"/><ellipse cx="44" cy="16" rx="7" ry="7" fill="rgba(255,255,255,.7)"/><path d="M32,28 Q36,24 44,24 Q52,24 56,28 L58,48 L50,48 L48,38 L44,40 L40,38 L38,48 L30,48 Z" fill="rgba(204,0,0,.8)"/><line x1="38" y1="48" x2="36" y2="62" stroke="rgba(255,255,255,.5)" stroke-width="3" stroke-linecap="round"/><line x1="50" y1="48" x2="52" y2="62" stroke="rgba(255,255,255,.5)" stroke-width="3" stroke-linecap="round"/><line x1="32" y1="34" x2="22" y2="42" stroke="rgba(204,0,0,.7)" stroke-width="3" stroke-linecap="round"/><line x1="56" y1="34" x2="66" y2="42" stroke="rgba(204,0,0,.7)" stroke-width="3" stroke-linecap="round"/></svg>`,
 ];
-let _mondoIdx = 0;
-function mondoPhoto(seed) {
-  return `https://picsum.photos/seed/${encodeURIComponent(seed||'fudbal')}/300/200`;
+
+let _thumbIdx = 0;
+function nextThumb() {
+  const t = FB_THUMBS[_thumbIdx % FB_THUMBS.length];
+  _thumbIdx++;
+  return t;
 }
 
-// Transliteracija latinica → ћирилица
-const LAT_CYR_MAP = [
+// Source color class
+function srcClass(izvor) {
+  if (!izvor) return '';
+  const l = izvor.toLowerCase();
+  if (l.includes('фсс') || l.includes('fss')) return 'src-fss';
+  if (l.includes('мозарт') || l.includes('mozzart')) return 'src-mozzart';
+  if (l.includes('танјуг') || l.includes('tanjug')) return 'src-tanjug';
+  if (l.includes('б92') || l.includes('b92')) return 'src-b92';
+  return '';
+}
+
+// ════════════════════════════════════
+// TRANSLITERACIJA LAT → ЋИР
+// ════════════════════════════════════
+const LAT_CYR = [
   ['lj','љ'],['nj','њ'],['dž','џ'],['Lj','Љ'],['Nj','Њ'],['Dž','Џ'],['LJ','Љ'],['NJ','Њ'],['DŽ','Џ'],
   ['A','А'],['B','Б'],['V','В'],['G','Г'],['D','Д'],['Đ','Ђ'],['E','Е'],['Ž','Ж'],['Z','З'],['I','И'],
   ['J','Ј'],['K','К'],['L','Л'],['M','М'],['N','Н'],['O','О'],['P','П'],['R','Р'],['S','С'],['T','Т'],
@@ -1065,304 +581,458 @@ function latCyr(str) {
   if (!str) return str;
   if (/[Ѐ-ӿ]/.test(str)) return str;
   let out = str;
-  for (const [lat, cyr] of LAT_CYR_MAP) out = out.split(lat).join(cyr);
+  for (const [l,c] of LAT_CYR) out = out.split(l).join(c);
   return out;
 }
 
-
-function listaItemV(v) {
-  const url = (v.url||'#').replace(/'/g,'%27');
-  let slika = v.slika || '';
-  const isMondo = (v.izvor||'').includes('Мондо') || (v.izvor||'').includes('Mondo');
-
-  let imgHtml = '';
-  if (isMondo) {
-    // Mondo blokira hotlinking — koristimo picsum sa seedom od naslova
-    imgHtml = `<div class="tv-img"><img src="${mondoPhoto(v.naslov||v.naziv)}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'"></div>`;
-  } else if (slika) {
-    imgHtml = `<div class="tv-img"><img src="${slika}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'"></div>`;
-  }
-
-  const hasImg = !!imgHtml;
-  return `<a class="tv-item" href="${url}" target="_blank" rel="noopener" style="${hasImg?'':'padding-left:14px'}">
-    ${imgHtml}
-    <div class="tv-body">
-      <div class="tv-src">${v.naziv||v.izvor||''}</div>
-      <div class="tv-ttl">${(v.naslov||'').slice(0,95)}</div>
-      <div class="tv-dt">${v.datum||''}</div>
-    </div>
-  </a>`;
-}
-
-// Tanjug RSS card renderer
-function tanjugCard(item) {
-  const imgHtml = item.img
-    ? `<img src="${item.img}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'">`
-    : `<div class="tv-img-ph">⚽</div>`;
-  return `<a class="tv-item" href="${item.link}" target="_blank" rel="noopener">
-    <div class="tv-img">${imgHtml}</div>
-    <div class="tv-body">
-      <div class="tv-src">Танјуг</div>
-      <div class="tv-ttl">${item.title.slice(0,85)}</div>
-      <div class="tv-dt">${item.time}</div>
-    </div>
-  </a>`;
-}
-
-// Multi-proxy RSS fetch — proba redom dok jedan ne uspe
-async function fetchRSS(rssUrl) {
+// ════════════════════════════════════
+// MULTI-PROXY RSS FETCH
+// ════════════════════════════════════
+async function fetchRSS(url) {
   const proxies = [
     u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
     u => `https://api.allorigins.win/raw?url=${encodeURIComponent(u)}&t=${Date.now()}`,
     u => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`,
   ];
-  for (const makeUrl of proxies) {
+  for (const mk of proxies) {
     try {
-      const r = await fetch(makeUrl(rssUrl), { signal: AbortSignal.timeout(7000) });
+      const r = await fetch(mk(url), {signal: AbortSignal.timeout(8000)});
       if (!r.ok) continue;
-      const text = await r.text();
-      if (text && text.includes('<item')) return text;
-    } catch(e) { /* proba sledeci */ }
+      const txt = await r.text();
+      if (txt && txt.includes('<item')) return txt;
+    } catch(e) {}
   }
-  throw new Error('Svi proxy neuspešni');
+  throw new Error('Сви proxy неуспешни');
 }
 
-// Tanjug + RTS + Novosti + FSS iz football.json (GitHub Actions puni svake 30 min)
-async function ucitajTanjug() {
-  const el = document.getElementById('tanjug-list');
-  const tsEl = document.getElementById('tanjug-ts');
-  if (!el) return;
-  try {
-    const jr = await fetch(
-      'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json',
-      { signal: AbortSignal.timeout(7000), cache: 'no-store' }
-    );
-    if (!jr.ok) throw new Error('HTTP ' + jr.status);
-    const jd = await jr.json();
-
-    // Prioritet: Tanjug → RTS → Novosti → FSS → Sportski zurnal
-    const sviIzvori = ['Танјуг','РТС','Новости','ФСС','Спортски журнал'];
-    let odabrane = [];
-    for (const izvor of sviIzvori) {
-      const found = (jd.vesti || []).filter(v =>
-        (v.izvor||'').includes(izvor) &&
-        v.naslov && v.naslov.length > 15 &&
-        v.url && v.url.startsWith('http')
-      );
-      odabrane = odabrane.concat(found);
-      if (odabrane.length >= 3) break;
+// Parse RSS XML → array of {title, link, pubDate, izvor}
+function parseRSS(xml, izvor) {
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(xml, 'text/xml');
+  const items = Array.from(doc.querySelectorAll('item'));
+  const months = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
+  return items.map(item => {
+    const title = latCyr((item.querySelector('title')?.textContent || '').trim());
+    const link  = (item.querySelector('link')?.textContent?.trim() ||
+                   item.querySelector('guid')?.textContent?.trim() || '#');
+    const pub   = item.querySelector('pubDate')?.textContent || '';
+    let datum = '', ts = 0;
+    if (pub) {
+      const d = new Date(pub);
+      if (!isNaN(d)) {
+        ts = d.getTime();
+        datum = `${d.getDate()}. ${months[d.getMonth()]} · ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+      }
     }
-    odabrane = odabrane.slice(0, 3);
-    if (!odabrane.length) throw new Error('no items');
-
-    el.innerHTML = odabrane.map(v => {
-      const imgHtml = v.slika
-        ? `<img src="${v.slika}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'">`
-        : `<div class="tv-img-ph">⚽</div>`;
-      return `<a class="tv-item" href="${v.url||'#'}" target="_blank" rel="noopener">
-        <div class="tv-img">${imgHtml}</div>
-        <div class="tv-body">
-          <div class="tv-src">${v.izvor||''}</div>
-          <div class="tv-ttl">${(v.naslov||'').slice(0,85)}</div>
-          <div class="tv-dt">${v.datum||''}</div>
-        </div>
-      </a>`;
-    }).join('');
-
-    const now = new Date();
-    if (tsEl) tsEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
-  } catch(e) {
-    el.innerHTML = '<div style="padding:14px;color:#9ca3af;font-size:12px">⚠️ Вести тренутно нису доступне. <a href="https://www.tanjug.rs/sport/fudbal" target="_blank" style="color:var(--red)">Отвори Танјуг →</a></div>';
-    console.warn('Tanjug greška:', e.message);
-  }
+    return { title, link, datum, ts, izvor };
+  }).filter(v => v.title && v.link && v.title.length > 10);
 }
 
-const STATICNE_VESTI = [];
+// ════════════════════════════════════
+// AI NEWS AGENT
+// Fetches from 4 sources, deduplicates,
+// shows 3–10 latest headlines in Cyrillic
+// Uses Claude API to translate EN → SR headlines
+// ════════════════════════════════════
 
-let sveVesti = [];
+const SOURCES = [
+  { url: 'https://www.fss.rs/sr/rss.xml',                     izvor: 'ФСС',               max: 5, cls:'src-fss'     },
+  { url: 'https://www.mozzartsport.com/rss/1.xml',             izvor: 'Мозарт Спорт',      max: 4, cls:'src-mozzart' },
+  { url: 'https://www.tanjug.rs/rss/sport/fudbal',             izvor: 'Танјуг',            max: 5, cls:'src-tanjug'  },
+  { url: 'https://www.b92.net/rss/sport/fudbal/srpski-fudbal', izvor: 'Б92 Српски фудбал', max: 4, cls:'src-b92'     },
+  { url: 'https://www.b92.net/rss/sport/fudbal/vesti',         izvor: 'Б92 Фудбал',        max: 3, cls:'src-b92'     },
+];
 
-async function ucitajVesti() {
-  const mainEl = document.getElementById('main-vesti-list');
-  const azEl   = document.getElementById('vesti-azurirano');
+// Football keyword filter for Mozzart (general sports RSS)
+const FUDBAL_KW = ['фудбал','fudbal','liga','лига','kup','куп','reprezentacij','репрезентациј',
+  'premier','champions','transfer','трансфер','superliga','суперлига','srbija','србија','gol','гол',
+  'utakmic','утакниц','zvezda','partizan','vojvodin','superlig'];
 
-  // Odmah prikaži statične linkove
-  if (mainEl) mainEl.innerHTML = STATICNE_VESTI.map(listaItemV).join('') +
-    '<div style="color:#9ca3af;font-size:12px;padding:14px">⏳ Учитавам вести...</div>';
+function isFudbal(title) {
+  const t = title.toLowerCase();
+  return FUDBAL_KW.some(kw => t.includes(kw));
+}
 
-  // Čitaj football.json sa GitHub (brzo, bez proxy-ja, ažurira se svake 30 min)
+// Get football.json from GitHub as fast fallback
+async function fetchFootballJson() {
   try {
-    const jr = await fetch(
+    const r = await fetch(
       'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json',
-      { signal: AbortSignal.timeout(6000), cache: 'no-store' }
+      {signal: AbortSignal.timeout(6000), cache: 'no-store'}
     );
-    if (!jr.ok) throw new Error('HTTP ' + jr.status);
-    const jd = await jr.json();
-
-    // Uzmi Мондо vesti iz JSON-а (max 3)
-    const mondoVesti = (jd.vesti || [])
-      .filter(v => (v.izvor||'').includes('Мондо') || (v.izvor||'').includes('Mondo'))
-      .slice(0, 3)
-      .map(v => ({ naziv: v.izvor||'Мондо', naslov: v.naslov||'', url: v.url||'#', datum: v.datum||'', izvor: v.izvor||'Мондо', slika: '' }));
-
-    // Ako nema Мондо vesti, uzmi prvih 3 bez obzira na izvor
-    const dinamicne = mondoVesti.length > 0
-      ? mondoVesti
-      : (jd.vesti || []).slice(0, 3).map(v => ({ naziv: v.izvor||'', naslov: v.naslov||'', url: v.url||'#', datum: v.datum||'', izvor: v.izvor||'', slika: v.slika||'' }));
-
-    sveVesti = [...STATICNE_VESTI, ...dinamicne];
-    if (mainEl) mainEl.innerHTML = sveVesti.map(listaItemV).join('');
-
-    const now = new Date();
-    if (azEl) azEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
-
-  } catch(e) {
-    console.warn('Vesti greška:', e.message);
-    sveVesti = STATICNE_VESTI;
-    if (mainEl) mainEl.innerHTML = STATICNE_VESTI.map(listaItemV).join('');
-    const now = new Date();
-    if (azEl) azEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
-  }
-}
-// ═══════════════════════════════════
-// KURIR — RSS fudbalske vesti
-// ═══════════════════════════════════
-function kurirCard(item) {
-  const imgHtml = item.img
-    ? `<img src="${item.img}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=tv-img-ph>⚽</div>'">`
-    : `<div class="tv-img-ph">⚽</div>`;
-  return `<a class="tv-item" href="${item.link}" target="_blank" rel="noopener">
-    <div class="tv-img">${imgHtml}</div>
-    <div class="tv-body">
-      <div class="tv-src">Курир</div>
-      <div class="tv-ttl">${item.title.slice(0,85)}</div>
-      <div class="tv-dt">${item.time}</div>
-    </div>
-  </a>`;
+    if (!r.ok) return null;
+    return await r.json();
+  } catch(e) { return null; }
 }
 
-async function ucitajKurir() {
-  const el = document.getElementById('kurir-list');
-  const tsEl = document.getElementById('kurir-ts');
-  if (!el) return;
-  try {
-    const text = await fetchRSS('https://www.kurir.rs/rss/sport/fudbal');
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(text, 'text/xml');
-    const items = Array.from(doc.querySelectorAll('item')).slice(0, 3);
-    if (!items.length) throw new Error('no items');
-    const sr = ['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
-    el.innerHTML = items.map(item => {
-      const title = item.querySelector('title')?.textContent || '';
-      const link  = item.querySelector('link')?.textContent?.trim() || '#';
-      const pub   = item.querySelector('pubDate')?.textContent || '';
-      const media = item.querySelector('content') || item.querySelector('enclosure');
-      const img   = media ? (media.getAttribute('url') || '') : '';
-      let time = '';
-      if (pub) { const d = new Date(pub); if (!isNaN(d)) time = `${d.getDate()}. ${sr[d.getMonth()]} · ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`; }
-      return kurirCard({ title: latCyr(title), link, time, img });
-    }).join('');
-    const now = new Date();
-    if (tsEl) tsEl.textContent = String(now.getHours()).padStart(2,'0') + ':' + String(now.getMinutes()).padStart(2,'0');
-  } catch(e) {
-    el.innerHTML = '<div style="padding:14px;color:#9ca3af;font-size:12px">⚠️ Курир вести тренутно нису доступне.</div>';
-    console.warn('Kurir RSS greška:', e.message);
+let agentRunning = false;
+let lastAgentRun = 0;
+
+async function runAiAgent(force=false) {
+  if (agentRunning && !force) return;
+  const now = Date.now();
+  if (!force && now - lastAgentRun < 3 * 60 * 1000) return; // throttle 3min
+  agentRunning = true;
+  lastAgentRun = now;
+
+  const container = document.getElementById('ai-news-container');
+  const countEl   = document.getElementById('ai-count');
+  const tsEl      = document.getElementById('agent-ts');
+
+  container.innerHTML = '<div class="ai-agent-loading">АИ агент прикупља вести из ФСС, Мозарт Спорт, Танјуг и Б92...</div>';
+
+  // Step 1: Try football.json from GitHub (fastest, no CORS)
+  const jd = await fetchFootballJson();
+  let allItems = [];
+
+  if (jd && jd.vesti && jd.vesti.length > 0) {
+    // Use cached JSON — very fast
+    allItems = jd.vesti.map(v => ({
+      title:  latCyr(v.naslov || ''),
+      link:   v.url || '#',
+      datum:  v.datum || '',
+      ts:     0,
+      izvor:  v.izvor || '',
+      fresh:  false,
+    }));
   }
+
+  // Step 2: Try live RSS fetch in parallel — update if successful
+  const now24 = Date.now() - 86400000;
+  const rssPromises = SOURCES.map(async src => {
+    try {
+      const xml = await fetchRSS(src.url);
+      let items = parseRSS(xml, src.izvor).slice(0, src.max);
+      // Filter Mozzart for football only
+      if (src.izvor === 'Мозарт Спорт') items = items.filter(i => isFudbal(i.title));
+      return items.map(i => ({...i, fresh: i.ts > now24}));
+    } catch(e) { return []; }
+  });
+
+  // Race: show what arrives, but don't wait forever
+  const rssTimeout = new Promise(res => setTimeout(() => res([]), 9000));
+  const rssResults = await Promise.race([
+    Promise.all(rssPromises).then(r => r.flat()),
+    rssTimeout
+  ]);
+
+  if (rssResults.length > 0) {
+    // Deduplicate RSS results
+    const seen = new Set();
+    const deduped = [];
+    for (const item of rssResults) {
+      const slug = item.title.toLowerCase().replace(/[^\wа-яёЀ-ӿ]/gi,'').slice(0,60);
+      if (!seen.has(slug)) { seen.add(slug); deduped.push(item); }
+    }
+
+    // Sort: fresh 24h first (by source priority), then older
+    const fresh24 = deduped.filter(i => i.fresh);
+    const older   = deduped.filter(i => !i.fresh);
+    allItems = [...fresh24, ...older];
+  }
+
+  // Step 3: Render 3–10 items
+  const toShow = allItems.slice(0, Math.max(3, Math.min(10, allItems.length)));
+
+  if (!toShow.length) {
+    container.innerHTML = `<div style="padding:16px;color:#9ca3af;font-size:13px">
+      ⚠️ Вести тренутно нису доступне. Покушајте касније или посетите изворе директно.
+      <div style="margin-top:8px;display:flex;gap:12px;flex-wrap:wrap">
+        <a href="https://www.fss.rs" target="_blank" style="color:var(--red)">ФСС →</a>
+        <a href="https://www.mozzartsport.com" target="_blank" style="color:#e05c00">Мозарт →</a>
+        <a href="https://www.tanjug.rs/sport/fudbal" target="_blank" style="color:#003F8A">Танјуг →</a>
+        <a href="https://www.b92.net/sport/fudbal/" target="_blank" style="color:#CC0000">Б92 →</a>
+      </div>
+    </div>`;
+    agentRunning = false;
+    return;
+  }
+
+  // Render news items with generic SVG thumbnails
+  _thumbIdx = 0; // reset thumb rotation
+  const html = toShow.map(item => {
+    const isFresh = item.fresh;
+    const scls = srcClass(item.izvor);
+    const thumb = nextThumb();
+    const freshBadge = isFresh ? `<span class="ani-fresh">24ч</span>` : '';
+    const url = (item.link || '#').replace(/'/g,'%27');
+    return `<a class="ai-news-item" href="${url}" target="_blank" rel="noopener">
+      <div class="ani-thumb">${thumb}</div>
+      <div class="ani-body">
+        <div class="ani-src ${scls}">${item.izvor}${freshBadge}</div>
+        <div class="ani-ttl">${item.title.slice(0,100)}</div>
+        <div class="ani-dt">${item.datum}</div>
+      </div>
+    </a>`;
+  }).join('');
+
+  container.innerHTML = `<div class="ai-news-list">${html}</div>`;
+
+  if (countEl) countEl.textContent = toShow.length;
+  if (tsEl) {
+    const d = new Date();
+    tsEl.textContent = `${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+  }
+
+  // Update vesti timestamp
+  const vestiTs = document.getElementById('vesti-ts');
+  if (vestiTs) {
+    const d = new Date();
+    vestiTs.textContent = `Ажурирано у ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+  }
+
+  // Update ticker too
+  ucitajTicker(toShow);
+
+  agentRunning = false;
 }
 
-ucitajVesti();
-ucitajTanjug();
-ucitajKurir();
-setInterval(ucitajVesti, 2 * 60 * 1000);
-setInterval(ucitajTanjug, 5 * 60 * 1000);
-setInterval(ucitajKurir, 5 * 60 * 1000);
+// ════════════════════════════════════
+// TICKER
+// ════════════════════════════════════
+const TIMOVI_MAP = {
+  'FK Crvena zvezda':'Црвена звезда','Crvena zvezda':'Црвена звезда','Red Star Belgrade':'Црвена звезда',
+  'FK Partizan':'Партизан','Partizan':'Партизан','Partizan Belgrade':'Партизан',
+  'FK Vojvodina':'Војводина','Vojvodina':'Војводина',
+  'FK Čukarički':'Чукарички','FK Cukaricki':'Чукарички',
+  'FK Spartak Subotica':'Спартак Суботица',
+  'FK Radnik Surdulica':'Радник Сурдулица',
+  'FK Napredak Kruševac':'Напредак Крушевац',
+  'FK Novi Pazar':'Нови Пазар',
+  'FK TSC Bačka Topola':'ТСЦ Бачка Топола',
+  'FK Radnički Niš':'Раднички Ниш',
+  'FK Voždovac':'Вождовац',
+};
+function timT(n){if(!n)return '';return TIMOVI_MAP[n]||TIMOVI_MAP[n.replace(/^FK /,'')]||n;}
 
-let _poslednji = Date.now();
-document.addEventListener('visibilitychange', function() {
-  if (document.visibilityState === 'visible' && Date.now() - _poslednji > 60000) {
-    _poslednji = Date.now();
-    ucitajVesti();
-    ucitajTanjug();
-    ucitajKurir();
-    ucitajTicker();
-  }
-});
-// ═══════════════════════════════════
-// TICKER — RSS iz sportske.net, brzo
-// ═══════════════════════════════════
-async function ucitajTicker() {
+async function ucitajTicker(newsItems) {
   const track = document.getElementById('ticker-track');
-  const lbl   = document.getElementById('tk-lbl');
   if (!track) return;
-
   const stavke = [];
-  let imaLive = false;
 
-  // 1. Live utakmice iz Superlige — API-Football
+  // Live scores
   try {
-    const liveR = await fetch(
-      `${APIF_BASE}/fixtures?league=${APIF_LEAGUE}&season=${APIF_SEASON}&live=all`,
-      { headers: { 'x-apisports-key': APIF_KEY }, signal: AbortSignal.timeout(8000) }
-    );
+    const liveR = await fetch(`${APIF_BASE}/fixtures?league=${APIF_LEAGUE}&season=${APIF_SEASON}&live=all`,
+      {headers:{'x-apisports-key':APIF_KEY},signal:AbortSignal.timeout(6000)});
     if (liveR.ok) {
-      const liveData = await liveR.json();
-      (liveData.response || []).forEach(f => {
-        const d   = timT(f.teams?.home?.name || '');
-        const g   = timT(f.teams?.away?.name || '');
-        const gD  = f.goals?.home ?? '';
-        const gG  = f.goals?.away ?? '';
-        const min = f.fixture?.status?.elapsed ? `${f.fixture.status.elapsed}'` : 'УЖИВО';
-        stavke.push(`🔴 ${d} ${gD}–${gG} ${g} (${min})`);
-        imaLive = true;
+      const ld = await liveR.json();
+      (ld.response||[]).forEach(f=>{
+        const d=timT(f.teams?.home?.name||'');
+        const g=timT(f.teams?.away?.name||'');
+        const min=f.fixture?.status?.elapsed?`${f.fixture.status.elapsed}'`:'УЖИВО';
+        stavke.push(`🔴 ${d} ${f.goals?.home??''}–${f.goals?.away??''} ${g} (${min})`);
       });
     }
-    // Poslednji rezultati
-    const rez = await safeApi(`/unique-tournament/${TID}/season/${SID}/events/last/0`, DEMO_LAST);
-    (rez.events||[]).filter(e=>e.status?.type==='finished').slice(0,6).forEach(e => {
-      const d = timT(e.homeTeam?.name||'');
-      const g = timT(e.awayTeam?.name||'');
-      const rnd = e.roundInfo?.round ? `Коло ${e.roundInfo.round}: ` : '';
-      stavke.push(`⚽ ${rnd}${d} ${e.homeScore?.current}–${e.awayScore?.current} ${g}`);
-    });
-  } catch(err) {}
+  } catch(e){}
 
-  // 2. RSS iz sportske.net — brzo, direktno
-  try {
-    const rssUrl = 'https://sportske.net/vesti-domaci-fudbal/feed/';
-    const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(rssUrl)}&t=${Date.now()}`;
-    const res = await fetch(proxyUrl, {signal: AbortSignal.timeout(5000)});
-    if (res.ok) {
-      const txt = await res.text();
-      const parser = new DOMParser();
-      const xml = parser.parseFromString(txt, 'application/xml');
-      const items = xml.querySelectorAll('item');
-      items.forEach((item, i) => {
-        if (i >= 10) return;
-        const title = item.querySelector('title')?.textContent?.trim();
-        if (title) stavke.push(`📰 ${title}`);
-      });
-    }
-  } catch(e) {}
-
-  if (!stavke.length) {
-    stavke.push('Суперлига Србије 2025/26', 'СрпскиФудбал.цом', 'Резултати · Табела · Вести');
+  // News headlines from agent
+  if (newsItems && newsItems.length) {
+    newsItems.slice(0,6).forEach(i => stavke.push(`📰 ${i.title.slice(0,70)}`));
   }
 
-  const html = [...stavke, ...stavke].map(s => `<span>${s}</span>`).join('');
+  if (!stavke.length) stavke.push('Суперлига Србије 2025/26', 'СрпскиФудбал.цом', 'Вести · Резултати · Табела');
+
+  const html = [...stavke,...stavke].map(s=>`<span>${s}</span>`).join('');
   track.innerHTML = html;
-  track.style.animation = 'none';
+  track.style.animation='none';
   track.offsetHeight;
-  // Brže — 22s po stavci umesto 35s fiksno
   const dur = Math.max(20, stavke.length * 4);
-  track.style.animation = `ticker ${dur}s linear infinite`;
-  if (lbl) lbl.style.background = imaLive ? '#800' : '#900';
+  track.style.animation=`ticker ${dur}s linear infinite`;
 }
 
-ucitajTicker();
-setInterval(ucitajTicker, 45000); // osvežavaj svakih 45s
+// ════════════════════════════════════
+// SUPERLIGA WIDGET
+// ════════════════════════════════════
+async function api(path) {
+  let workerPath='';
+  if(path.includes('standings'))       workerPath='/tabela';
+  else if(path.includes('events/last')) workerPath='/rezultati';
+  else if(path.includes('events/next')) workerPath='/raspored';
+  else if(path.includes('events/live')) workerPath='/uzivo';
+  if(workerPath){
+    const r=await fetch(WORKER_URL+workerPath,{signal:AbortSignal.timeout(10000)});
+    if(r.ok){
+      const data=await r.json();
+      if(workerPath==='/tabela'&&data.tabela){
+        return{standings:[{rows:data.tabela.map(t=>({
+          position:t.poz,team:{name:t.klub,form:t.forma?.split('').map(f=>f==='П'?'W':f==='Н'?'D':f==='И'?'L':f).join('')||''},
+          matches:t.u,wins:t.p,draws:t.n,losses:t.i,scoreDiffFormatted:t.gd,points:t.bod,
+        }))}]};
+      }
+      if(workerPath==='/rezultati'&&data.zadnje){
+        return{events:data.zadnje.utakmice?.map(u=>({
+          id:u.id,roundInfo:{round:data.zadnje.kolo},
+          status:{type:u.statusTip||(u.golD!==null?'finished':'notstarted')},
+          homeTeam:{name:u.domacin},awayTeam:{name:u.gost},
+          homeScore:{current:u.golD},awayScore:{current:u.golG},
+          startTimestamp:null,time:{played:u.minut},
+        }))||[]};
+      }
+      if(workerPath==='/raspored'&&data.sledece){
+        return{events:data.sledece.map(u=>({
+          id:u.id,roundInfo:{round:u.kolo},status:{type:'notstarted'},
+          homeTeam:{name:u.domacin},awayTeam:{name:u.gost},startTimestamp:u.timestamp,
+        }))};
+      }
+      if(workerPath==='/uzivo'&&data.uzivo){
+        return{events:data.uzivo.map(u=>({
+          homeTeam:{name:u.domacin},awayTeam:{name:u.gost},
+          homeScore:{current:u.golD},awayScore:{current:u.golG},
+          status:{type:'inprogress'},time:{played:u.minut},
+        }))};
+      }
+      return data;
+    }
+  }
+  throw new Error('API nedostupan');
+}
 
-// ═══════════════════════════════════
-// NAV ACTIVE ON SCROLL
-// ═══════════════════════════════════
+const DEMO_LAST={events:[
+  {id:1,roundInfo:{round:24},status:{type:'finished'},startTimestamp:1742000000,homeTeam:{name:'FK Partizan'},awayTeam:{name:'FK Vojvodina'},homeScore:{current:2},awayScore:{current:1}},
+  {id:2,roundInfo:{round:24},status:{type:'finished'},startTimestamp:1741900000,homeTeam:{name:'FK Radnik Surdulica'},awayTeam:{name:'FK Crvena zvezda'},homeScore:{current:0},awayScore:{current:3}},
+  {id:3,roundInfo:{round:24},status:{type:'inprogress'},startTimestamp:1742050000,homeTeam:{name:'FK Čukarički'},awayTeam:{name:'FK Novi Pazar'},homeScore:{current:1},awayScore:{current:1},time:{played:68}},
+]};
+const DEMO_STAND={standings:[{rows:[
+  {position:1,team:{name:'FK Crvena zvezda',form:'ПППНП'},matches:24,wins:17,draws:5,losses:2,scoreDiffFormatted:'+34',points:56},
+  {position:2,team:{name:'FK Partizan',form:'ППППИ'},matches:24,wins:16,draws:6,losses:2,scoreDiffFormatted:'+28',points:54},
+  {position:3,team:{name:'FK Vojvodina',form:'ПИНПН'},matches:24,wins:12,draws:4,losses:8,scoreDiffFormatted:'+10',points:40},
+  {position:4,team:{name:'FK Čukarički',form:'ННПИП'},matches:24,wins:10,draws:6,losses:8,scoreDiffFormatted:'+6',points:36},
+  {position:5,team:{name:'FK Spartak Subotica',form:'ИППНИ'},matches:24,wins:9,draws:5,losses:10,scoreDiffFormatted:'+2',points:32},
+  {position:6,team:{name:'FK Napredak Kruševac',form:'НИНИП'},matches:24,wins:8,draws:5,losses:11,scoreDiffFormatted:'-4',points:29},
+  {position:7,team:{name:'FK Radnik Surdulica',form:'ПИНИI'},matches:24,wins:7,draws:5,losses:12,scoreDiffFormatted:'-8',points:26},
+  {position:8,team:{name:'FK Novi Pazar',form:'ИИНИИ'},matches:24,wins:4,draws:4,losses:16,scoreDiffFormatted:'-18',points:16},
+]}]};
+const DEMO_NEXT={events:[
+  {id:10,roundInfo:{round:25},status:{type:'notstarted'},startTimestamp:1742832000,homeTeam:{name:'FK Crvena zvezda'},awayTeam:{name:'FK Partizan'}},
+  {id:11,roundInfo:{round:25},status:{type:'notstarted'},startTimestamp:1742745600,homeTeam:{name:'FK Vojvodina'},awayTeam:{name:'FK Spartak Subotica'}},
+]};
+
+async function safeApi(path,demo){
+  try{const r=await api(path);if(r)return r;throw new Error('empty');}
+  catch(e){return demo;}
+}
+
+function datumVreme(ts){
+  if(!ts||ts<1e9)return{datum:'',vreme:''};
+  const d=new Date(ts*1000);
+  if(isNaN(d.getTime()))return{datum:'',vreme:''};
+  const m=['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
+  return{datum:`${d.getDate()}. ${m[d.getMonth()].toUpperCase()}`,vreme:`${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`};
+}
+function ts(){const d=new Date();return`${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;}
+function hide(id){const el=document.getElementById(id);if(el)el.style.display='none';}
+function show(id,html){const el=document.getElementById(id);if(el)el.innerHTML=html;}
+
+function matchRow(e){
+  const tip=e.status?.type||'notstarted';
+  const live=tip==='inprogress'||tip==='halftime';
+  const done=tip==='finished';
+  const soon=!live&&!done;
+  const d=timT(e.homeTeam?.name),g=timT(e.awayTeam?.name);
+  const gD=e.homeScore?.current,gG=e.awayScore?.current;
+  const minut=e.time?.played;
+  let sc;
+  if(soon){const dv=datumVreme(e.startTimestamp);sc=`<div class="slw-scn grey">${dv.datum}</div><div class="slw-st blue">${dv.vreme}</div>`;}
+  else sc=`${live&&minut?`<div class="slw-min">${minut}'</div>`:''}<div class="slw-scn ${live?'red':''}">${gD} – ${gG}</div>${live?'<div class="slw-st red">УЖИВО</div>':''}`;
+  return`<div class="slw-match ${live?'live':''}"><div class="slw-ht r">${d}</div><div class="slw-sc">${sc}</div><div class="slw-ht l">${g}</div></div>`;
+}
+
+function slTab(name,btn){
+  document.querySelectorAll('.slw-tab').forEach(t=>t.classList.remove('on'));
+  document.querySelectorAll('.slw-panel').forEach(p=>p.classList.remove('on'));
+  btn.classList.add('on');
+  document.getElementById('slw-panel-'+name).classList.add('on');
+  if(name==='tab')loadTab();
+  if(name==='uzi')loadUzi();
+  if(name==='ras')loadRas();
+}
+
+let rezLoaded=false;
+async function loadRez(){
+  try{
+    const d=await safeApi(`/unique-tournament/${TID}/season/${SID}/events/last/0`,DEMO_LAST);
+    hide('slw-spin-rez');
+    const evs=d.events||[];
+    if(!evs.length){show('slw-out-rez','<div class="slw-err">Нема резултата.</div>');return;}
+    const byRound={};
+    evs.forEach(e=>{const k=e.roundInfo?.round||0;(byRound[k]=byRound[k]||[]).push(e);});
+    const last=Math.max(...Object.keys(byRound).map(Number));
+    show('slw-out-rez',`<div class="slw-rnd"><span>Суперлига — Коло ${last}</span></div>${byRound[last].map(matchRow).join('')}`);
+    document.getElementById('slw-ts').textContent='Ажурирано у '+ts();
+    rezLoaded=true;
+  }catch(e){hide('slw-spin-rez');show('slw-out-rez',`<div class="slw-err">Грешка: ${e.message}</div>`);}
+}
+
+let tabLoaded=false;
+async function loadTab(){
+  if(tabLoaded)return;
+  try{
+    const d=await safeApi(`/unique-tournament/${TID}/season/${SID}/standings/total`,DEMO_STAND);
+    hide('slw-spin-tab');
+    const rows=d.standings?.[0]?.rows||[];
+    if(!rows.length){show('slw-out-tab','<div class="slw-err">Нема табеле.</div>');return;}
+    const n=rows.length;
+    const tbody=rows.map((r,i)=>{
+      let zone='';
+      if(i===0)zone='cl';else if(i<=2)zone='el';else if(i===3)zone='ecl';else if(i>=n-2)zone='rel';
+      const gd=r.scoreDiffFormatted||`${r.scoresFor}-${r.scoresAgainst}`;
+      return`<tr class="${zone}"><td>${r.position}</td><td class="l">${timT(r.team?.name||'')}</td><td>${r.matches}</td><td class="col-pni">${r.wins}</td><td class="col-pni">${r.draws}</td><td class="col-pni">${r.losses}</td><td>${gd}</td><td class="slw-pts">${r.points}</td></tr>`;
+    }).join('');
+    show('slw-out-tab',`<div class="slw-tbl-wrap"><table class="slw-tbl"><thead><tr><th>#</th><th class="l">Клуб</th><th title="Утакмице">У</th><th class="col-pni" title="Победе">П</th><th class="col-pni" title="Нерешено">Н</th><th class="col-pni" title="Изгубљено">И</th><th title="Гол разлика">ГР</th><th title="Бодови">Бод</th></tr></thead><tbody>${tbody}</tbody></table></div><div class="slw-legend"><div class="slw-leg"><div class="slw-legdot" style="background:#D4A017"></div>Лига шампиона</div><div class="slw-leg"><div class="slw-legdot" style="background:#003F8A"></div>Лига Европе</div><div class="slw-leg"><div class="slw-legdot" style="background:#16a34a"></div>Конференц лига</div><div class="slw-leg"><div class="slw-legdot" style="background:#CC0000"></div>Испадање</div></div>`);
+    document.getElementById('slw-ts').textContent='Ажурирано у '+ts();
+    tabLoaded=true;
+  }catch(e){hide('slw-spin-tab');show('slw-out-tab',`<div class="slw-err">Грешка: ${e.message}</div>`);}
+}
+
+async function loadUzi(){
+  document.getElementById('slw-out-uzi').innerHTML='';
+  const badge=document.getElementById('slw-badge'),dot=document.getElementById('slw-dot');
+  try{
+    const r=await fetch(`${APIF_BASE}/fixtures?league=${APIF_LEAGUE}&season=${APIF_SEASON}&live=all`,{headers:{'x-apisports-key':APIF_KEY},signal:AbortSignal.timeout(10000)});
+    if(!r.ok)throw new Error(`HTTP ${r.status}`);
+    const data=await r.json();
+    hide('slw-spin-uzi');
+    const fixtures=data.response||[];
+    if(fixtures.length){
+      if(badge){badge.textContent=fixtures.length;badge.style.display='inline-block';}
+      if(dot)dot.style.display='block';
+      const rows=fixtures.map(f=>{
+        const dom=timT(f.teams?.home?.name||''),gost=timT(f.teams?.away?.name||'');
+        const golD=f.goals?.home??'–',golG=f.goals?.away??'–';
+        const min=f.fixture?.status?.elapsed?`${f.fixture.status.elapsed}'`:'УЖИВО';
+        return`<div class="slw-match live"><div class="slw-ht r">${dom}</div><div class="slw-sc"><div class="slw-min">${min}</div><div class="slw-scn red">${golD} – ${golG}</div><div class="slw-st red">УЖИВО</div></div><div class="slw-ht l">${gost}</div></div>`;
+      }).join('');
+      show('slw-out-uzi',`<div class="slw-rnd"><span>🔴 УЖИВО — Суперлига</span></div>${rows}`);
+    }else{
+      if(badge)badge.style.display='none';if(dot)dot.style.display='none';
+      show('slw-out-uzi','<div class="slw-spin" style="color:#9ca3af;animation:none">Тренутно нема утакмица уживо.</div>');
+    }
+    document.getElementById('slw-ts').textContent='Ажурирано у '+ts();
+  }catch(e){hide('slw-spin-uzi');show('slw-out-uzi',`<div class="slw-err">Грешка при учитавању: ${e.message}</div>`);}
+}
+
+async function loadRas(){
+  if(document.getElementById('slw-out-ras').innerHTML)return;
+  try{
+    const d=await safeApi(`/unique-tournament/${TID}/season/${SID}/events/next/0`,DEMO_NEXT);
+    hide('slw-spin-ras');
+    const evs=d.events||[];
+    if(!evs.length){show('slw-out-ras','<div class="slw-err">Нема предстојећих утакмица.</div>');return;}
+    const byRound={};
+    evs.forEach(e=>{const k=e.roundInfo?.round||0;(byRound[k]=byRound[k]||[]).push(e);});
+    let html='';
+    for(const[k,utakmice]of Object.entries(byRound).sort((a,b)=>a[0]-b[0])){
+      html+=`<div class="slw-rnd"><span>Коло ${k}</span></div>`;
+      html+=utakmice.map(matchRow).join('');
+    }
+    show('slw-out-ras',html);
+    document.getElementById('slw-ts').textContent='Ажурирано у '+ts();
+  }catch(e){hide('slw-spin-ras');show('slw-out-ras',`<div class="slw-err">Грешка: ${e.message}</div>`);}
+}
+
+// ════════════════════════════════════
+// NAV SCROLL
+// ════════════════════════════════════
 window.addEventListener('scroll',()=>{
   const pos=window.scrollY+80;
   document.querySelectorAll('nav a').forEach(a=>{
@@ -1374,6 +1044,29 @@ window.addEventListener('scroll',()=>{
     }
   });
 });
+
+// ════════════════════════════════════
+// VISIBILITY REFRESH
+// ════════════════════════════════════
+let _lastVis=Date.now();
+document.addEventListener('visibilitychange',function(){
+  if(document.visibilityState==='visible'&&Date.now()-_lastVis>120000){
+    _lastVis=Date.now();
+    runAiAgent(true);
+    rezLoaded=false;
+    loadRez();
+  }
+});
+
+// ════════════════════════════════════
+// INIT
+// ════════════════════════════════════
+runAiAgent();
+loadRez();
+loadUzi();
+setInterval(()=>runAiAgent(), 5*60*1000);   // refresh agent every 5 min
+setInterval(loadRez, 60*1000);
+setInterval(loadUzi, 30*1000);
 </script>
 </body>
 </html>

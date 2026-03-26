@@ -1,198 +1,147 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-fetch_srpski_fudbal.py
+fetch_srpski_fudbal.py  v2
 Povlači RSS vesti sa srpskih fudbalskih portala i upisuje u public/data/football.json
-Pokreće se svakih 30 minuta putem GitHub Actions.
+Pokreće se svakih 5 minuta putem GitHub Actions.
+
+Izvori (po prioritetu):
+  1. FSS          — fss.rs
+  2. Mozzart Sport — mozzartsport.com/rss/1.xml
+  3. Tanjug        — tanjug.rs/rss/sport/fudbal
+  4. B92 srpski    — b92.net/rss/sport/fudbal/srpski-fudbal
+  5. B92 vesti     — b92.net/rss/sport/fudbal/vesti
+
+Pravila:
+  - Samo vesti iz poslednjih 24h se prikazuju na vrhu
+  - Deduplication po slugovanom naslovu
+  - SLIKA SE NE ČUVA (legal issue) — frontend koristi generičke SVG ilustracije
 """
 
 import feedparser
 import json
 import datetime
 import re
+import unicodedata
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-# ── Konfiguracija feedova ──────────────────────────────────────────────────────
 FEEDS = [
-    {
-        "url": "https://www.tanjug.rs/rss/sport/fudbal",
-        "izvor": "Танјуг",
-        "logo": "tanjug.rs",
-        "filter_kw": [],  # sve su fudbalske
-        "max": 3,
-    },
-    {
-        "url": "https://www.kurir.rs/rss/sport/fudbal",
-        "izvor": "Курир",
-        "logo": "kurir.rs",
-        "filter_kw": [],  # sve su fudbalske
-        "max": 3,
-    },
-    {
-        "url": "https://www.mozzartsport.com/rss/1.xml",
-        "izvor": "МозартСпорт",
-        "logo": "mozzartsport.com",
-        "filter_kw": ["фудбал", "fudbal", "liga", "лига", "kup", "куп",
-                      "reprezentacija", "репрезентација", "premier", "champions",
-                      "transfer", "трансфер", "superliga", "суперлига"],
-        "max": 2,
-    },
-    {
-        "url": "https://www.b92.net/rss/sport/fudbal/srpski-fudbal",
-        "izvor": "Б92",
-        "logo": "b92.net",
-        "filter_kw": [],  # sve su srpski fudbal
-        "max": 1,
-    },
-    {
-        "url": "https://www.b92.net/rss/sport/fudbal/vesti",
-        "izvor": "Б92 Вести",
-        "logo": "b92.net",
-        "filter_kw": [],  # sve su fudbalske vesti
-        "max": 1,
-    },
+    {"url":"https://www.fss.rs/sr/rss.xml",                       "izvor":"ФСС",               "prioritet":1,"filter_kw":[],"max":5},
+    {"url":"https://www.mozzartsport.com/rss/1.xml",               "izvor":"Мозарт Спорт",      "prioritet":2,
+     "filter_kw":["фудбал","fudbal","liga","лига","kup","куп","reprezentacija","репрезентација",
+                  "premier","champions","transfer","трансфер","superliga","суперлига","srbija","србија"],"max":4},
+    {"url":"https://www.tanjug.rs/rss/sport/fudbal",               "izvor":"Танјуг",            "prioritet":3,"filter_kw":[],"max":4},
+    {"url":"https://www.b92.net/rss/sport/fudbal/srpski-fudbal",   "izvor":"Б92 Српски фудбал", "prioritet":4,"filter_kw":[],"max":3},
+    {"url":"https://www.b92.net/rss/sport/fudbal/vesti",           "izvor":"Б92 Фудбал",        "prioritet":5,"filter_kw":[],"max":3},
 ]
 
 BELGRADE_TZ = ZoneInfo("Europe/Belgrade")
-MAX_PO_FEEDU = 5   # default maksimum vesti po izvoru (ako nije definisano u feedu)
-MAX_UKUPNO  = 30  # ukupni limit
+MAX_24H   = 10
+MAX_TOTAL = 20
 
 
-def format_datum(entry) -> str:
-    """Formatira datum u srpski format: '24. 03. 2026. у 15:18'"""
+def slugify(text):
+    if not text: return ""
+    text = unicodedata.normalize("NFKD", text.lower())
+    text = re.sub(r"[^\w\s]", "", text)
+    return re.sub(r"\s+", " ", text).strip()[:80]
+
+
+def format_datum(entry):
     try:
-        if hasattr(entry, "published_parsed") and entry.published_parsed:
-            import time as _time
-            ts = _time.mktime(entry.published_parsed)
-            dt = datetime.datetime.fromtimestamp(ts, tz=BELGRADE_TZ)
+        if hasattr(entry,"published_parsed") and entry.published_parsed:
+            import time as _t
+            dt = datetime.datetime.fromtimestamp(_t.mktime(entry.published_parsed), tz=BELGRADE_TZ)
         else:
             dt = datetime.datetime.now(tz=BELGRADE_TZ)
         return dt.strftime("%-d. %m. %Y. у %H:%M")
-    except Exception:
+    except:
         return datetime.datetime.now(tz=BELGRADE_TZ).strftime("%-d. %m. %Y. у %H:%M")
 
 
-def izvuci_sliku(entry) -> str | None:
-    """Pokušava da pronađe sliku iz različitih RSS polja."""
-    # 1. enclosures
-    if getattr(entry, "enclosures", None):
-        for enc in entry.enclosures:
-            url = getattr(enc, "url", None) or getattr(enc, "href", None)
-            if url and re.search(r"\.(jpe?g|png|webp)", url, re.I):
-                return url
-
-    # 2. media_content
-    if getattr(entry, "media_content", None):
-        for mc in entry.media_content:
-            url = mc.get("url", "")
-            if url:
-                return url
-
-    # 3. media_thumbnail
-    if getattr(entry, "media_thumbnail", None):
-        url = entry.media_thumbnail[0].get("url", "")
-        if url:
-            return url
-
-    # 4. Pretraži summary/content za <img src="...">
-    for field in ("summary", "content"):
-        text = ""
-        val = getattr(entry, field, None)
-        if isinstance(val, list) and val:
-            text = val[0].get("value", "")
-        elif isinstance(val, str):
-            text = val
-        if text:
-            m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', text, re.I)
-            if m:
-                return m.group(1)
-
-    return None
-
-
-def je_fudbalska(entry, filter_kw: list) -> bool:
-    """Ako nema filter_kw, prolazi sve. Inače traži ključne reči u naslovu/opisu."""
-    if not filter_kw:
-        return True
-    tekst = (
-        (entry.get("title") or "") + " " +
-        (entry.get("summary") or "")
-    ).lower()
-    return any(kw.lower() in tekst for kw in filter_kw)
-
-
-def povuci_feed(cfg: dict) -> list:
-    """Povlači i parsira jedan RSS feed, vraća listu vest-objekata."""
-    print(f"  → Povlačim: {cfg['url']}")
+def entry_ts(entry):
     try:
-        feed = feedparser.parse(cfg["url"], agent="SrpskiFudbalBot/1.0")
+        if hasattr(entry,"published_parsed") and entry.published_parsed:
+            import time as _t
+            return _t.mktime(entry.published_parsed)
+    except: pass
+    return 0.0
+
+
+def je_fudbalska(entry, kw):
+    if not kw: return True
+    t = ((entry.get("title") or "") + " " + (entry.get("summary") or "")).lower()
+    return any(k.lower() in t for k in kw)
+
+
+def povuci_feed(cfg):
+    print(f"  → [{cfg['izvor']}] {cfg['url']}")
+    try:
+        feed = feedparser.parse(cfg["url"], agent="SrpskiFudbalBot/2.0")
         if feed.bozo and not feed.entries:
-            print(f"    ⚠ Greška pri parsiranju: {feed.bozo_exception}")
-            return []
+            print(f"    ⚠ {feed.bozo_exception}"); return []
     except Exception as e:
-        print(f"    ✗ Izuzetak: {e}")
-        return []
+        print(f"    ✗ {e}"); return []
 
     vesti = []
     for entry in feed.entries:
-        if not je_fudbalska(entry, cfg.get("filter_kw", [])):
-            continue
-
-        naslov = entry.get("title", "").strip()
-        url    = entry.get("link", "").strip()
-        if not naslov or not url:
-            continue
-
-        opis  = re.sub(r"<[^>]+>", "", entry.get("summary", "")).strip()
-        slika = izvuci_sliku(entry)
-        datum = format_datum(entry)
-
+        if not je_fudbalska(entry, cfg.get("filter_kw", [])): continue
+        naslov = entry.get("title","").strip()
+        url    = entry.get("link","").strip()
+        if not naslov or not url or len(naslov)<10: continue
         vesti.append({
-            "naslov": naslov,
-            "opis":   opis[:300] if opis else "",
-            "url":    url,
-            "izvor":  cfg["izvor"],
-            "logo":   cfg["logo"],
-            "datum":  datum,
-            "slika":  slika,
+            "naslov":    naslov,
+            "url":       url,
+            "izvor":     cfg["izvor"],
+            "prioritet": cfg["prioritet"],
+            "datum":     format_datum(entry),
+            "timestamp": entry_ts(entry),
+            "slika":     None,   # legal: ne čuvamo slike iz RSS-a
         })
-
-        if len(vesti) >= cfg.get("max", MAX_PO_FEEDU):
-            break
-
+        if len(vesti) >= cfg.get("max",5): break
     print(f"    ✓ {len(vesti)} vesti")
     return vesti
 
 
 def main():
-    print("🇷🇸 Srpski Fudbal — povlačenje vesti")
-    sve_vesti = []
-
+    print("🇷🇸 Srpski Fudbal v2 — povlačenje vesti")
+    sve = []
     for cfg in FEEDS:
-        vesti = povuci_feed(cfg)
-        sve_vesti.extend(vesti)
+        sve.extend(povuci_feed(cfg))
 
-    # Ograniči ukupan broj
-    sve_vesti = sve_vesti[:MAX_UKUPNO]
+    # Dedup
+    seen, dedup = set(), []
+    for v in sve:
+        s = slugify(v["naslov"])
+        if s and s not in seen:
+            seen.add(s); dedup.append(v)
 
-    sada = datetime.datetime.now(tz=datetime.timezone.utc)
+    now_ts = datetime.datetime.now(tz=datetime.timezone.utc).timestamp()
+    cutoff = now_ts - 86400
+
+    fresh = sorted([v for v in dedup if v["timestamp"]>=cutoff], key=lambda v:(v["prioritet"],-v["timestamp"]))
+    old   = sorted([v for v in dedup if v["timestamp"]< cutoff], key=lambda v:(v["prioritet"],-v["timestamp"]))
+
+    final = fresh[:MAX_24H] + old[:(MAX_TOTAL-len(fresh[:MAX_24H]))]
+
+    for v in final:
+        v.pop("timestamp",None)
+        v.pop("prioritet",None)
+
+    sada    = datetime.datetime.now(tz=datetime.timezone.utc)
     sada_sr = datetime.datetime.now(tz=BELGRADE_TZ).strftime("%-d. %m. %Y. у %H:%M")
 
-    izlaz = {
+    out = Path("public/data/football.json")
+    out.parent.mkdir(parents=True,exist_ok=True)
+    out.write_text(json.dumps({
         "azurirano":    sada.isoformat(),
         "azurirano_sr": sada_sr,
-        "vesti":        sve_vesti,
-    }
-
-    out_path = Path("public/data/football.json")
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(
-        json.dumps(izlaz, ensure_ascii=False, indent=2),
-        encoding="utf-8"
-    )
-    print(f"✅ Upisano {len(sve_vesti)} vesti → {out_path}")
+        "vesti_24h":    len(fresh[:MAX_24H]),
+        "vesti":        final,
+    }, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"✅ {len(final)} вести ({len(fresh[:MAX_24H])} из 24ч) → {out}")
 
 
-if __name__ == "__main__":
+if __name__=="__main__":
     main()
