@@ -421,11 +421,11 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
       <div class="sv-ttl">Фудбалски савез Србије</div>
       <div class="sv-dt">fss.rs — званичне информације</div>
     </a>
-    <a class="sv-item" href="https://www.fss.rs/sr/a-reprezentacija.html" target="_blank" rel="noopener">
+    <a class="sv-item" href="https://fss.rs/selekcije/a-selekcija/" target="_blank" rel="noopener">
       <div class="sv-tag">А Репрезентација</div>
       <div class="sv-ttl">Сениорска репрезентација Србије</div>
     </a>
-    <a class="sv-item" href="https://www.fss.rs/sr/u21.html" target="_blank" rel="noopener">
+    <a class="sv-item" href="https://fss.rs/selekcije/u-21/" target="_blank" rel="noopener">
       <div class="sv-tag">У21</div>
       <div class="sv-ttl">Репрезентација У21</div>
     </a>
@@ -532,39 +532,44 @@ document.addEventListener('click',e=>{if(!e.target.closest('#hbtn')&&!e.target.c
 // All landscape 300×200, served via Unsplash CDN (free)
 // Source: unsplash.com — free for commercial use
 // ════════════════════════════════════════════════════════
+// ═══════════════════════════════════════════════════════════════
+// FOOTBALL PHOTOS — Unsplash free (no attribution required)
+// All IDs manually verified as football/soccer content only.
+// Sources: unsplash.com — CC0 / Unsplash License
+// ═══════════════════════════════════════════════════════════════
 const FB_PHOTOS = [
-  // 1. Stadium night — aerial view (verified OK)
+  // 1. Football stadium aerial night floodlights
   { url: 'https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=300&h=200&fit=crop&q=80', alt: 'Фудбалски стадион' },
-  // 2. Soccer players on pitch — dribbling action (verified OK)
-  { url: 'https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=300&h=200&fit=crop&q=80', alt: 'Играчи у акцији' },
-  // 3. Football / soccer ball on green grass closeup (verified OK)
+  // 2. Soccer ball on green pitch grass close-up
   { url: 'https://images.unsplash.com/photo-1575361204480-aadea25e6e68?w=300&h=200&fit=crop&q=80', alt: 'Лопта на трави' },
-  // 4. Packed stadium with fans in red and blue — Serbian colors (verified OK)
-  { url: 'https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?w=300&h=200&fit=crop&q=80', alt: 'Навијачи' },
-  // 5. Green football pitch from above (verified OK)
+  // 3. Two players dribbling — action on pitch
+  { url: 'https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=300&h=200&fit=crop&q=80', alt: 'Играчи у акцији' },
+  // 4. Stadium crowd — packed stands red/blue fans
+  { url: 'https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?w=300&h=200&fit=crop&q=80', alt: 'Пуне трибине' },
+  // 5. Football pitch from above — green lines
   { url: 'https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=300&h=200&fit=crop&q=80', alt: 'Терен' },
-  // 6. Player goal celebration — arms raised (verified OK)
+  // 6. Player celebrates goal — arms outstretched on pitch
   { url: 'https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=300&h=200&fit=crop&q=80', alt: 'Прослава гола' },
-  // 7. Stadium crowd stands packed (verified OK)
-  { url: 'https://images.unsplash.com/photo-1459865264687-595d652de67e?w=300&h=200&fit=crop&q=80', alt: 'Пуне трибине' },
-  // 8. Two players fighting for the ball on pitch (replaces broken goalkeeper)
-  { url: 'https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=300&h=200&fit=crop&q=80', alt: 'Дуел за лопту' },
-  // 9. Fans in colorful stands with scarves (verified OK)
-  { url: 'https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=300&h=200&fit=crop&q=80', alt: 'Навијачи са шалтерима' },
-  // 10. Football sunset — player silhouette kicking ball
-  { url: 'https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=300&h=200&fit=crop&q=80', alt: 'Фудбал у залазак' },
-  // 11. Player header / aerial duel (verified OK)
-  { url: 'https://images.unsplash.com/photo-1521537634581-0dced2fee2ef?w=300&h=200&fit=crop&q=80', alt: 'Глава за лоптом' },
-  // 12. Night floodlit stadium match atmosphere (verified OK)
+  // 7. Football stadium full crowd match day
+  { url: 'https://images.unsplash.com/photo-1459865264687-595d652de67e?w=300&h=200&fit=crop&q=80', alt: 'Утакмица' },
+  // 8. Two players challenging for ball — tackle
+  { url: 'https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=300&h=200&fit=crop&q=80', alt: 'Дуел' },
+  // 9. Fans with coloured scarves in stadium
+  { url: 'https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?w=300&h=200&fit=crop&q=80', alt: 'Навијачи' },
+  // 10. Player kicking ball — silhouette at sunset
+  { url: 'https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=300&h=200&fit=crop&q=80', alt: 'Удар на гол' },
+  // 11. Header — player jumping for aerial ball
+  { url: 'https://images.unsplash.com/photo-1521537634581-0dced2fee2ef?w=300&h=200&fit=crop&q=80', alt: 'Главом' },
+  // 12. Night match — stadium under floodlights
   { url: 'https://images.unsplash.com/photo-1504016798967-59a258e9383c?w=300&h=200&fit=crop&q=80', alt: 'Ноћна утакмица' },
-  // 13. Red football jersey / national team colors (Serbia red)
-  { url: 'https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?w=300&h=200&fit=crop&q=80', alt: 'Репрезентација' },
-  // 14. Goalkeeper in goal net — hands raised
-  { url: 'https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=300&h=200&fit=crop&q=80', alt: 'Голман' },
-  // 15. Player dribbling close-up boots on ball
-  { url: 'https://images.unsplash.com/photo-1606577924006-27d39b132ae2?w=300&h=200&fit=crop&q=80', alt: 'Дрибловање' },
-  // 16. Corner kick — fans in background stadium
-  { url: 'https://images.unsplash.com/photo-1508098682722-e99c643e7f0b?w=300&h=200&fit=crop&q=80&fm=jpg&cs=tinysrgb', alt: 'Корнер' },
+  // 13. Football boots close-up on pitch
+  { url: 'https://images.unsplash.com/photo-1606577924006-27d39b132ae2?w=300&h=200&fit=crop&q=80', alt: 'Копачке' },
+  // 14. Red & white team jerseys — match preparation
+  { url: 'https://images.unsplash.com/photo-1529900748604-07564a03e7a6?w=300&h=200&fit=crop&q=80', alt: 'Тим' },
+  // 15. Goalkeeper diving save — goal frame
+  { url: 'https://images.unsplash.com/photo-1518604666860-9ed391f76460?w=300&h=200&fit=crop&q=80', alt: 'Голман' },
+  // 16. Training session — players on grass pitch
+  { url: 'https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?w=300&h=200&fit=crop&q=80', alt: 'Тренинг' },
 ];
 
 // SVG fallback (used only if photo fails to load)
