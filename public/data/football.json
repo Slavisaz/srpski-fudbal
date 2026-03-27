@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-27T15:12:05.340898+00:00",
-  "azurirano_sr": "27. 03. 2026. у 16:12",
+  "azurirano": "2026-03-27T18:06:14.451758+00:00",
+  "azurirano_sr": "27. 03. 2026. у 19:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Čak 183 srpska golmana brane u velikim ligama! Rajko povređen bio MVP, Đoleta smo morali da usporavamo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cak-183-srpska-golmana-brane-u-velikim-ligama-rajko-povreen-bio-mvp-oleta-smo-morali-da-usporavamo/539757",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 03. 2026. у 17:13",
+      "slika": null
+    },
     {
       "naslov": "Premijerligaši čisti gubitaši: Samo četiri kluba u Engleskoj zarađuju novac?!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/premijerligasi-cisti-gubitasi-samo-cetiri-kluba-u-engleskoj-zarauju-novac/539747",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/mundijal-nije-ni-poceo-a-vec-ste-ga-upropastili/539744",
       "izvor": "Мозарт Спорт",
       "datum": "27. 03. 2026. у 14:39",
-      "slika": null
-    },
-    {
-      "naslov": "Henes: Hoće li naši navijači biti srećniji ako u kasi budemo imali dodatnih 200.000.000?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/henes-hoce-li-nasi-navijaci-biti-srecniji-ako-u-kasi-budemo-imali-dodatnih-200000000/539726",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 03. 2026. у 13:27",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "&quot;Još me boli poraz od Albanije&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219792/jos-me-boli-poraz-od-albanije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 03. 2026. у 17:17",
+      "slika": null
+    },
+    {
       "naslov": "Srbija iznenadila selektora Španije",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219668/de-la-fuente-pred-spanija-srbija/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "27. 03. 2026. у 13:00",
-      "slika": null
-    },
-    {
-      "naslov": "Paunović pred Španiju: &quot;Sve je bitno&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219550/veljko-paunovic-i-strahinja-pavlovic-pred-spanija-srbija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 03. 2026. у 21:45",
       "slika": null
     }
   ]
