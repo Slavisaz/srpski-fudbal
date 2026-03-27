@@ -80,19 +80,31 @@ nav a:hover{color:var(--red);border-color:var(--red)}
 .ai-agent-loading::before{content:'';width:20px;height:20px;border:2px solid var(--bdr);border-top-color:var(--red);border-radius:50%;animation:spin .7s linear infinite;flex-shrink:0}
 .ai-news-list{display:flex;flex-direction:column;gap:0}
 
-/* News item — generic football SVG placeholder, no real images */
-.ai-news-item{display:flex;align-items:stretch;border-bottom:1px solid var(--bdr);text-decoration:none;transition:background .12s;background:#fff;cursor:pointer}
-.ai-news-item:last-child{border-bottom:none}
-.ai-news-item:hover{background:var(--off)}
+/* Expandable news card */
+.ai-news-card{border-bottom:1px solid var(--bdr);background:#fff;overflow:hidden}
+.ai-news-card:last-child{border-bottom:none}
+.ai-news-card-header{display:flex;align-items:stretch;cursor:pointer;transition:background .12s;text-decoration:none}
+.ai-news-card-header:hover{background:var(--off)}
 .ani-thumb{width:88px;min-width:88px;height:68px;flex-shrink:0;overflow:hidden;position:relative;background:var(--off2)}
 .ani-thumb img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .35s ease}
-.ai-news-item:hover .ani-thumb img{transform:scale(1.08)}
-.ani-body{padding:10px 13px;display:flex;flex-direction:column;justify-content:center;min-width:0}
+.ai-news-card-header:hover .ani-thumb img{transform:scale(1.08)}
+.ani-body{padding:10px 13px;display:flex;flex-direction:column;justify-content:center;min-width:0;flex:1}
 .ani-src{font-family:var(--fu);font-size:9px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red);margin-bottom:3px;display:flex;align-items:center;gap:4px}
 .ani-fresh{background:#16a34a;color:#fff;font-size:8px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:1px 5px;border-radius:3px}
-.ani-ttl{font-family:var(--fd);font-size:13px;font-weight:600;color:var(--txt);line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.ani-ttl{font-family:var(--fd);font-size:13px;font-weight:600;color:var(--txt);line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .ani-dt{font-family:var(--fu);font-size:10px;color:var(--txt4);margin-top:3px}
-.ani-en{font-family:var(--fu);font-size:10px;color:var(--txt3);font-style:italic;margin-top:2px;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+.ani-expand-hint{font-family:var(--fu);font-size:10px;color:var(--blue);margin-top:3px;display:flex;align-items:center;gap:3px}
+.ani-expand-hint::after{content:'▾';font-size:9px;transition:transform .25s}
+.ai-news-card.open .ani-expand-hint::after{transform:rotate(-180deg)}
+
+/* Expanded body */
+.ani-full{display:none;padding:12px 16px 16px 16px;background:var(--off);border-top:1px solid var(--bdr)}
+.ai-news-card.open .ani-full{display:block}
+.ani-full-text{font-family:var(--fb);font-size:13px;color:var(--txt2);line-height:1.7;margin-bottom:10px;display:-webkit-box;-webkit-line-clamp:10;-webkit-box-orient:vertical;overflow:hidden}
+.ani-full-link{display:inline-flex;align-items:center;gap:5px;font-family:var(--fu);font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--red);border:1px solid var(--red);border-radius:4px;padding:5px 12px;transition:all .15s;text-decoration:none}
+.ani-full-link:hover{background:var(--red);color:#fff}
+.ani-loading-full{font-family:var(--fu);font-size:12px;color:var(--txt4);display:flex;align-items:center;gap:8px;padding:4px 0}
+.ani-loading-full::before{content:'';width:14px;height:14px;border:2px solid var(--bdr);border-top-color:var(--red);border-radius:50%;animation:spin .7s linear infinite;flex-shrink:0}
 
 /* Source colors */
 .src-fss{color:#D4A017}
@@ -182,11 +194,11 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
 @keyframes spin{to{transform:rotate(360deg)}}
 .slw-err{padding:20px;text-align:center;color:#CC0000;font-size:13px}
 .slw-rnd{background:#003F8A;color:#fff;padding:7px 14px;display:flex;align-items:center;justify-content:space-between;font-family:var(--fd);font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
-.slw-match{display:grid;grid-template-columns:1fr 110px 1fr;align-items:center;padding:10px 14px;border-bottom:1px solid #f0f2f5;transition:background .12s}
+.slw-match{display:grid;grid-template-columns:minmax(0,1fr) 90px minmax(0,1fr);align-items:center;padding:10px 14px;border-bottom:1px solid #f0f2f5;transition:background .12s;gap:4px}
 .slw-match:hover{background:#f8f9fb}
 .slw-match:last-child{border-bottom:none}
 .slw-match.live{background:#fff8f8}
-.slw-ht{font-size:14px;font-weight:600;color:#111827}
+.slw-ht{font-size:clamp(11px,3vw,14px);font-weight:600;color:#111827;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0;max-width:100%}
 .slw-ht.r{text-align:right}
 .slw-ht.l{text-align:left}
 .slw-sc{text-align:center}
@@ -532,34 +544,21 @@ function closeMob(){document.getElementById('hbtn').classList.remove('open');doc
 document.addEventListener('click',e=>{if(!e.target.closest('#hbtn')&&!e.target.closest('#mob-menu'))closeMob();});
 
 
-// ═══════════════════════════════════════════════════════
-// FOOTBALL PHOTOS — Verified Unsplash IDs + Picsum sport fallbacks
-// Each pair: primary Unsplash + Picsum fallback seed
-// ═══════════════════════════════════════════════════════
+// ════════════════════════════════════
+// FOOTBALL PHOTOS
+// ════════════════════════════════════
 const FB_PHOTOS = [
-  // 1. Stadium night aerial — confirmed football
   {u:'https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/sport01/300/200'},
-  // 2. Soccer ball on pitch grass — confirmed
   {u:'https://images.unsplash.com/photo-1575361204480-aadea25e6e68?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/sport02/300/200'},
-  // 3. Football match crowd packed stadium — confirmed
   {u:'https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/sport03/300/200'},
-  // 4. Player celebration goal arms raised — confirmed
   {u:'https://images.unsplash.com/photo-1574629810360-7efbbe195018?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/sport04/300/200'},
-  // 5. Football stadium full match day — confirmed
   {u:'https://images.unsplash.com/photo-1459865264687-595d652de67e?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/sport05/300/200'},
-  // 6. Soccer fans scarves cheering — confirmed
   {u:'https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/sport06/300/200'},
-  // 7. Two players challenging for ball tackle — confirmed
   {u:'https://images.unsplash.com/photo-1560272564-c83b66b1ad12?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/sport07/300/200'},
-  // 8. Header jump aerial ball — confirmed
   {u:'https://images.unsplash.com/photo-1521537634581-0dced2fee2ef?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/sport08/300/200'},
-  // 9. Night match floodlights stadium — confirmed
   {u:'https://images.unsplash.com/photo-1504016798967-59a258e9383c?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/sport09/300/200'},
-  // 10. Football pitch from above green — confirmed
   {u:'https://images.unsplash.com/photo-1529900748604-07564a03e7a6?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/sport10/300/200'},
-  // 11. Soccer player free kick action — confirmed
   {u:'https://images.unsplash.com/photo-1518604666860-9ed391f76460?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/sport11/300/200'},
-  // 12. Football boots on pitch — confirmed
   {u:'https://images.unsplash.com/photo-1606577924006-27d39b132ae2?ixlib=rb-4.0.3&w=300&h=200&fit=crop&q=80', f:'https://picsum.photos/seed/sport12/300/200'},
 ];
 
@@ -570,9 +569,6 @@ function nextThumb() {
   return `<img src="${p.u}" alt="⚽" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s" onerror="if(!this.dataset.f){this.dataset.f=1;this.src='${p.f}';}else{this.outerHTML='<div style=\'width:100%;height:100%;background:linear-gradient(135deg,#1a4d1a 0%,#2d8a2d 100%);display:flex;align-items:center;justify-content:center;font-size:26px\'>⚽</div>';}">`;
 }
 
-
-
-// Source color class
 function srcClass(izvor) {
   if (!izvor) return '';
   const l = izvor.toLowerCase();
@@ -584,21 +580,13 @@ function srcClass(izvor) {
   return '';
 }
 
-// ════════════════════════════════════
-// HTML ENTITY DECODER
-// Fixes &quot; &amp; &lt; &gt; &#39; etc. in RSS titles
-// ════════════════════════════════════
 function decodeHtml(str) {
   if (!str) return str;
-  // Use textarea trick — browser natively decodes all HTML entities
   const txt = document.createElement('textarea');
   txt.innerHTML = str;
   return txt.value;
 }
 
-// ════════════════════════════════════
-// TRANSLITERACIJA LAT → ЋИР
-// ════════════════════════════════════
 const LAT_CYR = [
   ['lj','љ'],['nj','њ'],['dž','џ'],['Lj','Љ'],['Nj','Њ'],['Dž','Џ'],['LJ','Љ'],['NJ','Њ'],['DŽ','Џ'],
   ['A','А'],['B','Б'],['V','В'],['G','Г'],['D','Д'],['Đ','Ђ'],['E','Е'],['Ž','Ж'],['Z','З'],['I','И'],
@@ -616,10 +604,6 @@ function latCyr(str) {
   return out;
 }
 
-// ════════════════════════════════════
-// MULTI-PROXY RSS FETCH
-// Tries all proxies in parallel, returns first good result
-// ════════════════════════════════════
 async function fetchRSS(url) {
   const mkProxies = [
     u => `https://corsproxy.io/?${encodeURIComponent(u)}`,
@@ -628,7 +612,6 @@ async function fetchRSS(url) {
     u => `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(u)}`,
     u => `https://corsproxy.org/?${encodeURIComponent(u)}`,
   ];
-  // Race all proxies — return first that delivers XML with <item>
   const race = mkProxies.map(mk =>
     fetch(mk(url), {signal: AbortSignal.timeout(10000)})
       .then(r => r.ok ? r.text() : Promise.reject('not ok'))
@@ -637,7 +620,6 @@ async function fetchRSS(url) {
   return Promise.any(race).catch(() => { throw new Error('Сви proxy неуспешни'); });
 }
 
-// Parse RSS XML → array of {title, link, pubDate, izvor}
 function parseRSS(xml, izvor) {
   const parser = new DOMParser();
   const doc = parser.parseFromString(xml, 'text/xml');
@@ -647,6 +629,7 @@ function parseRSS(xml, izvor) {
     const title = latCyr(decodeHtml((item.querySelector('title')?.textContent || '').trim()));
     const link  = (item.querySelector('link')?.textContent?.trim() ||
                    item.querySelector('guid')?.textContent?.trim() || '#');
+    const desc  = decodeHtml((item.querySelector('description')?.textContent || '').replace(/<[^>]+>/g,'').trim());
     const pub   = item.querySelector('pubDate')?.textContent || '';
     let datum = '', ts = 0;
     if (pub) {
@@ -656,46 +639,111 @@ function parseRSS(xml, izvor) {
         datum = `${d.getDate()}. ${months[d.getMonth()]} · ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
       }
     }
-    return { title, link, datum, ts, izvor };
+    return { title, link, desc, datum, ts, izvor };
   }).filter(v => v.title && v.link && v.title.length > 10);
 }
 
 // ════════════════════════════════════
-// AI NEWS AGENT
-// Fetches from 4 sources, deduplicates,
-// shows 3–10 latest headlines in Cyrillic
-// Uses Claude API to translate EN → SR headlines
+// SRPSKI FUDBAL FILTER — NO Euro football!
 // ════════════════════════════════════
-
-const SOURCES = [
-  { url: 'https://www.fss.rs/sr/rss.xml',                     izvor: 'ФСС',               max: 6, cls:'src-fss'     },
-  { url: 'https://www.mozzartsport.com/rss/1.xml',             izvor: 'Мозарт Спорт',      max: 6, cls:'src-mozzart' },
-  { url: 'https://www.tanjug.rs/rss/sport/fudbal',             izvor: 'Танјуг',            max: 6, cls:'src-tanjug'  },
-  { url: 'https://www.b92.net/rss/sport/fudbal/srpski-fudbal', izvor: 'Б92 Српски фудбал', max: 5, cls:'src-b92'     },
-  { url: 'https://www.b92.net/rss/sport/fudbal/vesti',         izvor: 'Б92 Фудбал',        max: 5, cls:'src-b92'     },
-  { url: 'https://www.kurir.rs/rss/sport/fudbal',              izvor: 'Курир',             max: 5, cls:'src-kurir'   },
+const SRBIJA_KW = [
+  'суперлига','superliga','србија','srbija','репрезентациј','reprezentacij',
+  'фсс','fss','crvena zvezda','zvezda','звезда','партизан','partizan',
+  'vojvodin','војводин','чукарич','cukarič','cukaric','spartak','спартак',
+  'napredak','напредак','radnik','радник','novi pazar','нови пазар',
+  'tsc','backa topola','топола','voždovac','вождовац','zemun','земун',
+  'radnički','раднички','kolubara','железничар','zeleznicar',
 ];
-
-// Football keyword filter for Mozzart (general sports RSS)
-const FUDBAL_KW = ['фудбал','fudbal','liga','лига','kup','куп','reprezentacij','репрезентациј',
-  'premier','champions','transfer','трансфер','superliga','суперлига','srbija','србија','gol','гол',
-  'utakmic','утакниц','zvezda','partizan','vojvodin','superlig'];
-
-function isFudbal(title) {
-  const t = title.toLowerCase();
-  return FUDBAL_KW.some(kw => t.includes(kw));
+const EURO_BLOCK = [
+  'premier league','la liga','serie a','bundesliga','ligue 1','liga prvaka',
+  'real madrid','barcelona','manchester','arsenal','chelsea','liverpool',
+  'bayern','juventus','milan','inter','psg','dortmund','ajax','tottenham',
+  'aston villa','newcastle','leicester','west ham','en premier','šampiona'
+];
+function isSrpskiFudbal(title, izvor) {
+  const t = (title || '').toLowerCase();
+  if (EURO_BLOCK.some(kw => t.includes(kw))) return false;
+  if (izvor && (izvor.includes('ФСС') || izvor.includes('Б92'))) return true;
+  if (izvor && izvor.includes('Танјуг')) return true;
+  return SRBIJA_KW.some(kw => t.includes(kw));
 }
 
-// Get football.json from GitHub as fast fallback
-async function fetchFootballJson() {
+const SOURCES = [
+  { url: 'https://www.fss.rs/sr/rss.xml',                     izvor: 'ФСС',               max: 8 },
+  { url: 'https://www.mozzartsport.com/rss/1.xml',             izvor: 'Мозарт Спорт',      max: 8 },
+  { url: 'https://www.tanjug.rs/rss/sport/fudbal',             izvor: 'Танјуг',            max: 8 },
+  { url: 'https://www.b92.net/rss/sport/fudbal/srpski-fudbal', izvor: 'Б92 Српски фудбал', max: 6 },
+  { url: 'https://www.b92.net/rss/sport/fudbal/vesti',         izvor: 'Б92 Фудбал',        max: 6 },
+  { url: 'https://www.kurir.rs/rss/sport/fudbal',              izvor: 'Курир',             max: 6 },
+];
+
+// Claude API: ask to pick top 5 most relevant Serbian football headlines
+async function filterWithClaude(items) {
+  if (!items || !items.length) return items.slice(0,5);
   try {
-    const r = await fetch(
-      'https://raw.githubusercontent.com/Slavisaz/srpski-fudbal/main/public/data/football.json',
-      {signal: AbortSignal.timeout(6000), cache: 'no-store'}
-    );
-    if (!r.ok) return null;
-    return await r.json();
+    const list = items.slice(0, 30).map((it, i) => `${i+1}. [${it.izvor}] ${it.title}`).join('\n');
+    const prompt = `Si AI agent za srpski fudbal portal. Dati su ti naslovi vesti.\n\nZADATAK: Odaberi TACNO 5 najvaznijih naslova koji se ticu SRPSKOG FUDBALA (Superliga Srbije, Crvena zvezda, Partizan, Vojvodina, Reprezentacija Srbije, srpski treneri, domacd igraci).\nISKLUCI: Strane lige, Champions League sa stranim timovima, vesti o stranim igracima.\n\nOdgovori SAMO sa listom 5 rednih brojeva formata: 3,7,12,18,25\nBez objasnjenja, samo brojevi.\n\nNaslovi:\n${list}`;
+    const resp = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 1000,
+        messages: [{role:'user', content: prompt}]
+      })
+    });
+    if (!resp.ok) return items.slice(0,5);
+    const data = await resp.json();
+    const text = data.content?.find(b => b.type === 'text')?.text?.trim() || '';
+    const indices = text.match(/\d+/g);
+    if (!indices || indices.length < 3) return items.slice(0,5);
+    return indices.slice(0,5).map(n => items[parseInt(n)-1]).filter(Boolean);
+  } catch(e) { return items.slice(0,5); }
+}
+
+// Claude API: generate AI summary in Serbian for a news item
+async function getAiSummary(title, desc, link) {
+  try {
+    const prompt = `Si AI novinski agent za srpski fudbal. Na osnovu naslova i opisa, napisi kratki sazetek na srpskom cirilicnom pismu (2-3 recenice, max 250 karaktera). Samo sazetek, bez uvoda.\n\nNaslov: ${title}\nOpis: ${(desc||'').slice(0,300)}`;
+    const resp = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 1000,
+        messages: [{role:'user', content: prompt}]
+      })
+    });
+    if (!resp.ok) return null;
+    const data = await resp.json();
+    return data.content?.find(b => b.type === 'text')?.text?.trim() || null;
   } catch(e) { return null; }
+}
+
+// Toggle expand/collapse
+function toggleCard(card) {
+  const isOpen = card.classList.contains('open');
+  document.querySelectorAll('.ai-news-card.open').forEach(c => { if(c!==card) c.classList.remove('open'); });
+  if (isOpen) { card.classList.remove('open'); return; }
+  card.classList.add('open');
+  const fullDiv = card.querySelector('.ani-full');
+  if (fullDiv && !fullDiv.dataset.loaded) {
+    fullDiv.dataset.loaded = '1';
+    const title = card.dataset.title;
+    const desc = card.dataset.desc;
+    const link = card.dataset.link;
+    const textEl = fullDiv.querySelector('.ani-full-text');
+    textEl.innerHTML = '<span class="ani-loading-full">АИ генерише сажетак...</span>';
+    getAiSummary(title, desc, link).then(summary => {
+      if (summary) {
+        textEl.textContent = summary;
+      } else if (desc && desc.length > 20) {
+        textEl.textContent = desc.slice(0, 500);
+      } else {
+        textEl.textContent = 'Кликните на линк да прочитате пуну вест.';
+      }
+    });
+  }
 }
 
 let agentRunning = false;
@@ -704,7 +752,7 @@ let lastAgentRun = 0;
 async function runAiAgent(force=false) {
   if (agentRunning && !force) return;
   const now = Date.now();
-  if (!force && now - lastAgentRun < 2 * 60 * 1000) return; // throttle 2min
+  if (!force && now - lastAgentRun < 2 * 60 * 1000) return;
   agentRunning = true;
   lastAgentRun = now;
 
@@ -714,18 +762,16 @@ async function runAiAgent(force=false) {
 
   container.innerHTML = '<div class="ai-agent-loading">АИ агент прикупља вести из ФСС, Мозарт Спорт, Танјуг и Б92...</div>';
 
-  // Fetch live RSS from all sources in parallel
   const now24 = Date.now() - 86400000;
   const rssPromises = SOURCES.map(async src => {
     try {
       const xml = await fetchRSS(src.url);
       let items = parseRSS(xml, src.izvor).slice(0, src.max);
-      if (src.izvor === 'Мозарт Спорт') items = items.filter(i => isFudbal(i.title));
+      items = items.filter(i => isSrpskiFudbal(i.title, src.izvor));
       return items.map(i => ({...i, fresh: i.ts > now24}));
     } catch(e) { return []; }
   });
 
-  // Collect results as they arrive — use allSettled so partial results work
   const settled = await Promise.allSettled(
     rssPromises.map(p => Promise.race([p, new Promise(res => setTimeout(() => res([]), 14000))]))
   );
@@ -733,22 +779,17 @@ async function runAiAgent(force=false) {
 
   let allItems = [];
   if (rssResults.length > 0) {
-    // Deduplicate
     const seen = new Set();
     const deduped = [];
     for (const item of rssResults) {
       const slug = item.title.toLowerCase().replace(/[^\wа-яёЀ-ӿ]/gi,'').slice(0,60);
       if (!seen.has(slug)) { seen.add(slug); deduped.push(item); }
     }
-    // Always sort newest first by timestamp
     deduped.sort((a, b) => (b.ts || 0) - (a.ts || 0));
     allItems = deduped;
   }
 
-  // Show up to 15 newest items
-  const toShow = allItems.slice(0, 15);
-
-  if (!toShow.length) {
+  if (!allItems.length) {
     container.innerHTML = `<div style="padding:16px;color:#9ca3af;font-size:13px">
       ⚠️ Вести тренутно нису доступне. Покушајте касније или посетите изворе директно.
       <div style="margin-top:8px;display:flex;gap:12px;flex-wrap:wrap">
@@ -762,45 +803,52 @@ async function runAiAgent(force=false) {
     return;
   }
 
-  // Render news items with generic SVG thumbnails
-  _thumbIdx = 0; // reset thumb rotation
-  const html = toShow.map(item => {
+  container.innerHTML = '<div class="ai-agent-loading">АИ бира топ 5 вести о српском фудбалу...</div>';
+
+  // Claude picks the top 5 most relevant Serbian football headlines
+  const top5 = await filterWithClaude(allItems);
+
+  _thumbIdx = 0;
+  const html = top5.map((item) => {
     const isFresh = item.fresh;
     const scls = srcClass(item.izvor);
     const thumb = nextThumb();
     const freshBadge = isFresh ? `<span class="ani-fresh">24ч</span>` : '';
-    const url = (item.link || '#').replace(/'/g,'%27');
-    return `<a class="ai-news-item" href="${url}" target="_blank" rel="noopener">
-      <div class="ani-thumb">${thumb}</div>
-      <div class="ani-body">
-        <div class="ani-src ${scls}">${item.izvor}${freshBadge}</div>
-        <div class="ani-ttl">${item.title.slice(0,100)}</div>
-        <div class="ani-dt">${item.datum}</div>
+    const url = (item.link || '#').replace(/'/g,'%27').replace(/"/g,'%22');
+    const titleEsc = (item.title||'').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+    const descEsc = (item.desc||'').replace(/"/g,'&quot;').replace(/'/g,'&#39;').slice(0,400);
+    return `<div class="ai-news-card" data-title="${titleEsc}" data-desc="${descEsc}" data-link="${url}" onclick="toggleCard(this)">
+      <div class="ai-news-card-header">
+        <div class="ani-thumb">${thumb}</div>
+        <div class="ani-body">
+          <div class="ani-src ${scls}">${item.izvor}${freshBadge}</div>
+          <div class="ani-ttl">${item.title.slice(0,120)}</div>
+          <div class="ani-dt">${item.datum}</div>
+          <div class="ani-expand-hint">Прочитај сажетак</div>
+        </div>
       </div>
-    </a>`;
+      <div class="ani-full">
+        <div class="ani-full-text"></div>
+        <a class="ani-full-link" href="${url}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Пуна вест →</a>
+      </div>
+    </div>`;
   }).join('');
 
   container.innerHTML = `<div class="ai-news-list">${html}</div>`;
 
-  if (countEl) countEl.textContent = toShow.length;
+  if (countEl) countEl.textContent = top5.length;
   if (tsEl) {
     const d = new Date();
     tsEl.textContent = `${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
   }
-
-  // Update vesti timestamp
   const vestiTs = document.getElementById('vesti-ts');
   if (vestiTs) {
     const d = new Date();
     vestiTs.textContent = `Ажурирано у ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
   }
-
-  // Update ticker too
-  ucitajTicker(toShow);
-
+  ucitajTicker(top5);
   agentRunning = false;
 }
-
 // ════════════════════════════════════
 // TICKER
 // ════════════════════════════════════
