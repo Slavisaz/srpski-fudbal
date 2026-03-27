@@ -71,11 +71,15 @@ nav a:hover{color:var(--red);border-color:var(--red)}
 
 /* ═══ AI AGENT NEWS SECTION ═══ */
 .ai-agent-wrap{background:#fff;border:1px solid var(--bdr);border-radius:10px;overflow:hidden;margin-bottom:20px}
-.ai-agent-hdr{background:linear-gradient(90deg,#003F8A 0%,#1a5aad 100%);padding:12px 16px;display:flex;align-items:center;gap:10px}
+.ai-agent-hdr{background:linear-gradient(90deg,#003F8A 0%,#1a5aad 100%);padding:12px 16px;display:flex;align-items:center;gap:10px;flex-wrap:nowrap;min-width:0}
 .ai-agent-badge{background:var(--red);color:#fff;font-family:var(--fd);font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;padding:3px 8px;border-radius:3px;display:flex;align-items:center;gap:5px;flex-shrink:0}
 .ai-agent-badge::before{content:'';width:6px;height:6px;border-radius:50%;background:#fff;animation:blink 1s infinite;flex-shrink:0}
-.ai-agent-title{font-family:var(--fd);font-size:15px;font-weight:700;color:#fff;letter-spacing:.03em}
-.ai-agent-ts{font-family:var(--fu);font-size:10px;color:rgba(255,255,255,.35);margin-left:auto}
+.ai-agent-title{font-family:var(--fd);font-size:15px;font-weight:700;color:#fff;letter-spacing:.03em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0;flex:1}
+.ai-agent-ts{font-family:var(--fu);font-size:10px;color:rgba(255,255,255,.5);flex-shrink:0;margin-left:8px}
+@media(max-width:480px){
+  .ai-agent-title{font-size:12px;letter-spacing:.01em}
+  .ai-agent-badge{font-size:9px;padding:2px 6px}
+}
 .ai-agent-loading{padding:20px 16px;display:flex;align-items:center;gap:10px;color:var(--txt3);font-size:13px}
 .ai-agent-loading::before{content:'';width:20px;height:20px;border:2px solid var(--bdr);border-top-color:var(--red);border-radius:50%;animation:spin .7s linear infinite;flex-shrink:0}
 .ai-news-list{display:flex;flex-direction:column;gap:0}
@@ -759,50 +763,52 @@ async function runAiAgent(force=false){
 
   const now24=Date.now()-86400000;
 
-  // Separate trusted (FSS, Tanjug) from filtered sources
-  const trustedItems=[];
-  const filteredItems=[];
+  // Three buckets by priority
+  const fssItems=[], tanjugItems=[], filteredItems=[];
 
   results.forEach((r,i)=>{
     if(r.status!=='fulfilled')return;
     const src=RSS_SOURCES[i];
     const items=r.value.map(it=>({...it,fresh:it.ts>now24}));
-    if(src.trusted){
-      // Trusted sources: take top 2 each, no filter needed
-      trustedItems.push(...items.slice(0,2));
+    if(src.label==='ФСС'){
+      fssItems.push(...items); // FSS: always Serbian, no filter
+    } else if(src.label==='Танјуг'){
+      tanjugItems.push(...items); // Tanjug: trusted, no filter
     } else {
-      // Other sources: strict Serbian football filter
       filteredItems.push(...items.filter(it=>isSrpskiFudbal(it.title,it.label)));
     }
   });
 
-  // Deduplicate trusted items
-  const seenT=new Set(), dedupedTrusted=[];
-  for(const it of trustedItems){
-    const slug=it.title.toLowerCase().replace(/[^\wа-яёЀ-ӿ]/gi,'').slice(0,50);
-    if(!seenT.has(slug)){seenT.add(slug);dedupedTrusted.push(it);}
+  // Sort each bucket newest first
+  [fssItems,tanjugItems,filteredItems].forEach(a=>a.sort((a,b)=>(b.ts||0)-(a.ts||0)));
+
+  // Pick unique items from each bucket: 2 FSS + 1 Tanjug + 2 filtered = 5
+  const seen=new Set();
+  function pickUnique(arr,n){
+    const out=[];
+    for(const it of arr){
+      if(out.length>=n)break;
+      const slug=it.title.toLowerCase().replace(/[^\wа-яёЀ-ӿ]/gi,'').slice(0,50);
+      if(!seen.has(slug)){seen.add(slug);out.push(it);}
+    }
+    return out;
   }
 
-  // Sort filtered by date, deduplicate
-  filteredItems.sort((a,b)=>(b.ts||0)-(a.ts||0));
-  const seenF=new Set(), dedupedFiltered=[];
-  for(const it of filteredItems){
-    const slug=it.title.toLowerCase().replace(/[^\wа-яёЀ-ӿ]/gi,'').slice(0,50);
-    if(!seenF.has(slug)&&!seenT.has(slug)){seenF.add(slug);dedupedFiltered.push(it);}
-  }
+  const allItems=[
+    ...pickUnique(fssItems,2),
+    ...pickUnique(tanjugItems,1),
+    ...pickUnique(filteredItems,2),
+  ];
 
-  // Combine: trusted first (up to 3), then filtered (up to 4), total max 7
-  dedupedTrusted.sort((a,b)=>(b.ts||0)-(a.ts||0));
-  const allItems=[...dedupedTrusted.slice(0,3), ...dedupedFiltered.slice(0,4)];
-
-  // Final dedup pass and sort
-  const seen=new Set(), deduped=[];
+  // Final dedup pass
+  const deduped=[];
+  const seen2=new Set();
   for(const it of allItems){
     const slug=it.title.toLowerCase().replace(/[^\wа-яёЀ-ӿ]/gi,'').slice(0,50);
-    if(!seen.has(slug)){seen.add(slug);deduped.push(it);}
+    if(!seen2.has(slug)){seen2.add(slug);deduped.push(it);}
   }
 
-  const top5=deduped.slice(0,7);
+  const top5=deduped.slice(0,5);
 
   if(!top5.length){
     container.innerHTML=`<div style="padding:16px;color:#9ca3af;font-size:13px">
