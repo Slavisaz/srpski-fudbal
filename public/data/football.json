@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-27T05:53:13.376233+00:00",
-  "azurirano_sr": "27. 03. 2026. у 06:53",
+  "azurirano": "2026-03-27T08:09:18.381671+00:00",
+  "azurirano_sr": "27. 03. 2026. у 09:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "LUDI TIKET, petak, 260.357 dinara: Suluda priča, ili ozbiljna mozgalica?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-petak-260357-dinara-suluda-prica-ili-ozbiljna-mozgalica/539714",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 03. 2026. у 09:21",
+      "slika": null
+    },
     {
       "naslov": "Kamera uhvatila arogantne Italijane, motiv do neba za BiH: Stisli pesnice jer su izbegli Vels (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kamera-uhvatila-arogantne-italijane-motiv-do-neba-za-bih-stisli-pesnice-jer-su-izbegli-vels-video/539709",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Makedonci nisu ta liga: Оprez! Danska podsetila na \"dark horse\" verziju pre Katara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/makedonci-nisu-ta-liga-prez-danska-podsetila-na-dark-horse-verziju-pre-katara/539694",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 03. 2026. у 23:42",
+      "naslov": "Fudbaleri Srbije večeras igraju prijateljski meč protiv Španije u Viljarealu",
+      "url": "https://www.tanjug.rs/sport/fudbal/240728/fudbaleri-srbije-veceras-igraju-prijateljski-mec-protiv-spanije-u-viljarealu/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 03. 2026. у 08:00",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/240675/fudbaleri-italije-pobedili-severnu-irsku-i-prosli-u-finale-baraza-kvalifikacija-za-svetsko-prvenstvo/vest",
       "izvor": "Танјуг",
       "datum": "26. 03. 2026. у 23:04",
-      "slika": null
-    },
-    {
-      "naslov": "Košarkaši Borca poraženi od Beča u ABA ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/240670/kosarkasi-borca-porazeni-od-beca-u-aba-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 03. 2026. у 22:48",
       "slika": null
     },
     {
