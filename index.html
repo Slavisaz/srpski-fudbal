@@ -345,14 +345,14 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
     <div class="ai-agent-wrap" id="ai-agent-wrap">
       <div class="ai-agent-hdr">
         <div class="ai-agent-badge">АИ Агент</div>
-        <div class="ai-agent-title">Вести о српском фудбалу — АИ новинар</div>
+        <div class="ai-agent-title">Вести о српском фудбалу — уживо</div>
         <div class="ai-agent-ts" id="agent-ts"></div>
       </div>
       <div id="ai-news-container">
         <div class="ai-agent-loading">Учитавам вести из ФСС, Мозарт Спорт, Танјуг и Б92...</div>
       </div>
       <div class="ai-status">
-        <span><span class="ai-status-dot"></span>АИ новинар активан · <span id="ai-count">0</span> оригиналних вести · извори: ФСС · Б92 · Танјуг · Мозарт · Курир</span>
+        <span><span class="ai-status-dot"></span>Агент активан · <span id="ai-count">0</span> вести · ФСС · Б92 · Танјуг · Мозарт · Курир</span>
         <button class="ai-refresh-btn" onclick="runAiAgent(true)">↻ Освежи</button>
       </div>
     </div>
@@ -560,15 +560,136 @@ const FB_PHOTOS=[
 let _ti=0;
 function nextThumb(){
   const u=FB_PHOTOS[_ti%FB_PHOTOS.length];_ti++;
-  return`<img src="${u}" alt="⚽" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block" onerror="this.outerHTML='<div style=\\'width:100%;height:100%;background:linear-gradient(135deg,#1a3a1a,#2d6e2d);display:flex;align-items:center;justify-content:center;font-size:28px\\'>⚽</div>'">`;
+  return`<img src="${u}" alt="⚽" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block" onerror="this.outerHTML='<div style=\\'width:100%;height:100%;background:linear-gradient(135deg,#0d3a0d,#1a5c1a);display:flex;align-items:center;justify-content:center;font-size:28px\\'>⚽</div>'">`;
 }
 
-function decodeHtml(s){if(!s)return'';const t=document.createElement('textarea');t.innerHTML=s;return t.value;}
+function decodeHtml(s){
+  if(!s)return'';
+  const t=document.createElement('textarea');
+  t.innerHTML=s;
+  return t.value;
+}
 
 // ════════════════════════════════════
-// PROXY FETCH — returns text content of any URL
+// TRANSLITERATION lat → cyr
 // ════════════════════════════════════
-async function proxyFetch(url, timeout=12000){
+const LC=[['lj','љ'],['nj','њ'],['dž','џ'],['Lj','Љ'],['Nj','Њ'],['Dž','Џ'],['LJ','Љ'],['NJ','Њ'],['DŽ','Џ'],['A','А'],['B','Б'],['V','В'],['G','Г'],['D','Д'],['Đ','Ђ'],['E','Е'],['Ž','Ж'],['Z','З'],['I','И'],['J','Ј'],['K','К'],['L','Л'],['M','М'],['N','Н'],['O','О'],['P','П'],['R','Р'],['S','С'],['T','Т'],['Ć','Ћ'],['U','У'],['F','Ф'],['H','Х'],['C','Ц'],['Č','Ч'],['Š','Ш'],['a','а'],['b','б'],['v','в'],['g','г'],['d','д'],['đ','ђ'],['e','е'],['ž','ж'],['z','з'],['i','и'],['j','ј'],['k','к'],['l','л'],['m','м'],['n','н'],['o','о'],['p','п'],['r','р'],['s','с'],['t','т'],['ć','ћ'],['u','у'],['f','ф'],['h','х'],['c','ц'],['č','ч'],['š','ш']];
+function toCyr(s){if(!s)return'';if(/[Ѐ-ӿ]/.test(s))return s;let o=s;for(const[l,c]of LC)o=o.split(l).join(c);return o;}
+
+// ════════════════════════════════════
+// SOURCE BADGE COLORS
+// ════════════════════════════════════
+const SRC_STYLE={
+  'ФСС':       'color:#D4A017',
+  'Б92':       'color:#CC0000',
+  'Танјуг':    'color:#003F8A',
+  'Мозарт':    'color:#e05c00',
+  'Курир':     'color:#cc5500',
+};
+function srcStyle(s){return SRC_STYLE[s]||'color:var(--red)';}
+
+// ════════════════════════════════════
+// STRICT SERBIAN FOOTBALL FILTER
+//
+// THREE-LAYER approach:
+//  1. BLOCK — if title contains any euro/foreign keyword → skip always
+//  2. TRUST  — FSS and B92 Srpski fudbal feeds are inherently Serbian → always pass
+//  3. REQUIRE — other feeds must contain at least one Serbian keyword
+// ════════════════════════════════════
+
+// Layer 1: hard block list — any of these = NOT Serbian football
+const BLOCK_KW = [
+  // Foreign leagues
+  'premier league','la liga','serie a','bundesliga','ligue 1','eredivisie',
+  'primera division','primeira liga','liga prvaka','liga šampiona',
+  // Foreign clubs
+  'real madrid','barcelona','atletico','sevilla','manchester','liverpool',
+  'arsenal','chelsea','tottenham','aston villa','newcastle','west ham',
+  'leicester','everton','brighton','bayern','dortmund','leverkusen',
+  'juventus','milan','inter milan','napoli','roma','lazio','fiorentina',
+  'psg','marseille','lyon','monaco','ajax','psv','feyenoord',
+  'porto','benfica','sporting','besiktas','galatasaray','fenerbahce',
+  'celtic','rangers','anderlecht','bruges',
+  // Foreign countries in football context
+  'španija','španac','nemačka','nemac','italija','italijan',
+  'engleska','englez','francuska','francuz','holandija','portugal',
+  'turska','turčin','grčka','škotska','belgija',
+  // BiH/regional - not Serbian football
+  'bosna','hercegovina','bih','mostar','sarajevo','tuzla','zenica',
+  'barbarez','gattuso','mirandes','miranda','džeko','ibisevic','ibišević',
+  'hrvatska','croatia','slovenija','makedonija','crna gora',
+  // Generic clickbait not about football
+  'preминула','preminula','umro','погинуо','nesreća','katastrofa',
+];
+
+// Layer 2: trusted sources — always Serbian football
+const TRUSTED_SOURCES = ['ФСС','Б92 Српски фудбал'];
+
+// Layer 3: Serbian football keyword whitelist
+const SRBIJA_KW = [
+  // Superliga clubs
+  'crvena zvezda','crvene zvezde','zvezda','zvezdaš',
+  'partizan','partizanov','partizanci',
+  'vojvodina','vojvodinаš',
+  'čukarički','cukaricki','čukaričani',
+  'tsc','bačka topola','backa topola',
+  'novi pazar','novopazarci',
+  'napredak','kruševac','krusevac',
+  'spartak','subotica',
+  'radnik','surdulica',
+  'radnički niš','radnicki nis',
+  'voždovac','vozdovac',
+  'imt','novi beograd',
+  'mladost','lučani','lucani',
+  'javor','ivanjica',
+  'železničar','zeleznicar','pančevo','pancevo',
+  'ofk beograd',
+  'kolubara',
+  'zemun',
+  // Institutions
+  'superliga','super liga',
+  'fss','фсс','savez srbije','fudbalski savez',
+  'reprezentacija srbije','selekcija srbije',
+  'srpski fudbal','srbija',
+  // Cyrillic versions
+  'суперлига','србија','репрезентациј','фсс',
+  'звезда','партизан','војводина','чукарич',
+  'нови пазар','напредак','спартак','суботица',
+  'радник','сурдулица','раднички','ниш',
+  'вождовац','железничар','панчево','колубара',
+  'младост','лучани','јавор','ивањица',
+  'тсц','бачка топола',
+];
+
+function isSrpskiFudbal(title, izvor) {
+  const t = (title||'').toLowerCase();
+
+  // Layer 1: hard block
+  if (BLOCK_KW.some(kw => t.includes(kw))) return false;
+
+  // Layer 2: trusted source — no keyword needed
+  if (TRUSTED_SOURCES.some(s => (izvor||'').includes(s))) return true;
+
+  // Layer 3: must have at least one Serbian keyword
+  return SRBIJA_KW.some(kw => t.includes(kw));
+}
+
+// ════════════════════════════════════
+// RSS SOURCES
+// ════════════════════════════════════
+const RSS_SOURCES = [
+  {url:'https://www.fss.rs/sr/rss.xml',                        label:'ФСС',     trusted:true,  max:8},
+  {url:'https://www.b92.net/rss/sport/fudbal/srpski-fudbal',   label:'Б92',     trusted:true,  max:8},
+  {url:'https://www.tanjug.rs/rss/sport/fudbal',               label:'Танјуг',  trusted:false, max:8},
+  {url:'https://www.b92.net/rss/sport/fudbal/vesti',           label:'Б92',     trusted:false, max:6},
+  {url:'https://www.mozzartsport.com/rss/1.xml',               label:'Мозарт',  trusted:false, max:10},
+  {url:'https://www.kurir.rs/rss/sport/fudbal',                label:'Курир',   trusted:false, max:8},
+];
+
+// ════════════════════════════════════
+// MULTI-PROXY FETCH
+// ════════════════════════════════════
+async function proxyFetch(url, timeout=10000){
   const proxies=[
     u=>`https://corsproxy.io/?${encodeURIComponent(u)}`,
     u=>`https://api.allorigins.win/raw?url=${encodeURIComponent(u)}&t=${Date.now()}`,
@@ -578,90 +699,31 @@ async function proxyFetch(url, timeout=12000){
   const race=proxies.map(mk=>
     fetch(mk(url),{signal:AbortSignal.timeout(timeout)})
       .then(r=>r.ok?r.text():Promise.reject('bad'))
-      .then(t=>t&&t.length>200?t:Promise.reject('empty'))
+      .then(t=>t&&t.includes('<item')?t:Promise.reject('no items'))
   );
   return Promise.any(race);
 }
 
 // ════════════════════════════════════
-// SOURCES TO FETCH — FSS website + RSS feeds
-// Claude will read all of these and write original news
+// PARSE RSS
 // ════════════════════════════════════
-const FETCH_SOURCES=[
-  {url:'https://www.fss.rs/sr/vesti.html',          label:'FSS website',   type:'html'},
-  {url:'https://www.fss.rs/sr/rss.xml',              label:'FSS RSS',       type:'rss'},
-  {url:'https://www.b92.net/rss/sport/fudbal/srpski-fudbal', label:'B92 srpski fudbal', type:'rss'},
-  {url:'https://www.tanjug.rs/rss/sport/fudbal',    label:'Tanjug fudbal', type:'rss'},
-  {url:'https://www.mozzartsport.com/rss/1.xml',    label:'Mozzart sport', type:'rss'},
-  {url:'https://www.kurir.rs/rss/sport/fudbal',     label:'Kurir fudbal',  type:'rss'},
-];
-
-function extractRssItems(xml, label){
-  try{
-    const doc=new DOMParser().parseFromString(xml,'text/xml');
-    return Array.from(doc.querySelectorAll('item')).slice(0,8).map(item=>{
-      const title=decodeHtml((item.querySelector('title')?.textContent||'').trim());
-      const desc=decodeHtml((item.querySelector('description')?.textContent||'').replace(/<[^>]+>/g,'').trim()).slice(0,200);
-      const link=item.querySelector('link')?.textContent?.trim()||'#';
-      const pub=item.querySelector('pubDate')?.textContent||'';
-      return`${title}${desc?' — '+desc:''}${pub?' ('+pub.slice(0,16)+')':''}`;
-    }).filter(t=>t.length>5).join('\n');
-  }catch(e){return'';}
-}
-
-function extractHtmlText(html, label){
-  try{
-    const doc=new DOMParser().parseFromString(html,'text/html');
-    // Remove scripts, styles, nav
-    doc.querySelectorAll('script,style,nav,footer,header').forEach(el=>el.remove());
-    // Get main content text
-    const main=doc.querySelector('main,article,.content,.vesti,.news')||doc.body;
-    return (main?.innerText||main?.textContent||'').replace(/\s+/g,' ').trim().slice(0,2000);
-  }catch(e){return'';}
+function parseRSS(xml, label, trusted){
+  const doc=new DOMParser().parseFromString(xml,'text/xml');
+  const months=['јан','феб','мар','апр','мај','јун','јул','авг','сеп','окт','нов','дец'];
+  return Array.from(doc.querySelectorAll('item')).map(item=>{
+    const title=toCyr(decodeHtml((item.querySelector('title')?.textContent||'').trim()));
+    const link=(item.querySelector('link')?.textContent?.trim()||item.querySelector('guid')?.textContent?.trim()||'#');
+    const desc=toCyr(decodeHtml((item.querySelector('description')?.textContent||'').replace(/<[^>]+>/g,'').trim())).slice(0,300);
+    const pub=item.querySelector('pubDate')?.textContent||'';
+    let datum='',ts=0;
+    if(pub){const d=new Date(pub);if(!isNaN(d)){ts=d.getTime();datum=`${d.getDate()}. ${months[d.getMonth()]} · ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;}}
+    return{title,link,desc,datum,ts,label,trusted};
+  }).filter(v=>v.title&&v.link&&v.title.length>8);
 }
 
 // ════════════════════════════════════
-// MAIN CLAUDE AGENT CALL
-// Sends all source content to Claude in ONE call
-// Claude acts as Serbian football journalist
-// Returns 5 original news items as JSON
+// TOGGLE CARD
 // ════════════════════════════════════
-async function callClaudeJournalist(sourcesText){
-  const system=`Ti si AI sportski novinar portala SrpskiFudbal.com. Pišeš ISKLJUČIVO o srpskom fudbalu na srpskom jeziku ćiriličnim pismom.
-
-Na osnovu dostavljenih sirovih vesti iz više srpskih izvora, napiši TAČNO 5 originalnih kratkih vesti SAMO o srpskom fudbalu.
-
-STROGA PRAVILA:
-- SAMO srpski fudbal: Superliga Srbije, Crvena zvezda, Partizan, Vojvodina, Čukarički, TSC, Novi Pazar, Napredak, Spartak, Radnik, Radnički Niš, Voždovac, Reprezentacija Srbije, FSS, srpski treneri, srpski igrači u srpskim klubovima
-- ZABRANJENO: La Liga, Premier liga, Bundesliga, Serie A, Champions League sa stranim timovima, Bosna i Hercegovina, Gattuso, Barbarez, Miranda, Mirandes, španija, nemačka, engleska, italija, turska, grčka, portugal
-- Ako nema dovoljno srpskih vesti, napiši manje od 5 (minimum 2)
-- Svaka vest: originalni naslov + 2-3 rečenice originalnog teksta u svom stilu
-- NE kopiraj originalni tekst doslovno
-- Odgovori SAMO JSON nizom, bez ikakvog drugog teksta pre ili posle
-
-JSON FORMAT:
-[{"naslov":"Naslov na ćirilici","tekst":"Originalni tekst 2-3 rečenice na ćirilici.","izvor":"naziv izvora","link":"url ako postoji ili #"}]`;
-
-  const resp=await fetch('https://api.anthropic.com/v1/messages',{
-    method:'POST',
-    headers:{'Content-Type':'application/json'},
-    body:JSON.stringify({
-      model:'claude-sonnet-4-20250514',
-      max_tokens:1000,
-      system,
-      messages:[{role:'user',content:`Sirove vesti iz srpskih izvora:\n\n${sourcesText}\n\nNapiši 5 originalnih vesti o SRPSKOM fudbalu kao JSON niz.`}]
-    })
-  });
-  if(!resp.ok)throw new Error(`API ${resp.status}`);
-  const data=await resp.json();
-  const raw=(data.content?.find(b=>b.type==='text')?.text||'').trim();
-  const clean=raw.replace(/^```json\s*/,'').replace(/^```\s*/,'').replace(/\s*```$/,'').trim();
-  const parsed=JSON.parse(clean);
-  if(!Array.isArray(parsed))throw new Error('Not array');
-  return parsed;
-}
-
-// Toggle card open/close
 function toggleCard(card){
   const open=card.classList.contains('open');
   document.querySelectorAll('.ai-news-card.open').forEach(c=>{if(c!==card)c.classList.remove('open');});
@@ -669,7 +731,7 @@ function toggleCard(card){
 }
 
 // ════════════════════════════════════
-// RUN AGENT
+// MAIN AGENT — free, no API
 // ════════════════════════════════════
 let agentRunning=false, lastAgentRun=0;
 
@@ -683,69 +745,78 @@ async function runAiAgent(force=false){
   const countEl=document.getElementById('ai-count');
   const tsEl=document.getElementById('agent-ts');
 
-  // Step 1 — fetch all sources in parallel
-  container.innerHTML='<div class="ai-agent-loading">Прикупљам вести са ФСС, Танјуг, Б92, Мозарт, Курир...</div>';
+  container.innerHTML='<div class="ai-agent-loading">Прикупљам вести о српском фудбалу...</div>';
 
-  const fetched=await Promise.allSettled(
-    FETCH_SOURCES.map(src=>
-      proxyFetch(src.url,11000)
-        .then(txt=>{
-          if(src.type==='rss') return`[${src.label}]\n${extractRssItems(txt,src.label)}`;
-          else return`[${src.label}]\n${extractHtmlText(txt,src.label)}`;
-        })
-        .catch(()=>`[${src.label}]\n(недоступан)`)
+  // Fetch all RSS in parallel
+  const results=await Promise.allSettled(
+    RSS_SOURCES.map(src=>
+      Promise.race([
+        proxyFetch(src.url,10000).then(xml=>parseRSS(xml,src.label,src.trusted).slice(0,src.max)),
+        new Promise(res=>setTimeout(()=>res([]),11000))
+      ])
     )
   );
 
-  const sourcesText=fetched
-    .map(r=>r.status==='fulfilled'?r.value:'')
-    .filter(t=>t&&!t.includes('недоступан'))
-    .join('\n\n---\n\n');
+  const now24=Date.now()-86400000;
+  const allItems=results
+    .flatMap(r=>r.status==='fulfilled'?r.value:[])
+    .filter(it=>isSrpskiFudbal(it.title, it.label))
+    .map(it=>({...it, fresh: it.ts>now24}));
 
-  if(!sourcesText.trim()||sourcesText.length<100){
-    container.innerHTML=`<div style="padding:16px;color:#9ca3af;font-size:13px">⚠️ Извори тренутно нису доступни. <a href="https://www.fss.rs" target="_blank" style="color:var(--red)">ФСС →</a></div>`;
+  // Deduplicate
+  const seen=new Set(), deduped=[];
+  for(const it of allItems){
+    const slug=it.title.toLowerCase().replace(/[^\wа-яёЀ-ӿ]/gi,'').slice(0,50);
+    if(!seen.has(slug)){seen.add(slug);deduped.push(it);}
+  }
+
+  // Sort newest first, take top 5
+  deduped.sort((a,b)=>(b.ts||0)-(a.ts||0));
+  const top5=deduped.slice(0,5);
+
+  if(!top5.length){
+    container.innerHTML=`<div style="padding:16px;color:#9ca3af;font-size:13px">
+      ⚠️ Тренутно нема доступних вести о српском фудбалу.
+      <div style="margin-top:8px;display:flex;gap:10px;flex-wrap:wrap">
+        <a href="https://www.fss.rs" target="_blank" style="color:var(--red)">ФСС →</a>
+        <a href="https://www.b92.net/sport/fudbal/" target="_blank" style="color:var(--red)">Б92 →</a>
+        <a href="https://www.tanjug.rs/sport/fudbal" target="_blank" style="color:var(--red)">Танјуг →</a>
+      </div></div>`;
     agentRunning=false; return;
   }
 
-  // Step 2 — Claude writes original news
-  container.innerHTML='<div class="ai-agent-loading">АИ новинар пише вести о српском фудбалу...</div>';
-
-  let cards=[];
-  try{
-    cards=await callClaudeJournalist(sourcesText);
-  }catch(e){
-    container.innerHTML=`<div style="padding:16px;color:#9ca3af;font-size:13px">⚠️ АИ агент привремено недоступан. Покушајте поново. <button onclick="runAiAgent(true)" style="margin-left:8px;color:var(--red);background:none;border:1px solid var(--bdr);border-radius:3px;padding:3px 8px;cursor:pointer;font-size:11px">↻ Покушај поново</button></div>`;
-    agentRunning=false; return;
-  }
-
-  // Step 3 — render cards (text already inside, instant expand)
+  // Render
   _ti=0;
-  const html=cards.slice(0,5).map(card=>{
-    const url=(card.link||'#').replace(/['"]/g,'');
-    const naslov=(card.naslov||'').replace(/</g,'&lt;');
-    const tekst=(card.tekst||'').replace(/</g,'&lt;');
+  const html=top5.map(item=>{
+    const url=(item.link||'#').replace(/['"<>]/g,'');
+    const title=(item.title||'').replace(/</g,'&lt;');
+    const desc=(item.desc||'').replace(/</g,'&lt;');
+    const freshBadge=item.fresh?`<span style="background:#16a34a;color:#fff;font-size:8px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:1px 5px;border-radius:3px;margin-left:4px">24ч</span>`:'';
+    const st=srcStyle(item.label);
     return`<div class="ai-news-card" onclick="toggleCard(this)">
       <div class="ai-news-card-header">
         <div class="ani-thumb">${nextThumb()}</div>
         <div class="ani-body">
-          <div class="ani-src" style="color:var(--red);font-family:var(--fu);font-size:9px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;margin-bottom:3px">⚽ СРПСКИ ФУДБАЛ</div>
-          <div class="ani-ttl">${naslov}</div>
-          <div class="ani-expand-hint">Прочитај сажетак</div>
+          <div class="ani-src" style="${st};font-family:var(--fu);font-size:9px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;margin-bottom:3px;display:flex;align-items:center;gap:4px">${item.label}${freshBadge}</div>
+          <div class="ani-ttl">${title}</div>
+          <div class="ani-dt">${item.datum}</div>
+          <div class="ani-expand-hint">Прочитај</div>
         </div>
       </div>
       <div class="ani-full">
-        <div class="ani-full-text">${tekst}</div>
-        ${url&&url!='#'?`<a class="ani-full-link" href="${url}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Оригинална вест →</a>`:''}
+        <div class="ani-full-text">${desc||'Кликните на линк за пуну вест.'}</div>
+        <a class="ani-full-link" href="${url}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Пуна вест →</a>
       </div>
     </div>`;
   }).join('');
 
   container.innerHTML=`<div class="ai-news-list">${html}</div>`;
-  if(countEl)countEl.textContent=cards.length;
+
+  if(countEl)countEl.textContent=top5.length;
   if(tsEl){const d=new Date();tsEl.textContent=`${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;}
   const vts=document.getElementById('vesti-ts');
   if(vts){const d=new Date();vts.textContent=`Ажурирано у ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;}
-  ucitajTicker(cards.map(c=>({title:c.naslov,izvor:'СрпскиФудбал',link:c.link||'#'})));
+  ucitajTicker(top5.map(c=>({title:c.title,izvor:c.label,link:c.link})));
   agentRunning=false;
 }
 const TIMOVI_MAP = {
