@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-03-27T10:34:52.579621+00:00",
-  "azurirano_sr": "27. 03. 2026. у 11:34",
+  "azurirano": "2026-03-27T12:08:07.787389+00:00",
+  "azurirano_sr": "27. 03. 2026. у 13:08",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Henes: Hoće li naši navijači biti srećniji ako u kasi budemo imali dodatnih 200.000.000?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/henes-hoce-li-nasi-navijaci-biti-srecniji-ako-u-kasi-budemo-imali-dodatnih-200000000/539726",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 03. 2026. у 13:27",
+      "slika": null
+    },
+    {
+      "naslov": "Dok Srbija uči od aktuelnog evropskog šampiona, Crnogorci se testiraju protiv najslabijih",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dok-srbija-uci-od-aktuelnog-evropskog-sampiona-crnogorci-se-testiraju-protiv-najslabijih/539738",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 03. 2026. у 13:17",
+      "slika": null
+    },
     {
       "naslov": "Maksa pričao Špancima o Veljku i Kostovu: Može da bude važna figura u evropskom fudbalu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/maksa-pricao-spancima-o-veljku-i-kostovu-moze-da-bude-vazna-figura-u-evropskom-fudbalu/539718",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Kamera uhvatila arogantne Italijane, motiv do neba za BiH: Stisli pesnice jer su izbegli Vels (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kamera-uhvatila-arogantne-italijane-motiv-do-neba-za-bih-stisli-pesnice-jer-su-izbegli-vels-video/539709",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 03. 2026. у 05:31",
+      "naslov": "Engleski stručnjak Roj Hodžson se vratio iz penzije i preuzeo Bristol Siti",
+      "url": "https://www.tanjug.rs/sport/fudbal/240793/engleski-strucnjak-roj-hodzson-se-vratio-iz-penzije-i-preuzeo-bristol-siti/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 03. 2026. у 12:05",
       "slika": null
     },
     {
-      "naslov": "Sve miriše na 1994: Još da sruše sinove Mesopotamije i moći će da razapnu vigvam nasred Amerike",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sve-mirise-na-1994-jos-da-sruse-sinove-mesopotamije-i-moci-ce-da-razapnu-vigvam-nasred-amerike/539706",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 03. 2026. у 02:32",
+      "naslov": "Bosanskohercegovački fudbaler Kerim Alajbegović se vraća u Bajer iz Leverkuzena",
+      "url": "https://www.tanjug.rs/sport/fudbal/240775/bosanskohercegovacki-fudbaler-kerim-alajbegovic-se-vraca-u-bajer-iz-leverkuzena/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 03. 2026. у 11:21",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Bosne i Hercegovine i Češke plasirali se finale baraža kvalifikacija za Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/240687/fudbaleri-bosne-i-hercegovine-i-ceske-plasirali-se-finale-baraza-kvalifikacija-za-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 03. 2026. у 23:54",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Francuske pobedili Brazil u prijateljskoj utakmici",
-      "url": "https://www.tanjug.rs/sport/fudbal/240681/fudbaleri-francuske-pobedili-brazil-u-prijateljskoj-utakmici/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 03. 2026. у 23:21",
+      "naslov": "Srbija iznenadila selektora Španije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219668/de-la-fuente-pred-spanija-srbija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 03. 2026. у 13:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219550/veljko-paunovic-i-strahinja-pavlovic-pred-spanija-srbija/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "26. 03. 2026. у 21:45",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Orlovi&quot; u Bačkoj Topoli – karte u prodaji",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219500/orlovi-u-backoj-topoli-karte-u-prodaji/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 03. 2026. у 18:41",
       "slika": null
     }
   ]
