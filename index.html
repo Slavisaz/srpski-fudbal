@@ -123,9 +123,6 @@ nav a:hover{color:var(--red);border-color:var(--red)}
 .ai-refresh-btn{background:none;border:1px solid var(--bdr);border-radius:3px;padding:3px 9px;font-family:var(--fu);font-size:10px;color:var(--txt3);cursor:pointer;transition:all .15s}
 .ai-refresh-btn:hover{border-color:var(--red);color:var(--red)}
 
-
-
-
 /* TV-LIST (used by Superliga widget) */
 .tv-list{display:flex;flex-direction:column;gap:0}
 .tv-item{display:flex;align-items:stretch;gap:0;text-decoration:none;border-bottom:1px solid var(--bdr);transition:background .12s;background:#fff}
@@ -438,38 +435,6 @@ footer{background:var(--txt);padding:36px 20px 20px;margin-top:48px}
       <div class="sv-ttl">Фудбалски савез Србије</div>
       <div class="sv-dt">fss.rs — званичне информације</div>
     </a>
-    <a class="sv-item" href="https://fss.rs/selekcije/a-selekcija/" target="_blank" rel="noopener">
-      <div class="sv-tag">А Репрезентација</div>
-      <div class="sv-ttl">Сениорска репрезентација Србије</div>
-    </a>
-    <a class="sv-item" href="https://fss.rs/selekcije/u-21/" target="_blank" rel="noopener">
-      <div class="sv-tag">У21</div>
-      <div class="sv-ttl">Репрезентација У21</div>
-    </a>
-  </div>
-
-  <div class="widget">
-    <div class="wh">📰 Извори вести</div>
-    <a class="sv-item" href="https://www.fss.rs" target="_blank" rel="noopener">
-      <div class="sv-tag src-fss">ФСС</div>
-      <div class="sv-ttl">fss.rs — Фудбалски савез Србије</div>
-    </a>
-    <a class="sv-item" href="https://www.mozzartsport.com" target="_blank" rel="noopener">
-      <div class="sv-tag src-mozzart">Мозарт Спорт</div>
-      <div class="sv-ttl">mozzartsport.com</div>
-    </a>
-    <a class="sv-item" href="https://www.tanjug.rs/sport/fudbal" target="_blank" rel="noopener">
-      <div class="sv-tag src-tanjug">Танјуг</div>
-      <div class="sv-ttl">tanjug.rs — Фудбалске вести</div>
-    </a>
-    <a class="sv-item" href="https://www.b92.net/sport/fudbal/" target="_blank" rel="noopener">
-      <div class="sv-tag src-b92">Б92</div>
-      <div class="sv-ttl">b92.net — Српски фудбал</div>
-    </a>
-    <a class="sv-item" href="https://www.kurir.rs/sport/fudbal" target="_blank" rel="noopener">
-      <div class="sv-tag" style="color:#e05c00">Курир</div>
-      <div class="sv-ttl">kurir.rs — Фудбал</div>
-    </a>
   </div>
 
   <div class="adbox" style="height:250px;flex-direction:column">
@@ -594,19 +559,10 @@ function srcStyle(s){return SRC_STYLE[s]||'color:var(--red)';}
 
 // ════════════════════════════════════
 // STRICT SERBIAN FOOTBALL FILTER
-//
-// THREE-LAYER approach:
-//  1. BLOCK — if title contains any euro/foreign keyword → skip always
-//  2. TRUST  — FSS and B92 Srpski fudbal feeds are inherently Serbian → always pass
-//  3. REQUIRE — other feeds must contain at least one Serbian keyword
 // ════════════════════════════════════
-
-// Layer 1: hard block list — any of these = NOT Serbian football
 const BLOCK_KW = [
-  // Foreign leagues
   'premier league','la liga','serie a','bundesliga','ligue 1','eredivisie',
   'primera division','primeira liga','liga prvaka','liga šampiona',
-  // Foreign clubs
   'real madrid','barcelona','atletico','sevilla','manchester','liverpool',
   'arsenal','chelsea','tottenham','aston villa','newcastle','west ham',
   'leicester','everton','brighton','bayern','dortmund','leverkusen',
@@ -614,24 +570,18 @@ const BLOCK_KW = [
   'psg','marseille','lyon','monaco','ajax','psv','feyenoord',
   'porto','benfica','sporting','besiktas','galatasaray','fenerbahce',
   'celtic','rangers','anderlecht','bruges',
-  // Foreign countries in football context
   'španija','španac','nemačka','nemac','italija','italijan',
   'engleska','englez','francuska','francuz','holandija','portugal',
   'turska','turčin','grčka','škotska','belgija',
-  // BiH/regional - not Serbian football
   'bosna','hercegovina','bih','mostar','sarajevo','tuzla','zenica',
   'barbarez','gattuso','mirandes','miranda','džeko','ibisevic','ibišević',
   'hrvatska','croatia','slovenija','makedonija','crna gora',
-  // Generic clickbait not about football
   'preминула','preminula','umro','погинуо','nesreća','katastrofa',
 ];
 
-// Layer 2: trusted sources — always Serbian football
 const TRUSTED_SOURCES = ['ФСС','Б92 Српски фудбал','Танјуг'];
 
-// Layer 3: Serbian football keyword whitelist
 const SRBIJA_KW = [
-  // Superliga clubs
   'crvena zvezda','crvene zvezde','zvezda','zvezdaš',
   'partizan','partizanov','partizanci',
   'vojvodina','vojvodinаš',
@@ -650,12 +600,10 @@ const SRBIJA_KW = [
   'ofk beograd',
   'kolubara',
   'zemun',
-  // Institutions
   'superliga','super liga',
   'fss','фсс','savez srbije','fudbalski savez',
   'reprezentacija srbije','selekcija srbije',
   'srpski fudbal','srbija',
-  // Cyrillic versions
   'суперлига','србија','репрезентациј','фсс',
   'звезда','партизан','војводина','чукарич',
   'нови пазар','напредак','спартак','суботица',
@@ -667,14 +615,8 @@ const SRBIJA_KW = [
 
 function isSrpskiFudbal(title, izvor) {
   const t = (title||'').toLowerCase();
-
-  // Layer 1: hard block
   if (BLOCK_KW.some(kw => t.includes(kw))) return false;
-
-  // Layer 2: trusted source — no keyword needed
   if (TRUSTED_SOURCES.some(s => (izvor||'').includes(s))) return true;
-
-  // Layer 3: must have at least one Serbian keyword
   return SRBIJA_KW.some(kw => t.includes(kw));
 }
 
@@ -751,7 +693,6 @@ async function runAiAgent(force=false){
 
   container.innerHTML='<div class="ai-agent-loading">Прикупљам вести о српском фудбалу...</div>';
 
-  // Fetch all RSS in parallel
   const results=await Promise.allSettled(
     RSS_SOURCES.map(src=>
       Promise.race([
@@ -763,7 +704,6 @@ async function runAiAgent(force=false){
 
   const now24=Date.now()-86400000;
 
-  // Three buckets by priority
   const fssItems=[], tanjugItems=[], filteredItems=[];
 
   results.forEach((r,i)=>{
@@ -771,18 +711,16 @@ async function runAiAgent(force=false){
     const src=RSS_SOURCES[i];
     const items=r.value.map(it=>({...it,fresh:it.ts>now24}));
     if(src.label==='ФСС'){
-      fssItems.push(...items); // FSS: always Serbian, no filter
+      fssItems.push(...items);
     } else if(src.label==='Танјуг'){
-      tanjugItems.push(...items); // Tanjug: trusted, no filter
+      tanjugItems.push(...items);
     } else {
       filteredItems.push(...items.filter(it=>isSrpskiFudbal(it.title,it.label)));
     }
   });
 
-  // Sort each bucket newest first
   [fssItems,tanjugItems,filteredItems].forEach(a=>a.sort((a,b)=>(b.ts||0)-(a.ts||0)));
 
-  // Pick unique items from each bucket: 2 FSS + 1 Tanjug + 2 filtered = 5
   const seen=new Set();
   function pickUnique(arr,n){
     const out=[];
@@ -800,7 +738,6 @@ async function runAiAgent(force=false){
     ...pickUnique(filteredItems,2),
   ];
 
-  // Final dedup pass
   const deduped=[];
   const seen2=new Set();
   for(const it of allItems){
@@ -821,7 +758,6 @@ async function runAiAgent(force=false){
     agentRunning=false; return;
   }
 
-  // Render
   _ti=0;
   const html=top5.map(item=>{
     const url=(item.link||'#').replace(/['"<>]/g,'');
@@ -875,7 +811,6 @@ async function ucitajTicker(newsItems) {
   if (!track) return;
   const stavke = [];
 
-  // Live scores
   try {
     const liveR = await fetch(`${APIF_BASE}/fixtures?league=${APIF_LEAGUE}&season=${APIF_SEASON}&live=all`,
       {headers:{'x-apisports-key':APIF_KEY},signal:AbortSignal.timeout(6000)});
@@ -890,7 +825,6 @@ async function ucitajTicker(newsItems) {
     }
   } catch(e){}
 
-  // News headlines from agent
   if (newsItems && newsItems.length) {
     newsItems.slice(0,6).forEach(i => stavke.push(`📰 ${i.title.slice(0,70)}`));
   }
@@ -1129,7 +1063,7 @@ document.addEventListener('visibilitychange',function(){
 runAiAgent();
 loadRez();
 loadUzi();
-setInterval(()=>runAiAgent(), 2*60*1000);   // refresh agent every 2 min
+setInterval(()=>runAiAgent(), 2*60*1000);
 setInterval(loadRez, 60*1000);
 setInterval(loadUzi, 30*1000);
 </script>
