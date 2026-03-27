@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-26T22:59:46.580652+00:00",
-  "azurirano_sr": "26. 03. 2026. у 23:59",
+  "azurirano": "2026-03-27T00:02:09.379363+00:00",
+  "azurirano_sr": "27. 03. 2026. у 01:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Junak BiH: Italija će se uplašiti Zenice; Muharemović: Samo se Boga plašimo, idemo da ih pojedemo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/junak-bih-italija-ce-se-uplasiti-zenice-muharemovic-samo-se-boga-plasimo-idemo-da-ih-pojedemo/539705",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 03. 2026. у 01:40",
+      "slika": null
+    },
     {
       "naslov": "Makedonci nisu ta liga: Оprez! Danska podsetila na \"dark horse\" verziju pre Katara",
       "url": "https://www.mozzartsport.com/fudbal/vesti/makedonci-nisu-ta-liga-prez-danska-podsetila-na-dark-horse-verziju-pre-katara/539694",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Mađarski klinac srpskih korena na meti HSV-a: Prate ga i Lajpcig, Inter i Benfika",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/maarski-klinac-srpskih-korena-na-meti-hsva-prate-ga-i-lajpcig-inter-i-benfika/539638",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 03. 2026. у 12:38",
+      "naslov": "Fudbaleri Bosne i Hercegovine i Češke plasirali se finale baraža kvalifikacija za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/240687/fudbaleri-bosne-i-hercegovine-i-ceske-plasirali-se-finale-baraza-kvalifikacija-za-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 03. 2026. у 23:54",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/240670/kosarkasi-borca-porazeni-od-beca-u-aba-ligi/vest",
       "izvor": "Танјуг",
       "datum": "26. 03. 2026. у 22:48",
-      "slika": null
-    },
-    {
-      "naslov": "Koko Gof prva finalistkinja WTA turnira u Majamiju",
-      "url": "https://www.tanjug.rs/sport/fudbal/240654/koko-gof-prva-finalistkinja-wta-turnira-u-majamiju/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 03. 2026. у 21:43",
       "slika": null
     },
     {
