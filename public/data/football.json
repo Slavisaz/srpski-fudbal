@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-03-27T19:54:46.703737+00:00",
-  "azurirano_sr": "27. 03. 2026. у 20:54",
+  "azurirano": "2026-03-27T21:52:22.554456+00:00",
+  "azurirano_sr": "27. 03. 2026. у 22:52",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "UŽIVO: Španija - Srbija 3:0",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-spanija-srbija-30/539779",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 03. 2026. у 23:04",
+      "slika": null
+    },
     {
       "naslov": "Srbija bila u ponoru, a onda se pojavio fenomenalni Maravić",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-bila-u-ponoru-a-onda-se-pojavio-fenomenalni-maravic/539781",
       "izvor": "Мозарт Спорт",
       "datum": "27. 03. 2026. у 20:40",
-      "slika": null
-    },
-    {
-      "naslov": "SASTAVI: Španija - Srbija, povratak braće Milinković Savić, Mitrović u špicu!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sastavi-spanija-srbija-povratak-brace-milinkovic-savic-mitrovic-u-spicu/539779",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 03. 2026. у 20:11",
       "slika": null
     },
     {
@@ -29,6 +29,13 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/premijerligasi-cisti-gubitasi-samo-cetiri-kluba-u-engleskoj-zarauju-novac/539747",
       "izvor": "Мозарт Спорт",
       "datum": "27. 03. 2026. у 15:44",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaler Barselone Rafinja zbog povrede tetive neće igrati pet nedelja",
+      "url": "https://www.tanjug.rs/sport/fudbal/240980/fudbaler-barselone-rafinja-zbog-povrede-tetive-nece-igrati-pet-nedelja/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 03. 2026. у 22:30",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Bosanskohercegovački fudbaler Kerim Alajbegović se vraća u Bajer iz Leverkuzena",
-      "url": "https://www.tanjug.rs/sport/fudbal/240775/bosanskohercegovacki-fudbaler-kerim-alajbegovic-se-vraca-u-bajer-iz-leverkuzena/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 03. 2026. у 11:21",
-      "slika": null
-    },
-    {
-      "naslov": "Srbija u okršaju sa prvakom Evrope",
+      "naslov": "Srbija sa tri gola u mreži još i dobro prošla",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219797/uzivo-prenos-spanija-srbija-prijateljska-utakmica/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "27. 03. 2026. у 20:47",
+      "datum": "27. 03. 2026. у 22:51",
       "slika": null
     },
     {
-      "naslov": "&quot;Još me boli poraz od Albanije&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219792/jos-me-boli-poraz-od-albanije/vest",
+      "naslov": "Srbija i Španija nisu ista divizija VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219881/prijateljska-utakmica-spanija-srbija-30/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "27. 03. 2026. у 17:17",
+      "datum": "27. 03. 2026. у 22:51",
       "slika": null
     }
   ]
