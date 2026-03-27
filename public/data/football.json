@@ -1,11 +1,18 @@
 {
-  "azurirano": "2026-03-27T08:09:18.381671+00:00",
-  "azurirano_sr": "27. 03. 2026. у 09:09",
+  "azurirano": "2026-03-27T10:34:52.579621+00:00",
+  "azurirano_sr": "27. 03. 2026. у 11:34",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "LUDI TIKET, petak, 260.357 dinara: Suluda priča, ili ozbiljna mozgalica?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-petak-260357-dinara-suluda-prica-ili-ozbiljna-mozgalica/539714",
+      "naslov": "Maksa pričao Špancima o Veljku i Kostovu: Može da bude važna figura u evropskom fudbalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/maksa-pricao-spancima-o-veljku-i-kostovu-moze-da-bude-vazna-figura-u-evropskom-fudbalu/539718",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 03. 2026. у 10:36",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET, petak, 260.357 dinara: Suluda priča,ili ozbiljna mozgalica?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-petak-260357-dinara-suluda-pricaili-ozbiljna-mozgalica/539714",
       "izvor": "Мозарт Спорт",
       "datum": "27. 03. 2026. у 09:21",
       "slika": null
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Junak BiH: Italija će se uplašiti Zenice; Muharemović: Samo se Boga plašimo, idemo da ih pojedemo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/junak-bih-italija-ce-se-uplasiti-zenice-muharemovic-samo-se-boga-plasimo-idemo-da-ih-pojedemo/539705",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 03. 2026. у 01:40",
+      "naslov": "U finalu Interkontinentalnog baraža za Svetsko prvenstvo igraće Bolivija - Irak i DR Kongo - Jamajka",
+      "url": "https://www.tanjug.rs/sport/fudbal/240743/u-finalu-interkontinentalnog-baraza-za-svetsko-prvenstvo-igrace-bolivija-irak-i-dr-kongo-jamajka/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 03. 2026. у 09:27",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/240681/fudbaleri-francuske-pobedili-brazil-u-prijateljskoj-utakmici/vest",
       "izvor": "Танјуг",
       "datum": "26. 03. 2026. у 23:21",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Italije pobedili Severnu Irsku i prošli u finale baraža kvalifikacija za Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/240675/fudbaleri-italije-pobedili-severnu-irsku-i-prosli-u-finale-baraza-kvalifikacija-za-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 03. 2026. у 23:04",
       "slika": null
     },
     {
