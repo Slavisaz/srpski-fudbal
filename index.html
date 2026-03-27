@@ -623,7 +623,7 @@ const BLOCK_KW = [
 ];
 
 // Layer 2: trusted sources — always Serbian football
-const TRUSTED_SOURCES = ['ФСС','Б92 Српски фудбал'];
+const TRUSTED_SOURCES = ['ФСС','Б92 Српски фудбал','Танјуг'];
 
 // Layer 3: Serbian football keyword whitelist
 const SRBIJA_KW = [
@@ -758,21 +758,51 @@ async function runAiAgent(force=false){
   );
 
   const now24=Date.now()-86400000;
-  const allItems=results
-    .flatMap(r=>r.status==='fulfilled'?r.value:[])
-    .filter(it=>isSrpskiFudbal(it.title, it.label))
-    .map(it=>({...it, fresh: it.ts>now24}));
 
-  // Deduplicate
+  // Separate trusted (FSS, Tanjug) from filtered sources
+  const trustedItems=[];
+  const filteredItems=[];
+
+  results.forEach((r,i)=>{
+    if(r.status!=='fulfilled')return;
+    const src=RSS_SOURCES[i];
+    const items=r.value.map(it=>({...it,fresh:it.ts>now24}));
+    if(src.trusted){
+      // Trusted sources: take top 2 each, no filter needed
+      trustedItems.push(...items.slice(0,2));
+    } else {
+      // Other sources: strict Serbian football filter
+      filteredItems.push(...items.filter(it=>isSrpskiFudbal(it.title,it.label)));
+    }
+  });
+
+  // Deduplicate trusted items
+  const seenT=new Set(), dedupedTrusted=[];
+  for(const it of trustedItems){
+    const slug=it.title.toLowerCase().replace(/[^\wа-яёЀ-ӿ]/gi,'').slice(0,50);
+    if(!seenT.has(slug)){seenT.add(slug);dedupedTrusted.push(it);}
+  }
+
+  // Sort filtered by date, deduplicate
+  filteredItems.sort((a,b)=>(b.ts||0)-(a.ts||0));
+  const seenF=new Set(), dedupedFiltered=[];
+  for(const it of filteredItems){
+    const slug=it.title.toLowerCase().replace(/[^\wа-яёЀ-ӿ]/gi,'').slice(0,50);
+    if(!seenF.has(slug)&&!seenT.has(slug)){seenF.add(slug);dedupedFiltered.push(it);}
+  }
+
+  // Combine: trusted first (up to 3), then filtered (up to 4), total max 7
+  dedupedTrusted.sort((a,b)=>(b.ts||0)-(a.ts||0));
+  const allItems=[...dedupedTrusted.slice(0,3), ...dedupedFiltered.slice(0,4)];
+
+  // Final dedup pass and sort
   const seen=new Set(), deduped=[];
   for(const it of allItems){
     const slug=it.title.toLowerCase().replace(/[^\wа-яёЀ-ӿ]/gi,'').slice(0,50);
     if(!seen.has(slug)){seen.add(slug);deduped.push(it);}
   }
 
-  // Sort newest first, take top 5
-  deduped.sort((a,b)=>(b.ts||0)-(a.ts||0));
-  const top5=deduped.slice(0,5);
+  const top5=deduped.slice(0,7);
 
   if(!top5.length){
     container.innerHTML=`<div style="padding:16px;color:#9ca3af;font-size:13px">
