@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-03-28T11:55:02.089249+00:00",
-  "azurirano_sr": "28. 03. 2026. у 12:55",
+  "azurirano": "2026-03-28T14:03:21.166557+00:00",
+  "azurirano_sr": "28. 03. 2026. у 15:03",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Mijatović ni reč o Partizanu: &quot;Paunović video stvari koje će mu pomoći&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219995/predrag-mijatovic-o-utakmici-spanija-srbija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 03. 2026. у 13:45",
+      "slika": null
+    },
+    {
       "naslov": "Selektor Španije: &quot;Dopada mi se ideja Veljka Paunovića&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219951/luis-de-la-fuente-posle-spanija-srbija/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 03. 2026. у 09:47",
-      "slika": null
-    },
-    {
-      "naslov": "Srbija sa tri gola u mreži još i dobro prošla; Paunović: &quot;Ostali smo nedorečeni&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219797/spanija-srbija-30-prijateljska-utakmica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 03. 2026. у 23:30",
       "slika": null
     }
   ]
