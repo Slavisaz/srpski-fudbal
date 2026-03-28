@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-28T19:47:19.059975+00:00",
-  "azurirano_sr": "28. 03. 2026. у 20:47",
+  "azurirano": "2026-03-28T20:59:40.696639+00:00",
+  "azurirano_sr": "28. 03. 2026. у 21:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nije panika u Madridu, ali... Brazilci, oprezno s Vinijem, ide Liga šampiona",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nije-panika-u-madridu-ali-brazilci-oprezno-s-vinijem-ide-liga-sampiona/539875",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 03. 2026. у 22:13",
+      "slika": null
+    },
     {
       "naslov": "Najveći dan u istoriji fudbalske Crne Gore: Kadeti idu na Evropsko prvenstvo i Mundijalito",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najveci-dan-u-istoriji-fudbalske-crne-gore-kadeti-idu-na-evropsko-prvenstvo-i-mundijalito/539871",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/hej-veljo-skoci-i-daj-gol-glavom-srbija-prezivela-portugal-i-dosla-na-korak-od-ep/539868",
       "izvor": "Мозарт Спорт",
       "datum": "28. 03. 2026. у 19:51",
-      "slika": null
-    },
-    {
-      "naslov": "Najskuplji 18-godišnjak svetskog fudbala u ovoj godini i zašto Saudijska Arabija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najskuplji-18godisnjak-svetskog-fudbala-u-ovoj-godini-i-zasto-saudijska-arabija/539859",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 03. 2026. у 16:40",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Italijani: Andrej Kostić potpisao za Milan",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220094/italijani-andrej-kostic-potpisao-za-milan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 03. 2026. у 21:19",
+      "slika": null
+    },
+    {
       "naslov": "Drama pred nama – &quot;Orlići&quot; osvojili zlata vredan bod, sve se lomi u poslednjem kolu",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220071/u19-kvalifikacije-za-evropsko-prvenstvo-srbija-i-portugal-rezultat-11/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 03. 2026. у 18:53",
-      "slika": null
-    },
-    {
-      "naslov": "Balša Popović: &quot;Nisam u kontaktu sa ljudima iz Zvezde&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220053/popovic-bez-kontakta-sa-zvezdom-ceka-rasplet/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 03. 2026. у 17:19",
       "slika": null
     }
   ]
