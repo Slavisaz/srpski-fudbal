@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-03-28T17:05:08.555260+00:00",
-  "azurirano_sr": "28. 03. 2026. у 18:05",
+  "azurirano": "2026-03-28T18:00:00.724095+00:00",
+  "azurirano_sr": "28. 03. 2026. у 19:00",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Selektor futsalera Srbije Marko Gavrilović saopštio spisak igrača za mečeve sa Slovenijom",
+      "url": "https://www.tanjug.rs/sport/fudbal/241115/selektor-futsalera-srbije-marko-gavrilovic-saopstio-spisak-igraca-za-meceve-sa-slovenijom/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 03. 2026. у 17:44",
+      "slika": null
+    },
+    {
       "naslov": "Penjaroja: Treba da budemo ponosni na igru, navijači su nam pomogli da se borimo",
       "url": "https://www.tanjug.rs/sport/fudbal/240993/penjaroja-treba-da-budemo-ponosni-na-igru-navijaci-su-nam-pomogli-da-se-borimo/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Košarkaši Partizana posle produžetaka pobedili Valensiju u 34. kolu Evrolige",
-      "url": "https://www.tanjug.rs/sport/fudbal/240987/kosarkasi-partizana-posle-produzetaka-pobedili-valensiju-u-34-kolu-evrolige/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 03. 2026. у 23:00",
+      "naslov": "Drama pred nama – &quot;Orlići&quot; osvojili zlata vredan bod, sve se lomi u poslednjem kolu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220071/u19-kvalifikacije-za-evropsko-prvenstvo-srbija-i-portugal-rezultat-11/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 03. 2026. у 18:53",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220053/popovic-bez-kontakta-sa-zvezdom-ceka-rasplet/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 03. 2026. у 17:19",
-      "slika": null
-    },
-    {
-      "naslov": "Mijatović ni reč o Partizanu: &quot;Paunović video stvari koje će mu pomoći&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219995/predrag-mijatovic-o-utakmici-spanija-srbija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 03. 2026. у 13:45",
       "slika": null
     }
   ]
