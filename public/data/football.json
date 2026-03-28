@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-03-28T16:02:05.020572+00:00",
-  "azurirano_sr": "28. 03. 2026. у 17:02",
+  "azurirano": "2026-03-28T17:05:08.555260+00:00",
+  "azurirano_sr": "28. 03. 2026. у 18:05",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Balša Popović: &quot;Nisam u kontaktu sa ljudima iz Zvezde&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220053/popovic-bez-kontakta-sa-zvezdom-ceka-rasplet/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 03. 2026. у 17:19",
+      "slika": null
+    },
+    {
       "naslov": "Mijatović ni reč o Partizanu: &quot;Paunović video stvari koje će mu pomoći&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219995/predrag-mijatovic-o-utakmici-spanija-srbija/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 03. 2026. у 13:45",
-      "slika": null
-    },
-    {
-      "naslov": "Selektor Španije: &quot;Dopada mi se ideja Veljka Paunovića&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/219951/luis-de-la-fuente-posle-spanija-srbija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 03. 2026. у 09:47",
       "slika": null
     }
   ]
