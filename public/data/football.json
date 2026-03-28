@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-03-28T18:00:00.724095+00:00",
-  "azurirano_sr": "28. 03. 2026. у 19:00",
+  "azurirano": "2026-03-28T19:47:19.059975+00:00",
+  "azurirano_sr": "28. 03. 2026. у 20:47",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Najveći dan u istoriji fudbalske Crne Gore: Kadeti idu na Evropsko prvenstvo i Mundijalito",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najveci-dan-u-istoriji-fudbalske-crne-gore-kadeti-idu-na-evropsko-prvenstvo-i-mundijalito/539871",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 03. 2026. у 20:56",
+      "slika": null
+    },
+    {
+      "naslov": "Milijarder iz Viđeva ne žali: Posle Bukarija još 5.000.000 za krilo Dinama",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/milijarder-iz-vieva-ne-zali-posle-bukarija-jos-5000000-za-krilo-dinama/539865",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 03. 2026. у 20:10",
+      "slika": null
+    },
+    {
+      "naslov": "Hej, Veljo, skoči i daj gol glavom! Srbija preživela Portugal i došla na korak od EP",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/hej-veljo-skoci-i-daj-gol-glavom-srbija-prezivela-portugal-i-dosla-na-korak-od-ep/539868",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 03. 2026. у 19:51",
+      "slika": null
+    },
     {
       "naslov": "Najskuplji 18-godišnjak svetskog fudbala u ovoj godini i zašto Saudijska Arabija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najskuplji-18godisnjak-svetskog-fudbala-u-ovoj-godini-i-zasto-saudijska-arabija/539859",
@@ -11,52 +32,31 @@
       "slika": null
     },
     {
-      "naslov": "Poraz koji otvara pitanja: Ako gradimo tim za 2028, vreme je za jasne odluke",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/poraz-koji-otvara-pitanja-ako-gradimo-tim-za-2028-vreme-je-za-jasne-odluke/539834",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 03. 2026. у 11:12",
-      "slika": null
-    },
-    {
-      "naslov": "Dok sa Zvezdom osvaja titule, Elšnik zbog F1 proživljava stresove: Prva torta bila mi je bolid Ferarija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dok-sa-zvezdom-osvaja-titule-elsnik-zbog-f1-prozivljava-stresove-prva-torta-bila-mi-je-bolid-ferarija/539583",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 03. 2026. у 10:26",
-      "slika": null
-    },
-    {
-      "naslov": "Realna priča u Vilja Realu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/realna-prica-u-vilja-realu/539825",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 03. 2026. у 10:19",
-      "slika": null
-    },
-    {
-      "naslov": "Selektor futsalera Srbije Marko Gavrilović saopštio spisak igrača za mečeve sa Slovenijom",
-      "url": "https://www.tanjug.rs/sport/fudbal/241115/selektor-futsalera-srbije-marko-gavrilovic-saopstio-spisak-igraca-za-meceve-sa-slovenijom/vest",
+      "naslov": "Fudbaleri Japana pobedili Škotsku, Mađarska nadigrala Sloveniju",
+      "url": "https://www.tanjug.rs/sport/fudbal/241146/fudbaleri-japana-pobedili-skotsku-madarska-nadigrala-sloveniju/vest",
       "izvor": "Танјуг",
-      "datum": "28. 03. 2026. у 17:44",
+      "datum": "28. 03. 2026. у 20:16",
       "slika": null
     },
     {
-      "naslov": "Penjaroja: Treba da budemo ponosni na igru, navijači su nam pomogli da se borimo",
-      "url": "https://www.tanjug.rs/sport/fudbal/240993/penjaroja-treba-da-budemo-ponosni-na-igru-navijaci-su-nam-pomogli-da-se-borimo/vest",
+      "naslov": "Kadeti Srbije poraženi od Belgije u kvalifikacijama za Evropsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/241138/kadeti-srbije-porazeni-od-belgije-u-kvalifikacijama-za-evropsko-prvenstvo/vest",
       "izvor": "Танјуг",
-      "datum": "27. 03. 2026. у 23:40",
+      "datum": "28. 03. 2026. у 19:34",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Nemačke savladali Švajcarsku, Holandija bolja od Norveške",
-      "url": "https://www.tanjug.rs/sport/fudbal/240992/fudbaleri-nemacke-savladali-svajcarsku-holandija-bolja-od-norveske/vest",
+      "naslov": "Omladinci Srbije odigrali nerešeno sa Portugalijom u kvalifikacijama za Evropsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/241134/omladinci-srbije-odigrali-nereseno-sa-portugalijom-u-kvalifikacijama-za-evropsko-prvenstvo/vest",
       "izvor": "Танјуг",
-      "datum": "27. 03. 2026. у 23:34",
+      "datum": "28. 03. 2026. у 19:09",
       "slika": null
     },
     {
-      "naslov": "Paunović: Došli smo po iskustvo, hteli smo da prekinemo \"krvarenje\"",
-      "url": "https://www.tanjug.rs/sport/fudbal/240989/paunovic-dosli-smo-po-iskustvo-hteli-smo-da-prekinemo-krvarenje/vest",
+      "naslov": "Fudbaleri Senegala uoči meča sa Peruom paradirali sa peharom Kupa afričkih nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/241130/fudbaleri-senegala-uoci-meca-sa-peruom-paradirali-sa-peharom-kupa-africkih-nacija/vest",
       "izvor": "Танјуг",
-      "datum": "27. 03. 2026. у 23:26",
+      "datum": "28. 03. 2026. у 18:57",
       "slika": null
     },
     {
