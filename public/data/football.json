@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-28T21:56:03.937067+00:00",
-  "azurirano_sr": "28. 03. 2026. у 22:56",
+  "azurirano": "2026-03-28T23:02:05.412002+00:00",
+  "azurirano_sr": "29. 03. 2026. у 00:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "REZZIME DANA (petak): Iksevi su skupi kiksevi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-petak-iksevi-su-skupi-kiksevi/539874",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 03. 2026. у 23:57",
+      "slika": null
+    },
     {
       "naslov": "Nije panika u Madridu, ali... Brazilci, oprezno s Vinijem, ide Liga šampiona",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nije-panika-u-madridu-ali-brazilci-oprezno-s-vinijem-ide-liga-sampiona/539875",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Hej, Veljo, skoči i daj gol glavom! Srbija preživela Portugal i došla na korak od EP",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/hej-veljo-skoci-i-daj-gol-glavom-srbija-prezivela-portugal-i-dosla-na-korak-od-ep/539868",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 03. 2026. у 19:51",
+      "naslov": "Veljko Milosavljević: Osvojili smo značajan bod na putu ka Evropskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/241175/veljko-milosavljevic-osvojili-smo-znacajan-bod-na-putu-ka-evropskom-prvenstvu/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 03. 2026. у 23:26",
+      "slika": null
+    },
+    {
+      "naslov": "Košarkaši San Antonija savladali Milvoki u NBA ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/241172/kosarkasi-san-antonija-savladali-milvoki-u-nba-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 03. 2026. у 23:08",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Belgije ubedljivo pobedili SAD u prijateljskom meču",
+      "url": "https://www.tanjug.rs/sport/fudbal/241168/fudbaleri-belgije-ubedljivo-pobedili-sad-u-prijateljskom-mecu/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 03. 2026. у 22:52",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/241146/fudbaleri-japana-pobedili-skotsku-madarska-nadigrala-sloveniju/vest",
       "izvor": "Танјуг",
       "datum": "28. 03. 2026. у 20:16",
-      "slika": null
-    },
-    {
-      "naslov": "Kadeti Srbije poraženi od Belgije u kvalifikacijama za Evropsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/241138/kadeti-srbije-porazeni-od-belgije-u-kvalifikacijama-za-evropsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 03. 2026. у 19:34",
-      "slika": null
-    },
-    {
-      "naslov": "Omladinci Srbije odigrali nerešeno sa Portugalijom u kvalifikacijama za Evropsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/241134/omladinci-srbije-odigrali-nereseno-sa-portugalijom-u-kvalifikacijama-za-evropsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 03. 2026. у 19:09",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Senegala uoči meča sa Peruom paradirali sa peharom Kupa afričkih nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/241130/fudbaleri-senegala-uoci-meca-sa-peruom-paradirali-sa-peharom-kupa-africkih-nacija/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 03. 2026. у 18:57",
       "slika": null
     },
     {
