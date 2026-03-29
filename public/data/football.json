@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-03-29T16:03:47.957613+00:00",
-  "azurirano_sr": "29. 03. 2026. у 18:03",
+  "azurirano": "2026-03-29T17:06:11.035374+00:00",
+  "azurirano_sr": "29. 03. 2026. у 19:06",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Mimović: Posle Španije znamo šta treba da popravimo, Saudijska Arabija će biti ozbiljan test",
+      "url": "https://www.tanjug.rs/sport/fudbal/241308/mimovic-posle-spanije-znamo-sta-treba-da-popravimo-saudijska-arabija-ce-biti-ozbiljan-test/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 03. 2026. у 18:50",
+      "slika": null
+    },
+    {
       "naslov": "Igor Tudor nije više trener fudbalera Totenhema",
       "url": "https://www.tanjug.rs/sport/fudbal/241282/igor-tudor-nije-vise-trener-fudbalera-totenhema/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Veljko Milosavljević: Osvojili smo značajan bod na putu ka Evropskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/241175/veljko-milosavljevic-osvojili-smo-znacajan-bod-na-putu-ka-evropskom-prvenstvu/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 03. 2026. у 23:26",
+      "naslov": "Muslin: &quot;Zvezda kupuje trećerazredne igrače, a hoće u LŠ&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220277/slavoljub-muslin-zvezda-kupuje-trecerazredne-igrace/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 03. 2026. у 18:20",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220267/obilic-zmajevo-crvena-zvezda-05/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "29. 03. 2026. у 17:43",
-      "slika": null
-    },
-    {
-      "naslov": "Transfer koji bi uzdrmao srpski fudbal – Živković odbio Zvezdu; &quot;Nije hteo da dođe ni Ivanić&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220196/grof-bozovic-zivkovic-i-ivanic-odbili-zvezdu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 03. 2026. у 12:46",
       "slika": null
     }
   ]
