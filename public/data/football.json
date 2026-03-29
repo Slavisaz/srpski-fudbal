@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-03-29T15:05:11.775387+00:00",
-  "azurirano_sr": "29. 03. 2026. у 17:05",
+  "azurirano": "2026-03-29T16:03:47.957613+00:00",
+  "azurirano_sr": "29. 03. 2026. у 18:03",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Igor Tudor nije više trener fudbalera Totenhema",
+      "url": "https://www.tanjug.rs/sport/fudbal/241282/igor-tudor-nije-vise-trener-fudbalera-totenhema/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 03. 2026. у 17:05",
+      "slika": null
+    },
+    {
       "naslov": "Selektor fudbalera Rumunije Lučesku se oseća bolje, ekipu protiv Slovačke vodi Gane",
       "url": "https://www.tanjug.rs/sport/fudbal/241220/selektor-fudbalera-rumunije-lucesku-se-oseca-bolje-ekipu-protiv-slovacke-vodi-gane/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Košarkaši San Antonija savladali Milvoki u NBA ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/241172/kosarkasi-san-antonija-savladali-milvoki-u-nba-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 03. 2026. у 23:08",
+      "naslov": "&quot;Petarda&quot; Zvezde na proslavi 100 godina Obilića VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220267/obilic-zmajevo-crvena-zvezda-05/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 03. 2026. у 17:43",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220196/grof-bozovic-zivkovic-i-ivanic-odbili-zvezdu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "29. 03. 2026. у 12:46",
-      "slika": null
-    },
-    {
-      "naslov": "Poznato ko sudi Srbiji i Saudijskoj Arabiji",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220188/poznato-ko-sudi-srbiji-i-saudijskoj-arabiji/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 03. 2026. у 12:15",
       "slika": null
     }
   ]
