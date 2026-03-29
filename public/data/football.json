@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-03-29T21:01:53.268340+00:00",
-  "azurirano_sr": "29. 03. 2026. у 23:01",
+  "azurirano": "2026-03-29T22:02:44.959743+00:00",
+  "azurirano_sr": "30. 03. 2026. у 00:02",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Francuske nadigrali Kolumbiju u prijateljskom meču",
+      "url": "https://www.tanjug.rs/sport/fudbal/241339/fudbaleri-francuske-nadigrali-kolumbiju-u-prijateljskom-mecu/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 03. 2026. у 23:12",
+      "slika": null
+    },
+    {
       "naslov": "Španski fudbaler Martin Zubimendi zbog povrede neće igrati protiv Egipta",
       "url": "https://www.tanjug.rs/sport/fudbal/241322/spanski-fudbaler-martin-zubimendi-zbog-povrede-nece-igrati-protiv-egipta/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/241308/mimovic-posle-spanije-znamo-sta-treba-da-popravimo-saudijska-arabija-ce-biti-ozbiljan-test/vest",
       "izvor": "Танјуг",
       "datum": "29. 03. 2026. у 18:50",
-      "slika": null
-    },
-    {
-      "naslov": "Igor Tudor nije više trener fudbalera Totenhema",
-      "url": "https://www.tanjug.rs/sport/fudbal/241282/igor-tudor-nije-vise-trener-fudbalera-totenhema/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 03. 2026. у 17:05",
       "slika": null
     },
     {
