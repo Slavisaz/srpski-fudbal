@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-29T08:02:23.737522+00:00",
-  "azurirano_sr": "29. 03. 2026. у 10:02",
+  "azurirano": "2026-03-29T09:57:31.915745+00:00",
+  "azurirano_sr": "29. 03. 2026. у 11:57",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Toti o budućnosti Dibale: Mogu ja da ga zamenim, sa 50 godina bih imao šta da pružim na terenu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/toti-o-buducnosti-dibale-mogu-ja-da-ga-zamenim-sa-50-godina-bih-imao-sta-da-pruzim-na-terenu/539898",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 03. 2026. у 11:50",
+      "slika": null
+    },
     {
       "naslov": "NAJAVA DANA (nedelja, 29. mart): Malo fudbala, malo košarke, a tu je i finale Majamija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-nedelja-29-mart-malo-fudbala-malo-kosarke-a-tu-je-i-finale-majamija/539888",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Nije panika u Madridu, ali... Brazilci, oprezno s Vinijem, ide Liga šampiona",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nije-panika-u-madridu-ali-brazilci-oprezno-s-vinijem-ide-liga-sampiona/539875",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 03. 2026. у 22:13",
+      "naslov": "Selektor fudbalera Rumunije Mirčea Lučesku hitno prebačen u bolnicu",
+      "url": "https://www.tanjug.rs/sport/fudbal/241220/selektor-fudbalera-rumunije-mircea-lucesku-hitno-prebacen-u-bolnicu/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 03. 2026. у 11:39",
+      "slika": null
+    },
+    {
+      "naslov": "Mađarski sudija Balaš Berke sudiće meč između fudbalera Srbije i Saudijske Arabije",
+      "url": "https://www.tanjug.rs/sport/fudbal/241216/madarski-sudija-balas-berke-sudice-mec-izmedu-fudbalera-srbije-i-saudijske-arabije/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 03. 2026. у 11:21",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/241172/kosarkasi-san-antonija-savladali-milvoki-u-nba-ligi/vest",
       "izvor": "Танјуг",
       "datum": "28. 03. 2026. у 23:08",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Belgije ubedljivo pobedili SAD u prijateljskom meču",
-      "url": "https://www.tanjug.rs/sport/fudbal/241168/fudbaleri-belgije-ubedljivo-pobedili-sad-u-prijateljskom-mecu/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 03. 2026. у 22:52",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Japana pobedili Škotsku, Mađarska nadigrala Sloveniju",
-      "url": "https://www.tanjug.rs/sport/fudbal/241146/fudbaleri-japana-pobedili-skotsku-madarska-nadigrala-sloveniju/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 03. 2026. у 20:16",
       "slika": null
     },
     {
