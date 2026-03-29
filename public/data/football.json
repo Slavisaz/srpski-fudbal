@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-29T05:55:00.752613+00:00",
-  "azurirano_sr": "29. 03. 2026. у 07:55",
+  "azurirano": "2026-03-29T08:02:23.737522+00:00",
+  "azurirano_sr": "29. 03. 2026. у 10:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (nedelja, 29. mart): Malo fudbala, malo košarke, a tu je i finale Majamija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-nedelja-29-mart-malo-fudbala-malo-kosarke-a-tu-je-i-finale-majamija/539888",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 03. 2026. у 10:05",
+      "slika": null
+    },
     {
       "naslov": "Portugalija bez Ronalda nije ni upola atraktivna",
       "url": "https://www.mozzartsport.com/fudbal/vesti/portugalija-bez-ronalda-nije-ni-upola-atraktivna/539862",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/nije-panika-u-madridu-ali-brazilci-oprezno-s-vinijem-ide-liga-sampiona/539875",
       "izvor": "Мозарт Спорт",
       "datum": "28. 03. 2026. у 22:13",
-      "slika": null
-    },
-    {
-      "naslov": "Najveći dan u istoriji fudbalske Crne Gore: Kadeti idu na Evropsko prvenstvo i Mundijalito",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najveci-dan-u-istoriji-fudbalske-crne-gore-kadeti-idu-na-evropsko-prvenstvo-i-mundijalito/539871",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 03. 2026. у 20:56",
       "slika": null
     },
     {
