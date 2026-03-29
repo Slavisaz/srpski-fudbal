@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-03-29T18:03:11.376753+00:00",
-  "azurirano_sr": "29. 03. 2026. у 20:03",
+  "azurirano": "2026-03-29T19:49:35.519555+00:00",
+  "azurirano_sr": "29. 03. 2026. у 21:49",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Španski fudbaler Martin Zubimendi zbog povrede neće igrati protiv Egipta",
+      "url": "https://www.tanjug.rs/sport/fudbal/241322/spanski-fudbaler-martin-zubimendi-zbog-povrede-nece-igrati-protiv-egipta/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 03. 2026. у 20:47",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Crvene zvezde ubedljivo pobedili Obilić iz Zmajeva u prijateljskoj utakmici",
+      "url": "https://www.tanjug.rs/sport/fudbal/241319/fudbaleri-crvene-zvezde-ubedljivo-pobedili-obilic-iz-zmajeva-u-prijateljskoj-utakmici/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 03. 2026. у 20:18",
+      "slika": null
+    },
+    {
       "naslov": "Mimović: Posle Španije znamo šta treba da popravimo, Saudijska Arabija će biti ozbiljan test",
       "url": "https://www.tanjug.rs/sport/fudbal/241308/mimovic-posle-spanije-znamo-sta-treba-da-popravimo-saudijska-arabija-ce-biti-ozbiljan-test/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Selektor fudbalera Rumunije Lučesku se oseća bolje, ekipu protiv Slovačke vodi Gane",
-      "url": "https://www.tanjug.rs/sport/fudbal/241220/selektor-fudbalera-rumunije-lucesku-se-oseca-bolje-ekipu-protiv-slovacke-vodi-gane/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 03. 2026. у 13:12",
-      "slika": null
-    },
-    {
-      "naslov": "Mađarski sudija Balaš Berke sudiće meč između fudbalera Srbije i Saudijske Arabije",
-      "url": "https://www.tanjug.rs/sport/fudbal/241216/madarski-sudija-balas-berke-sudice-mec-izmedu-fudbalera-srbije-i-saudijske-arabije/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 03. 2026. у 11:21",
+      "naslov": "Mimović bez otkupa na Kipru – Zvezda ima priliku?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220264/mimovic-se-vraca-u-fenerbahce-pafos-odustao-od-otkupa/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 03. 2026. у 21:15",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220285/mimovic-nema-slabih-reprezentacija-svi-igraju-ozbiljan-fudbal-video/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "29. 03. 2026. у 19:15",
-      "slika": null
-    },
-    {
-      "naslov": "Muslin: &quot;Zvezda kupuje trećerazredne igrače, a hoće u LŠ&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220277/slavoljub-muslin-zvezda-kupuje-trecerazredne-igrace/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 03. 2026. у 18:20",
       "slika": null
     }
   ]
