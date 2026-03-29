@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-29T19:49:35.519555+00:00",
-  "azurirano_sr": "29. 03. 2026. у 21:49",
+  "azurirano": "2026-03-29T21:01:53.268340+00:00",
+  "azurirano_sr": "29. 03. 2026. у 23:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Džermejn Defo postao trener",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dzermejn-defo-postao-trener/539955",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 03. 2026. у 00:25",
+      "slika": null
+    },
     {
       "naslov": "Šta radi Arsenal? Novi razlog za prozivke i žigosanje, ali to je bio i Fergijev stil",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sta-radi-arsenal-novi-razlog-za-prozivke-i-zigosanje-ali-to-je-bio-i-fergijev-stil/539936",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/ekuban-o-de-rosiju-vice-mi-da-sam-fudbalski-skandal-i-da-treniram-u-papucama/539928",
       "izvor": "Мозарт Спорт",
       "datum": "29. 03. 2026. у 18:31",
-      "slika": null
-    },
-    {
-      "naslov": "Egzotika na Islandu: Šampiona izaziva najveća legija stranaca u državi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/egzotika-na-islandu-sampiona-izaziva-najveca-legija-stranaca-u-drzavi/539918",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 03. 2026. у 15:04",
       "slika": null
     },
     {
