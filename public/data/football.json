@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-29T17:06:11.035374+00:00",
-  "azurirano_sr": "29. 03. 2026. у 19:06",
+  "azurirano": "2026-03-29T18:03:11.376753+00:00",
+  "azurirano_sr": "29. 03. 2026. у 20:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Šta radi Arsenal? Novi razlog za prozivke i žigosanje, ali to je bio i Fergijev stil",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sta-radi-arsenal-novi-razlog-za-prozivke-i-zigosanje-ali-to-je-bio-i-fergijev-stil/539936",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 03. 2026. у 20:54",
+      "slika": null
+    },
     {
       "naslov": "Strahinja Stojković ne igra u Sent Etjenu? Sve je to deo plana",
       "url": "https://www.mozzartsport.com/fudbal/vesti/strahinja-stojkovic-ne-igra-u-sent-etjenu-sve-je-to-deo-plana/539927",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/egzotika-na-islandu-sampiona-izaziva-najveca-legija-stranaca-u-drzavi/539918",
       "izvor": "Мозарт Спорт",
       "datum": "29. 03. 2026. у 15:04",
-      "slika": null
-    },
-    {
-      "naslov": "Cena zlata decenije praznine: Tri Mundijala od 48 - Srbija ili osvoji svet ili na njemu ne postoji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cena-zlata-decenije-praznine-tri-mundijala-od-48-srbija-ili-osvoji-svet-ili-na-njemu-ne-postoji/539907",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 03. 2026. у 14:09",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Mimović: &quot;Nema slabih reprezentacija – svi igraju ozbiljan fudbal&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220285/mimovic-nema-slabih-reprezentacija-svi-igraju-ozbiljan-fudbal-video/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 03. 2026. у 19:15",
+      "slika": null
+    },
+    {
       "naslov": "Muslin: &quot;Zvezda kupuje trećerazredne igrače, a hoće u LŠ&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220277/slavoljub-muslin-zvezda-kupuje-trecerazredne-igrace/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "29. 03. 2026. у 18:20",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Petarda&quot; Zvezde na proslavi 100 godina Obilića VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220267/obilic-zmajevo-crvena-zvezda-05/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 03. 2026. у 17:43",
       "slika": null
     }
   ]
