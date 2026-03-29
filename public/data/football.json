@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-29T09:57:31.915745+00:00",
-  "azurirano_sr": "29. 03. 2026. у 11:57",
+  "azurirano": "2026-03-29T11:04:48.195093+00:00",
+  "azurirano_sr": "29. 03. 2026. у 13:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Cena zlata decenije praznine: Tri Mundijala od 48 - Srbija ili osvoji svet ili na njemu ne postoji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cena-zlata-decenije-praznine-tri-mundijala-od-48-srbija-ili-osvoji-svet-ili-na-njemu-ne-postoji/539907",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 03. 2026. у 14:09",
+      "slika": null
+    },
     {
       "naslov": "Toti o budućnosti Dibale: Mogu ja da ga zamenim, sa 50 godina bih imao šta da pružim na terenu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/toti-o-buducnosti-dibale-mogu-ja-da-ga-zamenim-sa-50-godina-bih-imao-sta-da-pruzim-na-terenu/539898",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/portugalija-bez-ronalda-nije-ni-upola-atraktivna/539862",
       "izvor": "Мозарт Спорт",
       "datum": "29. 03. 2026. у 00:00",
-      "slika": null
-    },
-    {
-      "naslov": "REZZIME DANA (petak): Iksevi su skupi kiksevi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-petak-iksevi-su-skupi-kiksevi/539874",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 03. 2026. у 23:57",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Poznato je i koliko novca Partizan dobija od prodaje Kostića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220102/poznato-je-i-koliko-novca-partizan-dobija-od-prodaje-kostica/vest",
+      "naslov": "Transfer koji bi uzdrmao srpski fudbal – Živković odbio Zvezdu; &quot;Nije hteo da dođe ni Ivanić&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220196/grof-bozovic-zivkovic-i-ivanic-odbili-zvezdu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "28. 03. 2026. у 22:08",
+      "datum": "29. 03. 2026. у 12:46",
       "slika": null
     },
     {
-      "naslov": "Italijani: Andrej Kostić potpisao za Milan",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220094/italijani-andrej-kostic-potpisao-za-milan/vest",
+      "naslov": "Poznato ko sudi Srbiji i Saudijskoj Arabiji",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220188/poznato-ko-sudi-srbiji-i-saudijskoj-arabiji/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "28. 03. 2026. у 21:19",
+      "datum": "29. 03. 2026. у 12:15",
       "slika": null
     }
   ]
