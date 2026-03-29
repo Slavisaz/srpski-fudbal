@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-28T23:58:53.615251+00:00",
-  "azurirano_sr": "29. 03. 2026. у 00:58",
+  "azurirano": "2026-03-29T05:55:00.752613+00:00",
+  "azurirano_sr": "29. 03. 2026. у 07:55",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Portugalija bez Ronalda nije ni upola atraktivna",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/portugalija-bez-ronalda-nije-ni-upola-atraktivna/539862",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 03. 2026. у 00:00",
+      "slika": null
+    },
     {
       "naslov": "REZZIME DANA (petak): Iksevi su skupi kiksevi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-petak-iksevi-su-skupi-kiksevi/539874",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/najveci-dan-u-istoriji-fudbalske-crne-gore-kadeti-idu-na-evropsko-prvenstvo-i-mundijalito/539871",
       "izvor": "Мозарт Спорт",
       "datum": "28. 03. 2026. у 20:56",
-      "slika": null
-    },
-    {
-      "naslov": "Milijarder iz Viđeva ne žali: Posle Bukarija još 5.000.000 za krilo Dinama",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/milijarder-iz-vieva-ne-zali-posle-bukarija-jos-5000000-za-krilo-dinama/539865",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 03. 2026. у 20:10",
       "slika": null
     },
     {
