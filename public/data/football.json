@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-29T11:04:48.195093+00:00",
-  "azurirano_sr": "29. 03. 2026. у 13:04",
+  "azurirano": "2026-03-29T11:57:46.017424+00:00",
+  "azurirano_sr": "29. 03. 2026. у 13:57",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Egzotika na Islandu: Šampiona izaziva najveća legija stranaca u državi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/egzotika-na-islandu-sampiona-izaziva-najveca-legija-stranaca-u-drzavi/539918",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 03. 2026. у 15:04",
+      "slika": null
+    },
     {
       "naslov": "Cena zlata decenije praznine: Tri Mundijala od 48 - Srbija ili osvoji svet ili na njemu ne postoji",
       "url": "https://www.mozzartsport.com/fudbal/vesti/cena-zlata-decenije-praznine-tri-mundijala-od-48-srbija-ili-osvoji-svet-ili-na-njemu-ne-postoji/539907",
@@ -25,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Portugalija bez Ronalda nije ni upola atraktivna",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/portugalija-bez-ronalda-nije-ni-upola-atraktivna/539862",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 03. 2026. у 00:00",
-      "slika": null
-    },
-    {
-      "naslov": "Selektor fudbalera Rumunije Mirčea Lučesku hitno prebačen u bolnicu",
-      "url": "https://www.tanjug.rs/sport/fudbal/241220/selektor-fudbalera-rumunije-mircea-lucesku-hitno-prebacen-u-bolnicu/vest",
+      "naslov": "Selektor fudbalera Rumunije Lučesku se oseća bolje, ekipu protiv Slovačke vodi Gane",
+      "url": "https://www.tanjug.rs/sport/fudbal/241220/selektor-fudbalera-rumunije-lucesku-se-oseca-bolje-ekipu-protiv-slovacke-vodi-gane/vest",
       "izvor": "Танјуг",
-      "datum": "29. 03. 2026. у 11:39",
+      "datum": "29. 03. 2026. у 13:12",
       "slika": null
     },
     {
