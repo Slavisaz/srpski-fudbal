@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-03-30T06:26:21.084823+00:00",
-  "azurirano_sr": "30. 03. 2026. у 08:26",
+  "azurirano": "2026-03-30T10:47:32.638170+00:00",
+  "azurirano_sr": "30. 03. 2026. у 12:47",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "NAJAVA DANA (ponedeljak): Zvezda - Dubai, Partizan Moozzart Bet sa Bosnom, plus nešto fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-ponedeljak-zvezda-dubai-partizan-moozzart-bet-sa-bosnom-plus-nesto-fudbala/539966",
+      "naslov": "Mijatović: Nisam konsultovan oko Kostićevog transfera, bio bih apsolutno protiv",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mijatovic-nisam-konsultovan-oko-kosticevog-transfera-bio-bih-apsolutno-protiv/539985",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 03. 2026. у 10:15",
+      "datum": "30. 03. 2026. у 14:27",
       "slika": null
     },
     {
-      "naslov": "LUDI TIKET (-), ponedeljak, 34.986.600 dinara: Čovek koji je uhvatio tri vratolomna prelaza zaslužuje čestitiku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-ponedeljak-34986600-dinara-covek-koji-je-uhvatio-tri-vratolomna-prelaza-zasluzuje-cestitiku/539963",
+      "naslov": "De la Fuenteovo sito: Od Egipta kreće \"prosejavanje\" za spisak od konačnih 26",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/de-la-fuenteovo-sito-od-egipta-krece-prosejavanje-za-spisak-od-konacnih-26/539983",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 03. 2026. у 08:11",
+      "datum": "30. 03. 2026. у 13:53",
       "slika": null
     },
     {
-      "naslov": "Džermejn Defo postao trener",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dzermejn-defo-postao-trener/539955",
+      "naslov": "Najskuplji igrač u istoriji kluba i zamenik kapitena ne nastupa tako",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najskuplji-igrac-u-istoriji-kluba-i-zamenik-kapitena-ne-nastupa-tako/539978",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 03. 2026. у 00:25",
+      "datum": "30. 03. 2026. у 12:47",
       "slika": null
     },
     {
-      "naslov": "Šta radi Arsenal? Novi razlog za prozivke i žigosanje, ali to je bio i Fergijev stil",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sta-radi-arsenal-novi-razlog-za-prozivke-i-zigosanje-ali-to-je-bio-i-fergijev-stil/539936",
+      "naslov": "Predrag Govedarica: Pozivi našim igračima govore da IMT stvara za budućnost",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/predrag-govedarica-pozivi-nasim-igracima-govore-da-imt-stvara-za-buducnost/539971",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 03. 2026. у 20:54",
+      "datum": "30. 03. 2026. у 11:16",
+      "slika": null
+    },
+    {
+      "naslov": "Predrag Mijatović: Nisam konsultovan oko transfera Kostića u Milan, hitno zakazati Skupštinu",
+      "url": "https://www.tanjug.rs/sport/fudbal/241440/predrag-mijatovic-nisam-konsultovan-oko-transfera-kostica-u-milan-hitno-zakazati-skupstinu/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 03. 2026. у 12:00",
+      "slika": null
+    },
+    {
+      "naslov": "Branko Radujko: Neizbežan je proces privatizacije",
+      "url": "https://www.tanjug.rs/sport/fudbal/241436/branko-radujko-neizbezan-je-proces-privatizacije/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 03. 2026. у 11:44",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Španski fudbaler Martin Zubimendi zbog povrede neće igrati protiv Egipta",
-      "url": "https://www.tanjug.rs/sport/fudbal/241322/spanski-fudbaler-martin-zubimendi-zbog-povrede-nece-igrati-protiv-egipta/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 03. 2026. у 20:47",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Crvene zvezde ubedljivo pobedili Obilić iz Zmajeva u prijateljskoj utakmici",
-      "url": "https://www.tanjug.rs/sport/fudbal/241319/fudbaleri-crvene-zvezde-ubedljivo-pobedili-obilic-iz-zmajeva-u-prijateljskoj-utakmici/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 03. 2026. у 20:18",
-      "slika": null
-    },
-    {
-      "naslov": "Mimović bez otkupa na Kipru – Zvezda ima priliku?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220264/mimovic-se-vraca-u-fenerbahce-pafos-odustao-od-otkupa/vest",
+      "naslov": "Paunović se obraća javnosti pred meč sa Saudijskom Arabijom",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220441/uzivo-prenos-konferencija-veljka-paunovica-pred-saudijsku-arabiju/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "29. 03. 2026. у 21:15",
+      "datum": "30. 03. 2026. у 12:41",
       "slika": null
     },
     {
-      "naslov": "Mimović: &quot;Nema slabih reprezentacija – svi igraju ozbiljan fudbal&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220285/mimovic-nema-slabih-reprezentacija-svi-igraju-ozbiljan-fudbal-video/vest",
+      "naslov": "Mijatović se oglasio: &quot;Ponudu za Kostića nikad nisam video – raspišite vanrednu skupštinu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220467/mijatovic-se-oglasio-ponudu-za-kostica-nikad-nisam-video-raspisite-vanrednu-skupstinu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "29. 03. 2026. у 19:15",
+      "datum": "30. 03. 2026. у 12:23",
       "slika": null
     }
   ]
