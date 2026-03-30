@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-03-30T14:53:12.820105+00:00",
-  "azurirano_sr": "30. 03. 2026. у 16:53",
+  "azurirano": "2026-03-30T17:41:09.066516+00:00",
+  "azurirano_sr": "30. 03. 2026. у 19:41",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Srbija ima bolju 'robu' od Hrvatske: Kostov procenjen na 22.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-ima-bolju-robu-od-hrvatske-kostov-procenjen-na-22000000-evra/540001",
+      "naslov": "Đoković u Zenici bodri Džeka i Zmajeve protiv Italije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/okovic-u-zenici-bodri-dzeka-i-zmajeve-protiv-italije/540018",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 03. 2026. у 17:11",
+      "datum": "30. 03. 2026. у 20:18",
       "slika": null
     },
     {
-      "naslov": "Buongiorno Italia: Italijanski paradoks - sportska velesila, fudbalski prosek",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-italijanski-paradoks-sportska-velesila-fudbalski-prosek/539996",
+      "naslov": "Otišle cene u nebesa: Diomande poskupeo za 73.500.000, najviše narasli igrači iz Bundeslige",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/otisle-cene-u-nebesa-diomande-poskupeo-za-73500000-najvise-narasli-igraci-iz-bundeslige/540016",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 03. 2026. у 15:55",
+      "datum": "30. 03. 2026. у 19:48",
       "slika": null
     },
     {
-      "naslov": "Mijatović: Nisam konsultovan oko Kostićevog transfera, bio bih apsolutno protiv",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mijatovic-nisam-konsultovan-oko-kosticevog-transfera-bio-bih-apsolutno-protiv/539985",
+      "naslov": "Konačna presuda u slučaju Emilijana Sale: Kardif plaća Nantu 480.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/konacna-presuda-u-slucaju-emilijana-sale-kardif-placa-nantu-480000-evra/540006",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 03. 2026. у 14:27",
+      "datum": "30. 03. 2026. у 19:26",
       "slika": null
     },
     {
-      "naslov": "De la Fuenteovo sito: Od Egipta kreće \"prosejavanje\" za spisak od konačnih 26",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/de-la-fuenteovo-sito-od-egipta-krece-prosejavanje-za-spisak-od-konacnih-26/539983",
+      "naslov": "Najbolji strelac Belgije može da igra za tri reprezentacije: Nagelsmane, reaguj, Argentina preti",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najbolji-strelac-belgije-moze-da-igra-za-tri-reprezentacije-nagelsmane-reaguj-argentina-preti/540012",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 03. 2026. у 13:53",
+      "datum": "30. 03. 2026. у 19:10",
+      "slika": null
+    },
+    {
+      "naslov": "Košarkaši Spartaka pobedili Studentski centar u ABA ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/241592/kosarkasi-spartaka-pobedili-studentski-centar-u-aba-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 03. 2026. у 19:00",
+      "slika": null
+    },
+    {
+      "naslov": "Portugalski fudbaler Rafael Gereiro na kraju sezone napušta Bajern",
+      "url": "https://www.tanjug.rs/sport/fudbal/241578/portugalski-fudbaler-rafael-gereiro-na-kraju-sezone-napusta-bajern/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 03. 2026. у 18:20",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Aleksandar Mitrović: Kvalitetniji smo od Saudijaca, lepa provera je pred nama",
-      "url": "https://www.tanjug.rs/sport/fudbal/241488/aleksandar-mitrovic-kvalitetniji-smo-od-saudijaca-lepa-provera-je-pred-nama/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 03. 2026. у 13:37",
-      "slika": null
-    },
-    {
-      "naslov": "Zbiljić: Daleko smo ispred Partizana, dok smo na dve oktave od Crvene zvezde",
-      "url": "https://www.tanjug.rs/sport/fudbal/241485/zbiljic-daleko-smo-ispred-partizana-dok-smo-na-dve-oktave-od-crvene-zvezde/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 03. 2026. у 13:36",
-      "slika": null
-    },
-    {
-      "naslov": "Zbiljić: &quot;Vojvodina je daleko ispred Partizana, dok je na dve oktave od Zvezde&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220521/zbiljic-vojvodina-je-daleko-ispred-partizana-dok-je-na-dve-oktave-od-zvezde/vest",
+      "naslov": "&quot;Orlići&quot; popravili utisak protiv Kirgistana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220618/orlici-popravili-utisak-protiv-kirgistana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 03. 2026. у 15:11",
+      "datum": "30. 03. 2026. у 19:09",
       "slika": null
     },
     {
-      "naslov": "Partizan ekspresno odgovorio Mijatoviću!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220529/partizan-ekspresno-odgovorio-mijatovicu/vest",
+      "naslov": "Spartak poslao izaslanika po Tiknizjana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220587/spartak-moskva-zeli-tiknizjana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 03. 2026. у 14:30",
+      "datum": "30. 03. 2026. у 17:39",
       "slika": null
     }
   ]
