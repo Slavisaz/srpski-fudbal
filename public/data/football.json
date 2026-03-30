@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-30T22:02:26.264332+00:00",
-  "azurirano_sr": "31. 03. 2026. у 00:02",
+  "azurirano": "2026-03-30T23:53:54.453366+00:00",
+  "azurirano_sr": "31. 03. 2026. у 01:53",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Povratak posle 24 godine: Hadži menja Lučeskua na klupi Rumunije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/povratak-posle-24-godine-hadzi-menja-luceskua-na-klupi-rumunije/540047",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 03. 2026. у 02:22",
+      "slika": null
+    },
     {
       "naslov": "Kup zaseda ili potvrda forme: Union na ispitu protiv ekipe iz sojinih ravnica",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kup-zaseda-ili-potvrda-forme-union-na-ispitu-protiv-ekipe-iz-sojinih-ravnica/540003",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/mirkoviceva-srbija-bez-kapitena-dzodica-popravila-utisak-protiv-kirgistana/540024",
       "izvor": "Мозарт Спорт",
       "datum": "30. 03. 2026. у 21:28",
-      "slika": null
-    },
-    {
-      "naslov": "Đoković u Zenici bodri Džeka i Zmajeve protiv Italije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/okovic-u-zenici-bodri-dzeka-i-zmajeve-protiv-italije/540018",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 03. 2026. у 20:18",
       "slika": null
     },
     {
@@ -53,10 +53,10 @@
       "slika": null
     },
     {
-      "naslov": "Košarkaši Spartaka pobedili Studentski centar u ABA ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/241592/kosarkasi-spartaka-pobedili-studentski-centar-u-aba-ligi/vest",
+      "naslov": "Mladi fudbaleri Srbije savladali Kirgistan u prijateljskoj utakmici",
+      "url": "https://www.tanjug.rs/sport/fudbal/241599/mladi-fudbaleri-srbije-savladali-kirgistan-u-prijateljskoj-utakmici/vest",
       "izvor": "Танјуг",
-      "datum": "30. 03. 2026. у 19:00",
+      "datum": "30. 03. 2026. у 19:37",
       "slika": null
     },
     {
