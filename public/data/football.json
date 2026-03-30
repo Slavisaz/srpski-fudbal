@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-03-30T17:41:09.066516+00:00",
-  "azurirano_sr": "30. 03. 2026. у 19:41",
+  "azurirano": "2026-03-30T20:03:56.138186+00:00",
+  "azurirano_sr": "30. 03. 2026. у 22:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Van der Vart: Marokanci koji nisu dovoljno dobri za Holandiju izaberu Maroko",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/van-der-vart-marokanci-koji-nisu-dovoljno-dobri-za-holandiju-izaberu-maroko/540034",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 03. 2026. у 22:55",
+      "slika": null
+    },
+    {
+      "naslov": "Mirkovićeva Srbija bez kapitena Džodića popravila utisak protiv Kirgistana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mirkoviceva-srbija-bez-kapitena-dzodica-popravila-utisak-protiv-kirgistana/540024",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 03. 2026. у 21:28",
+      "slika": null
+    },
     {
       "naslov": "Đoković u Zenici bodri Džeka i Zmajeve protiv Italije",
       "url": "https://www.mozzartsport.com/fudbal/vesti/okovic-u-zenici-bodri-dzeka-i-zmajeve-protiv-italije/540018",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Konačna presuda u slučaju Emilijana Sale: Kardif plaća Nantu 480.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/konacna-presuda-u-slucaju-emilijana-sale-kardif-placa-nantu-480000-evra/540006",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 03. 2026. у 19:26",
-      "slika": null
-    },
-    {
-      "naslov": "Najbolji strelac Belgije može da igra za tri reprezentacije: Nagelsmane, reaguj, Argentina preti",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najbolji-strelac-belgije-moze-da-igra-za-tri-reprezentacije-nagelsmane-reaguj-argentina-preti/540012",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 03. 2026. у 19:10",
+      "naslov": "Košarkaši Crvene zvezde pobedili Dubai u ABA ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/241621/kosarkasi-crvene-zvezde-pobedili-dubai-u-aba-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 03. 2026. у 21:10",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "FK Partizan: U sredu ćemo dati potpune i detaljne odgovore na sve navode Mijatovića",
-      "url": "https://www.tanjug.rs/sport/fudbal/241514/fk-partizan-u-sredu-cemo-dati-potpune-i-detaljne-odgovore-na-sve-navode-mijatovica/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 03. 2026. у 14:47",
+      "naslov": "Najskuplji fudbaleri u Srbiji i Hrvatskoj – Kostov predvodi, tu je i četvorka Partizana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220583/vasilije-kostov-najskuplji-fudbaler-u-srbiji/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "30. 03. 2026. у 20:43",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220618/orlici-popravili-utisak-protiv-kirgistana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "30. 03. 2026. у 19:09",
-      "slika": null
-    },
-    {
-      "naslov": "Spartak poslao izaslanika po Tiknizjana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220587/spartak-moskva-zeli-tiknizjana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "30. 03. 2026. у 17:39",
       "slika": null
     }
   ]
