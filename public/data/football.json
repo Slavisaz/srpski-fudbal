@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-03-30T00:04:54.020721+00:00",
-  "azurirano_sr": "30. 03. 2026. у 02:04",
+  "azurirano": "2026-03-30T06:26:21.084823+00:00",
+  "azurirano_sr": "30. 03. 2026. у 08:26",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (ponedeljak): Zvezda - Dubai, Partizan Moozzart Bet sa Bosnom, plus nešto fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-ponedeljak-zvezda-dubai-partizan-moozzart-bet-sa-bosnom-plus-nesto-fudbala/539966",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 03. 2026. у 10:15",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET (-), ponedeljak, 34.986.600 dinara: Čovek koji je uhvatio tri vratolomna prelaza zaslužuje čestitiku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-ponedeljak-34986600-dinara-covek-koji-je-uhvatio-tri-vratolomna-prelaza-zasluzuje-cestitiku/539963",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 03. 2026. у 08:11",
+      "slika": null
+    },
     {
       "naslov": "Džermejn Defo postao trener",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dzermejn-defo-postao-trener/539955",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/sta-radi-arsenal-novi-razlog-za-prozivke-i-zigosanje-ali-to-je-bio-i-fergijev-stil/539936",
       "izvor": "Мозарт Спорт",
       "datum": "29. 03. 2026. у 20:54",
-      "slika": null
-    },
-    {
-      "naslov": "Strahinja Stojković ne igra u Sent Etjenu? Sve je to deo plana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/strahinja-stojkovic-ne-igra-u-sent-etjenu-sve-je-to-deo-plana/539927",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 03. 2026. у 18:41",
-      "slika": null
-    },
-    {
-      "naslov": "Ekuban o De Rosiju: Viče mi da sam fudbalski skandal i da treniram u papučama",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ekuban-o-de-rosiju-vice-mi-da-sam-fudbalski-skandal-i-da-treniram-u-papucama/539928",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 03. 2026. у 18:31",
       "slika": null
     },
     {
