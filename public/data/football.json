@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-03-30T10:47:32.638170+00:00",
-  "azurirano_sr": "30. 03. 2026. у 12:47",
+  "azurirano": "2026-03-30T14:53:12.820105+00:00",
+  "azurirano_sr": "30. 03. 2026. у 16:53",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbija ima bolju 'robu' od Hrvatske: Kostov procenjen na 22.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-ima-bolju-robu-od-hrvatske-kostov-procenjen-na-22000000-evra/540001",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 03. 2026. у 17:11",
+      "slika": null
+    },
+    {
+      "naslov": "Buongiorno Italia: Italijanski paradoks - sportska velesila, fudbalski prosek",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-italijanski-paradoks-sportska-velesila-fudbalski-prosek/539996",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 03. 2026. у 15:55",
+      "slika": null
+    },
     {
       "naslov": "Mijatović: Nisam konsultovan oko Kostićevog transfera, bio bih apsolutno protiv",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mijatovic-nisam-konsultovan-oko-kosticevog-transfera-bio-bih-apsolutno-protiv/539985",
@@ -18,59 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Najskuplji igrač u istoriji kluba i zamenik kapitena ne nastupa tako",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najskuplji-igrac-u-istoriji-kluba-i-zamenik-kapitena-ne-nastupa-tako/539978",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 03. 2026. у 12:47",
-      "slika": null
-    },
-    {
-      "naslov": "Predrag Govedarica: Pozivi našim igračima govore da IMT stvara za budućnost",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/predrag-govedarica-pozivi-nasim-igracima-govore-da-imt-stvara-za-buducnost/539971",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 03. 2026. у 11:16",
-      "slika": null
-    },
-    {
-      "naslov": "Predrag Mijatović: Nisam konsultovan oko transfera Kostića u Milan, hitno zakazati Skupštinu",
-      "url": "https://www.tanjug.rs/sport/fudbal/241440/predrag-mijatovic-nisam-konsultovan-oko-transfera-kostica-u-milan-hitno-zakazati-skupstinu/vest",
+      "naslov": "Branko Radujko: Započeli smo temeljne reforme, nastavićemo ih odlučno",
+      "url": "https://www.tanjug.rs/sport/fudbal/241436/branko-radujko-zapoceli-smo-temeljne-reforme-nastavicemo-ih-odlucno/vest",
       "izvor": "Танјуг",
-      "datum": "30. 03. 2026. у 12:00",
+      "datum": "30. 03. 2026. у 15:13",
       "slika": null
     },
     {
-      "naslov": "Branko Radujko: Neizbežan je proces privatizacije",
-      "url": "https://www.tanjug.rs/sport/fudbal/241436/branko-radujko-neizbezan-je-proces-privatizacije/vest",
+      "naslov": "FK Partizan: U sredu ćemo dati potpune i detaljne odgovore na sve navode Mijatovića",
+      "url": "https://www.tanjug.rs/sport/fudbal/241514/fk-partizan-u-sredu-cemo-dati-potpune-i-detaljne-odgovore-na-sve-navode-mijatovica/vest",
       "izvor": "Танјуг",
-      "datum": "30. 03. 2026. у 11:44",
+      "datum": "30. 03. 2026. у 14:47",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Francuske nadigrali Kolumbiju u prijateljskom meču",
-      "url": "https://www.tanjug.rs/sport/fudbal/241339/fudbaleri-francuske-nadigrali-kolumbiju-u-prijateljskom-mecu/vest",
+      "naslov": "Aleksandar Mitrović: Kvalitetniji smo od Saudijaca, lepa provera je pred nama",
+      "url": "https://www.tanjug.rs/sport/fudbal/241488/aleksandar-mitrovic-kvalitetniji-smo-od-saudijaca-lepa-provera-je-pred-nama/vest",
       "izvor": "Танјуг",
-      "datum": "29. 03. 2026. у 23:12",
+      "datum": "30. 03. 2026. у 13:37",
       "slika": null
     },
     {
-      "naslov": "Vinisijus spreman za prijateljsku utakmicu protiv Hrvatske",
-      "url": "https://www.tanjug.rs/sport/fudbal/241329/vinisijus-spreman-za-prijateljsku-utakmicu-protiv-hrvatske/vest",
+      "naslov": "Zbiljić: Daleko smo ispred Partizana, dok smo na dve oktave od Crvene zvezde",
+      "url": "https://www.tanjug.rs/sport/fudbal/241485/zbiljic-daleko-smo-ispred-partizana-dok-smo-na-dve-oktave-od-crvene-zvezde/vest",
       "izvor": "Танјуг",
-      "datum": "29. 03. 2026. у 21:53",
+      "datum": "30. 03. 2026. у 13:36",
       "slika": null
     },
     {
-      "naslov": "Paunović se obraća javnosti pred meč sa Saudijskom Arabijom",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220441/uzivo-prenos-konferencija-veljka-paunovica-pred-saudijsku-arabiju/vest",
+      "naslov": "Zbiljić: &quot;Vojvodina je daleko ispred Partizana, dok je na dve oktave od Zvezde&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220521/zbiljic-vojvodina-je-daleko-ispred-partizana-dok-je-na-dve-oktave-od-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 03. 2026. у 12:41",
+      "datum": "30. 03. 2026. у 15:11",
       "slika": null
     },
     {
-      "naslov": "Mijatović se oglasio: &quot;Ponudu za Kostića nikad nisam video – raspišite vanrednu skupštinu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220467/mijatovic-se-oglasio-ponudu-za-kostica-nikad-nisam-video-raspisite-vanrednu-skupstinu/vest",
+      "naslov": "Partizan ekspresno odgovorio Mijatoviću!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220529/partizan-ekspresno-odgovorio-mijatovicu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 03. 2026. у 12:23",
+      "datum": "30. 03. 2026. у 14:30",
       "slika": null
     }
   ]
