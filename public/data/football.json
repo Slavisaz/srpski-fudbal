@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-30T20:03:56.138186+00:00",
-  "azurirano_sr": "30. 03. 2026. у 22:03",
+  "azurirano": "2026-03-30T22:02:26.264332+00:00",
+  "azurirano_sr": "31. 03. 2026. у 00:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kup zaseda ili potvrda forme: Union na ispitu protiv ekipe iz sojinih ravnica",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kup-zaseda-ili-potvrda-forme-union-na-ispitu-protiv-ekipe-iz-sojinih-ravnica/540003",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 03. 2026. у 23:58",
+      "slika": null
+    },
     {
       "naslov": "Van der Vart: Marokanci koji nisu dovoljno dobri za Holandiju izaberu Maroko",
       "url": "https://www.mozzartsport.com/fudbal/vesti/van-der-vart-marokanci-koji-nisu-dovoljno-dobri-za-holandiju-izaberu-maroko/540034",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Otišle cene u nebesa: Diomande poskupeo za 73.500.000, najviše narasli igrači iz Bundeslige",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/otisle-cene-u-nebesa-diomande-poskupeo-za-73500000-najvise-narasli-igraci-iz-bundeslige/540016",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 03. 2026. у 19:48",
+      "naslov": "Penjaroja: Važna pobeda, od sutra razmišljamo o derbiju",
+      "url": "https://www.tanjug.rs/sport/fudbal/241641/penjaroja-vazna-pobeda-od-sutra-razmisljamo-o-derbiju/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 03. 2026. у 23:28",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Nemačke savladali Ganu u prijateljskoj utakmici",
+      "url": "https://www.tanjug.rs/sport/fudbal/241637/fudbaleri-nemacke-savladali-ganu-u-prijateljskoj-utakmici/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 03. 2026. у 23:17",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/241592/kosarkasi-spartaka-pobedili-studentski-centar-u-aba-ligi/vest",
       "izvor": "Танјуг",
       "datum": "30. 03. 2026. у 19:00",
-      "slika": null
-    },
-    {
-      "naslov": "Portugalski fudbaler Rafael Gereiro na kraju sezone napušta Bajern",
-      "url": "https://www.tanjug.rs/sport/fudbal/241578/portugalski-fudbaler-rafael-gereiro-na-kraju-sezone-napusta-bajern/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 03. 2026. у 18:20",
-      "slika": null
-    },
-    {
-      "naslov": "Branko Radujko: Započeli smo temeljne reforme, nastavićemo ih odlučno",
-      "url": "https://www.tanjug.rs/sport/fudbal/241436/branko-radujko-zapoceli-smo-temeljne-reforme-nastavicemo-ih-odlucno/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 03. 2026. у 15:13",
       "slika": null
     },
     {
