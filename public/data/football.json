@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-31T21:08:05.486317+00:00",
-  "azurirano_sr": "31. 03. 2026. у 23:08",
+  "azurirano": "2026-03-31T22:54:16.343891+00:00",
+  "azurirano_sr": "1. 04. 2026. у 00:54",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "REZZIME DANA (utorak): Lista precrtanih - Italija, Španija, Engleska... Srbija dobra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-utorak-lista-precrtanih-italija-spanija-engleska-srbija-dobra/540120",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 04. 2026. у 01:25",
+      "slika": null
+    },
     {
       "naslov": "Sergej je majstor fudbala, a Samardžić će postati majstor fudbala",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sergej-je-majstor-fudbala-a-samardzic-ce-postati-majstor-fudbala/540110",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Paunović: Fudbal se igra ljut i gladan, trebaju nam karakteri kao Pavlovićev",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/paunovic-fudbal-se-igra-ljut-i-gladan-trebaju-nam-karakteri-kao-pavlovicev/540103",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 03. 2026. у 22:11",
+      "naslov": "Fudbaleri Italije i Danske bez plasmana na Svetsko prvenstvo, BiH i Češka posle penala do Mundijala",
+      "url": "https://www.tanjug.rs/sport/fudbal/241946/fudbaleri-italije-i-danske-bez-plasmana-na-svetsko-prvenstvo-bih-i-ceska-posle-penala-do-mundijala/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 03. 2026. у 23:58",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Japana pobedili Englesku, remi Španije i Egipta",
+      "url": "https://www.tanjug.rs/sport/fudbal/241938/fudbaleri-japana-pobedili-englesku-remi-spanije-i-egipta/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 03. 2026. у 23:12",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/241931/vaterpolisti-novog-beograda-porazeni-od-brese-u-ligi-sampiona/vest",
       "izvor": "Танјуг",
       "datum": "31. 03. 2026. у 22:30",
-      "slika": null
-    },
-    {
-      "naslov": "Svetislav Pešić završava trenersku karijeru na kraju sezone",
-      "url": "https://www.tanjug.rs/sport/fudbal/241924/svetislav-pesic-zavrsava-trenersku-karijeru-na-kraju-sezone/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 03. 2026. у 21:51",
-      "slika": null
-    },
-    {
-      "naslov": "Veljko Paunović: Važna pobeda, zadovoljan sam procesom u kojem se nalazimo",
-      "url": "https://www.tanjug.rs/sport/fudbal/241902/veljko-paunovic-vazna-pobeda-zadovoljan-sam-procesom-u-kojem-se-nalazimo/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 03. 2026. у 21:30",
       "slika": null
     },
     {
