@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-03-31T05:56:31.802078+00:00",
-  "azurirano_sr": "31. 03. 2026. у 07:56",
+  "azurirano": "2026-03-31T09:45:07.427796+00:00",
+  "azurirano_sr": "31. 03. 2026. у 11:45",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Povratak posle 24 godine: Hadži menja Lučeskua na klupi Rumunije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/povratak-posle-24-godine-hadzi-menja-luceskua-na-klupi-rumunije/540047",
+      "naslov": "Sud da radi posao, zločinci da plate! Predsedniče, utajio si 19 milijardi, plenimo ti imovinu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sud-da-radi-posao-zlocinci-da-plate-predsednice-utajio-si-19-milijardi-plenimo-ti-imovinu/540062",
       "izvor": "Мозарт Спорт",
-      "datum": "31. 03. 2026. у 02:22",
+      "datum": "31. 03. 2026. у 13:02",
       "slika": null
     },
     {
-      "naslov": "Kup zaseda ili potvrda forme: Union na ispitu protiv ekipe iz sojinih ravnica",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kup-zaseda-ili-potvrda-forme-union-na-ispitu-protiv-ekipe-iz-sojinih-ravnica/540003",
+      "naslov": "Raport sa srpskoligaških terena: Malo gledalaca, malo golova i Elemirci prvi u Vojvodini",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-malo-gledalaca-malo-golova-i-elemirci-prvi-u-vojvodini/540055",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 03. 2026. у 23:58",
+      "datum": "31. 03. 2026. у 11:00",
       "slika": null
     },
     {
-      "naslov": "Van der Vart: Marokanci koji nisu dovoljno dobri za Holandiju izaberu Maroko",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/van-der-vart-marokanci-koji-nisu-dovoljno-dobri-za-holandiju-izaberu-maroko/540034",
+      "naslov": "Profesionalna priča veziste Partizana i Vitesea: Kako je dečak sa Konjarnika postao učitelj fudbala u Singapuru...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/profesionalna-prica-veziste-partizana-i-vitesea-kako-je-decak-sa-konjarnika-postao-ucitelj-fudbala-u-singapuru/540017",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 03. 2026. у 22:55",
+      "datum": "31. 03. 2026. у 10:42",
       "slika": null
     },
     {
-      "naslov": "Mirkovićeva Srbija bez kapitena Džodića popravila utisak protiv Kirgistana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mirkoviceva-srbija-bez-kapitena-dzodica-popravila-utisak-protiv-kirgistana/540024",
+      "naslov": "LUDI TIKET (-), utorak, 1.364.334 dinara: Priča nesuđenog Mozzart milonera iz Sarajevske",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-utorak-1364334-dinara-prica-nesuenog-mozzart-milonera-iz-sarajevske/540054",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 03. 2026. у 21:28",
+      "datum": "31. 03. 2026. у 10:35",
+      "slika": null
+    },
+    {
+      "naslov": "Oto Ado nije više selektor fudbalera Gane",
+      "url": "https://www.tanjug.rs/sport/fudbal/241699/oto-ado-nije-vise-selektor-fudbalera-gane/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 03. 2026. у 10:07",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Srbije danas igraju prijateljsku utakmicu protiv Saudijske Arabije",
+      "url": "https://www.tanjug.rs/sport/fudbal/241695/fudbaleri-srbije-danas-igraju-prijateljsku-utakmicu-protiv-saudijske-arabije/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 03. 2026. у 09:49",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Košarkaši Crvene zvezde pobedili Dubai u ABA ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/241621/kosarkasi-crvene-zvezde-pobedili-dubai-u-aba-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 03. 2026. у 21:10",
-      "slika": null
-    },
-    {
-      "naslov": "Mladi fudbaleri Srbije savladali Kirgistan u prijateljskoj utakmici",
-      "url": "https://www.tanjug.rs/sport/fudbal/241599/mladi-fudbaleri-srbije-savladali-kirgistan-u-prijateljskoj-utakmici/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 03. 2026. у 19:37",
-      "slika": null
-    },
-    {
-      "naslov": "Najskuplji fudbaleri u Srbiji i Hrvatskoj – Kostov predvodi, tu je i četvorka Partizana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220583/vasilije-kostov-najskuplji-fudbaler-u-srbiji/vest",
+      "naslov": "Poznato za koliko Kostić odlazi – milioni u startu, bonusi na vidiku, a tu su i procenti",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220766/partizan-potvrdio-odlazak-andreja-kostica-za-osam-miliona-evra/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 03. 2026. у 20:43",
+      "datum": "31. 03. 2026. у 11:36",
       "slika": null
     },
     {
-      "naslov": "&quot;Orlići&quot; popravili utisak protiv Kirgistana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220618/orlici-popravili-utisak-protiv-kirgistana/vest",
+      "naslov": "Nešto sasvim neobično i retko",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220502/najava-pripremne-utakmice-srbija-saudijska-arabija-u-backoj-topoli/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 03. 2026. у 19:09",
+      "datum": "31. 03. 2026. у 09:56",
       "slika": null
     }
   ]
