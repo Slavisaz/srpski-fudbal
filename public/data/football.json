@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-01T22:02:28.254009+00:00",
-  "azurirano_sr": "2. 04. 2026. у 00:02",
+  "azurirano": "2026-04-01T23:51:54.976177+00:00",
+  "azurirano_sr": "2. 04. 2026. у 01:51",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -22,13 +22,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/bosanci-nastavili-tradiciju-dugu-tri-decenije-na-svakom-mundijalu-po-dve-exyu-reprezentacije/540144",
       "izvor": "Мозарт Спорт",
       "datum": "1. 04. 2026. у 12:14",
-      "slika": null
-    },
-    {
-      "naslov": "Štoper BiH: Samo fudbal donosi ovakvu radost napaćenim zemljama, plačem i tresem se od emocija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/stoper-bih-samo-fudbal-donosi-ovakvu-radost-napacenim-zemljama-placem-i-tresem-se-od-emocija/540126",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 04. 2026. у 03:05",
       "slika": null
     },
     {
@@ -71,6 +64,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221267/srdjan-jovanovic-sudi-mec-radnik-surdulica-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "1. 04. 2026. у 18:12",
+      "slika": null
+    },
+    {
+      "naslov": "Petrić: &quot;Da ovaj uspeh ne ostane samo lepa uspomena&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221244/petric-da-ovaj-uspeh-ne-ostane-samo-lepa-uspomena/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 04. 2026. у 17:10",
       "slika": null
     }
   ]
