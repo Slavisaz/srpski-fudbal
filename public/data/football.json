@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-03-31T22:54:16.343891+00:00",
-  "azurirano_sr": "1. 04. 2026. у 00:54",
+  "azurirano": "2026-04-01T00:03:11.644492+00:00",
+  "azurirano_sr": "1. 04. 2026. у 02:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Štoper BiH: Samo fudbal donosi ovakvu radost napaćenim zemljama, plačem i tresem se od emocija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stoper-bih-samo-fudbal-donosi-ovakvu-radost-napacenim-zemljama-placem-i-tresem-se-od-emocija/540126",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 04. 2026. у 03:05",
+      "slika": null
+    },
     {
       "naslov": "REZZIME DANA (utorak): Lista precrtanih - Italija, Španija, Engleska... Srbija dobra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-utorak-lista-precrtanih-italija-spanija-engleska-srbija-dobra/540120",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/ocene-srbija-van-basten-li-je-pavlovic-li-je-i-da-li-se-terzic-iskupio-asistencijom/540109",
       "izvor": "Мозарт Спорт",
       "datum": "31. 03. 2026. у 22:45",
-      "slika": null
-    },
-    {
-      "naslov": "Makazice iz Pavlovićevog ugla: Gol nisam video, kroz glavu mi prošlo finale Kupa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/makazice-iz-pavlovicevog-ugla-gol-nisam-video-kroz-glavu-mi-proslo-finale-kupa/540108",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 03. 2026. у 22:41",
       "slika": null
     },
     {
