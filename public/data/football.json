@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-01T10:15:14.422201+00:00",
-  "azurirano_sr": "1. 04. 2026. у 12:15",
+  "azurirano": "2026-04-01T14:51:39.389667+00:00",
+  "azurirano_sr": "1. 04. 2026. у 16:51",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Gordan Petrić: Napravili smo veliki uspeh plasmanom na Evropsko prvenstvo, momci imaju kvalitet",
+      "url": "https://www.tanjug.rs/sport/fudbal/242129/gordan-petric-napravili-smo-veliki-uspeh-plasmanom-na-evropsko-prvenstvo-momci-imaju-kvalitet/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 04. 2026. у 16:29",
+      "slika": null
+    },
+    {
+      "naslov": "Upravni odbor FK Partizan: Mijatović se sam udaljio iz procesa donošenja odluka",
+      "url": "https://www.tanjug.rs/sport/fudbal/242120/upravni-odbor-fk-partizan-mijatovic-se-sam-udaljio-iz-procesa-donosenja-odluka/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 04. 2026. у 16:00",
+      "slika": null
+    },
+    {
       "naslov": "Đenaro Gatuzo: Nismo zaslužili ovo, nije vreme da pričamo o mojoj budućnosti",
       "url": "https://www.tanjug.rs/sport/fudbal/242016/denaro-gatuzo-nismo-zasluzili-ovo-nije-vreme-da-pricamo-o-mojoj-buducnosti/vest",
       "izvor": "Танјуг",
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri DR Konga i Iraka izborili plasman na Svetsko prvenstvo, poznato svh 48 učesnika",
-      "url": "https://www.tanjug.rs/sport/fudbal/241992/fudbaleri-dr-konga-i-iraka-izborili-plasman-na-svetsko-prvenstvo-poznato-svh-48-ucesnika/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 04. 2026. у 09:18",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Italije i Danske bez plasmana na Svetsko prvenstvo, BiH i Češka posle penala do Mundijala",
-      "url": "https://www.tanjug.rs/sport/fudbal/241946/fudbaleri-italije-i-danske-bez-plasmana-na-svetsko-prvenstvo-bih-i-ceska-posle-penala-do-mundijala/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 03. 2026. у 23:58",
+      "naslov": "Partizan opet odgovorio Mijatoviću: &quot;Mogao bi da dovede do suspenzije kluba&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221228/saopstenje-partizana-i-odgovor-predragu-mijatovicu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 04. 2026. у 15:45",
       "slika": null
     },
     {
       "naslov": "&quot;Privatizacija mora da se uradi kako bi fudbal krenuo gore&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/221121/matijasevic-privatizacija-mora-da-se-uradi-kako-bi-fudbal-krenuo-gore-video/vest",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221121/matijasevic-privatizacija-mora-da-se-uradi-kako-bi-fudbal-krenuo-gore-video/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "1. 04. 2026. у 11:52",
-      "slika": null
-    },
-    {
-      "naslov": "Ko je gladan, a ko ljut?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221031/analiza-utakmice-srbija-saudijska-arabija-i-reprezentacije-sa-veljkom-paunovicem/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 04. 2026. у 11:22",
       "slika": null
     }
   ]
