@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-01T06:15:16.675019+00:00",
-  "azurirano_sr": "1. 04. 2026. у 08:15",
+  "azurirano": "2026-04-01T10:15:14.422201+00:00",
+  "azurirano_sr": "1. 04. 2026. у 12:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Bosanci nastavili tradiciju dugu tri decenije: Na svakom Mundijalu po dve ex-yu reprezentacije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bosanci-nastavili-tradiciju-dugu-tri-decenije-na-svakom-mundijalu-po-dve-exyu-reprezentacije/540144",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 04. 2026. у 12:14",
+      "slika": null
+    },
     {
       "naslov": "Štoper BiH: Samo fudbal donosi ovakvu radost napaćenim zemljama, plačem i tresem se od emocija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/stoper-bih-samo-fudbal-donosi-ovakvu-radost-napacenim-zemljama-placem-i-tresem-se-od-emocija/540126",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "OCENE - SRBIJA: Van Basten li je, Pavlović li je? I da li se Terzić iskupio asistencijom?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ocene-srbija-van-basten-li-je-pavlovic-li-je-i-da-li-se-terzic-iskupio-asistencijom/540109",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 03. 2026. у 22:45",
+      "naslov": "Đenaro Gatuzo: Nismo zaslužili ovo, nije vreme da pričamo o mojoj budućnosti",
+      "url": "https://www.tanjug.rs/sport/fudbal/242016/denaro-gatuzo-nismo-zasluzili-ovo-nije-vreme-da-pricamo-o-mojoj-buducnosti/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 04. 2026. у 11:07",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Brazila nadigrali Hrvatsku, Argentina ubedljiva protiv Zambije",
+      "url": "https://www.tanjug.rs/sport/fudbal/242002/fudbaleri-brazila-nadigrali-hrvatsku-argentina-ubedljiva-protiv-zambije/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 04. 2026. у 09:58",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri DR Konga i Iraka izborili plasman na Svetsko prvenstvo, poznato svh 48 učesnika",
+      "url": "https://www.tanjug.rs/sport/fudbal/241992/fudbaleri-dr-konga-i-iraka-izborili-plasman-na-svetsko-prvenstvo-poznato-svh-48-ucesnika/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 04. 2026. у 09:18",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Japana pobedili Englesku, remi Španije i Egipta",
-      "url": "https://www.tanjug.rs/sport/fudbal/241938/fudbaleri-japana-pobedili-englesku-remi-spanije-i-egipta/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 03. 2026. у 23:12",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Švedske i Turske izborili plasman na Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/241933/fudbaleri-svedske-i-turske-izborili-plasman-na-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 03. 2026. у 22:49",
-      "slika": null
-    },
-    {
-      "naslov": "Vaterpolisti Novog Beograda poraženi od Breše u Ligi šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/241931/vaterpolisti-novog-beograda-porazeni-od-brese-u-ligi-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 03. 2026. у 22:30",
-      "slika": null
-    },
-    {
-      "naslov": "Spektakularan preokret Srbije; &quot;Jedan od najlepših golova u istoriji reprezentacije&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220881/prijateljska-utakmica-srbija-saudijska-arabija-21-01-makazice-pavlovica/vest",
+      "naslov": "&quot;Privatizacija mora da se uradi kako bi fudbal krenuo gore&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/221121/matijasevic-privatizacija-mora-da-se-uradi-kako-bi-fudbal-krenuo-gore-video/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "31. 03. 2026. у 21:30",
+      "datum": "1. 04. 2026. у 11:52",
       "slika": null
     },
     {
-      "naslov": "Mitrović: &quot;Dokle god dobijam poziv, uživaću&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/220973/mitrovic-dokle-god-dobijam-poziv-uzivacu-video/vest",
+      "naslov": "Ko je gladan, a ko ljut?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221031/analiza-utakmice-srbija-saudijska-arabija-i-reprezentacije-sa-veljkom-paunovicem/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "31. 03. 2026. у 21:19",
+      "datum": "1. 04. 2026. у 11:22",
       "slika": null
     }
   ]
