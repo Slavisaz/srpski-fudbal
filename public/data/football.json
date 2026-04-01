@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-01T14:51:39.389667+00:00",
-  "azurirano_sr": "1. 04. 2026. у 16:51",
+  "azurirano": "2026-04-01T17:38:47.685294+00:00",
+  "azurirano_sr": "1. 04. 2026. у 19:38",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Brate, ima li mesta za mene? Ima, kako nema: Snajder opet na terenu, trener postavio ultimatum",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/brate-ima-li-mesta-za-mene-ima-kako-nema-snajder-opet-na-terenu-trener-postavio-ultimatum/540185",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 04. 2026. у 21:20",
+      "slika": null
+    },
+    {
+      "naslov": "Prepucavanje ministra i predsednika Saveza: Reforma italijanskog fudbala mora da krene od vrha",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prepucavanje-ministra-i-predsednika-saveza-reforma-italijanskog-fudbala-mora-da-krene-od-vrha/540181",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 04. 2026. у 19:54",
+      "slika": null
+    },
     {
       "naslov": "Bosanci nastavili tradiciju dugu tri decenije: Na svakom Mundijalu po dve ex-yu reprezentacije",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bosanci-nastavili-tradiciju-dugu-tri-decenije-na-svakom-mundijalu-po-dve-exyu-reprezentacije/540144",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "REZZIME DANA (utorak): Lista precrtanih - Italija, Španija, Engleska... Srbija dobra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-utorak-lista-precrtanih-italija-spanija-engleska-srbija-dobra/540120",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 04. 2026. у 01:25",
+      "naslov": "Andrea Abodi: Proces oporavka italijanskog fudbala mora početi promenom rukovodstva Saveza",
+      "url": "https://www.tanjug.rs/sport/fudbal/242150/andrea-abodi-proces-oporavka-italijanskog-fudbala-mora-poceti-promenom-rukovodstva-saveza/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 04. 2026. у 17:20",
       "slika": null
     },
     {
-      "naslov": "Sergej je majstor fudbala, a Samardžić će postati majstor fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sergej-je-majstor-fudbala-a-samardzic-ce-postati-majstor-fudbala/540110",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 03. 2026. у 22:58",
+      "naslov": "Fudbalska reprezentacija Srbije zadržala 39. mesto na najnovijoj FIFA rang listi",
+      "url": "https://www.tanjug.rs/sport/fudbal/242136/fudbalska-reprezentacija-srbije-zadrzala-39-mesto-na-najnovijoj-fifa-rang-listi/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 04. 2026. у 16:47",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Đenaro Gatuzo: Nismo zaslužili ovo, nije vreme da pričamo o mojoj budućnosti",
-      "url": "https://www.tanjug.rs/sport/fudbal/242016/denaro-gatuzo-nismo-zasluzili-ovo-nije-vreme-da-pricamo-o-mojoj-buducnosti/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 04. 2026. у 11:07",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Brazila nadigrali Hrvatsku, Argentina ubedljiva protiv Zambije",
-      "url": "https://www.tanjug.rs/sport/fudbal/242002/fudbaleri-brazila-nadigrali-hrvatsku-argentina-ubedljiva-protiv-zambije/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 04. 2026. у 09:58",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan opet odgovorio Mijatoviću: &quot;Mogao bi da dovede do suspenzije kluba&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221228/saopstenje-partizana-i-odgovor-predragu-mijatovicu/vest",
+      "naslov": "I to se desilo – Srđan Jovanović sudi Crvenoj zvezdi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221267/srdjan-jovanovic-sudi-mec-radnik-surdulica-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 04. 2026. у 15:45",
+      "datum": "1. 04. 2026. у 18:12",
       "slika": null
     },
     {
-      "naslov": "&quot;Privatizacija mora da se uradi kako bi fudbal krenuo gore&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221121/matijasevic-privatizacija-mora-da-se-uradi-kako-bi-fudbal-krenuo-gore-video/vest",
+      "naslov": "Petrić: &quot;Da ovaj uspeh ne ostane samo lepa uspomena&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221244/petric-da-ovaj-uspeh-ne-ostane-samo-lepa-uspomena/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 04. 2026. у 11:52",
+      "datum": "1. 04. 2026. у 17:10",
       "slika": null
     }
   ]
