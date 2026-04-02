@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-02T17:38:28.897035+00:00",
-  "azurirano_sr": "2. 04. 2026. у 19:38",
+  "azurirano": "2026-04-02T19:59:32.792696+00:00",
+  "azurirano_sr": "2. 04. 2026. у 21:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dosije Bađo: Šta se nalazilo u planu od 900 stranica koji je završio u kanti za smeće?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dosije-bao-sta-se-nalazilo-u-planu-od-900-stranica-koji-je-zavrsio-u-kanti-za-smece/540261",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 04. 2026. у 21:48",
+      "slika": null
+    },
     {
       "naslov": "Fudbal u službi zdravlja: FSS skrenuo pažnju na sindrom RED-S",
       "url": "https://www.mozzartsport.com/fudbal/vesti/fudbal-u-sluzbi-zdravlja-fss-skrenuo-paznju-na-sindrom-reds/540250",
@@ -25,15 +32,8 @@
       "slika": null
     },
     {
-      "naslov": "Vazura opet oko Partizana: U pričama oko Simićevog transfera, lobira za podršku Mijatoviću",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vazura-opet-oko-partizana-u-pricama-oko-simicevog-transfera-lobira-za-podrsku-mijatovicu/540230",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 04. 2026. у 16:43",
-      "slika": null
-    },
-    {
-      "naslov": "FK Crvena zvezda upriličio svečani doček za omladinske i kadetske reprezentativce",
-      "url": "https://www.tanjug.rs/sport/fudbal/242391/fk-crvena-zvezda-uprilicio-svecani-docek-za-omladinske-i-kadetske-reprezentativce/vest",
+      "naslov": "Fudbalski klub Crvena zvezda upriličio svečani doček za omladinske i kadetske reprezentativce",
+      "url": "https://www.tanjug.rs/sport/fudbal/242391/fudbalski-klub-crvena-zvezda-uprilicio-svecani-docek-za-omladinske-i-kadetske-reprezentativce/vest",
       "izvor": "Танјуг",
       "datum": "2. 04. 2026. у 17:10",
       "slika": null
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbal u službi zdravlja: FSS prvi u regionu skrenuo pažnju na sindrom REDs",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221595/fudbal-u-sluzbi-zdravlja-fss-prvi-u-regionu-skrenuo-paznju-na-sindrom-reds/vest",
+      "naslov": "Paunović: &quot;Ova grupa će ostvariti rezultate koje zaslužuje&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221632/paunovic-ova-grupa-ce-ostvariti-rezultate-koje-zasluzuje/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 04. 2026. у 18:13",
+      "datum": "2. 04. 2026. у 20:22",
       "slika": null
     },
     {
-      "naslov": "Petrović o povratku u Zvezdu: &quot;Rekao sam da me ne obaveštavaju o tim transferima&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221588/njegos-petrovic-o-transferu-u-fk-crvena-zvezda/vest",
+      "naslov": "Čukarički poslao trećeg golmana u Ameriku",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221584/cukaricki-poslao-treceg-golmana-u-ameriku/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 04. 2026. у 17:53",
+      "datum": "2. 04. 2026. у 20:10",
       "slika": null
     }
   ]
