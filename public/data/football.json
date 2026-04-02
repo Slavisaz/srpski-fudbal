@@ -1,27 +1,34 @@
 {
-  "azurirano": "2026-04-02T05:50:19.718470+00:00",
-  "azurirano_sr": "2. 04. 2026. у 07:50",
+  "azurirano": "2026-04-02T08:41:33.673470+00:00",
+  "azurirano_sr": "2. 04. 2026. у 10:41",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Žarko Lazetić: Da li je menadžment zaštitio Željka Obradovića? Pričamo da je Pešić prevaziđen?!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zarko-lazetic-da-li-je-menadzment-zastitio-zeljka-obradovica-pricamo-da-je-pesic-prevazien/540215",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 04. 2026. у 12:00",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET, četvrtak, 45.310 dinara: Rasing Santander ga spasao golovima u 91. i 95. minutu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-cetvrtak-45310-dinara-rasing-santander-ga-spasao-golovima-u-91-i-95-minutu/540208",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 04. 2026. у 10:23",
+      "slika": null
+    },
+    {
+      "naslov": "NAJAVA DANA (četvrtak, 2. april): Večiti derbi na evroligaški način je centralni događaj večeri",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-cetvrtak-2-april-veciti-derbi-na-evroligaski-nacin-je-centralni-dogaaj-veceri/540164",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 04. 2026. у 10:17",
+      "slika": null
+    },
     {
       "naslov": "Brate, ima li mesta za mene? Ima, kako nema: Snajder opet na terenu, trener postavio ultimatum",
       "url": "https://www.mozzartsport.com/fudbal/vesti/brate-ima-li-mesta-za-mene-ima-kako-nema-snajder-opet-na-terenu-trener-postavio-ultimatum/540185",
       "izvor": "Мозарт Спорт",
       "datum": "1. 04. 2026. у 21:20",
-      "slika": null
-    },
-    {
-      "naslov": "Prepucavanje ministra i predsednika Saveza: Reforma italijanskog fudbala mora da krene od vrha",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prepucavanje-ministra-i-predsednika-saveza-reforma-italijanskog-fudbala-mora-da-krene-od-vrha/540181",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 04. 2026. у 19:54",
-      "slika": null
-    },
-    {
-      "naslov": "Bosanci nastavili tradiciju dugu tri decenije: Na svakom Mundijalu po dve ex-yu reprezentacije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bosanci-nastavili-tradiciju-dugu-tri-decenije-na-svakom-mundijalu-po-dve-exyu-reprezentacije/540144",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 04. 2026. у 12:14",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Brentford i Salcburg kucaju na vrata Novog Pazara",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221371/ahmed-hadzimujovic-na-radaru-salcburga-i-brentforda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 04. 2026. у 10:13",
+      "slika": null
+    },
+    {
       "naslov": "Vojvodina nije odustala od Tadića: &quot;Ceo Novi Sad živi za to!&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221299/vojvodina-nije-odustala-od-tadica-ceo-novi-sad-zivi-za-to/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "1. 04. 2026. у 21:20",
-      "slika": null
-    },
-    {
-      "naslov": "I to se desilo – Srđan Jovanović sudi Crvenoj zvezdi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221267/srdjan-jovanovic-sudi-mec-radnik-surdulica-crvena-zvezda/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 04. 2026. у 18:12",
-      "slika": null
-    },
-    {
-      "naslov": "Petrić: &quot;Da ovaj uspeh ne ostane samo lepa uspomena&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221244/petric-da-ovaj-uspeh-ne-ostane-samo-lepa-uspomena/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 04. 2026. у 17:10",
       "slika": null
     }
   ]
