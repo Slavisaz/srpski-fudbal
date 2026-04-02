@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-02T14:47:44.541255+00:00",
-  "azurirano_sr": "2. 04. 2026. у 16:47",
+  "azurirano": "2026-04-02T17:38:28.897035+00:00",
+  "azurirano_sr": "2. 04. 2026. у 19:38",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Fudbal u službi zdravlja: FSS skrenuo pažnju na sindrom RED-S",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbal-u-sluzbi-zdravlja-fss-skrenuo-paznju-na-sindrom-reds/540250",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 04. 2026. у 19:56",
+      "slika": null
+    },
+    {
+      "naslov": "Petrović: Da nije Vojvodine, ne bilo ni reprezentacije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/petrovic-da-nije-vojvodine-ne-bilo-ni-reprezentacije/540248",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 04. 2026. у 19:31",
+      "slika": null
+    },
     {
       "naslov": "Mijatović uzvraća udarac: Zašto se Rasim, Danko i Milka bave sportom, kad nisu radili u fudbalu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mijatovic-uzvraca-udarac-zasto-se-rasim-danko-i-milka-bave-sportom-kad-nisu-radili-u-fudbalu/540241",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Foden dobio upozorenje od Tuhela: Ne mogu da garantujem da će ići na Mundijal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/foden-dobio-upozorenje-od-tuhela-ne-mogu-da-garantujem-da-ce-ici-na-mundijal/540234",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 04. 2026. у 15:54",
+      "naslov": "FK Crvena zvezda upriličio svečani doček za omladinske i kadetske reprezentativce",
+      "url": "https://www.tanjug.rs/sport/fudbal/242391/fk-crvena-zvezda-uprilicio-svecani-docek-za-omladinske-i-kadetske-reprezentativce/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 04. 2026. у 17:10",
       "slika": null
     },
     {
-      "naslov": "Kosta Nedeljković od leta opet Vilina briga, Lajcpig ne namerava da ga otkupi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kosta-nedeljkovic-od-leta-opet-vilina-briga-lajcpig-ne-namerava-da-ga-otkupi/540225",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 04. 2026. у 14:12",
+      "naslov": "Mirčea Lučesku nije više selektor fudbalera Rumunije",
+      "url": "https://www.tanjug.rs/sport/fudbal/242367/mircea-lucesku-nije-vise-selektor-fudbalera-rumunije/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 04. 2026. у 16:22",
+      "slika": null
+    },
+    {
+      "naslov": "FIFA: Karta za finale predstojećeg Svetskog prvenstva u fudbalu koštaće 10.990 dolara",
+      "url": "https://www.tanjug.rs/sport/fudbal/242361/fifa-karta-za-finale-predstojeceg-svetskog-prvenstva-u-fudbalu-kostace-10990-dolara/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 04. 2026. у 16:07",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Predrag Mijatović: Navijači i javnost moraju da znaju istinu, uporno tražim Skupštinu kluba",
-      "url": "https://www.tanjug.rs/sport/fudbal/242332/predrag-mijatovic-navijaci-i-javnost-moraju-da-znaju-istinu-uporno-trazim-skupstinu-kluba/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 04. 2026. у 15:00",
-      "slika": null
-    },
-    {
-      "naslov": "Tanjga: IMT još jedna stanica ka našem cilju, ne želimo da propustimo ovakvu šansu",
-      "url": "https://www.tanjug.rs/sport/fudbal/242315/tanjga-imt-jos-jedna-stanica-ka-nasem-cilju-ne-zelimo-da-propustimo-ovakvu-sansu/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 04. 2026. у 14:20",
-      "slika": null
-    },
-    {
-      "naslov": "Oproštaj Salaha od Liverpula počinje u subotu utakmicom protiv Mančester Sitija u FA kupu",
-      "url": "https://www.tanjug.rs/sport/fudbal/242292/oprostaj-salaha-od-liverpula-pocinje-u-subotu-utakmicom-protiv-mancester-sitija-u-fa-kupu/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 04. 2026. у 12:56",
-      "slika": null
-    },
-    {
-      "naslov": "Belgijanci došli po Zvezdinog talenta",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221553/klub-briz-zeli-adema-avdica/vest",
+      "naslov": "Fudbal u službi zdravlja: FSS prvi u regionu skrenuo pažnju na sindrom REDs",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221595/fudbal-u-sluzbi-zdravlja-fss-prvi-u-regionu-skrenuo-paznju-na-sindrom-reds/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 04. 2026. у 16:17",
+      "datum": "2. 04. 2026. у 18:13",
       "slika": null
     },
     {
-      "naslov": "Mijatović odgovorio Partizanu: &quot;Zašto se moji napori ne uvažavaju? Tražim Skupštinu kluba!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221523/predrag-mijatovic-odgovorio-partizanu/vest",
+      "naslov": "Petrović o povratku u Zvezdu: &quot;Rekao sam da me ne obaveštavaju o tim transferima&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221588/njegos-petrovic-o-transferu-u-fk-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 04. 2026. у 15:07",
+      "datum": "2. 04. 2026. у 17:53",
       "slika": null
     }
   ]
