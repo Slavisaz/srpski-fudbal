@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-03T17:55:35.605284+00:00",
-  "azurirano_sr": "3. 04. 2026. у 19:55",
+  "azurirano": "2026-04-03T19:55:44.203304+00:00",
+  "azurirano_sr": "3. 04. 2026. у 21:55",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Lažna uzbuna: Srbija nije smenila selektora Saudijskoj Arabiji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lazna-uzbuna-srbija-nije-smenila-selektora-saudijskoj-arabiji/540352",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 04. 2026. у 23:15",
+      "slika": null
+    },
     {
       "naslov": "Lalatović pred derbi u Pančevu: Sa trojicom iz Železničara lagano bismo bili treći",
       "url": "https://www.mozzartsport.com/fudbal/vesti/lalatovic-pred-derbi-u-pancevu-sa-trojicom-iz-zeleznicara-lagano-bismo-bili-treci/540337",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Gatuzo obećao – Gatuzo održao reč: Italija traži novog selektora",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gatuzo-obecao-gatuzo-odrzao-rec-italija-trazi-novog-selektora/540330",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 04. 2026. у 17:38",
+      "naslov": "Fudbaleri TSC-a savladali Napredak u 29. kolu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/242639/fudbaleri-tsc-a-savladali-napredak-u-29-kolu-superlige-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 04. 2026. у 19:56",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Mihailo Ivanović asistent u pobedi fudbalera Milvola protiv Midlsbroa",
-      "url": "https://www.tanjug.rs/sport/fudbal/242610/mihailo-ivanovic-asistent-u-pobedi-fudbalera-milvola-protiv-midlsbroa/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 04. 2026. у 17:22",
+      "naslov": "TSC zakucao Napredak za dno Superlige",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221957/tsc-zakucao-napredak-za-dno-superlige/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 04. 2026. у 20:02",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221935/motika-produzio-ugovor-sa-olimpijom-iz-ljubljane-do-2028/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "3. 04. 2026. у 18:37",
-      "slika": null
-    },
-    {
-      "naslov": "OFK Beograd osvojio tri boda u Nišu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221925/ofk-beograd-osvojio-tri-boda-u-nisu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 04. 2026. у 17:58",
       "slika": null
     }
   ]
