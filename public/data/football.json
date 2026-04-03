@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-03T08:11:53.525211+00:00",
-  "azurirano_sr": "3. 04. 2026. у 10:11",
+  "azurirano": "2026-04-03T10:29:45.883174+00:00",
+  "azurirano_sr": "3. 04. 2026. у 12:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kako su amateri, koje su osnovali pripadnici DB-a, za sedam godina postali najbolji u zemlji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-su-amateri-koje-su-osnovali-pripadnici-dba-za-sedam-godina-postali-najbolji-u-zemlji/540305",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 04. 2026. у 13:08",
+      "slika": null
+    },
+    {
+      "naslov": "Džona Obija razbesnelo Encovo 'nuđenje': Ako mu je dosta svega, neka digne ruke i odje*e",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dzona-obija-razbesnelo-encovo-nuenje-ako-mu-je-dosta-svega-neka-digne-ruke-i-odjee/540302",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 04. 2026. у 12:24",
+      "slika": null
+    },
     {
       "naslov": "Kečevi na Rajo Valjekano i Midlsbro, uz dvojku na FCSB, najskuplji su u Mozzartu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kecevi-na-rajo-valjekano-i-midlsbro-uz-dvojku-na-fcsb-najskuplji-su-u-mozzartu/540299",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-petak-3-april-vraca-se-klupski-fudbal-a-tu-je-i-evroliga/540233",
       "izvor": "Мозарт Спорт",
       "datum": "3. 04. 2026. у 10:15",
-      "slika": null
-    },
-    {
-      "naslov": "Ima 82 godine i vidi sebe kao spasioca italijanskog fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ima-82-godine-i-vidi-sebe-kao-spasioca-italijanskog-fudbala/540283",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 04. 2026. у 03:17",
-      "slika": null
-    },
-    {
-      "naslov": "Dosije Bađo: Šta se nalazilo u planu od 900 stranica koji je završio u kanti za smeće?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dosije-bao-sta-se-nalazilo-u-planu-od-900-stranica-koji-je-zavrsio-u-kanti-za-smece/540261",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 04. 2026. у 21:48",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "&quot;Delije&quot; slave 40 godina bratskih odnosa sa Olimpijakosom",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221800/delije-slave-40-godina-bratskih-odnosa-sa-olimpijakosom/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 04. 2026. у 12:12",
+      "slika": null
+    },
+    {
       "naslov": "Paunović: &quot;Ova grupa će ostvariti rezultate koje zaslužuje&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221632/paunovic-ova-grupa-ce-ostvariti-rezultate-koje-zasluzuje/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "2. 04. 2026. у 20:22",
-      "slika": null
-    },
-    {
-      "naslov": "Čukarički poslao trećeg golmana u Ameriku",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221584/cukaricki-poslao-treceg-golmana-u-ameriku/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 04. 2026. у 20:10",
       "slika": null
     }
   ]
