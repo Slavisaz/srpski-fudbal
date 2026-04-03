@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-03T12:03:13.232663+00:00",
-  "azurirano_sr": "3. 04. 2026. у 14:03",
+  "azurirano": "2026-04-03T14:31:12.990360+00:00",
+  "azurirano_sr": "3. 04. 2026. у 16:31",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Da li je vreme da Premijer liga upozna Milvol? Ivanović asistent, Lavovi drugi na tabeli",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/da-li-je-vreme-da-premijer-liga-upozna-milvol-ivanovic-asistent-lavovi-drugi-na-tabeli/540329",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 04. 2026. у 17:41",
+      "slika": null
+    },
+    {
+      "naslov": "Gatuzo obećao – Gatuzo održao reč: Italija traži novog selektora",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gatuzo-obecao-gatuzo-odrzao-rec-italija-trazi-novog-selektora/540330",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 04. 2026. у 17:38",
+      "slika": null
+    },
     {
       "naslov": "Barsine fudbalerke opet pregazile Real pred 60.000 ljudi i za sezonu zaradile kao Injaki Penja za godinu dana",
       "url": "https://www.mozzartsport.com/fudbal/vesti/barsine-fudbalerke-opet-pregazile-real-pred-60000-ljudi-i-za-sezonu-zaradile-kao-injaki-penja-za-godinu-dana/540308",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/kako-su-amateri-koje-su-osnovali-pripadnici-dba-za-sedam-godina-postali-najbolji-u-zemlji/540305",
       "izvor": "Мозарт Спорт",
       "datum": "3. 04. 2026. у 13:08",
-      "slika": null
-    },
-    {
-      "naslov": "Džona Obija razbesnelo Encovo 'nuđenje': Ako mu je dosta svega, neka digne ruke i odje*e",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dzona-obija-razbesnelo-encovo-nuenje-ako-mu-je-dosta-svega-neka-digne-ruke-i-odjee/540302",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 04. 2026. у 12:24",
-      "slika": null
-    },
-    {
-      "naslov": "Kečevi na Rajo Valjekano i Midlsbro, uz dvojku na FCSB, najskuplji su u Mozzartu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kecevi-na-rajo-valjekano-i-midlsbro-uz-dvojku-na-fcsb-najskuplji-su-u-mozzartu/540299",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 04. 2026. у 11:59",
       "slika": null
     },
     {
@@ -46,17 +46,10 @@
       "slika": null
     },
     {
-      "naslov": "Mirčea Lučesku nije više selektor fudbalera Rumunije",
-      "url": "https://www.tanjug.rs/sport/fudbal/242367/mircea-lucesku-nije-vise-selektor-fudbalera-rumunije/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 04. 2026. у 16:22",
-      "slika": null
-    },
-    {
-      "naslov": "FIFA: Karta za finale predstojećeg Svetskog prvenstva u fudbalu koštaće 10.990 dolara",
-      "url": "https://www.tanjug.rs/sport/fudbal/242361/fifa-karta-za-finale-predstojeceg-svetskog-prvenstva-u-fudbalu-kostace-10990-dolara/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 04. 2026. у 16:07",
+      "naslov": "Srbija cilja na Mundijal: Selektorka objavila spisak",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221874/srbija-cilja-na-mundijal-selektorka-objavila-spisak/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 04. 2026. у 15:45",
       "slika": null
     },
     {
@@ -71,6 +64,27 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221632/paunovic-ova-grupa-ce-ostvariti-rezultate-koje-zasluzuje/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "2. 04. 2026. у 20:22",
+      "slika": null
+    },
+    {
+      "naslov": "Zvanično: Gatuzo i Italija se rastali",
+      "url": "https://www.b92.net/sport/fudbal/vesti/221848/djenaro-gatuzo-vise-nije-selektor-italije/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "3. 04. 2026. у 14:34",
+      "slika": null
+    },
+    {
+      "naslov": "Mirčea Lučesku nije više selektor fudbalera Rumunije",
+      "url": "https://www.tanjug.rs/sport/fudbal/242367/mircea-lucesku-nije-vise-selektor-fudbalera-rumunije/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 04. 2026. у 16:22",
+      "slika": null
+    },
+    {
+      "naslov": "FIFA: Karta za finale predstojećeg Svetskog prvenstva u fudbalu koštaće 10.990 dolara",
+      "url": "https://www.tanjug.rs/sport/fudbal/242361/fifa-karta-za-finale-predstojeceg-svetskog-prvenstva-u-fudbalu-kostace-10990-dolara/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 04. 2026. у 16:07",
       "slika": null
     }
   ]
