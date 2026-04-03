@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-03T16:05:31.138976+00:00",
-  "azurirano_sr": "3. 04. 2026. у 18:05",
+  "azurirano": "2026-04-03T17:55:35.605284+00:00",
+  "azurirano_sr": "3. 04. 2026. у 19:55",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Marko Docić: Partizan je favorit, ali idemo u Humsku da se nadigravamo i uradimo nešto više",
+      "url": "https://www.tanjug.rs/sport/fudbal/242636/marko-docic-partizan-je-favorit-ali-idemo-u-humsku-da-se-nadigravamo-i-uradimo-nesto-vise/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 04. 2026. у 19:46",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri OFK Beograda pobedili Radnički iz Niša u 29. kolu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/242615/fudbaleri-ofk-beograda-pobedili-radnicki-iz-nisa-u-29-kolu-superlige-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 04. 2026. у 17:58",
+      "slika": null
+    },
+    {
       "naslov": "Lidija Stojkanović odredila spisak fudbalerki Srbije za kvalifikacije za Svetsko prvenstvo",
       "url": "https://www.tanjug.rs/sport/fudbal/242612/lidija-stojkanovic-odredila-spisak-fudbalerki-srbije-za-kvalifikacije-za-svetsko-prvenstvo/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Gatuzo više nije selektor Italije, podneo ostavku posle eliminacije od BiH",
-      "url": "https://www.tanjug.rs/sport/fudbal/242597/gatuzo-vise-nije-selektor-italije-podneo-ostavku-posle-eliminacije-od-bih/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 04. 2026. у 14:19",
-      "slika": null
-    },
-    {
-      "naslov": "Navijači Crvene zvezde i Olimpijakosa 9. maja obeležiće 40 godina bratstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/242531/navijaci-crvene-zvezde-i-olimpijakosa-9-maja-obelezice-40-godina-bratstva/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 04. 2026. у 12:17",
+      "naslov": "Zvezda uzalud čeka? Milioni sve dalje od &quot;Marakane&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221935/motika-produzio-ugovor-sa-olimpijom-iz-ljubljane-do-2028/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 04. 2026. у 18:37",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221925/ofk-beograd-osvojio-tri-boda-u-nisu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "3. 04. 2026. у 17:58",
-      "slika": null
-    },
-    {
-      "naslov": "Nema mira u Humskoj, Tomić odgovorio Milki Forcan: &quot;Ne duguje mi Partizan već Ovijedo&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221923/djordje-tomic-odgovor-milki-forcan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 04. 2026. у 17:48",
       "slika": null
     }
   ]
