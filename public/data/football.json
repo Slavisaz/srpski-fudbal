@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-03T05:53:32.799579+00:00",
-  "azurirano_sr": "3. 04. 2026. у 07:53",
+  "azurirano": "2026-04-03T08:11:53.525211+00:00",
+  "azurirano_sr": "3. 04. 2026. у 10:11",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kečevi na Rajo Valjekano i Midlsbro, uz dvojku na FCSB, najskuplji su u Mozzartu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kecevi-na-rajo-valjekano-i-midlsbro-uz-dvojku-na-fcsb-najskuplji-su-u-mozzartu/540299",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 04. 2026. у 11:59",
+      "slika": null
+    },
+    {
+      "naslov": "NAJAVA DANA (petak, 3. april): Vraća se klupski fudbal, a tu je i Evroliga",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-petak-3-april-vraca-se-klupski-fudbal-a-tu-je-i-evroliga/540233",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 04. 2026. у 10:15",
+      "slika": null
+    },
     {
       "naslov": "Ima 82 godine i vidi sebe kao spasioca italijanskog fudbala",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ima-82-godine-i-vidi-sebe-kao-spasioca-italijanskog-fudbala/540283",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/dosije-bao-sta-se-nalazilo-u-planu-od-900-stranica-koji-je-zavrsio-u-kanti-za-smece/540261",
       "izvor": "Мозарт Спорт",
       "datum": "2. 04. 2026. у 21:48",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbal u službi zdravlja: FSS skrenuo pažnju na sindrom RED-S",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbal-u-sluzbi-zdravlja-fss-skrenuo-paznju-na-sindrom-reds/540250",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 04. 2026. у 19:56",
-      "slika": null
-    },
-    {
-      "naslov": "Petrović: Da nije Vojvodine, ne bilo ni reprezentacije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/petrovic-da-nije-vojvodine-ne-bilo-ni-reprezentacije/540248",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 04. 2026. у 19:31",
       "slika": null
     },
     {
