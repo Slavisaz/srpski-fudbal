@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-03T19:55:44.203304+00:00",
-  "azurirano_sr": "3. 04. 2026. у 21:55",
+  "azurirano": "2026-04-03T21:20:34.420074+00:00",
+  "azurirano_sr": "3. 04. 2026. у 23:20",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Embape: U fudbalu je najlakše biti štoper",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/embape-u-fudbalu-je-najlakse-biti-stoper/540363",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 04. 2026. у 01:08",
+      "slika": null
+    },
+    {
+      "naslov": "Od borbe za šampiona do strepnje za plej-of",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/od-borbe-za-sampiona-do-strepnje-za-plejof/540326",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 04. 2026. у 00:47",
+      "slika": null
+    },
     {
       "naslov": "Lažna uzbuna: Srbija nije smenila selektora Saudijskoj Arabiji",
       "url": "https://www.mozzartsport.com/fudbal/vesti/lazna-uzbuna-srbija-nije-smenila-selektora-saudijskoj-arabiji/540352",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Isak spremniji i fizički jači nego pre povrede",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/isak-spremniji-i-fizicki-jaci-nego-pre-povrede/540336",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 04. 2026. у 18:47",
-      "slika": null
-    },
-    {
-      "naslov": "Da li je vreme da Premijer liga upozna Milvol? Ivanović asistent, Lavovi drugi na tabeli",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/da-li-je-vreme-da-premijer-liga-upozna-milvol-ivanovic-asistent-lavovi-drugi-na-tabeli/540329",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 04. 2026. у 17:41",
+      "naslov": "Fudbaleri Pari Sen Žermena nadirali Tuluz u 28. kolu francuskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/242654/fudbaleri-pari-sen-zermena-nadirali-tuluz-u-28-kolu-francuskog-prvenstva/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 04. 2026. у 22:48",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Lidija Stojkanović odredila spisak fudbalerki Srbije za kvalifikacije za Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/242612/lidija-stojkanovic-odredila-spisak-fudbalerki-srbije-za-kvalifikacije-za-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 04. 2026. у 17:36",
+      "naslov": "Lalatović: &quot;Nismo Mančester siti ili Real&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221986/lalatovic-nismo-mancester-siti-ili-real/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 04. 2026. у 22:11",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221957/tsc-zakucao-napredak-za-dno-superlige/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "3. 04. 2026. у 20:02",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda uzalud čeka? Milioni sve dalje od &quot;Marakane&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221935/motika-produzio-ugovor-sa-olimpijom-iz-ljubljane-do-2028/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 04. 2026. у 18:37",
       "slika": null
     }
   ]
