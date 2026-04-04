@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-04T16:01:09.091095+00:00",
-  "azurirano_sr": "4. 04. 2026. у 18:01",
+  "azurirano": "2026-04-04T17:49:24.664826+00:00",
+  "azurirano_sr": "4. 04. 2026. у 19:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Vini na klupi!? To je teško razumeti... Pirat vodi ka mirnoj luci? E, to već liči na nešto",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vini-na-klupi-to-je-tesko-razumeti-pirat-vodi-ka-mirnoj-luci-e-to-vec-lici-na-nesto/540426",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 04. 2026. у 20:18",
+      "slika": null
+    },
     {
       "naslov": "Oskar završio karijeru zbog problema sa srcem",
       "url": "https://www.mozzartsport.com/fudbal/vesti/oskar-zavrsio-karijeru-zbog-problema-sa-srcem/540415",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/oporavljeni-lekovic-i-raspucani-milovanovic-u-centru-paznje-u-portugaliji/540406",
       "izvor": "Мозарт Спорт",
       "datum": "4. 04. 2026. у 17:00",
-      "slika": null
-    },
-    {
-      "naslov": "Nisu to sestrinski odnosi, već vazalni: Čelsi ponovo ušao u samoposlugu i podigao proizvod sa rafa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nisu-to-sestrinski-odnosi-vec-vazalni-celsi-ponovo-usao-u-samoposlugu-i-podigao-proizvod-sa-rafa/540384",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 04. 2026. у 13:17",
       "slika": null
     },
     {
@@ -60,8 +60,8 @@
       "slika": null
     },
     {
-      "naslov": "Spektakularni Džasper vodi Železničar u Evropu!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222136/spektakularni-dzasper-vodi-zeleznicar-u-evropu/vest",
+      "naslov": "Spektakularni Džasper vodi Železničar u Evropu VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222136/spektakularni-dzasper-vodi-zeleznicar-u-evropu-video/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 04. 2026. у 17:55",
       "slika": null
