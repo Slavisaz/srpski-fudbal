@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-04T21:03:26.664016+00:00",
-  "azurirano_sr": "4. 04. 2026. у 23:03",
+  "azurirano": "2026-04-04T21:58:10.061064+00:00",
+  "azurirano_sr": "4. 04. 2026. у 23:58",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Džaba mu naklonjen žreb kad se sa svima muči: Arsenal osramoćen protiv drugoligaša",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dzaba-mu-naklonjen-zreb-kad-se-sa-svima-muci-arsenal-osramocen-protiv-drugoligasa/540455",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 04. 2026. у 01:05",
+      "slika": null
+    },
+    {
+      "naslov": "Veselinović blizu povratka u tim Vankuvera",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/veselinovic-blizu-povratka-u-tim-vankuvera/540409",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 04. 2026. у 01:05",
+      "slika": null
+    },
     {
       "naslov": "Superligaški fudbal opet na Karaburmi posle 10 godina",
       "url": "https://www.mozzartsport.com/fudbal/vesti/superligaski-fudbal-opet-na-karaburmi-posle-10-godina/540450",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Sedam komada! Čelsi siledžijski do polufinala FA Kupa, grešnik Enco uživao u suspenziji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sedam-komada-celsi-siledzijski-do-polufinala-fa-kupa-gresnik-enco-uzivao-u-suspenziji/540432",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 04. 2026. у 22:08",
+      "naslov": "Fudbaleri Arsenala eliminisani u četvrtfinalu FA kupa od drugoligaša Sautemptona",
+      "url": "https://www.tanjug.rs/sport/fudbal/242842/fudbaleri-arsenala-eliminisani-u-cetvrtfinalu-fa-kupa-od-drugoligasa-sautemptona/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 04. 2026. у 23:19",
       "slika": null
     },
     {
-      "naslov": "Vini na klupi!? To je teško razumeti... Pirat vodi ka mirnoj luci? E, to već liči na nešto",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vini-na-klupi-to-je-tesko-razumeti-pirat-vodi-ka-mirnoj-luci-e-to-vec-lici-na-nesto/540426",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 04. 2026. у 20:18",
+      "naslov": "Fudbaleri Barselone sa igračem više savladali Atletiko za \"plus sedam\" na vrhu tabele",
+      "url": "https://www.tanjug.rs/sport/fudbal/242840/fudbaleri-barselone-sa-igracem-vise-savladali-atletiko-za-plus-sedam-na-vrhu-tabele/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 04. 2026. у 23:07",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/242790/balsa-terzic-povratak-ofk-beograda-na-omladinski-stadion-predstavlja-vazan-trenutak-za-nas/vest",
       "izvor": "Танјуг",
       "datum": "4. 04. 2026. у 16:36",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Mančester Sitija prvi polufinalisti engleskog FA kupa",
-      "url": "https://www.tanjug.rs/sport/fudbal/242775/fudbaleri-mancester-sitija-prvi-polufinalisti-engleskog-fa-kupa/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 04. 2026. у 15:48",
-      "slika": null
-    },
-    {
-      "naslov": "Srđan Blagojević: Nikakav motiv revanša ili osvete ne postoji, Čukarički odlična ekipa",
-      "url": "https://www.tanjug.rs/sport/fudbal/242765/srdan-blagojevic-nikakav-motiv-revansa-ili-osvete-ne-postoji-cukaricki-odlicna-ekipa/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 04. 2026. у 14:39",
       "slika": null
     },
     {
