@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-04T11:56:39.414152+00:00",
-  "azurirano_sr": "4. 04. 2026. у 13:56",
+  "azurirano": "2026-04-04T14:03:47.242964+00:00",
+  "azurirano_sr": "4. 04. 2026. у 16:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Liverpule, hodaj sam kroz sramotu: Siti i Haland šamarali, Salahov penal ispraznio gostujući sektor",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/liverpule-hodaj-sam-kroz-sramotu-siti-i-haland-samarali-salahov-penal-ispraznio-gostujuci-sektor/540407",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 04. 2026. у 17:35",
+      "slika": null
+    },
+    {
+      "naslov": "Oporavljeni Leković i raspucani Milovanović u centru pažnje u Portugaliji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/oporavljeni-lekovic-i-raspucani-milovanovic-u-centru-paznje-u-portugaliji/540406",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 04. 2026. у 17:00",
+      "slika": null
+    },
     {
       "naslov": "Nisu to sestrinski odnosi, već vazalni: Čelsi ponovo ušao u samoposlugu i podigao proizvod sa rafa",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nisu-to-sestrinski-odnosi-vec-vazalni-celsi-ponovo-usao-u-samoposlugu-i-podigao-proizvod-sa-rafa/540384",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Srpska liga Vojvodina na Mozzart TV: Inđijci žele da nastave da dišu za vrat Naftagasu i Hajduku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srpska-liga-vojvodina-na-mozzart-tv-inijci-zele-da-nastave-da-disu-za-vrat-naftagasu-i-hajduku/540382",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 04. 2026. у 12:36",
+      "naslov": "Fudbaleri Mančester Sitija prvi polufinalisti engleskog FA kupa",
+      "url": "https://www.tanjug.rs/sport/fudbal/242775/fudbaleri-mancester-sitija-prvi-polufinalisti-engleskog-fa-kupa/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 04. 2026. у 15:48",
       "slika": null
     },
     {
-      "naslov": "PRELAZZI: ChatGPT fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-chatgpt-fudbal/540379",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 04. 2026. у 11:53",
+      "naslov": "Srđan Blagojević: Nikakav motiv revanša ili osvete ne postoji, Čukarički odlična ekipa",
+      "url": "https://www.tanjug.rs/sport/fudbal/242765/srdan-blagojevic-nikakav-motiv-revansa-ili-osvete-ne-postoji-cukaricki-odlicna-ekipa/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 04. 2026. у 14:39",
+      "slika": null
+    },
+    {
+      "naslov": "Marko Jakšić: Sa nestrpljenjem očekujemo meč protiv Partizana",
+      "url": "https://www.tanjug.rs/sport/fudbal/242755/marko-jaksic-sa-nestrpljenjem-ocekujemo-mec-protiv-partizana/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 04. 2026. у 13:58",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Pari Sen Žermena nadirali Tuluz u 28. kolu francuskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/242654/fudbaleri-pari-sen-zermena-nadirali-tuluz-u-28-kolu-francuskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 04. 2026. у 22:48",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri TSC-a savladali Napredak u 29. kolu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/242639/fudbaleri-tsc-a-savladali-napredak-u-29-kolu-superlige-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 04. 2026. у 19:56",
-      "slika": null
-    },
-    {
-      "naslov": "Marko Docić: Partizan je favorit, ali idemo u Humsku da se nadigravamo i uradimo nešto više",
-      "url": "https://www.tanjug.rs/sport/fudbal/242636/marko-docic-partizan-je-favorit-ali-idemo-u-humsku-da-se-nadigravamo-i-uradimo-nesto-vise/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 04. 2026. у 19:46",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: &quot;Ne želim da ponavljam jer ne želim da vređam ni njihovu ni moju inteligenciju&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222078/dejan-stankovic-izjava-pred-radnik-zvezda/vest",
+      "naslov": "Jakšić pred Partizan: &quot;Ne idemo u Humsku da se branimo&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222096/jaksic-pred-partizan-ne-idemo-u-humsku-da-se-branimo/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 04. 2026. у 13:30",
+      "datum": "4. 04. 2026. у 14:45",
       "slika": null
     },
     {
-      "naslov": "B92.sport intervju - Predrag Rogan: &quot;Savez stao iza Petrića posle poraza od Hrvatske&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222051/predrag-rogan-za-b92sport-fss-srbija-intervju/vest",
+      "naslov": "Blagojević o situaciji u Partizanu: &quot;Jasno nam je šta se dešava&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222094/blagojevic-o-situaciji-u-partizanu-jasno-nam-je-sta-se-desava-video/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 04. 2026. у 12:00",
+      "datum": "4. 04. 2026. у 14:30",
       "slika": null
     }
   ]
