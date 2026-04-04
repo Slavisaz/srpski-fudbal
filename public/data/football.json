@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-04T19:23:23.395327+00:00",
-  "azurirano_sr": "4. 04. 2026. у 21:23",
+  "azurirano": "2026-04-04T20:00:35.387483+00:00",
+  "azurirano_sr": "4. 04. 2026. у 22:00",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Terzić: &quot;Povratak OFK na Karaburmu je važan&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222141/terzic-povratak-ofk-na-karaburmu-je-vazan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 04. 2026. у 21:50",
+      "slika": null
+    },
+    {
       "naslov": "Petrović u 94. minutu režirao preokret Javora!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222157/petrovic-u-94-minutu-rezirao-preokret-javora/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 04. 2026. у 20:05",
-      "slika": null
-    },
-    {
-      "naslov": "Spektakularni Džasper vodi Železničar u Evropu VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222136/spektakularni-dzasper-vodi-zeleznicar-u-evropu-video/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 04. 2026. у 17:55",
       "slika": null
     }
   ]
