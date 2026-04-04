@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-04T09:56:39.817487+00:00",
-  "azurirano_sr": "4. 04. 2026. у 11:56",
+  "azurirano": "2026-04-04T11:04:09.813970+00:00",
+  "azurirano_sr": "4. 04. 2026. у 13:04",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "B92.sport intervju - Predrag Rogan: &quot;Savez stao iza Petrića posle poraza od Hrvatske&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222051/predrag-rogan-za-b92sport-fss-srbija-intervju/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 04. 2026. у 12:00",
+      "slika": null
+    },
+    {
       "naslov": "&quot;Idemo u Humsku da se nadigravamo&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221955/mladen-docic-pred-partizan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 04. 2026. у 08:00",
-      "slika": null
-    },
-    {
-      "naslov": "Lalatović: &quot;Nismo Mančester siti ili Real&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/221986/lalatovic-nismo-mancester-siti-ili-real/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 04. 2026. у 22:11",
       "slika": null
     }
   ]
