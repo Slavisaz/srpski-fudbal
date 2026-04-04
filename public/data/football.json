@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-04T14:03:47.242964+00:00",
-  "azurirano_sr": "4. 04. 2026. у 16:03",
+  "azurirano": "2026-04-04T15:04:26.227435+00:00",
+  "azurirano_sr": "4. 04. 2026. у 17:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Oskar završio karijeru zbog problema sa srcem",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/oskar-zavrsio-karijeru-zbog-problema-sa-srcem/540415",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 04. 2026. у 18:36",
+      "slika": null
+    },
     {
       "naslov": "Liverpule, hodaj sam kroz sramotu: Siti i Haland šamarali, Salahov penal ispraznio gostujući sektor",
       "url": "https://www.mozzartsport.com/fudbal/vesti/liverpule-hodaj-sam-kroz-sramotu-siti-i-haland-samarali-salahov-penal-ispraznio-gostujuci-sektor/540407",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Gvardiola i Slot o odlascima Rodrija i Salaha, ali samo jedan je cilj, polufinale FA kupa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gvardiola-i-slot-o-odlascima-rodrija-i-salaha-ali-samo-jedan-je-cilj-polufinale-fa-kupa/540383",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 04. 2026. у 12:42",
+      "naslov": "Balša Terzić: Povratak OFK Beograda na Omladinski stadion predstavlja važan trenutak za nas",
+      "url": "https://www.tanjug.rs/sport/fudbal/242790/balsa-terzic-povratak-ofk-beograda-na-omladinski-stadion-predstavlja-vazan-trenutak-za-nas/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 04. 2026. у 16:36",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/242755/marko-jaksic-sa-nestrpljenjem-ocekujemo-mec-protiv-partizana/vest",
       "izvor": "Танјуг",
       "datum": "4. 04. 2026. у 13:58",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: Spremni smo da završimo sezonu onako kako svi očekujemo",
-      "url": "https://www.tanjug.rs/sport/fudbal/242748/stankovic-spremni-smo-da-zavrsimo-sezonu-onako-kako-svi-ocekujemo/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 04. 2026. у 13:36",
       "slika": null
     },
     {
