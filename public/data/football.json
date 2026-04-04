@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-04T15:04:26.227435+00:00",
-  "azurirano_sr": "4. 04. 2026. у 17:04",
+  "azurirano": "2026-04-04T16:01:09.091095+00:00",
+  "azurirano_sr": "4. 04. 2026. у 18:01",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Spektakularni Džasper vodi Železničar u Evropu!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222136/spektakularni-dzasper-vodi-zeleznicar-u-evropu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 04. 2026. у 17:55",
+      "slika": null
+    },
+    {
       "naslov": "Jakšić pred Partizan: &quot;Ne idemo u Humsku da se branimo&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222096/jaksic-pred-partizan-ne-idemo-u-humsku-da-se-branimo/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 04. 2026. у 14:45",
-      "slika": null
-    },
-    {
-      "naslov": "Blagojević o situaciji u Partizanu: &quot;Jasno nam je šta se dešava&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222094/blagojevic-o-situaciji-u-partizanu-jasno-nam-je-sta-se-desava-video/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 04. 2026. у 14:30",
       "slika": null
     }
   ]
