@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-04T20:00:35.387483+00:00",
-  "azurirano_sr": "4. 04. 2026. у 22:00",
+  "azurirano": "2026-04-04T21:03:26.664016+00:00",
+  "azurirano_sr": "4. 04. 2026. у 23:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Superligaški fudbal opet na Karaburmi posle 10 godina",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/superligaski-fudbal-opet-na-karaburmi-posle-10-godina/540450",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 04. 2026. у 00:33",
+      "slika": null
+    },
+    {
+      "naslov": "Jedina dobra stvar je što nismo primili više golova",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jedina-dobra-stvar-je-sto-nismo-primili-vise-golova/540447",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 04. 2026. у 00:05",
+      "slika": null
+    },
     {
       "naslov": "Sedam komada! Čelsi siledžijski do polufinala FA Kupa, grešnik Enco uživao u suspenziji",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sedam-komada-celsi-siledzijski-do-polufinala-fa-kupa-gresnik-enco-uzivao-u-suspenziji/540432",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Oskar završio karijeru zbog problema sa srcem",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/oskar-zavrsio-karijeru-zbog-problema-sa-srcem/540415",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 04. 2026. у 18:36",
-      "slika": null
-    },
-    {
-      "naslov": "Liverpule, hodaj sam kroz sramotu: Siti i Haland šamarali, Salahov penal ispraznio gostujući sektor",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/liverpule-hodaj-sam-kroz-sramotu-siti-i-haland-samarali-salahov-penal-ispraznio-gostujuci-sektor/540407",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 04. 2026. у 17:35",
+      "naslov": "Fudbaleri IMT-a i Vojvodine odigrali bez golova u Loznici",
+      "url": "https://www.tanjug.rs/sport/fudbal/242833/fudbaleri-imt-a-i-vojvodine-odigrali-bez-golova-u-loznici/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 04. 2026. у 22:03",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Marko Jakšić: Sa nestrpljenjem očekujemo meč protiv Partizana",
-      "url": "https://www.tanjug.rs/sport/fudbal/242755/marko-jaksic-sa-nestrpljenjem-ocekujemo-mec-protiv-partizana/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 04. 2026. у 13:58",
+      "naslov": "IMT &quot;odradio&quot; posao za Partizan – Voša opet stala",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222176/imt-odradio-posao-za-partizan-vosa-opet-stala/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 04. 2026. у 22:14",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222141/terzic-povratak-ofk-na-karaburmu-je-vazan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 04. 2026. у 21:50",
-      "slika": null
-    },
-    {
-      "naslov": "Petrović u 94. minutu režirao preokret Javora!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222157/petrovic-u-94-minutu-rezirao-preokret-javora/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 04. 2026. у 20:05",
       "slika": null
     }
   ]
