@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-04T17:49:24.664826+00:00",
-  "azurirano_sr": "4. 04. 2026. у 19:49",
+  "azurirano": "2026-04-04T19:23:23.395327+00:00",
+  "azurirano_sr": "4. 04. 2026. у 21:23",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Sedam komada! Čelsi siledžijski do polufinala FA Kupa, grešnik Enco uživao u suspenziji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sedam-komada-celsi-siledzijski-do-polufinala-fa-kupa-gresnik-enco-uzivao-u-suspenziji/540432",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 04. 2026. у 22:08",
+      "slika": null
+    },
     {
       "naslov": "Vini na klupi!? To je teško razumeti... Pirat vodi ka mirnoj luci? E, to već liči na nešto",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vini-na-klupi-to-je-tesko-razumeti-pirat-vodi-ka-mirnoj-luci-e-to-vec-lici-na-nesto/540426",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/liverpule-hodaj-sam-kroz-sramotu-siti-i-haland-samarali-salahov-penal-ispraznio-gostujuci-sektor/540407",
       "izvor": "Мозарт Спорт",
       "datum": "4. 04. 2026. у 17:35",
-      "slika": null
-    },
-    {
-      "naslov": "Oporavljeni Leković i raspucani Milovanović u centru pažnje u Portugaliji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/oporavljeni-lekovic-i-raspucani-milovanovic-u-centru-paznje-u-portugaliji/540406",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 04. 2026. у 17:00",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Petrović u 94. minutu režirao preokret Javora!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222157/petrovic-u-94-minutu-rezirao-preokret-javora/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 04. 2026. у 20:05",
+      "slika": null
+    },
+    {
       "naslov": "Spektakularni Džasper vodi Železničar u Evropu VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222136/spektakularni-dzasper-vodi-zeleznicar-u-evropu-video/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 04. 2026. у 17:55",
-      "slika": null
-    },
-    {
-      "naslov": "Jakšić pred Partizan: &quot;Ne idemo u Humsku da se branimo&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222096/jaksic-pred-partizan-ne-idemo-u-humsku-da-se-branimo/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 04. 2026. у 14:45",
       "slika": null
     }
   ]
