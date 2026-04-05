@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-05T19:51:16.875941+00:00",
-  "azurirano_sr": "5. 04. 2026. у 21:51",
+  "azurirano": "2026-04-05T21:02:17.532689+00:00",
+  "azurirano_sr": "5. 04. 2026. у 23:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Jakšić: Ponosan sam na lavovsku borbu, okrećemo se sledećoj sezoni",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jaksic-ponosan-sam-na-lavovsku-borbu-okrecemo-se-sledecoj-sezoni/540538",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 04. 2026. у 23:47",
+      "slika": null
+    },
     {
       "naslov": "Dajte pivo iz paba \"Stari Paun\" preko puta ulice Eland: Lids ide na Vembli, polufinale posle 39 godina",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dajte-pivo-iz-paba-stari-paun-preko-puta-ulice-eland-lids-ide-na-vembli-polufinale-posle-39-godina/540523",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Jedinstvo i Vršac uleteli u plej-of, Srbija da se divi bombi Dimitrića (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jedinstvo-i-vrsac-uleteli-u-plejof-srbija-da-se-divi-bombi-dimitrica-video/540518",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 04. 2026. у 20:05",
+      "naslov": "Fudbaleri Intera ubedljivi protiv Rome u 31. kolu Serije A",
+      "url": "https://www.tanjug.rs/sport/fudbal/242992/fudbaleri-intera-ubedljivi-protiv-rome-u-31-kolu-serije-a/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 04. 2026. у 22:42",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri AEK-a pobedili Olimpijakos, remi PAOK-a i Panatinaikosa u grčkoj ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/242991/fudbaleri-aek-a-pobedili-olimpijakos-remi-paok-a-i-panatinaikosa-u-grckoj-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 04. 2026. у 22:29",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/242984/fudbaleri-fenerbahcea-pobedili-besiktas-golom-iz-penala-u-9011-minutu/vest",
       "izvor": "Танјуг",
       "datum": "5. 04. 2026. у 21:20",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Partizana i Čukaričkog odigrali nerešeno u 29. kolu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/242983/fudbaleri-partizana-i-cukarickog-odigrali-nereseno-u-29-kolu-superlige-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 04. 2026. у 21:14",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Lidsa izborili plasman u polufinale FA kupa",
-      "url": "https://www.tanjug.rs/sport/fudbal/242981/fudbaleri-lidsa-izborili-plasman-u-polufinale-fa-kupa/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 04. 2026. у 20:44",
       "slika": null
     },
     {
