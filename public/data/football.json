@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-05T08:04:03.524931+00:00",
-  "azurirano_sr": "5. 04. 2026. у 10:04",
+  "azurirano": "2026-04-05T10:01:59.650504+00:00",
+  "azurirano_sr": "5. 04. 2026. у 12:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ivan Gvozdenović trener meseca u Albaniji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ivan-gvozdenovic-trener-meseca-u-albaniji/540477",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 04. 2026. у 12:20",
+      "slika": null
+    },
     {
       "naslov": "Bosnom fudbal probeharao, ali je na Grbavici razočarao",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bosnom-fudbal-probeharao-ali-je-na-grbavici-razocarao/540471",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Veselinović blizu povratka u tim Vankuvera",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/veselinovic-blizu-povratka-u-tim-vankuvera/540409",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 04. 2026. у 01:05",
+      "naslov": "Srpski fudbaler Dejan Joveljić strelac za Sporting u porazu od Real Solt Lejka",
+      "url": "https://www.tanjug.rs/sport/fudbal/242882/srpski-fudbaler-dejan-joveljic-strelac-za-sporting-u-porazu-od-real-solt-lejka/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 04. 2026. у 09:57",
+      "slika": null
+    },
+    {
+      "naslov": "Mesi strelac u remiju Intera i Ostina na otvaranju novog stadiona kluba iz Majamija",
+      "url": "https://www.tanjug.rs/sport/fudbal/242878/mesi-strelac-u-remiju-intera-i-ostina-na-otvaranju-novog-stadiona-kluba-iz-majamija/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 04. 2026. у 09:43",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri IMT-a i Vojvodine odigrali bez golova u Loznici",
-      "url": "https://www.tanjug.rs/sport/fudbal/242833/fudbaleri-imt-a-i-vojvodine-odigrali-bez-golova-u-loznici/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 04. 2026. у 22:03",
-      "slika": null
-    },
-    {
-      "naslov": "Balša Terzić: Povratak OFK Beograda na Omladinski stadion predstavlja važan trenutak za nas",
-      "url": "https://www.tanjug.rs/sport/fudbal/242790/balsa-terzic-povratak-ofk-beograda-na-omladinski-stadion-predstavlja-vazan-trenutak-za-nas/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 04. 2026. у 16:36",
+      "naslov": "Gde je Mirko Ivanić?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222232/sta-se-desava-sa-mirkom-ivanicem/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "5. 04. 2026. у 11:54",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222201/spartak-izdao-novo-saopstenje/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "5. 04. 2026. у 08:58",
-      "slika": null
-    },
-    {
-      "naslov": "JSD Partizan: &quot;Zabrinuti smo zbog fudbalskog kluba&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222209/jsd-partizan-saopstenje-posle-sednice-izvrsnog-odbora/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "5. 04. 2026. у 08:43",
       "slika": null
     }
   ]
