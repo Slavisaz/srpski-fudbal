@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-05T05:56:48.714555+00:00",
-  "azurirano_sr": "5. 04. 2026. у 07:56",
+  "azurirano": "2026-04-05T08:04:03.524931+00:00",
+  "azurirano_sr": "5. 04. 2026. у 10:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Bosnom fudbal probeharao, ali je na Grbavici razočarao",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bosnom-fudbal-probeharao-ali-je-na-grbavici-razocarao/540471",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 04. 2026. у 11:10",
+      "slika": null
+    },
+    {
+      "naslov": "Najujednačenija druga liga u Evropi: Trener otpušten pred start sezone, niko neće u Havesund",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najujednacenija-druga-liga-u-evropi-trener-otpusten-pred-start-sezone-niko-nece-u-havesund/540467",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 04. 2026. у 09:55",
+      "slika": null
+    },
     {
       "naslov": "Džaba mu naklonjen žreb kad se sa svima muči: Arsenal osramoćen protiv drugoligaša",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dzaba-mu-naklonjen-zreb-kad-se-sa-svima-muci-arsenal-osramocen-protiv-drugoligasa/540455",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/veselinovic-blizu-povratka-u-tim-vankuvera/540409",
       "izvor": "Мозарт Спорт",
       "datum": "5. 04. 2026. у 01:05",
-      "slika": null
-    },
-    {
-      "naslov": "Superligaški fudbal opet na Karaburmi posle 10 godina",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/superligaski-fudbal-opet-na-karaburmi-posle-10-godina/540450",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 04. 2026. у 00:33",
-      "slika": null
-    },
-    {
-      "naslov": "Jedina dobra stvar je što nismo primili više golova",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jedina-dobra-stvar-je-sto-nismo-primili-vise-golova/540447",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 04. 2026. у 00:05",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "IMT &quot;odradio&quot; posao za Partizan – Voša opet stala",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222176/imt-odradio-posao-za-partizan-vosa-opet-stala/vest",
+      "naslov": "Ponovo &quot;grme&quot; iz Subotice: &quot;Šest odluka na našu štetu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222201/spartak-izdao-novo-saopstenje/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 04. 2026. у 22:14",
+      "datum": "5. 04. 2026. у 08:58",
       "slika": null
     },
     {
-      "naslov": "Terzić: &quot;Povratak OFK na Karaburmu je važan&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222141/terzic-povratak-ofk-na-karaburmu-je-vazan/vest",
+      "naslov": "JSD Partizan: &quot;Zabrinuti smo zbog fudbalskog kluba&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222209/jsd-partizan-saopstenje-posle-sednice-izvrsnog-odbora/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 04. 2026. у 21:50",
+      "datum": "5. 04. 2026. у 08:43",
       "slika": null
     }
   ]
