@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-05T15:48:57.277930+00:00",
-  "azurirano_sr": "5. 04. 2026. у 17:48",
+  "azurirano": "2026-04-05T17:06:16.801097+00:00",
+  "azurirano_sr": "5. 04. 2026. у 19:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Lome se koplja u Kinšasi, strelac gola u finalu Lige šampiona i nada PSŽ-a bi mogao da igra za DR Kongo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lome-se-koplja-u-kinsasi-strelac-gola-u-finalu-lige-sampiona-i-nada-psza-bi-mogao-da-igra-za-dr-kongo/540519",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 04. 2026. у 20:43",
+      "slika": null
+    },
+    {
+      "naslov": "Jedinstvo i Vršac uleteli u plej-of, Srbija da se divi bombi Dimitrića (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jedinstvo-i-vrsac-uleteli-u-plejof-srbija-da-se-divi-bombi-dimitrica-video/540518",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 04. 2026. у 20:05",
+      "slika": null
+    },
     {
       "naslov": "Filip Stevanović odigrao prvu utakmicu posle 13 meseci",
       "url": "https://www.mozzartsport.com/fudbal/vesti/filip-stevanovic-odigrao-prvu-utakmicu-posle-13-meseci/540502",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Vest Hem protiv Lidsa ima dva aduta - Nuna i čudesnog Bouvena",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vest-hem-protiv-lidsa-ima-dva-aduta-nuna-i-cudesnog-bouvena/540486",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 04. 2026. у 14:30",
+      "naslov": "Fudbaleri Crvene zvezde pobedili Radnik u 29. kolu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/242967/fudbaleri-crvene-zvezde-pobedili-radnik-u-29-kolu-superlige-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 04. 2026. у 18:56",
       "slika": null
     },
     {
-      "naslov": "Ivan Gvozdenović trener meseca u Albaniji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ivan-gvozdenovic-trener-meseca-u-albaniji/540477",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 04. 2026. у 12:20",
+      "naslov": "Andrej Ilić strelac u remiju fudbalera Union Berlina i Sankt Paulija u Bundesligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/242963/andrej-ilic-strelac-u-remiju-fudbalera-union-berlina-i-sankt-paulija-u-bundesligi/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 04. 2026. у 18:02",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri PSV-a iz Ajndhovena treći put uzastopno osvojili titulu šampiona Holandije",
+      "url": "https://www.tanjug.rs/sport/fudbal/242955/fudbaleri-psv-a-iz-ajndhovena-treci-put-uzastopno-osvojili-titulu-sampiona-holandije/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 04. 2026. у 17:30",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Barselone Mark Bernal zbog povrede propušta meč sa Atletikom u Ligi šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/242918/fudbaler-barselone-mark-bernal-zbog-povrede-propusta-mec-sa-atletikom-u-ligi-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 04. 2026. у 13:31",
-      "slika": null
-    },
-    {
-      "naslov": "JSD Partizan: Zabrinuti smo zbog dešavanja u FK, tražićemo hitan sastanak sa Upravom",
-      "url": "https://www.tanjug.rs/sport/fudbal/242896/jsd-partizan-zabrinuti-smo-zbog-desavanja-u-fk-trazicemo-hitan-sastanak-sa-upravom/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 04. 2026. у 11:43",
-      "slika": null
-    },
-    {
-      "naslov": "Mikel Arteta: Očekivanja su velika, sami sebi postavljamo najviše standarde",
-      "url": "https://www.tanjug.rs/sport/fudbal/242893/mikel-arteta-ocekivanja-su-velika-sami-sebi-postavljamo-najvise-standarde/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 04. 2026. у 11:20",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda preokrenula u Surdulici",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222321/zvezda-preokrenula-u-surdulici/vest",
+      "naslov": "Počeo je derbi kola – Partizan protiv Čukaričkog u Humskoj",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222336/superliga-29-kolo-partizan-cukaricki-uzivo-prenos-gde-gledati/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 04. 2026. у 17:44",
+      "datum": "5. 04. 2026. у 19:04",
       "slika": null
     },
     {
-      "naslov": "Gde je Mirko Ivanić?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222232/sta-se-desava-sa-mirkom-ivanicem/vest",
+      "naslov": "Stanković: &quot;Zadovoljan sam sa tri boda&quot;; Ranđelović: &quot;Nadamo se plej-ofu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222362/stankovic-zadovoljan-sam-sa-tri-boda-randjelovic-nadamo-se-plej-ofu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 04. 2026. у 11:54",
+      "datum": "5. 04. 2026. у 19:03",
       "slika": null
     }
   ]
