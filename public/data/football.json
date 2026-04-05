@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-05T11:59:40.025089+00:00",
-  "azurirano_sr": "5. 04. 2026. у 13:59",
+  "azurirano": "2026-04-05T14:05:33.929241+00:00",
+  "azurirano_sr": "5. 04. 2026. у 16:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Filip Stevanović odigrao prvu utakmicu posle 13 meseci",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/filip-stevanovic-odigrao-prvu-utakmicu-posle-13-meseci/540502",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 04. 2026. у 17:34",
+      "slika": null
+    },
+    {
+      "naslov": "Lekarski izveštaj iz Barselone: Arauho spreman za sredu, Bernal teško",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lekarski-izvestaj-iz-barselone-arauho-spreman-za-sredu-bernal-tesko/540497",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 04. 2026. у 17:07",
+      "slika": null
+    },
     {
       "naslov": "Vest Hem protiv Lidsa ima dva aduta - Nuna i čudesnog Bouvena",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vest-hem-protiv-lidsa-ima-dva-aduta-nuna-i-cudesnog-bouvena/540486",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Bosnom fudbal probeharao, ali je na Grbavici razočarao",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bosnom-fudbal-probeharao-ali-je-na-grbavici-razocarao/540471",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 04. 2026. у 11:10",
-      "slika": null
-    },
-    {
-      "naslov": "Najujednačenija druga liga u Evropi: Trener otpušten pred start sezone, niko neće u Havesund",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najujednacenija-druga-liga-u-evropi-trener-otpusten-pred-start-sezone-niko-nece-u-havesund/540467",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 04. 2026. у 09:55",
+      "naslov": "Simone Inzagi: Žao mi je Italije, ali ne želim da budem selektor",
+      "url": "https://www.tanjug.rs/sport/fudbal/242927/simone-inzagi-zao-mi-je-italije-ali-ne-zelim-da-budem-selektor/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 04. 2026. у 14:27",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Srpski fudbaler Dejan Joveljić strelac za Sporting u porazu od Real Solt Lejka",
-      "url": "https://www.tanjug.rs/sport/fudbal/242882/srpski-fudbaler-dejan-joveljic-strelac-za-sporting-u-porazu-od-real-solt-lejka/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 04. 2026. у 09:57",
+      "naslov": "Zvezda na gostovanju u Surdulici – poznati sastavi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222321/zvezda-na-gostovanju-u-surdulici-poznati-sastavi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "5. 04. 2026. у 16:03",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222232/sta-se-desava-sa-mirkom-ivanicem/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "5. 04. 2026. у 11:54",
-      "slika": null
-    },
-    {
-      "naslov": "Ponovo &quot;grme&quot; iz Subotice: &quot;Šest odluka na našu štetu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222201/spartak-izdao-novo-saopstenje/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "5. 04. 2026. у 08:58",
       "slika": null
     }
   ]
