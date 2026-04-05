@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-05T18:02:59.560041+00:00",
-  "azurirano_sr": "5. 04. 2026. у 20:02",
+  "azurirano": "2026-04-05T19:51:16.875941+00:00",
+  "azurirano_sr": "5. 04. 2026. у 21:51",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dajte pivo iz paba \"Stari Paun\" preko puta ulice Eland: Lids ide na Vembli, polufinale posle 39 godina",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dajte-pivo-iz-paba-stari-paun-preko-puta-ulice-eland-lids-ide-na-vembli-polufinale-posle-39-godina/540523",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 04. 2026. у 22:47",
+      "slika": null
+    },
     {
       "naslov": "Prepoznajte čoveka sa slike: Dva gola Zvezdi u polufinalu Kupa i luda polusezona u Humskoj",
       "url": "https://www.mozzartsport.com/fudbal/vesti/prepoznajte-coveka-sa-slike-dva-gola-zvezdi-u-polufinalu-kupa-i-luda-polusezona-u-humskoj/540524",
@@ -25,52 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Filip Stevanović odigrao prvu utakmicu posle 13 meseci",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/filip-stevanovic-odigrao-prvu-utakmicu-posle-13-meseci/540502",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 04. 2026. у 17:34",
-      "slika": null
-    },
-    {
-      "naslov": "Dejan Stanković: Bili smo nervozni i donosili loše odluke, najvažnija su tri boda",
-      "url": "https://www.tanjug.rs/sport/fudbal/242969/dejan-stankovic-bili-smo-nervozni-i-donosili-lose-odluke-najvaznija-su-tri-boda/vest",
+      "naslov": "Srđan Blagojević: Imamo problem, nedostajala nam je energija i želja da postignemo gol",
+      "url": "https://www.tanjug.rs/sport/fudbal/242986/srdan-blagojevic-imamo-problem-nedostajala-nam-je-energija-i-zelja-da-postignemo-gol/vest",
       "izvor": "Танјуг",
-      "datum": "5. 04. 2026. у 19:30",
+      "datum": "5. 04. 2026. у 21:32",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Crvene zvezde pobedili Radnik u 29. kolu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/242967/fudbaleri-crvene-zvezde-pobedili-radnik-u-29-kolu-superlige-srbije/vest",
+      "naslov": "Fudbaleri Fenerbahčea pobedili Bešiktaš golom iz penala u 90+11. minutu",
+      "url": "https://www.tanjug.rs/sport/fudbal/242984/fudbaleri-fenerbahcea-pobedili-besiktas-golom-iz-penala-u-9011-minutu/vest",
       "izvor": "Танјуг",
-      "datum": "5. 04. 2026. у 18:56",
+      "datum": "5. 04. 2026. у 21:20",
       "slika": null
     },
     {
-      "naslov": "Andrej Ilić strelac u remiju fudbalera Union Berlina i Sankt Paulija u Bundesligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/242963/andrej-ilic-strelac-u-remiju-fudbalera-union-berlina-i-sankt-paulija-u-bundesligi/vest",
+      "naslov": "Fudbaleri Partizana i Čukaričkog odigrali nerešeno u 29. kolu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/242983/fudbaleri-partizana-i-cukarickog-odigrali-nereseno-u-29-kolu-superlige-srbije/vest",
       "izvor": "Танјуг",
-      "datum": "5. 04. 2026. у 18:02",
+      "datum": "5. 04. 2026. у 21:14",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri PSV-a iz Ajndhovena treći put uzastopno osvojili titulu šampiona Holandije",
-      "url": "https://www.tanjug.rs/sport/fudbal/242955/fudbaleri-psv-a-iz-ajndhovena-treci-put-uzastopno-osvojili-titulu-sampiona-holandije/vest",
+      "naslov": "Fudbaleri Lidsa izborili plasman u polufinale FA kupa",
+      "url": "https://www.tanjug.rs/sport/fudbal/242981/fudbaleri-lidsa-izborili-plasman-u-polufinale-fa-kupa/vest",
       "izvor": "Танјуг",
-      "datum": "5. 04. 2026. у 17:30",
+      "datum": "5. 04. 2026. у 20:44",
       "slika": null
     },
     {
-      "naslov": "Crveni karton za Čukarički – Partizan dobio poklon!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222336/superliga-29-kolo-partizan-cukaricki-uzivo-prenos-gde-gledati/vest",
+      "naslov": "Blagojević: &quot;Predstoji nam velika borba sa samim sobom&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222383/blagojevic-predstoji-nam-velika-borba-sa-samim-sobom/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 04. 2026. у 19:58",
+      "datum": "5. 04. 2026. у 21:14",
       "slika": null
     },
     {
-      "naslov": "Stanković: &quot;Imali smo probleme u svakom delu terena – imam šta da kažem igračima&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222362/stankovic-imali-smo-probleme-u-svakom-delu-terena-imam-sta-da-kazem-igracima/vest",
+      "naslov": "Svima je igrač više prednost, osim Partizanu – Čukarički odoleo u Humskoj",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222336/superliga-29-kolo-partizan-cukaricki-00-izvestaj-sa-utakmice/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 04. 2026. у 19:10",
+      "datum": "5. 04. 2026. у 21:01",
       "slika": null
     }
   ]
