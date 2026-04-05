@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-05T10:01:59.650504+00:00",
-  "azurirano_sr": "5. 04. 2026. у 12:01",
+  "azurirano": "2026-04-05T11:18:57.267158+00:00",
+  "azurirano_sr": "5. 04. 2026. у 13:18",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Vest Hem protiv Lidsa ima dva aduta - Nuna i čudesnog Bouvena",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vest-hem-protiv-lidsa-ima-dva-aduta-nuna-i-cudesnog-bouvena/540486",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 04. 2026. у 14:30",
+      "slika": null
+    },
     {
       "naslov": "Ivan Gvozdenović trener meseca u Albaniji",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ivan-gvozdenovic-trener-meseca-u-albaniji/540477",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Džaba mu naklonjen žreb kad se sa svima muči: Arsenal osramoćen protiv drugoligaša",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dzaba-mu-naklonjen-zreb-kad-se-sa-svima-muci-arsenal-osramocen-protiv-drugoligasa/540455",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 04. 2026. у 01:05",
+      "naslov": "JSD Partizan: Zabrinuti smo zbog dešavanja u FK, tražićemo hitan sastanak sa Upravom",
+      "url": "https://www.tanjug.rs/sport/fudbal/242896/jsd-partizan-zabrinuti-smo-zbog-desavanja-u-fk-trazicemo-hitan-sastanak-sa-upravom/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 04. 2026. у 11:43",
+      "slika": null
+    },
+    {
+      "naslov": "Mikel Arteta: Očekivanja su velika, sami sebi postavljamo najviše standarde",
+      "url": "https://www.tanjug.rs/sport/fudbal/242893/mikel-arteta-ocekivanja-su-velika-sami-sebi-postavljamo-najvise-standarde/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 04. 2026. у 11:20",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/242878/mesi-strelac-u-remiju-intera-i-ostina-na-otvaranju-novog-stadiona-kluba-iz-majamija/vest",
       "izvor": "Танјуг",
       "datum": "5. 04. 2026. у 09:43",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Arsenala eliminisani u četvrtfinalu FA kupa od drugoligaša Sautemptona",
-      "url": "https://www.tanjug.rs/sport/fudbal/242842/fudbaleri-arsenala-eliminisani-u-cetvrtfinalu-fa-kupa-od-drugoligasa-sautemptona/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 04. 2026. у 23:19",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Barselone sa igračem više savladali Atletiko za \"plus sedam\" na vrhu tabele",
-      "url": "https://www.tanjug.rs/sport/fudbal/242840/fudbaleri-barselone-sa-igracem-vise-savladali-atletiko-za-plus-sedam-na-vrhu-tabele/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 04. 2026. у 23:07",
       "slika": null
     },
     {
