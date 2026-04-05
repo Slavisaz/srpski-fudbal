@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-05T21:02:17.532689+00:00",
-  "azurirano_sr": "5. 04. 2026. у 23:02",
+  "azurirano": "2026-04-05T21:59:43.506270+00:00",
+  "azurirano_sr": "5. 04. 2026. у 23:59",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Mančester sitija protiv Sautemptona, Čelsi sa Lidsom u polufinalu FA kupa",
+      "url": "https://www.tanjug.rs/sport/fudbal/242996/fudbaleri-mancester-sitija-protiv-sautemptona-celsi-sa-lidsom-u-polufinalu-fa-kupa/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 04. 2026. у 23:05",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Monaka savladali Marsej u 28. kolu francuskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/242995/fudbaleri-monaka-savladali-marsej-u-28-kolu-francuskog-prvenstva/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 04. 2026. у 22:57",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Intera ubedljivi protiv Rome u 31. kolu Serije A",
       "url": "https://www.tanjug.rs/sport/fudbal/242992/fudbaleri-intera-ubedljivi-protiv-rome-u-31-kolu-serije-a/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/242991/fudbaleri-aek-a-pobedili-olimpijakos-remi-paok-a-i-panatinaikosa-u-grckoj-ligi/vest",
       "izvor": "Танјуг",
       "datum": "5. 04. 2026. у 22:29",
-      "slika": null
-    },
-    {
-      "naslov": "Srđan Blagojević: Imamo problem, nedostajala nam je energija i želja da postignemo gol",
-      "url": "https://www.tanjug.rs/sport/fudbal/242986/srdan-blagojevic-imamo-problem-nedostajala-nam-je-energija-i-zelja-da-postignemo-gol/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 04. 2026. у 21:32",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Fenerbahčea pobedili Bešiktaš golom iz penala u 90+11. minutu",
-      "url": "https://www.tanjug.rs/sport/fudbal/242984/fudbaleri-fenerbahcea-pobedili-besiktas-golom-iz-penala-u-9011-minutu/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 04. 2026. у 21:20",
       "slika": null
     },
     {
