@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-05T17:06:16.801097+00:00",
-  "azurirano_sr": "5. 04. 2026. у 19:06",
+  "azurirano": "2026-04-05T18:02:59.560041+00:00",
+  "azurirano_sr": "5. 04. 2026. у 20:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Prepoznajte čoveka sa slike: Dva gola Zvezdi u polufinalu Kupa i luda polusezona u Humskoj",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prepoznajte-coveka-sa-slike-dva-gola-zvezdi-u-polufinalu-kupa-i-luda-polusezona-u-humskoj/540524",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 04. 2026. у 21:35",
+      "slika": null
+    },
     {
       "naslov": "Lome se koplja u Kinšasi, strelac gola u finalu Lige šampiona i nada PSŽ-a bi mogao da igra za DR Kongo",
       "url": "https://www.mozzartsport.com/fudbal/vesti/lome-se-koplja-u-kinsasi-strelac-gola-u-finalu-lige-sampiona-i-nada-psza-bi-mogao-da-igra-za-dr-kongo/540519",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Lekarski izveštaj iz Barselone: Arauho spreman za sredu, Bernal teško",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lekarski-izvestaj-iz-barselone-arauho-spreman-za-sredu-bernal-tesko/540497",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 04. 2026. у 17:07",
+      "naslov": "Dejan Stanković: Bili smo nervozni i donosili loše odluke, najvažnija su tri boda",
+      "url": "https://www.tanjug.rs/sport/fudbal/242969/dejan-stankovic-bili-smo-nervozni-i-donosili-lose-odluke-najvaznija-su-tri-boda/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 04. 2026. у 19:30",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Simone Inzagi: Žao mi je Italije, ali ne želim da budem selektor",
-      "url": "https://www.tanjug.rs/sport/fudbal/242927/simone-inzagi-zao-mi-je-italije-ali-ne-zelim-da-budem-selektor/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 04. 2026. у 14:27",
-      "slika": null
-    },
-    {
-      "naslov": "Počeo je derbi kola – Partizan protiv Čukaričkog u Humskoj",
+      "naslov": "Crveni karton za Čukarički – Partizan dobio poklon!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222336/superliga-29-kolo-partizan-cukaricki-uzivo-prenos-gde-gledati/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 04. 2026. у 19:04",
+      "datum": "5. 04. 2026. у 19:58",
       "slika": null
     },
     {
-      "naslov": "Stanković: &quot;Zadovoljan sam sa tri boda&quot;; Ranđelović: &quot;Nadamo se plej-ofu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222362/stankovic-zadovoljan-sam-sa-tri-boda-randjelovic-nadamo-se-plej-ofu/vest",
+      "naslov": "Stanković: &quot;Imali smo probleme u svakom delu terena – imam šta da kažem igračima&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222362/stankovic-imali-smo-probleme-u-svakom-delu-terena-imam-sta-da-kazem-igracima/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 04. 2026. у 19:03",
+      "datum": "5. 04. 2026. у 19:10",
       "slika": null
     }
   ]
