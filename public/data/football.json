@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-06T19:59:40.016360+00:00",
-  "azurirano_sr": "6. 04. 2026. у 21:59",
+  "azurirano": "2026-04-06T21:53:14.859120+00:00",
+  "azurirano_sr": "6. 04. 2026. у 23:53",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Napolija minimalno pobedili Milan",
+      "url": "https://www.tanjug.rs/sport/fudbal/243198/fudbaleri-napolija-minimalno-pobedili-milan/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 04. 2026. у 22:48",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Juventusa pobedili Đenovu",
       "url": "https://www.tanjug.rs/sport/fudbal/243178/fudbaleri-juventusa-pobedili-denovu/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Mihailo Ivanović strelac u porazu fudbalera Milvola od Noriča",
-      "url": "https://www.tanjug.rs/sport/fudbal/243130/mihailo-ivanovic-strelac-u-porazu-fudbalera-milvola-od-norica/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 04. 2026. у 16:06",
+      "naslov": "&quot;U narednih pet-šest godina Partizan ne može da bude konkurentan Crvenoj zvezdi&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222683/vukasin-jovanovic-partizan-ne-moze-da-bude-konkurentan-zvezdi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "6. 04. 2026. у 22:05",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222652/zoran-alilovic-i-mihajlo-petkovic-igraju-protiv-partizana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "6. 04. 2026. у 19:35",
-      "slika": null
-    },
-    {
-      "naslov": "Skandal u Srpskoj ligi: Huligani pretukli trenera VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222632/skandal-u-srpskoj-ligi-huligani-pretukli-trenera-video/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 04. 2026. у 18:30",
       "slika": null
     }
   ]
