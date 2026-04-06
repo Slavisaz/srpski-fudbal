@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-04-06T06:20:08.231530+00:00",
-  "azurirano_sr": "6. 04. 2026. у 08:20",
+  "azurirano": "2026-04-06T10:20:20.090356+00:00",
+  "azurirano_sr": "6. 04. 2026. у 12:20",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nema spasa za Stojićev Soči, druga liga je neizbežna",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nema-spasa-za-stojicev-soci-druga-liga-je-neizbezna/540576",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 04. 2026. у 13:30",
+      "slika": null
+    },
+    {
+      "naslov": "Videli smo i sad u reprezentaciji Srbije, Mihajlo ima ubilački instinkt",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/videli-smo-i-sad-u-reprezentaciji-srbije-mihajlo-ima-ubilacki-instinkt/540564",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 04. 2026. у 11:26",
+      "slika": null
+    },
+    {
+      "naslov": "Marko, hvala ti za novu stranicu grčkog fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/marko-hvala-ti-za-novu-stranicu-grckog-fudbala/540559",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 04. 2026. у 10:45",
+      "slika": null
+    },
     {
       "naslov": "Jakšić: Ponosan sam na lavovsku borbu, okrećemo se sledećoj sezoni",
       "url": "https://www.mozzartsport.com/fudbal/vesti/jaksic-ponosan-sam-na-lavovsku-borbu-okrecemo-se-sledecoj-sezoni/540538",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Dajte pivo iz paba \"Stari Paun\" preko puta ulice Eland: Lids ide na Vembli, polufinale posle 39 godina",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dajte-pivo-iz-paba-stari-paun-preko-puta-ulice-eland-lids-ide-na-vembli-polufinale-posle-39-godina/540523",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 04. 2026. у 22:47",
+      "naslov": "Pep Lijnders: Bernardo Silva napušta Mančester siti na kraju sezone",
+      "url": "https://www.tanjug.rs/sport/fudbal/243042/pep-lijnders-bernardo-silva-napusta-mancester-siti-na-kraju-sezone/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 04. 2026. у 10:05",
       "slika": null
     },
     {
-      "naslov": "Prepoznajte čoveka sa slike: Dva gola Zvezdi u polufinalu Kupa i luda polusezona u Humskoj",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prepoznajte-coveka-sa-slike-dva-gola-zvezdi-u-polufinalu-kupa-i-luda-polusezona-u-humskoj/540524",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 04. 2026. у 21:35",
-      "slika": null
-    },
-    {
-      "naslov": "Lome se koplja u Kinšasi, strelac gola u finalu Lige šampiona i nada PSŽ-a bi mogao da igra za DR Kongo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lome-se-koplja-u-kinsasi-strelac-gola-u-finalu-lige-sampiona-i-nada-psza-bi-mogao-da-igra-za-dr-kongo/540519",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 04. 2026. у 20:43",
+      "naslov": "Real Madrid sutra čeka Bajern, Arsenal gostuje Sportingu u prvim mečevima četvrtfinala Lige šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/243038/real-madrid-sutra-ceka-bajern-arsenal-gostuje-sportingu-u-prvim-mecevima-cetvrtfinala-lige-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 04. 2026. у 09:44",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Intera ubedljivi protiv Rome u 31. kolu Serije A",
-      "url": "https://www.tanjug.rs/sport/fudbal/242992/fudbaleri-intera-ubedljivi-protiv-rome-u-31-kolu-serije-a/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 04. 2026. у 22:42",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri AEK-a pobedili Olimpijakos, remi PAOK-a i Panatinaikosa u grčkoj ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/242991/fudbaleri-aek-a-pobedili-olimpijakos-remi-paok-a-i-panatinaikosa-u-grckoj-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 04. 2026. у 22:29",
-      "slika": null
-    },
-    {
-      "naslov": "Blagojević: &quot;Predstoji nam velika borba sa samim sobom&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222383/blagojevic-predstoji-nam-velika-borba-sa-samim-sobom/vest",
+      "naslov": "Novi Pazar i Partizan pred praznim tribinama",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222490/novi-pazar-i-partizan-pred-praznim-tribinama/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 04. 2026. у 21:14",
+      "datum": "6. 04. 2026. у 11:39",
       "slika": null
     },
     {
-      "naslov": "Svima je igrač više prednost, osim Partizanu – Čukarički odoleo u Humskoj",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222336/superliga-29-kolo-partizan-cukaricki-00-izvestaj-sa-utakmice/vest",
+      "naslov": "Partizan čeka Andreja Kostića",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222468/partizan-ceka-andreja-kostica/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 04. 2026. у 21:01",
+      "datum": "6. 04. 2026. у 11:00",
       "slika": null
     }
   ]
