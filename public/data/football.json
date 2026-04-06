@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-04-06T12:09:03.777812+00:00",
-  "azurirano_sr": "6. 04. 2026. у 14:09",
+  "azurirano": "2026-04-06T15:08:00.203865+00:00",
+  "azurirano_sr": "6. 04. 2026. у 17:08",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Peleova strela u srce Milvolovih premijerligaških ambicija, uzalud gol Ivanovića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/peleova-strela-u-srce-milvolovih-premijerligaskih-ambicija-uzalud-gol-ivanovica/540594",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 04. 2026. у 18:02",
+      "slika": null
+    },
+    {
+      "naslov": "Kosta Runjaić zaustavio tim sa najboljom formom u Italiji: Kiks koji bi Komo mogao skupo da košta...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kosta-runjaic-zaustavio-tim-sa-najboljom-formom-u-italiji-kiks-koji-bi-komo-mogao-skupo-da-kosta/540590",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 04. 2026. у 16:35",
+      "slika": null
+    },
+    {
+      "naslov": "Srbi dominiraju u Grčkoj: Luka Jović igrač meseca",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbi-dominiraju-u-grckoj-luka-jovic-igrac-meseca/540587",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 04. 2026. у 16:11",
+      "slika": null
+    },
     {
       "naslov": "Romantika se vraća na Staru Karaburmu: Bitna stvar i za srpski fudbal",
       "url": "https://www.mozzartsport.com/fudbal/vesti/romantika-se-vraca-na-staru-karaburmu-bitna-stvar-i-za-srpski-fudbal/540580",
@@ -11,24 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Amaterski Galaktikosi doveli i Valensiju: Ismejete se dobro i popijete pivo posle utakmice - teško da može bolje...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/amaterski-galaktikosi-doveli-i-valensiju-ismejete-se-dobro-i-popijete-pivo-posle-utakmice-tesko-da-moze-bolje/540581",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 04. 2026. у 15:06",
+      "naslov": "Đorđe Nikolić: Zaslužili smo bod protiv Partizana",
+      "url": "https://www.tanjug.rs/sport/fudbal/243141/dorde-nikolic-zasluzili-smo-bod-protiv-partizana/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 04. 2026. у 16:43",
       "slika": null
     },
     {
-      "naslov": "Kodžaeli tone bez Jovanovića i Petkovića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kodzaeli-tone-bez-jovanovica-i-petkovica/540579",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 04. 2026. у 14:40",
+      "naslov": "Aleksandar Stanković i Mihajlo Cvetković postigli golove u pobedi fudbalera Klub Briža protiv Anderlehta",
+      "url": "https://www.tanjug.rs/sport/fudbal/243138/aleksandar-stankovic-i-mihajlo-cvetkovic-postigli-golove-u-pobedi-fudbalera-klub-briza-protiv-anderlehta/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 04. 2026. у 16:29",
       "slika": null
     },
     {
-      "naslov": "Nema spasa za Stojićev Soči, druga liga je neizbežna",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nema-spasa-za-stojicev-soci-druga-liga-je-neizbezna/540576",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 04. 2026. у 13:30",
+      "naslov": "Mihailo Ivanović strelac u porazu fudbalera Milvola od Noriča",
+      "url": "https://www.tanjug.rs/sport/fudbal/243130/mihailo-ivanovic-strelac-u-porazu-fudbalera-milvola-od-norica/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 04. 2026. у 16:06",
       "slika": null
     },
     {
@@ -39,31 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Andrej Mrkela: Povratak OFK Beograda na Karaburmu bitna stvar za srpski fudbal",
-      "url": "https://www.tanjug.rs/sport/fudbal/243068/andrej-mrkela-povratak-ofk-beograda-na-karaburmu-bitna-stvar-za-srpski-fudbal/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 04. 2026. у 12:01",
-      "slika": null
-    },
-    {
-      "naslov": "Pep Lijnders: Bernardo Silva napušta Mančester siti na kraju sezone",
-      "url": "https://www.tanjug.rs/sport/fudbal/243042/pep-lijnders-bernardo-silva-napusta-mancester-siti-na-kraju-sezone/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 04. 2026. у 10:05",
-      "slika": null
-    },
-    {
-      "naslov": "Real Madrid sutra čeka Bajern, Arsenal gostuje Sportingu u prvim mečevima četvrtfinala Lige šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/243038/real-madrid-sutra-ceka-bajern-arsenal-gostuje-sportingu-u-prvim-mecevima-cetvrtfinala-lige-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 04. 2026. у 09:44",
-      "slika": null
-    },
-    {
       "naslov": "VAR analiza: Baš se grešilo u Subotici VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222549/var-analiza-bas-se-gresilo-u-subotici-video/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "6. 04. 2026. у 14:05",
+      "datum": "6. 04. 2026. у 14:18",
       "slika": null
     },
     {
