@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-07T16:17:20.116407+00:00",
-  "azurirano_sr": "7. 04. 2026. у 18:17",
+  "azurirano": "2026-04-07T19:49:54.432365+00:00",
+  "azurirano_sr": "7. 04. 2026. у 21:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "UŽIVO - Liga šampiona: Real Madrid - Bajern, Sporting - Arsenal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-real-madrid-bajern-sporting-arsenal/540673",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 04. 2026. у 22:13",
+      "slika": null
+    },
+    {
+      "naslov": "Zahović oštar prema Feđi Dudiću: Sramota me od priče da je cilj Maribora drugo mesto",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zahovic-ostar-prema-fei-dudicu-sramota-me-od-price-da-je-cilj-maribora-drugo-mesto/540670",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 04. 2026. у 21:42",
+      "slika": null
+    },
     {
       "naslov": "U Velsu puls 200, stiže Sautempton, sledi bitka za Top 6",
       "url": "https://www.mozzartsport.com/fudbal/vesti/u-velsu-puls-200-stize-sautempton-sledi-bitka-za-top-6/540648",
@@ -18,59 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Vini vs Mafeo ili najveća mržnja fudbala: Nema tebi Zlatne lopte, tebi ide – lopta za plažu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vini-vs-mafeo-ili-najveca-mrznja-fudbala-nema-tebi-zlatne-lopte-tebi-ide-lopta-za-plazu/540633",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 04. 2026. у 12:36",
-      "slika": null
-    },
-    {
-      "naslov": "Iza kulisa najvećih fudbalskih transfera: Od Belingema i Garnača, do Hanibala i Sanča",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/iza-kulisa-najvecih-fudbalskih-transfera-od-belingema-i-garnaca-do-hanibala-i-sanca/540630",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 04. 2026. у 11:13",
-      "slika": null
-    },
-    {
-      "naslov": "Takis Lemonis nije više trener fudbalera niškog Radničkog",
-      "url": "https://www.tanjug.rs/sport/fudbal/243313/takis-lemonis-nije-vise-trener-fudbalera-niskog-radnickog/vest",
+      "naslov": "FIFA pokrenula disciplinski postupak protiv Španije zbog skandiranja protiv Egipta",
+      "url": "https://www.tanjug.rs/sport/fudbal/243418/fifa-pokrenula-disciplinski-postupak-protiv-spanije-zbog-skandiranja-protiv-egipta/vest",
       "izvor": "Танјуг",
-      "datum": "7. 04. 2026. у 14:11",
+      "datum": "7. 04. 2026. у 20:35",
       "slika": null
     },
     {
-      "naslov": "Kapiten fudbalske reprezentacije Velsa Aron Remzi završio igračku karijeru",
-      "url": "https://www.tanjug.rs/sport/fudbal/243303/kapiten-fudbalske-reprezentacije-velsa-aron-remzi-zavrsio-igracku-karijeru/vest",
+      "naslov": "Preminuo rumunski fudbalski trener Mirčea Lučesku",
+      "url": "https://www.tanjug.rs/sport/fudbal/243414/preminuo-rumunski-fudbalski-trener-mircea-lucesku/vest",
       "izvor": "Танјуг",
-      "datum": "7. 04. 2026. у 13:47",
+      "datum": "7. 04. 2026. у 20:28",
       "slika": null
     },
     {
-      "naslov": "Fudbaler Juventusa Dušan Vlahović biće van terena do 20 dana",
-      "url": "https://www.tanjug.rs/sport/fudbal/243297/fudbaler-juventusa-dusan-vlahovic-bice-van-terena-do-20-dana/vest",
+      "naslov": "FK Crvena zvezda: Fan zona za najmlađe navijače pred utakmicu protiv Spartaka",
+      "url": "https://www.tanjug.rs/sport/fudbal/243400/fk-crvena-zvezda-fan-zona-za-najmlade-navijace-pred-utakmicu-protiv-spartaka/vest",
       "izvor": "Танјуг",
-      "datum": "7. 04. 2026. у 13:31",
+      "datum": "7. 04. 2026. у 19:30",
       "slika": null
     },
     {
-      "naslov": "OFK Beograd se vraća na Karaburmu: Besplatan ulaz za navijače na meč protiv Radnika",
-      "url": "https://www.tanjug.rs/sport/fudbal/243290/ofk-beograd-se-vraca-na-karaburmu-besplatan-ulaz-za-navijace-na-mec-protiv-radnika/vest",
+      "naslov": "Tanjga: Daćemo sve od sebe da pobedimo Radnički i zadržimo drugo mesto pred plej-of",
+      "url": "https://www.tanjug.rs/sport/fudbal/243388/tanjga-dacemo-sve-od-sebe-da-pobedimo-radnicki-i-zadrzimo-drugo-mesto-pred-plej-of/vest",
       "izvor": "Танјуг",
-      "datum": "7. 04. 2026. у 13:06",
+      "datum": "7. 04. 2026. у 18:42",
       "slika": null
     },
     {
-      "naslov": "Hitna reakcija FSS: Radujko uputio dopis – pokreće se istraga zbog Spartaka!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222942/fss-pokrece-hitnu-istragu-nakon-otvorenog-pisma-spartaka/vest",
+      "naslov": "Tanjga: &quot;Idemo po drugo mesto pred plej-of&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222968/tanjga-idemo-po-drugo-mesto-pred-plej-of/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "7. 04. 2026. у 17:48",
+      "datum": "7. 04. 2026. у 21:40",
       "slika": null
     },
     {
-      "naslov": "OFK Beograd se vraća na Karaburmu  – ulaz slobodan",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222848/ofk-beograd-se-vraca-na-karaburmu-ulaz-slobodan/vest",
+      "naslov": "Lalatović pred Partizan: &quot;Spavaću u manastiru, idem na liturgiju&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222950/lalatovic-pred-partizan-spavacu-u-manastiru-idem-na-liturgiju/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "7. 04. 2026. у 16:00",
+      "datum": "7. 04. 2026. у 18:27",
       "slika": null
     }
   ]
