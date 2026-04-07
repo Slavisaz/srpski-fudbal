@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-07T09:52:03.524569+00:00",
-  "azurirano_sr": "7. 04. 2026. у 11:52",
+  "azurirano": "2026-04-07T12:07:04.215715+00:00",
+  "azurirano_sr": "7. 04. 2026. у 14:07",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "U Velsu puls 200, stiže Sautempton, sledi bitka za Top 6",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/u-velsu-puls-200-stize-sautempton-sledi-bitka-za-top-6/540648",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 04. 2026. у 15:50",
+      "slika": null
+    },
+    {
+      "naslov": "Đekereš ili njegov dvojnik? Arsenal za koplje ispred Sportinga, ali lavovi su gladni novih pobeda",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ekeres-ili-njegov-dvojnik-arsenal-za-koplje-ispred-sportinga-ali-lavovi-su-gladni-novih-pobeda/540642",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 04. 2026. у 14:55",
+      "slika": null
+    },
     {
       "naslov": "Vini vs Mafeo ili najveća mržnja fudbala: Nema tebi Zlatne lopte, tebi ide – lopta za plažu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vini-vs-mafeo-ili-najveca-mrznja-fudbala-nema-tebi-zlatne-lopte-tebi-ide-lopta-za-plazu/540633",
@@ -18,45 +32,31 @@
       "slika": null
     },
     {
-      "naslov": "Raport sa srpskoligaških terena: Čudo da je meč u Ogaru priveden kraju; banka otpisanih Paraćinaca",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-cudo-da-je-mec-u-ogaru-priveden-kraju-banka-otpisanih-paracinaca/540628",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 04. 2026. у 10:59",
-      "slika": null
-    },
-    {
-      "naslov": "NAJAVA DANA (utorak, 7. april): Sve pršti od Reala s Bajernom i Zvezde u evroligaškoj euforiji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-7-april-sve-prsti-od-reala-s-bajernom-i-zvezde-u-evroligaskoj-euforiji/540591",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 04. 2026. у 10:15",
-      "slika": null
-    },
-    {
-      "naslov": "Antonio Konte: Već sam bio selektor Italije, lepo je predstavljati svoju zemlju",
-      "url": "https://www.tanjug.rs/sport/fudbal/243256/antonio-konte-vec-sam-bio-selektor-italije-lepo-je-predstavljati-svoju-zemlju/vest",
+      "naslov": "Kapiten fudbalske reprezentacije Velsa Aron Remzi završio igračku karijeru",
+      "url": "https://www.tanjug.rs/sport/fudbal/243303/kapiten-fudbalske-reprezentacije-velsa-aron-remzi-zavrsio-igracku-karijeru/vest",
       "izvor": "Танјуг",
-      "datum": "7. 04. 2026. у 11:07",
+      "datum": "7. 04. 2026. у 13:47",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Napolija minimalno pobedili Milan",
-      "url": "https://www.tanjug.rs/sport/fudbal/243198/fudbaleri-napolija-minimalno-pobedili-milan/vest",
+      "naslov": "Fudbaler Juventusa Dušan Vlahović biće van terena do 20 dana",
+      "url": "https://www.tanjug.rs/sport/fudbal/243297/fudbaler-juventusa-dusan-vlahovic-bice-van-terena-do-20-dana/vest",
       "izvor": "Танјуг",
-      "datum": "6. 04. 2026. у 22:48",
+      "datum": "7. 04. 2026. у 13:31",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Juventusa pobedili Đenovu",
-      "url": "https://www.tanjug.rs/sport/fudbal/243178/fudbaleri-juventusa-pobedili-denovu/vest",
+      "naslov": "OFK Beograd se vraća na Karaburmu: Besplatan ulaz za navijače na meč protiv Radnika",
+      "url": "https://www.tanjug.rs/sport/fudbal/243290/ofk-beograd-se-vraca-na-karaburmu-besplatan-ulaz-za-navijace-na-mec-protiv-radnika/vest",
       "izvor": "Танјуг",
-      "datum": "6. 04. 2026. у 20:05",
+      "datum": "7. 04. 2026. у 13:06",
       "slika": null
     },
     {
-      "naslov": "Đorđe Nikolić: Zaslužili smo bod protiv Partizana",
-      "url": "https://www.tanjug.rs/sport/fudbal/243141/dorde-nikolic-zasluzili-smo-bod-protiv-partizana/vest",
+      "naslov": "Engleski fudbaler Hari Megvajer produžio ugovor sa Mančester junajtedom",
+      "url": "https://www.tanjug.rs/sport/fudbal/243277/engleski-fudbaler-hari-megvajer-produzio-ugovor-sa-mancester-junajtedom/vest",
       "izvor": "Танјуг",
-      "datum": "6. 04. 2026. у 16:43",
+      "datum": "7. 04. 2026. у 12:14",
       "slika": null
     },
     {
