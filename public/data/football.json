@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-07T12:07:04.215715+00:00",
-  "azurirano_sr": "7. 04. 2026. у 14:07",
+  "azurirano": "2026-04-07T16:17:20.116407+00:00",
+  "azurirano_sr": "7. 04. 2026. у 18:17",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Takis Lemonis nije više trener fudbalera niškog Radničkog",
+      "url": "https://www.tanjug.rs/sport/fudbal/243313/takis-lemonis-nije-vise-trener-fudbalera-niskog-radnickog/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 04. 2026. у 14:11",
+      "slika": null
+    },
+    {
       "naslov": "Kapiten fudbalske reprezentacije Velsa Aron Remzi završio igračku karijeru",
       "url": "https://www.tanjug.rs/sport/fudbal/243303/kapiten-fudbalske-reprezentacije-velsa-aron-remzi-zavrsio-igracku-karijeru/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Engleski fudbaler Hari Megvajer produžio ugovor sa Mančester junajtedom",
-      "url": "https://www.tanjug.rs/sport/fudbal/243277/engleski-fudbaler-hari-megvajer-produzio-ugovor-sa-mancester-junajtedom/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 04. 2026. у 12:14",
+      "naslov": "Hitna reakcija FSS: Radujko uputio dopis – pokreće se istraga zbog Spartaka!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222942/fss-pokrece-hitnu-istragu-nakon-otvorenog-pisma-spartaka/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 04. 2026. у 17:48",
       "slika": null
     },
     {
-      "naslov": "&quot;U narednih pet-šest godina Partizan ne može da bude konkurentan Crvenoj zvezdi&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222683/vukasin-jovanovic-partizan-ne-moze-da-bude-konkurentan-zvezdi/vest",
+      "naslov": "OFK Beograd se vraća na Karaburmu  – ulaz slobodan",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222848/ofk-beograd-se-vraca-na-karaburmu-ulaz-slobodan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "6. 04. 2026. у 22:05",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan u Pazaru i protiv &quot;svojih&quot;?!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222652/zoran-alilovic-i-mihajlo-petkovic-igraju-protiv-partizana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 04. 2026. у 19:35",
+      "datum": "7. 04. 2026. у 16:00",
       "slika": null
     }
   ]
