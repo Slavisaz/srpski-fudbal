@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-08T16:21:03.324894+00:00",
-  "azurirano_sr": "8. 04. 2026. у 18:21",
+  "azurirano": "2026-04-08T19:52:11.211639+00:00",
+  "azurirano_sr": "8. 04. 2026. у 21:52",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Argumentacija za Zlatnu loptu predata",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/argumentacija-za-zlatnu-loptu-predata/540748",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 04. 2026. у 20:07",
+      "slika": null
+    },
     {
       "naslov": "Zenit i Spartak opet oči u oči, sada igraju za finale kupa",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zenit-i-spartak-opet-oci-u-oci-sada-igraju-za-finale-kupa/540736",
@@ -25,52 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Treća runda: Čolo može da izdrži ozbiljne batine, a Barsa mora da se vrati u Madrid",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/treca-runda-colo-moze-da-izdrzi-ozbiljne-batine-a-barsa-mora-da-se-vrati-u-madrid/540707",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 04. 2026. у 13:05",
-      "slika": null
-    },
-    {
-      "naslov": "Simeone o Grizmanu: Jedan je od najboljih igrača koje smo ikada imali",
-      "url": "https://www.tanjug.rs/sport/fudbal/243586/simeone-o-grizmanu-jedan-je-od-najboljih-igraca-koje-smo-ikada-imali/vest",
+      "naslov": "Fudbaleri Mladosti nadigrali Napredak u 30. kolu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/243682/fudbaleri-mladosti-nadigrali-napredak-u-30-kolu-superlige-srbije/vest",
       "izvor": "Танјуг",
-      "datum": "8. 04. 2026. у 14:01",
+      "datum": "8. 04. 2026. у 21:11",
       "slika": null
     },
     {
-      "naslov": "Srđan Blagojević: Očekuje nas veoma zahtevna i izazovna utakmica protiv Novog Pazara",
-      "url": "https://www.tanjug.rs/sport/fudbal/243554/srdan-blagojevic-ocekuje-nas-veoma-zahtevna-i-izazovna-utakmica-protiv-novog-pazara/vest",
+      "naslov": "Remi fudbalera Brage i Betisa u prvoj utakmici četvrtfinala Lige Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/243677/remi-fudbalera-brage-i-betisa-u-prvoj-utakmici-cetvrtfinala-lige-evrope/vest",
       "izvor": "Танјуг",
-      "datum": "8. 04. 2026. у 12:53",
+      "datum": "8. 04. 2026. у 20:51",
       "slika": null
     },
     {
-      "naslov": "FK Crvena zvezda: \"Super Zvezdaši\" i deca do 14 godina besplatno protiv Spartaka",
-      "url": "https://www.tanjug.rs/sport/fudbal/243547/fk-crvena-zvezda-super-zvezdasi-i-deca-do-14-godina-besplatno-protiv-spartaka/vest",
+      "naslov": "Fudbaleri Vojvodine savladali Radnički iz Niša za drugo mesto na tabeli pred plej-of",
+      "url": "https://www.tanjug.rs/sport/fudbal/243676/fudbaleri-vojvodine-savladali-radnicki-iz-nisa-za-drugo-mesto-na-tabeli-pred-plej-of/vest",
       "izvor": "Танјуг",
-      "datum": "8. 04. 2026. у 12:41",
+      "datum": "8. 04. 2026. у 20:37",
       "slika": null
     },
     {
-      "naslov": "Alvaro Arbeloa: Mi smo Real, idemo u Minhen da pobedimo Bajern",
-      "url": "https://www.tanjug.rs/sport/fudbal/243495/alvaro-arbeloa-mi-smo-real-idemo-u-minhen-da-pobedimo-bajern/vest",
+      "naslov": "Fudbaleri Železničara pobedili Javor, IMT nadigrao TSC u Superligi Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/243661/fudbaleri-zeleznicara-pobedili-javor-imt-nadigrao-tsc-u-superligi-srbije/vest",
       "izvor": "Танјуг",
-      "datum": "8. 04. 2026. у 10:11",
+      "datum": "8. 04. 2026. у 18:58",
       "slika": null
     },
     {
-      "naslov": "Blagojević: &quot;Svesni smo svojih slabosti&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223123/blagojevic-svesni-smo-svojih-slabosti/vest",
+      "naslov": "Poznat datum &quot;večitog&quot; derbija u plej-ofu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223287/poznat-datum-vecitog-derbija-u-plej-ofu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "8. 04. 2026. у 11:53",
+      "datum": "8. 04. 2026. у 20:17",
       "slika": null
     },
     {
-      "naslov": "Počinje privatizacija srpskih klubova – Ranko Stojić najavio prvu veliku promenu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223106/pocinje-privatizacija-srpskih-klubova-ranko-stojic-najavio-prvu-veliku-promenu/vest",
+      "naslov": "Vojvodina čekirala drugo mesto za plej-of VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223283/vojvodina-cekirala-drugo-mesto-za-plej-of-video/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "8. 04. 2026. у 11:12",
+      "datum": "8. 04. 2026. у 20:00",
       "slika": null
     }
   ]
