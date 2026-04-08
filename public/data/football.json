@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-04-08T06:01:04.824855+00:00",
-  "azurirano_sr": "8. 04. 2026. у 08:01",
+  "azurirano": "2026-04-08T09:52:34.004729+00:00",
+  "azurirano_sr": "8. 04. 2026. у 11:52",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Son se budi kad je najvažnije: Posle četiri asistencije dao gol, Los Anđeles jednom nogom u polufinalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/son-se-budi-kad-je-najvaznije-posle-cetiri-asistencije-dao-gol-los-aneles-jednom-nogom-u-polufinalu/540695",
+      "naslov": "Treća runda: Čolo može da izdrži ozbiljne batine, a Barsa mora da se vrati u Madrid",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/treca-runda-colo-moze-da-izdrzi-ozbiljne-batine-a-barsa-mora-da-se-vrati-u-madrid/540707",
       "izvor": "Мозарт Спорт",
-      "datum": "8. 04. 2026. у 07:45",
+      "datum": "8. 04. 2026. у 13:05",
       "slika": null
     },
     {
-      "naslov": "Rezzime dana (utorak): Jak fudbal, pune mreže",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-utorak-jak-fudbal-pune-mreze/540686",
+      "naslov": "Previše smo gledali kako igra fudbal da smo zaboravili kako brani",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/previse-smo-gledali-kako-igra-fudbal-da-smo-zaboravili-kako-brani/540706",
       "izvor": "Мозарт Спорт",
-      "datum": "8. 04. 2026. у 01:02",
+      "datum": "8. 04. 2026. у 12:25",
       "slika": null
     },
     {
-      "naslov": "Bajern sat vremena bio Realova \"Bestia Negra\", Embape sačuvao nadu Kralju (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bajern-sat-vremena-bio-realova-bestia-negra-embape-sacuvao-nadu-kralju-video/540674",
+      "naslov": "Miloš Jojić: Stanojević nije mogao da zamisli da krene bez mene, jer sam pokrivao dve pozicije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/milos-jojic-stanojevic-nije-mogao-da-zamisli-da-krene-bez-mene-jer-sam-pokrivao-dve-pozicije/540699",
       "izvor": "Мозарт Спорт",
-      "datum": "8. 04. 2026. у 00:54",
+      "datum": "8. 04. 2026. у 10:55",
       "slika": null
     },
     {
-      "naslov": "Zahović oštar prema Feđi Dudiću: Sramota me od priče da je cilj Maribora drugo mesto",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zahovic-ostar-prema-fei-dudicu-sramota-me-od-price-da-je-cilj-maribora-drugo-mesto/540670",
+      "naslov": "Krampovi su utihnuli, cveta trešnja u rudniku senki: Mirčea Lučesku i balkanski sabirni centar",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/krampovi-su-utihnuli-cveta-tresnja-u-rudniku-senki-mircea-lucesku-i-balkanski-sabirni-centar/540691",
       "izvor": "Мозарт Спорт",
-      "datum": "7. 04. 2026. у 21:42",
+      "datum": "8. 04. 2026. у 10:20",
+      "slika": null
+    },
+    {
+      "naslov": "Alvaro Arbeloa: Mi smo Real, idemo u Minhen da pobedimo Bajern",
+      "url": "https://www.tanjug.rs/sport/fudbal/243495/alvaro-arbeloa-mi-smo-real-idemo-u-minhen-da-pobedimo-bajern/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 04. 2026. у 10:11",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "FK Crvena zvezda: Fan zona za najmlađe navijače pred utakmicu protiv Spartaka",
-      "url": "https://www.tanjug.rs/sport/fudbal/243400/fk-crvena-zvezda-fan-zona-za-najmlade-navijace-pred-utakmicu-protiv-spartaka/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 04. 2026. у 19:30",
+      "naslov": "Počinje privatizacija srpskih klubova – Ranko Stojić najavio prvu veliku promenu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223106/pocinje-privatizacija-srpskih-klubova-ranko-stojic-najavio-prvu-veliku-promenu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "8. 04. 2026. у 11:12",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222968/tanjga-idemo-po-drugo-mesto-pred-plej-of/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "7. 04. 2026. у 21:40",
-      "slika": null
-    },
-    {
-      "naslov": "Lalatović pred Partizan: &quot;Spavaću u manastiru, idem na liturgiju&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222950/lalatovic-pred-partizan-spavacu-u-manastiru-idem-na-liturgiju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 04. 2026. у 18:27",
       "slika": null
     }
   ]
