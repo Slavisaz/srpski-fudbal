@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-08T12:07:36.717282+00:00",
-  "azurirano_sr": "8. 04. 2026. у 14:07",
+  "azurirano": "2026-04-08T16:21:03.324894+00:00",
+  "azurirano_sr": "8. 04. 2026. у 18:21",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zenit i Spartak opet oči u oči, sada igraju za finale kupa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zenit-i-spartak-opet-oci-u-oci-sada-igraju-za-finale-kupa/540736",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 04. 2026. у 16:28",
+      "slika": null
+    },
     {
       "naslov": "Buongiorno Italia: Konte se vraća na klupu Azura",
       "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-konte-se-vraca-na-klupu-azura/540725",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Previše smo gledali kako igra fudbal da smo zaboravili kako brani",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/previse-smo-gledali-kako-igra-fudbal-da-smo-zaboravili-kako-brani/540706",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 04. 2026. у 12:25",
+      "naslov": "Simeone o Grizmanu: Jedan je od najboljih igrača koje smo ikada imali",
+      "url": "https://www.tanjug.rs/sport/fudbal/243586/simeone-o-grizmanu-jedan-je-od-najboljih-igraca-koje-smo-ikada-imali/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 04. 2026. у 14:01",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/243495/alvaro-arbeloa-mi-smo-real-idemo-u-minhen-da-pobedimo-bajern/vest",
       "izvor": "Танјуг",
       "datum": "8. 04. 2026. у 10:11",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Bajerna bolji od Reala u Madridu, Arsenal pobedio Sporting u Lisabonu",
-      "url": "https://www.tanjug.rs/sport/fudbal/243441/fudbaleri-bajerna-bolji-od-reala-u-madridu-arsenal-pobedio-sporting-u-lisabonu/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 04. 2026. у 22:58",
       "slika": null
     },
     {
