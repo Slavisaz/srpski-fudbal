@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-08T19:52:11.211639+00:00",
-  "azurirano_sr": "8. 04. 2026. у 21:52",
+  "azurirano": "2026-04-08T22:05:07.547194+00:00",
+  "azurirano_sr": "9. 04. 2026. у 00:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Tanjga prozvao Paunovića: Voša šalje petoricu startera, a Zvezda trojicu rezervista",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tanjga-prozvao-paunovica-vosa-salje-petoricu-startera-a-zvezda-trojicu-rezervista/540772",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 04. 2026. у 00:10",
+      "slika": null
+    },
     {
       "naslov": "Argumentacija za Zlatnu loptu predata",
       "url": "https://www.mozzartsport.com/fudbal/vesti/argumentacija-za-zlatnu-loptu-predata/540748",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Vinisijus je užasan, žao mi ga je",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vinisijus-je-uzasan-zao-mi-ga-je/540711",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 04. 2026. у 13:40",
+      "naslov": "Fudbaleri Atletiko Madrida pobedili Barselonu, PSŽ savladao Liverpul u Ligi šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/243696/fudbaleri-atletiko-madrida-pobedili-barselonu-psz-savladao-liverpul-u-ligi-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 04. 2026. у 22:58",
+      "slika": null
+    },
+    {
+      "naslov": "Sergej Milinković-Savić zabeležio dve asistencije u pobedi fudbalera Al Hilala protiv Al Holoda",
+      "url": "https://www.tanjug.rs/sport/fudbal/243689/sergej-milinkovic-savic-zabelezio-dve-asistencije-u-pobedi-fudbalera-al-hilala-protiv-al-holoda/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 04. 2026. у 22:18",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Vojvodine savladali Radnički iz Niša za drugo mesto na tabeli pred plej-of",
-      "url": "https://www.tanjug.rs/sport/fudbal/243676/fudbaleri-vojvodine-savladali-radnicki-iz-nisa-za-drugo-mesto-na-tabeli-pred-plej-of/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 04. 2026. у 20:37",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Železničara pobedili Javor, IMT nadigrao TSC u Superligi Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/243661/fudbaleri-zeleznicara-pobedili-javor-imt-nadigrao-tsc-u-superligi-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 04. 2026. у 18:58",
+      "naslov": "Stanković: &quot;Znali smo da će Katai stići Džajića&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223257/stankovic-znali-smo-da-ce-katai-stici-dzajica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "8. 04. 2026. у 23:24",
       "slika": null
     },
     {
@@ -67,10 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "Vojvodina čekirala drugo mesto za plej-of VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223283/vojvodina-cekirala-drugo-mesto-za-plej-of-video/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "8. 04. 2026. у 20:00",
+      "naslov": "Predsednik FS BiH: &quot;Srbi nepoželjni u reprezentaciji? Glupost!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/222998/predsednik-fs-bih-srbi-nepozeljni-u-reprezentaciji-glupost/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "7. 04. 2026. у 23:57",
       "slika": null
     }
   ]
