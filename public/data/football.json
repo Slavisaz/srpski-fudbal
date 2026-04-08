@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-08T09:52:34.004729+00:00",
-  "azurirano_sr": "8. 04. 2026. у 11:52",
+  "azurirano": "2026-04-08T12:07:36.717282+00:00",
+  "azurirano_sr": "8. 04. 2026. у 14:07",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Buongiorno Italia: Konte se vraća na klupu Azura",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-konte-se-vraca-na-klupu-azura/540725",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 04. 2026. у 15:15",
+      "slika": null
+    },
+    {
+      "naslov": "Vinisijus je užasan, žao mi ga je",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vinisijus-je-uzasan-zao-mi-ga-je/540711",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 04. 2026. у 13:40",
+      "slika": null
+    },
     {
       "naslov": "Treća runda: Čolo može da izdrži ozbiljne batine, a Barsa mora da se vrati u Madrid",
       "url": "https://www.mozzartsport.com/fudbal/vesti/treca-runda-colo-moze-da-izdrzi-ozbiljne-batine-a-barsa-mora-da-se-vrati-u-madrid/540707",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Miloš Jojić: Stanojević nije mogao da zamisli da krene bez mene, jer sam pokrivao dve pozicije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/milos-jojic-stanojevic-nije-mogao-da-zamisli-da-krene-bez-mene-jer-sam-pokrivao-dve-pozicije/540699",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 04. 2026. у 10:55",
+      "naslov": "Srđan Blagojević: Očekuje nas veoma zahtevna i izazovna utakmica protiv Novog Pazara",
+      "url": "https://www.tanjug.rs/sport/fudbal/243554/srdan-blagojevic-ocekuje-nas-veoma-zahtevna-i-izazovna-utakmica-protiv-novog-pazara/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 04. 2026. у 12:53",
       "slika": null
     },
     {
-      "naslov": "Krampovi su utihnuli, cveta trešnja u rudniku senki: Mirčea Lučesku i balkanski sabirni centar",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/krampovi-su-utihnuli-cveta-tresnja-u-rudniku-senki-mircea-lucesku-i-balkanski-sabirni-centar/540691",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 04. 2026. у 10:20",
+      "naslov": "FK Crvena zvezda: \"Super Zvezdaši\" i deca do 14 godina besplatno protiv Spartaka",
+      "url": "https://www.tanjug.rs/sport/fudbal/243547/fk-crvena-zvezda-super-zvezdasi-i-deca-do-14-godina-besplatno-protiv-spartaka/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 04. 2026. у 12:41",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "FIFA pokrenula disciplinski postupak protiv Španije zbog skandiranja protiv Egipta",
-      "url": "https://www.tanjug.rs/sport/fudbal/243418/fifa-pokrenula-disciplinski-postupak-protiv-spanije-zbog-skandiranja-protiv-egipta/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 04. 2026. у 20:35",
-      "slika": null
-    },
-    {
-      "naslov": "Preminuo rumunski fudbalski trener Mirčea Lučesku",
-      "url": "https://www.tanjug.rs/sport/fudbal/243414/preminuo-rumunski-fudbalski-trener-mircea-lucesku/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 04. 2026. у 20:28",
+      "naslov": "Blagojević: &quot;Svesni smo svojih slabosti&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223123/blagojevic-svesni-smo-svojih-slabosti/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "8. 04. 2026. у 11:53",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223106/pocinje-privatizacija-srpskih-klubova-ranko-stojic-najavio-prvu-veliku-promenu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "8. 04. 2026. у 11:12",
-      "slika": null
-    },
-    {
-      "naslov": "Tanjga: &quot;Idemo po drugo mesto pred plej-of&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/222968/tanjga-idemo-po-drugo-mesto-pred-plej-of/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 04. 2026. у 21:40",
       "slika": null
     }
   ]
