@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-07T23:56:05.759449+00:00",
-  "azurirano_sr": "8. 04. 2026. у 01:56",
+  "azurirano": "2026-04-08T06:01:04.824855+00:00",
+  "azurirano_sr": "8. 04. 2026. у 08:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Son se budi kad je najvažnije: Posle četiri asistencije dao gol, Los Anđeles jednom nogom u polufinalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/son-se-budi-kad-je-najvaznije-posle-cetiri-asistencije-dao-gol-los-aneles-jednom-nogom-u-polufinalu/540695",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 04. 2026. у 07:45",
+      "slika": null
+    },
     {
       "naslov": "Rezzime dana (utorak): Jak fudbal, pune mreže",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-utorak-jak-fudbal-pune-mreze/540686",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/zahovic-ostar-prema-fei-dudicu-sramota-me-od-price-da-je-cilj-maribora-drugo-mesto/540670",
       "izvor": "Мозарт Спорт",
       "datum": "7. 04. 2026. у 21:42",
-      "slika": null
-    },
-    {
-      "naslov": "U Velsu puls 200, stiže Sautempton, sledi bitka za Top 6",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/u-velsu-puls-200-stize-sautempton-sledi-bitka-za-top-6/540648",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 04. 2026. у 15:50",
       "slika": null
     },
     {
