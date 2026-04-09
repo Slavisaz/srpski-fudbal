@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-04-09T18:15:40.101921+00:00",
-  "azurirano_sr": "9. 04. 2026. у 20:15",
+  "azurirano": "2026-04-09T21:05:09.655202+00:00",
+  "azurirano_sr": "9. 04. 2026. у 23:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Logistika pokvarila spektakl: Srbija neće igrati protiv Argentine",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/logistika-pokvarila-spektakl-srbija-nece-igrati-protiv-argentine/540856",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 04. 2026. у 23:54",
+      "slika": null
+    },
+    {
+      "naslov": "Nit je Čuka za Evropu, nit Radnički za plej-of... Ali su i jedni i drugi zreli za remont",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nit-je-cuka-za-evropu-nit-radnicki-za-plejof-ali-su-i-jedni-i-drugi-zreli-za-remont/540851",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 04. 2026. у 22:57",
+      "slika": null
+    },
+    {
+      "naslov": "Karaburma ponovo diše elitni fudbal, prolazi joj kroz pluća i vraća se u krvotok (FOTO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/karaburma-ponovo-dise-elitni-fudbal-prolazi-joj-kroz-pluca-i-vraca-se-u-krvotok-foto/540837",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 04. 2026. у 22:55",
+      "slika": null
+    },
     {
       "naslov": "Posle Mažića – niko: Srbija drugi put uzastopce bez sudija na Mundijalu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/posle-mazica-niko-srbija-drugi-put-uzastopce-bez-sudija-na-mundijalu/540836",
@@ -11,66 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Italijano i Emeri, dva eksperta za kup takmičenja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/italijano-i-emeri-dva-eksperta-za-kup-takmicenja/540802",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 04. 2026. у 12:42",
-      "slika": null
-    },
-    {
-      "naslov": "Nikolićev AEK igra za najveći uspeh posle 49 godina i budućnost grčkog fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nikolicev-aek-igra-za-najveci-uspeh-posle-49-godina-i-buducnost-grckog-fudbala/540799",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 04. 2026. у 12:16",
-      "slika": null
-    },
-    {
-      "naslov": "NAJAVA DANA (četvrtak, 9. april): Večiti na superligaškim terenima, plus evropska fudbalska i košarkaška dešavanja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-cetvrtak-9-april-veciti-na-superligaskim-terenima-plus-evropska-fudbalska-i-kosarkaska-desavanja/540732",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 04. 2026. у 10:15",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Crvene zvezde Aleksandar Katai postao drugi najbolji strelac u istoriji kluba",
-      "url": "https://www.tanjug.rs/sport/fudbal/243911/fudbaler-crvene-zvezde-aleksandar-katai-postao-drugi-najbolji-strelac-u-istoriji-kluba/vest",
+      "naslov": "Dejan Stanković: Počastvovan što sam deo priče, ovo je veče Aleksandra Kataija",
+      "url": "https://www.tanjug.rs/sport/fudbal/243934/dejan-stankovic-pocastvovan-sto-sam-deo-price-ovo-je-vece-aleksandra-kataija/vest",
       "izvor": "Танјуг",
-      "datum": "9. 04. 2026. у 19:58",
+      "datum": "9. 04. 2026. у 22:19",
       "slika": null
     },
     {
-      "naslov": "Srđan Blagojević: Ovom pobedom želimo da odamo počast Dušku Vujoševiću",
-      "url": "https://www.tanjug.rs/sport/fudbal/243906/srdan-blagojevic-ovom-pobedom-zelimo-da-odamo-pocast-dusku-vujosevicu/vest",
+      "naslov": "Zvezda pobedila Spartak; Katai: Velika stvar biti drugi na večnoj listi strelaca kluba kakav je Zvezda",
+      "url": "https://www.tanjug.rs/sport/fudbal/243911/zvezda-pobedila-spartak-katai-velika-stvar-biti-drugi-na-vecnoj-listi-strelaca-kluba-kakav-je-zvezda/vest",
       "izvor": "Танјуг",
-      "datum": "9. 04. 2026. у 19:28",
+      "datum": "9. 04. 2026. у 22:18",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Partizana kao gosti pobedili Novi Pazar",
-      "url": "https://www.tanjug.rs/sport/fudbal/243901/fudbaleri-partizana-kao-gosti-pobedili-novi-pazar/vest",
+      "naslov": "Škotski fudbaler Endi Robertson napušta Liverpul na kraju sezone",
+      "url": "https://www.tanjug.rs/sport/fudbal/243927/skotski-fudbaler-endi-robertson-napusta-liverpul-na-kraju-sezone/vest",
       "izvor": "Танјуг",
-      "datum": "9. 04. 2026. у 19:01",
+      "datum": "9. 04. 2026. у 21:42",
       "slika": null
     },
     {
-      "naslov": "Svetska fudbalska federacija odredila 52 arbitra za Mundijal, Srbija bez predstavnika",
-      "url": "https://www.tanjug.rs/sport/fudbal/243890/svetska-fudbalska-federacija-odredila-52-arbitra-za-mundijal-srbija-bez-predstavnika/vest",
+      "naslov": "Poznat raspored plej-ofa Superlige, Zvezda može do titule pre \"večitog derbija\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/243926/poznat-raspored-plej-ofa-superlige-zvezda-moze-do-titule-pre-vecitog-derbija/vest",
       "izvor": "Танјуг",
-      "datum": "9. 04. 2026. у 18:08",
+      "datum": "9. 04. 2026. у 21:42",
       "slika": null
     },
     {
-      "naslov": "Zvezda odradila pola posla, Katai ispisao istoriju",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223531/uzivo-prenos-superliga-srbije-30-kolo-crvena-zvezda-spartak/vest",
+      "naslov": "Ništa od megdana Srbije i Argentine",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223630/nista-od-megdana-srbije-i-argentine/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 04. 2026. у 20:06",
+      "datum": "9. 04. 2026. у 22:08",
       "slika": null
     },
     {
-      "naslov": "Blagojević: &quot;Da odamo počast Duletu&quot;; Lalatović: &quot;Izgubili smo velikog čoveka&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223571/srdjan-blagojevic-i-nenad-lalatovic-posle-utakmice/vest",
+      "naslov": "Stanković: &quot;Katai treba da bude idol mladima&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223615/stankovic-katai-treba-da-bude-idol-mladima/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 04. 2026. у 19:14",
+      "datum": "9. 04. 2026. у 21:14",
       "slika": null
     }
   ]
