@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-04-09T05:59:48.987114+00:00",
-  "azurirano_sr": "9. 04. 2026. у 07:59",
+  "azurirano": "2026-04-09T10:20:47.532038+00:00",
+  "azurirano_sr": "9. 04. 2026. у 12:20",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Italijano i Emeri, dva eksperta za kup takmičenja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/italijano-i-emeri-dva-eksperta-za-kup-takmicenja/540802",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 04. 2026. у 12:42",
+      "slika": null
+    },
+    {
+      "naslov": "Nikolićev AEK igra za najveći uspeh posle 49 godina i budućnost grčkog fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nikolicev-aek-igra-za-najveci-uspeh-posle-49-godina-i-buducnost-grckog-fudbala/540799",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 04. 2026. у 12:16",
+      "slika": null
+    },
+    {
+      "naslov": "NAJAVA DANA (četvrtak, 9. april): Večiti na superligaškim terenima, plus evropska fudbalska i košarkaška dešavanja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-cetvrtak-9-april-veciti-na-superligaskim-terenima-plus-evropska-fudbalska-i-kosarkaska-desavanja/540732",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 04. 2026. у 10:15",
+      "slika": null
+    },
     {
       "naslov": "Flik besan: Koja je poenta VAR-a? Sudije moraju više da štite Jamala",
       "url": "https://www.mozzartsport.com/fudbal/vesti/flik-besan-koja-je-poenta-vara-sudije-moraju-vise-da-stite-jamala/540784",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Tanjga prozvao Paunovića: Voša šalje petoricu startera, a Zvezda trojicu rezervista",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tanjga-prozvao-paunovica-vosa-salje-petoricu-startera-a-zvezda-trojicu-rezervista/540772",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 04. 2026. у 00:10",
-      "slika": null
-    },
-    {
-      "naslov": "Argumentacija za Zlatnu loptu predata",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/argumentacija-za-zlatnu-loptu-predata/540748",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 04. 2026. у 20:07",
-      "slika": null
-    },
-    {
-      "naslov": "Zenit i Spartak opet oči u oči, sada igraju za finale kupa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zenit-i-spartak-opet-oci-u-oci-sada-igraju-za-finale-kupa/540736",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 04. 2026. у 16:28",
+      "naslov": "Barselona sprema žalbu UEFA zbog sudijskih grešaka protiv Atletika",
+      "url": "https://www.tanjug.rs/sport/fudbal/243734/barselona-sprema-zalbu-uefa-zbog-sudijskih-gresaka-protiv-atletika/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 04. 2026. у 10:15",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Remi fudbalera Brage i Betisa u prvoj utakmici četvrtfinala Lige Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/243677/remi-fudbalera-brage-i-betisa-u-prvoj-utakmici-cetvrtfinala-lige-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 04. 2026. у 20:51",
+      "naslov": "&quot;Srbi, stvorili ste Novaka, možete i najboljeg fudbalera u istoriji&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223368/srbi-stvorili-ste-novaka-mozete-i-najboljeg-fudbalera-u-istoriji/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 04. 2026. у 10:45",
       "slika": null
     },
     {
@@ -67,17 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "Poznat datum &quot;večitog&quot; derbija u plej-ofu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223287/poznat-datum-vecitog-derbija-u-plej-ofu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "8. 04. 2026. у 20:17",
-      "slika": null
-    },
-    {
-      "naslov": "Predsednik FS BiH: &quot;Srbi nepoželjni u reprezentaciji? Glupost!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/222998/predsednik-fs-bih-srbi-nepozeljni-u-reprezentaciji-glupost/vest",
+      "naslov": "Ko je bio Mirčea Lučesku?",
+      "url": "https://www.b92.net/sport/fudbal/vesti/223075/mircea-lucesku-trener-koji-je-promenio-istocnoevropski-fudbal/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "7. 04. 2026. у 23:57",
+      "datum": "8. 04. 2026. у 10:05",
       "slika": null
     }
   ]
