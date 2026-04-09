@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-09T15:12:02.209462+00:00",
-  "azurirano_sr": "9. 04. 2026. у 17:12",
+  "azurirano": "2026-04-09T18:15:40.101921+00:00",
+  "azurirano_sr": "9. 04. 2026. у 20:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Posle Mažića – niko: Srbija drugi put uzastopce bez sudija na Mundijalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/posle-mazica-niko-srbija-drugi-put-uzastopce-bez-sudija-na-mundijalu/540836",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 04. 2026. у 20:12",
+      "slika": null
+    },
     {
       "naslov": "Italijano i Emeri, dva eksperta za kup takmičenja",
       "url": "https://www.mozzartsport.com/fudbal/vesti/italijano-i-emeri-dva-eksperta-za-kup-takmicenja/540802",
@@ -25,52 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Flik besan: Koja je poenta VAR-a? Sudije moraju više da štite Jamala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/flik-besan-koja-je-poenta-vara-sudije-moraju-vise-da-stite-jamala/540784",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 04. 2026. у 03:53",
-      "slika": null
-    },
-    {
-      "naslov": "Golman Briža Simon Minjole povredio tetivu leve noge",
-      "url": "https://www.tanjug.rs/sport/fudbal/243867/golman-briza-simon-minjole-povredio-tetivu-leve-noge/vest",
+      "naslov": "Fudbaler Crvene zvezde Aleksandar Katai postao drugi najbolji strelac u istoriji kluba",
+      "url": "https://www.tanjug.rs/sport/fudbal/243911/fudbaler-crvene-zvezde-aleksandar-katai-postao-drugi-najbolji-strelac-u-istoriji-kluba/vest",
       "izvor": "Танјуг",
-      "datum": "9. 04. 2026. у 16:44",
+      "datum": "9. 04. 2026. у 19:58",
       "slika": null
     },
     {
-      "naslov": "Fudbalski savez Srbije ugostio delegaciju Svetske fudbalske federacije",
-      "url": "https://www.tanjug.rs/sport/fudbal/243834/fudbalski-savez-srbije-ugostio-delegaciju-svetske-fudbalske-federacije/vest",
+      "naslov": "Srđan Blagojević: Ovom pobedom želimo da odamo počast Dušku Vujoševiću",
+      "url": "https://www.tanjug.rs/sport/fudbal/243906/srdan-blagojevic-ovom-pobedom-zelimo-da-odamo-pocast-dusku-vujosevicu/vest",
       "izvor": "Танјуг",
-      "datum": "9. 04. 2026. у 15:03",
+      "datum": "9. 04. 2026. у 19:28",
       "slika": null
     },
     {
-      "naslov": "Barselona sprema žalbu UEFA zbog sudijskih grešaka protiv Atletika",
-      "url": "https://www.tanjug.rs/sport/fudbal/243734/barselona-sprema-zalbu-uefa-zbog-sudijskih-gresaka-protiv-atletika/vest",
+      "naslov": "Fudbaleri Partizana kao gosti pobedili Novi Pazar",
+      "url": "https://www.tanjug.rs/sport/fudbal/243901/fudbaleri-partizana-kao-gosti-pobedili-novi-pazar/vest",
       "izvor": "Танјуг",
-      "datum": "9. 04. 2026. у 10:15",
+      "datum": "9. 04. 2026. у 19:01",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Atletiko Madrida pobedili Barselonu, PSŽ savladao Liverpul u Ligi šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/243696/fudbaleri-atletiko-madrida-pobedili-barselonu-psz-savladao-liverpul-u-ligi-sampiona/vest",
+      "naslov": "Svetska fudbalska federacija odredila 52 arbitra za Mundijal, Srbija bez predstavnika",
+      "url": "https://www.tanjug.rs/sport/fudbal/243890/svetska-fudbalska-federacija-odredila-52-arbitra-za-mundijal-srbija-bez-predstavnika/vest",
       "izvor": "Танјуг",
-      "datum": "8. 04. 2026. у 22:58",
+      "datum": "9. 04. 2026. у 18:08",
       "slika": null
     },
     {
-      "naslov": "Sek pogodio za vođstvo Partizana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223500/uzivo-fk-novi-pazar-fk-partizan-30-kolo-superlige-prenos-gde-gledati/vest",
+      "naslov": "Zvezda odradila pola posla, Katai ispisao istoriju",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223531/uzivo-prenos-superliga-srbije-30-kolo-crvena-zvezda-spartak/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 04. 2026. у 17:06",
+      "datum": "9. 04. 2026. у 20:06",
       "slika": null
     },
     {
-      "naslov": "Duplo slavlje Crvene zvezde u Zemunelu VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223514/duplo-slavlje-crvene-zvezde-u-zemunelu-video/vest",
+      "naslov": "Blagojević: &quot;Da odamo počast Duletu&quot;; Lalatović: &quot;Izgubili smo velikog čoveka&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223571/srdjan-blagojevic-i-nenad-lalatovic-posle-utakmice/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 04. 2026. у 16:48",
+      "datum": "9. 04. 2026. у 19:14",
       "slika": null
     }
   ]
