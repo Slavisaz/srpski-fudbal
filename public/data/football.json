@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-08T23:55:13.664181+00:00",
-  "azurirano_sr": "9. 04. 2026. у 01:55",
+  "azurirano": "2026-04-09T05:59:48.987114+00:00",
+  "azurirano_sr": "9. 04. 2026. у 07:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Flik besan: Koja je poenta VAR-a? Sudije moraju više da štite Jamala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/flik-besan-koja-je-poenta-vara-sudije-moraju-vise-da-stite-jamala/540784",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 04. 2026. у 03:53",
+      "slika": null
+    },
     {
       "naslov": "Tanjga prozvao Paunovića: Voša šalje petoricu startera, a Zvezda trojicu rezervista",
       "url": "https://www.mozzartsport.com/fudbal/vesti/tanjga-prozvao-paunovica-vosa-salje-petoricu-startera-a-zvezda-trojicu-rezervista/540772",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/zenit-i-spartak-opet-oci-u-oci-sada-igraju-za-finale-kupa/540736",
       "izvor": "Мозарт Спорт",
       "datum": "8. 04. 2026. у 16:28",
-      "slika": null
-    },
-    {
-      "naslov": "Buongiorno Italia: Konte se vraća na klupu Azura",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-konte-se-vraca-na-klupu-azura/540725",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 04. 2026. у 15:15",
       "slika": null
     },
     {
