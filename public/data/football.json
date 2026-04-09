@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-09T10:20:47.532038+00:00",
-  "azurirano_sr": "9. 04. 2026. у 12:20",
+  "azurirano": "2026-04-09T15:12:02.209462+00:00",
+  "azurirano_sr": "9. 04. 2026. у 17:12",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Golman Briža Simon Minjole povredio tetivu leve noge",
+      "url": "https://www.tanjug.rs/sport/fudbal/243867/golman-briza-simon-minjole-povredio-tetivu-leve-noge/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 04. 2026. у 16:44",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbalski savez Srbije ugostio delegaciju Svetske fudbalske federacije",
+      "url": "https://www.tanjug.rs/sport/fudbal/243834/fudbalski-savez-srbije-ugostio-delegaciju-svetske-fudbalske-federacije/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 04. 2026. у 15:03",
+      "slika": null
+    },
+    {
       "naslov": "Barselona sprema žalbu UEFA zbog sudijskih grešaka protiv Atletika",
       "url": "https://www.tanjug.rs/sport/fudbal/243734/barselona-sprema-zalbu-uefa-zbog-sudijskih-gresaka-protiv-atletika/vest",
       "izvor": "Танјуг",
@@ -46,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Sergej Milinković-Savić zabeležio dve asistencije u pobedi fudbalera Al Hilala protiv Al Holoda",
-      "url": "https://www.tanjug.rs/sport/fudbal/243689/sergej-milinkovic-savic-zabelezio-dve-asistencije-u-pobedi-fudbalera-al-hilala-protiv-al-holoda/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 04. 2026. у 22:18",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Mladosti nadigrali Napredak u 30. kolu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/243682/fudbaleri-mladosti-nadigrali-napredak-u-30-kolu-superlige-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 04. 2026. у 21:11",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Srbi, stvorili ste Novaka, možete i najboljeg fudbalera u istoriji&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223368/srbi-stvorili-ste-novaka-mozete-i-najboljeg-fudbalera-u-istoriji/vest",
+      "naslov": "Sek pogodio za vođstvo Partizana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223500/uzivo-fk-novi-pazar-fk-partizan-30-kolo-superlige-prenos-gde-gledati/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 04. 2026. у 10:45",
+      "datum": "9. 04. 2026. у 17:06",
       "slika": null
     },
     {
-      "naslov": "Stanković: &quot;Znali smo da će Katai stići Džajića&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223257/stankovic-znali-smo-da-ce-katai-stici-dzajica/vest",
+      "naslov": "Duplo slavlje Crvene zvezde u Zemunelu VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223514/duplo-slavlje-crvene-zvezde-u-zemunelu-video/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "8. 04. 2026. у 23:24",
-      "slika": null
-    },
-    {
-      "naslov": "Ko je bio Mirčea Lučesku?",
-      "url": "https://www.b92.net/sport/fudbal/vesti/223075/mircea-lucesku-trener-koji-je-promenio-istocnoevropski-fudbal/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "8. 04. 2026. у 10:05",
+      "datum": "9. 04. 2026. у 16:48",
       "slika": null
     }
   ]
