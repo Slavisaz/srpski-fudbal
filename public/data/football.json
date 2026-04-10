@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-10T15:09:47.536557+00:00",
-  "azurirano_sr": "10. 04. 2026. у 17:09",
+  "azurirano": "2026-04-10T18:00:31.554542+00:00",
+  "azurirano_sr": "10. 04. 2026. у 20:00",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Di Kanio bez rukavica o Italiji: Patimo od fudbalske šizofrenije i navikavamo se na prosečnost",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/di-kanio-bez-rukavica-o-italiji-patimo-od-fudbalske-sizofrenije-i-navikavamo-se-na-prosecnost/540928",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 04. 2026. у 21:18",
+      "slika": null
+    },
     {
       "naslov": "Srpski elitni fudbal uzduž i popreko: Najluđi brojevi Mozzart Bet Superlige",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-elitni-fudbal-uzduz-i-popreko-najlui-brojevi-mozzart-bet-superlige/540916",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/najbolji-igrac-30-kola-mozzart-bet-superlige-aleksandar-katai-za-istoriju-i-cetvrto-priznanje-u-sezoni/540897",
       "izvor": "Мозарт Спорт",
       "datum": "10. 04. 2026. у 14:18",
-      "slika": null
-    },
-    {
-      "naslov": "Botafogo skup, Botafogo jalov",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/botafogo-skup-botafogo-jalov/540872",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 04. 2026. у 04:25",
       "slika": null
     },
     {
