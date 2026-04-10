@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-10T12:09:59.357439+00:00",
-  "azurirano_sr": "10. 04. 2026. у 14:09",
+  "azurirano": "2026-04-10T15:09:47.536557+00:00",
+  "azurirano_sr": "10. 04. 2026. у 17:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srpski elitni fudbal uzduž i popreko: Najluđi brojevi Mozzart Bet Superlige",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-elitni-fudbal-uzduz-i-popreko-najlui-brojevi-mozzart-bet-superlige/540916",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 04. 2026. у 18:39",
+      "slika": null
+    },
+    {
+      "naslov": "Samo da Štutgart uplati 2.000.000 i veliki uspon će vredeti 50.000.000, Real sprema udicu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/samo-da-stutgart-uplati-2000000-i-veliki-uspon-ce-vredeti-50000000-real-sprema-udicu/540908",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 04. 2026. у 16:35",
+      "slika": null
+    },
     {
       "naslov": "Najbolji igrač 30. kola Mozzart Bet Superlige: Aleksandar Katai za istoriju i četvrto priznanje u sezoni",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najbolji-igrac-30-kola-mozzart-bet-superlige-aleksandar-katai-za-istoriju-i-cetvrto-priznanje-u-sezoni/540897",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Logistika pokvarila spektakl: Srbija neće igrati protiv Argentine",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/logistika-pokvarila-spektakl-srbija-nece-igrati-protiv-argentine/540856",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 04. 2026. у 23:54",
-      "slika": null
-    },
-    {
-      "naslov": "Nit je Čuka za Evropu, nit Radnički za plej-of... Ali su i jedni i drugi zreli za remont",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nit-je-cuka-za-evropu-nit-radnicki-za-plejof-ali-su-i-jedni-i-drugi-zreli-za-remont/540851",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 04. 2026. у 22:57",
+      "naslov": "Kapiten fudbalera Intera Lautaro Martinez zbog povrede neće igrati protiv Koma",
+      "url": "https://www.tanjug.rs/sport/fudbal/244041/kapiten-fudbalera-intera-lautaro-martinez-zbog-povrede-nece-igrati-protiv-koma/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 04. 2026. у 15:57",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Kristal Palasa deklasirali Fjorentinu",
-      "url": "https://www.tanjug.rs/sport/fudbal/243943/fudbaleri-kristal-palasa-deklasirali-fjorentinu/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 04. 2026. у 23:16",
+      "naslov": "Džajić biranim rečima o Kataiju: &quot;On je ponos Crvene zvezde&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223779/dzajic-biranim-recima-o-kataiju-on-je-ponos-crvene-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 04. 2026. у 14:57",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223626/zvezda-na-leto-ostaje-bez-stopera/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 04. 2026. у 09:30",
-      "slika": null
-    },
-    {
-      "naslov": "Nedić izbačen iz fudbala – 9 meseci suspenzije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223670/nedic-izbacen-iz-fudbala-9-meseci-suspenzije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 04. 2026. у 09:00",
       "slika": null
     }
   ]
