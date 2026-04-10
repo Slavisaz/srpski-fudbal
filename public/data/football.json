@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-10T19:58:57.279695+00:00",
-  "azurirano_sr": "10. 04. 2026. у 21:58",
+  "azurirano": "2026-04-10T21:56:58.144194+00:00",
+  "azurirano_sr": "10. 04. 2026. у 23:56",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Najlepši san se pretvara u košmar: Hofenhajmu izmiče Liga šampiona iz ruku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najlepsi-san-se-pretvara-u-kosmar-hofenhajmu-izmice-liga-sampiona-iz-ruku/540943",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 04. 2026. у 00:40",
+      "slika": null
+    },
     {
       "naslov": "Enrike u Čolovom i Pepovom društvu: Od Pari Sen Žermena novi ugovor i plata kakvu zaslužuje",
       "url": "https://www.mozzartsport.com/fudbal/vesti/enrike-u-colovom-i-pepovom-drustvu-od-pari-sen-zermena-novi-ugovor-i-plata-kakvu-zasluzuje/540934",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Samo da Štutgart uplati 2.000.000 i veliki uspon će vredeti 50.000.000, Real sprema udicu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/samo-da-stutgart-uplati-2000000-i-veliki-uspon-ce-vredeti-50000000-real-sprema-udicu/540908",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 04. 2026. у 16:35",
+      "naslov": "Fudbaleri Reala odigrali nerešeno protiv Đirone",
+      "url": "https://www.tanjug.rs/sport/fudbal/244114/fudbaleri-reala-odigrali-nereseno-protiv-dirone/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 04. 2026. у 23:00",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/243999/spaleti-i-juventus-dogovorili-nastavak-saradnje-do-2028-godine/vest",
       "izvor": "Танјуг",
       "datum": "10. 04. 2026. у 12:11",
-      "slika": null
-    },
-    {
-      "naslov": "Barselona zvanično uložila žalbu UEFA zbog sudijskih grešaka protiv Atletika",
-      "url": "https://www.tanjug.rs/sport/fudbal/243734/barselona-zvanicno-ulozila-zalbu-uefa-zbog-sudijskih-gresaka-protiv-atletika/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 04. 2026. у 11:15",
       "slika": null
     },
     {
