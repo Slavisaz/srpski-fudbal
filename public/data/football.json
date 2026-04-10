@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-10T06:14:25.495036+00:00",
-  "azurirano_sr": "10. 04. 2026. у 08:14",
+  "azurirano": "2026-04-10T10:16:13.852467+00:00",
+  "azurirano_sr": "10. 04. 2026. у 12:16",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Barselona zvanično uložila žalbu UEFA zbog sudijskih grešaka protiv Atletika",
+      "url": "https://www.tanjug.rs/sport/fudbal/243734/barselona-zvanicno-ulozila-zalbu-uefa-zbog-sudijskih-gresaka-protiv-atletika/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 04. 2026. у 11:15",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Kristal Palasa deklasirali Fjorentinu",
       "url": "https://www.tanjug.rs/sport/fudbal/243943/fudbaleri-kristal-palasa-deklasirali-fjorentinu/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Aleksandar Katai: Veliki je uspeh biti drugi na večnoj listi strelaca kluba kakav je Crvena zvezda",
-      "url": "https://www.tanjug.rs/sport/fudbal/243911/aleksandar-katai-veliki-je-uspeh-biti-drugi-na-vecnoj-listi-strelaca-kluba-kakav-je-crvena-zvezda/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 04. 2026. у 22:18",
+      "naslov": "Zvezda na leto ostaje bez štopera?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223626/zvezda-na-leto-ostaje-bez-stopera/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 04. 2026. у 09:30",
       "slika": null
     },
     {
-      "naslov": "Ništa od megdana Srbije i Argentine",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223630/nista-od-megdana-srbije-i-argentine/vest",
+      "naslov": "Nedić izbačen iz fudbala – 9 meseci suspenzije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223670/nedic-izbacen-iz-fudbala-9-meseci-suspenzije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 04. 2026. у 22:08",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: &quot;Katai treba da bude idol mladima&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223615/stankovic-katai-treba-da-bude-idol-mladima/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "9. 04. 2026. у 21:14",
+      "datum": "10. 04. 2026. у 09:00",
       "slika": null
     }
   ]
