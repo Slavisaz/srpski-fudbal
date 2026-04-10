@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-09T23:26:25.594770+00:00",
-  "azurirano_sr": "10. 04. 2026. у 01:26",
+  "azurirano": "2026-04-10T06:14:25.495036+00:00",
+  "azurirano_sr": "10. 04. 2026. у 08:14",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Botafogo skup, Botafogo jalov",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/botafogo-skup-botafogo-jalov/540872",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 04. 2026. у 04:25",
+      "slika": null
+    },
     {
       "naslov": "Logistika pokvarila spektakl: Srbija neće igrati protiv Argentine",
       "url": "https://www.mozzartsport.com/fudbal/vesti/logistika-pokvarila-spektakl-srbija-nece-igrati-protiv-argentine/540856",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/karaburma-ponovo-dise-elitni-fudbal-prolazi-joj-kroz-pluca-i-vraca-se-u-krvotok-foto/540837",
       "izvor": "Мозарт Спорт",
       "datum": "9. 04. 2026. у 22:55",
-      "slika": null
-    },
-    {
-      "naslov": "Posle Mažića – niko: Srbija drugi put uzastopce bez sudija na Mundijalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/posle-mazica-niko-srbija-drugi-put-uzastopce-bez-sudija-na-mundijalu/540836",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 04. 2026. у 20:12",
       "slika": null
     },
     {
