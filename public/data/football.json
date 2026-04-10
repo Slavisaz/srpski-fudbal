@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-10T10:16:13.852467+00:00",
-  "azurirano_sr": "10. 04. 2026. у 12:16",
+  "azurirano": "2026-04-10T12:09:59.357439+00:00",
+  "azurirano_sr": "10. 04. 2026. у 14:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Najbolji igrač 30. kola Mozzart Bet Superlige: Aleksandar Katai za istoriju i četvrto priznanje u sezoni",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najbolji-igrac-30-kola-mozzart-bet-superlige-aleksandar-katai-za-istoriju-i-cetvrto-priznanje-u-sezoni/540897",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 04. 2026. у 14:18",
+      "slika": null
+    },
     {
       "naslov": "Botafogo skup, Botafogo jalov",
       "url": "https://www.mozzartsport.com/fudbal/vesti/botafogo-skup-botafogo-jalov/540872",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Karaburma ponovo diše elitni fudbal, prolazi joj kroz pluća i vraća se u krvotok (FOTO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/karaburma-ponovo-dise-elitni-fudbal-prolazi-joj-kroz-pluca-i-vraca-se-u-krvotok-foto/540837",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 04. 2026. у 22:55",
+      "naslov": "Džajić: Izuzetno dostignuće Kataija, on je ponos Crvene zvezde",
+      "url": "https://www.tanjug.rs/sport/fudbal/244012/dzajic-izuzetno-dostignuce-kataija-on-je-ponos-crvene-zvezde/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 04. 2026. у 13:03",
+      "slika": null
+    },
+    {
+      "naslov": "Spaleti i Juventus dogovorili nastavak saradnje do 2028. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/243999/spaleti-i-juventus-dogovorili-nastavak-saradnje-do-2028-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 04. 2026. у 12:11",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/243943/fudbaleri-kristal-palasa-deklasirali-fjorentinu/vest",
       "izvor": "Танјуг",
       "datum": "9. 04. 2026. у 23:16",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Aston Vile pobedili kao gosti Bolonju, remi Porta i Notingem Foresta",
-      "url": "https://www.tanjug.rs/sport/fudbal/243942/fudbaleri-aston-vile-pobedili-kao-gosti-bolonju-remi-porta-i-notingem-foresta/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 04. 2026. у 23:13",
-      "slika": null
-    },
-    {
-      "naslov": "Dejan Stanković: Počastvovan sam što sam deo priče, ovo je veče Aleksandra Kataija",
-      "url": "https://www.tanjug.rs/sport/fudbal/243934/dejan-stankovic-pocastvovan-sam-sto-sam-deo-price-ovo-je-vece-aleksandra-kataija/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 04. 2026. у 22:19",
       "slika": null
     },
     {
