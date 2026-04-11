@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-11T20:02:48.139220+00:00",
-  "azurirano_sr": "11. 04. 2026. у 22:02",
+  "azurirano": "2026-04-11T21:49:52.171480+00:00",
+  "azurirano_sr": "11. 04. 2026. у 23:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nije loše za iznuđeno rešenje: Juventus opet slavi Žeremija Bogu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nije-lose-za-iznueno-resenje-juventus-opet-slavi-zeremija-bogu/541028",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 04. 2026. у 00:47",
+      "slika": null
+    },
     {
       "naslov": "Kompanijev Bajern > Latekov Bajern: Musijalin put ka fudbalskom ozdravljenju",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kompanijev-bajern-latekov-bajern-musijalin-put-ka-fudbalskom-ozdravljenju/541015",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Najlepši san se pretvara u košmar: Hofenhajmu izmiče Liga šampiona iz ruku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najlepsi-san-se-pretvara-u-kosmar-hofenhajmu-izmice-liga-sampiona-iz-ruku/540943",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 04. 2026. у 00:40",
+      "naslov": "Gudelj pogodio za pobedu fudbalera Sevilje protiv Atletiko Madrida",
+      "url": "https://www.tanjug.rs/sport/fudbal/244253/gudelj-pogodio-za-pobedu-fudbalera-sevilje-protiv-atletiko-madrida/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 04. 2026. у 23:02",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Marko Neđić novi trener fudbalera Radničkog iz Niša",
-      "url": "https://www.tanjug.rs/sport/fudbal/244187/marko-nedic-novi-trener-fudbalera-radnickog-iz-nisa/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 04. 2026. у 14:00",
+      "naslov": "Njukasl i Marsej zovu: Ugrešić napušta Partizan?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224009/nemacki-mediji-pisu-da-ognjen-ugresic-napusta-fk-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "11. 04. 2026. у 22:23",
       "slika": null
     },
     {
@@ -67,17 +74,17 @@
       "slika": null
     },
     {
-      "naslov": "Iz Grafičara u Niš – Radnički povukao potez i doveo novog trenera",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224016/marko-nedjic-trener-fk-radnicki-nis/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "11. 04. 2026. у 15:45",
+      "naslov": "Skandal u Italiji: Trojica fudbalera na sudu, optuženi za grupno silovanje",
+      "url": "https://www.b92.net/sport/fudbal/vesti/223876/skandal-u-italiji-trojica-fudbalera-na-sudu-optuzeni-za-grupno-silovanje/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "10. 04. 2026. у 23:46",
       "slika": null
     },
     {
-      "naslov": "Džajić biranim rečima o Kataiju: &quot;On je ponos Crvene zvezde&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223779/dzajic-biranim-recima-o-kataiju-on-je-ponos-crvene-zvezde/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 04. 2026. у 14:57",
+      "naslov": "&quot;Felerični&quot; dresovi za Svetsko prvenstvo – &quot;Najki&quot; priznao grešku",
+      "url": "https://www.b92.net/sport/fudbal/vesti/223854/felericni-dresovi-za-svetsko-prvenstvo-najki-priznao-gresku/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "10. 04. 2026. у 22:08",
       "slika": null
     },
     {
