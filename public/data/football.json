@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-11T11:45:17.534397+00:00",
-  "azurirano_sr": "11. 04. 2026. у 13:45",
+  "azurirano": "2026-04-11T14:04:39.993126+00:00",
+  "azurirano_sr": "11. 04. 2026. у 16:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Arsenal možda bude šampion, ali Arsenal ne igra šampionski fudbal: Bornmut slavi, Siti je živ",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/arsenal-mozda-bude-sampion-ali-arsenal-ne-igra-sampionski-fudbal-bornmut-slavi-siti-je-ziv/540998",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 04. 2026. у 17:22",
+      "slika": null
+    },
     {
       "naslov": "Sudija Falkone i zatvorski dani Fabricija Mikolija: Tamo ubijaju zbog karata i fudbala… Pa sam bio golman",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sudija-falkone-i-zatvorski-dani-fabricija-mikolija-tamo-ubijaju-zbog-karata-i-fudbala-pa-sam-bio-golman/540972",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Di Kanio bez rukavica o Italiji: Patimo od fudbalske šizofrenije i navikavamo se na prosečnost",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/di-kanio-bez-rukavica-o-italiji-patimo-od-fudbalske-sizofrenije-i-navikavamo-se-na-prosecnost/540928",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 04. 2026. у 21:18",
+      "naslov": "Marko Neđić novi trener fudbalera Radničkog iz Niša",
+      "url": "https://www.tanjug.rs/sport/fudbal/244187/marko-nedic-novi-trener-fudbalera-radnickog-iz-nisa/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 04. 2026. у 14:00",
       "slika": null
     },
     {
@@ -39,17 +46,10 @@
       "slika": null
     },
     {
-      "naslov": "Kapiten fudbalera Intera Lautaro Martinez zbog povrede neće igrati protiv Koma",
-      "url": "https://www.tanjug.rs/sport/fudbal/244041/kapiten-fudbalera-intera-lautaro-martinez-zbog-povrede-nece-igrati-protiv-koma/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 04. 2026. у 15:57",
-      "slika": null
-    },
-    {
-      "naslov": "Džajić biranim rečima o Kataiju: &quot;On je ponos Crvene zvezde&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223779/dzajic-biranim-recima-o-kataiju-on-je-ponos-crvene-zvezde/vest",
+      "naslov": "Iz Grafičara u Niš – Radnički povukao potez i doveo novog trenera",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224016/marko-nedjic-trener-fk-radnicki-nis/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 04. 2026. у 14:57",
+      "datum": "11. 04. 2026. у 15:45",
       "slika": null
     },
     {
@@ -74,6 +74,13 @@
       "slika": null
     },
     {
+      "naslov": "Kapiten fudbalera Intera Lautaro Martinez zbog povrede neće igrati protiv Koma",
+      "url": "https://www.tanjug.rs/sport/fudbal/244041/kapiten-fudbalera-intera-lautaro-martinez-zbog-povrede-nece-igrati-protiv-koma/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 04. 2026. у 15:57",
+      "slika": null
+    },
+    {
       "naslov": "Džajić: Izuzetno dostignuće Kataija, on je ponos Crvene zvezde",
       "url": "https://www.tanjug.rs/sport/fudbal/244012/dzajic-izuzetno-dostignuce-kataija-on-je-ponos-crvene-zvezde/vest",
       "izvor": "Танјуг",
@@ -81,10 +88,10 @@
       "slika": null
     },
     {
-      "naslov": "Spaleti i Juventus dogovorili nastavak saradnje do 2028. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/243999/spaleti-i-juventus-dogovorili-nastavak-saradnje-do-2028-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 04. 2026. у 12:11",
+      "naslov": "Džajić biranim rečima o Kataiju: &quot;On je ponos Crvene zvezde&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223779/dzajic-biranim-recima-o-kataiju-on-je-ponos-crvene-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 04. 2026. у 14:57",
       "slika": null
     },
     {
@@ -92,13 +99,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223626/zvezda-na-leto-ostaje-bez-stopera/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 04. 2026. у 09:30",
-      "slika": null
-    },
-    {
-      "naslov": "Nedić izbačen iz fudbala – 9 meseci suspenzije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223670/nedic-izbacen-iz-fudbala-9-meseci-suspenzije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 04. 2026. у 09:00",
       "slika": null
     }
   ]
