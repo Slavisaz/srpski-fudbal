@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-11T17:20:28.876589+00:00",
-  "azurirano_sr": "11. 04. 2026. у 19:20",
+  "azurirano": "2026-04-11T19:25:45.473424+00:00",
+  "azurirano_sr": "11. 04. 2026. у 21:25",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kompanijev Bajern > Latekov Bajern: Musijalin put ka fudbalskom ozdravljenju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kompanijev-bajern-latekov-bajern-musijalin-put-ka-fudbalskom-ozdravljenju/541015",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 04. 2026. у 22:35",
+      "slika": null
+    },
     {
       "naslov": "Arsenal možda bude šampion, ali Arsenal ne igra šampionski fudbal: Bornmut slavi, Siti je živ",
       "url": "https://www.mozzartsport.com/fudbal/vesti/arsenal-mozda-bude-sampion-ali-arsenal-ne-igra-sampionski-fudbal-bornmut-slavi-siti-je-ziv/540998",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Enrike u Čolovom i Pepovom društvu: Od Pari Sen Žermena novi ugovor i plata kakvu zaslužuje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/enrike-u-colovom-i-pepovom-drustvu-od-pari-sen-zermena-novi-ugovor-i-plata-kakvu-zasluzuje/540934",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 04. 2026. у 22:11",
+      "naslov": "Fudbaleri Barselone u gradskom derbiju ubedljivi protiv Espanjola za \"plus devet\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/244240/fudbaleri-barselone-u-gradskom-derbiju-ubedljivi-protiv-espanjola-za-plus-devet/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 04. 2026. у 20:31",
+      "slika": null
+    },
+    {
+      "naslov": "Težak poraz fudbalera Milana na San Siru od Udinezea",
+      "url": "https://www.tanjug.rs/sport/fudbal/244238/tezak-poraz-fudbalera-milana-na-san-siru-od-udinezea/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 04. 2026. у 20:02",
       "slika": null
     },
     {
@@ -46,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Reala odigrali nerešeno protiv Đirone",
-      "url": "https://www.tanjug.rs/sport/fudbal/244114/fudbaleri-reala-odigrali-nereseno-protiv-dirone/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 04. 2026. у 23:00",
-      "slika": null
-    },
-    {
       "naslov": "Tri meseca, deset utakmica i kraj",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224058/bozidar-bandovic-vise-nije-trener-radnickog-1923/vest",
       "izvor": "Б92 Српски фудбал",
@@ -64,20 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224016/marko-nedjic-trener-fk-radnicki-nis/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "11. 04. 2026. у 15:45",
-      "slika": null
-    },
-    {
-      "naslov": "Skandal u Italiji: Trojica fudbalera na sudu, optuženi za grupno silovanje",
-      "url": "https://www.b92.net/sport/fudbal/vesti/223876/skandal-u-italiji-trojica-fudbalera-na-sudu-optuzeni-za-grupno-silovanje/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "10. 04. 2026. у 23:46",
-      "slika": null
-    },
-    {
-      "naslov": "Kapiten fudbalera Intera Lautaro Martinez zbog povrede neće igrati protiv Koma",
-      "url": "https://www.tanjug.rs/sport/fudbal/244041/kapiten-fudbalera-intera-lautaro-martinez-zbog-povrede-nece-igrati-protiv-koma/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 04. 2026. у 15:57",
       "slika": null
     },
     {
