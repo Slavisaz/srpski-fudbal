@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-11T05:18:49.208655+00:00",
-  "azurirano_sr": "11. 04. 2026. у 07:18",
+  "azurirano": "2026-04-11T07:56:14.216962+00:00",
+  "azurirano_sr": "11. 04. 2026. у 09:56",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Sudija Falkone i zatvorski dani Fabricija Mikolija: Tamo ubijaju zbog karata i fudbala… Pa sam bio golman",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sudija-falkone-i-zatvorski-dani-fabricija-mikolija-tamo-ubijaju-zbog-karata-i-fudbala-pa-sam-bio-golman/540972",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 04. 2026. у 11:31",
+      "slika": null
+    },
     {
       "naslov": "Najlepši san se pretvara u košmar: Hofenhajmu izmiče Liga šampiona iz ruku",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najlepsi-san-se-pretvara-u-kosmar-hofenhajmu-izmice-liga-sampiona-iz-ruku/540943",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/di-kanio-bez-rukavica-o-italiji-patimo-od-fudbalske-sizofrenije-i-navikavamo-se-na-prosecnost/540928",
       "izvor": "Мозарт Спорт",
       "datum": "10. 04. 2026. у 21:18",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski elitni fudbal uzduž i popreko: Najluđi brojevi Mozzart Bet Superlige",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-elitni-fudbal-uzduz-i-popreko-najlui-brojevi-mozzart-bet-superlige/540916",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 04. 2026. у 18:39",
       "slika": null
     },
     {
@@ -67,10 +67,24 @@
       "slika": null
     },
     {
+      "naslov": "Skandal u Italiji: Trojica fudbalera na sudu, optuženi za grupno silovanje",
+      "url": "https://www.b92.net/sport/fudbal/vesti/223876/skandal-u-italiji-trojica-fudbalera-na-sudu-optuzeni-za-grupno-silovanje/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "10. 04. 2026. у 23:46",
+      "slika": null
+    },
+    {
       "naslov": "Zvezda na leto ostaje bez štopera?",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223626/zvezda-na-leto-ostaje-bez-stopera/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 04. 2026. у 09:30",
+      "slika": null
+    },
+    {
+      "naslov": "Nedić izbačen iz fudbala – 9 meseci suspenzije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223670/nedic-izbacen-iz-fudbala-9-meseci-suspenzije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 04. 2026. у 09:00",
       "slika": null
     }
   ]
