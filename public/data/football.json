@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-11T10:00:55.856709+00:00",
-  "azurirano_sr": "11. 04. 2026. у 12:00",
+  "azurirano": "2026-04-11T11:45:17.534397+00:00",
+  "azurirano_sr": "11. 04. 2026. у 13:45",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -46,20 +46,6 @@
       "slika": null
     },
     {
-      "naslov": "Džajić: Izuzetno dostignuće Kataija, on je ponos Crvene zvezde",
-      "url": "https://www.tanjug.rs/sport/fudbal/244012/dzajic-izuzetno-dostignuce-kataija-on-je-ponos-crvene-zvezde/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 04. 2026. у 13:03",
-      "slika": null
-    },
-    {
-      "naslov": "Spaleti i Juventus dogovorili nastavak saradnje do 2028. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/243999/spaleti-i-juventus-dogovorili-nastavak-saradnje-do-2028-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 04. 2026. у 12:11",
-      "slika": null
-    },
-    {
       "naslov": "Džajić biranim rečima o Kataiju: &quot;On je ponos Crvene zvezde&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/223779/dzajic-biranim-recima-o-kataiju-on-je-ponos-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,6 +57,34 @@
       "url": "https://www.b92.net/sport/fudbal/vesti/223876/skandal-u-italiji-trojica-fudbalera-na-sudu-optuzeni-za-grupno-silovanje/vest",
       "izvor": "Б92 Фудбал",
       "datum": "10. 04. 2026. у 23:46",
+      "slika": null
+    },
+    {
+      "naslov": "&quot;Felerični&quot; dresovi za Svetsko prvenstvo – &quot;Najki&quot; priznao grešku",
+      "url": "https://www.b92.net/sport/fudbal/vesti/223854/felericni-dresovi-za-svetsko-prvenstvo-najki-priznao-gresku/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "10. 04. 2026. у 22:08",
+      "slika": null
+    },
+    {
+      "naslov": "Bura i saopštenja u Arabiji zbog Ronalda: &quot;Dajte mu odmah pehar&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/223810/bura-u-arabiji-zbog-ronalda-dajte-mu-sve-trofeje/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "10. 04. 2026. у 18:55",
+      "slika": null
+    },
+    {
+      "naslov": "Džajić: Izuzetno dostignuće Kataija, on je ponos Crvene zvezde",
+      "url": "https://www.tanjug.rs/sport/fudbal/244012/dzajic-izuzetno-dostignuce-kataija-on-je-ponos-crvene-zvezde/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 04. 2026. у 13:03",
+      "slika": null
+    },
+    {
+      "naslov": "Spaleti i Juventus dogovorili nastavak saradnje do 2028. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/243999/spaleti-i-juventus-dogovorili-nastavak-saradnje-do-2028-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 04. 2026. у 12:11",
       "slika": null
     },
     {
