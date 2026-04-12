@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-12T06:12:39.105563+00:00",
-  "azurirano_sr": "12. 04. 2026. у 08:12",
+  "azurirano": "2026-04-12T08:33:46.137682+00:00",
+  "azurirano_sr": "12. 04. 2026. у 10:33",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Crna rupa španskog fudbala – suđenje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/crna-rupa-spanskog-fudbala-suenje/541022",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 04. 2026. у 11:12",
+      "slika": null
+    },
+    {
+      "naslov": "Upoznajte najmlađeg fudbalskog trenera u Evropi... Vlada iz Republike Srpske",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/upoznajte-najmlaeg-fudbalskog-trenera-u-evropi-vlada-iz-republike-srpske/540987",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 04. 2026. у 10:07",
+      "slika": null
+    },
     {
       "naslov": "Nije loše za iznuđeno rešenje: Juventus opet slavi Žeremija Bogu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nije-lose-za-iznueno-resenje-juventus-opet-slavi-zeremija-bogu/541028",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Arsenal možda bude šampion, ali Arsenal ne igra šampionski fudbal: Bornmut slavi, Siti je živ",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/arsenal-mozda-bude-sampion-ali-arsenal-ne-igra-sampionski-fudbal-bornmut-slavi-siti-je-ziv/540998",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 04. 2026. у 17:22",
+      "naslov": "Mari-Luiz Eta novi trener fudbalera Uniona iz Berlina",
+      "url": "https://www.tanjug.rs/sport/fudbal/244290/mari-luiz-eta-novi-trener-fudbalera-uniona-iz-berlina/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 04. 2026. у 09:40",
       "slika": null
     },
     {
-      "naslov": "Sudija Falkone i zatvorski dani Fabricija Mikolija: Tamo ubijaju zbog karata i fudbala… Pa sam bio golman",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sudija-falkone-i-zatvorski-dani-fabricija-mikolija-tamo-ubijaju-zbog-karata-i-fudbala-pa-sam-bio-golman/540972",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 04. 2026. у 11:31",
+      "naslov": "Remi fudbalera Intera iz Majamija i Njujork Red Bulsa u MLS ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/244284/remi-fudbalera-intera-iz-majamija-i-njujork-red-bulsa-u-mls-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 04. 2026. у 09:07",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Težak poraz fudbalera Milana na San Siru od Udinezea",
-      "url": "https://www.tanjug.rs/sport/fudbal/244238/tezak-poraz-fudbalera-milana-na-san-siru-od-udinezea/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 04. 2026. у 20:02",
-      "slika": null
-    },
-    {
-      "naslov": "Zorana Arunović osvojila bronzanu medalju na Svetskom kupu u Granadi",
-      "url": "https://www.tanjug.rs/sport/fudbal/244204/zorana-arunovic-osvojila-bronzanu-medalju-na-svetskom-kupu-u-granadi/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 04. 2026. у 16:12",
+      "naslov": "Srbiju umesto Mesija čeka Salah?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224145/srbiju-umesto-mesija-ceka-salah/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 04. 2026. у 08:57",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224009/nemacki-mediji-pisu-da-ognjen-ugresic-napusta-fk-partizan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "11. 04. 2026. у 22:23",
-      "slika": null
-    },
-    {
-      "naslov": "Tri meseca, deset utakmica i kraj",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224058/bozidar-bandovic-vise-nije-trener-radnickog-1923/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "11. 04. 2026. у 16:45",
       "slika": null
     },
     {
@@ -85,13 +85,6 @@
       "url": "https://www.b92.net/sport/fudbal/vesti/223854/felericni-dresovi-za-svetsko-prvenstvo-najki-priznao-gresku/vest",
       "izvor": "Б92 Фудбал",
       "datum": "10. 04. 2026. у 22:08",
-      "slika": null
-    },
-    {
-      "naslov": "Bura i saopštenja u Arabiji zbog Ronalda: &quot;Dajte mu odmah pehar&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/223810/bura-u-arabiji-zbog-ronalda-dajte-mu-sve-trofeje/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "10. 04. 2026. у 18:55",
       "slika": null
     }
   ]
