@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-12T14:10:24.863391+00:00",
-  "azurirano_sr": "12. 04. 2026. у 16:10",
+  "azurirano": "2026-04-12T15:55:21.524291+00:00",
+  "azurirano_sr": "12. 04. 2026. у 17:55",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Totenhema ostali u zoni ispadanja pošto su izgubili od Sanderlenda",
+      "url": "https://www.tanjug.rs/sport/fudbal/244348/fudbaleri-totenhema-ostali-u-zoni-ispadanja-posto-su-izgubili-od-sanderlenda/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 04. 2026. у 17:23",
+      "slika": null
+    },
+    {
+      "naslov": "Remi fudbalera Osasune i Betisa u španskoj La Ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/244335/remi-fudbalera-osasune-i-betisa-u-spanskoj-la-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 04. 2026. у 15:57",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Đenove pobedili Sasuolo u italijanskoj Seriji A",
       "url": "https://www.tanjug.rs/sport/fudbal/244324/fudbaleri-denove-pobedili-sasuolo-u-italijanskoj-seriji-a/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/244290/mari-luiz-eta-novi-trener-fudbalera-uniona-iz-berlina/vest",
       "izvor": "Танјуг",
       "datum": "12. 04. 2026. у 09:40",
-      "slika": null
-    },
-    {
-      "naslov": "Remi fudbalera Intera iz Majamija i Njujork Red Bulsa u MLS ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/244284/remi-fudbalera-intera-iz-majamija-i-njujork-red-bulsa-u-mls-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 04. 2026. у 09:07",
-      "slika": null
-    },
-    {
-      "naslov": "Gudelj pogodio za pobedu fudbalera Sevilje protiv Atletiko Madrida",
-      "url": "https://www.tanjug.rs/sport/fudbal/244253/gudelj-pogodio-za-pobedu-fudbalera-sevilje-protiv-atletiko-madrida/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 04. 2026. у 23:02",
       "slika": null
     },
     {
