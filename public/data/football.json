@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-12T15:55:21.524291+00:00",
-  "azurirano_sr": "12. 04. 2026. у 17:55",
+  "azurirano": "2026-04-12T17:53:34.640651+00:00",
+  "azurirano_sr": "12. 04. 2026. у 19:53",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Mančester Sitija deklasirali Čelsi i vratili se u trku za titulu",
+      "url": "https://www.tanjug.rs/sport/fudbal/244361/fudbaleri-mancester-sitija-deklasirali-celsi-i-vratili-se-u-trku-za-titulu/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 04. 2026. у 19:35",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Totenhema ostali u zoni ispadanja pošto su izgubili od Sanderlenda",
       "url": "https://www.tanjug.rs/sport/fudbal/244348/fudbaleri-totenhema-ostali-u-zoni-ispadanja-posto-su-izgubili-od-sanderlenda/vest",
       "izvor": "Танјуг",
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Mari-Luiz Eta novi trener fudbalera Uniona iz Berlina",
-      "url": "https://www.tanjug.rs/sport/fudbal/244290/mari-luiz-eta-novi-trener-fudbalera-uniona-iz-berlina/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 04. 2026. у 09:40",
-      "slika": null
-    },
-    {
       "naslov": "Sin Zvezdine legende: &quot;Vidim sebe na Marakani&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224220/sin-zvezdine-legende-vidim-sebe-na-marakani/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224226/tomislav-sivic-preuzima-tsc/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 04. 2026. у 15:01",
-      "slika": null
-    },
-    {
-      "naslov": "Skandal u Italiji: Trojica fudbalera na sudu, optuženi za grupno silovanje",
-      "url": "https://www.b92.net/sport/fudbal/vesti/223876/skandal-u-italiji-trojica-fudbalera-na-sudu-optuzeni-za-grupno-silovanje/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "10. 04. 2026. у 23:46",
       "slika": null
     }
   ]
