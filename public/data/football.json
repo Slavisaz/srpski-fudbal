@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-12T11:54:55.323835+00:00",
-  "azurirano_sr": "12. 04. 2026. у 13:54",
+  "azurirano": "2026-04-12T14:10:24.863391+00:00",
+  "azurirano_sr": "12. 04. 2026. у 16:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ozbiljan udarac za Stanojevića u borbi za opstanak: Presudio mu bivši klub",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ozbiljan-udarac-za-stanojevica-u-borbi-za-opstanak-presudio-mu-bivsi-klub/541069",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 04. 2026. у 17:25",
+      "slika": null
+    },
+    {
+      "naslov": "Igrači se pobunili protiv Vidakovića, uprava morala da mu uruči otkaz",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/igraci-se-pobunili-protiv-vidakovica-uprava-morala-da-mu-uruci-otkaz/541068",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 04. 2026. у 16:17",
+      "slika": null
+    },
     {
       "naslov": "Crna rupa španskog fudbala – suđenje",
       "url": "https://www.mozzartsport.com/fudbal/vesti/crna-rupa-spanskog-fudbala-suenje/541022",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Nije loše za iznuđeno rešenje: Juventus opet slavi Žeremija Bogu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nije-lose-za-iznueno-resenje-juventus-opet-slavi-zeremija-bogu/541028",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 04. 2026. у 00:47",
-      "slika": null
-    },
-    {
-      "naslov": "Kompanijev Bajern > Latekov Bajern: Musijalin put ka fudbalskom ozdravljenju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kompanijev-bajern-latekov-bajern-musijalin-put-ka-fudbalskom-ozdravljenju/541015",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 04. 2026. у 22:35",
+      "naslov": "Fudbaleri Đenove pobedili Sasuolo u italijanskoj Seriji A",
+      "url": "https://www.tanjug.rs/sport/fudbal/244324/fudbaleri-denove-pobedili-sasuolo-u-italijanskoj-seriji-a/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 04. 2026. у 14:34",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Barselone u gradskom derbiju ubedljivi protiv Espanjola za \"plus devet\"",
-      "url": "https://www.tanjug.rs/sport/fudbal/244240/fudbaleri-barselone-u-gradskom-derbiju-ubedljivi-protiv-espanjola-za-plus-devet/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 04. 2026. у 20:31",
+      "naslov": "Sin Zvezdine legende: &quot;Vidim sebe na Marakani&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224220/sin-zvezdine-legende-vidim-sebe-na-marakani/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 04. 2026. у 15:31",
       "slika": null
     },
     {
-      "naslov": "B92.sport intervju – Miloš Karišik: &quot;Partizan neostvarena želja – drugar me vratio iz penzije&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224146/milos-karisik-za-b92sport-fk-partizan-slovan-liberec-fudbal-intervju/vest",
+      "naslov": "U Bačkoj Topoli okrenuli poznat broj u borbi za opstanak",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224226/tomislav-sivic-preuzima-tsc/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 04. 2026. у 12:55",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezdin biser sanja Real: &quot;Ne ide da maštam da dobijem šansu, pa da se uplašim&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224178/zvezdin-biser-sanja-real-ne-ide-da-mastam-da-dobijem-sansu-pa-da-se-uplasim/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 04. 2026. у 11:41",
+      "datum": "12. 04. 2026. у 15:01",
       "slika": null
     },
     {
@@ -78,13 +78,6 @@
       "url": "https://www.b92.net/sport/fudbal/vesti/223876/skandal-u-italiji-trojica-fudbalera-na-sudu-optuzeni-za-grupno-silovanje/vest",
       "izvor": "Б92 Фудбал",
       "datum": "10. 04. 2026. у 23:46",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Felerični&quot; dresovi za Svetsko prvenstvo – &quot;Najki&quot; priznao grešku",
-      "url": "https://www.b92.net/sport/fudbal/vesti/223854/felericni-dresovi-za-svetsko-prvenstvo-najki-priznao-gresku/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "10. 04. 2026. у 22:08",
       "slika": null
     }
   ]
