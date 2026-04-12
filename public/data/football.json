@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-12T19:54:49.788923+00:00",
-  "azurirano_sr": "12. 04. 2026. у 21:54",
+  "azurirano": "2026-04-12T21:51:01.542885+00:00",
+  "azurirano_sr": "12. 04. 2026. у 23:51",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Lepotica sezone: Komo pokazao Interu šta je fudbal, a Damfris i Tiram zašto je Skudeto njihov",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lepotica-sezone-komo-pokazao-interu-sta-je-fudbal-a-damfris-i-tiram-zasto-je-skudeto-njihov/541108",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 04. 2026. у 00:45",
+      "slika": null
+    },
     {
       "naslov": "Ozbiljan udarac za Stanojevića u borbi za opstanak: Presudio mu bivši klub",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ozbiljan-udarac-za-stanojevica-u-borbi-za-opstanak-presudio-mu-bivsi-klub/541069",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Upoznajte najmlađeg fudbalskog trenera u Evropi... Vlada iz Republike Srpske",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/upoznajte-najmlaeg-fudbalskog-trenera-u-evropi-vlada-iz-republike-srpske/540987",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 04. 2026. у 10:07",
+      "naslov": "Fudbaleri Intera velikim preokretom savladali Komo i stigli na korak od titule",
+      "url": "https://www.tanjug.rs/sport/fudbal/244374/fudbaleri-intera-velikim-preokretom-savladali-komo-i-stigli-na-korak-od-titule/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 04. 2026. у 22:44",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/244335/remi-fudbalera-osasune-i-betisa-u-spanskoj-la-ligi/vest",
       "izvor": "Танјуг",
       "datum": "12. 04. 2026. у 15:57",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Đenove pobedili Sasuolo u italijanskoj Seriji A",
-      "url": "https://www.tanjug.rs/sport/fudbal/244324/fudbaleri-denove-pobedili-sasuolo-u-italijanskoj-seriji-a/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 04. 2026. у 14:34",
       "slika": null
     },
     {
