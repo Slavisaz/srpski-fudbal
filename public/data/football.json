@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-13T11:05:26.901294+00:00",
-  "azurirano_sr": "13. 04. 2026. у 13:05",
+  "azurirano": "2026-04-13T16:01:00.405619+00:00",
+  "azurirano_sr": "13. 04. 2026. у 18:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Juve aktivirao Opendin otkup za preko 40.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/juve-aktivirao-opendin-otkup-za-preko-40000000-evra/541147",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 04. 2026. у 16:37",
+      "slika": null
+    },
     {
       "naslov": "Pep u finalu Liga kupa osvojio Premijer ligu?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pep-u-finalu-liga-kupa-osvojio-premijer-ligu/541127",
@@ -25,38 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Lepotica sezone: Komo pokazao Interu šta je fudbal, a Damfris i Tiram zašto je Skudeto njihov",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lepotica-sezone-komo-pokazao-interu-sta-je-fudbal-a-damfris-i-tiram-zasto-je-skudeto-njihov/541108",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 04. 2026. у 00:45",
+      "naslov": "Lidija Stojkanović: Italija je veoma kvalitetna, iskusna i organizovana reprezentacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/244460/lidija-stojkanovic-italija-je-veoma-kvalitetna-iskusna-i-organizovana-reprezentacija/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 04. 2026. у 15:18",
       "slika": null
     },
     {
-      "naslov": "Trener Pari Sen Žermena Luis Enrike računa na 22 igrača za meč protiv Liverpula u Ligi šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/244443/trener-pari-sen-zermena-luis-enrike-racuna-na-22-igraca-za-mec-protiv-liverpula-u-ligi-sampiona/vest",
+      "naslov": "Nekadašnji engleski fudbaler Džon Teri želi da kupi Kolčester junajted",
+      "url": "https://www.tanjug.rs/sport/fudbal/244458/nekadasnji-engleski-fudbaler-dzon-teri-zeli-da-kupi-kolcester-junajted/vest",
       "izvor": "Танјуг",
-      "datum": "13. 04. 2026. у 12:40",
+      "datum": "13. 04. 2026. у 14:56",
       "slika": null
     },
     {
-      "naslov": "Fudbaler Barselone Mark Bernal neizvestan za meč protiv Atletika u Ligi šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/244436/fudbaler-barselone-mark-bernal-neizvestan-za-mec-protiv-atletika-u-ligi-sampiona/vest",
+      "naslov": "Sanderlend osudio uvrede na rasnoj osnovi upućene fudbaleru Brajanu Brobiju",
+      "url": "https://www.tanjug.rs/sport/fudbal/244455/sanderlend-osudio-uvrede-na-rasnoj-osnovi-upucene-fudbaleru-brajanu-brobiju/vest",
       "izvor": "Танјуг",
-      "datum": "13. 04. 2026. у 12:08",
+      "datum": "13. 04. 2026. у 14:29",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Intera velikim preokretom savladali Komo i stigli na korak od titule",
-      "url": "https://www.tanjug.rs/sport/fudbal/244374/fudbaleri-intera-velikim-preokretom-savladali-komo-i-stigli-na-korak-od-titule/vest",
+      "naslov": "Fudbaleri Crvene zvezde protiv Vojvodine igraju 50. meč u sezoni",
+      "url": "https://www.tanjug.rs/sport/fudbal/244453/fudbaleri-crvene-zvezde-protiv-vojvodine-igraju-50-mec-u-sezoni/vest",
       "izvor": "Танјуг",
-      "datum": "12. 04. 2026. у 22:44",
+      "datum": "13. 04. 2026. у 13:56",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Mančester Sitija deklasirali Čelsi i vratili se u trku za titulu",
-      "url": "https://www.tanjug.rs/sport/fudbal/244361/fudbaleri-mancester-sitija-deklasirali-celsi-i-vratili-se-u-trku-za-titulu/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 04. 2026. у 19:35",
+      "naslov": "Dug od 1,2 miliona visi nad Humskom",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224500/fk-partizan-duguje-nathu-vise-od-milion-evra/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 04. 2026. у 17:38",
+      "slika": null
+    },
+    {
+      "naslov": "Bizaran crveni karton u Brazilu – hvatao se za međunožje, reagovao i VAR VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/224459/bizaran-crveni-karton-u-brazilu-hvatao-se-za-medjunozje-reagovao-i-var-video/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "13. 04. 2026. у 15:45",
       "slika": null
     },
     {
@@ -71,13 +85,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224226/tomislav-sivic-preuzima-tsc/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 04. 2026. у 15:01",
-      "slika": null
-    },
-    {
-      "naslov": "B92.sport intervju – Miloš Karišik: &quot;Partizan neostvarena želja – drugar me vratio iz penzije&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224146/milos-karisik-za-b92sport-fk-partizan-slovan-liberec-fudbal-intervju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 04. 2026. у 12:55",
       "slika": null
     }
   ]
