@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-13T06:35:02.220311+00:00",
-  "azurirano_sr": "13. 04. 2026. у 08:35",
+  "azurirano": "2026-04-13T11:05:26.901294+00:00",
+  "azurirano_sr": "13. 04. 2026. у 13:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Pep u finalu Liga kupa osvojio Premijer ligu?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pep-u-finalu-liga-kupa-osvojio-premijer-ligu/541127",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 04. 2026. у 11:57",
+      "slika": null
+    },
+    {
+      "naslov": "Golac, Engleska, fudbal & rokenrol - sve ostalo je imitacija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/golac-engleska-fudbal-rokenrol-sve-ostalo-je-imitacija/541109",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 04. 2026. у 11:00",
+      "slika": null
+    },
     {
       "naslov": "Toluka overava plasman u plej-of",
       "url": "https://www.mozzartsport.com/fudbal/vesti/toluka-overava-plasman-u-plejof/541070",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Ozbiljan udarac za Stanojevića u borbi za opstanak: Presudio mu bivši klub",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ozbiljan-udarac-za-stanojevica-u-borbi-za-opstanak-presudio-mu-bivsi-klub/541069",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 04. 2026. у 17:25",
+      "naslov": "Trener Pari Sen Žermena Luis Enrike računa na 22 igrača za meč protiv Liverpula u Ligi šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/244443/trener-pari-sen-zermena-luis-enrike-racuna-na-22-igraca-za-mec-protiv-liverpula-u-ligi-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 04. 2026. у 12:40",
       "slika": null
     },
     {
-      "naslov": "Igrači se pobunili protiv Vidakovića, uprava morala da mu uruči otkaz",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/igraci-se-pobunili-protiv-vidakovica-uprava-morala-da-mu-uruci-otkaz/541068",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 04. 2026. у 16:17",
+      "naslov": "Fudbaler Barselone Mark Bernal neizvestan za meč protiv Atletika u Ligi šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/244436/fudbaler-barselone-mark-bernal-neizvestan-za-mec-protiv-atletika-u-ligi-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 04. 2026. у 12:08",
       "slika": null
     },
     {
@@ -46,20 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Totenhema ostali u zoni ispadanja pošto su izgubili od Sanderlenda",
-      "url": "https://www.tanjug.rs/sport/fudbal/244348/fudbaleri-totenhema-ostali-u-zoni-ispadanja-posto-su-izgubili-od-sanderlenda/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 04. 2026. у 17:23",
-      "slika": null
-    },
-    {
-      "naslov": "Remi fudbalera Osasune i Betisa u španskoj La Ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/244335/remi-fudbalera-osasune-i-betisa-u-spanskoj-la-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 04. 2026. у 15:57",
-      "slika": null
-    },
-    {
       "naslov": "Sin Zvezdine legende: &quot;Vidim sebe na Marakani&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224220/sin-zvezdine-legende-vidim-sebe-na-marakani/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,6 +71,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224226/tomislav-sivic-preuzima-tsc/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 04. 2026. у 15:01",
+      "slika": null
+    },
+    {
+      "naslov": "B92.sport intervju – Miloš Karišik: &quot;Partizan neostvarena želja – drugar me vratio iz penzije&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224146/milos-karisik-za-b92sport-fk-partizan-slovan-liberec-fudbal-intervju/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 04. 2026. у 12:55",
       "slika": null
     }
   ]
