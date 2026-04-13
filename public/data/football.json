@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-12T23:21:55.841446+00:00",
-  "azurirano_sr": "13. 04. 2026. у 01:21",
+  "azurirano": "2026-04-13T06:35:02.220311+00:00",
+  "azurirano_sr": "13. 04. 2026. у 08:35",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Toluka overava plasman u plej-of",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/toluka-overava-plasman-u-plejof/541070",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 04. 2026. у 01:05",
+      "slika": null
+    },
     {
       "naslov": "Lepotica sezone: Komo pokazao Interu šta je fudbal, a Damfris i Tiram zašto je Skudeto njihov",
       "url": "https://www.mozzartsport.com/fudbal/vesti/lepotica-sezone-komo-pokazao-interu-sta-je-fudbal-a-damfris-i-tiram-zasto-je-skudeto-njihov/541108",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/igraci-se-pobunili-protiv-vidakovica-uprava-morala-da-mu-uruci-otkaz/541068",
       "izvor": "Мозарт Спорт",
       "datum": "12. 04. 2026. у 16:17",
-      "slika": null
-    },
-    {
-      "naslov": "Crna rupa španskog fudbala – suđenje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/crna-rupa-spanskog-fudbala-suenje/541022",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 04. 2026. у 11:12",
       "slika": null
     },
     {
