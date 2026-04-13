@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-13T19:57:35.254558+00:00",
-  "azurirano_sr": "13. 04. 2026. у 21:57",
+  "azurirano": "2026-04-13T22:31:20.946202+00:00",
+  "azurirano_sr": "14. 04. 2026. у 00:31",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Rezzime dana (ponedeljak): Samo 40 odsto uspešnosti, brojna razočaranja u ligama petica",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-ponedeljak-samo-40-odsto-uspesnosti-brojna-razocaranja-u-ligama-petica/541176",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 04. 2026. у 01:44",
+      "slika": null
+    },
     {
       "naslov": "Superligaši ponovo u Staroj Pazovi: Na Paunovićevom oku Kabić, Kostić, Lučić...",
       "url": "https://www.mozzartsport.com/fudbal/vesti/superligasi-ponovo-u-staroj-pazovi-na-paunovicevom-oku-kabic-kostic-lucic/541171",
@@ -25,38 +32,31 @@
       "slika": null
     },
     {
-      "naslov": "Nek sirene zavijaju, samo da Dnjepar šumi i klasje raste: Žitna polja iznedrila veliko iznenađenje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nek-sirene-zavijaju-samo-da-dnjepar-sumi-i-klasje-raste-zitna-polja-iznedrila-veliko-iznenaenje/541161",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 04. 2026. у 20:36",
+      "naslov": "Fudbaleri Al Hilala eliminisani od Al Sada u Azijskoj ligi šampiona, Sergej Milinković-Savić strelac",
+      "url": "https://www.tanjug.rs/sport/fudbal/244504/fudbaleri-al-hilala-eliminisani-od-al-sada-u-azijskoj-ligi-sampiona-sergej-milinkovic-savic-strelac/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 04. 2026. у 23:06",
       "slika": null
     },
     {
-      "naslov": "Kapiten Totenhema Kristijan Romero zbog povrede neće igrati do kraja sezone",
-      "url": "https://www.tanjug.rs/sport/fudbal/244482/kapiten-totenhema-kristijan-romero-zbog-povrede-nece-igrati-do-kraja-sezone/vest",
+      "naslov": "Fudbaleri Lidsa pobedili Mančester junajted u 32. kolu Premijer lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/244503/fudbaleri-lidsa-pobedili-mancester-junajted-u-32-kolu-premijer-lige/vest",
       "izvor": "Танјуг",
-      "datum": "13. 04. 2026. у 18:56",
+      "datum": "13. 04. 2026. у 23:01",
       "slika": null
     },
     {
-      "naslov": "Lidija Stojkanović: Italija je veoma kvalitetna, iskusna i organizovana reprezentacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/244460/lidija-stojkanovic-italija-je-veoma-kvalitetna-iskusna-i-organizovana-reprezentacija/vest",
+      "naslov": "Fudbaleri Fiorentine nadigrali Lacio u 32. kolu Serije A",
+      "url": "https://www.tanjug.rs/sport/fudbal/244502/fudbaleri-fiorentine-nadigrali-lacio-u-32-kolu-serije-a/vest",
       "izvor": "Танјуг",
-      "datum": "13. 04. 2026. у 15:18",
+      "datum": "13. 04. 2026. у 22:51",
       "slika": null
     },
     {
-      "naslov": "Nekadašnji engleski fudbaler Džon Teri želi da kupi Kolčester junajted",
-      "url": "https://www.tanjug.rs/sport/fudbal/244458/nekadasnji-engleski-fudbaler-dzon-teri-zeli-da-kupi-kolcester-junajted/vest",
+      "naslov": "Karlos Keiroš novi selektor fudbalera Gane",
+      "url": "https://www.tanjug.rs/sport/fudbal/244499/karlos-keiros-novi-selektor-fudbalera-gane/vest",
       "izvor": "Танјуг",
-      "datum": "13. 04. 2026. у 14:56",
-      "slika": null
-    },
-    {
-      "naslov": "Sanderlend osudio uvrede na rasnoj osnovi upućene fudbaleru Brajanu Brobiju",
-      "url": "https://www.tanjug.rs/sport/fudbal/244455/sanderlend-osudio-uvrede-na-rasnoj-osnovi-upucene-fudbaleru-brajanu-brobiju/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 04. 2026. у 14:29",
+      "datum": "13. 04. 2026. у 22:09",
       "slika": null
     },
     {
