@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-14T15:22:22.092849+00:00",
-  "azurirano_sr": "14. 04. 2026. у 17:22",
+  "azurirano": "2026-04-14T19:50:40.072804+00:00",
+  "azurirano_sr": "14. 04. 2026. у 21:50",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "UŽIVO LIGA ŠAMPIONA: Atletiko – Barselona 0:1, Liverpul – PSŽ 0:0",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-atletiko-barselona-01-liverpul-psz-00/541237",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 04. 2026. у 22:31",
+      "slika": null
+    },
+    {
+      "naslov": "Sivić za petama Lalatoviću… Vrte li se ista lica po Superligi ili ima i novih?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sivic-za-petama-lalatovicu-vrte-li-se-ista-lica-po-superligi-ili-ima-i-novih/541232",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 04. 2026. у 20:19",
+      "slika": null
+    },
     {
       "naslov": "Koga je sve Paunović testirao u Staroj Pazovi...",
       "url": "https://www.mozzartsport.com/fudbal/vesti/koga-je-sve-paunovic-testirao-u-staroj-pazovi/541226",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Paunović posle nove provere superligaških igrača: Na neke od njih će se ozbiljno računati",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/paunovic-posle-nove-provere-superligaskih-igraca-na-neke-od-njih-ce-se-ozbiljno-racunati/541215",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 04. 2026. у 16:37",
+      "naslov": "Težak poraz fudbalerki Srbije od Italije u kvalifikacijama za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/244778/tezak-poraz-fudbalerki-srbije-od-italije-u-kvalifikacijama-za-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 04. 2026. у 20:30",
       "slika": null
     },
     {
-      "naslov": "Raport sa srpskoligaških terena: Već može da se priča o dva nova člana Mozzart Bet Prve lige",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-vec-moze-da-se-prica-o-dva-nova-clana-mozzart-bet-prve-lige/541189",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 04. 2026. у 11:07",
+      "naslov": "Bivši predsednik francuskog fudbalskog saveza Žan-Pjer Eskalet preminuo u 90. godini",
+      "url": "https://www.tanjug.rs/sport/fudbal/244742/bivsi-predsednik-francuskog-fudbalskog-saveza-zan-pjer-eskalet-preminuo-u-90-godini/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 04. 2026. у 18:05",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Veljko Paunović: Kontinuitet od velikog značaja, potrebno je da ponavljamo ovakve akcije",
-      "url": "https://www.tanjug.rs/sport/fudbal/244701/veljko-paunovic-kontinuitet-od-velikog-znacaja-potrebno-je-da-ponavljamo-ovakve-akcije/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 04. 2026. у 15:53",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Obradović: Mislim da smo igrali vrlo dobru košarku, ovo je odlična sezona",
-      "url": "https://www.tanjug.rs/sport/fudbal/244685/sasa-obradovic-mislim-da-smo-igrali-vrlo-dobru-kosarku-ovo-je-odlicna-sezona/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 04. 2026. у 15:10",
-      "slika": null
-    },
-    {
-      "naslov": "Paunović zadovoljan superligašima: &quot;Kontinuitet je vrlo važan&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224767/paunovic-zadovoljan-superligasima-kontinuitet-je-vrlo-vazan/vest",
+      "naslov": "Debakl Srbije u Leskovcu u borbi za Mundijal",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224869/debakl-srbije-u-leskovcu-u-borbi-za-mundijal/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "14. 04. 2026. у 14:37",
+      "datum": "14. 04. 2026. у 21:15",
       "slika": null
     },
     {
-      "naslov": "Radonjić i Zvezda – sada je stvarno kraj",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224708/nemanja-radonjic-suspendovan-do-kraja-ugovora-i-napusta-crvenu-zvezdu/vest",
+      "naslov": "&quot;Velika je čast dobiti poziv reprezentacije Srbije&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224755/velika-je-cast-dobiti-poziv-reprezentacije-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "14. 04. 2026. у 12:28",
+      "datum": "14. 04. 2026. у 19:30",
       "slika": null
     }
   ]
