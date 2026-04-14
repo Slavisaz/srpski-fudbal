@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-14T06:07:50.603370+00:00",
-  "azurirano_sr": "14. 04. 2026. у 08:07",
+  "azurirano": "2026-04-14T10:47:20.213652+00:00",
+  "azurirano_sr": "14. 04. 2026. у 12:47",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Raport sa srpskoligaških terena: Već može da se priča o dva nova člana Mozzart Bet Prve lige",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-vec-moze-da-se-prica-o-dva-nova-clana-mozzart-bet-prve-lige/541189",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 04. 2026. у 11:07",
+      "slika": null
+    },
+    {
+      "naslov": "Velika analiza srpskog fudbala: Brže, ali po koju cenu?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/velika-analiza-srpskog-fudbala-brze-ali-po-koju-cenu/541191",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 04. 2026. у 10:47",
+      "slika": null
+    },
     {
       "naslov": "Rezzime dana (ponedeljak): Samo 40 odsto uspešnosti, brojna razočaranja u ligama petica",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-ponedeljak-samo-40-odsto-uspesnosti-brojna-razocaranja-u-ligama-petica/541176",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Gledajte plodove Bajernovih rekordnih prihoda: Paprena cena nije problem, Njukasl kontaktiran",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gledajte-plodove-bajernovih-rekordnih-prihoda-paprena-cena-nije-problem-njukasl-kontaktiran/541165",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 04. 2026. у 22:15",
-      "slika": null
-    },
-    {
-      "naslov": "Jamal lobira za Nejmara: Zbog njega ljudi plate kartu, pa vraćaju snimak da opet vide šta je radio",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jamal-lobira-za-nejmara-zbog-njega-ljudi-plate-kartu-pa-vracaju-snimak-da-opet-vide-sta-je-radio/541160",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 04. 2026. у 20:42",
+      "naslov": "Alvaro Arbeloa odredio fudbalere Reala za revanš meč četvrtfinala Lige Šampiona protiv Bajerna",
+      "url": "https://www.tanjug.rs/sport/fudbal/244601/alvaro-arbeloa-odredio-fudbalere-reala-za-revans-mec-cetvrtfinala-lige-sampiona-protiv-bajerna/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 04. 2026. у 12:01",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Karlos Keiroš novi selektor fudbalera Gane",
-      "url": "https://www.tanjug.rs/sport/fudbal/244499/karlos-keiros-novi-selektor-fudbalera-gane/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 04. 2026. у 22:09",
+      "naslov": "Radonjić i Zvezda – sada je stvarno kraj",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224708/nemanja-radonjic-suspendovan-do-kraja-ugovora-i-napusta-crvenu-zvezdu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 04. 2026. у 12:28",
       "slika": null
     },
     {
-      "naslov": "&quot;Osetio sam da imam problem sa kolenom, ali derbi se igra i sa jednom nogom!&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224532/miroslav-vulicevic-fk-partizan-derbi-se-igra-i-sa-jednom-nogom/vest",
+      "naslov": "Radnički dobio četvrtog trenera od starta sezone",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224641/radnicki-dobio-cetvrtog-trenera-od-starta-sezone/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "13. 04. 2026. у 20:45",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda igra 50. meč u sezoni – Vojvodina rival na startu plej-ofa",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224538/zvezda-igra-50-mec-u-sezoni-vojvodina-rival-na-startu-plej-ofa/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 04. 2026. у 18:12",
+      "datum": "14. 04. 2026. у 12:15",
       "slika": null
     }
   ]
