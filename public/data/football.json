@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-04-14T10:47:20.213652+00:00",
-  "azurirano_sr": "14. 04. 2026. у 12:47",
+  "azurirano": "2026-04-14T15:22:22.092849+00:00",
+  "azurirano_sr": "14. 04. 2026. у 17:22",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Koga je sve Paunović testirao u Staroj Pazovi...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/koga-je-sve-paunovic-testirao-u-staroj-pazovi/541226",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 04. 2026. у 18:42",
+      "slika": null
+    },
+    {
+      "naslov": "Superligaši u dresu reprezentacije: Bravo za selektora! Ima kvaliteta i u domaćem prvenstvu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/superligasi-u-dresu-reprezentacije-bravo-za-selektora-ima-kvaliteta-i-u-domacem-prvenstvu/541222",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 04. 2026. у 17:47",
+      "slika": null
+    },
+    {
+      "naslov": "Paunović posle nove provere superligaških igrača: Na neke od njih će se ozbiljno računati",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/paunovic-posle-nove-provere-superligaskih-igraca-na-neke-od-njih-ce-se-ozbiljno-racunati/541215",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 04. 2026. у 16:37",
+      "slika": null
+    },
     {
       "naslov": "Raport sa srpskoligaških terena: Već može da se priča o dva nova člana Mozzart Bet Prve lige",
       "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-vec-moze-da-se-prica-o-dva-nova-clana-mozzart-bet-prve-lige/541189",
@@ -11,52 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Velika analiza srpskog fudbala: Brže, ali po koju cenu?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/velika-analiza-srpskog-fudbala-brze-ali-po-koju-cenu/541191",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 04. 2026. у 10:47",
-      "slika": null
-    },
-    {
-      "naslov": "Rezzime dana (ponedeljak): Samo 40 odsto uspešnosti, brojna razočaranja u ligama petica",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-ponedeljak-samo-40-odsto-uspesnosti-brojna-razocaranja-u-ligama-petica/541176",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 04. 2026. у 01:44",
-      "slika": null
-    },
-    {
-      "naslov": "Superligaši ponovo u Staroj Pazovi: Na Paunovićevom oku Kabić, Kostić, Lučić...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/superligasi-ponovo-u-staroj-pazovi-na-paunovicevom-oku-kabic-kostic-lucic/541171",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 04. 2026. у 23:14",
-      "slika": null
-    },
-    {
-      "naslov": "Alvaro Arbeloa odredio fudbalere Reala za revanš meč četvrtfinala Lige Šampiona protiv Bajerna",
-      "url": "https://www.tanjug.rs/sport/fudbal/244601/alvaro-arbeloa-odredio-fudbalere-reala-za-revans-mec-cetvrtfinala-lige-sampiona-protiv-bajerna/vest",
+      "naslov": "Fudbaleri Arsenala Rajs, Saka, Timber, Edegor i Kalafjori neizvesni za meč Lige šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/244721/fudbaleri-arsenala-rajs-saka-timber-edegor-i-kalafjori-neizvesni-za-mec-lige-sampiona/vest",
       "izvor": "Танјуг",
-      "datum": "14. 04. 2026. у 12:01",
+      "datum": "14. 04. 2026. у 16:51",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Al Hilala eliminisani od Al Sada u Azijskoj ligi šampiona, Sergej Milinković-Savić strelac",
-      "url": "https://www.tanjug.rs/sport/fudbal/244504/fudbaleri-al-hilala-eliminisani-od-al-sada-u-azijskoj-ligi-sampiona-sergej-milinkovic-savic-strelac/vest",
+      "naslov": "Andoni Iraola na kraju sezone odlazi iz Bornmuta",
+      "url": "https://www.tanjug.rs/sport/fudbal/244703/andoni-iraola-na-kraju-sezone-odlazi-iz-bornmuta/vest",
       "izvor": "Танјуг",
-      "datum": "13. 04. 2026. у 23:06",
+      "datum": "14. 04. 2026. у 16:04",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Lidsa pobedili Mančester junajted u 32. kolu Premijer lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/244503/fudbaleri-lidsa-pobedili-mancester-junajted-u-32-kolu-premijer-lige/vest",
+      "naslov": "Veljko Paunović: Kontinuitet od velikog značaja, potrebno je da ponavljamo ovakve akcije",
+      "url": "https://www.tanjug.rs/sport/fudbal/244701/veljko-paunovic-kontinuitet-od-velikog-znacaja-potrebno-je-da-ponavljamo-ovakve-akcije/vest",
       "izvor": "Танјуг",
-      "datum": "13. 04. 2026. у 23:01",
+      "datum": "14. 04. 2026. у 15:53",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Fiorentine nadigrali Lacio u 32. kolu Serije A",
-      "url": "https://www.tanjug.rs/sport/fudbal/244502/fudbaleri-fiorentine-nadigrali-lacio-u-32-kolu-serije-a/vest",
+      "naslov": "Saša Obradović: Mislim da smo igrali vrlo dobru košarku, ovo je odlična sezona",
+      "url": "https://www.tanjug.rs/sport/fudbal/244685/sasa-obradovic-mislim-da-smo-igrali-vrlo-dobru-kosarku-ovo-je-odlicna-sezona/vest",
       "izvor": "Танјуг",
-      "datum": "13. 04. 2026. у 22:51",
+      "datum": "14. 04. 2026. у 15:10",
+      "slika": null
+    },
+    {
+      "naslov": "Paunović zadovoljan superligašima: &quot;Kontinuitet je vrlo važan&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224767/paunovic-zadovoljan-superligasima-kontinuitet-je-vrlo-vazan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 04. 2026. у 14:37",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224708/nemanja-radonjic-suspendovan-do-kraja-ugovora-i-napusta-crvenu-zvezdu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "14. 04. 2026. у 12:28",
-      "slika": null
-    },
-    {
-      "naslov": "Radnički dobio četvrtog trenera od starta sezone",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224641/radnicki-dobio-cetvrtog-trenera-od-starta-sezone/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 04. 2026. у 12:15",
       "slika": null
     }
   ]
