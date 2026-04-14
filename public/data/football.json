@@ -1,13 +1,20 @@
 {
-  "azurirano": "2026-04-14T19:50:40.072804+00:00",
-  "azurirano_sr": "14. 04. 2026. у 21:50",
+  "azurirano": "2026-04-14T22:31:26.053603+00:00",
+  "azurirano_sr": "15. 04. 2026. у 00:31",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "UŽIVO LIGA ŠAMPIONA: Atletiko – Barselona 0:1, Liverpul – PSŽ 0:0",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-atletiko-barselona-01-liverpul-psz-00/541237",
+      "naslov": "Puna mreža Srbije u Leskovcu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/puna-mreza-srbije-u-leskovcu/541244",
       "izvor": "Мозарт Спорт",
-      "datum": "14. 04. 2026. у 22:31",
+      "datum": "15. 04. 2026. у 01:17",
+      "slika": null
+    },
+    {
+      "naslov": "KRAJ – LIGA ŠAMPIONA: Atletiko – Barselona 1:2, Liverpul – PSŽ 0:2",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-sampiona-atletiko-barselona-12-liverpul-psz-02/541237",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 04. 2026. у 23:44",
       "slika": null
     },
     {
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Superligaši u dresu reprezentacije: Bravo za selektora! Ima kvaliteta i u domaćem prvenstvu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/superligasi-u-dresu-reprezentacije-bravo-za-selektora-ima-kvaliteta-i-u-domacem-prvenstvu/541222",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 04. 2026. у 17:47",
+      "naslov": "Fudbaleri Atletiko Madrida i PSŽ-a u polufinalu Lige šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/244793/fudbaleri-atletiko-madrida-i-psz-a-u-polufinalu-lige-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 04. 2026. у 23:01",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Andoni Iraola na kraju sezone odlazi iz Bornmuta",
-      "url": "https://www.tanjug.rs/sport/fudbal/244703/andoni-iraola-na-kraju-sezone-odlazi-iz-bornmuta/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 04. 2026. у 16:04",
+      "naslov": "Mateus juri jubilej na utakmici protiv Vojvodine",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224748/mateus-juri-jubilej-na-utakmici-protiv-vojvodine/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 04. 2026. у 22:40",
       "slika": null
     },
     {
-      "naslov": "Debakl Srbije u Leskovcu u borbi za Mundijal",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224869/debakl-srbije-u-leskovcu-u-borbi-za-mundijal/vest",
+      "naslov": "Greška Stefanovića uticala na ishod u Lučanima VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224837/greska-stefanovica-uticala-na-ishod-u-lucanima-video/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "14. 04. 2026. у 21:15",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Velika je čast dobiti poziv reprezentacije Srbije&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224755/velika-je-cast-dobiti-poziv-reprezentacije-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 04. 2026. у 19:30",
+      "datum": "14. 04. 2026. у 22:26",
       "slika": null
     }
   ]
