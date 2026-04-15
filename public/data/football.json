@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-15T10:40:50.775207+00:00",
-  "azurirano_sr": "15. 04. 2026. у 12:40",
-  "vesti_24h": 10,
+  "azurirano": "2026-04-15T14:58:39.901547+00:00",
+  "azurirano_sr": "15. 04. 2026. у 16:58",
+  "vesti_24h": 8,
   "vesti": [
+    {
+      "naslov": "Bura u Kruševcu, Miloš Nenezić udario na igrače: Ne mogu zajedno kafana i fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bura-u-krusevcu-milos-nenezic-udario-na-igrace-ne-mogu-zajedno-kafana-i-fudbal/541294",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 04. 2026. у 18:15",
+      "slika": null
+    },
     {
       "naslov": "Jubilej najvećeg rivalstva u evropskom fudbalu: Da li je vreme za naplatu dugova?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/jubilej-najveceg-rivalstva-u-evropskom-fudbalu-da-li-je-vreme-za-naplatu-dugova/541273",
@@ -18,17 +25,24 @@
       "slika": null
     },
     {
-      "naslov": "Rasim Lajić: Skupština od juna do septembra! Vreme je za nove ljude, mi ne moramo da ostanemo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rasim-lajic-skupstina-od-juna-do-septembra-vreme-je-za-nove-ljude-mi-ne-moramo-da-ostanemo/541262",
+      "naslov": "Rasim Ljajić: Skupština od juna do septembra! Vreme je za nove ljude, mi ne moramo da ostanemo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rasim-ljajic-skupstina-od-juna-do-septembra-vreme-je-za-nove-ljude-mi-ne-moramo-da-ostanemo/541262",
       "izvor": "Мозарт Спорт",
       "datum": "15. 04. 2026. у 12:57",
       "slika": null
     },
     {
-      "naslov": "Mijatović traži podršku Apela: Zvao Rukavinu, Bambija, Stojketa, Lomića, Đorđa Tomića...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mijatovic-trazi-podrsku-apela-zvao-rukavinu-bambija-stojketa-lomica-ora-tomica/541260",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 04. 2026. у 11:20",
+      "naslov": "Omladinci Srbije sutra dobijaju rivale na Evropskom prvenstvu u fudbalu (U19)",
+      "url": "https://www.tanjug.rs/sport/fudbal/244970/omladinci-srbije-sutra-dobijaju-rivale-na-evropskom-prvenstvu-u-fudbalu-u19/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 04. 2026. у 14:50",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaler Juventusa Arkadijuš Milik neodređeno vreme van terena zbog povrede",
+      "url": "https://www.tanjug.rs/sport/fudbal/244930/fudbaler-juventusa-arkadijus-milik-neodredeno-vreme-van-terena-zbog-povrede/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 04. 2026. у 13:28",
       "slika": null
     },
     {
@@ -43,34 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/244881/rasim-ljajic-ukupan-dug-fk-partizan-38-miliona-evra-skupstina-kluba-od-juna-do-septembra/vest",
       "izvor": "Танјуг",
       "datum": "15. 04. 2026. у 11:22",
-      "slika": null
-    },
-    {
-      "naslov": "FK Crvena zvezda: Počela onlajn prodaja ulaznica za meč protiv Vojvodine",
-      "url": "https://www.tanjug.rs/sport/fudbal/244871/fk-crvena-zvezda-pocela-onlajn-prodaja-ulaznica-za-mec-protiv-vojvodine/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 04. 2026. у 10:51",
-      "slika": null
-    },
-    {
-      "naslov": "Luis Enrike: Zasluženo smo prošli u polufinale Lige šampiona, pokazali smo kvalitet",
-      "url": "https://www.tanjug.rs/sport/fudbal/244862/luis-enrike-zasluzeno-smo-prosli-u-polufinale-lige-sampiona-pokazali-smo-kvalitet/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 04. 2026. у 10:33",
-      "slika": null
-    },
-    {
-      "naslov": "Ljajić: &quot;Vreme je za nove ljude&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224973/fk-partizan-saopstenje-o-dugu-uefa-kontroli-i-novoj-upravi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 04. 2026. у 10:53",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;TSC je u sigurnim rukama&quot; – predsednik kluba ne brine zbog smene Orbana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/224940/predsednik-tsc-ne-brine-zbog-smene-viktora-orbana-sa-vlasti-u-madjarskoj/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 04. 2026. у 09:51",
       "slika": null
     }
   ]
