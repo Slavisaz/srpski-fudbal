@@ -1,11 +1,25 @@
 {
-  "azurirano": "2026-04-15T18:48:01.088838+00:00",
-  "azurirano_sr": "15. 04. 2026. у 20:48",
+  "azurirano": "2026-04-15T21:38:26.897604+00:00",
+  "azurirano_sr": "15. 04. 2026. у 23:38",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "SASTAVI - LIGA ŠAMPIONA: Bajern - Real Madrid, Arsenal - Sporting",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sastavi-liga-sampiona-bajern-real-madrid-arsenal-sporting/541307",
+      "naslov": "Profesionalno, ali na ivici bednog: Arsenal “ubio fudbal” i otišao na još jednog destruktivca",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/profesionalno-ali-na-ivici-bednog-arsenal-ubio-fudbal-i-otisao-na-jos-jednog-destruktivca/541313",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 04. 2026. у 00:49",
+      "slika": null
+    },
+    {
+      "naslov": "Stari vuk je i dalje gladan: Mitrović dao gol za trofej i rastužio srpskog trenera",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stari-vuk-je-i-dalje-gladan-mitrovic-dao-gol-za-trofej-i-rastuzio-srpskog-trenera/541310",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 04. 2026. у 23:08",
+      "slika": null
+    },
+    {
+      "naslov": "KRAJ - LIGA ŠAMPIONA: Bajern - Real Madrid 4:3, Arsenal - Sporting 0:0",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-sampiona-bajern-real-madrid-43-arsenal-sporting-00/541307",
       "izvor": "Мозарт Спорт",
       "datum": "15. 04. 2026. у 21:53",
       "slika": null
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Bura u Kruševcu, Miloš Nenezić udario na igrače: Ne mogu zajedno kafana i fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bura-u-krusevcu-milos-nenezic-udario-na-igrace-ne-mogu-zajedno-kafana-i-fudbal/541294",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 04. 2026. у 18:15",
-      "slika": null
-    },
-    {
-      "naslov": "Jubilej najvećeg rivalstva u evropskom fudbalu: Da li je vreme za naplatu dugova?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jubilej-najveceg-rivalstva-u-evropskom-fudbalu-da-li-je-vreme-za-naplatu-dugova/541273",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 04. 2026. у 14:11",
+      "naslov": "Fudbaleri Bajerna i Arsenala u polufinalu Lige šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/245093/fudbaleri-bajerna-i-arsenala-u-polufinalu-lige-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 04. 2026. у 23:10",
       "slika": null
     },
     {
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Juventusa Arkadijuš Milik neodređeno vreme van terena zbog povrede",
-      "url": "https://www.tanjug.rs/sport/fudbal/244930/fudbaler-juventusa-arkadijus-milik-neodredeno-vreme-van-terena-zbog-povrede/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 04. 2026. у 13:28",
-      "slika": null
-    },
-    {
       "naslov": "Predsednik Napretka &quot;pecnuo&quot; igrače: &quot;Ne mogu kafana, kladionica i fudbal zajedno&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225105/predsednik-napretka-okrivio-igrace-za-ispadanje/vest",
       "izvor": "Б92 Српски фудбал",
@@ -74,17 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "Bivši član Premijer lige u istim problemima kao Siti i Čelsi",
-      "url": "https://www.b92.net/sport/fudbal/vesti/224666/bivsi-clan-premijer-lige-u-istim-problemima-kao-siti-i-celsi/vest",
+      "naslov": "Šok za Mesija – ostao bez trenera",
+      "url": "https://www.b92.net/sport/fudbal/vesti/224855/havijer-maskerano-nije-trener-inter-majamija/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "14. 04. 2026. у 16:25",
-      "slika": null
-    },
-    {
-      "naslov": "Kreće novo suđenje zbog smrti Maradone",
-      "url": "https://www.b92.net/sport/fudbal/vesti/224717/krece-novo-sudjenje-zbog-smrti-maradone/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "14. 04. 2026. у 13:21",
+      "datum": "14. 04. 2026. у 21:43",
       "slika": null
     }
   ]
