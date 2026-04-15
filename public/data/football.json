@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-15T14:58:39.901547+00:00",
-  "azurirano_sr": "15. 04. 2026. у 16:58",
-  "vesti_24h": 8,
+  "azurirano": "2026-04-15T18:48:01.088838+00:00",
+  "azurirano_sr": "15. 04. 2026. у 20:48",
+  "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "SASTAVI - LIGA ŠAMPIONA: Bajern - Real Madrid, Arsenal - Sporting",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sastavi-liga-sampiona-bajern-real-madrid-arsenal-sporting/541307",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 04. 2026. у 21:53",
+      "slika": null
+    },
+    {
+      "naslov": "Veljko Simić ruši dinastiju, pa postaje njen deo: Karabag nije ostao imun na dabl-dabl sezonu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/veljko-simic-rusi-dinastiju-pa-postaje-njen-deo-karabag-nije-ostao-imun-na-dabldabl-sezonu/541302",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 04. 2026. у 20:00",
+      "slika": null
+    },
     {
       "naslov": "Bura u Kruševcu, Miloš Nenezić udario na igrače: Ne mogu zajedno kafana i fudbal",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bura-u-krusevcu-milos-nenezic-udario-na-igrace-ne-mogu-zajedno-kafana-i-fudbal/541294",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Pazar ima novog Nigerijca: Dauda do leta 2029",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pazar-ima-novog-nigerijca-dauda-do-leta-2029/541271",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 04. 2026. у 13:22",
+      "naslov": "Balša Terzić: Ova ekipa OFK Beograda zaslužuje veliku podršku navijača na našem stadionu",
+      "url": "https://www.tanjug.rs/sport/fudbal/245072/balsa-terzic-ova-ekipa-ofk-beograda-zasluzuje-veliku-podrsku-navijaca-na-nasem-stadionu/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 04. 2026. у 20:27",
       "slika": null
     },
     {
-      "naslov": "Rasim Ljajić: Skupština od juna do septembra! Vreme je za nove ljude, mi ne moramo da ostanemo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rasim-ljajic-skupstina-od-juna-do-septembra-vreme-je-za-nove-ljude-mi-ne-moramo-da-ostanemo/541262",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 04. 2026. у 12:57",
+      "naslov": "Fudbaleri PSŽ-a Dezire Due i Nuno Mendeš samo lakše povređeni",
+      "url": "https://www.tanjug.rs/sport/fudbal/245068/fudbaleri-psz-a-dezire-due-i-nuno-mendes-samo-lakse-povredeni/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 04. 2026. у 20:14",
       "slika": null
     },
     {
@@ -46,17 +60,31 @@
       "slika": null
     },
     {
-      "naslov": "Preminuo nekadašnji fudbaler Reala Hoze Emilio Santamarija",
-      "url": "https://www.tanjug.rs/sport/fudbal/244906/preminuo-nekadasnji-fudbaler-reala-hoze-emilio-santamarija/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 04. 2026. у 12:25",
+      "naslov": "Predsednik Napretka &quot;pecnuo&quot; igrače: &quot;Ne mogu kafana, kladionica i fudbal zajedno&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225105/predsednik-napretka-okrivio-igrace-za-ispadanje/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 04. 2026. у 20:16",
       "slika": null
     },
     {
-      "naslov": "Rasim Ljajić: Ukupan dug FK Partizan 38 miliona evra, Skupština kluba od juna do septembra",
-      "url": "https://www.tanjug.rs/sport/fudbal/244881/rasim-ljajic-ukupan-dug-fk-partizan-38-miliona-evra-skupstina-kluba-od-juna-do-septembra/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 04. 2026. у 11:22",
+      "naslov": "Srbija čeka rivale – u četvrtak žreb za Evropsko prvenstvo",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225075/srbija-ceka-rivale-u-cetvrtak-zreb-za-evropsko-prvenstvo/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 04. 2026. у 18:06",
+      "slika": null
+    },
+    {
+      "naslov": "Bivši član Premijer lige u istim problemima kao Siti i Čelsi",
+      "url": "https://www.b92.net/sport/fudbal/vesti/224666/bivsi-clan-premijer-lige-u-istim-problemima-kao-siti-i-celsi/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "14. 04. 2026. у 16:25",
+      "slika": null
+    },
+    {
+      "naslov": "Kreće novo suđenje zbog smrti Maradone",
+      "url": "https://www.b92.net/sport/fudbal/vesti/224717/krece-novo-sudjenje-zbog-smrti-maradone/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "14. 04. 2026. у 13:21",
       "slika": null
     }
   ]
