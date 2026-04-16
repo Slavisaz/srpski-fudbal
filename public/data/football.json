@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-16T20:35:31.084200+00:00",
-  "azurirano_sr": "16. 04. 2026. у 22:35",
+  "azurirano": "2026-04-16T21:24:51.884867+00:00",
+  "azurirano_sr": "16. 04. 2026. у 23:24",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Grande Braga! Ne može im niko ništa, jači su od Španaca",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/grande-braga-ne-moze-im-niko-nista-jaci-su-od-spanaca/541399",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 04. 2026. у 01:01",
+      "slika": null
+    },
     {
       "naslov": "Leo Mesi kupio klub koji ima Srbina u špicu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/leo-mesi-kupio-klub-koji-ima-srbina-u-spicu/541372",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Surovi kapitalizam SAD: U Bostonu četiri puta manje parking mesta i četiri puta skuplji voz",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/surovi-kapitalizam-sad-u-bostonu-cetiri-puta-manje-parking-mesta-i-cetiri-puta-skuplji-voz/541350",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 04. 2026. у 15:39",
+      "naslov": "Fudbaleri Aston Vile, Brage i Notingem Foresta izborili polufinale Lige Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/245368/fudbaleri-aston-vile-brage-i-notingem-foresta-izborili-polufinale-lige-evrope/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 04. 2026. у 23:09",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Rajo Valjekana, Kristal Palasa i Strazbura u polufinalu Lige konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/245369/fudbaleri-rajo-valjekana-kristal-palasa-i-strazbura-u-polufinalu-lige-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 04. 2026. у 23:09",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/245351/fudbaleri-frajburga-izborili-plasman-u-polufinale-lige-evrope/vest",
       "izvor": "Танјуг",
       "datum": "16. 04. 2026. у 20:37",
-      "slika": null
-    },
-    {
-      "naslov": "Bibars Natho napušta Partizan na kraju sezone",
-      "url": "https://www.tanjug.rs/sport/fudbal/245346/bibars-natho-napusta-partizan-na-kraju-sezone/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 04. 2026. у 19:32",
-      "slika": null
-    },
-    {
-      "naslov": "Argentinski fudbaler Leo Mesi kupio španskog petoligaša Kornelju",
-      "url": "https://www.tanjug.rs/sport/fudbal/245328/argentinski-fudbaler-leo-mesi-kupio-spanskog-petoligasa-kornelju/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 04. 2026. у 18:16",
       "slika": null
     },
     {
