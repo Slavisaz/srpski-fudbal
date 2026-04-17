@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-17T20:05:08.180329+00:00",
-  "azurirano_sr": "17. 04. 2026. у 22:05",
+  "azurirano": "2026-04-17T20:58:42.119435+00:00",
+  "azurirano_sr": "17. 04. 2026. у 22:58",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Zvezda završila na 10. mestu Evrolige, igraće u plej-inu protiv Barselone u gostima",
+      "url": "https://www.tanjug.rs/sport/fudbal/245595/zvezda-zavrsila-na-10-mestu-evrolige-igrace-u-plej-inu-protiv-barselone-u-gostima/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 04. 2026. у 22:12",
+      "slika": null
+    },
+    {
       "naslov": "Italijanski fudbaler Manuel Lokateli produžio ugovor sa Juventusom do 2030. godine",
       "url": "https://www.tanjug.rs/sport/fudbal/245583/italijanski-fudbaler-manuel-lokateli-produzio-ugovor-sa-juventusom-do-2030-godine/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Koković: Partizanu su potrebni bodovi, probaćemo da ih pobedimo",
-      "url": "https://www.tanjug.rs/sport/fudbal/245540/kokovic-partizanu-su-potrebni-bodovi-probacemo-da-ih-pobedimo/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 04. 2026. у 17:39",
+      "naslov": "Hospitalizovan Ljubiša Tumbaković",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225800/ljubisa-tumbakovic-u-bolnici-u-uzicu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 04. 2026. у 22:20",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225765/stankovic-maksimalno-spremni-docekujemo-vojvodinu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "17. 04. 2026. у 20:05",
-      "slika": null
-    },
-    {
-      "naslov": "Blagojević o sukobu sa Zdjelarom: &quot;Poražavajuće – to me je pogodilo&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225695/srdjan-blagojevic-kaze-da-ga-je-pogodilo-sto-je-u-javnost-procurila-vest-o-sukobu-sa-sasom-zdjelarom/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 04. 2026. у 15:25",
       "slika": null
     }
   ]
