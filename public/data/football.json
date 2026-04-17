@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-17T17:26:49.729679+00:00",
-  "azurirano_sr": "17. 04. 2026. у 19:26",
+  "azurirano": "2026-04-17T18:10:47.701729+00:00",
+  "azurirano_sr": "17. 04. 2026. у 20:10",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Stanković pred Vojvodinu: &quot;Sutra ćemo prvo da se izljubimo, a onda ćemo biti ljuti neprijatelji&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225765/stankovic-maksimalno-spremni-docekujemo-vojvodinu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 04. 2026. у 20:05",
+      "slika": null
+    },
+    {
       "naslov": "Blagojević o sukobu sa Zdjelarom: &quot;Poražavajuće – to me je pogodilo&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225695/srdjan-blagojevic-kaze-da-ga-je-pogodilo-sto-je-u-javnost-procurila-vest-o-sukobu-sa-sasom-zdjelarom/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "17. 04. 2026. у 15:25",
-      "slika": null
-    },
-    {
-      "naslov": "Falilo je samo jedno",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225519/neslavna-prica-bibarsa-natha-i-partizana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 04. 2026. у 08:25",
       "slika": null
     }
   ]
