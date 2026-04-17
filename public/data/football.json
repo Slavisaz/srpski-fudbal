@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-17T11:03:14.752704+00:00",
-  "azurirano_sr": "17. 04. 2026. у 13:03",
+  "azurirano": "2026-04-17T11:59:04.237699+00:00",
+  "azurirano_sr": "17. 04. 2026. у 13:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Lans oživeo zvezde padalice, Liga šampiona igraće se opet u gradu uglja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lans-oziveo-zvezde-padalice-liga-sampiona-igrace-se-opet-u-gradu-uglja/541436",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 04. 2026. у 15:00",
+      "slika": null
+    },
     {
       "naslov": "Mozzart Bet Prva liga: Pazite se lozničke podvale",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mozzart-bet-prva-liga-pazite-se-loznicke-podvale/541429",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/clanak-koji-je-obisao-planetu-kraljevski-klub-ili-najgori-gubitnik-u-svetu-fudbala/541420",
       "izvor": "Мозарт Спорт",
       "datum": "17. 04. 2026. у 11:50",
-      "slika": null
-    },
-    {
-      "naslov": "Levičari, radnici, revolucionari i rokeri… vreme je za vaše uspomene",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/levicari-radnici-revolucionari-i-rokeri-vreme-je-za-vase-uspomene/541415",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 04. 2026. у 10:40",
       "slika": null
     },
     {
