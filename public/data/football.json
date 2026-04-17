@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-17T15:40:24.821694+00:00",
-  "azurirano_sr": "17. 04. 2026. у 17:40",
+  "azurirano": "2026-04-17T16:32:50.238073+00:00",
+  "azurirano_sr": "17. 04. 2026. у 18:32",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Koković: Partizanu su potrebni bodovi, probaćemo da ih pobedimo",
+      "url": "https://www.tanjug.rs/sport/fudbal/245540/kokovic-partizanu-su-potrebni-bodovi-probacemo-da-ih-pobedimo/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 04. 2026. у 17:39",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaler Čelsija Moises Kajsedo potpisao novi dugoročni ugovor",
       "url": "https://www.tanjug.rs/sport/fudbal/245511/fudbaler-celsija-moises-kajsedo-potpisao-novi-dugorocni-ugovor/vest",
       "izvor": "Танјуг",
@@ -48,13 +55,6 @@
     {
       "naslov": "Fudbaleri Rajo Valjekana, Kristal Palasa i Strazbura u polufinalu Lige konferencije",
       "url": "https://www.tanjug.rs/sport/fudbal/245369/fudbaleri-rajo-valjekana-kristal-palasa-i-strazbura-u-polufinalu-lige-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 04. 2026. у 23:09",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Aston Vile, Brage i Notingem Foresta izborili polufinale Lige Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/245368/fudbaleri-aston-vile-brage-i-notingem-foresta-izborili-polufinale-lige-evrope/vest",
       "izvor": "Танјуг",
       "datum": "16. 04. 2026. у 23:09",
       "slika": null
