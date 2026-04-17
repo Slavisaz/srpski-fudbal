@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-17T20:58:42.119435+00:00",
-  "azurirano_sr": "17. 04. 2026. у 22:58",
+  "azurirano": "2026-04-17T21:40:46.906575+00:00",
+  "azurirano_sr": "17. 04. 2026. у 23:40",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Joveljić zaslužuje bolji klub od Sportinga",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/joveljic-zasluzuje-bolji-klub-od-sportinga/541452",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 04. 2026. у 00:57",
+      "slika": null
+    },
     {
       "naslov": "Anćeloti gađa u centar: Italijanski fudbal izgubio tempo, tek ćemo se mučiti",
       "url": "https://www.mozzartsport.com/fudbal/vesti/anceloti-gaa-u-centar-italijanski-fudbal-izgubio-tempo-tek-cemo-se-muciti/541467",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Mozzart Bet Prva liga: Pazite se lozničke podvale",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mozzart-bet-prva-liga-pazite-se-loznicke-podvale/541429",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 04. 2026. у 13:40",
+      "naslov": "Fudbaleri Koventrija posle 25 godina izborili plasman u Premijer ligu",
+      "url": "https://www.tanjug.rs/sport/fudbal/245604/fudbaleri-koventrija-posle-25-godina-izborili-plasman-u-premijer-ligu/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 04. 2026. у 23:03",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Intera pobedili Kaljari u 33. kolu Serije A",
+      "url": "https://www.tanjug.rs/sport/fudbal/245601/fudbaleri-intera-pobedili-kaljari-u-33-kolu-serije-a/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 04. 2026. у 22:52",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Sasuola savladali Komo u 33. kolu Serije A",
-      "url": "https://www.tanjug.rs/sport/fudbal/245575/fudbaleri-sasuola-savladali-komo-u-33-kolu-serije-a/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 04. 2026. у 20:32",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: Maksimalno spremni dočekujemo Vojvodinu, zasluženo su drugi na tabeli",
-      "url": "https://www.tanjug.rs/sport/fudbal/245547/stankovic-maksimalno-spremni-docekujemo-vojvodinu-zasluzeno-su-drugi-na-tabeli/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 04. 2026. у 18:31",
-      "slika": null
-    },
-    {
-      "naslov": "Hospitalizovan Ljubiša Tumbaković",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225800/ljubisa-tumbakovic-u-bolnici-u-uzicu/vest",
+      "naslov": "Koković pred Partizan: &quot;Možemo da ostvarimo pozitivan rezultat&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225753/kokovic-pred-start-plej-ofa/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 04. 2026. у 22:20",
+      "datum": "17. 04. 2026. у 23:30",
       "slika": null
     },
     {
-      "naslov": "Stanković pred Vojvodinu: &quot;Sutra ćemo prvo da se izljubimo, a onda ćemo biti ljuti neprijatelji&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225765/stankovic-maksimalno-spremni-docekujemo-vojvodinu/vest",
+      "naslov": "Lalatović: &quot;Boli me duša&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225712/lalatovic-o-povratku-navijaca-na-tribine/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 04. 2026. у 20:05",
+      "datum": "17. 04. 2026. у 23:05",
       "slika": null
     }
   ]
