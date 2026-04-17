@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-17T13:19:40.137679+00:00",
-  "azurirano_sr": "17. 04. 2026. у 15:19",
+  "azurirano": "2026-04-17T14:37:52.544737+00:00",
+  "azurirano_sr": "17. 04. 2026. у 16:37",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaler Čelsija Moises Kajsedo potpisao novi dugoročni ugovor",
+      "url": "https://www.tanjug.rs/sport/fudbal/245511/fudbaler-celsija-moises-kajsedo-potpisao-novi-dugorocni-ugovor/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 04. 2026. у 16:03",
+      "slika": null
+    },
+    {
+      "naslov": "Francuski stručnjak Erve Renar nije više selektor Saudijske Arabije",
+      "url": "https://www.tanjug.rs/sport/fudbal/245499/francuski-strucnjak-erve-renar-nije-vise-selektor-saudijske-arabije/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 04. 2026. у 15:18",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Rajo Valjekana, Kristal Palasa i Strazbura u polufinalu Lige konferencije",
       "url": "https://www.tanjug.rs/sport/fudbal/245369/fudbaleri-rajo-valjekana-kristal-palasa-i-strazbura-u-polufinalu-lige-konferencije/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Šahtjora prošli u polufinale Lige konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/245354/fudbaleri-sahtjora-prosli-u-polufinale-lige-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 04. 2026. у 20:45",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Frajburga izborili plasman u polufinale Lige Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/245351/fudbaleri-frajburga-izborili-plasman-u-polufinale-lige-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 04. 2026. у 20:37",
+      "naslov": "Blagojević o sukobu sa Zdjelarom: &quot;Poražavajuće – to me je pogodilo&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225695/srdjan-blagojevic-kaze-da-ga-je-pogodilo-sto-je-u-javnost-procurila-vest-o-sukobu-sa-sasom-zdjelarom/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 04. 2026. у 15:25",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225519/neslavna-prica-bibarsa-natha-i-partizana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "17. 04. 2026. у 08:25",
-      "slika": null
-    },
-    {
-      "naslov": "Tanjga pred duel sa Zvezdom: &quot;Sigurno su motivisani posle dva poraza od nas&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225408/miroslav-tanjga-pred-duel-sa-crvenom-zvezdom/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 04. 2026. у 19:52",
       "slika": null
     }
   ]
