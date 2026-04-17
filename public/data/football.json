@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-17T16:32:50.238073+00:00",
-  "azurirano_sr": "17. 04. 2026. у 18:32",
+  "azurirano": "2026-04-17T17:26:49.729679+00:00",
+  "azurirano_sr": "17. 04. 2026. у 19:26",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Anćeloti gađa u centar: Italijanski fudbal izgubio tempo, tek ćemo se mučiti",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/anceloti-gaa-u-centar-italijanski-fudbal-izgubio-tempo-tek-cemo-se-muciti/541467",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 04. 2026. у 20:44",
+      "slika": null
+    },
     {
       "naslov": "Pep u supermarketu: Da može da se kupi samopouzdanje... Ako izgubimo, gotovo je",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pep-u-supermarketu-da-moze-da-se-kupi-samopouzdanje-ako-izgubimo-gotovo-je/541460",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Konačni bilans – pretekli nas i Ukrajinci: Srbija za četiri godine sa 11. na 24. mesto UEFA rang liste",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/konacni-bilans-pretekli-nas-i-ukrajinci-srbija-za-cetiri-godine-sa-11-na-24-mesto-uefa-rang-liste/541425",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 04. 2026. у 12:43",
+      "naslov": "Stanković: Maksimalno spremni dočekujemo Vojvodinu, zasluženo su drugi na tabeli",
+      "url": "https://www.tanjug.rs/sport/fudbal/245547/stankovic-maksimalno-spremni-docekujemo-vojvodinu-zasluzeno-su-drugi-na-tabeli/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 04. 2026. у 18:31",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/245499/francuski-strucnjak-erve-renar-nije-vise-selektor-saudijske-arabije/vest",
       "izvor": "Танјуг",
       "datum": "17. 04. 2026. у 15:18",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Rajo Valjekana, Kristal Palasa i Strazbura u polufinalu Lige konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/245369/fudbaleri-rajo-valjekana-kristal-palasa-i-strazbura-u-polufinalu-lige-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 04. 2026. у 23:09",
       "slika": null
     },
     {
