@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-18T21:56:52.040188+00:00",
-  "azurirano_sr": "18. 04. 2026. у 23:56",
+  "azurirano": "2026-04-18T22:28:23.922426+00:00",
+  "azurirano_sr": "19. 04. 2026. у 00:28",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Barsin skalp ne briše paučinu, Čolova vitrina ostala prašnjava: Ekstaza u Baskiji, podsmesi u Kataloniji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/barsin-skalp-ne-brise-paucinu-colova-vitrina-ostala-prasnjava-ekstaza-u-baskiji-podsmesi-u-kataloniji/541582",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 04. 2026. у 02:01",
+      "slika": null
+    },
     {
       "naslov": "Skup poraz Voždovca, Mačva se odvojila i grabi ka eliti",
       "url": "https://www.mozzartsport.com/fudbal/vesti/skup-poraz-vozdovca-macva-se-odvojila-i-grabi-ka-eliti/541560",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Jedan i neponovljivi – Ronaldinjo!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jedan-i-neponovljivi-ronaldinjo/541525",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 04. 2026. у 16:01",
+      "naslov": "Fudbaleri Real Sosijedada osvojili španski Kup kralja",
+      "url": "https://www.tanjug.rs/sport/fudbal/245825/fudbaleri-real-sosijedada-osvojili-spanski-kup-kralja/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 04. 2026. у 23:59",
+      "slika": null
+    },
+    {
+      "naslov": "Mihajlo Cvetković strelac u pobedi fudbalera Anderlehta protiv Mehelena",
+      "url": "https://www.tanjug.rs/sport/fudbal/245823/mihajlo-cvetkovic-strelac-u-pobedi-fudbalera-anderlehta-protiv-mehelena/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 04. 2026. у 23:52",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/245816/fudbaleri-mancester-junajteda-savladali-celsi-u-premijer-ligi/vest",
       "izvor": "Танјуг",
       "datum": "18. 04. 2026. у 23:03",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Rome i Atalante odigrali nerešeno u Seriji A",
-      "url": "https://www.tanjug.rs/sport/fudbal/245812/fudbaleri-rome-i-atalante-odigrali-nereseno-u-seriji-a/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 04. 2026. у 22:48",
-      "slika": null
-    },
-    {
-      "naslov": "Izbori za predsednika Fudbalskog kluba Crvena zvezda biće održani 22. i 23. maja",
-      "url": "https://www.tanjug.rs/sport/fudbal/245805/izbori-za-predsednika-fudbalskog-kluba-crvena-zvezda-bice-odrzani-22-i-23-maja/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 04. 2026. у 21:32",
       "slika": null
     },
     {
