@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-18T13:41:34.853533+00:00",
-  "azurirano_sr": "18. 04. 2026. у 15:41",
+  "azurirano": "2026-04-18T14:24:07.832315+00:00",
+  "azurirano_sr": "18. 04. 2026. у 16:24",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Stanoje izgubio najvažniju utakmicu sezone, ispadanje iz lige realnost",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stanoje-izgubio-najvazniju-utakmicu-sezone-ispadanje-iz-lige-realnost/541531",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 04. 2026. у 17:40",
+      "slika": null
+    },
     {
       "naslov": "Čaušić i Stojković pišu istoriju u azijskoj Ligi šampiona",
       "url": "https://www.mozzartsport.com/fudbal/vesti/causic-i-stojkovic-pisu-istoriju-u-azijskoj-ligi-sampiona/541533",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/colo-svira-kraj-petogodisnjem-postu/541523",
       "izvor": "Мозарт Спорт",
       "datum": "18. 04. 2026. у 15:55",
-      "slika": null
-    },
-    {
-      "naslov": "Liga šampiona izmiče na Olimpiku, Paladino ne veruje više Samardžiću",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/liga-sampiona-izmice-na-olimpiku-paladino-ne-veruje-vise-samardzicu/541520",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 04. 2026. у 14:08",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Derbi na &quot;Rajku&quot; – Zvezda protiv najneugodnijeg rivala SASTAVI",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225946/uzivo-zvezda-vojvodinna/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 04. 2026. у 16:19",
+      "slika": null
+    },
+    {
       "naslov": "Delije: &quot;Pobednik viđen kako ide ka Marakani&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225935/delije-pobednik-vidjen-kako-ide-ka-marakani-video/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 04. 2026. у 15:13",
-      "slika": null
-    },
-    {
-      "naslov": "Počinje borba za &quot;život&quot; u Superligi – FSS ispituje slučaj iz Subotice",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225866/fss-ispituje-utakmicu-spartak-javor/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 04. 2026. у 10:45",
       "slika": null
     }
   ]
