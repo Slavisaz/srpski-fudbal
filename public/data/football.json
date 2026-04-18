@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-18T11:53:51.078093+00:00",
-  "azurirano_sr": "18. 04. 2026. у 13:53",
+  "azurirano": "2026-04-18T12:30:23.498369+00:00",
+  "azurirano_sr": "18. 04. 2026. у 14:30",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Jedan i neponovljivi – Ronaldinjo!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jedan-i-neponovljivi-ronaldinjo/541525",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 04. 2026. у 16:01",
+      "slika": null
+    },
+    {
+      "naslov": "Čolo svira kraj petogodišnjem postu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/colo-svira-kraj-petogodisnjem-postu/541523",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 04. 2026. у 15:55",
+      "slika": null
+    },
     {
       "naslov": "Liga šampiona izmiče na Olimpiku, Paladino ne veruje više Samardžiću",
       "url": "https://www.mozzartsport.com/fudbal/vesti/liga-sampiona-izmice-na-olimpiku-paladino-ne-veruje-vise-samardzicu/541520",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/krece-liga-tome-sivica-svi-imamo-tuznu-pricu/541507",
       "izvor": "Мозарт Спорт",
       "datum": "18. 04. 2026. у 11:47",
-      "slika": null
-    },
-    {
-      "naslov": "PRELAZZI: Kako se pravi Frankenštajn",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-kako-se-pravi-frankenstajn/541503",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 04. 2026. у 10:39",
-      "slika": null
-    },
-    {
-      "naslov": "Joveljić zaslužuje bolji klub od Sportinga",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/joveljic-zasluzuje-bolji-klub-od-sportinga/541452",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 04. 2026. у 00:57",
       "slika": null
     },
     {
