@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-18T07:46:05.483737+00:00",
-  "azurirano_sr": "18. 04. 2026. у 09:46",
+  "azurirano": "2026-04-18T08:29:29.027213+00:00",
+  "azurirano_sr": "18. 04. 2026. у 10:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kreće liga Tome Sivića: Svi imamo tužnu priču",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/krece-liga-tome-sivica-svi-imamo-tuznu-pricu/541507",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 04. 2026. у 11:47",
+      "slika": null
+    },
     {
       "naslov": "PRELAZZI: Kako se pravi Frankenštajn",
       "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-kako-se-pravi-frankenstajn/541503",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/anceloti-gaa-u-centar-italijanski-fudbal-izgubio-tempo-tek-cemo-se-muciti/541467",
       "izvor": "Мозарт Спорт",
       "datum": "17. 04. 2026. у 20:44",
-      "slika": null
-    },
-    {
-      "naslov": "Pep u supermarketu: Da može da se kupi samopouzdanje... Ako izgubimo, gotovo je",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pep-u-supermarketu-da-moze-da-se-kupi-samopouzdanje-ako-izgubimo-gotovo-je/541460",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 04. 2026. у 19:02",
       "slika": null
     },
     {
