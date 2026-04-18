@@ -1,15 +1,8 @@
 {
-  "azurirano": "2026-04-18T19:06:22.498359+00:00",
-  "azurirano_sr": "18. 04. 2026. у 21:06",
+  "azurirano": "2026-04-18T19:49:15.027433+00:00",
+  "azurirano_sr": "18. 04. 2026. у 21:49",
   "vesti_24h": 10,
   "vesti": [
-    {
-      "naslov": "Obradović: Žao mi je što ABA liga nije imala sluha, naš plasman dobra slika za celo takmičenje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/obradovic-zao-mi-je-sto-aba-liga-nije-imala-sluha-nas-plasman-dobra-slika-za-celo-takmicenje/541566",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 04. 2026. у 22:46",
-      "slika": null
-    },
     {
       "naslov": "Skup poraz Voždovca, Mačva se odvojila i grabi ka eliti",
       "url": "https://www.mozzartsport.com/fudbal/vesti/skup-poraz-vozdovca-macva-se-odvojila-i-grabi-ka-eliti/541560",
@@ -32,6 +25,34 @@
       "slika": null
     },
     {
+      "naslov": "Jedan i neponovljivi – Ronaldinjo!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jedan-i-neponovljivi-ronaldinjo/541525",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 04. 2026. у 16:01",
+      "slika": null
+    },
+    {
+      "naslov": "Izbori za predsednika Fudbalskog kluba Crvena zvezda biće održani 22. i 23. maja",
+      "url": "https://www.tanjug.rs/sport/fudbal/245805/izbori-za-predsednika-fudbalskog-kluba-crvena-zvezda-bice-odrzani-22-i-23-maja/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 04. 2026. у 21:32",
+      "slika": null
+    },
+    {
+      "naslov": "Blagojević: Ova pobeda će nam značiti pred utakmice protiv Vojvodine i Zvezde",
+      "url": "https://www.tanjug.rs/sport/fudbal/245801/blagojevic-ova-pobeda-ce-nam-znaciti-pred-utakmice-protiv-vojvodine-i-zvezde/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 04. 2026. у 21:23",
+      "slika": null
+    },
+    {
+      "naslov": "Remi fudbalera Totenhema i Brajtona u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/245799/remi-fudbalera-totenhema-i-brajtona-u-premijer-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 04. 2026. у 20:59",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Lacija nadigrali Napoli u 33. kolu Serije A, Vanja odbranio penal",
       "url": "https://www.tanjug.rs/sport/fudbal/245798/fudbaleri-lacija-nadigrali-napoli-u-33-kolu-serije-a-vanja-odbranio-penal/vest",
       "izvor": "Танјуг",
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Partizana pobedili Železničar i vratili se na drugo mesto na tabeli Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/245796/fudbaleri-partizana-pobedili-zeleznicar-i-vratili-se-na-drugo-mesto-na-tabeli-superlige-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 04. 2026. у 20:50",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: Nastavljamo ka našem cilju i duploj kruni, hvala navijačima što su došli",
-      "url": "https://www.tanjug.rs/sport/fudbal/245791/stankovic-nastavljamo-ka-nasem-cilju-i-duploj-kruni-hvala-navijacima-sto-su-dosli/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 04. 2026. у 20:08",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri OFK Beograda ubedljivi protiv Novog Pazara u Superligi Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/245782/fudbaleri-ofk-beograda-ubedljivi-protiv-novog-pazara-u-superligi-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 04. 2026. у 19:08",
+      "naslov": "Zvezda traži novog predsednika",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226004/crvena-zvezda-raspisuje-predsednice-izbore/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 04. 2026. у 21:30",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225996/ostra-izjava-kokovica-kradja-igre-je-nacionalni-sport-u-srbiji/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 04. 2026. у 20:42",
-      "slika": null
-    },
-    {
-      "naslov": "Blagojević: &quot;Sve se obistinilo što sam najavio&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225995/izjava-srdjana-blagojevica-posle-pobede-partizana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 04. 2026. у 20:39",
       "slika": null
     }
   ]
