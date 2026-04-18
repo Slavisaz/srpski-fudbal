@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-18T08:29:29.027213+00:00",
-  "azurirano_sr": "18. 04. 2026. у 10:29",
+  "azurirano": "2026-04-18T09:12:29.063910+00:00",
+  "azurirano_sr": "18. 04. 2026. у 11:12",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Počinje borba za &quot;život&quot; u Superligi – FSS ispituje slučaj iz Subotice",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225866/fss-ispituje-utakmicu-spartak-javor/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 04. 2026. у 10:45",
+      "slika": null
+    },
+    {
       "naslov": "Bogdanović o slučaju &quot;Kerkez&quot;: &quot;Piksi rekao – šta će mi on?&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225835/rade-bogdanovic-o-slucaju-kerkez/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 04. 2026. у 08:45",
-      "slika": null
-    },
-    {
-      "naslov": "Koković pred Partizan: &quot;Možemo da ostvarimo pozitivan rezultat&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225753/kokovic-pred-start-plej-ofa/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 04. 2026. у 23:30",
       "slika": null
     }
   ]
