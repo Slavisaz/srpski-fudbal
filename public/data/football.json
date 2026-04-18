@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-18T06:44:34.004566+00:00",
-  "azurirano_sr": "18. 04. 2026. у 08:44",
+  "azurirano": "2026-04-18T07:46:05.483737+00:00",
+  "azurirano_sr": "18. 04. 2026. у 09:46",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "PRELAZZI: Kako se pravi Frankenštajn",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-kako-se-pravi-frankenstajn/541503",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 04. 2026. у 10:39",
+      "slika": null
+    },
     {
       "naslov": "Joveljić zaslužuje bolji klub od Sportinga",
       "url": "https://www.mozzartsport.com/fudbal/vesti/joveljic-zasluzuje-bolji-klub-od-sportinga/541452",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Lans oživeo zvezde padalice, Liga šampiona igraće se opet u gradu uglja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lans-oziveo-zvezde-padalice-liga-sampiona-igrace-se-opet-u-gradu-uglja/541436",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 04. 2026. у 15:00",
+      "naslov": "Kreće žestoka borba za opstanak u Superligi, klubovi traže rešenje \"slučaja Subotica\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/245639/krece-zestoka-borba-za-opstanak-u-superligi-klubovi-traze-resenje-slucaja-subotica/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 04. 2026. у 08:41",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Italijanski fudbaler Manuel Lokateli produžio ugovor sa Juventusom do 2030. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/245583/italijanski-fudbaler-manuel-lokateli-produzio-ugovor-sa-juventusom-do-2030-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 04. 2026. у 21:06",
+      "naslov": "Bogdanović o slučaju &quot;Kerkez&quot;: &quot;Piksi rekao – šta će mi on?&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225835/rade-bogdanovic-o-slucaju-kerkez/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 04. 2026. у 08:45",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225753/kokovic-pred-start-plej-ofa/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "17. 04. 2026. у 23:30",
-      "slika": null
-    },
-    {
-      "naslov": "Lalatović: &quot;Boli me duša&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225712/lalatovic-o-povratku-navijaca-na-tribine/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 04. 2026. у 23:05",
       "slika": null
     }
   ]
