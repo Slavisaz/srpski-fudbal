@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-18T21:27:04.614994+00:00",
-  "azurirano_sr": "18. 04. 2026. у 23:27",
+  "azurirano": "2026-04-18T21:56:52.040188+00:00",
+  "azurirano_sr": "18. 04. 2026. у 23:56",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaler Bajerna Serž Gnabri povređen, neizvestan nastup na Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/245821/fudbaler-bajerna-serz-gnabri-povreden-neizvestan-nastup-na-svetskom-prvenstvu/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 04. 2026. у 23:40",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Mančester junajteda savladali Čelsi u Premijer ligi",
       "url": "https://www.tanjug.rs/sport/fudbal/245816/fudbaleri-mancester-junajteda-savladali-celsi-u-premijer-ligi/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/245805/izbori-za-predsednika-fudbalskog-kluba-crvena-zvezda-bice-odrzani-22-i-23-maja/vest",
       "izvor": "Танјуг",
       "datum": "18. 04. 2026. у 21:32",
-      "slika": null
-    },
-    {
-      "naslov": "Blagojević: Ova pobeda će nam značiti pred utakmice protiv Vojvodine i Zvezde",
-      "url": "https://www.tanjug.rs/sport/fudbal/245801/blagojevic-ova-pobeda-ce-nam-znaciti-pred-utakmice-protiv-vojvodine-i-zvezde/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 04. 2026. у 21:23",
       "slika": null
     },
     {
