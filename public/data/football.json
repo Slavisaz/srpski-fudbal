@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-18T20:56:20.450518+00:00",
-  "azurirano_sr": "18. 04. 2026. у 22:56",
+  "azurirano": "2026-04-18T21:27:04.614994+00:00",
+  "azurirano_sr": "18. 04. 2026. у 23:27",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Mančester junajteda savladali Čelsi u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/245816/fudbaleri-mancester-junajteda-savladali-celsi-u-premijer-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 04. 2026. у 23:03",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Rome i Atalante odigrali nerešeno u Seriji A",
+      "url": "https://www.tanjug.rs/sport/fudbal/245812/fudbaleri-rome-i-atalante-odigrali-nereseno-u-seriji-a/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 04. 2026. у 22:48",
+      "slika": null
+    },
+    {
       "naslov": "Izbori za predsednika Fudbalskog kluba Crvena zvezda biće održani 22. i 23. maja",
       "url": "https://www.tanjug.rs/sport/fudbal/245805/izbori-za-predsednika-fudbalskog-kluba-crvena-zvezda-bice-odrzani-22-i-23-maja/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/245801/blagojevic-ova-pobeda-ce-nam-znaciti-pred-utakmice-protiv-vojvodine-i-zvezde/vest",
       "izvor": "Танјуг",
       "datum": "18. 04. 2026. у 21:23",
-      "slika": null
-    },
-    {
-      "naslov": "Remi fudbalera Totenhema i Brajtona u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/245799/remi-fudbalera-totenhema-i-brajtona-u-premijer-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 04. 2026. у 20:59",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Lacija nadigrali Napoli u 33. kolu Serije A, Vanja odbranio penal",
-      "url": "https://www.tanjug.rs/sport/fudbal/245798/fudbaleri-lacija-nadigrali-napoli-u-33-kolu-serije-a-vanja-odbranio-penal/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 04. 2026. у 20:53",
       "slika": null
     },
     {
