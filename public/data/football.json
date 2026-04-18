@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-18T16:22:26.552750+00:00",
-  "azurirano_sr": "18. 04. 2026. у 18:22",
+  "azurirano": "2026-04-18T17:00:56.896399+00:00",
+  "azurirano_sr": "18. 04. 2026. у 19:00",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Bornmuta savladali Njukasl u 33. kolu Premijer lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/245775/fudbaleri-bornmuta-savladali-njukasl-u-33-kolu-premijer-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 04. 2026. у 18:36",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbalerke Srbije poražene od Švedske u kvalifikacijama za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/245773/fudbalerke-srbije-porazene-od-svedske-u-kvalifikacijama-za-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 04. 2026. у 18:15",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Volfsburga pobedili Union Berlin, Andrej Ilić asistent",
+      "url": "https://www.tanjug.rs/sport/fudbal/245772/fudbaleri-volfsburga-pobedili-union-berlin-andrej-ilic-asistent/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 04. 2026. у 18:06",
+      "slika": null
+    },
+    {
       "naslov": "Remi fudbalera Čukaričkog i Radnika u prvom kolu plej-ofa Superlige Srbije",
       "url": "https://www.tanjug.rs/sport/fudbal/245765/remi-fudbalera-cukarickog-i-radnika-u-prvom-kolu-plej-ofa-superlige-srbije/vest",
       "izvor": "Танјуг",
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Navijači Reala traže da prisustvuju utakmicama protiv Hapoela u plej-ofu Evrolige",
-      "url": "https://www.tanjug.rs/sport/fudbal/245699/navijaci-reala-traze-da-prisustvuju-utakmicama-protiv-hapoela-u-plej-ofu-evrolige/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 04. 2026. у 12:01",
-      "slika": null
-    },
-    {
-      "naslov": "Kreće žestoka borba za opstanak u Superligi, klubovi traže rešenje \"slučaja Subotica\"",
-      "url": "https://www.tanjug.rs/sport/fudbal/245639/krece-zestoka-borba-za-opstanak-u-superligi-klubovi-traze-resenje-slucaja-subotica/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 04. 2026. у 08:41",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Koventrija posle 25 godina izborili plasman u Premijer ligu",
-      "url": "https://www.tanjug.rs/sport/fudbal/245604/fudbaleri-koventrija-posle-25-godina-izborili-plasman-u-premijer-ligu/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 04. 2026. у 23:03",
-      "slika": null
-    },
-    {
-      "naslov": "Voša promašila zicer",
+      "naslov": "VAR poništio penal za Zvezdu",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225946/uzivo-zvezda-vojvodinna/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 04. 2026. у 18:17",
+      "datum": "18. 04. 2026. у 18:58",
       "slika": null
     },
     {
-      "naslov": "Partizan počinje plej-of protiv ekipe od koje je izugibio u Humskoj",
+      "naslov": "Partizan primio gol – isplatila se dobra igra gostiju",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225957/partizan-zeleznicar-lajv-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 04. 2026. у 18:16",
+      "datum": "18. 04. 2026. у 18:55",
       "slika": null
     }
   ]
