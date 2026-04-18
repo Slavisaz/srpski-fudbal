@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-18T15:02:51.249235+00:00",
-  "azurirano_sr": "18. 04. 2026. у 17:02",
+  "azurirano": "2026-04-18T15:48:53.223103+00:00",
+  "azurirano_sr": "18. 04. 2026. у 17:48",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Remi fudbalera Čukaričkog i Radnika u prvom kolu plej-ofa Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/245765/remi-fudbalera-cukarickog-i-radnika-u-prvom-kolu-plej-ofa-superlige-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 04. 2026. у 17:07",
+      "slika": null
+    },
+    {
       "naslov": "Navijači Reala traže da prisustvuju utakmicama protiv Hapoela u plej-ofu Evrolige",
       "url": "https://www.tanjug.rs/sport/fudbal/245699/navijaci-reala-traze-da-prisustvuju-utakmicama-protiv-hapoela-u-plej-ofu-evrolige/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Intera pobedili Kaljari u 33. kolu Serije A",
-      "url": "https://www.tanjug.rs/sport/fudbal/245601/fudbaleri-intera-pobedili-kaljari-u-33-kolu-serije-a/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 04. 2026. у 22:52",
-      "slika": null
-    },
-    {
-      "naslov": "Derbi na &quot;Rajku&quot; prati mali broj navijača",
+      "naslov": "Zvezda vodi",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225946/uzivo-zvezda-vojvodinna/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 04. 2026. у 16:59",
+      "datum": "18. 04. 2026. у 17:45",
       "slika": null
     },
     {
-      "naslov": "Počeo plej-of Superlige – sjajnom utakmicom na Banovom brdu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225956/1-kolo-plej-ofa-superlige-srbije-cukaricki-radnik-surdulica-izvestaj/vest",
+      "naslov": "Pričaće se o crvenom kartonu Tanjge na &quot;Marakani&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225967/sinisa-tanjga-dobio-crveni-karton-u-utakmici-crvena-zvezda-vojvodina/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 04. 2026. у 16:52",
+      "datum": "18. 04. 2026. у 17:30",
       "slika": null
     }
   ]
