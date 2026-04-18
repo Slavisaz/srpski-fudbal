@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-18T12:30:23.498369+00:00",
-  "azurirano_sr": "18. 04. 2026. у 14:30",
+  "azurirano": "2026-04-18T13:41:34.853533+00:00",
+  "azurirano_sr": "18. 04. 2026. у 15:41",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Čaušić i Stojković pišu istoriju u azijskoj Ligi šampiona",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/causic-i-stojkovic-pisu-istoriju-u-azijskoj-ligi-sampiona/541533",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 04. 2026. у 17:06",
+      "slika": null
+    },
     {
       "naslov": "Jedan i neponovljivi – Ronaldinjo!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/jedan-i-neponovljivi-ronaldinjo/541525",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/liga-sampiona-izmice-na-olimpiku-paladino-ne-veruje-vise-samardzicu/541520",
       "izvor": "Мозарт Спорт",
       "datum": "18. 04. 2026. у 14:08",
-      "slika": null
-    },
-    {
-      "naslov": "Kreće liga Tome Sivića: Svi imamo tužnu priču",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/krece-liga-tome-sivica-svi-imamo-tuznu-pricu/541507",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 04. 2026. у 11:47",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Delije: &quot;Pobednik viđen kako ide ka Marakani&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225935/delije-pobednik-vidjen-kako-ide-ka-marakani-video/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 04. 2026. у 15:13",
+      "slika": null
+    },
+    {
       "naslov": "Počinje borba za &quot;život&quot; u Superligi – FSS ispituje slučaj iz Subotice",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225866/fss-ispituje-utakmicu-spartak-javor/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 04. 2026. у 10:45",
-      "slika": null
-    },
-    {
-      "naslov": "Bogdanović o slučaju &quot;Kerkez&quot;: &quot;Piksi rekao – šta će mi on?&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225835/rade-bogdanovic-o-slucaju-kerkez/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 04. 2026. у 08:45",
       "slika": null
     }
   ]
