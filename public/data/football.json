@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-18T10:01:29.281426+00:00",
-  "azurirano_sr": "18. 04. 2026. у 12:01",
+  "azurirano": "2026-04-18T10:49:29.634558+00:00",
+  "azurirano_sr": "18. 04. 2026. у 12:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Liga šampiona izmiče na Olimpiku, Paladino ne veruje više Samardžiću",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/liga-sampiona-izmice-na-olimpiku-paladino-ne-veruje-vise-samardzicu/541520",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 04. 2026. у 14:08",
+      "slika": null
+    },
     {
       "naslov": "Kreće liga Tome Sivića: Svi imamo tužnu priču",
       "url": "https://www.mozzartsport.com/fudbal/vesti/krece-liga-tome-sivica-svi-imamo-tuznu-pricu/541507",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Anćeloti gađa u centar: Italijanski fudbal izgubio tempo, tek ćemo se mučiti",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/anceloti-gaa-u-centar-italijanski-fudbal-izgubio-tempo-tek-cemo-se-muciti/541467",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 04. 2026. у 20:44",
+      "naslov": "Navijači Reala traže da prisustvuju utakmicama protiv Hapoela u plej-ofu Evrolige",
+      "url": "https://www.tanjug.rs/sport/fudbal/245699/navijaci-reala-traze-da-prisustvuju-utakmicama-protiv-hapoela-u-plej-ofu-evrolige/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 04. 2026. у 12:01",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/245601/fudbaleri-intera-pobedili-kaljari-u-33-kolu-serije-a/vest",
       "izvor": "Танјуг",
       "datum": "17. 04. 2026. у 22:52",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda završila na 10. mestu Evrolige, igraće u plej-inu protiv Barselone u gostima",
-      "url": "https://www.tanjug.rs/sport/fudbal/245595/zvezda-zavrsila-na-10-mestu-evrolige-igrace-u-plej-inu-protiv-barselone-u-gostima/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 04. 2026. у 22:12",
       "slika": null
     },
     {
