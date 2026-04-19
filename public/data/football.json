@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-19T11:57:10.042263+00:00",
-  "azurirano_sr": "19. 04. 2026. у 13:57",
+  "azurirano": "2026-04-19T12:52:15.266876+00:00",
+  "azurirano_sr": "19. 04. 2026. у 14:52",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Da li ovosezonsko čudo iz Gelderlanda skida epitet „najvećih baksuza“ u Holandiji?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/da-li-ovosezonsko-cudo-iz-gelderlanda-skida-epitet-najvecih-baksuza-u-holandiji/541630",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 04. 2026. у 16:21",
+      "slika": null
+    },
     {
       "naslov": "Srpska liga Vojvodina uživo na Mozzart TV: Gledaj i kladi se u lajvu!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srpska-liga-vojvodina-uzivo-na-mozzart-tv-gledaj-i-kladi-se-u-lajvu/541616",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-ili-si-serki-ili-si-arteta/541595",
       "izvor": "Мозарт Спорт",
       "datum": "19. 04. 2026. у 10:32",
-      "slika": null
-    },
-    {
-      "naslov": "Barsin skalp ne briše paučinu, Čolova vitrina ostala prašnjava: Ekstaza u Baskiji, podsmesi u Kataloniji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/barsin-skalp-ne-brise-paucinu-colova-vitrina-ostala-prasnjava-ekstaza-u-baskiji-podsmesi-u-kataloniji/541582",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 04. 2026. у 02:01",
       "slika": null
     },
     {
