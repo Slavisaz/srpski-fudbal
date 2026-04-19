@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-19T19:06:34.267799+00:00",
-  "azurirano_sr": "19. 04. 2026. у 21:06",
+  "azurirano": "2026-04-19T19:49:33.853129+00:00",
+  "azurirano_sr": "19. 04. 2026. у 21:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Četvrtoligaški špic od 220.000 uništio štopera od 33.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cetvrtoligaski-spic-od-220000-unistio-stopera-od-33000000-evra/541670",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 04. 2026. у 22:54",
+      "slika": null
+    },
     {
       "naslov": "Renov san o Ligi šampiona živi, Mec glavom u Ligi 2",
       "url": "https://www.mozzartsport.com/fudbal/vesti/renov-san-o-ligi-sampiona-zivi-mec-glavom-u-ligi-2/541661",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/da-li-ovosezonsko-cudo-iz-gelderlanda-skida-epitet-najvecih-baksuza-u-holandiji/541630",
       "izvor": "Мозарт Спорт",
       "datum": "19. 04. 2026. у 16:21",
-      "slika": null
-    },
-    {
-      "naslov": "Srpska liga Vojvodina uživo na Mozzart TV: Gledaj i kladi se u lajvu!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srpska-liga-vojvodina-uzivo-na-mozzart-tv-gledaj-i-kladi-se-u-lajvu/541616",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 04. 2026. у 14:15",
       "slika": null
     },
     {
