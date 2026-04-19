@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-19T16:23:19.557896+00:00",
-  "azurirano_sr": "19. 04. 2026. у 18:23",
+  "azurirano": "2026-04-19T17:01:13.907475+00:00",
+  "azurirano_sr": "19. 04. 2026. у 19:01",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Ubedljiva pobeda fudbalera TSC-a protiv Napretka u plej-autu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/245932/ubedljiva-pobeda-fudbalera-tsc-a-protiv-napretka-u-plej-autu-superlige-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 04. 2026. у 18:37",
+      "slika": null
+    },
+    {
       "naslov": "Rabio doneo pobedu fudbalerima Milana protiv Verone u Seriji A",
       "url": "https://www.tanjug.rs/sport/fudbal/245912/rabio-doneo-pobedu-fudbalerima-milana-protiv-verone-u-seriji-a/vest",
       "izvor": "Танјуг",
@@ -53,14 +60,7 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Real Sosijedada osvojili španski Kup kralja",
-      "url": "https://www.tanjug.rs/sport/fudbal/245825/fudbaleri-real-sosijedada-osvojili-spanski-kup-kralja/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 04. 2026. у 23:59",
-      "slika": null
-    },
-    {
-      "naslov": "TSC je Barselona za Napredak – Topolčani korak bliži opstanku",
+      "naslov": "TSC je Barselona za Napredak – Kruševljani zvanično drugoligaši",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226179/tsc-je-barselona-za-napredak-topolcani-korak-blizi-opstanku/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 04. 2026. у 17:52",
