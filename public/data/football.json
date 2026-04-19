@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-19T06:11:02.006960+00:00",
-  "azurirano_sr": "19. 04. 2026. у 08:11",
+  "azurirano": "2026-04-19T07:44:52.658584+00:00",
+  "azurirano_sr": "19. 04. 2026. у 09:44",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "PRELAZZI: Ili si Šerki ili si Arteta",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-ili-si-serki-ili-si-arteta/541595",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 04. 2026. у 10:32",
+      "slika": null
+    },
     {
       "naslov": "Barsin skalp ne briše paučinu, Čolova vitrina ostala prašnjava: Ekstaza u Baskiji, podsmesi u Kataloniji",
       "url": "https://www.mozzartsport.com/fudbal/vesti/barsin-skalp-ne-brise-paucinu-colova-vitrina-ostala-prasnjava-ekstaza-u-baskiji-podsmesi-u-kataloniji/541582",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/stanoje-izgubio-najvazniju-utakmicu-sezone-ispadanje-iz-lige-realnost/541531",
       "izvor": "Мозарт Спорт",
       "datum": "18. 04. 2026. у 17:40",
-      "slika": null
-    },
-    {
-      "naslov": "Čaušić i Stojković pišu istoriju u azijskoj Ligi šampiona",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/causic-i-stojkovic-pisu-istoriju-u-azijskoj-ligi-sampiona/541533",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 04. 2026. у 17:06",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Zvezda slavi titulu u Pančevu?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226060/crvena-zvezda-bi-vec-u-2-kolu-plej-ofa-superlige-mogla-da-postane-sampion/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 04. 2026. у 09:40",
+      "slika": null
+    },
+    {
       "naslov": "Zvezda traži novog predsednika",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226004/crvena-zvezda-raspisuje-predsednice-izbore/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 04. 2026. у 21:30",
-      "slika": null
-    },
-    {
-      "naslov": "Oštra izjava Kokovića: &quot;Krađa igre je nacionalni sport u Srbiji&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/225996/ostra-izjava-kokovica-kradja-igre-je-nacionalni-sport-u-srbiji/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 04. 2026. у 20:42",
       "slika": null
     }
   ]
