@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-19T15:50:44.460960+00:00",
-  "azurirano_sr": "19. 04. 2026. у 17:50",
+  "azurirano": "2026-04-19T16:23:19.557896+00:00",
+  "azurirano_sr": "19. 04. 2026. у 18:23",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Manzambi kao suvo zlato, Frajburgov skok preko Ajntrahta (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/manzambi-kao-suvo-zlato-frajburgov-skok-preko-ajntrahta-video/541648",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 04. 2026. у 19:49",
+      "slika": null
+    },
     {
       "naslov": "Da li ovosezonsko čudo iz Gelderlanda skida epitet „najvećih baksuza“ u Holandiji?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/da-li-ovosezonsko-cudo-iz-gelderlanda-skida-epitet-najvecih-baksuza-u-holandiji/541630",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/veliki-kapiten-i-veliki-covek/541614",
       "izvor": "Мозарт Спорт",
       "datum": "19. 04. 2026. у 14:05",
-      "slika": null
-    },
-    {
-      "naslov": "PRELAZZI: Ili si Šerki ili si Arteta",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-ili-si-serki-ili-si-arteta/541595",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 04. 2026. у 10:32",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "TSC je Barselona za Napredak – Topolčani korak bliži opstanku",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226179/tsc-je-barselona-za-napredak-topolcani-korak-blizi-opstanku/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 04. 2026. у 17:52",
+      "slika": null
+    },
+    {
       "naslov": "Zvezda zabranila dolazak &quot;Baki Prasetu&quot; – Vojvodina se naljutila",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226089/celnici-vojvodine-nisu-dosli-na-derbi-sa-crvenom-zvezdom-zbog-bake-praseta/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 04. 2026. у 11:45",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Napadaju nam svlačionicu, ubacuju Zdjelara u neke priče...&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226087/izjava-stefana-mitrovica-posle-utakmice-partizan-zeleznicar/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 04. 2026. у 11:30",
       "slika": null
     }
   ]
