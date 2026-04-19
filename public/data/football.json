@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-19T21:30:38.861391+00:00",
-  "azurirano_sr": "19. 04. 2026. у 23:30",
+  "azurirano": "2026-04-19T22:01:06.181133+00:00",
+  "azurirano_sr": "20. 04. 2026. у 00:01",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "OFK Beograd časti navijače",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226109/ofk-beograd-casti-navijace/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 04. 2026. у 23:55",
+      "slika": null
+    },
+    {
       "naslov": "Trener Lučana zabrinut: &quot;Sami smo u ovoj borbi&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226233/trener-lucana-sami-smo-u-ovoj-borbi/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 04. 2026. у 22:27",
-      "slika": null
-    },
-    {
-      "naslov": "Vukašin Jovanović za spas IMT-a",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226231/vukasin-jovanovic-za-spas-imt-a/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 04. 2026. у 21:58",
       "slika": null
     }
   ]
