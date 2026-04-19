@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-19T15:06:27.069739+00:00",
-  "azurirano_sr": "19. 04. 2026. у 17:06",
+  "azurirano": "2026-04-19T15:50:44.460960+00:00",
+  "azurirano_sr": "19. 04. 2026. у 17:50",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Rabio doneo pobedu fudbalerima Milana protiv Verone u Seriji A",
+      "url": "https://www.tanjug.rs/sport/fudbal/245912/rabio-doneo-pobedu-fudbalerima-milana-protiv-verone-u-seriji-a/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 04. 2026. у 17:25",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Liverpula pobedili Everton, Aston Vila savladala Sanderlend u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/245910/fudbaleri-liverpula-pobedili-everton-aston-vila-savladala-sanderlend-u-premijer-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 04. 2026. у 17:12",
+      "slika": null
+    },
+    {
       "naslov": "OFK Beograd: Besplatan ulaz na utakmicu protiv Čukaričkog u plej-ofu Superligi Srbije",
       "url": "https://www.tanjug.rs/sport/fudbal/245875/ofk-beograd-besplatan-ulaz-na-utakmicu-protiv-cukarickog-u-plej-ofu-superligi-srbije/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/245825/fudbaleri-real-sosijedada-osvojili-spanski-kup-kralja/vest",
       "izvor": "Танјуг",
       "datum": "18. 04. 2026. у 23:59",
-      "slika": null
-    },
-    {
-      "naslov": "Mihajlo Cvetković strelac u pobedi fudbalera Anderlehta protiv Mehelena",
-      "url": "https://www.tanjug.rs/sport/fudbal/245823/mihajlo-cvetkovic-strelac-u-pobedi-fudbalera-anderlehta-protiv-mehelena/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 04. 2026. у 23:52",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Bajerna Serž Gnabri povređen, neizvestan nastup na Svetskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/245821/fudbaler-bajerna-serz-gnabri-povreden-neizvestan-nastup-na-svetskom-prvenstvu/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 04. 2026. у 23:40",
       "slika": null
     },
     {
