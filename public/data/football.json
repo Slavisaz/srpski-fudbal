@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-19T19:49:33.853129+00:00",
-  "azurirano_sr": "19. 04. 2026. у 21:49",
+  "azurirano": "2026-04-19T20:19:43.576829+00:00",
+  "azurirano_sr": "19. 04. 2026. у 22:19",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Vukašin Jovanović za spas IMT-a",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226231/vukasin-jovanovic-za-spas-imt-a/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 04. 2026. у 21:58",
+      "slika": null
+    },
+    {
       "naslov": "Bez pobednika u okršaju Radničkih",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226206/bez-pobednika-u-okrsaju-radnickih/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 04. 2026. у 20:00",
-      "slika": null
-    },
-    {
-      "naslov": "TSC je Barselona za Napredak – Kruševljani zvanično drugoligaši",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226179/tsc-je-barselona-za-napredak-topolcani-korak-blizi-opstanku/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 04. 2026. у 17:52",
       "slika": null
     }
   ]
