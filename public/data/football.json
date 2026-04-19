@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-19T17:41:02.440372+00:00",
-  "azurirano_sr": "19. 04. 2026. у 19:41",
+  "azurirano": "2026-04-19T18:07:40.395451+00:00",
+  "azurirano_sr": "19. 04. 2026. у 20:07",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Bajerna nadigrali Štutgart i obezbedili 35. titulu u Bundesligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/245942/fudbaleri-bajerna-nadigrali-stutgart-i-obezbedili-35-titulu-u-bundesligi/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 04. 2026. у 19:50",
+      "slika": null
+    },
+    {
+      "naslov": "Minimalna pobeda fudbalera Javora protiv Spartaka u plej-autu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/245938/minimalna-pobeda-fudbalera-javora-protiv-spartaka-u-plej-autu-superlige-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 04. 2026. у 19:42",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Mančester sitija pobedili Arsenal u derbi meču Premijer lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/245937/fudbaleri-mancester-sitija-pobedili-arsenal-u-derbi-mecu-premijer-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 04. 2026. у 19:35",
+      "slika": null
+    },
+    {
       "naslov": "Ubedljiva pobeda fudbalera TSC-a protiv Napretka u plej-autu Superlige Srbije",
       "url": "https://www.tanjug.rs/sport/fudbal/245932/ubedljiva-pobeda-fudbalera-tsc-a-protiv-napretka-u-plej-autu-superlige-srbije/vest",
       "izvor": "Танјуг",
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Rabio doneo pobedu fudbalerima Milana protiv Verone u Seriji A",
-      "url": "https://www.tanjug.rs/sport/fudbal/245912/rabio-doneo-pobedu-fudbalerima-milana-protiv-verone-u-seriji-a/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 04. 2026. у 17:25",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Liverpula pobedili Everton, Aston Vila savladala Sanderlend u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/245910/fudbaleri-liverpula-pobedili-everton-aston-vila-savladala-sanderlend-u-premijer-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 04. 2026. у 17:12",
-      "slika": null
-    },
-    {
-      "naslov": "OFK Beograd: Besplatan ulaz na utakmicu protiv Čukaričkog u plej-ofu Superligi Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/245875/ofk-beograd-besplatan-ulaz-na-utakmicu-protiv-cukarickog-u-plej-ofu-superligi-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 04. 2026. у 12:41",
+      "naslov": "Bez pobednika u okršaju Radničkih",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226206/bez-pobednika-u-okrsaju-radnickih/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 04. 2026. у 20:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226179/tsc-je-barselona-za-napredak-topolcani-korak-blizi-opstanku/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 04. 2026. у 17:52",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda zabranila dolazak &quot;Baki Prasetu&quot; – Vojvodina se naljutila",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226089/celnici-vojvodine-nisu-dosli-na-derbi-sa-crvenom-zvezdom-zbog-bake-praseta/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 04. 2026. у 11:45",
       "slika": null
     }
   ]
