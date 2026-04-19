@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-19T10:06:18.334474+00:00",
-  "azurirano_sr": "19. 04. 2026. у 12:06",
+  "azurirano": "2026-04-19T10:55:28.256800+00:00",
+  "azurirano_sr": "19. 04. 2026. у 12:55",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srpska liga Vojvodina uživo na Mozzart TV: Gledaj i kladi se u lajvu!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srpska-liga-vojvodina-uzivo-na-mozzart-tv-gledaj-i-kladi-se-u-lajvu/541616",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 04. 2026. у 14:15",
+      "slika": null
+    },
+    {
+      "naslov": "Veliki kapiten i veliki čovek",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/veliki-kapiten-i-veliki-covek/541614",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 04. 2026. у 14:05",
+      "slika": null
+    },
     {
       "naslov": "PRELAZZI: Ili si Šerki ili si Arteta",
       "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-ili-si-serki-ili-si-arteta/541595",
@@ -18,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Skup poraz Voždovca, Mačva se odvojila i grabi ka eliti",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/skup-poraz-vozdovca-macva-se-odvojila-i-grabi-ka-eliti/541560",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 04. 2026. у 22:24",
+      "naslov": "OFK Beograd: Besplatan ulaz na utakmicu protiv Čukaričkog u plej-ofu Superligi Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/245875/ofk-beograd-besplatan-ulaz-na-utakmicu-protiv-cukarickog-u-plej-ofu-superligi-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 04. 2026. у 12:41",
       "slika": null
     },
     {
@@ -46,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Mančester junajteda savladali Čelsi u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/245816/fudbaleri-mancester-junajteda-savladali-celsi-u-premijer-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 04. 2026. у 23:03",
-      "slika": null
-    },
-    {
       "naslov": "Zvezda zabranila dolazak &quot;Baki Prasetu&quot; – Vojvodina se naljutila",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226089/celnici-vojvodine-nisu-dosli-na-derbi-sa-crvenom-zvezdom-zbog-bake-praseta/vest",
       "izvor": "Б92 Српски фудбал",
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226087/izjava-stefana-mitrovica-posle-utakmice-partizan-zeleznicar/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 04. 2026. у 11:30",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda slavi titulu u Pančevu?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226060/crvena-zvezda-bi-vec-u-2-kolu-plej-ofa-superlige-mogla-da-postane-sampion/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 04. 2026. у 09:40",
       "slika": null
     }
   ]
