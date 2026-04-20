@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-20T14:05:52.211483+00:00",
-  "azurirano_sr": "20. 04. 2026. у 16:05",
+  "azurirano": "2026-04-20T15:25:38.683755+00:00",
+  "azurirano_sr": "20. 04. 2026. у 17:25",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Leče će neefikasnost koštati prvoligaškog statusa, deo problema je i Štulić",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lece-ce-neefikasnost-kostati-prvoligaskog-statusa-deo-problema-je-i-stulic/541732",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 04. 2026. у 17:54",
+      "slika": null
+    },
+    {
+      "naslov": "Radujko: Isti problemi nas opterećuju od raspada SFRJ! Poledica: Vidim da se opraštate od nas",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/radujko-isti-problemi-nas-opterecuju-od-raspada-sfrj-poledica-vidim-da-se-oprastate-od-nas/541733",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 04. 2026. у 17:46",
+      "slika": null
+    },
     {
       "naslov": "Povratak Kralja: Hadži selektor Rumunije",
       "url": "https://www.mozzartsport.com/fudbal/vesti/povratak-kralja-hadzi-selektor-rumunije/541730",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Najbolji igrač 31. kola Mozzart Bet Superlige: Fudbalska romantika Alekse Cvetkovića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najbolji-igrac-31-kola-mozzart-bet-superlige-fudbalska-romantika-alekse-cvetkovica/541708",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 04. 2026. у 12:12",
+      "naslov": "Mladi fudbaler Vasilije Subotić produžio ugovor sa Crvenom zvezdom do 2028. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/246152/mladi-fudbaler-vasilije-subotic-produzio-ugovor-sa-crvenom-zvezdom-do-2028-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 04. 2026. у 17:09",
       "slika": null
     },
     {
-      "naslov": "Reakcije na derbi sezone: To vam je Premijer liga; Nevil i Ričards branili Arsenal, Kin kritikovao",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/reakcije-na-derbi-sezone-to-vam-je-premijer-liga-nevil-i-ricards-branili-arsenal-kin-kritikovao/541703",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 04. 2026. у 11:54",
+      "naslov": "Dragan Džajić: Uz jedinstvo i rad, nastavićemo da gradimo fudbal koji će biti ponos svih nas",
+      "url": "https://www.tanjug.rs/sport/fudbal/246160/dragan-dzajic-uz-jedinstvo-i-rad-nastavicemo-da-gradimo-fudbal-koji-ce-biti-ponos-svih-nas/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 04. 2026. у 17:07",
+      "slika": null
+    },
+    {
+      "naslov": "Održana peta redovna sednica Skupštine FSS, Radujko: Sistem umesto improvizacije",
+      "url": "https://www.tanjug.rs/sport/fudbal/246144/odrzana-peta-redovna-sednica-skupstine-fss-radujko-sistem-umesto-improvizacije/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 04. 2026. у 16:43",
       "slika": null
     },
     {
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Remi fudbalera kragujevačkog i niškog Radničkog u plej-autu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/245946/remi-fudbalera-kragujevackog-i-niskog-radnickog-u-plej-autu-superlige-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 04. 2026. у 20:12",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Bajerna nadigrali Štutgart i obezbedili 35. titulu u Bundesligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/245942/fudbaleri-bajerna-nadigrali-stutgart-i-obezbedili-35-titulu-u-bundesligi/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 04. 2026. у 19:50",
-      "slika": null
-    },
-    {
-      "naslov": "Minimalna pobeda fudbalera Javora protiv Spartaka u plej-autu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/245938/minimalna-pobeda-fudbalera-javora-protiv-spartaka-u-plej-autu-superlige-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 04. 2026. у 19:42",
+      "naslov": "Redovna sednica Skupštine FSS – Radujko: &quot;Sistem umesto improvizacije&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226448/odrzana-peta-redovna-sednica-skupstine-fss-izjave-radujka-i-dzajica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "20. 04. 2026. у 17:12",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226406/uvodi-se-var-u-prvu-ligu-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "20. 04. 2026. у 15:50",
-      "slika": null
-    },
-    {
-      "naslov": "OFK Beograd časti navijače",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226109/ofk-beograd-casti-navijace/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 04. 2026. у 23:55",
       "slika": null
     }
   ]
