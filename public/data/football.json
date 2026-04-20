@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-20T12:03:29.938287+00:00",
-  "azurirano_sr": "20. 04. 2026. у 14:03",
+  "azurirano": "2026-04-20T14:05:52.211483+00:00",
+  "azurirano_sr": "20. 04. 2026. у 16:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Povratak Kralja: Hadži selektor Rumunije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/povratak-kralja-hadzi-selektor-rumunije/541730",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 04. 2026. у 17:30",
+      "slika": null
+    },
     {
       "naslov": "Haland: Otac me učio da ne budem ono na slovo \"p\"; devojka i nije baš srećna zbog ogrebotina",
       "url": "https://www.mozzartsport.com/fudbal/vesti/haland-otac-me-ucio-da-ne-budem-ono-na-slovo-p-devojka-i-nije-bas-srecna-zbog-ogrebotina/541722",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/reakcije-na-derbi-sezone-to-vam-je-premijer-liga-nevil-i-ricards-branili-arsenal-kin-kritikovao/541703",
       "izvor": "Мозарт Спорт",
       "datum": "20. 04. 2026. у 11:54",
-      "slika": null
-    },
-    {
-      "naslov": "NAJAVA DANA (ponedeljak, 20. april): Od svega po malo, fudbala i košarke",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-ponedeljak-20-april-od-svega-po-malo-fudbala-i-kosarke/541619",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 04. 2026. у 09:56",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Stiže VAR u Prvu ligu Srbije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226406/uvodi-se-var-u-prvu-ligu-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "20. 04. 2026. у 15:50",
+      "slika": null
+    },
+    {
       "naslov": "OFK Beograd časti navijače",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226109/ofk-beograd-casti-navijace/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 04. 2026. у 23:55",
-      "slika": null
-    },
-    {
-      "naslov": "Trener Lučana zabrinut: &quot;Sami smo u ovoj borbi&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226233/trener-lucana-sami-smo-u-ovoj-borbi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 04. 2026. у 22:27",
       "slika": null
     }
   ]
