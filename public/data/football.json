@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-20T17:38:57.268042+00:00",
-  "azurirano_sr": "20. 04. 2026. у 19:38",
+  "azurirano": "2026-04-20T18:39:34.795480+00:00",
+  "azurirano_sr": "20. 04. 2026. у 20:39",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Marko Roze pronašao posao posle više od godinu dana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/marko-roze-pronasao-posao-posle-vise-od-godinu-dana/541741",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 04. 2026. у 22:22",
+      "slika": null
+    },
+    {
+      "naslov": "Efekti fudbalske revolucije: Na meču druge lige 53.000 ljudi, dva kluba u LŠ, šest u borbi za titulu...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/efekti-fudbalske-revolucije-na-mecu-druge-lige-53000-ljudi-dva-kluba-u-ls-sest-u-borbi-za-titulu/541734",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 04. 2026. у 21:25",
+      "slika": null
+    },
     {
       "naslov": "Leče će neefikasnost koštati prvoligaškog statusa, deo problema je i Štulić",
       "url": "https://www.mozzartsport.com/fudbal/vesti/lece-ce-neefikasnost-kostati-prvoligaskog-statusa-deo-problema-je-i-stulic/541732",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Povratak Kralja: Hadži selektor Rumunije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/povratak-kralja-hadzi-selektor-rumunije/541730",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 04. 2026. у 17:30",
-      "slika": null
-    },
-    {
-      "naslov": "Haland: Otac me učio da ne budem ono na slovo \"p\"; devojka i nije baš srećna zbog ogrebotina",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/haland-otac-me-ucio-da-ne-budem-ono-na-slovo-p-devojka-i-nije-bas-srecna-zbog-ogrebotina/541722",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 04. 2026. у 15:16",
+      "naslov": "Dragoljub Zbiljić predsednik Fudbalskog kluba Vojvodina do 2030. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/246201/dragoljub-zbiljic-predsednik-fudbalskog-kluba-vojvodina-do-2030-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 04. 2026. у 19:49",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Georgi Hadži novi selektor fudbalera Rumunije",
-      "url": "https://www.tanjug.rs/sport/fudbal/246145/georgi-hadzi-novi-selektor-fudbalera-rumunije/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 04. 2026. у 16:44",
+      "naslov": "Kada će Vojvodina dobiti novi stadion?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226521/dusan-bajatovic-i-dragoljub-zbiljic-o-novom-stadionu-vojvodine/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "20. 04. 2026. у 20:26",
       "slika": null
     },
     {
-      "naslov": "Arnautović o problemima sa depresijom: &quot;Niko to nije znao&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226504/arnautovic-o-problemima-sa-depresijom-niko-to-nije-znao/vest",
+      "naslov": "Zbiljić ostaje predsednik Vojvodine",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226520/dragoljub-zbiljic-novi-mandat-na-mestu-predsednika-vojvodine/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "20. 04. 2026. у 19:18",
-      "slika": null
-    },
-    {
-      "naslov": "B92.sport saznaje: Adem Ljajić na pragu Partizana – u paru sa Jovetićem?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226461/b92sport-saznaje-adem-ljajic-i-stevan-jovetic-u-partizanu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "20. 04. 2026. у 17:25",
+      "datum": "20. 04. 2026. у 20:13",
       "slika": null
     }
   ]
