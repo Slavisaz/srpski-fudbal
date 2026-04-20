@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-20T07:06:10.805967+00:00",
-  "azurirano_sr": "20. 04. 2026. у 09:06",
+  "azurirano": "2026-04-20T09:15:49.126251+00:00",
+  "azurirano_sr": "20. 04. 2026. у 11:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Najbolji igrač 31. kola Mozzart Bet Superlige: Fudbalska romantika Alekse Cvetkovića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najbolji-igrac-31-kola-mozzart-bet-superlige-fudbalska-romantika-alekse-cvetkovica/541708",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 04. 2026. у 12:12",
+      "slika": null
+    },
+    {
+      "naslov": "Reakcije na derbi sezone: To vam je Premijer liga; Nevil i Ričards branili Arsenal, Kin kritikovao",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/reakcije-na-derbi-sezone-to-vam-je-premijer-liga-nevil-i-ricards-branili-arsenal-kin-kritikovao/541703",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 04. 2026. у 11:54",
+      "slika": null
+    },
     {
       "naslov": "NAJAVA DANA (ponedeljak, 20. april): Od svega po malo, fudbala i košarke",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-ponedeljak-20-april-od-svega-po-malo-fudbala-i-kosarke/541619",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/klasiko-zvezda-amerika-kali-i-miljonarios-biju-bitku-za-plejof/541640",
       "izvor": "Мозарт Спорт",
       "datum": "20. 04. 2026. у 01:05",
-      "slika": null
-    },
-    {
-      "naslov": "Četvrtoligaški špic od 220.000 uništio štopera od 33.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cetvrtoligaski-spic-od-220000-unistio-stopera-od-33000000-evra/541670",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 04. 2026. у 22:54",
-      "slika": null
-    },
-    {
-      "naslov": "Renov san o Ligi šampiona živi, Mec glavom u Ligi 2",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/renov-san-o-ligi-sampiona-zivi-mec-glavom-u-ligi-2/541661",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 04. 2026. у 22:17",
       "slika": null
     },
     {
