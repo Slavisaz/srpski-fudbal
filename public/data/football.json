@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-20T10:58:34.094244+00:00",
-  "azurirano_sr": "20. 04. 2026. у 12:58",
+  "azurirano": "2026-04-20T12:03:29.938287+00:00",
+  "azurirano_sr": "20. 04. 2026. у 14:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Haland: Otac me učio da ne budem ono na slovo \"p\"; devojka i nije baš srećna zbog ogrebotina",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/haland-otac-me-ucio-da-ne-budem-ono-na-slovo-p-devojka-i-nije-bas-srecna-zbog-ogrebotina/541722",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 04. 2026. у 15:16",
+      "slika": null
+    },
     {
       "naslov": "Najbolji igrač 31. kola Mozzart Bet Superlige: Fudbalska romantika Alekse Cvetkovića",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najbolji-igrac-31-kola-mozzart-bet-superlige-fudbalska-romantika-alekse-cvetkovica/541708",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-ponedeljak-20-april-od-svega-po-malo-fudbala-i-kosarke/541619",
       "izvor": "Мозарт Спорт",
       "datum": "20. 04. 2026. у 09:56",
-      "slika": null
-    },
-    {
-      "naslov": "Klasiko zvezda - Amerika Kali i Miljonarios biju bitku za plej-of",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/klasiko-zvezda-amerika-kali-i-miljonarios-biju-bitku-za-plejof/541640",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 04. 2026. у 01:05",
       "slika": null
     },
     {
