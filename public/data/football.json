@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-20T04:45:55.751273+00:00",
-  "azurirano_sr": "20. 04. 2026. у 06:45",
+  "azurirano": "2026-04-20T07:06:10.805967+00:00",
+  "azurirano_sr": "20. 04. 2026. у 09:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (ponedeljak, 20. april): Od svega po malo, fudbala i košarke",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-ponedeljak-20-april-od-svega-po-malo-fudbala-i-kosarke/541619",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 04. 2026. у 09:56",
+      "slika": null
+    },
     {
       "naslov": "Klasiko zvezda - Amerika Kali i Miljonarios biju bitku za plej-of",
       "url": "https://www.mozzartsport.com/fudbal/vesti/klasiko-zvezda-amerika-kali-i-miljonarios-biju-bitku-za-plejof/541640",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/renov-san-o-ligi-sampiona-zivi-mec-glavom-u-ligi-2/541661",
       "izvor": "Мозарт Спорт",
       "datum": "19. 04. 2026. у 22:17",
-      "slika": null
-    },
-    {
-      "naslov": "Manzambi kao suvo zlato, Frajburgov skok preko Ajntrahta (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/manzambi-kao-suvo-zlato-frajburgov-skok-preko-ajntrahta-video/541648",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 04. 2026. у 19:49",
       "slika": null
     },
     {
