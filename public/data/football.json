@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-20T21:07:01.470501+00:00",
-  "azurirano_sr": "20. 04. 2026. у 23:07",
+  "azurirano": "2026-04-20T21:58:36.768233+00:00",
+  "azurirano_sr": "20. 04. 2026. у 23:58",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Stefan Mitrović: Drago mi je što je Partizan dao šansu deci iz svoje škole",
+      "url": "https://www.tanjug.rs/sport/fudbal/246240/stefan-mitrovic-drago-mi-je-sto-je-partizan-dao-sansu-deci-iz-svoje-skole/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 04. 2026. у 23:23",
+      "slika": null
+    },
+    {
+      "naslov": "Remi fudbalera Lećea i Fiorentine u italijanskoj Seriji A",
+      "url": "https://www.tanjug.rs/sport/fudbal/246238/remi-fudbalera-lecea-i-fiorentine-u-italijanskoj-seriji-a/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 04. 2026. у 22:53",
+      "slika": null
+    },
+    {
       "naslov": "Omladinci Reala osvojili Ligu šampiona",
       "url": "https://www.tanjug.rs/sport/fudbal/246234/omladinci-reala-osvojili-ligu-sampiona/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/246217/fk-crvena-zvezda-pocela-onlajn-prodaja-ulaznica-za-mec-protiv-partizana/vest",
       "izvor": "Танјуг",
       "datum": "20. 04. 2026. у 20:42",
-      "slika": null
-    },
-    {
-      "naslov": "Dragoljub Zbiljić predsednik Fudbalskog kluba Vojvodina do 2030. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/246201/dragoljub-zbiljic-predsednik-fudbalskog-kluba-vojvodina-do-2030-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 04. 2026. у 19:49",
-      "slika": null
-    },
-    {
-      "naslov": "Rosenior: Imam podršku vlasnika Čelsija, moramo da pobeđujemo",
-      "url": "https://www.tanjug.rs/sport/fudbal/246194/rosenior-imam-podrsku-vlasnika-celsija-moramo-da-pobedujemo/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 04. 2026. у 19:08",
       "slika": null
     },
     {
