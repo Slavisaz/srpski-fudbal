@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-20T16:38:42.076385+00:00",
-  "azurirano_sr": "20. 04. 2026. у 18:38",
+  "azurirano": "2026-04-20T17:38:57.268042+00:00",
+  "azurirano_sr": "20. 04. 2026. у 19:38",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Rosenior: Imam podršku vlasnika Čelsija, moramo da pobeđujemo",
+      "url": "https://www.tanjug.rs/sport/fudbal/246194/rosenior-imam-podrsku-vlasnika-celsija-moramo-da-pobedujemo/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 04. 2026. у 19:08",
+      "slika": null
+    },
+    {
       "naslov": "Mladi fudbaler Vasilije Subotić produžio ugovor sa Crvenom zvezdom do 2028. godine",
       "url": "https://www.tanjug.rs/sport/fudbal/246152/mladi-fudbaler-vasilije-subotic-produzio-ugovor-sa-crvenom-zvezdom-do-2028-godine/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Održana peta redovna sednica Skupštine FSS, Radujko: Sistem umesto improvizacije",
-      "url": "https://www.tanjug.rs/sport/fudbal/246144/odrzana-peta-redovna-sednica-skupstine-fss-radujko-sistem-umesto-improvizacije/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 04. 2026. у 16:43",
+      "naslov": "Arnautović o problemima sa depresijom: &quot;Niko to nije znao&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226504/arnautovic-o-problemima-sa-depresijom-niko-to-nije-znao/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "20. 04. 2026. у 19:18",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226461/b92sport-saznaje-adem-ljajic-i-stevan-jovetic-u-partizanu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "20. 04. 2026. у 17:25",
-      "slika": null
-    },
-    {
-      "naslov": "Redovna sednica Skupštine FSS – Radujko: &quot;Sistem umesto improvizacije&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226448/odrzana-peta-redovna-sednica-skupstine-fss-izjave-radujka-i-dzajica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "20. 04. 2026. у 17:12",
       "slika": null
     }
   ]
