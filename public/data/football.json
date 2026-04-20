@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-20T18:39:34.795480+00:00",
-  "azurirano_sr": "20. 04. 2026. у 20:39",
+  "azurirano": "2026-04-20T19:43:03.868191+00:00",
+  "azurirano_sr": "20. 04. 2026. у 21:43",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zbiljić posle reizbora: Imamo jedan klub u državi sa ogromnim budžetom koji je teško stići",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zbiljic-posle-reizbora-imamo-jedan-klub-u-drzavi-sa-ogromnim-budzetom-koji-je-tesko-stici/541744",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 04. 2026. у 22:35",
+      "slika": null
+    },
     {
       "naslov": "Marko Roze pronašao posao posle više od godinu dana",
       "url": "https://www.mozzartsport.com/fudbal/vesti/marko-roze-pronasao-posao-posle-vise-od-godinu-dana/541741",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Radujko: Isti problemi nas opterećuju od raspada SFRJ! Poledica: Vidim da se opraštate od nas",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/radujko-isti-problemi-nas-opterecuju-od-raspada-sfrj-poledica-vidim-da-se-oprastate-od-nas/541733",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 04. 2026. у 17:46",
+      "naslov": "FK Crvena zvezda: Počela onlajn prodaja ulaznica za meč protiv Partizana",
+      "url": "https://www.tanjug.rs/sport/fudbal/246217/fk-crvena-zvezda-pocela-onlajn-prodaja-ulaznica-za-mec-protiv-partizana/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 04. 2026. у 20:42",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/246152/mladi-fudbaler-vasilije-subotic-produzio-ugovor-sa-crvenom-zvezdom-do-2028-godine/vest",
       "izvor": "Танјуг",
       "datum": "20. 04. 2026. у 17:09",
-      "slika": null
-    },
-    {
-      "naslov": "Dragan Džajić: Uz jedinstvo i rad, nastavićemo da gradimo fudbal koji će biti ponos svih nas",
-      "url": "https://www.tanjug.rs/sport/fudbal/246160/dragan-dzajic-uz-jedinstvo-i-rad-nastavicemo-da-gradimo-fudbal-koji-ce-biti-ponos-svih-nas/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 04. 2026. у 17:07",
       "slika": null
     },
     {
