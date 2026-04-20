@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-20T20:26:21.120527+00:00",
-  "azurirano_sr": "20. 04. 2026. у 22:26",
+  "azurirano": "2026-04-20T21:07:01.470501+00:00",
+  "azurirano_sr": "20. 04. 2026. у 23:07",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Omladinci Reala osvojili Ligu šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/246234/omladinci-reala-osvojili-ligu-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 04. 2026. у 22:33",
+      "slika": null
+    },
+    {
       "naslov": "FK Crvena zvezda: Počela onlajn prodaja ulaznica za meč protiv Partizana",
       "url": "https://www.tanjug.rs/sport/fudbal/246217/fk-crvena-zvezda-pocela-onlajn-prodaja-ulaznica-za-mec-protiv-partizana/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Mladi fudbaler Vasilije Subotić produžio ugovor sa Crvenom zvezdom do 2028. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/246152/mladi-fudbaler-vasilije-subotic-produzio-ugovor-sa-crvenom-zvezdom-do-2028-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 04. 2026. у 17:09",
+      "naslov": "Poznate cene karata za derbi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226556/poznate-cene-karata-za-derbi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "20. 04. 2026. у 23:05",
       "slika": null
     },
     {
-      "naslov": "Kada će Vojvodina dobiti novi stadion?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226521/dusan-bajatovic-i-dragoljub-zbiljic-o-novom-stadionu-vojvodine/vest",
+      "naslov": "Partizan odbijen – nema licence za Evropu!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226551/partizan-odbijen-nema-licence-za-evropu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "20. 04. 2026. у 20:26",
-      "slika": null
-    },
-    {
-      "naslov": "Zbiljić ostaje predsednik Vojvodine",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226520/dragoljub-zbiljic-novi-mandat-na-mestu-predsednika-vojvodine/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "20. 04. 2026. у 20:13",
+      "datum": "20. 04. 2026. у 22:44",
       "slika": null
     }
   ]
