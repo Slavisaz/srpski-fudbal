@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-04-21T12:44:18.743549+00:00",
-  "azurirano_sr": "21. 04. 2026. у 14:44",
+  "azurirano": "2026-04-21T14:20:48.419059+00:00",
+  "azurirano_sr": "21. 04. 2026. у 16:20",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Tovan sa Lansom konačno želi domaći trofej, Tuluz da ponovi uspeh iz 2023.",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tovan-sa-lansom-konacno-zeli-domaci-trofej-tuluz-da-ponovi-uspeh-iz-2023/541799",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 04. 2026. у 17:48",
+      "slika": null
+    },
+    {
+      "naslov": "Kivu na Murinjovom tragu uspeha, Fabregasa zanima samo Evropa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kivu-na-murinjovom-tragu-uspeha-fabregasa-zanima-samo-evropa/541796",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 04. 2026. у 17:00",
+      "slika": null
+    },
+    {
+      "naslov": "Skandal u Italiji: Raskalašne žurke s fudbalerima uz prostituciju i gas za smejanje?!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/skandal-u-italiji-raskalasne-zurke-s-fudbalerima-uz-prostituciju-i-gas-za-smejanje/541794",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 04. 2026. у 16:54",
+      "slika": null
+    },
     {
       "naslov": "Raport sa srpskoligaških terena: Optužbe iz Železničara zasenile siguran hod vodećih timova",
       "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-optuzbe-iz-zeleznicara-zasenile-siguran-hod-vodecih-timova/541789",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Kako je veštačka inteligencija mogla da spreči feštu u Baskiji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-je-vestacka-inteligencija-mogla-da-spreci-festu-u-baskiji/541784",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 04. 2026. у 14:51",
-      "slika": null
-    },
-    {
-      "naslov": "Još jedan talentovani Crnogorac na Topčiderskom brdu? Samo sada u Zvezdi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedan-talentovani-crnogorac-na-topciderskom-brdu-samo-sada-u-zvezdi/541780",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 04. 2026. у 14:11",
-      "slika": null
-    },
-    {
-      "naslov": "Srbija izabrala protivnika: Na Zelenortska Ostrva u maju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-izabrala-protivnika-na-zelenortska-ostrva-u-maju/541776",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 04. 2026. у 13:53",
+      "naslov": "Blagojević: Započeli smo najtežu nedelju, moramo da pokažemo da nikome neće biti lako",
+      "url": "https://www.tanjug.rs/sport/fudbal/246391/blagojevic-zapoceli-smo-najtezu-nedelju-moramo-da-pokazemo-da-nikome-nece-biti-lako/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 04. 2026. у 15:27",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "FK Crvena zvezda: Počela onlajn prodaja ulaznica za meč protiv Partizana",
-      "url": "https://www.tanjug.rs/sport/fudbal/246217/fk-crvena-zvezda-pocela-onlajn-prodaja-ulaznica-za-mec-protiv-partizana/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 04. 2026. у 20:42",
+      "naslov": "Blagojević: &quot;Vojvodina gladna velikih pobeda – bez Simića u Novom Sadu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226740/srdjan-blagojevic-izjava-pred-vojvodina-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 04. 2026. у 14:55",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226697/crvena-zvezda-zeli-talentovanog-crnogorca/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "21. 04. 2026. у 13:27",
-      "slika": null
-    },
-    {
-      "naslov": "Srbija našla zamenu za Argentinu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226713/srbija-igra-protiv-zelenortskih-ostrva/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 04. 2026. у 13:14",
       "slika": null
     }
   ]
