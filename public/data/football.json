@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-21T19:50:08.465599+00:00",
-  "azurirano_sr": "21. 04. 2026. у 21:50",
+  "azurirano": "2026-04-21T20:35:59.008488+00:00",
+  "azurirano_sr": "21. 04. 2026. у 22:35",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Zvezdi stižu milioni – ponude već na stolu?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226782/zvezda-dobila-ponude-za-enema-vredne-i-do-10-miliona-evra/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 04. 2026. у 22:17",
+      "slika": null
+    },
+    {
       "naslov": "Još dva superligaša nisu dobila licencu za Evropu",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226812/jos-dva-superligasa-nisu-dobila-licencu-za-evropu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "21. 04. 2026. у 20:23",
-      "slika": null
-    },
-    {
-      "naslov": "Oglasili se iz Pančeva: &quot;Tehnički problem – igraćemo Evropu!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226824/oglasili-se-iz-panceva-tehnicki-problem-igracemo-evropu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 04. 2026. у 19:50",
       "slika": null
     }
   ]
