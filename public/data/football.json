@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-21T16:41:55.488125+00:00",
-  "azurirano_sr": "21. 04. 2026. у 18:41",
+  "azurirano": "2026-04-21T17:40:40.475066+00:00",
+  "azurirano_sr": "21. 04. 2026. у 19:40",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Mančester sitija Rodri i Ruben Dijas propuštaju meč protiv Barnlija",
+      "url": "https://www.tanjug.rs/sport/fudbal/246446/fudbaleri-mancester-sitija-rodri-i-ruben-dijas-propustaju-mec-protiv-barnlija/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 04. 2026. у 18:30",
+      "slika": null
+    },
+    {
       "naslov": "Dejan Stanković: Zahtevan meč je pred nama, idemo da ostvarimo naš cilj",
       "url": "https://www.tanjug.rs/sport/fudbal/246437/dejan-stankovic-zahtevan-mec-je-pred-nama-idemo-da-ostvarimo-nas-cilj/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Iran: Učešće na Svetskom prvenstvu ako bude osigurana bezbednost tima",
-      "url": "https://www.tanjug.rs/sport/fudbal/246421/iran-ucesce-na-svetskom-prvenstvu-ako-bude-osigurana-bezbednost-tima/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 04. 2026. у 16:57",
+      "naslov": "Tanjga pred Partizan: &quot;Ovo je veći derbi nego protiv Crvene zvezde&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226808/tanjga-pred-partizan-ovo-je-veci-derbi-nego-protiv-crvene-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 04. 2026. у 19:07",
       "slika": null
     },
     {
-      "naslov": "Stanković: &quot;Matematika je jednostavna&quot;; &quot;Posle Pančeva ide nešto najlepše...&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226817/dejan-stankovic-konferencija-pred-zeleznicar-zvezda/vest",
+      "naslov": "Koković: &quot;Ja sam slobodan čovek, a ovo je slobodna zemlja – mogu da izjavim šta mislim&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226767/kokovic-ja-sam-slobodan-covek-a-ovo-je-slobodna-zemlja-mogu-da-izjavim-sta-mislim/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "21. 04. 2026. у 18:28",
-      "slika": null
-    },
-    {
-      "naslov": "Blagojević: &quot;Vojvodina gladna velikih pobeda – bez Simića u Novom Sadu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226740/srdjan-blagojevic-izjava-pred-vojvodina-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 04. 2026. у 14:55",
+      "datum": "21. 04. 2026. у 18:39",
       "slika": null
     }
   ]
