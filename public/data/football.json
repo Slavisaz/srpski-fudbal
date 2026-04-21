@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-21T09:03:01.921335+00:00",
-  "azurirano_sr": "21. 04. 2026. у 11:03",
+  "azurirano": "2026-04-21T10:24:59.369173+00:00",
+  "azurirano_sr": "21. 04. 2026. у 12:24",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbija izabrala protivnika: Na Zelenortska ostrva u maju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-izabrala-protivnika-na-zelenortska-ostrva-u-maju/541776",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 04. 2026. у 13:53",
+      "slika": null
+    },
     {
       "naslov": "NAJAVA DANA (utorak, 21. april): Barselona i Crvena zvezda u plej-in euforiji, a tu je i dosta vrhunskog fudbala",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-21-april-barselona-i-crvena-zvezda-u-plejin-euforiji-a-tu-je-i-dosta-vrhunskog-fudbala/541731",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/marko-roze-pronasao-posao-posle-vise-od-godinu-dana/541741",
       "izvor": "Мозарт Спорт",
       "datum": "20. 04. 2026. у 22:22",
-      "slika": null
-    },
-    {
-      "naslov": "Efekti fudbalske revolucije: Na meču druge lige 53.000 ljudi, dva kluba u LŠ, šest u borbi za titulu...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/efekti-fudbalske-revolucije-na-mecu-druge-lige-53000-ljudi-dva-kluba-u-ls-sest-u-borbi-za-titulu/541734",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 04. 2026. у 21:25",
       "slika": null
     },
     {
