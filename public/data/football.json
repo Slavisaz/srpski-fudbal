@@ -1,10 +1,24 @@
 {
-  "azurirano": "2026-04-21T10:24:59.369173+00:00",
-  "azurirano_sr": "21. 04. 2026. у 12:24",
+  "azurirano": "2026-04-21T11:35:54.232532+00:00",
+  "azurirano_sr": "21. 04. 2026. у 13:35",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Srbija izabrala protivnika: Na Zelenortska ostrva u maju",
+      "naslov": "Kako je veštačka inteligencija mogla da spreči feštu u Baskiji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-je-vestacka-inteligencija-mogla-da-spreci-festu-u-baskiji/541784",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 04. 2026. у 14:51",
+      "slika": null
+    },
+    {
+      "naslov": "Još jedan talentovani Crnogorac na Topčiderskom brdu? Samo sada u Zvezdi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedan-talentovani-crnogorac-na-topciderskom-brdu-samo-sada-u-zvezdi/541780",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 04. 2026. у 14:11",
+      "slika": null
+    },
+    {
+      "naslov": "Srbija izabrala protivnika: Na Zelenortska Ostrva u maju",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-izabrala-protivnika-na-zelenortska-ostrva-u-maju/541776",
       "izvor": "Мозарт Спорт",
       "datum": "21. 04. 2026. у 13:53",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-21-april-barselona-i-crvena-zvezda-u-plejin-euforiji-a-tu-je-i-dosta-vrhunskog-fudbala/541731",
       "izvor": "Мозарт Спорт",
       "datum": "21. 04. 2026. у 10:15",
-      "slika": null
-    },
-    {
-      "naslov": "Zbiljić posle reizbora: Imamo jedan klub u državi sa ogromnim budžetom koji je teško stići",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zbiljic-posle-reizbora-imamo-jedan-klub-u-drzavi-sa-ogromnim-budzetom-koji-je-tesko-stici/541744",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 04. 2026. у 22:35",
-      "slika": null
-    },
-    {
-      "naslov": "Marko Roze pronašao posao posle više od godinu dana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/marko-roze-pronasao-posao-posle-vise-od-godinu-dana/541741",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 04. 2026. у 22:22",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Ljajić: &quot;Dobijamo UEFA licencu, ali gubimo rat – postali smo džak za udaranje&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226599/rasim-ljajic-o-uefa-licenci-i-ratu-koji-je-partizan-izgubio/vest",
+      "naslov": "Crvena zvezda pregovara sa velikim talentom iz komšiluka",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226697/crvena-zvezda-zeli-talentovanog-crnogorca/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "21. 04. 2026. у 09:11",
+      "datum": "21. 04. 2026. у 13:27",
       "slika": null
     },
     {
-      "naslov": "Poznate cene karata za derbi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226556/poznate-cene-karata-za-derbi/vest",
+      "naslov": "Srbija našla zamenu za Argentinu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226713/srbija-igra-protiv-zelenortskih-ostrva/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "20. 04. 2026. у 23:05",
+      "datum": "21. 04. 2026. у 13:14",
       "slika": null
     }
   ]
