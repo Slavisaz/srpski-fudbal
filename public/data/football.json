@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-21T20:35:59.008488+00:00",
-  "azurirano_sr": "21. 04. 2026. у 22:35",
+  "azurirano": "2026-04-21T21:25:59.556204+00:00",
+  "azurirano_sr": "21. 04. 2026. у 23:25",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Intera posle preokreta pobedili Komo i plasirali se u finale Kupa Italije",
+      "url": "https://www.tanjug.rs/sport/fudbal/246501/fudbaleri-intera-posle-preokreta-pobedili-komo-i-plasirali-se-u-finale-kupa-italije/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 04. 2026. у 23:18",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Brajtona ubedljivo pobedili Čelsi u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/246499/fudbaleri-brajtona-ubedljivo-pobedili-celsi-u-premijer-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 04. 2026. у 23:06",
+      "slika": null
+    },
+    {
       "naslov": "Atletik Bilbao pobedio Osasunu, remi Majorke i Valensije u La Ligi",
       "url": "https://www.tanjug.rs/sport/fudbal/246483/atletik-bilbao-pobedio-osasunu-remi-majorke-i-valensije-u-la-ligi/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/246482/fudbaler-notingem-foresta-kalum-hadson-odoj-uspesno-operisan/vest",
       "izvor": "Танјуг",
       "datum": "21. 04. 2026. у 20:46",
-      "slika": null
-    },
-    {
-      "naslov": "Rafael Markez preuzima fudbalsku reprezentaciju Meksika po završetku Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/246471/rafael-markez-preuzima-fudbalsku-reprezentaciju-meksika-po-zavrsetku-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 04. 2026. у 19:57",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Mančester sitija Rodri i Ruben Dijas propuštaju meč protiv Barnlija",
-      "url": "https://www.tanjug.rs/sport/fudbal/246446/fudbaleri-mancester-sitija-rodri-i-ruben-dijas-propustaju-mec-protiv-barnlija/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 04. 2026. у 18:30",
       "slika": null
     },
     {
