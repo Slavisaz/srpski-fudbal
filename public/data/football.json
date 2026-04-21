@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-21T18:43:42.981652+00:00",
-  "azurirano_sr": "21. 04. 2026. у 20:43",
+  "azurirano": "2026-04-21T19:50:08.465599+00:00",
+  "azurirano_sr": "21. 04. 2026. у 21:50",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Sadik spasao Valensiju, ali biće muke: Demikelisova Majorka će ostati u Primeri",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sadik-spasao-valensiju-ali-bice-muke-demikelisova-majorka-ce-ostati-u-primeri/541826",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 04. 2026. у 23:21",
+      "slika": null
+    },
     {
       "naslov": "Tovan sa Lansom konačno želi domaći trofej, Tuluz da ponovi uspeh iz 2023.",
       "url": "https://www.mozzartsport.com/fudbal/vesti/tovan-sa-lansom-konacno-zeli-domaci-trofej-tuluz-da-ponovi-uspeh-iz-2023/541799",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Raport sa srpskoligaških terena: Optužbe iz Železničara zasenile siguran hod vodećih timova",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-optuzbe-iz-zeleznicara-zasenile-siguran-hod-vodecih-timova/541789",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 04. 2026. у 15:58",
+      "naslov": "Atletik Bilbao pobedio Osasunu, remi Majorke i Valensije u La Ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/246483/atletik-bilbao-pobedio-osasunu-remi-majorke-i-valensije-u-la-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 04. 2026. у 21:06",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaler Notingem Foresta Kalum Hadson-Odoj uspešno operisan",
+      "url": "https://www.tanjug.rs/sport/fudbal/246482/fudbaler-notingem-foresta-kalum-hadson-odoj-uspesno-operisan/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 04. 2026. у 20:46",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/246446/fudbaleri-mancester-sitija-rodri-i-ruben-dijas-propustaju-mec-protiv-barnlija/vest",
       "izvor": "Танјуг",
       "datum": "21. 04. 2026. у 18:30",
-      "slika": null
-    },
-    {
-      "naslov": "Dejan Stanković: Zahtevan meč je pred nama, idemo da ostvarimo naš cilj",
-      "url": "https://www.tanjug.rs/sport/fudbal/246437/dejan-stankovic-zahtevan-mec-je-pred-nama-idemo-da-ostvarimo-nas-cilj/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 04. 2026. у 17:52",
-      "slika": null
-    },
-    {
-      "naslov": "Miroslav Tanjga: Poštujemo Partizan, ali nadam se da ćemo sutra dati sve od sebe da pobedimo",
-      "url": "https://www.tanjug.rs/sport/fudbal/246432/miroslav-tanjga-postujemo-partizan-ali-nadam-se-da-cemo-sutra-dati-sve-od-sebe-da-pobedimo/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 04. 2026. у 17:37",
       "slika": null
     },
     {
