@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-21T05:50:58.884650+00:00",
-  "azurirano_sr": "21. 04. 2026. у 07:50",
+  "azurirano": "2026-04-21T07:16:14.384503+00:00",
+  "azurirano_sr": "21. 04. 2026. у 09:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (utorak, 21. april): Barselona i Crvena zvezda u plej-in euforiji, a tu je i dosta vrhunskog fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-21-april-barselona-i-crvena-zvezda-u-plejin-euforiji-a-tu-je-i-dosta-vrhunskog-fudbala/541731",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 04. 2026. у 10:15",
+      "slika": null
+    },
     {
       "naslov": "Zbiljić posle reizbora: Imamo jedan klub u državi sa ogromnim budžetom koji je teško stići",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zbiljic-posle-reizbora-imamo-jedan-klub-u-drzavi-sa-ogromnim-budzetom-koji-je-tesko-stici/541744",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/efekti-fudbalske-revolucije-na-mecu-druge-lige-53000-ljudi-dva-kluba-u-ls-sest-u-borbi-za-titulu/541734",
       "izvor": "Мозарт Спорт",
       "datum": "20. 04. 2026. у 21:25",
-      "slika": null
-    },
-    {
-      "naslov": "Leče će neefikasnost koštati prvoligaškog statusa, deo problema je i Štulić",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lece-ce-neefikasnost-kostati-prvoligaskog-statusa-deo-problema-je-i-stulic/541732",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 04. 2026. у 17:54",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Ljajić: &quot;Dobijamo UEFA licencu, ali gubimo rat – postali smo džak za udaranje&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226599/rasim-ljajic-o-uefa-licenci-i-ratu-koji-je-partizan-izgubio/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 04. 2026. у 09:11",
+      "slika": null
+    },
+    {
       "naslov": "Poznate cene karata za derbi",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226556/poznate-cene-karata-za-derbi/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "20. 04. 2026. у 23:05",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan odbijen – nema licence za Evropu!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226551/partizan-odbijen-nema-licence-za-evropu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "20. 04. 2026. у 22:44",
       "slika": null
     }
   ]
