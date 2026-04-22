@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-04-22T21:33:47.757436+00:00",
-  "azurirano_sr": "22. 04. 2026. у 23:33",
+  "azurirano": "2026-04-22T22:25:18.825382+00:00",
+  "azurirano_sr": "23. 04. 2026. у 00:25",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Jesenas u Ređani, večeras u finalu Kupa Italije: Mota odbranio četiri penala i doveo Lacio nadomak trofeja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jesenas-u-reani-veceras-u-finalu-kupa-italije-mota-odbranio-cetiri-penala-i-doveo-lacio-nadomak-trofeja/541930",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 02:04",
+      "slika": null
+    },
+    {
+      "naslov": "Rezzime dana (sreda): Iznenađenja u kup takmičenjima, \"Žile\" ovog puta izneverio",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-sreda-iznenaenja-u-kup-takmicenjima-zile-ovog-puta-izneverio/541924",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 01:56",
+      "slika": null
+    },
+    {
+      "naslov": "Da li je ovo Barsin najskuplji penal? Jamal dao gol, pa pao kao pokošen (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/da-li-je-ovo-barsin-najskuplji-penal-jamal-dao-gol-pa-pao-kao-pokosen-video/541929",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 01:34",
+      "slika": null
+    },
     {
       "naslov": "Skupocene zvezde Tigrova u grčevitoj borbi za plej-of",
       "url": "https://www.mozzartsport.com/fudbal/vesti/skupocene-zvezde-tigrova-u-grcevitoj-borbi-za-plejof/541896",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Premijer liga je igra 20 klubova u kojoj Arsenal vodi 201 dan, a onda Siti ipak bude prvi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/premijer-liga-je-igra-20-klubova-u-kojoj-arsenal-vodi-201-dan-a-onda-siti-ipak-bude-prvi/541926",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 04. 2026. у 00:59",
+      "naslov": "Lamal doneo pobedu fudbalerima Barselone protiv Selte, pa se povredio",
+      "url": "https://www.tanjug.rs/sport/fudbal/246826/lamal-doneo-pobedu-fudbalerima-barselone-protiv-selte-pa-se-povredio/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 04. 2026. у 23:54",
       "slika": null
     },
     {
-      "naslov": "Bajern ide po sve! Posle šest godina igra finale Kupa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bajern-ide-po-sve-posle-sest-godina-igra-finale-kupa/541925",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 04. 2026. у 00:52",
-      "slika": null
-    },
-    {
-      "naslov": "Iznenađenje u Turskoj: Ispade Galata iz Kupa, propao san o osvajanju duple krune",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/iznenaenje-u-turskoj-ispade-galata-iz-kupa-propao-san-o-osvajanju-duple-krune/541918",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 04. 2026. у 23:38",
+      "naslov": "Fudbaleri Lacija posle penala pobedili Atalantu za plasman u finale Kupa Italije",
+      "url": "https://www.tanjug.rs/sport/fudbal/246824/fudbaleri-lacija-posle-penala-pobedili-atalantu-za-plasman-u-finale-kupa-italije/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 04. 2026. у 23:51",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/246816/fudbaleri-mancester-sitija-pobedili-barnli-i-preuzeli-prvo-mesto-u-premijer-ligi/vest",
       "izvor": "Танјуг",
       "datum": "22. 04. 2026. у 23:08",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Bajerna u finalu Kupa Nemačke",
-      "url": "https://www.tanjug.rs/sport/fudbal/246813/fudbaleri-bajerna-u-finalu-kupa-nemacke/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 04. 2026. у 22:49",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Aleksandar Stanković strelac za Klub Briž u pobedi protiv Mehelena",
-      "url": "https://www.tanjug.rs/sport/fudbal/246810/srpski-fudbaler-aleksandar-stankovic-strelac-za-klub-briz-u-pobedi-protiv-mehelena/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 04. 2026. у 22:44",
       "slika": null
     },
     {
