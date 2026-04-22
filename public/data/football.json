@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-22T10:53:20.497784+00:00",
-  "azurirano_sr": "22. 04. 2026. у 12:53",
+  "azurirano": "2026-04-22T11:47:14.095108+00:00",
+  "azurirano_sr": "22. 04. 2026. у 13:47",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zamisli traže te Bajern i Barsa, a ti se dogovriš sa.. Bešiktašom?!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zamisli-traze-te-bajern-i-barsa-a-ti-se-dogovris-sa-besiktasom/541878",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 04. 2026. у 15:28",
+      "slika": null
+    },
+    {
+      "naslov": "Meč sezone za Boginju provincije, Sarijeva jedina karta za Evropu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mec-sezone-za-boginju-provincije-sarijeva-jedina-karta-za-evropu/541876",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 04. 2026. у 14:50",
+      "slika": null
+    },
     {
       "naslov": "Leva skija Saude, desna skija Saude... Nema veze što je medo tamo",
       "url": "https://www.mozzartsport.com/fudbal/vesti/leva-skija-saude-desna-skija-saude-nema-veze-sto-je-medo-tamo/541868",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-sreda-22-april-veciti-na-superligaskim-zadacima-a-uzbudljivo-u-kupovima-nemacke-i-italije/541793",
       "izvor": "Мозарт Спорт",
       "datum": "22. 04. 2026. у 10:15",
-      "slika": null
-    },
-    {
-      "naslov": "Rastu šanse da Srbija dobije još jednog igrača u Premijer ligi; Lester i definitivno ispao",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rastu-sanse-da-srbija-dobije-jos-jednog-igraca-u-premijer-ligi-lester-i-definitivno-ispao/541839",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 04. 2026. у 02:01",
-      "slika": null
-    },
-    {
-      "naslov": "Na ovo su čekali 28 godina: Ono što nisu uspeli Šmicer i Anto Drobnjak, pokušaće Tovan i Maksiman",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/na-ovo-su-cekali-28-godina-ono-sto-nisu-uspeli-smicer-i-anto-drobnjak-pokusace-tovan-i-maksiman/541827",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 04. 2026. у 01:05",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Reakcija FK Partizan: &quot;Netačno i tendenciozno&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227052/partizan-nije-bio-obavesten-o-dolasku-trampovog-izaslanika/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 04. 2026. у 13:32",
+      "slika": null
+    },
+    {
       "naslov": "Zvezdi stižu milioni – ponude već na stolu?",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226782/zvezda-dobila-ponude-za-enema-vredne-i-do-10-miliona-evra/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "21. 04. 2026. у 22:17",
-      "slika": null
-    },
-    {
-      "naslov": "Još dva superligaša nisu dobila licencu za Evropu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226812/jos-dva-superligasa-nisu-dobila-licencu-za-evropu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 04. 2026. у 20:23",
       "slika": null
     }
   ]
