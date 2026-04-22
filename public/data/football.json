@@ -1,11 +1,25 @@
 {
-  "azurirano": "2026-04-22T11:47:14.095108+00:00",
-  "azurirano_sr": "22. 04. 2026. у 13:47",
+  "azurirano": "2026-04-22T12:47:11.510787+00:00",
+  "azurirano_sr": "22. 04. 2026. у 14:47",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Zamisli traže te Bajern i Barsa, a ti se dogovriš sa.. Bešiktašom?!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zamisli-traze-te-bajern-i-barsa-a-ti-se-dogovris-sa-besiktasom/541878",
+      "naslov": "Još jedan povratak pod Bagdalu – Mirosavljević novi sportski direktor Napretka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedan-povratak-pod-bagdalu-mirosavljevic-novi-sportski-direktor-napretka/541888",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 04. 2026. у 16:21",
+      "slika": null
+    },
+    {
+      "naslov": "Lavovi uzdrmani, Zmajevi pred vratima raja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lavovi-uzdrmani-zmajevi-pred-vratima-raja/541886",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 04. 2026. у 16:00",
+      "slika": null
+    },
+    {
+      "naslov": "Zamisli traže te Bajern i Barsa, a ti se dogovoriš sa... Bešiktašom?!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zamisli-traze-te-bajern-i-barsa-a-ti-se-dogovoris-sa-besiktasom/541878",
       "izvor": "Мозарт Спорт",
       "datum": "22. 04. 2026. у 15:28",
       "slika": null
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/mec-sezone-za-boginju-provincije-sarijeva-jedina-karta-za-evropu/541876",
       "izvor": "Мозарт Спорт",
       "datum": "22. 04. 2026. у 14:50",
-      "slika": null
-    },
-    {
-      "naslov": "Leva skija Saude, desna skija Saude... Nema veze što je medo tamo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/leva-skija-saude-desna-skija-saude-nema-veze-sto-je-medo-tamo/541868",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 04. 2026. у 14:24",
-      "slika": null
-    },
-    {
-      "naslov": "NAJAVA DANA (sreda, 22. april): Večiti na superligaškim zadacima, a uzbudljivo u kupovima Nemačke i Italije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-sreda-22-april-veciti-na-superligaskim-zadacima-a-uzbudljivo-u-kupovima-nemacke-i-italije/541793",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 04. 2026. у 10:15",
       "slika": null
     },
     {
