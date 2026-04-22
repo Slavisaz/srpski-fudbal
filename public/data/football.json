@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-04-22T20:39:38.441995+00:00",
-  "azurirano_sr": "22. 04. 2026. у 22:39",
+  "azurirano": "2026-04-22T21:33:47.757436+00:00",
+  "azurirano_sr": "22. 04. 2026. у 23:33",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Skupocene zvezde Tigrova u grčevitoj borbi za plej-of",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/skupocene-zvezde-tigrova-u-grcevitoj-borbi-za-plejof/541896",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 01:16",
+      "slika": null
+    },
+    {
+      "naslov": "Premijer liga je igra 20 klubova u kojoj Arsenal vodi 201 dan, a onda Siti ipak bude prvi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/premijer-liga-je-igra-20-klubova-u-kojoj-arsenal-vodi-201-dan-a-onda-siti-ipak-bude-prvi/541926",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 00:59",
+      "slika": null
+    },
+    {
+      "naslov": "Bajern ide po sve! Posle šest godina igra finale Kupa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bajern-ide-po-sve-posle-sest-godina-igra-finale-kupa/541925",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 00:52",
+      "slika": null
+    },
     {
       "naslov": "Iznenađenje u Turskoj: Ispade Galata iz Kupa, propao san o osvajanju duple krune",
       "url": "https://www.mozzartsport.com/fudbal/vesti/iznenaenje-u-turskoj-ispade-galata-iz-kupa-propao-san-o-osvajanju-duple-krune/541918",
@@ -11,52 +32,31 @@
       "slika": null
     },
     {
-      "naslov": "Loznica samo čudom može u elitu, naziru se budući srpskoligaši",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/loznica-samo-cudom-moze-u-elitu-naziru-se-buduci-srpskoligasi/541908",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 04. 2026. у 21:02",
-      "slika": null
-    },
-    {
-      "naslov": "Još jedan povratak pod Bagdalu – Mirosavljević novi sportski direktor Napretka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedan-povratak-pod-bagdalu-mirosavljevic-novi-sportski-direktor-napretka/541888",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 04. 2026. у 16:21",
-      "slika": null
-    },
-    {
-      "naslov": "Lavovi uzdrmani, Zmajevi pred vratima raja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lavovi-uzdrmani-zmajevi-pred-vratima-raja/541886",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 04. 2026. у 16:00",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Elčea savladali Atletiko Madrid, Hetafe nadigrao Real Sosijedad u La Ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/246805/fudbaleri-elcea-savladali-atletiko-madrid-hetafe-nadigrao-real-sosijedad-u-la-ligi/vest",
+      "naslov": "Fudbaleri Nice savladali Strazbur i plasirali se u finale Kupa Francuske",
+      "url": "https://www.tanjug.rs/sport/fudbal/246818/fudbaleri-nice-savladali-strazbur-i-plasirali-se-u-finale-kupa-francuske/vest",
       "izvor": "Танјуг",
-      "datum": "22. 04. 2026. у 22:06",
+      "datum": "22. 04. 2026. у 23:19",
       "slika": null
     },
     {
-      "naslov": "Ubedljiva pobeda fudbalera Pari Sen Žermena protiv Nanta u francuskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/246802/ubedljiva-pobeda-fudbalera-pari-sen-zermena-protiv-nanta-u-francuskom-prvenstvu/vest",
+      "naslov": "Fudbaleri Mančester sitija pobedili Barnli i preuzeli prvo mesto u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/246816/fudbaleri-mancester-sitija-pobedili-barnli-i-preuzeli-prvo-mesto-u-premijer-ligi/vest",
       "izvor": "Танјуг",
-      "datum": "22. 04. 2026. у 21:57",
+      "datum": "22. 04. 2026. у 23:08",
       "slika": null
     },
     {
-      "naslov": "Dejan Stanković: Imali smo šansu da večeras osvojimo titulu, žao mi je što to nismo uradili",
-      "url": "https://www.tanjug.rs/sport/fudbal/246798/dejan-stankovic-imali-smo-sansu-da-veceras-osvojimo-titulu-zao-mi-je-sto-to-nismo-uradili/vest",
+      "naslov": "Fudbaleri Bajerna u finalu Kupa Nemačke",
+      "url": "https://www.tanjug.rs/sport/fudbal/246813/fudbaleri-bajerna-u-finalu-kupa-nemacke/vest",
       "izvor": "Танјуг",
-      "datum": "22. 04. 2026. у 21:42",
+      "datum": "22. 04. 2026. у 22:49",
       "slika": null
     },
     {
-      "naslov": "Remi fudbalera Železničara i Crvene zvezde u plej-ofu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/246795/remi-fudbalera-zeleznicara-i-crvene-zvezde-u-plej-ofu-superlige-srbije/vest",
+      "naslov": "Srpski fudbaler Aleksandar Stanković strelac za Klub Briž u pobedi protiv Mehelena",
+      "url": "https://www.tanjug.rs/sport/fudbal/246810/srpski-fudbaler-aleksandar-stankovic-strelac-za-klub-briz-u-pobedi-protiv-mehelena/vest",
       "izvor": "Танјуг",
-      "datum": "22. 04. 2026. у 21:30",
+      "datum": "22. 04. 2026. у 22:44",
       "slika": null
     },
     {
