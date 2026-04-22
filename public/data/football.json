@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-22T06:21:08.435496+00:00",
-  "azurirano_sr": "22. 04. 2026. у 08:21",
+  "azurirano": "2026-04-22T08:11:16.082287+00:00",
+  "azurirano_sr": "22. 04. 2026. у 10:11",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (sreda, 22. april): Večiti na superligaškim zadacima, a uzbudljivo u kupovima Nemačke i Italije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-sreda-22-april-veciti-na-superligaskim-zadacima-a-uzbudljivo-u-kupovima-nemacke-i-italije/541793",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 04. 2026. у 10:15",
+      "slika": null
+    },
     {
       "naslov": "Rastu šanse da Srbija dobije još jednog igrača u Premijer ligi; Lester i definitivno ispao",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rastu-sanse-da-srbija-dobije-jos-jednog-igraca-u-premijer-ligi-lester-i-definitivno-ispao/541839",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/najgori-celsi-u-poslednjih-20-godina-kakva-evropa-mozda-ne-bude-ni-meu-deset/541833",
       "izvor": "Мозарт Спорт",
       "datum": "22. 04. 2026. у 01:01",
-      "slika": null
-    },
-    {
-      "naslov": "Sadik spasao Valensiju, ali biće muke: Demikelisova Majorka će ostati u Primeri",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sadik-spasao-valensiju-ali-bice-muke-demikelisova-majorka-ce-ostati-u-primeri/541826",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 04. 2026. у 23:21",
       "slika": null
     },
     {
