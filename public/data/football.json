@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-22T09:50:31.979485+00:00",
-  "azurirano_sr": "22. 04. 2026. у 11:50",
+  "azurirano": "2026-04-22T10:53:20.497784+00:00",
+  "azurirano_sr": "22. 04. 2026. у 12:53",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Leva skija Saude, desna skija Saude... Nema veze što je medo tamo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/leva-skija-saude-desna-skija-saude-nema-veze-sto-je-medo-tamo/541868",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 04. 2026. у 14:24",
+      "slika": null
+    },
     {
       "naslov": "NAJAVA DANA (sreda, 22. april): Večiti na superligaškim zadacima, a uzbudljivo u kupovima Nemačke i Italije",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-sreda-22-april-veciti-na-superligaskim-zadacima-a-uzbudljivo-u-kupovima-nemacke-i-italije/541793",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/na-ovo-su-cekali-28-godina-ono-sto-nisu-uspeli-smicer-i-anto-drobnjak-pokusace-tovan-i-maksiman/541827",
       "izvor": "Мозарт Спорт",
       "datum": "22. 04. 2026. у 01:05",
-      "slika": null
-    },
-    {
-      "naslov": "Najgori Čelsi u poslednjih 20 godina! Kakva Evropa, možda ne bude ni među deset",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najgori-celsi-u-poslednjih-20-godina-kakva-evropa-mozda-ne-bude-ni-meu-deset/541833",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 04. 2026. у 01:01",
       "slika": null
     },
     {
