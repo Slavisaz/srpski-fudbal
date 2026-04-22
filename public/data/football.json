@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-22T18:44:49.170495+00:00",
-  "azurirano_sr": "22. 04. 2026. у 20:44",
+  "azurirano": "2026-04-22T19:51:21.553814+00:00",
+  "azurirano_sr": "22. 04. 2026. у 21:51",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Iznenađenje u Turskoj: Ispade Galata iz Kupa, propao san o osvajanju duple krune",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/iznenaenje-u-turskoj-ispade-galata-iz-kupa-propao-san-o-osvajanju-duple-krune/541918",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 04. 2026. у 23:38",
+      "slika": null
+    },
     {
       "naslov": "Loznica samo čudom može u elitu, naziru se budući srpskoligaši",
       "url": "https://www.mozzartsport.com/fudbal/vesti/loznica-samo-cudom-moze-u-elitu-naziru-se-buduci-srpskoligasi/541908",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Zamisli traže te Bajern i Barsa, a ti se dogovoriš sa... Bešiktašom?!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zamisli-traze-te-bajern-i-barsa-a-ti-se-dogovoris-sa-besiktasom/541878",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 04. 2026. у 15:28",
+      "naslov": "Remi fudbalera Železničara i Crvene zvezde u plej-ofu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/246795/remi-fudbalera-zeleznicara-i-crvene-zvezde-u-plej-ofu-superlige-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 04. 2026. у 21:12",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri OFK Beograda i Čukaričkog odigrali bez golova",
+      "url": "https://www.tanjug.rs/sport/fudbal/246786/fudbaleri-ofk-beograda-i-cukarickog-odigrali-bez-golova/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 04. 2026. у 20:32",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Blagojević: Nismo došli da igramo defanzivno; Tanjga: Ništa ne zameram igračima",
-      "url": "https://www.tanjug.rs/sport/fudbal/246772/blagojevic-nismo-dosli-da-igramo-defanzivno-tanjga-nista-ne-zameram-igracima/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 04. 2026. у 19:31",
+      "naslov": "Stanković: &quot;Ovo je trebao da bude sveti dan – ispoštuj taj DNK Zvezde; To mi je zasmetalo&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227200/stankovic-ovo-je-trebao-da-bude-sveti-dan-ispostuj-taj-dnk-zvezde-to-mi-je-zasmetalo/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 04. 2026. у 21:18",
       "slika": null
     },
     {
-      "naslov": "Iranska reprezentacija spremna za učešće na Svetskom prvenstvu u fudbalu",
-      "url": "https://www.tanjug.rs/sport/fudbal/246769/iranska-reprezentacija-spremna-za-ucesce-na-svetskom-prvenstvu-u-fudbalu/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 04. 2026. у 19:28",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda izjednačila – nedostaje joj gol za titulu",
+      "naslov": "Egal Zvezde u Pančevu – protiv Partizana za overu titule",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227147/uzivo-zeleznicar-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "22. 04. 2026. у 20:36",
-      "slika": null
-    },
-    {
-      "naslov": "Dosadno na Karaburmi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227187/dosadno-na-karaburmi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 04. 2026. у 20:32",
+      "datum": "22. 04. 2026. у 21:08",
       "slika": null
     }
   ]
