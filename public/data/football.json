@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-22T17:42:05.362747+00:00",
-  "azurirano_sr": "22. 04. 2026. у 19:42",
+  "azurirano": "2026-04-22T18:44:49.170495+00:00",
+  "azurirano_sr": "22. 04. 2026. у 20:44",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Nemački fudbaler Serž Gnabri zbog povrede propušta Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/246780/nemacki-fudbaler-serz-gnabri-zbog-povrede-propusta-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 04. 2026. у 20:08",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Zemuna pobedili Mačvu i obezbedili plasman u Superligu Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/246775/fudbaleri-zemuna-pobedili-macvu-i-obezbedili-plasman-u-superligu-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 04. 2026. у 19:45",
+      "slika": null
+    },
+    {
+      "naslov": "Blagojević: Nismo došli da igramo defanzivno; Tanjga: Ništa ne zameram igračima",
+      "url": "https://www.tanjug.rs/sport/fudbal/246772/blagojevic-nismo-dosli-da-igramo-defanzivno-tanjga-nista-ne-zameram-igracima/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 04. 2026. у 19:31",
+      "slika": null
+    },
+    {
       "naslov": "Iranska reprezentacija spremna za učešće na Svetskom prvenstvu u fudbalu",
       "url": "https://www.tanjug.rs/sport/fudbal/246769/iranska-reprezentacija-spremna-za-ucesce-na-svetskom-prvenstvu-u-fudbalu/vest",
       "izvor": "Танјуг",
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Radnika pobedili Novi Pazar u plej-ofu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/246765/fudbaleri-radnika-pobedili-novi-pazar-u-plej-ofu-superlige-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 04. 2026. у 19:19",
-      "slika": null
-    },
-    {
-      "naslov": "Remi u Novom Sadu, fudbaleri Vojvodine i Partizana odigrali bez golova",
-      "url": "https://www.tanjug.rs/sport/fudbal/246761/remi-u-novom-sadu-fudbaleri-vojvodine-i-partizana-odigrali-bez-golova/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 04. 2026. у 19:11",
-      "slika": null
-    },
-    {
-      "naslov": "Lijam Rosenior nije više menadžer Čelsija",
-      "url": "https://www.tanjug.rs/sport/fudbal/246756/lijam-rosenior-nije-vise-menadzer-celsija/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 04. 2026. у 18:46",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda primila gol u meču za titulu",
+      "naslov": "Zvezda izjednačila – nedostaje joj gol za titulu",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227147/uzivo-zeleznicar-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "22. 04. 2026. у 19:38",
+      "datum": "22. 04. 2026. у 20:36",
       "slika": null
     },
     {
-      "naslov": "Blagojević: &quot;Nismo došli sa namerom da igramo nerešeno&quot;; Tanjga: &quot;Partizan došao da se brani&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227162/srdjan-blagojevic-i-miroslav-tanjga-izjave-posle-derbija-2-kola-plej-ofa-superlige/vest",
+      "naslov": "Dosadno na Karaburmi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227187/dosadno-na-karaburmi/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "22. 04. 2026. у 19:05",
+      "datum": "22. 04. 2026. у 20:32",
       "slika": null
     }
   ]
