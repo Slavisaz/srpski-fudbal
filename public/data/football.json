@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-22T12:47:11.510787+00:00",
-  "azurirano_sr": "22. 04. 2026. у 14:47",
+  "azurirano": "2026-04-22T14:23:31.812666+00:00",
+  "azurirano_sr": "22. 04. 2026. у 16:23",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Vojvodina čeka Partizan – okršaj za drugo mesto",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227114/plej-of-superlige-srbije-2-kolo-vojvodina-partizan-uzivo-prenos-gde-gledati/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 04. 2026. у 16:00",
+      "slika": null
+    },
+    {
       "naslov": "Reakcija FK Partizan: &quot;Netačno i tendenciozno&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227052/partizan-nije-bio-obavesten-o-dolasku-trampovog-izaslanika/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 04. 2026. у 13:32",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezdi stižu milioni – ponude već na stolu?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/226782/zvezda-dobila-ponude-za-enema-vredne-i-do-10-miliona-evra/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 04. 2026. у 22:17",
       "slika": null
     }
   ]
