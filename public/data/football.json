@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-23T09:01:52.279899+00:00",
-  "azurirano_sr": "23. 04. 2026. у 11:01",
+  "azurirano": "2026-04-23T10:25:51.080237+00:00",
+  "azurirano_sr": "23. 04. 2026. у 12:25",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ronaldo kolo vodi u prvenstvu, krah u Ligi šampiona: Uteha za Sergeja i Inzagija je King kup",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ronaldo-kolo-vodi-u-prvenstvu-krah-u-ligi-sampiona-uteha-za-sergeja-i-inzagija-je-king-kup/541964",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 13:50",
+      "slika": null
+    },
+    {
+      "naslov": "Liga šampiona znači i veliki šoping na Old Trafordu: U planu najmanje četiri pojačanja, za vezni red u opticaju osam imena",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/liga-sampiona-znaci-i-veliki-soping-na-old-trafordu-u-planu-najmanje-cetiri-pojacanja-za-vezni-red-u-opticaju-osam-imena/541962",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 13:50",
+      "slika": null
+    },
     {
       "naslov": "Štutgart na kecu, a TSC na dvojci uz najveće kvote na svetu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/stutgart-na-kecu-a-tsc-na-dvojci-uz-najvece-kvote-na-svetu/541954",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "PRELAZZI: Lester Harčester junajted",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-lester-harcester-junajted/541941",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 04. 2026. у 10:47",
-      "slika": null
-    },
-    {
-      "naslov": "NAJAVA DANA (četvrtak, 23. april): Kupovi Nemačke i Turske, Primera i Mozzart Bet Superliga",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-cetvrtak-23-april-kupovi-nemacke-i-turske-primera-i-mozzart-bet-superliga/541891",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 04. 2026. у 10:09",
+      "naslov": "FK Vojvodina: Besplatan ulaz na meč protiv Železničara u plej-ofu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/246893/fk-vojvodina-besplatan-ulaz-na-mec-protiv-zeleznicara-u-plej-ofu-superlige-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 04. 2026. у 10:58",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/246818/fudbaleri-nice-savladali-strazbur-i-plasirali-se-u-finale-kupa-francuske/vest",
       "izvor": "Танјуг",
       "datum": "22. 04. 2026. у 23:19",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Mančester sitija pobedili Barnli i preuzeli prvo mesto u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/246816/fudbaleri-mancester-sitija-pobedili-barnli-i-preuzeli-prvo-mesto-u-premijer-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 04. 2026. у 23:08",
       "slika": null
     },
     {
