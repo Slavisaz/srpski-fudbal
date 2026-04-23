@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-23T10:25:51.080237+00:00",
-  "azurirano_sr": "23. 04. 2026. у 12:25",
+  "azurirano": "2026-04-23T11:36:38.577407+00:00",
+  "azurirano_sr": "23. 04. 2026. у 13:36",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nije se Šerif proslavio posle Zvezde",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nije-se-serif-proslavio-posle-zvezde/541972",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 15:00",
+      "slika": null
+    },
+    {
+      "naslov": "Nikoga ne iznenađuju spekulacije o pozivu Real Madrida, pa ni samog Sebastijana Henesa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nikoga-ne-iznenauju-spekulacije-o-pozivu-real-madrida-pa-ni-samog-sebastijana-henesa/541970",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 14:50",
+      "slika": null
+    },
     {
       "naslov": "Ronaldo kolo vodi u prvenstvu, krah u Ligi šampiona: Uteha za Sergeja i Inzagija je King kup",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ronaldo-kolo-vodi-u-prvenstvu-krah-u-ligi-sampiona-uteha-za-sergeja-i-inzagija-je-king-kup/541964",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/liga-sampiona-znaci-i-veliki-soping-na-old-trafordu-u-planu-najmanje-cetiri-pojacanja-za-vezni-red-u-opticaju-osam-imena/541962",
       "izvor": "Мозарт Спорт",
       "datum": "23. 04. 2026. у 13:50",
-      "slika": null
-    },
-    {
-      "naslov": "Štutgart na kecu, a TSC na dvojci uz najveće kvote na svetu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/stutgart-na-kecu-a-tsc-na-dvojci-uz-najvece-kvote-na-svetu/541954",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 04. 2026. у 12:18",
-      "slika": null
-    },
-    {
-      "naslov": "Rajo Valjekano između evropskog sna i straha od Segunde",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rajo-valjekano-izmeu-evropskog-sna-i-straha-od-segunde/541944",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 04. 2026. у 11:14",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "VAR analiza: Četiri sporne situacije – nema oštećenih VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227353/var-analiza-cetiri-sporne-situacije-nema-ostecenih-video/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "23. 04. 2026. у 12:56",
+      "slika": null
+    },
+    {
       "naslov": "Stanković: &quot;Ovo je trebalo da bude sveti dan – ispoštuj taj DNK Zvezde; To mi je zasmetalo&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227200/stankovic-ovo-je-trebalo-da-bude-sveti-dan-ispostuj-taj-dnk-zvezde-to-mi-je-zasmetalo/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 04. 2026. у 21:18",
-      "slika": null
-    },
-    {
-      "naslov": "Egal Zvezde u Pančevu – protiv Partizana za overu titule",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227147/uzivo-zeleznicar-crvena-zvezda/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 04. 2026. у 21:08",
       "slika": null
     }
   ]
