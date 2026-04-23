@@ -1,34 +1,34 @@
 {
-  "azurirano": "2026-04-23T05:16:19.070870+00:00",
-  "azurirano_sr": "23. 04. 2026. у 07:16",
+  "azurirano": "2026-04-23T07:10:50.970712+00:00",
+  "azurirano_sr": "23. 04. 2026. у 09:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "PRELAZZI: Lester Harčester junajted",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-lester-harcester-junajted/541941",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 10:47",
+      "slika": null
+    },
+    {
+      "naslov": "NAJAVA DANA (četvrtak, 23. april): Kupovi Nemačke i Turske, Primera i Mozzart Bet Superliga",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-cetvrtak-23-april-kupovi-nemacke-i-turske-primera-i-mozzart-bet-superliga/541891",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 10:09",
+      "slika": null
+    },
+    {
+      "naslov": "Rezzime jučerašnjeg dana (sreda): Galatino skupoceno klizanje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-jucerasnjeg-dana-sreda-galatino-skupoceno-klizanje/541933",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 10:08",
+      "slika": null
+    },
     {
       "naslov": "Jesenas u Ređani, večeras u finalu Kupa Italije: Mota odbranio četiri penala i doveo Lacio nadomak trofeja",
       "url": "https://www.mozzartsport.com/fudbal/vesti/jesenas-u-reani-veceras-u-finalu-kupa-italije-mota-odbranio-cetiri-penala-i-doveo-lacio-nadomak-trofeja/541930",
       "izvor": "Мозарт Спорт",
       "datum": "23. 04. 2026. у 02:04",
-      "slika": null
-    },
-    {
-      "naslov": "Rezzime dana (sreda): Iznenađenja u kup takmičenjima, \"Žile\" ovog puta izneverio",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-sreda-iznenaenja-u-kup-takmicenjima-zile-ovog-puta-izneverio/541924",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 04. 2026. у 01:56",
-      "slika": null
-    },
-    {
-      "naslov": "Da li je ovo Barsin najskuplji penal? Jamal dao gol, pa pao kao pokošen (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/da-li-je-ovo-barsin-najskuplji-penal-jamal-dao-gol-pa-pao-kao-pokosen-video/541929",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 04. 2026. у 01:34",
-      "slika": null
-    },
-    {
-      "naslov": "Skupocene zvezde Tigrova u grčevitoj borbi za plej-of",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/skupocene-zvezde-tigrova-u-grcevitoj-borbi-za-plejof/541896",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 04. 2026. у 01:16",
       "slika": null
     },
     {
