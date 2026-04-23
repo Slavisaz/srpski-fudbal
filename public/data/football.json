@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-23T07:10:50.970712+00:00",
-  "azurirano_sr": "23. 04. 2026. у 09:10",
+  "azurirano": "2026-04-23T09:01:52.279899+00:00",
+  "azurirano_sr": "23. 04. 2026. у 11:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Štutgart na kecu, a TSC na dvojci uz najveće kvote na svetu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stutgart-na-kecu-a-tsc-na-dvojci-uz-najvece-kvote-na-svetu/541954",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 12:18",
+      "slika": null
+    },
+    {
+      "naslov": "Rajo Valjekano između evropskog sna i straha od Segunde",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rajo-valjekano-izmeu-evropskog-sna-i-straha-od-segunde/541944",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 11:14",
+      "slika": null
+    },
     {
       "naslov": "PRELAZZI: Lester Harčester junajted",
       "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-lester-harcester-junajted/541941",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-cetvrtak-23-april-kupovi-nemacke-i-turske-primera-i-mozzart-bet-superliga/541891",
       "izvor": "Мозарт Спорт",
       "datum": "23. 04. 2026. у 10:09",
-      "slika": null
-    },
-    {
-      "naslov": "Rezzime jučerašnjeg dana (sreda): Galatino skupoceno klizanje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-jucerasnjeg-dana-sreda-galatino-skupoceno-klizanje/541933",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 04. 2026. у 10:08",
-      "slika": null
-    },
-    {
-      "naslov": "Jesenas u Ređani, večeras u finalu Kupa Italije: Mota odbranio četiri penala i doveo Lacio nadomak trofeja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jesenas-u-reani-veceras-u-finalu-kupa-italije-mota-odbranio-cetiri-penala-i-doveo-lacio-nadomak-trofeja/541930",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 04. 2026. у 02:04",
       "slika": null
     },
     {
