@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-23T19:56:00.586007+00:00",
-  "azurirano_sr": "23. 04. 2026. у 21:56",
+  "azurirano": "2026-04-23T20:43:53.627420+00:00",
+  "azurirano_sr": "23. 04. 2026. у 22:43",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Plej-aut: Fudbaleri TSC-a pobedili u Subotici, Spartak ispao posle 17 godina",
+      "url": "https://www.tanjug.rs/sport/fudbal/247107/plej-aut-fudbaleri-tsc-a-pobedili-u-subotici-spartak-ispao-posle-17-godina/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 04. 2026. у 22:03",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri katarskog Al Rajana osvojili regionalni Kup šampiona, Aleksandar Mitrović strelac",
       "url": "https://www.tanjug.rs/sport/fudbal/247097/fudbaleri-katarskog-al-rajana-osvojili-regionalni-kup-sampiona-aleksandar-mitrovic-strelac/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Barselone Lamin Jamal zbog povrede neće igrati do kraja sezone",
-      "url": "https://www.tanjug.rs/sport/fudbal/246992/fudbaler-barselone-lamin-jamal-zbog-povrede-nece-igrati-do-kraja-sezone/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 04. 2026. у 14:20",
+      "naslov": "TSC preokretom do pobede – Spartak zvanično prvoligaš VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227519/tsc-preokretom-do-pobede-spartak-zvanicno-prvoligas-video/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "23. 04. 2026. у 21:58",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227423/napredak-vratio-bivseg-golgetera/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "23. 04. 2026. у 20:50",
-      "slika": null
-    },
-    {
-      "naslov": "Džokeri IMT-a doneli bodove iz Kruševca",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227495/dzokeri-imt-a-doneli-bodove-iz-krusevca/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 04. 2026. у 19:54",
       "slika": null
     }
   ]
