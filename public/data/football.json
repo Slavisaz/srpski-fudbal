@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-23T18:46:13.489436+00:00",
-  "azurirano_sr": "23. 04. 2026. у 20:46",
+  "azurirano": "2026-04-23T19:56:00.586007+00:00",
+  "azurirano_sr": "23. 04. 2026. у 21:56",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Šerif Endijaje \"žrtva\" inercije: Koleno u lice Onani i crveni karton (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/serif-endijaje-zrtva-inercije-koleno-u-lice-onani-i-crveni-karton-video/542005",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 22:46",
+      "slika": null
+    },
     {
       "naslov": "FIFA ima plan B: Iranovo mesto će kupiti jedan od najvećih neprijatelja?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/fifa-ima-plan-b-iranovo-mesto-ce-kupiti-jedan-od-najvecih-neprijatelja/542006",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Rendžers hoće da otkupi Đigu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rendzers-hoce-da-otkupi-igu/541986",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 04. 2026. у 18:04",
+      "naslov": "Fudbaleri katarskog Al Rajana osvojili regionalni Kup šampiona, Aleksandar Mitrović strelac",
+      "url": "https://www.tanjug.rs/sport/fudbal/247097/fudbaleri-katarskog-al-rajana-osvojili-regionalni-kup-sampiona-aleksandar-mitrovic-strelac/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 04. 2026. у 20:57",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Škotski fudbaler Džejms Forest produžio ugovor sa Seltikom",
-      "url": "https://www.tanjug.rs/sport/fudbal/246983/skotski-fudbaler-dzejms-forest-produzio-ugovor-sa-seltikom/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 04. 2026. у 13:55",
+      "naslov": "Napredak vratio bivšeg golgetera",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227423/napredak-vratio-bivseg-golgetera/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "23. 04. 2026. у 20:50",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227495/dzokeri-imt-a-doneli-bodove-iz-krusevca/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "23. 04. 2026. у 19:54",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina objavila novi potpis FOTO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227478/vukasin-davidov-prvi-profesionalni-ugovor-sa-fk-vojvodina/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 04. 2026. у 19:06",
       "slika": null
     }
   ]
