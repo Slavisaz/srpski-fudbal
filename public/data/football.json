@@ -1,34 +1,34 @@
 {
-  "azurirano": "2026-04-23T14:23:38.803333+00:00",
-  "azurirano_sr": "23. 04. 2026. у 16:23",
+  "azurirano": "2026-04-23T16:14:05.715728+00:00",
+  "azurirano_sr": "23. 04. 2026. у 18:14",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Veljko Simić – najbolje uloženih 450.000 evra u istoriji kluba",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/veljko-simic-najbolje-ulozenih-450000-evra-u-istoriji-kluba/541994",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 19:31",
+      "slika": null
+    },
+    {
+      "naslov": "Zimus rekorder, a ekspresno napušta Poljsku: Bukari može da ide za 3.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zimus-rekorder-a-ekspresno-napusta-poljsku-bukari-moze-da-ide-za-3000000-evra/541992",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 19:09",
+      "slika": null
+    },
+    {
+      "naslov": "Rendžers hoće da otkupi Đigu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rendzers-hoce-da-otkupi-igu/541986",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 18:04",
+      "slika": null
+    },
     {
       "naslov": "Ikona Reala: Pokušao sam da dovedem Salaha iz Liverpula, voleo bih da ga vidim u Madridu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ikona-reala-pokusao-sam-da-dovedem-salaha-iz-liverpula-voleo-bih-da-ga-vidim-u-madridu/541980",
       "izvor": "Мозарт Спорт",
       "datum": "23. 04. 2026. у 16:17",
-      "slika": null
-    },
-    {
-      "naslov": "Šta se to dešava u Portugaliji: Drugoligaš protiv trećeligaša za finale kupa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sta-se-to-desava-u-portugaliji-drugoligas-protiv-treceligasa-za-finale-kupa/541978",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 04. 2026. у 16:07",
-      "slika": null
-    },
-    {
-      "naslov": "Nije se Šerif proslavio posle Zvezde",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nije-se-serif-proslavio-posle-zvezde/541972",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 04. 2026. у 15:00",
-      "slika": null
-    },
-    {
-      "naslov": "Nikoga ne iznenađuju spekulacije o pozivu Real Madrida, pa ni samog Sebastijana Henesa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nikoga-ne-iznenauju-spekulacije-o-pozivu-real-madrida-pa-ni-samog-sebastijana-henesa/541970",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 04. 2026. у 14:50",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Dao golčinu Zvezdi, pa poručio: &quot;Vežbao sam za ovo&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227354/silvester-dzasper-i-aleksa-kuljanin-posle-meca-zeleznicar-crvena-zvezda/vest",
+      "naslov": "&quot;Pucalo&quot; na sve strane u Nišu – Radnički konačno slavio VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227453/radnicki-nis-slavio-protiv-javora-u-goleadi/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 04. 2026. у 14:30",
+      "datum": "23. 04. 2026. у 17:59",
       "slika": null
     },
     {
-      "naslov": "VAR analiza: Četiri sporne situacije – nema oštećenih VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227353/var-analiza-cetiri-sporne-situacije-nema-ostecenih-video/vest",
+      "naslov": "Ugrešić blizu Italije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227419/ognjen-ugresic-se-seli-u-seriju-a/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 04. 2026. у 12:56",
+      "datum": "23. 04. 2026. у 17:16",
       "slika": null
     }
   ]
