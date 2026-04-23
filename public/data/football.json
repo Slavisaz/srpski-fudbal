@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-23T17:45:49.654444+00:00",
-  "azurirano_sr": "23. 04. 2026. у 19:45",
+  "azurirano": "2026-04-23T18:46:13.489436+00:00",
+  "azurirano_sr": "23. 04. 2026. у 20:46",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "FIFA ima plan B: Iranovo mesto će kupiti jedan od najvećih neprijatelja?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fifa-ima-plan-b-iranovo-mesto-ce-kupiti-jedan-od-najvecih-neprijatelja/542006",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 04. 2026. у 22:23",
+      "slika": null
+    },
     {
       "naslov": "Veljko Simić – najbolje uloženih 450.000 evra u istoriji kluba",
       "url": "https://www.mozzartsport.com/fudbal/vesti/veljko-simic-najbolje-ulozenih-450000-evra-u-istoriji-kluba/541994",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/rendzers-hoce-da-otkupi-igu/541986",
       "izvor": "Мозарт Спорт",
       "datum": "23. 04. 2026. у 18:04",
-      "slika": null
-    },
-    {
-      "naslov": "Ikona Reala: Pokušao sam da dovedem Salaha iz Liverpula, voleo bih da ga vidim u Madridu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ikona-reala-pokusao-sam-da-dovedem-salaha-iz-liverpula-voleo-bih-da-ga-vidim-u-madridu/541980",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 04. 2026. у 16:17",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Džokeri IMT-a doneli bodove iz Kruševca",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227495/dzokeri-imt-a-doneli-bodove-iz-krusevca/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "23. 04. 2026. у 19:54",
+      "slika": null
+    },
+    {
       "naslov": "Vojvodina objavila novi potpis FOTO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227478/vukasin-davidov-prvi-profesionalni-ugovor-sa-fk-vojvodina/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "23. 04. 2026. у 19:06",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Pucalo&quot; na sve strane u Nišu – Radnički konačno slavio VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227453/radnicki-nis-slavio-protiv-javora-u-goleadi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 04. 2026. у 17:59",
       "slika": null
     }
   ]
