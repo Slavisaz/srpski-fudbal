@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-24T18:52:34.179585+00:00",
-  "azurirano_sr": "24. 04. 2026. у 20:52",
+  "azurirano": "2026-04-24T19:40:52.642366+00:00",
+  "azurirano_sr": "24. 04. 2026. у 21:40",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Prvo Hakan Šukur, a sada i bivši igrač Rome: Još jedan vrhunski fudbaler vozi Uber",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prvo-hakan-sukur-a-sada-i-bivsi-igrac-rome-jos-jedan-vrhunski-fudbaler-vozi-uber/542090",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 04. 2026. у 23:09",
+      "slika": null
+    },
     {
       "naslov": "Pošteni Pep: Ulaznice za Mundijal su tako skupe, nekad je Svetsko prvenstvo bilo slavlje fudbala",
       "url": "https://www.mozzartsport.com/fudbal/vesti/posteni-pep-ulaznice-za-mundijal-su-tako-skupe-nekad-je-svetsko-prvenstvo-bilo-slavlje-fudbala/542085",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/nisu-majmunski-krici-nego-homofobija-prestijani-moze-da-se-oprosti-od-evropskog-fudbala-do-2027/542077",
       "izvor": "Мозарт Спорт",
       "datum": "24. 04. 2026. у 19:55",
-      "slika": null
-    },
-    {
-      "naslov": "Šansa za direktnu promociju Milvola u Premijer ligu nije velika, ali dok postoji...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sansa-za-direktnu-promociju-milvola-u-premijer-ligu-nije-velika-ali-dok-postoji/542063",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 04. 2026. у 15:35",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Predsednik Zvezde najavljuje derbi: Verujemo da smo u ovom trenutku bolji",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227846/predsednik-zvezde-najavljuje-derbi-verujemo-da-smo-u-ovom-trenutku-bolji/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 04. 2026. у 19:50",
+      "slika": null
+    },
+    {
       "naslov": "Partizan dobio UEFA licencu",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227776/partizan-dobio-uefa-licencu-za-202627-sezonu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "24. 04. 2026. у 16:40",
-      "slika": null
-    },
-    {
-      "naslov": "Poznato ko deli pravdu na 179. &quot;večitom&quot; derbiju",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227648/milos-milanovic-sudija-na-179-vecitom-derbiju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "24. 04. 2026. у 11:33",
       "slika": null
     }
   ]
