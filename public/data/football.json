@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-24T14:03:34.904456+00:00",
-  "azurirano_sr": "24. 04. 2026. у 16:03",
+  "azurirano": "2026-04-24T15:16:52.299212+00:00",
+  "azurirano_sr": "24. 04. 2026. у 17:16",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "FSS: Zvezda, Partizan, Vojvodina, Železničar dobili licence za UEFA takmičenja",
+      "url": "https://www.tanjug.rs/sport/fudbal/247287/fss-zvezda-partizan-vojvodina-zeleznicar-dobili-licence-za-uefa-takmicenja/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 04. 2026. у 16:51",
+      "slika": null
+    },
+    {
+      "naslov": "UEFA suspendovala Prestijanija na tri utakmice zbog diskriminatornog ponašanja",
+      "url": "https://www.tanjug.rs/sport/fudbal/247277/uefa-suspendovala-prestijanija-na-tri-utakmice-zbog-diskriminatornog-ponasanja/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 04. 2026. у 16:10",
+      "slika": null
+    },
+    {
       "naslov": "Dušan Savić: Najlepše je da osvojimo titulu pobedom u derbiju protiv Partizana",
       "url": "https://www.tanjug.rs/sport/fudbal/247254/dusan-savic-najlepse-je-da-osvojimo-titulu-pobedom-u-derbiju-protiv-partizana/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Mladi fudbaler Filip Matijašević na kraju sezone prelazi iz Čukaričkog u Salcburg",
-      "url": "https://www.tanjug.rs/sport/fudbal/247185/mladi-fudbaler-filip-matijasevic-na-kraju-sezone-prelazi-iz-cukarickog-u-salcburg/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 04. 2026. у 11:05",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Štutgarta u 120. minutu do pobede protiv Frajburga za finale Kupa Nemačke",
-      "url": "https://www.tanjug.rs/sport/fudbal/247116/fudbaleri-stutgarta-u-120-minutu-do-pobede-protiv-frajburga-za-finale-kupa-nemacke/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 04. 2026. у 23:34",
+      "naslov": "Partizan dobio UEFA licencu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227776/partizan-dobio-uefa-licencu-za-202627-sezonu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 04. 2026. у 16:40",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227648/milos-milanovic-sudija-na-179-vecitom-derbiju/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "24. 04. 2026. у 11:33",
-      "slika": null
-    },
-    {
-      "naslov": "Savić: &quot;Zvezdaši vole što se tako završilo u Pančevu, a i ja&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227603/savic-zvezdasi-vole-sto-se-tako-zavrsilo-u-pancevu-a-i-ja-video/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "24. 04. 2026. у 09:48",
       "slika": null
     }
   ]
