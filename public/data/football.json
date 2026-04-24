@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-24T21:12:49.838578+00:00",
-  "azurirano_sr": "24. 04. 2026. у 23:12",
+  "azurirano": "2026-04-24T22:02:07.961744+00:00",
+  "azurirano_sr": "25. 04. 2026. у 00:02",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Notingem Foresta \"petardom\" u Sanderlendu bliži opstanku u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/247361/fudbaleri-notingem-foresta-petardom-u-sanderlendu-blizi-opstanku-u-premijer-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 04. 2026. у 23:14",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Reala u 94. minutu ostali bez pobede protiv Betisa u Sevilji",
+      "url": "https://www.tanjug.rs/sport/fudbal/247359/fudbaleri-reala-u-94-minutu-ostali-bez-pobede-protiv-betisa-u-sevilji/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 04. 2026. у 23:06",
+      "slika": null
+    },
+    {
       "naslov": "FSS: Zvezda, Partizan, Vojvodina, Železničar dobili licence za UEFA takmičenja",
       "url": "https://www.tanjug.rs/sport/fudbal/247287/fss-zvezda-partizan-vojvodina-zeleznicar-dobili-licence-za-uefa-takmicenja/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/247277/uefa-suspendovala-prestijanija-na-tri-utakmice-zbog-diskriminatornog-ponasanja/vest",
       "izvor": "Танјуг",
       "datum": "24. 04. 2026. у 16:10",
-      "slika": null
-    },
-    {
-      "naslov": "Dušan Savić: Najlepše je da osvojimo titulu pobedom u derbiju protiv Partizana",
-      "url": "https://www.tanjug.rs/sport/fudbal/247254/dusan-savic-najlepse-je-da-osvojimo-titulu-pobedom-u-derbiju-protiv-partizana/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 04. 2026. у 14:55",
-      "slika": null
-    },
-    {
-      "naslov": "FK Partizan: Počela prodaja ulaznica za 179. večiti derbi",
-      "url": "https://www.tanjug.rs/sport/fudbal/247201/fk-partizan-pocela-prodaja-ulaznica-za-179-veciti-derbi/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 04. 2026. у 11:45",
       "slika": null
     },
     {
