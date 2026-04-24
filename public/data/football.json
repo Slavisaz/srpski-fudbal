@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-24T08:30:55.630599+00:00",
-  "azurirano_sr": "24. 04. 2026. у 10:30",
+  "azurirano": "2026-04-24T10:06:55.008914+00:00",
+  "azurirano_sr": "24. 04. 2026. у 12:06",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Mladi fudbaler Filip Matijašević na kraju sezone prelazi iz Čukaričkog u Salcburg",
+      "url": "https://www.tanjug.rs/sport/fudbal/247185/mladi-fudbaler-filip-matijasevic-na-kraju-sezone-prelazi-iz-cukarickog-u-salcburg/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 04. 2026. у 11:05",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Štutgarta u 120. minutu do pobede protiv Frajburga za finale Kupa Nemačke",
       "url": "https://www.tanjug.rs/sport/fudbal/247116/fudbaleri-stutgarta-u-120-minutu-do-pobede-protiv-frajburga-za-finale-kupa-nemacke/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Zvezdino iznenađenje za mlade navijače: Ponesi crtež na derbi i zakorači na Marakanu",
-      "url": "https://www.tanjug.rs/sport/fudbal/247014/zvezdino-iznenadenje-za-mlade-navijace-ponesi-crtez-na-derbi-i-zakoraci-na-marakanu/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 04. 2026. у 15:06",
+      "naslov": "Poznato ko deli pravdu na 179. &quot;večitom&quot; derbiju",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227648/milos-milanovic-sudija-na-179-vecitom-derbiju/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 04. 2026. у 11:33",
       "slika": null
     },
     {
-      "naslov": "Savić: &quot;Zvezdaši vole što se tako završilo u Pančevu, a i ja&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227603/savic-zvezdasi-vole-sto-se-tako-zavrsilo-u-pancevu-a-i-ja/vest",
+      "naslov": "Savić: &quot;Zvezdaši vole što se tako završilo u Pančevu, a i ja&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227603/savic-zvezdasi-vole-sto-se-tako-zavrsilo-u-pancevu-a-i-ja-video/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "24. 04. 2026. у 09:48",
-      "slika": null
-    },
-    {
-      "naslov": "TSC preokretom do pobede – Spartak zvanično prvoligaš VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227519/tsc-preokretom-do-pobede-spartak-zvanicno-prvoligas-video/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 04. 2026. у 21:58",
       "slika": null
     }
   ]
