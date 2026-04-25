@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-25T17:53:25.936765+00:00",
-  "azurirano_sr": "25. 04. 2026. у 19:53",
+  "azurirano": "2026-04-25T18:30:51.562928+00:00",
+  "azurirano_sr": "25. 04. 2026. у 20:30",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Popodnevna dremka, pa burna završnica: Siti bio na konopcima, ali ga je Niko lansirao u finale FA kupa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/popodnevna-dremka-pa-burna-zavrsnica-siti-bio-na-konopcima-ali-ga-je-niko-lansirao-u-finale-fa-kupa/542173",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 04. 2026. у 22:17",
+      "slika": null
+    },
     {
       "naslov": "Dejo o nekadašnjem i modernom fudbalu: Danas bi Maradona i Savićević bili mnogo zaštićeniji",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dejo-o-nekadasnjem-i-modernom-fudbalu-danas-bi-maradona-i-savicevic-bili-mnogo-zasticeniji/542172",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Pep neće da rizikuje, Siti bez Rodrija na Vembliju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pep-nece-da-rizikuje-siti-bez-rodrija-na-vembliju/542149",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 04. 2026. у 16:07",
+      "naslov": "Preokret fudbalera Mančester Sitija protiv Sautemptona za finale FA kupa",
+      "url": "https://www.tanjug.rs/sport/fudbal/247516/preokret-fudbalera-mancester-sitija-protiv-sautemptona-za-finale-fa-kupa/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 04. 2026. у 20:12",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/247478/stankovic-jedan-detalj-moze-da-odluci-derbi-zelimo-da-obezbedimo-titulu/vest",
       "izvor": "Танјуг",
       "datum": "25. 04. 2026. у 15:43",
-      "slika": null
-    },
-    {
-      "naslov": "FK Crvena zvezda: Fan zona za najmlađe navijače pred 179. večiti derbi",
-      "url": "https://www.tanjug.rs/sport/fudbal/247446/fk-crvena-zvezda-fan-zona-za-najmlade-navijace-pred-179-veciti-derbi/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 04. 2026. у 12:44",
       "slika": null
     },
     {
