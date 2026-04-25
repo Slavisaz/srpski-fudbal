@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-25T10:25:54.422514+00:00",
-  "azurirano_sr": "25. 04. 2026. у 12:25",
+  "azurirano": "2026-04-25T11:09:01.687104+00:00",
+  "azurirano_sr": "25. 04. 2026. у 13:09",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "FK Crvena zvezda: Fan zona za najmlađe navijače pred 179. večiti derbi",
+      "url": "https://www.tanjug.rs/sport/fudbal/247446/fk-crvena-zvezda-fan-zona-za-najmlade-navijace-pred-179-veciti-derbi/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 04. 2026. у 12:44",
+      "slika": null
+    },
+    {
       "naslov": "Srđan Blagojević: Zvezda je favorit, ali želimo da osvojimo sva tri boda",
       "url": "https://www.tanjug.rs/sport/fudbal/247427/srdan-blagojevic-zvezda-je-favorit-ali-zelimo-da-osvojimo-sva-tri-boda/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Reala u 94. minutu ostali bez pobede protiv Betisa u Sevilji",
-      "url": "https://www.tanjug.rs/sport/fudbal/247359/fudbaleri-reala-u-94-minutu-ostali-bez-pobede-protiv-betisa-u-sevilji/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 04. 2026. у 23:06",
+      "naslov": "Stanković i Makević rešili derbi – Teleoptik &quot;gazi&quot; ka Prvog ligi Srbije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227968/stankovic-i-makevic-resili-derbi-teleoptik-gazi-ka-prvog-ligi-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 04. 2026. у 12:50",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227953/mrkela-zvezda-se-sprema-da-svake-sezone-bude-jaca-nego-prethodne-video/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 04. 2026. у 12:15",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda čeka novac od štopera",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227941/crvena-zvezda-prodaje-stefana-lekovica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 04. 2026. у 11:44",
       "slika": null
     }
   ]
