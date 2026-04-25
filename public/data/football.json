@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-25T16:26:18.267908+00:00",
-  "azurirano_sr": "25. 04. 2026. у 18:26",
+  "azurirano": "2026-04-25T17:06:13.092918+00:00",
+  "azurirano_sr": "25. 04. 2026. у 19:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dejo o nekadašnjem i modernom fudbalu: Danas bi Maradona i Savićević bili mnogo zaštićeniji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dejo-o-nekadasnjem-i-modernom-fudbalu-danas-bi-maradona-i-savicevic-bili-mnogo-zasticeniji/542172",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 04. 2026. у 20:45",
+      "slika": null
+    },
     {
       "naslov": "Žurka je u Ročdejlu, after je u Jorku: Neviđeno ludilo u petom rangu engleskog fudbala (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zurka-je-u-rocdejlu-after-je-u-jorku-nevieno-ludilo-u-petom-rangu-engleskog-fudbala-video/542165",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Tumba čeka pehar na stogodišnjicu crno-belih",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tumba-ceka-pehar-na-stogodisnjicu-crnobelih/542147",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 04. 2026. у 15:58",
+      "naslov": "Fudbaleri Barselone pobedom protiv Hetafea stigli nadomak nove titule",
+      "url": "https://www.tanjug.rs/sport/fudbal/247503/fudbaleri-barselone-pobedom-protiv-hetafea-stigli-nadomak-nove-titule/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 04. 2026. у 18:17",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Srđan Blagojević: Zvezda je favorit, ali želimo da osvojimo sva tri boda",
-      "url": "https://www.tanjug.rs/sport/fudbal/247427/srdan-blagojevic-zvezda-je-favorit-ali-zelimo-da-osvojimo-sva-tri-boda/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 04. 2026. у 11:20",
+      "naslov": "&quot;Vojvodina posle Zvezde najbolji tim u Srbiji&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228030/kokovic-pred-vojvodinu-najbolji-tim-u-srbiji-posle-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 04. 2026. у 18:29",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227978/konferencija-dejana-stankovic-pred-179-derbi-protiv-partizana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 04. 2026. у 15:12",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković i Makević rešili derbi – Teleoptik &quot;gazi&quot; ka Prvog ligi Srbije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227968/stankovic-i-makevic-resili-derbi-teleoptik-gazi-ka-prvog-ligi-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 04. 2026. у 12:50",
       "slika": null
     }
   ]
