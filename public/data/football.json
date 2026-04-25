@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-25T12:31:18.062260+00:00",
-  "azurirano_sr": "25. 04. 2026. у 14:31",
+  "azurirano": "2026-04-25T13:45:18.317508+00:00",
+  "azurirano_sr": "25. 04. 2026. у 15:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Najveća senzacija azijskog fudbala: Od sedme lige do finala Lige šampiona",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najveca-senzacija-azijskog-fudbala-od-sedme-lige-do-finala-lige-sampiona/542151",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 04. 2026. у 16:20",
+      "slika": null
+    },
     {
       "naslov": "Pep neće da rizikuje, Siti bez Rodrija na Vembliju",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pep-nece-da-rizikuje-siti-bez-rodrija-na-vembliju/542149",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdi-jos-jedno-milionce/542132",
       "izvor": "Мозарт Спорт",
       "datum": "25. 04. 2026. у 13:50",
-      "slika": null
-    },
-    {
-      "naslov": "Filip Matijašević: Otac najveći kritičar, nikad me nije gurao! Mama plače zbog transfera, braća su srećna",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/filip-matijasevic-otac-najveci-kriticar-nikad-me-nije-gurao-mama-place-zbog-transfera-braca-su-srecna/542126",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 04. 2026. у 12:50",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Stanković pred derbi: &quot;To je mač sa dve oštrice&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227978/konferencija-dejana-stankovic-pred-179-derbi-protiv-partizana/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 04. 2026. у 15:12",
+      "slika": null
+    },
+    {
       "naslov": "Stanković i Makević rešili derbi – Teleoptik &quot;gazi&quot; ka Prvog ligi Srbije",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227968/stankovic-i-makevic-resili-derbi-teleoptik-gazi-ka-prvog-ligi-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 04. 2026. у 12:50",
-      "slika": null
-    },
-    {
-      "naslov": "Mrkela: &quot;Zvezda se sprema da svake sezone bude jača nego prethodne&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227953/mrkela-zvezda-se-sprema-da-svake-sezone-bude-jaca-nego-prethodne-video/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 04. 2026. у 12:15",
       "slika": null
     }
   ]
