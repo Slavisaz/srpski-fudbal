@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-25T20:42:38.642297+00:00",
-  "azurirano_sr": "25. 04. 2026. у 22:42",
+  "azurirano": "2026-04-25T21:20:38.188311+00:00",
+  "azurirano_sr": "25. 04. 2026. у 23:20",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Evropa na Kritu, Filip Bainović se raduje trofeju Kupa Grčke!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/evropa-na-kritu-filip-bainovic-se-raduje-trofeju-kupa-grcke/542199",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 04. 2026. у 00:51",
+      "slika": null
+    },
     {
       "naslov": "Najmanje bogati, a najbolje igraju: Hilal, Itihad i Nasr gledaju i zavide, Al Ahli opet prvak Azije",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najmanje-bogati-a-najbolje-igraju-hilal-itihad-i-nasr-gledaju-i-zavide-al-ahli-opet-prvak-azije/542192",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/popodnevna-dremka-pa-burna-zavrsnica-siti-bio-na-konopcima-ali-ga-je-niko-lansirao-u-finale-fa-kupa/542173",
       "izvor": "Мозарт Спорт",
       "datum": "25. 04. 2026. у 22:17",
-      "slika": null
-    },
-    {
-      "naslov": "Dejo o nekadašnjem i modernom fudbalu: Danas bi Maradona i Savićević bili mnogo zaštićeniji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dejo-o-nekadasnjem-i-modernom-fudbalu-danas-bi-maradona-i-savicevic-bili-mnogo-zasticeniji/542172",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 04. 2026. у 20:45",
       "slika": null
     },
     {
