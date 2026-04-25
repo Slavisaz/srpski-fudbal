@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-25T08:42:13.911098+00:00",
-  "azurirano_sr": "25. 04. 2026. у 10:42",
+  "azurirano": "2026-04-25T09:36:22.362509+00:00",
+  "azurirano_sr": "25. 04. 2026. у 11:36",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Filip Matijašević: Otac najveći kritičar, nikad me nije gurao! Mama plače zbog transfera, braća su srećna",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/filip-matijasevic-otac-najveci-kriticar-nikad-me-nije-gurao-mama-place-zbog-transfera-braca-su-srecna/542126",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 04. 2026. у 12:50",
+      "slika": null
+    },
     {
       "naslov": "Real se obrušio na sudije: Čist penal kod Braimovog šuta, čist faul na kraju! Barsi se sve sudi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/real-se-obrusio-na-sudije-cist-penal-kod-braimovog-suta-cist-faul-na-kraju-barsi-se-sve-sudi/542102",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Pošteni Pep: Ulaznice za Mundijal su tako skupe, nekad je Svetsko prvenstvo bilo slavlje fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/posteni-pep-ulaznice-za-mundijal-su-tako-skupe-nekad-je-svetsko-prvenstvo-bilo-slavlje-fudbala/542085",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 04. 2026. у 21:24",
+      "naslov": "Nastavlja se Superliga Srbije, Crvena zvezda protiv Partizana za titulu u 179. večitom derbiju",
+      "url": "https://www.tanjug.rs/sport/fudbal/247414/nastavlja-se-superliga-srbije-crvena-zvezda-protiv-partizana-za-titulu-u-179-vecitom-derbiju/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 04. 2026. у 10:05",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "UEFA suspendovala Prestijanija na tri utakmice zbog diskriminatornog ponašanja",
-      "url": "https://www.tanjug.rs/sport/fudbal/247277/uefa-suspendovala-prestijanija-na-tri-utakmice-zbog-diskriminatornog-ponasanja/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 04. 2026. у 16:10",
-      "slika": null
-    },
-    {
-      "naslov": "Srbija dobila novog selektora",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227906/sladjan-nikolic-preuzeo-u18-srbije/vest",
+      "naslov": "Zvezda čeka novac od štopera",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227941/crvena-zvezda-prodaje-stefana-lekovica/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "25. 04. 2026. у 10:30",
+      "datum": "25. 04. 2026. у 11:32",
       "slika": null
     },
     {
-      "naslov": "Srđan Blagojević se obraća pred 179. &quot;večiti&quot; derbi",
+      "naslov": "Blagojević: &quot;Ne potpisujem remi – sve više potcenjuju Partizan&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227912/uzivo-srdjan-blagojevic-konferencija-za-medije-pred-zvezda-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "25. 04. 2026. у 10:00",
+      "datum": "25. 04. 2026. у 11:00",
       "slika": null
     }
   ]
