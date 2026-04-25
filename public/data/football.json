@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-25T13:45:18.317508+00:00",
-  "azurirano_sr": "25. 04. 2026. у 15:45",
+  "azurirano": "2026-04-25T14:29:31.723526+00:00",
+  "azurirano_sr": "25. 04. 2026. у 16:29",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Stanković: Jedan detalj može da odluči derbi, želimo da obezbedimo titulu",
+      "url": "https://www.tanjug.rs/sport/fudbal/247478/stankovic-jedan-detalj-moze-da-odluci-derbi-zelimo-da-obezbedimo-titulu/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 04. 2026. у 15:43",
+      "slika": null
+    },
+    {
       "naslov": "FK Crvena zvezda: Fan zona za najmlađe navijače pred 179. večiti derbi",
       "url": "https://www.tanjug.rs/sport/fudbal/247446/fk-crvena-zvezda-fan-zona-za-najmlade-navijace-pred-179-veciti-derbi/vest",
       "izvor": "Танјуг",
@@ -46,17 +53,10 @@
       "slika": null
     },
     {
-      "naslov": "Nastavlja se Superliga Srbije, Crvena zvezda protiv Partizana za titulu u 179. večitom derbiju",
-      "url": "https://www.tanjug.rs/sport/fudbal/247414/nastavlja-se-superliga-srbije-crvena-zvezda-protiv-partizana-za-titulu-u-179-vecitom-derbiju/vest",
+      "naslov": "Leković ostaje u Estrelja Amadori, Zvezdi obeštenje od 1,25 miliona evra",
+      "url": "https://www.tanjug.rs/sport/fudbal/247419/lekovic-ostaje-u-estrelja-amadori-zvezdi-obestenje-od-125-miliona-evra/vest",
       "izvor": "Танјуг",
-      "datum": "25. 04. 2026. у 10:05",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Notingem Foresta \"petardom\" u Sanderlendu bliži opstanku u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/247361/fudbaleri-notingem-foresta-petardom-u-sanderlendu-blizi-opstanku-u-premijer-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 04. 2026. у 23:14",
+      "datum": "25. 04. 2026. у 10:21",
       "slika": null
     },
     {
