@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-25T09:36:22.362509+00:00",
-  "azurirano_sr": "25. 04. 2026. у 11:36",
+  "azurirano": "2026-04-25T10:25:54.422514+00:00",
+  "azurirano_sr": "25. 04. 2026. у 12:25",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvezdi još jedno milionče",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdi-jos-jedno-milionce/542132",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 04. 2026. у 13:50",
+      "slika": null
+    },
     {
       "naslov": "Filip Matijašević: Otac najveći kritičar, nikad me nije gurao! Mama plače zbog transfera, braća su srećna",
       "url": "https://www.mozzartsport.com/fudbal/vesti/filip-matijasevic-otac-najveci-kriticar-nikad-me-nije-gurao-mama-place-zbog-transfera-braca-su-srecna/542126",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Prvo Hakan Šukur, a sada i bivši igrač Rome: Još jedan vrhunski fudbaler vozi Uber",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prvo-hakan-sukur-a-sada-i-bivsi-igrac-rome-jos-jedan-vrhunski-fudbaler-vozi-uber/542090",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 04. 2026. у 23:09",
+      "naslov": "Srđan Blagojević: Zvezda je favorit, ali želimo da osvojimo sva tri boda",
+      "url": "https://www.tanjug.rs/sport/fudbal/247427/srdan-blagojevic-zvezda-je-favorit-ali-zelimo-da-osvojimo-sva-tri-boda/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 04. 2026. у 11:20",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "FSS: Zvezda, Partizan, Vojvodina, Železničar dobili licence za UEFA takmičenja",
-      "url": "https://www.tanjug.rs/sport/fudbal/247287/fss-zvezda-partizan-vojvodina-zeleznicar-dobili-licence-za-uefa-takmicenja/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 04. 2026. у 16:51",
+      "naslov": "Mrkela: &quot;Zvezda se sprema da svake sezone bude jača nego prethodne&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227953/mrkela-zvezda-se-sprema-da-svake-sezone-bude-jaca-nego-prethodne-video/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 04. 2026. у 12:15",
       "slika": null
     },
     {
       "naslov": "Zvezda čeka novac od štopera",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227941/crvena-zvezda-prodaje-stefana-lekovica/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "25. 04. 2026. у 11:32",
-      "slika": null
-    },
-    {
-      "naslov": "Blagojević: &quot;Ne potpisujem remi – sve više potcenjuju Partizan&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227912/uzivo-srdjan-blagojevic-konferencija-za-medije-pred-zvezda-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 04. 2026. у 11:00",
+      "datum": "25. 04. 2026. у 11:44",
       "slika": null
     }
   ]
