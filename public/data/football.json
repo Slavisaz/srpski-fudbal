@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-26T18:04:43.096691+00:00",
-  "azurirano_sr": "26. 04. 2026. у 20:04",
+  "azurirano": "2026-04-26T19:09:31.603087+00:00",
+  "azurirano_sr": "26. 04. 2026. у 21:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Adem Avdić: Da nema trenerovog poverenja, ne bi bilo ni ovakvih partija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/adem-avdic-da-nema-trenerovog-poverenja-ne-bi-bilo-ni-ovakvih-partija/542294",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 04. 2026. у 22:38",
+      "slika": null
+    },
     {
       "naslov": "Pre pet dana mu zviždali, sad mu kliču! Kapiten Enco okajao grehe i doneo Čelsiju šansu za trofej",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pre-pet-dana-mu-zvizdali-sad-mu-klicu-kapiten-enco-okajao-grehe-i-doneo-celsiju-sansu-za-trofej/542268",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Rađa se novo superligaško rivalstvo... Da vidimo da li je baš sve do veštaka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/raa-se-novo-superligasko-rivalstvo-da-vidimo-da-li-je-bas-sve-do-vestaka/542246",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 04. 2026. у 15:56",
+      "naslov": "Srđan Blagojević: Zvezda zasluženo pobedila, na momente smo odlično parirali",
+      "url": "https://www.tanjug.rs/sport/fudbal/247661/srdan-blagojevic-zvezda-zasluzeno-pobedila-na-momente-smo-odlicno-parirali/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 04. 2026. у 20:30",
+      "slika": null
+    },
+    {
+      "naslov": "Dejan Stanković: Ne može ovo da se opiše, ovo mora da se doživi",
+      "url": "https://www.tanjug.rs/sport/fudbal/247660/dejan-stankovic-ne-moze-ovo-da-se-opise-ovo-mora-da-se-dozivi/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 04. 2026. у 20:23",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Zvezde savladali Partizan u 179. derbiju i osvojili devetu uzastopnu titulu",
+      "url": "https://www.tanjug.rs/sport/fudbal/247550/fudbaleri-zvezde-savladali-partizan-u-179-derbiju-i-osvojili-devetu-uzastopnu-titulu/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 04. 2026. у 19:58",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Remi fudbalera OFK Beograda i Radnika u plej-ofu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/247633/remi-fudbalera-ofk-beograda-i-radnika-u-plej-ofu-superlige-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 04. 2026. у 17:17",
-      "slika": null
-    },
-    {
-      "naslov": "Dejan Stanković i Srđan Blagojević odredili sastave za 179. večiti derbi",
-      "url": "https://www.tanjug.rs/sport/fudbal/247550/dejan-stankovic-i-srdan-blagojevic-odredili-sastave-za-179-veciti-derbi/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 04. 2026. у 16:55",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Rajo Valjekana golom u 90+9. minutu do remija protiv Real Sosijedada",
-      "url": "https://www.tanjug.rs/sport/fudbal/247627/fudbaleri-rajo-valjekana-golom-u-909-minutu-do-remija-protiv-real-sosijedada/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 04. 2026. у 16:12",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda pobedila i &quot;overila&quot; titulu u derbiju!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228204/uzivo-prenos-179-veciti-derbi-crvena-zvezda-partizan-fudbal/vest",
+      "naslov": "Kostov: &quot;Bolja smo ekipa od Partizana&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228274/kostov-bolja-smo-ekipa-od-partizana-video/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 04. 2026. у 19:59",
+      "datum": "26. 04. 2026. у 21:08",
       "slika": null
     },
     {
-      "naslov": "Zvezda 3/3 u derbijima – Partizan nije pokvario proslavu titule!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228264/zvezda-33-u-derbijima-partizan-nije-pokvario-proslavu-titule/vest",
+      "naslov": "Stanković: &quot;Želim da osvojim sve!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228240/konferencija-za-medije-posle-179-vecitog-derbija-crvene-zvezde-i-partizana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 04. 2026. у 19:58",
+      "datum": "26. 04. 2026. у 21:02",
       "slika": null
     }
   ]
