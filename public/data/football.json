@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-26T19:09:31.603087+00:00",
-  "azurirano_sr": "26. 04. 2026. у 21:09",
+  "azurirano": "2026-04-26T19:53:12.328280+00:00",
+  "azurirano_sr": "26. 04. 2026. у 21:53",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Prljavi, jalovi, osramoćeni i zatočeni u rešetkama od zlata: Fener štipao i ubadao Osimena - džaba!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prljavi-jalovi-osramoceni-i-zatoceni-u-resetkama-od-zlata-fener-stipao-i-ubadao-osimena-dzaba/542296",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 04. 2026. у 23:14",
+      "slika": null
+    },
     {
       "naslov": "Adem Avdić: Da nema trenerovog poverenja, ne bi bilo ni ovakvih partija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/adem-avdic-da-nema-trenerovog-poverenja-ne-bi-bilo-ni-ovakvih-partija/542294",
@@ -11,24 +18,17 @@
       "slika": null
     },
     {
+      "naslov": "Dinamo izdominirao kao u Mamićevoj eri, a dobio je i kapitalca iz ove titule",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dinamo-izdominirao-kao-u-mamicevoj-eri-a-dobio-je-i-kapitalca-iz-ove-titule/542281",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 04. 2026. у 21:31",
+      "slika": null
+    },
+    {
       "naslov": "Pre pet dana mu zviždali, sad mu kliču! Kapiten Enco okajao grehe i doneo Čelsiju šansu za trofej",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pre-pet-dana-mu-zvizdali-sad-mu-klicu-kapiten-enco-okajao-grehe-i-doneo-celsiju-sansu-za-trofej/542268",
       "izvor": "Мозарт Спорт",
       "datum": "26. 04. 2026. у 20:03",
-      "slika": null
-    },
-    {
-      "naslov": "Zemun se vraća među najbolje bez Bena: Gotovo sa fudbalom na visokom nivou",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zemun-se-vraca-meu-najbolje-bez-bena-gotovo-sa-fudbalom-na-visokom-nivou/542244",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 04. 2026. у 16:35",
-      "slika": null
-    },
-    {
-      "naslov": "Jedini srpski fudbaler u Ligi 1 pred ispadanjem u niži rang, Francuzi najavljuju raskid ugovora",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jedini-srpski-fudbaler-u-ligi-1-pred-ispadanjem-u-nizi-rang-francuzi-najavljuju-raskid-ugovora/542247",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 04. 2026. у 16:01",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Kostov: &quot;Bolja smo ekipa od Partizana&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228274/kostov-bolja-smo-ekipa-od-partizana-video/vest",
+      "naslov": "Zvezda &quot;overila&quot; titulu u derbiju!; Stanković pričao o Enemu; Blagojević: &quot;Proces je dug&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228204/uzivo-prenos-179-veciti-derbi-crvena-zvezda-partizan-fudbal/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 04. 2026. у 21:08",
+      "datum": "26. 04. 2026. у 21:30",
       "slika": null
     },
     {
-      "naslov": "Stanković: &quot;Želim da osvojim sve!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228240/konferencija-za-medije-posle-179-vecitog-derbija-crvene-zvezde-i-partizana/vest",
+      "naslov": "Stanković: &quot;Ja da imam problem sa Markom Arnautovićem?&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228240/dejan-stankovic-konferencija-za-medije-posle-179-vecitog-derbija/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 04. 2026. у 21:02",
+      "datum": "26. 04. 2026. у 21:20",
       "slika": null
     }
   ]
