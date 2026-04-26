@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-26T12:34:07.687179+00:00",
-  "azurirano_sr": "26. 04. 2026. у 14:34",
+  "azurirano": "2026-04-26T13:49:10.568652+00:00",
+  "azurirano_sr": "26. 04. 2026. у 15:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zemun se vraća među najbolje bez Bena: Gotovo sa fudbalom na visokom nivou",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zemun-se-vraca-meu-najbolje-bez-bena-gotovo-sa-fudbalom-na-visokom-nivou/542244",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 04. 2026. у 16:35",
+      "slika": null
+    },
     {
       "naslov": "Jedini srpski fudbaler u Ligi 1 pred ispadanjem u niži rang, Francuzi najavljuju raskid ugovora",
       "url": "https://www.mozzartsport.com/fudbal/vesti/jedini-srpski-fudbaler-u-ligi-1-pred-ispadanjem-u-nizi-rang-francuzi-najavljuju-raskid-ugovora/542247",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Stanković vs Blagojević – prvi put u večitom derbiju: Ako bude kao u Mađarskoj, biće golova!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-vs-blagojevic-prvi-put-u-vecitom-derbiju-ako-bude-kao-u-maarskoj-bice-golova/542233",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 04. 2026. у 13:31",
+      "naslov": "Fudbaleri Fiorentine i Sasuola odigrali bez golova u Seriji A",
+      "url": "https://www.tanjug.rs/sport/fudbal/247612/fudbaleri-fiorentine-i-sasuola-odigrali-bez-golova-u-seriji-a/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 04. 2026. у 14:30",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Spektakl za titulu: Fudbaleri Zvezde u 179. večitom derbiju dočekuju Partizan",
-      "url": "https://www.tanjug.rs/sport/fudbal/247550/spektakl-za-titulu-fudbaleri-zvezde-u-179-vecitom-derbiju-docekuju-partizan/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 04. 2026. у 06:00",
+      "naslov": "Danas je taj dan – &quot;večiti&quot; derbi!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228204/uzivo-prenos-179-veciti-derbi-crvena-zvezda-partizan-fudbal/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 04. 2026. у 15:45",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227451/partizan-pred-179-veciti-derbi-protiv-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "26. 04. 2026. у 10:29",
-      "slika": null
-    },
-    {
-      "naslov": "Da li je slučajnost – ne znamo, da li bi ovako bilo najslađe – bez sumnje",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227707/najava-179-vecitog-derbija-crvena-zvezda-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 04. 2026. у 10:15",
       "slika": null
     }
   ]
