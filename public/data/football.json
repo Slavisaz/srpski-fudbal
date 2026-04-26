@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-26T20:24:27.745163+00:00",
-  "azurirano_sr": "26. 04. 2026. у 22:24",
+  "azurirano": "2026-04-26T21:01:04.155732+00:00",
+  "azurirano_sr": "26. 04. 2026. у 23:01",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Remi fudbalera Vojvodine i Železničara u Novom Sadu",
+      "url": "https://www.tanjug.rs/sport/fudbal/247670/remi-fudbalera-vojvodine-i-zeleznicara-u-novom-sadu/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 04. 2026. у 22:16",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezdan Terzić: Titula osvojena na najlepši mogući način, želimo i šestu duplu krunu u nizu",
+      "url": "https://www.tanjug.rs/sport/fudbal/247668/zvezdan-terzic-titula-osvojena-na-najlepsi-moguci-nacin-zelimo-i-sestu-duplu-krunu-u-nizu/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 04. 2026. у 22:08",
+      "slika": null
+    },
+    {
       "naslov": "Srđan Blagojević: Zvezda zasluženo pobedila, na momente smo odlično parirali",
       "url": "https://www.tanjug.rs/sport/fudbal/247661/srdan-blagojevic-zvezda-zasluzeno-pobedila-na-momente-smo-odlicno-parirali/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/247660/dejan-stankovic-ne-moze-ovo-da-se-opise-ovo-mora-da-se-dozivi/vest",
       "izvor": "Танјуг",
       "datum": "26. 04. 2026. у 20:23",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Zvezde savladali Partizan u 179. derbiju i osvojili devetu uzastopnu titulu",
-      "url": "https://www.tanjug.rs/sport/fudbal/247550/fudbaleri-zvezde-savladali-partizan-u-179-derbiju-i-osvojili-devetu-uzastopnu-titulu/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 04. 2026. у 19:58",
-      "slika": null
-    },
-    {
-      "naslov": "Enco Fernandez odveo Čelsi u finale FA kupa, za trofej protiv Sitija",
-      "url": "https://www.tanjug.rs/sport/fudbal/247641/enco-fernandez-odveo-celsi-u-finale-fa-kupa-za-trofej-protiv-sitija/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 04. 2026. у 18:03",
       "slika": null
     },
     {
