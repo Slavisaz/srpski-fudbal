@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-26T04:31:16.155262+00:00",
-  "azurirano_sr": "26. 04. 2026. у 06:31",
+  "azurirano": "2026-04-26T06:24:34.904608+00:00",
+  "azurirano_sr": "26. 04. 2026. у 08:24",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Spektakl za titulu: Fudbaleri Zvezde u 179. večitom derbiju dočekuju Partizan",
+      "url": "https://www.tanjug.rs/sport/fudbal/247550/spektakl-za-titulu-fudbaleri-zvezde-u-179-vecitom-derbiju-docekuju-partizan/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 04. 2026. у 06:00",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Arsenala savladali Njukasl i vratili lidersku poziciju u Premijer ligi",
       "url": "https://www.tanjug.rs/sport/fudbal/247517/fudbaleri-arsenala-savladali-njukasl-i-vratili-lidersku-poziciju-u-premijer-ligi/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/247503/fudbaleri-barselone-pobedom-protiv-hetafea-stigli-nadomak-nove-titule/vest",
       "izvor": "Танјуг",
       "datum": "25. 04. 2026. у 18:17",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Fulama pobedili Aston Vilu u 34. kolu Premijer lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/247480/fudbaleri-fulama-pobedili-aston-vilu-u-34-kolu-premijer-lige/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 04. 2026. у 16:12",
       "slika": null
     },
     {
