@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-26T16:01:02.288897+00:00",
-  "azurirano_sr": "26. 04. 2026. у 18:01",
+  "azurirano": "2026-04-26T16:52:42.815802+00:00",
+  "azurirano_sr": "26. 04. 2026. у 18:52",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Pre pet dana mu zviždali, sad mu kliču! Kapiten Enco okajao grehe i doneo Čelsiju šansu za trofej",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pre-pet-dana-mu-zvizdali-sad-mu-klicu-kapiten-enco-okajao-grehe-i-doneo-celsiju-sansu-za-trofej/542268",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 04. 2026. у 20:03",
+      "slika": null
+    },
     {
       "naslov": "Zemun se vraća među najbolje bez Bena: Gotovo sa fudbalom na visokom nivou",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zemun-se-vraca-meu-najbolje-bez-bena-gotovo-sa-fudbalom-na-visokom-nivou/542244",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Derbi Brisela, Union želi da osigura vrh, Anderleht da ostane u trci za treće mesto",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/derbi-brisela-union-zeli-da-osigura-vrh-anderleht-da-ostane-u-trci-za-trece-mesto/542242",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 04. 2026. у 15:28",
+      "naslov": "Enco Fernandez odveo Čelsi u finale FA kupa, za trofej protiv Sitija",
+      "url": "https://www.tanjug.rs/sport/fudbal/247641/enco-fernandez-odveo-celsi-u-finale-fa-kupa-za-trofej-protiv-sitija/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 04. 2026. у 18:03",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Fiorentine i Sasuola odigrali bez golova u Seriji A",
-      "url": "https://www.tanjug.rs/sport/fudbal/247612/fudbaleri-fiorentine-i-sasuola-odigrali-bez-golova-u-seriji-a/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 04. 2026. у 14:30",
+      "naslov": "POLUVREME Partizan umalo izjednačio",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228204/uzivo-prenos-179-veciti-derbi-crvena-zvezda-partizan-fudbal/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 04. 2026. у 18:50",
       "slika": null
     },
     {
-      "naslov": "Oglasio se Blagojević pred početak derbija – evo zašto Zdjelar ne igra",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228234/srdjan-blagijevic-uoci-starta-derbija-otkrio-zasto-zdjelar-ne-igra/vest",
+      "naslov": "Goleada u Novom Pazaru",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228245/remi-novog-pazar-i-cukarickog/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 04. 2026. у 17:39",
-      "slika": null
-    },
-    {
-      "naslov": "Radnik sa penala promašio tri boda na Karaburmi VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228226/radnik-sa-penala-promasio-tri-boda-na-karaburmi-video/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 04. 2026. у 17:10",
+      "datum": "26. 04. 2026. у 18:35",
       "slika": null
     }
   ]
