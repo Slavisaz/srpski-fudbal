@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-26T09:42:05.043218+00:00",
-  "azurirano_sr": "26. 04. 2026. у 11:42",
+  "azurirano": "2026-04-26T10:28:36.535006+00:00",
+  "azurirano_sr": "26. 04. 2026. у 12:28",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Stanković vs Blagojević – prvi put u večitom derbiju: Ako bude kao u Mađarskoj, biće golova!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-vs-blagojevic-prvi-put-u-vecitom-derbiju-ako-bude-kao-u-maarskoj-bice-golova/542233",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 04. 2026. у 13:31",
+      "slika": null
+    },
     {
       "naslov": "Trenutak istine za Čelsi, Lids želi u prvo finale posle 53 godine",
       "url": "https://www.mozzartsport.com/fudbal/vesti/trenutak-istine-za-celsi-lids-zeli-u-prvo-finale-posle-53-godine/542222",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Kako biti partibrejker ili uraditi bar nešto za pamćenje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-biti-partibrejker-ili-uraditi-bar-nesto-za-pamcenje/542215",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 04. 2026. у 11:00",
+      "naslov": "Švajcarac Sandro Šerer sudi prvi meč polufinala Lige šampiona između PSŽ-a i Bajerna",
+      "url": "https://www.tanjug.rs/sport/fudbal/247595/svajcarac-sandro-serer-sudi-prvi-mec-polufinala-lige-sampiona-izmedu-psz-a-i-bajerna/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 04. 2026. у 12:16",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/247550/spektakl-za-titulu-fudbaleri-zvezde-u-179-vecitom-derbiju-docekuju-partizan/vest",
       "izvor": "Танјуг",
       "datum": "26. 04. 2026. у 06:00",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Arsenala savladali Njukasl i vratili lidersku poziciju u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/247517/fudbaleri-arsenala-savladali-njukasl-i-vratili-lidersku-poziciju-u-premijer-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 04. 2026. у 20:28",
       "slika": null
     },
     {
