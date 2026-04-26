@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-26T08:54:39.495627+00:00",
-  "azurirano_sr": "26. 04. 2026. у 10:54",
+  "azurirano": "2026-04-26T09:42:05.043218+00:00",
+  "azurirano_sr": "26. 04. 2026. у 11:42",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaler Liverpula Mohamed Salah zbog povrede ne igra do kraja sezone",
+      "url": "https://www.tanjug.rs/sport/fudbal/247585/fudbaler-liverpula-mohamed-salah-zbog-povrede-ne-igra-do-kraja-sezone/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 04. 2026. у 10:59",
+      "slika": null
+    },
+    {
       "naslov": "Eberl: Bajern ne planira da otkupi ugovor Nikolasa Džeksona",
       "url": "https://www.tanjug.rs/sport/fudbal/247579/eberl-bajern-ne-planira-da-otkupi-ugovor-nikolasa-dzeksona/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/247517/fudbaleri-arsenala-savladali-njukasl-i-vratili-lidersku-poziciju-u-premijer-ligi/vest",
       "izvor": "Танјуг",
       "datum": "25. 04. 2026. у 20:28",
-      "slika": null
-    },
-    {
-      "naslov": "Preokret fudbalera Mančester Sitija protiv Sautemptona za finale FA kupa",
-      "url": "https://www.tanjug.rs/sport/fudbal/247516/preokret-fudbalera-mancester-sitija-protiv-sautemptona-za-finale-fa-kupa/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 04. 2026. у 20:12",
       "slika": null
     },
     {
