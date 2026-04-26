@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-26T07:57:15.869313+00:00",
-  "azurirano_sr": "26. 04. 2026. у 09:57",
+  "azurirano": "2026-04-26T08:54:39.495627+00:00",
+  "azurirano_sr": "26. 04. 2026. у 10:54",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Trenutak istine za Čelsi, Lids želi u prvo finale posle 53 godine",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/trenutak-istine-za-celsi-lids-zeli-u-prvo-finale-posle-53-godine/542222",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 04. 2026. у 12:08",
+      "slika": null
+    },
     {
       "naslov": "Saša Jovanović propušta svoje Lučane, ali će TSC i dalje forsirati napadački fudbal",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sasa-jovanovic-propusta-svoje-lucane-ali-ce-tsc-i-dalje-forsirati-napadacki-fudbal/542220",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Evropa na Kritu, Filip Bainović se raduje trofeju Kupa Grčke!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/evropa-na-kritu-filip-bainovic-se-raduje-trofeju-kupa-grcke/542199",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 04. 2026. у 00:51",
+      "naslov": "Eberl: Bajern ne planira da otkupi ugovor Nikolasa Džeksona",
+      "url": "https://www.tanjug.rs/sport/fudbal/247579/eberl-bajern-ne-planira-da-otkupi-ugovor-nikolasa-dzeksona/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 04. 2026. у 10:28",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Barselone pobedom protiv Hetafea stigli nadomak nove titule",
-      "url": "https://www.tanjug.rs/sport/fudbal/247503/fudbaleri-barselone-pobedom-protiv-hetafea-stigli-nadomak-nove-titule/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 04. 2026. у 18:17",
+      "naslov": "Parti(zan)brejkersi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227451/partizan-pred-179-veciti-derbi-protiv-crvene-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 04. 2026. у 10:29",
       "slika": null
     },
     {
-      "naslov": "&quot;Vojvodina posle Zvezde najbolji tim u Srbiji&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228030/kokovic-pred-vojvodinu-najbolji-tim-u-srbiji-posle-zvezde/vest",
+      "naslov": "Da li je slučajnost – ne znamo, da li bi ovako bilo najslađe – bez sumnje",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227707/najava-179-vecitog-derbija-crvena-zvezda-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "25. 04. 2026. у 18:29",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković pred derbi: &quot;To je mač sa dve oštrice&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227978/konferencija-dejana-stankovic-pred-179-derbi-protiv-partizana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 04. 2026. у 15:12",
+      "datum": "26. 04. 2026. у 10:15",
       "slika": null
     }
   ]
