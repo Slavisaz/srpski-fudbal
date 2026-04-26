@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-26T13:49:10.568652+00:00",
-  "azurirano_sr": "26. 04. 2026. у 15:49",
+  "azurirano": "2026-04-26T14:32:55.647425+00:00",
+  "azurirano_sr": "26. 04. 2026. у 16:32",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Rajo Valjekana golom u 90+9. minutu do remija protiv Real Sosijedada",
+      "url": "https://www.tanjug.rs/sport/fudbal/247627/fudbaleri-rajo-valjekana-golom-u-909-minutu-do-remija-protiv-real-sosijedada/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 04. 2026. у 16:12",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Fiorentine i Sasuola odigrali bez golova u Seriji A",
       "url": "https://www.tanjug.rs/sport/fudbal/247612/fudbaleri-fiorentine-i-sasuola-odigrali-bez-golova-u-seriji-a/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Eberl: Bajern ne planira da otkupi ugovor Nikolasa Džeksona",
-      "url": "https://www.tanjug.rs/sport/fudbal/247579/eberl-bajern-ne-planira-da-otkupi-ugovor-nikolasa-dzeksona/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 04. 2026. у 10:28",
+      "naslov": "Loše vesti za Partizan – bez važnog igrača na Zvezdu!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228214/sasa-zdjelar-ne-igra-derbi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 04. 2026. у 16:29",
       "slika": null
     },
     {
-      "naslov": "Danas je taj dan – &quot;večiti&quot; derbi!",
+      "naslov": "Poslednja vest – Partizan bez važnog igrača!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228204/uzivo-prenos-179-veciti-derbi-crvena-zvezda-partizan-fudbal/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 04. 2026. у 15:45",
-      "slika": null
-    },
-    {
-      "naslov": "Parti(zan)brejkersi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/227451/partizan-pred-179-veciti-derbi-protiv-crvene-zvezde/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 04. 2026. у 10:29",
+      "datum": "26. 04. 2026. у 16:26",
       "slika": null
     }
   ]
