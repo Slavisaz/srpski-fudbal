@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-26T21:01:04.155732+00:00",
-  "azurirano_sr": "26. 04. 2026. у 23:01",
+  "azurirano": "2026-04-26T21:45:14.104979+00:00",
+  "azurirano_sr": "26. 04. 2026. у 23:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Segundo Kastiljo sedi kod kuće, manekeniše i probira poslove",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/segundo-kastiljo-sedi-kod-kuce-manekenise-i-probira-poslove/542255",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 04. 2026. у 00:58",
+      "slika": null
+    },
     {
       "naslov": "Prljavi, jalovi, osramoćeni i zatočeni u rešetkama od zlata: Fener štipao i ubadao Osimena - džaba!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/prljavi-jalovi-osramoceni-i-zatoceni-u-resetkama-od-zlata-fener-stipao-i-ubadao-osimena-dzaba/542296",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Pre pet dana mu zviždali, sad mu kliču! Kapiten Enco okajao grehe i doneo Čelsiju šansu za trofej",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pre-pet-dana-mu-zvizdali-sad-mu-klicu-kapiten-enco-okajao-grehe-i-doneo-celsiju-sansu-za-trofej/542268",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 04. 2026. у 20:03",
+      "naslov": "\"Nula\" fudbalera Milana i Juventusa na San Siru",
+      "url": "https://www.tanjug.rs/sport/fudbal/247679/nula-fudbalera-milana-i-juventusa-na-san-siru/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 04. 2026. у 23:04",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Dejan Stanković: Ne može ovo da se opiše, ovo mora da se doživi",
-      "url": "https://www.tanjug.rs/sport/fudbal/247660/dejan-stankovic-ne-moze-ovo-da-se-opise-ovo-mora-da-se-dozivi/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 04. 2026. у 20:23",
+      "naslov": "Terzić: &quot;Posebno me raduju pobede u sva tri derbija&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228298/zvezdan-terzic-izjava-posle-titule-2026/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 04. 2026. у 23:40",
       "slika": null
     },
     {
-      "naslov": "&quot;Nula&quot; u Novom Sadu – Vojvodina nije iskoristila poraz Partizana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228281/nula-u-novom-sadu-vojvodina-nije-iskoristila-poraz-partizana/vest",
+      "naslov": "Mihin sin doveo zvezdu Premijer lige na &quot;večiti&quot; derbi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228296/dejan-kulusevski-na-vecitom-derbiju/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 04. 2026. у 22:00",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda &quot;overila&quot; titulu u derbiju!; Stanković pričao o Enemu; Blagojević: &quot;Proces je dug&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228204/uzivo-prenos-179-veciti-derbi-crvena-zvezda-partizan-fudbal/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 04. 2026. у 21:30",
+      "datum": "26. 04. 2026. у 23:30",
       "slika": null
     }
   ]
