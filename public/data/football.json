@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-26T14:32:55.647425+00:00",
-  "azurirano_sr": "26. 04. 2026. у 16:32",
+  "azurirano": "2026-04-26T15:22:51.776089+00:00",
+  "azurirano_sr": "26. 04. 2026. у 17:22",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Remi fudbalera OFK Beograda i Radnika u plej-ofu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/247633/remi-fudbalera-ofk-beograda-i-radnika-u-plej-ofu-superlige-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 04. 2026. у 17:17",
+      "slika": null
+    },
+    {
+      "naslov": "Dejan Stanković i Srđan Blagojević odredili sastave za 179. večiti derbi",
+      "url": "https://www.tanjug.rs/sport/fudbal/247550/dejan-stankovic-i-srdan-blagojevic-odredili-sastave-za-179-veciti-derbi/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 04. 2026. у 16:55",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Rajo Valjekana golom u 90+9. minutu do remija protiv Real Sosijedada",
       "url": "https://www.tanjug.rs/sport/fudbal/247627/fudbaleri-rajo-valjekana-golom-u-909-minutu-do-remija-protiv-real-sosijedada/vest",
       "izvor": "Танјуг",
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Švajcarac Sandro Šerer sudi prvi meč polufinala Lige šampiona između PSŽ-a i Bajerna",
-      "url": "https://www.tanjug.rs/sport/fudbal/247595/svajcarac-sandro-serer-sudi-prvi-mec-polufinala-lige-sampiona-izmedu-psz-a-i-bajerna/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 04. 2026. у 12:16",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Liverpula Mohamed Salah zbog povrede ne igra do kraja sezone",
-      "url": "https://www.tanjug.rs/sport/fudbal/247585/fudbaler-liverpula-mohamed-salah-zbog-povrede-ne-igra-do-kraja-sezone/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 04. 2026. у 10:59",
-      "slika": null
-    },
-    {
-      "naslov": "Loše vesti za Partizan – bez važnog igrača na Zvezdu!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228214/sasa-zdjelar-ne-igra-derbi/vest",
+      "naslov": "Radnik sa penala promašio tri boda na Karaburmi VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228226/radnik-sa-penala-promasio-tri-boda-na-karaburmi-video/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 04. 2026. у 16:29",
+      "datum": "26. 04. 2026. у 17:10",
       "slika": null
     },
     {
-      "naslov": "Poslednja vest – Partizan bez važnog igrača!",
+      "naslov": "Izašli sastavi – iznenađenje u napadu Partizana",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228204/uzivo-prenos-179-veciti-derbi-crvena-zvezda-partizan-fudbal/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 04. 2026. у 16:26",
+      "datum": "26. 04. 2026. у 16:35",
       "slika": null
     }
   ]
