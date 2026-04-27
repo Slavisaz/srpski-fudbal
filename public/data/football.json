@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-27T11:23:46.052324+00:00",
-  "azurirano_sr": "27. 04. 2026. у 13:23",
+  "azurirano": "2026-04-27T12:56:26.821474+00:00",
+  "azurirano_sr": "27. 04. 2026. у 14:56",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zdravko Mamić: Kostov i Avdić će doneti Zvezdi preko 50.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zdravko-mamic-kostov-i-avdic-ce-doneti-zvezdi-preko-50000000-evra/542346",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 04. 2026. у 15:10",
+      "slika": null
+    },
     {
       "naslov": "Savić se povredio, Trabzon i bez njega napada plasman u Ligu šampiona",
       "url": "https://www.mozzartsport.com/fudbal/vesti/savic-se-povredio-trabzon-i-bez-njega-napada-plasman-u-ligu-sampiona/542339",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Prljavi, jalovi, osramoćeni i zatočeni u rešetkama od zlata: Fener štipao i ubadao Osimena - džaba!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prljavi-jalovi-osramoceni-i-zatoceni-u-resetkama-od-zlata-fener-stipao-i-ubadao-osimena-dzaba/542296",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 04. 2026. у 23:14",
+      "naslov": "Fudbaler Reala Kilijan Mbape mora na pauzu zbog povrede mišića leve noge",
+      "url": "https://www.tanjug.rs/sport/fudbal/247785/fudbaler-reala-kilijan-mbape-mora-na-pauzu-zbog-povrede-misica-leve-noge/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 04. 2026. у 13:21",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Zvezdan Terzić: Titula osvojena na najlepši mogući način, želimo i šestu duplu krunu u nizu",
-      "url": "https://www.tanjug.rs/sport/fudbal/247668/zvezdan-terzic-titula-osvojena-na-najlepsi-moguci-nacin-zelimo-i-sestu-duplu-krunu-u-nizu/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 04. 2026. у 22:08",
+      "naslov": "Pet miliona stiže na Marakanu?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228484/felisio-milson-za-5-miliona-u-al-dzaziri/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 04. 2026. у 14:30",
       "slika": null
     },
     {
-      "naslov": "Zvezdin najgori bolji od Partizanovog najboljeg",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228438/ocene-fudbalera-zvezde-i-partizana-posle-179-vecitog-derbija/vest",
+      "naslov": "Oglasio se Arnautović posle pobede u derbiju VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228452/poruka-marka-arnautovica-posle-titule/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "27. 04. 2026. у 12:51",
-      "slika": null
-    },
-    {
-      "naslov": "Istorijska razlika u &quot;večitim&quot; derbijima",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228425/crvena-zvezda-ima-25-pobeda-vise-u-derbijima-od-partizana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 04. 2026. у 12:12",
+      "datum": "27. 04. 2026. у 13:29",
       "slika": null
     }
   ]
