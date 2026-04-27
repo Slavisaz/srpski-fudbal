@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-27T15:00:45.337437+00:00",
-  "azurirano_sr": "27. 04. 2026. у 17:00",
+  "azurirano": "2026-04-27T16:44:12.801858+00:00",
+  "azurirano_sr": "27. 04. 2026. у 18:44",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Holandski sudija Makeli sudiće prvi meč između fudbalera Atletika i Arsenala u Ligi šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/247819/holandski-sudija-makeli-sudice-prvi-mec-izmedu-fudbalera-atletika-i-arsenala-u-ligi-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 04. 2026. у 15:18",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaler Reala Kilijan Mbape mora na pauzu zbog povrede mišića leve noge",
       "url": "https://www.tanjug.rs/sport/fudbal/247785/fudbaler-reala-kilijan-mbape-mora-na-pauzu-zbog-povrede-misica-leve-noge/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/247679/nula-fudbalera-milana-i-juventusa-na-san-siru/vest",
       "izvor": "Танјуг",
       "datum": "26. 04. 2026. у 23:04",
-      "slika": null
-    },
-    {
-      "naslov": "Remi fudbalera Vojvodine i Železničara u Novom Sadu",
-      "url": "https://www.tanjug.rs/sport/fudbal/247670/remi-fudbalera-vojvodine-i-zeleznicara-u-novom-sadu/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 04. 2026. у 22:16",
       "slika": null
     },
     {
