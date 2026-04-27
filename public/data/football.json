@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-27T18:59:30.219926+00:00",
-  "azurirano_sr": "27. 04. 2026. у 20:59",
+  "azurirano": "2026-04-27T20:08:35.430847+00:00",
+  "azurirano_sr": "27. 04. 2026. у 22:08",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Samardžić čekao 40 dana da odigra 13 minuta, Krstović promašio zicer za veliko slavlje na Sardiniji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/samardzic-cekao-40-dana-da-odigra-13-minuta-krstovic-promasio-zicer-za-veliko-slavlje-na-sardiniji/542372",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 04. 2026. у 22:40",
+      "slika": null
+    },
     {
       "naslov": "Atalanta na Sardiniji hvata poslednji voz za Evropu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/atalanta-na-sardiniji-hvata-poslednji-voz-za-evropu/542352",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Simons pokidao prednji ukršteni ligament, na terenu tek 2027. godine",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/simons-pokidao-prednji-ukrsteni-ligament-na-terenu-tek-2027-godine/542319",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 04. 2026. у 06:06",
+      "naslov": "Fudbaleri Mladosti preokretom do pobede protiv TSC-a u plej-autu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/247917/fudbaleri-mladosti-preokretom-do-pobede-protiv-tsc-a-u-plej-autu-superlige-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 04. 2026. у 21:02",
+      "slika": null
+    },
+    {
+      "naslov": "Frančesko Kalcona nije više selektor fudbalske reprezentacije Slovačke",
+      "url": "https://www.tanjug.rs/sport/fudbal/247914/francesko-kalcona-nije-vise-selektor-fudbalske-reprezentacije-slovacke/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 04. 2026. у 20:51",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri kragujevačkog Radničkog pobedili Spartak, Javor nadigrao Napredak u Superligi Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/247905/fudbaleri-kragujevackog-radnickog-pobedili-spartak-javor-nadigrao-napredak-u-superligi-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 04. 2026. у 19:58",
-      "slika": null
-    },
-    {
-      "naslov": "Luis Enrike uoči meča sa Bajernom: Niko nije bolji od Pari Sen Žermena",
-      "url": "https://www.tanjug.rs/sport/fudbal/247904/luis-enrike-uoci-meca-sa-bajernom-niko-nije-bolji-od-pari-sen-zermena/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 04. 2026. у 19:37",
+      "naslov": "Superliga: Debakl TSC-a uneo dramu u borbu za opstanak",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228607/superliga-debakl-tsc-a-uneo-dramu-u-borbu-za-opstanak/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 04. 2026. у 21:09",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228576/traktoristi-pogurali-meraklije-ka-prvoligaskom-fudbalu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "27. 04. 2026. у 18:58",
-      "slika": null
-    },
-    {
-      "naslov": "Pet miliona stiže na Marakanu?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228484/felisio-milson-za-5-miliona-u-al-dzaziri/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 04. 2026. у 14:30",
       "slika": null
     }
   ]
