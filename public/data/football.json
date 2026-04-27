@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-27T20:08:35.430847+00:00",
-  "azurirano_sr": "27. 04. 2026. у 22:08",
+  "azurirano": "2026-04-27T21:15:03.777521+00:00",
+  "azurirano_sr": "27. 04. 2026. у 23:15",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Mančester junajteda nadigrali Brentford u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/247935/fudbaleri-mancester-junajteda-nadigrali-brentford-u-premijer-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 04. 2026. у 22:58",
+      "slika": null
+    },
+    {
+      "naslov": "Remi fudbalera Lacija i Udinezea u Seriji A",
+      "url": "https://www.tanjug.rs/sport/fudbal/247932/remi-fudbalera-lacija-i-udinezea-u-seriji-a/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 04. 2026. у 22:46",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Mladosti preokretom do pobede protiv TSC-a u plej-autu Superlige Srbije",
       "url": "https://www.tanjug.rs/sport/fudbal/247917/fudbaleri-mladosti-preokretom-do-pobede-protiv-tsc-a-u-plej-autu-superlige-srbije/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/247914/francesko-kalcona-nije-vise-selektor-fudbalske-reprezentacije-slovacke/vest",
       "izvor": "Танјуг",
       "datum": "27. 04. 2026. у 20:51",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Kaljarija savladali Atalantu u Seriji A",
-      "url": "https://www.tanjug.rs/sport/fudbal/247911/fudbaleri-kaljarija-savladali-atalantu-u-seriji-a/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 04. 2026. у 20:34",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Milana Luka Modrić uspešno operisan",
-      "url": "https://www.tanjug.rs/sport/fudbal/247910/fudbaler-milana-luka-modric-uspesno-operisan/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 04. 2026. у 20:17",
       "slika": null
     },
     {
