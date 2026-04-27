@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-27T09:33:05.863183+00:00",
-  "azurirano_sr": "27. 04. 2026. у 11:33",
+  "azurirano": "2026-04-27T11:23:46.052324+00:00",
+  "azurirano_sr": "27. 04. 2026. у 13:23",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Savić se povredio, Trabzon i bez njega napada plasman u Ligu šampiona",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/savic-se-povredio-trabzon-i-bez-njega-napada-plasman-u-ligu-sampiona/542339",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 04. 2026. у 14:07",
+      "slika": null
+    },
     {
       "naslov": "Simons pokidao prednji ukršteni ligament, na terenu tek 2027. godine",
       "url": "https://www.mozzartsport.com/fudbal/vesti/simons-pokidao-prednji-ukrsteni-ligament-na-terenu-tek-2027-godine/542319",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Adem Avdić: Da nema trenerovog poverenja, ne bi bilo ni ovakvih partija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/adem-avdic-da-nema-trenerovog-poverenja-ne-bi-bilo-ni-ovakvih-partija/542294",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 04. 2026. у 22:38",
+      "naslov": "Fudbaler Totenhema Ćavi Simons pokidao prednje ukrštene ligamente kolena",
+      "url": "https://www.tanjug.rs/sport/fudbal/247747/fudbaler-totenhema-cavi-simons-pokidao-prednje-ukrstene-ligamente-kolena/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 04. 2026. у 11:14",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Srđan Blagojević: Zvezda zasluženo pobedila, na momente smo odlično parirali",
-      "url": "https://www.tanjug.rs/sport/fudbal/247661/srdan-blagojevic-zvezda-zasluzeno-pobedila-na-momente-smo-odlicno-parirali/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 04. 2026. у 20:30",
+      "naslov": "Zvezdin najgori bolji od Partizanovog najboljeg",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228438/ocene-fudbalera-zvezde-i-partizana-posle-179-vecitog-derbija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 04. 2026. у 12:51",
       "slika": null
     },
     {
-      "naslov": "Ljajić: &quot;Šta da kažem?&quot;; Mijatović: &quot;Nemam šta da kažem&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228378/ljajic-sta-da-kazem-mijatovic-nemam-sta-da-kazem/vest",
+      "naslov": "Istorijska razlika u &quot;večitim&quot; derbijima",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228425/crvena-zvezda-ima-25-pobeda-vise-u-derbijima-od-partizana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "27. 04. 2026. у 10:25",
-      "slika": null
-    },
-    {
-      "naslov": "Srceparajuća objava Bibarsa Natha posle derbija FOTO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228317/bibars-natho-objava-posle-poraza-u-derbiju-od-zvezde-foto/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 04. 2026. у 08:22",
+      "datum": "27. 04. 2026. у 12:12",
       "slika": null
     }
   ]
