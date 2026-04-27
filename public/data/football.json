@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-27T07:20:53.570182+00:00",
-  "azurirano_sr": "27. 04. 2026. у 09:20",
+  "azurirano": "2026-04-27T09:33:05.863183+00:00",
+  "azurirano_sr": "27. 04. 2026. у 11:33",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Ljajić: &quot;Šta da kažem?&quot;; Mijatović: &quot;Nemam šta da kažem&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228378/ljajic-sta-da-kazem-mijatovic-nemam-sta-da-kazem/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 04. 2026. у 10:25",
+      "slika": null
+    },
+    {
       "naslov": "Srceparajuća objava Bibarsa Natha posle derbija FOTO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228317/bibars-natho-objava-posle-poraza-u-derbiju-od-zvezde-foto/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "27. 04. 2026. у 08:22",
-      "slika": null
-    },
-    {
-      "naslov": "Terzić: &quot;Posebno me raduju pobede u sva tri derbija&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228298/zvezdan-terzic-izjava-posle-titule-2026/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 04. 2026. у 23:40",
       "slika": null
     }
   ]
