@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-27T12:56:26.821474+00:00",
-  "azurirano_sr": "27. 04. 2026. у 14:56",
+  "azurirano": "2026-04-27T15:00:45.337437+00:00",
+  "azurirano_sr": "27. 04. 2026. у 17:00",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Atalanta na Sardiniji hvata poslednji voz za Evropu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/atalanta-na-sardiniji-hvata-poslednji-voz-za-evropu/542352",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 04. 2026. у 17:06",
+      "slika": null
+    },
     {
       "naslov": "Zdravko Mamić: Kostov i Avdić će doneti Zvezdi preko 50.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zdravko-mamic-kostov-i-avdic-ce-doneti-zvezdi-preko-50000000-evra/542346",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/simons-pokidao-prednji-ukrsteni-ligament-na-terenu-tek-2027-godine/542319",
       "izvor": "Мозарт Спорт",
       "datum": "27. 04. 2026. у 06:06",
-      "slika": null
-    },
-    {
-      "naslov": "Segundo Kastiljo sedi kod kuće, manekeniše i probira poslove",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/segundo-kastiljo-sedi-kod-kuce-manekenise-i-probira-poslove/542255",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 04. 2026. у 00:58",
       "slika": null
     },
     {
