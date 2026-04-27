@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-27T21:15:03.777521+00:00",
-  "azurirano_sr": "27. 04. 2026. у 23:15",
+  "azurirano": "2026-04-27T22:08:00.179275+00:00",
+  "azurirano_sr": "28. 04. 2026. у 00:08",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Espanjola i Levantea odigrali bez golova u La Ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/247941/fudbaleri-espanjola-i-levantea-odigrali-bez-golova-u-la-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 04. 2026. у 23:42",
+      "slika": null
+    },
+    {
+      "naslov": "Domeniko Tedesko nije više trener fudbalera Fenerbahčea",
+      "url": "https://www.tanjug.rs/sport/fudbal/247937/domeniko-tedesko-nije-vise-trener-fudbalera-fenerbahcea/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 04. 2026. у 23:14",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Mančester junajteda nadigrali Brentford u Premijer ligi",
       "url": "https://www.tanjug.rs/sport/fudbal/247935/fudbaleri-mancester-junajteda-nadigrali-brentford-u-premijer-ligi/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/247932/remi-fudbalera-lacija-i-udinezea-u-seriji-a/vest",
       "izvor": "Танјуг",
       "datum": "27. 04. 2026. у 22:46",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Mladosti preokretom do pobede protiv TSC-a u plej-autu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/247917/fudbaleri-mladosti-preokretom-do-pobede-protiv-tsc-a-u-plej-autu-superlige-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 04. 2026. у 21:02",
-      "slika": null
-    },
-    {
-      "naslov": "Frančesko Kalcona nije više selektor fudbalske reprezentacije Slovačke",
-      "url": "https://www.tanjug.rs/sport/fudbal/247914/francesko-kalcona-nije-vise-selektor-fudbalske-reprezentacije-slovacke/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 04. 2026. у 20:51",
       "slika": null
     },
     {
