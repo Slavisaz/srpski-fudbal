@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-27T16:44:12.801858+00:00",
-  "azurirano_sr": "27. 04. 2026. у 18:44",
+  "azurirano": "2026-04-27T17:53:21.809820+00:00",
+  "azurirano_sr": "27. 04. 2026. у 19:53",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri IMT-a pobedili niški Radnički u plej-autu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/247888/fudbaleri-imt-a-pobedili-niski-radnicki-u-plej-autu-superlige-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 04. 2026. у 19:01",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezda može da zaradi više od pet miliona evra od transfera Milsona",
+      "url": "https://www.tanjug.rs/sport/fudbal/247885/zvezda-moze-da-zaradi-vise-od-pet-miliona-evra-od-transfera-milsona/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 04. 2026. у 18:46",
+      "slika": null
+    },
+    {
+      "naslov": "Eberl: Očekujem ravnopravan meč protiv PSŽ-a, odlučiće sitni detalji",
+      "url": "https://www.tanjug.rs/sport/fudbal/247876/eberl-ocekujem-ravnopravan-mec-protiv-psz-a-odlucice-sitni-detalji/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 04. 2026. у 18:14",
+      "slika": null
+    },
+    {
       "naslov": "Holandski sudija Makeli sudiće prvi meč između fudbalera Atletika i Arsenala u Ligi šampiona",
       "url": "https://www.tanjug.rs/sport/fudbal/247819/holandski-sudija-makeli-sudice-prvi-mec-izmedu-fudbalera-atletika-i-arsenala-u-ligi-sampiona/vest",
       "izvor": "Танјуг",
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Reala Kilijan Mbape mora na pauzu zbog povrede mišića leve noge",
-      "url": "https://www.tanjug.rs/sport/fudbal/247785/fudbaler-reala-kilijan-mbape-mora-na-pauzu-zbog-povrede-misica-leve-noge/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 04. 2026. у 13:21",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Totenhema Ćavi Simons pokidao prednje ukrštene ligamente kolena",
-      "url": "https://www.tanjug.rs/sport/fudbal/247747/fudbaler-totenhema-cavi-simons-pokidao-prednje-ukrstene-ligamente-kolena/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 04. 2026. у 11:14",
-      "slika": null
-    },
-    {
-      "naslov": "\"Nula\" fudbalera Milana i Juventusa na San Siru",
-      "url": "https://www.tanjug.rs/sport/fudbal/247679/nula-fudbalera-milana-i-juventusa-na-san-siru/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 04. 2026. у 23:04",
+      "naslov": "&quot;Traktoristi&quot; pogurali &quot;meraklije&quot; ka prvoligaškom fudbalu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228576/traktoristi-pogurali-meraklije-ka-prvoligaskom-fudbalu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 04. 2026. у 18:58",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228484/felisio-milson-za-5-miliona-u-al-dzaziri/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "27. 04. 2026. у 14:30",
-      "slika": null
-    },
-    {
-      "naslov": "Oglasio se Arnautović posle pobede u derbiju VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228452/poruka-marka-arnautovica-posle-titule/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 04. 2026. у 13:29",
       "slika": null
     }
   ]
