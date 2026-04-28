@@ -1,11 +1,18 @@
 {
-  "azurirano": "2026-04-28T20:50:42.262476+00:00",
-  "azurirano_sr": "28. 04. 2026. у 22:50",
+  "azurirano": "2026-04-28T21:45:47.723970+00:00",
+  "azurirano_sr": "28. 04. 2026. у 23:45",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "UŽIVO - LIGA ŠAMPIONA: Pari Sen Žermen - Bajern 5:4, surov odgovor Bavaraca!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-pari-sen-zermen-bajern-54-surov-odgovor-bavaraca/542443",
+      "naslov": "Budite uz TV od 13.30 u subotu… Biće fudbalsko ludilo!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/budite-uz-tv-od-1330-u-subotu-bice-fudbalsko-ludilo/542454",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 04. 2026. у 01:08",
+      "slika": null
+    },
+    {
+      "naslov": "KRAJ - LIGA ŠAMPIONA: Pari Sen Žermen - Bajern 5:4",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-sampiona-pari-sen-zermen-bajern-54/542443",
       "izvor": "Мозарт Спорт",
       "datum": "28. 04. 2026. у 21:53",
       "slika": null
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Premijer liga nije uslišila Sitijevu molbu, igraće tri utakmice u sedam dana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/premijer-liga-nije-uslisila-sitijevu-molbu-igrace-tri-utakmice-u-sedam-dana/542429",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 04. 2026. у 19:16",
+      "naslov": "Fudbaleri Pari Sen Žermena pobedili Bajern 5:4 u spektakularnom meču polufinala Lige šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/248242/fudbaleri-pari-sen-zermena-pobedili-bajern-54-u-spektakularnom-mecu-polufinala-lige-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 04. 2026. у 23:13",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Cvajer sudi meč Šahtjor - Kristal Palas, a Rumšas duel između Rajo Valjekana i Strazbura u Ligi konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/248033/cvajer-sudi-mec-sahtjor-kristal-palas-a-rumsas-duel-izmedu-rajo-valjekana-i-strazbura-u-ligi-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 04. 2026. у 11:34",
+      "naslov": "Tanjga: &quot;Ponašaćemo se kao da igramo protiv Zvezde&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228910/tanjga-ponasacemo-se-kao-da-igramo-protiv-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 04. 2026. у 23:24",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228759/bibars-natho-upisao-trenersku-licencu-fudbalskog-saveza-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 04. 2026. у 13:00",
-      "slika": null
-    },
-    {
-      "naslov": "Borjan: &quot;Katai kao da ima 25 godina – šta je Natho doneo dobro Partizanu?&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228724/milan-borjan-o-vecitom-derbiju-dominaciji-crvene-zvezde-i-bibarsu-nathu-u-partizanu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 04. 2026. у 11:13",
       "slika": null
     }
   ]
