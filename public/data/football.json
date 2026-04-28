@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-28T12:13:37.408031+00:00",
-  "azurirano_sr": "28. 04. 2026. у 14:13",
+  "azurirano": "2026-04-28T14:41:26.485730+00:00",
+  "azurirano_sr": "28. 04. 2026. у 16:41",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Engleski fudbaler Džon Stouns na kraju sezone odlazi iz Mančester sitija",
+      "url": "https://www.tanjug.rs/sport/fudbal/248123/engleski-fudbaler-dzon-stouns-na-kraju-sezone-odlazi-iz-mancester-sitija/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 04. 2026. у 15:07",
+      "slika": null
+    },
+    {
       "naslov": "Cvajer sudi meč Šahtjor - Kristal Palas, a Rumšas duel između Rajo Valjekana i Strazbura u Ligi konferencije",
       "url": "https://www.tanjug.rs/sport/fudbal/248033/cvajer-sudi-mec-sahtjor-kristal-palas-a-rumsas-duel-izmedu-rajo-valjekana-i-strazbura-u-ligi-konferencije/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/247941/fudbaleri-espanjola-i-levantea-odigrali-bez-golova-u-la-ligi/vest",
       "izvor": "Танјуг",
       "datum": "27. 04. 2026. у 23:42",
-      "slika": null
-    },
-    {
-      "naslov": "Domeniko Tedesko nije više trener fudbalera Fenerbahčea",
-      "url": "https://www.tanjug.rs/sport/fudbal/247937/domeniko-tedesko-nije-vise-trener-fudbalera-fenerbahcea/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 04. 2026. у 23:14",
       "slika": null
     },
     {
