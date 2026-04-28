@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-28T10:34:57.308655+00:00",
-  "azurirano_sr": "28. 04. 2026. у 12:34",
+  "azurirano": "2026-04-28T12:13:37.408031+00:00",
+  "azurirano_sr": "28. 04. 2026. у 14:13",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Natho odlazi iz Partizana, a već je napravio sledeći korak",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228759/bibars-natho-upisao-trenersku-licencu-fudbalskog-saveza-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 04. 2026. у 13:00",
+      "slika": null
+    },
+    {
       "naslov": "Borjan: &quot;Katai kao da ima 25 godina – šta je Natho doneo dobro Partizanu?&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228724/milan-borjan-o-vecitom-derbiju-dominaciji-crvene-zvezde-i-bibarsu-nathu-u-partizanu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 04. 2026. у 11:13",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan ima novu letnju metu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228699/ifet-djakovac-je-zelja-partizana-za-letnji-prelazni-rok/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 04. 2026. у 10:20",
       "slika": null
     }
   ]
