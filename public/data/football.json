@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-28T06:26:34.414195+00:00",
-  "azurirano_sr": "28. 04. 2026. у 08:26",
+  "azurirano": "2026-04-28T08:42:06.442351+00:00",
+  "azurirano_sr": "28. 04. 2026. у 10:42",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Raport sa srpskoligaških terena: Nema više neporaženih, Milanovčani pognute glave posle 2.151",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-nema-vise-neporazenih-milanovcani-pognute-glave-posle-2151/542391",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 04. 2026. у 10:35",
+      "slika": null
+    },
     {
       "naslov": "Samardžić čekao 40 dana da odigra 13 minuta, Krstović promašio zicer za veliko slavlje na Sardiniji",
       "url": "https://www.mozzartsport.com/fudbal/vesti/samardzic-cekao-40-dana-da-odigra-13-minuta-krstovic-promasio-zicer-za-veliko-slavlje-na-sardiniji/542372",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/zdravko-mamic-kostov-i-avdic-ce-doneti-zvezdi-preko-50000000-evra/542346",
       "izvor": "Мозарт Спорт",
       "datum": "27. 04. 2026. у 15:10",
-      "slika": null
-    },
-    {
-      "naslov": "Savić se povredio, Trabzon i bez njega napada plasman u Ligu šampiona",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/savic-se-povredio-trabzon-i-bez-njega-napada-plasman-u-ligu-sampiona/542339",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 04. 2026. у 14:07",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Partizan ima novu letnju metu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228699/ifet-djakovac-je-zelja-partizana-za-letnji-prelazni-rok/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 04. 2026. у 10:20",
+      "slika": null
+    },
+    {
       "naslov": "Superliga: Debakl TSC-a uneo dramu u borbu za opstanak",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228607/superliga-debakl-tsc-a-uneo-dramu-u-borbu-za-opstanak/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "27. 04. 2026. у 21:09",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Traktoristi&quot; pogurali &quot;meraklije&quot; ka prvoligaškom fudbalu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228576/traktoristi-pogurali-meraklije-ka-prvoligaskom-fudbalu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 04. 2026. у 18:58",
       "slika": null
     }
   ]
