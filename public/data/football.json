@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-28T16:27:01.219618+00:00",
-  "azurirano_sr": "28. 04. 2026. у 18:27",
+  "azurirano": "2026-04-28T17:59:48.600356+00:00",
+  "azurirano_sr": "28. 04. 2026. у 19:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Može Rašford, ali ne za 30.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/moze-rasford-ali-ne-za-30000000-evra/542438",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 04. 2026. у 20:43",
+      "slika": null
+    },
     {
       "naslov": "Izgubila ga je Srbija, a gubi ga i Štutgart",
       "url": "https://www.mozzartsport.com/fudbal/vesti/izgubila-ga-je-srbija-a-gubi-ga-i-stutgart/542433",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/da-se-vidi-ko-je-najbolji/542404",
       "izvor": "Мозарт Спорт",
       "datum": "28. 04. 2026. у 13:42",
-      "slika": null
-    },
-    {
-      "naslov": "Raport sa srpskoligaških terena: Nema više neporaženih, Milanovčani pognute glave posle 2.151 minut",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-nema-vise-neporazenih-milanovcani-pognute-glave-posle-2151-minut/542391",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 04. 2026. у 10:35",
       "slika": null
     },
     {
