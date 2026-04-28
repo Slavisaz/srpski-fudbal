@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-28T17:59:48.600356+00:00",
-  "azurirano_sr": "28. 04. 2026. у 19:59",
+  "azurirano": "2026-04-28T19:44:06.238154+00:00",
+  "azurirano_sr": "28. 04. 2026. у 21:44",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "UŽIVO - LIGA ŠAMPIONA: Pari Sen Žermen - Bajern 1:1, Kvaradonaaaaa!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-pari-sen-zermen-bajern-11-kvaradonaaaaa/542443",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 04. 2026. у 21:53",
+      "slika": null
+    },
     {
       "naslov": "Može Rašford, ali ne za 30.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/moze-rasford-ali-ne-za-30000000-evra/542438",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/premijer-liga-nije-uslisila-sitijevu-molbu-igrace-tri-utakmice-u-sedam-dana/542429",
       "izvor": "Мозарт Спорт",
       "datum": "28. 04. 2026. у 19:16",
-      "slika": null
-    },
-    {
-      "naslov": "Da se vidi ko je najbolji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/da-se-vidi-ko-je-najbolji/542404",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 04. 2026. у 13:42",
       "slika": null
     },
     {
