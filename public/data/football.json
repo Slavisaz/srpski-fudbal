@@ -1,11 +1,18 @@
 {
-  "azurirano": "2026-04-28T08:42:06.442351+00:00",
-  "azurirano_sr": "28. 04. 2026. у 10:42",
+  "azurirano": "2026-04-28T10:34:57.308655+00:00",
+  "azurirano_sr": "28. 04. 2026. у 12:34",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Raport sa srpskoligaških terena: Nema više neporaženih, Milanovčani pognute glave posle 2.151",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-nema-vise-neporazenih-milanovcani-pognute-glave-posle-2151/542391",
+      "naslov": "Da se vidi ko je najbolji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/da-se-vidi-ko-je-najbolji/542404",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 04. 2026. у 13:42",
+      "slika": null
+    },
+    {
+      "naslov": "Raport sa srpskoligaških terena: Nema više neporaženih, Milanovčani pognute glave posle 2.151 minut",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-nema-vise-neporazenih-milanovcani-pognute-glave-posle-2151-minut/542391",
       "izvor": "Мозарт Спорт",
       "datum": "28. 04. 2026. у 10:35",
       "slika": null
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Zdravko Mamić: Kostov i Avdić će doneti Zvezdi preko 50.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zdravko-mamic-kostov-i-avdic-ce-doneti-zvezdi-preko-50000000-evra/542346",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 04. 2026. у 15:10",
+      "naslov": "Cvajer sudi meč Šahtjor - Kristal Palas, a Rumšas duel između Rajo Valjekana i Strazbura u Ligi konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/248033/cvajer-sudi-mec-sahtjor-kristal-palas-a-rumsas-duel-izmedu-rajo-valjekana-i-strazbura-u-ligi-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 04. 2026. у 11:34",
+      "slika": null
+    },
+    {
+      "naslov": "Tejlor sudi meč Braga - Frajburg, Pinjeiro duel između N. Foresta i Aston Vile u LE",
+      "url": "https://www.tanjug.rs/sport/fudbal/248001/tejlor-sudi-mec-braga-frajburg-pinjeiro-duel-izmedu-n-foresta-i-aston-vile-u-le/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 04. 2026. у 10:19",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Mančester junajteda nadigrali Brentford u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/247935/fudbaleri-mancester-junajteda-nadigrali-brentford-u-premijer-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 04. 2026. у 22:58",
-      "slika": null
-    },
-    {
-      "naslov": "Remi fudbalera Lacija i Udinezea u Seriji A",
-      "url": "https://www.tanjug.rs/sport/fudbal/247932/remi-fudbalera-lacija-i-udinezea-u-seriji-a/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 04. 2026. у 22:46",
+      "naslov": "Borjan: &quot;Katai kao da ima 25 godina – šta je Natho doneo dobro Partizanu?&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228724/milan-borjan-o-vecitom-derbiju-dominaciji-crvene-zvezde-i-bibarsu-nathu-u-partizanu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 04. 2026. у 11:13",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228699/ifet-djakovac-je-zelja-partizana-za-letnji-prelazni-rok/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 04. 2026. у 10:20",
-      "slika": null
-    },
-    {
-      "naslov": "Superliga: Debakl TSC-a uneo dramu u borbu za opstanak",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228607/superliga-debakl-tsc-a-uneo-dramu-u-borbu-za-opstanak/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 04. 2026. у 21:09",
       "slika": null
     }
   ]
