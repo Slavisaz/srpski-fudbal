@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-28T14:41:26.485730+00:00",
-  "azurirano_sr": "28. 04. 2026. у 16:41",
+  "azurirano": "2026-04-28T16:27:01.219618+00:00",
+  "azurirano_sr": "28. 04. 2026. у 18:27",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Izgubila ga je Srbija, a gubi ga i Štutgart",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/izgubila-ga-je-srbija-a-gubi-ga-i-stutgart/542433",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 04. 2026. у 19:51",
+      "slika": null
+    },
+    {
+      "naslov": "Premijer liga nije uslišila Sitijevu molbu, igraće tri utakmice u sedam dana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/premijer-liga-nije-uslisila-sitijevu-molbu-igrace-tri-utakmice-u-sedam-dana/542429",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 04. 2026. у 19:16",
+      "slika": null
+    },
     {
       "naslov": "Da se vidi ko je najbolji",
       "url": "https://www.mozzartsport.com/fudbal/vesti/da-se-vidi-ko-je-najbolji/542404",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Samardžić čekao 40 dana da odigra 13 minuta, Krstović promašio zicer za veliko slavlje na Sardiniji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/samardzic-cekao-40-dana-da-odigra-13-minuta-krstovic-promasio-zicer-za-veliko-slavlje-na-sardiniji/542372",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 04. 2026. у 22:40",
-      "slika": null
-    },
-    {
-      "naslov": "Atalanta na Sardiniji hvata poslednji voz za Evropu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/atalanta-na-sardiniji-hvata-poslednji-voz-za-evropu/542352",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 04. 2026. у 17:06",
+      "naslov": "Fudbaler Reala Eder Militao uspešno operisan, povratak na teren za pet meseci",
+      "url": "https://www.tanjug.rs/sport/fudbal/248183/fudbaler-reala-eder-militao-uspesno-operisan-povratak-na-teren-za-pet-meseci/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 04. 2026. у 17:51",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/248001/tejlor-sudi-mec-braga-frajburg-pinjeiro-duel-izmedu-n-foresta-i-aston-vile-u-le/vest",
       "izvor": "Танјуг",
       "datum": "28. 04. 2026. у 10:19",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Espanjola i Levantea odigrali bez golova u La Ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/247941/fudbaleri-espanjola-i-levantea-odigrali-bez-golova-u-la-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 04. 2026. у 23:42",
       "slika": null
     },
     {
