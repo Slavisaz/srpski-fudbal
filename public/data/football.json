@@ -1,11 +1,11 @@
 {
-  "azurirano": "2026-04-28T19:44:06.238154+00:00",
-  "azurirano_sr": "28. 04. 2026. у 21:44",
+  "azurirano": "2026-04-28T20:50:42.262476+00:00",
+  "azurirano_sr": "28. 04. 2026. у 22:50",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "UŽIVO - LIGA ŠAMPIONA: Pari Sen Žermen - Bajern 1:1, Kvaradonaaaaa!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-pari-sen-zermen-bajern-11-kvaradonaaaaa/542443",
+      "naslov": "UŽIVO - LIGA ŠAMPIONA: Pari Sen Žermen - Bajern 5:4, surov odgovor Bavaraca!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-pari-sen-zermen-bajern-54-surov-odgovor-bavaraca/542443",
       "izvor": "Мозарт Спорт",
       "datum": "28. 04. 2026. у 21:53",
       "slika": null
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Srpski fudbaler Sergej Milinković-Savić strelac za pobedu Al Hilala",
+      "url": "https://www.tanjug.rs/sport/fudbal/248230/srpski-fudbaler-sergej-milinkovic-savic-strelac-za-pobedu-al-hilala/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 04. 2026. у 21:59",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaler Reala Eder Militao uspešno operisan, povratak na teren za pet meseci",
       "url": "https://www.tanjug.rs/sport/fudbal/248183/fudbaler-reala-eder-militao-uspesno-operisan-povratak-na-teren-za-pet-meseci/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/248033/cvajer-sudi-mec-sahtjor-kristal-palas-a-rumsas-duel-izmedu-rajo-valjekana-i-strazbura-u-ligi-konferencije/vest",
       "izvor": "Танјуг",
       "datum": "28. 04. 2026. у 11:34",
-      "slika": null
-    },
-    {
-      "naslov": "Tejlor sudi meč Braga - Frajburg, Pinjeiro duel između N. Foresta i Aston Vile u LE",
-      "url": "https://www.tanjug.rs/sport/fudbal/248001/tejlor-sudi-mec-braga-frajburg-pinjeiro-duel-izmedu-n-foresta-i-aston-vile-u-le/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 04. 2026. у 10:19",
       "slika": null
     },
     {
