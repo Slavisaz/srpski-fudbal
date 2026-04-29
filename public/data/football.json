@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-29T17:55:24.752266+00:00",
-  "azurirano_sr": "29. 04. 2026. у 19:55",
+  "azurirano": "2026-04-29T19:08:24.427736+00:00",
+  "azurirano_sr": "29. 04. 2026. у 21:08",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Darko Lazić naterao Vojvodinu da se dobro oznoji na Marakani, džoker Sukačev doneo novo finale",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/darko-lazic-naterao-vojvodinu-da-se-dobro-oznoji-na-marakani-dzoker-sukacev-doneo-novo-finale/542516",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 04. 2026. у 22:30",
+      "slika": null
+    },
+    {
+      "naslov": "Handel se otvorio Portugalcima o Zvezdi, Srbiji, razlikama u fudbalu i… Tenkovima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/handel-se-otvorio-portugalcima-o-zvezdi-srbiji-razlikama-u-fudbalu-i-tenkovima/542521",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 04. 2026. у 21:45",
+      "slika": null
+    },
     {
       "naslov": "Stanković: U narednih mesec dana biramo kako ćemo dalje",
       "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-u-narednih-mesec-dana-biramo-kako-cemo-dalje/542503",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Bonus pravilo postaje globalno",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bonus-pravilo-postaje-globalno/542488",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 04. 2026. у 16:34",
-      "slika": null
-    },
-    {
-      "naslov": "Mesarović gubi bitku za duplu krunu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mesarovic-gubi-bitku-za-duplu-krunu/542486",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 04. 2026. у 15:39",
+      "naslov": "Fudbaleri Vojvodine prvi finalisti Kupa Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/248498/fudbaleri-vojvodine-prvi-finalisti-kupa-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 04. 2026. у 20:32",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Edmon Tapsoba produžio ugovor sa Bajer Leverkuzenom do 2031. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/248337/edmon-tapsoba-produzio-ugovor-sa-bajer-leverkuzenom-do-2031-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 04. 2026. у 12:03",
+      "naslov": "Ranđelović plesao po Marakani – Vojvodina u finalu Kupa! VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229246/vojvodina-u-finalu-kupa/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 04. 2026. у 20:30",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229171/zoran-tosic-ostro-o-stanju-u-fk-partizan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "29. 04. 2026. у 18:50",
-      "slika": null
-    },
-    {
-      "naslov": "Mihajlović gađao Ljajića daljinskim – anegdota iz svlačionice Srbije se i danas prepričava",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229166/emilio-de-leo-ispricao-kako-je-sinisa-mihajlovic-gadjao-daljinskim-adema-ljajica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 04. 2026. у 16:40",
       "slika": null
     }
   ]
