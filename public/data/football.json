@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-29T04:41:20.199330+00:00",
-  "azurirano_sr": "29. 04. 2026. у 06:41",
+  "azurirano": "2026-04-29T07:08:28.340015+00:00",
+  "azurirano_sr": "29. 04. 2026. у 09:08",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Fudbal nikome ništa ne duguje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbal-nikome-nista-ne-duguje/542465",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 04. 2026. у 10:33",
+      "slika": null
+    },
+    {
+      "naslov": "NAJAVA DANA (sreda, 29. april): Atletiko Madrid – Arsenal, pre svega, a tu je i Evroliga uz Real i Hapoel",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-sreda-29-april-atletiko-madrid-arsenal-pre-svega-a-tu-je-i-evroliga-uz-real-i-hapoel/542416",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 04. 2026. у 10:15",
+      "slika": null
+    },
     {
       "naslov": "Budite uz TV od 13.30 u subotu… Biće fudbalsko ludilo!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/budite-uz-tv-od-1330-u-subotu-bice-fudbalsko-ludilo/542454",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-sampiona-pari-sen-zermen-bajern-54/542443",
       "izvor": "Мозарт Спорт",
       "datum": "28. 04. 2026. у 21:53",
-      "slika": null
-    },
-    {
-      "naslov": "Može Rašford, ali ne za 30.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/moze-rasford-ali-ne-za-30000000-evra/542438",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 04. 2026. у 20:43",
-      "slika": null
-    },
-    {
-      "naslov": "Izgubila ga je Srbija, a gubi ga i Štutgart",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/izgubila-ga-je-srbija-a-gubi-ga-i-stutgart/542433",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 04. 2026. у 19:51",
       "slika": null
     },
     {
