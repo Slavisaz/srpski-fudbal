@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-29T09:24:53.474347+00:00",
-  "azurirano_sr": "29. 04. 2026. у 11:24",
+  "azurirano": "2026-04-29T11:10:39.481220+00:00",
+  "azurirano_sr": "29. 04. 2026. у 13:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Olajinka živnuo na kiparskom suncu: Nagrada, golovi u seriji i borba za trofej",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/olajinka-zivnuo-na-kiparskom-suncu-nagrada-golovi-u-seriji-i-borba-za-trofej/542480",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 04. 2026. у 14:07",
+      "slika": null
+    },
+    {
+      "naslov": "Buongiorno Italia: Još jedna Milanova revolucija u napadu, Rosoneri nemaju više strpljenja za Leaa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-jos-jedna-milanova-revolucija-u-napadu-rosoneri-nemaju-vise-strpljenja-za-leaa/542477",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 04. 2026. у 13:43",
+      "slika": null
+    },
     {
       "naslov": "Smenio deset trenera, spiskao 500.000.000 na transfere, a sad bi da popravi situaciju u River Plejtu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/smenio-deset-trenera-spiskao-500000000-na-transfere-a-sad-bi-da-popravi-situaciju-u-river-plejtu/542475",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/dvojke-na-tobdzije-i-al-itihad-najskuplje-placa-mozzart/542474",
       "izvor": "Мозарт Спорт",
       "datum": "29. 04. 2026. у 12:42",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbal budućnosti ili fudbal bez odbrane?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbal-buducnosti-ili-fudbal-bez-odbrane/542470",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 04. 2026. у 12:17",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbal nikome ništa ne duguje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbal-nikome-nista-ne-duguje/542465",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 04. 2026. у 10:33",
       "slika": null
     },
     {
@@ -64,6 +64,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/228910/tanjga-ponasacemo-se-kao-da-igramo-protiv-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 04. 2026. у 23:24",
+      "slika": null
+    },
+    {
+      "naslov": "&quot;On radi tiho i bez pompe – za razliku od Stankovića&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/229078/andrej-arsavin-o-dejanu-stankovicu-u-spartaku-u-moskvi/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "29. 04. 2026. у 12:39",
       "slika": null
     },
     {
