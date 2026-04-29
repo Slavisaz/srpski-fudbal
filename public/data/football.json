@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-04-29T16:27:28.041881+00:00",
-  "azurirano_sr": "29. 04. 2026. у 18:27",
+  "azurirano": "2026-04-29T17:55:24.752266+00:00",
+  "azurirano_sr": "29. 04. 2026. у 19:55",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Bambi Tošić: &quot;Pojedinci zalutali na funkcije u Partizanu – pobrkali su se lončići&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229171/zoran-tosic-ostro-o-stanju-u-fk-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 04. 2026. у 18:50",
+      "slika": null
+    },
+    {
       "naslov": "Mihajlović gađao Ljajića daljinskim – anegdota iz svlačionice Srbije se i danas prepričava",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229166/emilio-de-leo-ispricao-kako-je-sinisa-mihajlovic-gadjao-daljinskim-adema-ljajica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "29. 04. 2026. у 16:40",
-      "slika": null
-    },
-    {
-      "naslov": "Nemci lansirali: Preokret – Demba Sek napušta Partizan?!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229148/nemacki-mediji-demba-sek-napusta-fk-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 04. 2026. у 15:59",
       "slika": null
     }
   ]
