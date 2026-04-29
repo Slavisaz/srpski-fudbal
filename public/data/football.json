@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-29T21:33:08.542894+00:00",
-  "azurirano_sr": "29. 04. 2026. у 23:33",
+  "azurirano": "2026-04-29T22:33:53.159245+00:00",
+  "azurirano_sr": "30. 04. 2026. у 00:33",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Opšte ludilo u Lisabonu: Sporting primio dva gola u nadoknadi i visi i Liga šampiona (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/opste-ludilo-u-lisabonu-sporting-primio-dva-gola-u-nadoknadi-i-visi-i-liga-sampiona-video/542537",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 04. 2026. у 01:38",
+      "slika": null
+    },
     {
       "naslov": "Amerikance zanima samo profit, ne i budućnost kluba: Bez nas ne biste postojali",
       "url": "https://www.mozzartsport.com/fudbal/vesti/amerikance-zanima-samo-profit-ne-i-buducnost-kluba-bez-nas-ne-biste-postojali/542501",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Darko Lazić naterao Vojvodinu da se dobro oznoji na Marakani, džoker Sukačev doneo novo finale",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/darko-lazic-naterao-vojvodinu-da-se-dobro-oznoji-na-marakani-dzoker-sukacev-doneo-novo-finale/542516",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 04. 2026. у 22:30",
+      "naslov": "Iranski zvaničnici neće prisustvovati kongresu FIFA u Kanadi",
+      "url": "https://www.tanjug.rs/sport/fudbal/248520/iranski-zvanicnici-nece-prisustvovati-kongresu-fifa-u-kanadi/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 04. 2026. у 23:41",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaler Pari Sen Žermena Hakimi neće igrati u revanšu protiv Bajerna zbog povrede",
+      "url": "https://www.tanjug.rs/sport/fudbal/248522/fudbaler-pari-sen-zermena-hakimi-nece-igrati-u-revansu-protiv-bajerna-zbog-povrede/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 04. 2026. у 23:19",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/248498/fudbaleri-vojvodine-prvi-finalisti-kupa-srbije/vest",
       "izvor": "Танјуг",
       "datum": "29. 04. 2026. у 20:32",
-      "slika": null
-    },
-    {
-      "naslov": "FSS: Srbija 31. maja u Lisabonu igra prijateljski meč protiv Zelenortskih Ostrva",
-      "url": "https://www.tanjug.rs/sport/fudbal/248429/fss-srbija-31-maja-u-lisabonu-igra-prijateljski-mec-protiv-zelenortskih-ostrva/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 04. 2026. у 15:28",
-      "slika": null
-    },
-    {
-      "naslov": "Dejan Stanković: Navijači žele da vide svoju Zvezdu koja ide do kraja",
-      "url": "https://www.tanjug.rs/sport/fudbal/248394/dejan-stankovic-navijaci-zele-da-vide-svoju-zvezdu-koja-ide-do-kraja/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 04. 2026. у 13:59",
       "slika": null
     },
     {
