@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-30T07:14:29.442907+00:00",
-  "azurirano_sr": "30. 04. 2026. у 09:14",
+  "azurirano": "2026-04-30T09:25:41.439573+00:00",
+  "azurirano_sr": "30. 04. 2026. у 11:25",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Emerijeva poslastica – Liga Evrope, Šumari na turbo pogon Morgana Gibsa Vajta",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/emerijeva-poslastica-liga-evrope-sumari-na-turbo-pogon-morgana-gibsa-vajta/542553",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 04. 2026. у 12:00",
+      "slika": null
+    },
+    {
+      "naslov": "Dan koji je Ub čekao: Dolazak Zvezde kruna nove istorije Jedinstva, stiže nam najbolji tim na Balkanu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dan-koji-je-ub-cekao-dolazak-zvezde-kruna-nove-istorije-jedinstva-stize-nam-najbolji-tim-na-balkanu/542552",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 04. 2026. у 11:30",
+      "slika": null
+    },
     {
       "naslov": "NAJAVA DANA (četvrtak, 30. april): Evroliga, Liga Evrope i Liga konferencije su u prvom planu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-cetvrtak-30-april-evroliga-liga-evrope-i-liga-konferencije-su-u-prvom-planu/542495",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Arteta besan: Gledali su snimak 13 puta, neprihvatljivo; Inkapije: Nisu nam dosudili čist penal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/arteta-besan-gledali-su-snimak-13-puta-neprihvatljivo-inkapije-nisu-nam-dosudili-cist-penal/542539",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 02:17",
+      "naslov": "Arteta: Ne razumem zašto nam je poništen penal, bila je to pogrešna odluka",
+      "url": "https://www.tanjug.rs/sport/fudbal/248576/arteta-ne-razumem-zasto-nam-je-ponisten-penal-bila-je-to-pogresna-odluka/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 04. 2026. у 10:06",
       "slika": null
     },
     {
-      "naslov": "Opšte ludilo u Lisabonu: Sporting primio dva gola u nadoknadi i visi i Liga šampiona (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/opste-ludilo-u-lisabonu-sporting-primio-dva-gola-u-nadoknadi-i-visi-i-liga-sampiona-video/542537",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 01:38",
+      "naslov": "Simeone: Arsenal je vrhunski tim, bili smo bolji u drugom poluvremenu",
+      "url": "https://www.tanjug.rs/sport/fudbal/248568/simeone-arsenal-je-vrhunski-tim-bili-smo-bolji-u-drugom-poluvremenu/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 04. 2026. у 09:42",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Atletika i Arsenala odigrali 1:1 u prvom meču polufinala Lige šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/248519/fudbaleri-atletika-i-arsenala-odigrali-11-u-prvom-mecu-polufinala-lige-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 04. 2026. у 23:10",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Vojvodine prvi finalisti Kupa Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/248498/fudbaleri-vojvodine-prvi-finalisti-kupa-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 04. 2026. у 20:32",
+      "naslov": "Zvezdin stranac: &quot;Izlazim na prozor i vidim prolazi deset tenkova&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229303/tomas-handel-otvorio-dusu-o-crvenoj-zvezdi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "30. 04. 2026. у 09:56",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229297/partizan-daje-nove-ugovore-marku-milosevicu-i-milosu-krunicu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "30. 04. 2026. у 08:50",
-      "slika": null
-    },
-    {
-      "naslov": "Ranđelović plesao po Marakani – Vojvodina u finalu Kupa! VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229246/vojvodina-u-finalu-kupa/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 04. 2026. у 20:30",
       "slika": null
     }
   ]
