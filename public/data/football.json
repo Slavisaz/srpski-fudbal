@@ -1,13 +1,20 @@
 {
-  "azurirano": "2026-04-30T18:57:25.847567+00:00",
-  "azurirano_sr": "30. 04. 2026. у 20:57",
+  "azurirano": "2026-04-30T20:07:03.987294+00:00",
+  "azurirano_sr": "30. 04. 2026. у 22:07",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "SASTAVI - Liga Evrope & Liga Konferencije: Englesko polufinale u centru pažnje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sastavi-liga-evrope-liga-konferencije-englesko-polufinale-u-centru-paznje/542607",
+      "naslov": "UŽIVO - Liga Evrope & Liga konferencije: Nestvarna odbrana Dibua; Braga promašila penal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-evrope-liga-konferencije-nestvarna-odbrana-dibua-braga-promasila-penal/542607",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 22:00",
+      "datum": "30. 04. 2026. у 23:21",
+      "slika": null
+    },
+    {
+      "naslov": "Bravo, Ubljani! Zvezda ide po šestu duplu u nizu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bravo-ubljani-zvezda-ide-po-sestu-duplu-u-nizu/542614",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 04. 2026. у 22:47",
       "slika": null
     },
     {
@@ -18,17 +25,17 @@
       "slika": null
     },
     {
-      "naslov": "UŽIVO: Jedinstvo - Crvena zvezda 1:2, DUARTEEEE!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-jedinstvo-crvena-zvezda-12-duarteeee/542594",
+      "naslov": "KRAJ: Jedinstvo - Crvena zvezda 1:2",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-jedinstvo-crvena-zvezda-12/542594",
       "izvor": "Мозарт Спорт",
       "datum": "30. 04. 2026. у 19:29",
       "slika": null
     },
     {
-      "naslov": "Tanjga: Plasmanom u finale Kupa smo ispunili ciljeve za ovu sezonu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tanjga-plasmanom-u-finale-kupa-smo-ispunili-ciljeve-za-ovu-sezonu/542593",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 19:08",
+      "naslov": "Dejan Stanković: Ovakve utakmice ti daju mnogo odgovora, drugo poluvreme za primer",
+      "url": "https://www.tanjug.rs/sport/fudbal/248812/dejan-stankovic-ovakve-utakmice-ti-daju-mnogo-odgovora-drugo-poluvreme-za-primer/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 04. 2026. у 21:31",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Skot Parker nije više menadžer fudbalera Barnlija",
-      "url": "https://www.tanjug.rs/sport/fudbal/248631/skot-parker-nije-vise-menadzer-fudbalera-barnlija/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 04. 2026. у 12:13",
+      "naslov": "Matić: &quot;Ponosan kako su igrali protiv najjače ekipe na Balkanu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229558/uros-matic-izjava-posle-jedinstvo-crvena-zvezda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "30. 04. 2026. у 21:05",
       "slika": null
     },
     {
-      "naslov": "Zvezda se namučila sa drugoligašem i zakazala reprizu finala Kupa VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229487/kup-srbije-polufinale-jedinstvo-crvena-zvezda-12-11/vest",
+      "naslov": "Stanković: &quot;To ne može&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229555/dejan-stankovic-izjava-posle-jedinstvo-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 04. 2026. у 20:52",
-      "slika": null
-    },
-    {
-      "naslov": "Mijatovićev odgovor na saopštenje: &quot;Svi se kriju iza imena FK Partizan&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229529/mijatovicev-odgovor-na-saopstenje-svi-se-kriju-iza-imena-fk-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "30. 04. 2026. у 19:02",
+      "datum": "30. 04. 2026. у 21:02",
       "slika": null
     }
   ]
