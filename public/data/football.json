@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-30T16:10:44.593163+00:00",
-  "azurirano_sr": "30. 04. 2026. у 18:10",
+  "azurirano": "2026-04-30T17:42:55.311404+00:00",
+  "azurirano_sr": "30. 04. 2026. у 19:42",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Mundijal, pa penzija! Očoa spreman za šesto svetsko prvenstvo u karijeri",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mundijal-pa-penzija-ocoa-spreman-za-sesto-svetsko-prvenstvo-u-karijeri/542605",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 04. 2026. у 21:16",
+      "slika": null
+    },
+    {
+      "naslov": "UŽIVO: Jedinstvo - Crvena zvezda 0:1, Učena!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-jedinstvo-crvena-zvezda-01-ucena/542594",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 04. 2026. у 19:29",
+      "slika": null
+    },
     {
       "naslov": "Tanjga: Plasmanom u finale Kupa smo ispunili ciljeve za ovu sezonu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/tanjga-plasmanom-u-finale-kupa-smo-ispunili-ciljeve-za-ovu-sezonu/542593",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/najveci-transfer-guru-arsenal-kontaktirao-kostova-ozbiljno-ga-prate/542586",
       "izvor": "Мозарт Спорт",
       "datum": "30. 04. 2026. у 18:30",
-      "slika": null
-    },
-    {
-      "naslov": "Finale Kupa Srbije u Loznici",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/finale-kupa-srbije-u-loznici/542583",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 17:43",
-      "slika": null
-    },
-    {
-      "naslov": "Pejčinović: Otvorio sam građevinsku kompaniju i upisao za trenersku licencu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pejcinovic-otvorio-sam-graevinsku-kompaniju-i-upisao-za-trenersku-licencu/542577",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 16:35",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Zvezda u Ubu traži kartu za finale Kupa – poznati sastavi",
+      "naslov": "Zvezda umalo poklekla pred poluvreme VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229487/kup-srbije-polufinale-jedinstvo-crvena-zvezda-live-prenos-gde-gledati/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 04. 2026. у 17:57",
+      "datum": "30. 04. 2026. у 19:39",
       "slika": null
     },
     {
-      "naslov": "Željina munja preko &quot;Fudbal menadžera&quot; došla do reprezentacije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229394/silvester-dzasper-preko-fudbal-menadzera-dosao-do-reprezentacije/vest",
+      "naslov": "Mijatovićev odgovor na saopštenje: &quot;Svi se kriju iza imena FK Partizan&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229529/mijatovicev-odgovor-na-saopstenje-svi-se-kriju-iza-imena-fk-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 04. 2026. у 17:15",
+      "datum": "30. 04. 2026. у 19:02",
       "slika": null
     }
   ]
