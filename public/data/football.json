@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-30T17:42:55.311404+00:00",
-  "azurirano_sr": "30. 04. 2026. у 19:42",
+  "azurirano": "2026-04-30T18:57:25.847567+00:00",
+  "azurirano_sr": "30. 04. 2026. у 20:57",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "SASTAVI - Liga Evrope & Liga Konferencije: Englesko polufinale u centru pažnje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sastavi-liga-evrope-liga-konferencije-englesko-polufinale-u-centru-paznje/542607",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 04. 2026. у 22:00",
+      "slika": null
+    },
     {
       "naslov": "Mundijal, pa penzija! Očoa spreman za šesto svetsko prvenstvo u karijeri",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mundijal-pa-penzija-ocoa-spreman-za-sesto-svetsko-prvenstvo-u-karijeri/542605",
@@ -11,8 +18,8 @@
       "slika": null
     },
     {
-      "naslov": "UŽIVO: Jedinstvo - Crvena zvezda 0:1, Učena!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-jedinstvo-crvena-zvezda-01-ucena/542594",
+      "naslov": "UŽIVO: Jedinstvo - Crvena zvezda 1:2, DUARTEEEE!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-jedinstvo-crvena-zvezda-12-duarteeee/542594",
       "izvor": "Мозарт Спорт",
       "datum": "30. 04. 2026. у 19:29",
       "slika": null
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Najveći transfer guru: Arsenal kontaktirao Kostova, ozbiljno ga prate",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najveci-transfer-guru-arsenal-kontaktirao-kostova-ozbiljno-ga-prate/542586",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 18:30",
+      "naslov": "Fudbaleri Crvene zvezde pobedom protiv Jedinstva izborili novo finale Kupa Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/248805/fudbaleri-crvene-zvezde-pobedom-protiv-jedinstva-izborili-novo-finale-kupa-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 04. 2026. у 20:53",
       "slika": null
     },
     {
@@ -53,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Engleski fudbaler Ešli Jang na kraju sezone završava igračku karijeru",
-      "url": "https://www.tanjug.rs/sport/fudbal/248626/engleski-fudbaler-esli-jang-na-kraju-sezone-zavrsava-igracku-karijeru/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 04. 2026. у 11:55",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda umalo poklekla pred poluvreme VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229487/kup-srbije-polufinale-jedinstvo-crvena-zvezda-live-prenos-gde-gledati/vest",
+      "naslov": "Zvezda se namučila sa drugoligašem i zakazala reprizu finala Kupa VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229487/kup-srbije-polufinale-jedinstvo-crvena-zvezda-12-11/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 04. 2026. у 19:39",
+      "datum": "30. 04. 2026. у 20:52",
       "slika": null
     },
     {
