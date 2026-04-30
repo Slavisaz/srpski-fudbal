@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-30T04:44:14.134786+00:00",
-  "azurirano_sr": "30. 04. 2026. у 06:44",
+  "azurirano": "2026-04-30T07:14:29.442907+00:00",
+  "azurirano_sr": "30. 04. 2026. у 09:14",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (četvrtak, 30. april): Evroliga, Liga Evrope i Liga konferencije su u prvom planu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-cetvrtak-30-april-evroliga-liga-evrope-i-liga-konferencije-su-u-prvom-planu/542495",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 04. 2026. у 10:15",
+      "slika": null
+    },
     {
       "naslov": "Po gol na obe strane i po crveni za trenere - klasičan južnoamerički derbi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/po-gol-na-obe-strane-i-po-crveni-za-trenere-klasican-juznoamericki-derbi/542543",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/opste-ludilo-u-lisabonu-sporting-primio-dva-gola-u-nadoknadi-i-visi-i-liga-sampiona-video/542537",
       "izvor": "Мозарт Спорт",
       "datum": "30. 04. 2026. у 01:38",
-      "slika": null
-    },
-    {
-      "naslov": "Amerikance zanima samo profit, ne i budućnost kluba: Bez nas ne biste postojali",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/amerikance-zanima-samo-profit-ne-i-buducnost-kluba-bez-nas-ne-biste-postojali/542501",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 00:44",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Spremaju se novi ugovori u Partizanu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229297/partizan-daje-nove-ugovore-marku-milosevicu-i-milosu-krunicu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "30. 04. 2026. у 08:50",
+      "slika": null
+    },
+    {
       "naslov": "Ranđelović plesao po Marakani – Vojvodina u finalu Kupa! VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229246/vojvodina-u-finalu-kupa/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "29. 04. 2026. у 20:30",
-      "slika": null
-    },
-    {
-      "naslov": "Bambi Tošić: &quot;Pojedinci zalutali na funkcije u Partizanu – pobrkali su se lončići&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229171/zoran-tosic-ostro-o-stanju-u-fk-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 04. 2026. у 18:50",
       "slika": null
     }
   ]
