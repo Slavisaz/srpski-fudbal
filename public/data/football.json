@@ -1,11 +1,25 @@
 {
-  "azurirano": "2026-04-30T21:13:21.740038+00:00",
-  "azurirano_sr": "30. 04. 2026. у 23:13",
+  "azurirano": "2026-04-30T22:08:54.186180+00:00",
+  "azurirano_sr": "1. 05. 2026. у 00:08",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "UŽIVO - Liga Evrope & Liga konferencije: Palas jednom nogom u finalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-evrope-liga-konferencije-palas-jednom-nogom-u-finalu/542607",
+      "naslov": "Miriše da će London imati finalistu evro kupa: Palas ide stopama Čelsija i Vest Hema",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mirise-da-ce-london-imati-finalistu-evro-kupa-palas-ide-stopama-celsija-i-vest-hema/542622",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 05. 2026. у 01:04",
+      "slika": null
+    },
+    {
+      "naslov": "Brazilci kuvaju transfer mimo prelaznog roka: Hulk se dogovorio sa Fluminenseom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/brazilci-kuvaju-transfer-mimo-prelaznog-roka-hulk-se-dogovorio-sa-fluminenseom/542585",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 05. 2026. у 01:00",
+      "slika": null
+    },
+    {
+      "naslov": "KRAJ - Liga Evrope & Liga konferencije: Palas jednom nogom u finalu, Frajburg kapitulirao u nadoknadi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-evrope-liga-konferencije-palas-jednom-nogom-u-finalu-frajburg-kapitulirao-u-nadoknadi/542607",
       "izvor": "Мозарт Спорт",
       "datum": "30. 04. 2026. у 23:21",
       "slika": null
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Mundijal, pa penzija! Očoa spreman za šesto svetsko prvenstvo u karijeri",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mundijal-pa-penzija-ocoa-spreman-za-sesto-svetsko-prvenstvo-u-karijeri/542605",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 21:16",
+      "naslov": "Fudbaleri Kristal Palasa pobedili Šahtjor, \"minimalac\" Rajo Valjekana protiv Strazbura",
+      "url": "https://www.tanjug.rs/sport/fudbal/248823/fudbaleri-kristal-palasa-pobedili-sahtjor-minimalac-rajo-valjekana-protiv-strazbura/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 04. 2026. у 23:10",
       "slika": null
     },
     {
-      "naslov": "KRAJ: Jedinstvo - Crvena zvezda 1:2",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-jedinstvo-crvena-zvezda-12/542594",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 19:29",
+      "naslov": "Notingem Forest iz penala do prednosti protiv Aston Vile, Braga bolja od Frajburga",
+      "url": "https://www.tanjug.rs/sport/fudbal/248822/notingem-forest-iz-penala-do-prednosti-protiv-aston-vile-braga-bolja-od-frajburga/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 04. 2026. у 23:00",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/248805/fudbaleri-crvene-zvezde-pobedom-protiv-jedinstva-izborili-novo-finale-kupa-srbije/vest",
       "izvor": "Танјуг",
       "datum": "30. 04. 2026. у 20:53",
-      "slika": null
-    },
-    {
-      "naslov": "FSS: Finale Kupa Srbije odigraće se 13. maja na stadionu \"Lagator\" u Loznici",
-      "url": "https://www.tanjug.rs/sport/fudbal/248738/fss-finale-kupa-srbije-odigrace-se-13-maja-na-stadionu-lagator-u-loznici/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 04. 2026. у 15:50",
-      "slika": null
-    },
-    {
-      "naslov": "Engleski fudbaler Kobi Mejnu produžio ugovor sa Mančester junajtedom",
-      "url": "https://www.tanjug.rs/sport/fudbal/248670/engleski-fudbaler-kobi-mejnu-produzio-ugovor-sa-mancester-junajtedom/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 04. 2026. у 13:32",
       "slika": null
     },
     {
