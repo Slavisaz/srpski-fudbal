@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-30T12:52:47.194561+00:00",
-  "azurirano_sr": "30. 04. 2026. у 14:52",
+  "azurirano": "2026-04-30T14:54:18.637409+00:00",
+  "azurirano_sr": "30. 04. 2026. у 16:54",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Najveći transfer guru: Arsenal kontaktirao Kostova, ozbiljno ga prate",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najveci-transfer-guru-arsenal-kontaktirao-kostova-ozbiljno-ga-prate/542586",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 04. 2026. у 18:30",
+      "slika": null
+    },
+    {
+      "naslov": "Finale Kupa Srbije u Loznici",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/finale-kupa-srbije-u-loznici/542583",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 04. 2026. у 17:43",
+      "slika": null
+    },
     {
       "naslov": "Pejčinović: Otvorio sam građevinsku kompaniju i upisao za trenersku licencu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pejcinovic-otvorio-sam-graevinsku-kompaniju-i-upisao-za-trenersku-licencu/542577",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Naredni trener svetske klase: Ne želim da ubijem lepotu fudbala, mora da bude zabavan deci",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/naredni-trener-svetske-klase-ne-zelim-da-ubijem-lepotu-fudbala-mora-da-bude-zabavan-deci/542559",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 13:45",
+      "naslov": "FSS: Finale Kupa Srbije odigraće se 13. maja na stadionu \"Lagator\" u Loznici",
+      "url": "https://www.tanjug.rs/sport/fudbal/248738/fss-finale-kupa-srbije-odigrace-se-13-maja-na-stadionu-lagator-u-loznici/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 04. 2026. у 15:50",
       "slika": null
     },
     {
-      "naslov": "Emerijeva poslastica – Liga Evrope, Šumari na turbo pogon Morgana Gibsa Vajta",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/emerijeva-poslastica-liga-evrope-sumari-na-turbo-pogon-morgana-gibsa-vajta/542553",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 12:00",
+      "naslov": "Engleski fudbaler Kobi Mejnu produžio ugovor sa Mančester junajtedom",
+      "url": "https://www.tanjug.rs/sport/fudbal/248670/engleski-fudbaler-kobi-mejnu-produzio-ugovor-sa-mancester-junajtedom/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 04. 2026. у 13:32",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Mejson Maunt: Mančester junajted može naredne sezone da osvoji Premijer ligu",
-      "url": "https://www.tanjug.rs/sport/fudbal/248611/mejson-maunt-mancester-junajted-moze-naredne-sezone-da-osvoji-premijer-ligu/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 04. 2026. у 11:20",
-      "slika": null
-    },
-    {
-      "naslov": "Arteta: Ne razumem zašto nam je poništen penal, bila je to pogrešna odluka",
-      "url": "https://www.tanjug.rs/sport/fudbal/248576/arteta-ne-razumem-zasto-nam-je-ponisten-penal-bila-je-to-pogresna-odluka/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 04. 2026. у 10:06",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan dovodi Jovetića za direktora?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229408/stevan-jovetic-sportski-direktor-partizana/vest",
+      "naslov": "FSS saopštio – evo gde se igra finale Kupa Srbije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229482/finale-kupa-srbije-2026-u-loznici/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 04. 2026. у 12:49",
+      "datum": "30. 04. 2026. у 16:19",
       "slika": null
     },
     {
-      "naslov": "Zvezdin stranac: &quot;Izlazim na prozor i vidim prolazi deset tenkova&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229303/tomas-handel-otvorio-dusu-o-crvenoj-zvezdi/vest",
+      "naslov": "Partizan se ponovo oglasio: &quot;Mijatović zloupotrebio poziciju – svima je pružena ruka da pomognu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229462/fk-partizan-izdao-novo-saopstenje/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 04. 2026. у 09:56",
+      "datum": "30. 04. 2026. у 14:56",
       "slika": null
     }
   ]
