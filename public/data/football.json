@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-30T14:54:18.637409+00:00",
-  "azurirano_sr": "30. 04. 2026. у 16:54",
+  "azurirano": "2026-04-30T16:10:44.593163+00:00",
+  "azurirano_sr": "30. 04. 2026. у 18:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Tanjga: Plasmanom u finale Kupa smo ispunili ciljeve za ovu sezonu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tanjga-plasmanom-u-finale-kupa-smo-ispunili-ciljeve-za-ovu-sezonu/542593",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 04. 2026. у 19:08",
+      "slika": null
+    },
     {
       "naslov": "Najveći transfer guru: Arsenal kontaktirao Kostova, ozbiljno ga prate",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najveci-transfer-guru-arsenal-kontaktirao-kostova-ozbiljno-ga-prate/542586",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/pejcinovic-otvorio-sam-graevinsku-kompaniju-i-upisao-za-trenersku-licencu/542577",
       "izvor": "Мозарт Спорт",
       "datum": "30. 04. 2026. у 16:35",
-      "slika": null
-    },
-    {
-      "naslov": "Zaboravljeni italijanski talenat: Novak Đoković me je spasao, počeo sam da ga imitiram",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zaboravljeni-italijanski-talenat-novak-okovic-me-je-spasao-poceo-sam-da-ga-imitiram/542562",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 14:08",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "FSS saopštio – evo gde se igra finale Kupa Srbije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229482/finale-kupa-srbije-2026-u-loznici/vest",
+      "naslov": "Zvezda u Ubu traži kartu za finale Kupa – poznati sastavi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229487/kup-srbije-polufinale-jedinstvo-crvena-zvezda-live-prenos-gde-gledati/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 04. 2026. у 16:19",
+      "datum": "30. 04. 2026. у 17:57",
       "slika": null
     },
     {
-      "naslov": "Partizan se ponovo oglasio: &quot;Mijatović zloupotrebio poziciju – svima je pružena ruka da pomognu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229462/fk-partizan-izdao-novo-saopstenje/vest",
+      "naslov": "Željina munja preko &quot;Fudbal menadžera&quot; došla do reprezentacije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229394/silvester-dzasper-preko-fudbal-menadzera-dosao-do-reprezentacije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 04. 2026. у 14:56",
+      "datum": "30. 04. 2026. у 17:15",
       "slika": null
     }
   ]
