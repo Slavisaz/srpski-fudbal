@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-04-30T11:12:21.560763+00:00",
-  "azurirano_sr": "30. 04. 2026. у 13:12",
+  "azurirano": "2026-04-30T12:52:47.194561+00:00",
+  "azurirano_sr": "30. 04. 2026. у 14:52",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Pejčinović: Otvorio sam građevinsku kompaniju i upisao za trenersku licencu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pejcinovic-otvorio-sam-graevinsku-kompaniju-i-upisao-za-trenersku-licencu/542577",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 04. 2026. у 16:35",
+      "slika": null
+    },
     {
       "naslov": "Zaboravljeni italijanski talenat: Novak Đoković me je spasao, počeo sam da ga imitiram",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zaboravljeni-italijanski-talenat-novak-okovic-me-je-spasao-poceo-sam-da-ga-imitiram/542562",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/emerijeva-poslastica-liga-evrope-sumari-na-turbo-pogon-morgana-gibsa-vajta/542553",
       "izvor": "Мозарт Спорт",
       "datum": "30. 04. 2026. у 12:00",
-      "slika": null
-    },
-    {
-      "naslov": "Dan koji je Ub čekao: Dolazak Zvezde kruna nove istorije Jedinstva, stiže nam najbolji tim na Balkanu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dan-koji-je-ub-cekao-dolazak-zvezde-kruna-nove-istorije-jedinstva-stize-nam-najbolji-tim-na-balkanu/542552",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 11:30",
       "slika": null
     },
     {
@@ -60,7 +60,7 @@
       "slika": null
     },
     {
-      "naslov": "Jovetić u Partizanu, ali u potpuno novoj ulozi?",
+      "naslov": "Partizan dovodi Jovetića za direktora?",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229408/stevan-jovetic-sportski-direktor-partizana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "30. 04. 2026. у 12:49",
