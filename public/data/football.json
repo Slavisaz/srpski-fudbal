@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-04-30T09:25:41.439573+00:00",
-  "azurirano_sr": "30. 04. 2026. у 11:25",
+  "azurirano": "2026-04-30T11:12:21.560763+00:00",
+  "azurirano_sr": "30. 04. 2026. у 13:12",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zaboravljeni italijanski talenat: Novak Đoković me je spasao, počeo sam da ga imitiram",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zaboravljeni-italijanski-talenat-novak-okovic-me-je-spasao-poceo-sam-da-ga-imitiram/542562",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 04. 2026. у 14:08",
+      "slika": null
+    },
+    {
+      "naslov": "Naredni trener svetske klase: Ne želim da ubijem lepotu fudbala, mora da bude zabavan deci",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/naredni-trener-svetske-klase-ne-zelim-da-ubijem-lepotu-fudbala-mora-da-bude-zabavan-deci/542559",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 04. 2026. у 13:45",
+      "slika": null
+    },
     {
       "naslov": "Emerijeva poslastica – Liga Evrope, Šumari na turbo pogon Morgana Gibsa Vajta",
       "url": "https://www.mozzartsport.com/fudbal/vesti/emerijeva-poslastica-liga-evrope-sumari-na-turbo-pogon-morgana-gibsa-vajta/542553",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "NAJAVA DANA (četvrtak, 30. april): Evroliga, Liga Evrope i Liga konferencije su u prvom planu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-cetvrtak-30-april-evroliga-liga-evrope-i-liga-konferencije-su-u-prvom-planu/542495",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 10:15",
+      "naslov": "Skot Parker nije više menadžer fudbalera Barnlija",
+      "url": "https://www.tanjug.rs/sport/fudbal/248631/skot-parker-nije-vise-menadzer-fudbalera-barnlija/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 04. 2026. у 12:13",
       "slika": null
     },
     {
-      "naslov": "Po gol na obe strane i po crveni za trenere - klasičan južnoamerički derbi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/po-gol-na-obe-strane-i-po-crveni-za-trenere-klasican-juznoamericki-derbi/542543",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 07:10",
+      "naslov": "Engleski fudbaler Ešli Jang na kraju sezone završava igračku karijeru",
+      "url": "https://www.tanjug.rs/sport/fudbal/248626/engleski-fudbaler-esli-jang-na-kraju-sezone-zavrsava-igracku-karijeru/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 04. 2026. у 11:55",
+      "slika": null
+    },
+    {
+      "naslov": "Mejson Maunt: Mančester junajted može naredne sezone da osvoji Premijer ligu",
+      "url": "https://www.tanjug.rs/sport/fudbal/248611/mejson-maunt-mancester-junajted-moze-naredne-sezone-da-osvoji-premijer-ligu/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 04. 2026. у 11:20",
       "slika": null
     },
     {
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Simeone: Arsenal je vrhunski tim, bili smo bolji u drugom poluvremenu",
-      "url": "https://www.tanjug.rs/sport/fudbal/248568/simeone-arsenal-je-vrhunski-tim-bili-smo-bolji-u-drugom-poluvremenu/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 04. 2026. у 09:42",
-      "slika": null
-    },
-    {
-      "naslov": "Iranski zvaničnici neće prisustvovati kongresu FIFA u Kanadi",
-      "url": "https://www.tanjug.rs/sport/fudbal/248520/iranski-zvanicnici-nece-prisustvovati-kongresu-fifa-u-kanadi/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 04. 2026. у 23:41",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Pari Sen Žermena Hakimi neće igrati u revanšu protiv Bajerna zbog povrede",
-      "url": "https://www.tanjug.rs/sport/fudbal/248522/fudbaler-pari-sen-zermena-hakimi-nece-igrati-u-revansu-protiv-bajerna-zbog-povrede/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 04. 2026. у 23:19",
+      "naslov": "Jovetić u Partizanu, ali u potpuno novoj ulozi?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229408/stevan-jovetic-sportski-direktor-partizana/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "30. 04. 2026. у 12:49",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229303/tomas-handel-otvorio-dusu-o-crvenoj-zvezdi/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "30. 04. 2026. у 09:56",
-      "slika": null
-    },
-    {
-      "naslov": "Spremaju se novi ugovori u Partizanu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229297/partizan-daje-nove-ugovore-marku-milosevicu-i-milosu-krunicu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "30. 04. 2026. у 08:50",
       "slika": null
     }
   ]
