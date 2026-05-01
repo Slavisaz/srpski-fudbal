@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-01T12:08:10.921899+00:00",
-  "azurirano_sr": "1. 05. 2026. у 14:08",
+  "azurirano": "2026-05-01T13:50:46.305043+00:00",
+  "azurirano_sr": "1. 05. 2026. у 15:50",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kod Fergija je bilo ili po njegovom ili letiš! A, sada je ili Ten Hag ili Ronaldo, čak i kad neće da trči",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kod-fergija-je-bilo-ili-po-njegovom-ili-letis-a-sada-je-ili-ten-hag-ili-ronaldo-cak-i-kad-nece-da-trci/542666",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 05. 2026. у 16:29",
+      "slika": null
+    },
     {
       "naslov": "Humanitarni tiket u podne: Nardin Mulahusejnović iz voleja ispucava dobitnih 212.000 dinara",
       "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-nardin-mulahusejnovic-iz-voleja-ispucava-dobitnih-212000-dinara/542652",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/inace-je-borba-za-zivu-glavu-ali-danas-je-za-slavu-srbin-cilja-novu-senzaciju-i-prvi-trofej-u-karijeri/542626",
       "izvor": "Мозарт Спорт",
       "datum": "1. 05. 2026. у 10:45",
-      "slika": null
-    },
-    {
-      "naslov": "LUDI TIKET, petak, 237.842 dinara:Oko sveta s ulogom od 50 dinara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-petak-237842-dinaraoko-sveta-s-ulogom-od-50-dinara/542635",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 05. 2026. у 10:12",
       "slika": null
     },
     {
