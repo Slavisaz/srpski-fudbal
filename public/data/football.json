@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-01T15:38:39.779028+00:00",
-  "azurirano_sr": "1. 05. 2026. у 17:38",
+  "azurirano": "2026-05-01T16:35:20.473023+00:00",
+  "azurirano_sr": "1. 05. 2026. у 18:35",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,24 @@
       "slika": null
     },
     {
-      "naslov": "Lalatović: &quot;Mladi igrači Partizana imaju osnovnu, srednju, fakultet – i veći pritisak&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229789/nenad-lalatovic-izjava-pred-partizan-imaju-veci-pritisak/vest",
+      "naslov": "Bivši kapiten Partizana se &quot;ograđuje&quot;: &quot;Ništa me ne interesuje, niti me je iko zvao&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229798/antonio-rukavina-oko-haosa-u-humskoj-niko-me-nije-zvao/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 05. 2026. у 17:29",
+      "datum": "1. 05. 2026. у 17:51",
       "slika": null
     },
     {
-      "naslov": "Blagojević: &quot;Moramo da pokažemo da smo pravi&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229765/srdjan-blagojevic-konferencija-pred-partizan-novi-pazar-u-34-kolu-superlige/vest",
+      "naslov": "Lalatović: &quot;Mladi igrači Partizana imaju osnovnu, srednju, fakultet – i veći pritisak&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229789/nenad-lalatovic-izjava-pred-partizan-imaju-veci-pritisak/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 05. 2026. у 16:00",
+      "datum": "1. 05. 2026. у 17:26",
+      "slika": null
+    },
+    {
+      "naslov": "Bio je čarobnjak s loptom – osam godina je igrao pod tabletama VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/229418/erik-lamela-iz-bolnickog-kreveta-objasnio-zasto-je-zavrsio-karijeru-u-33-godini-video/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "30. 04. 2026. у 17:45",
       "slika": null
     }
   ]
