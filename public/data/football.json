@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-01T03:56:48.998144+00:00",
-  "azurirano_sr": "1. 05. 2026. у 05:56",
+  "azurirano": "2026-05-01T06:32:45.816163+00:00",
+  "azurirano_sr": "1. 05. 2026. у 08:32",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Inače je borba za živu glavu, ali danas je za - slavu! Srbin cilja novu senzaciju i prvi trofej u karijeri",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/inace-je-borba-za-zivu-glavu-ali-danas-je-za-slavu-srbin-cilja-novu-senzaciju-i-prvi-trofej-u-karijeri/542626",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 05. 2026. у 10:45",
+      "slika": null
+    },
     {
       "naslov": "Miriše da će London imati finalistu evro kupa: Palas ide stopama Čelsija i Vest Hema",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mirise-da-ce-london-imati-finalistu-evro-kupa-palas-ide-stopama-celsija-i-vest-hema/542622",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Bravo, Ubljani! Zvezda ide po šestu duplu u nizu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bravo-ubljani-zvezda-ide-po-sestu-duplu-u-nizu/542614",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 22:47",
+      "naslov": "Predsednik Fudbalskog saveza Palestine odbio da se rukuje sa izraelskim kolegom",
+      "url": "https://www.tanjug.rs/sport/fudbal/248843/predsednik-fudbalskog-saveza-palestine-odbio-da-se-rukuje-sa-izraelskim-kolegom/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 05. 2026. у 07:48",
+      "slika": null
+    },
+    {
+      "naslov": "Psiholog: Maradona je patio od bipolarnog poremećaja",
+      "url": "https://www.tanjug.rs/sport/fudbal/248834/psiholog-maradona-je-patio-od-bipolarnog-poremecaja/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 05. 2026. у 06:54",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/248822/notingem-forest-iz-penala-do-prednosti-protiv-aston-vile-braga-bolja-od-frajburga/vest",
       "izvor": "Танјуг",
       "datum": "30. 04. 2026. у 23:00",
-      "slika": null
-    },
-    {
-      "naslov": "Dejan Stanković: Ovakve utakmice ti daju mnogo odgovora, drugo poluvreme za primer",
-      "url": "https://www.tanjug.rs/sport/fudbal/248812/dejan-stankovic-ovakve-utakmice-ti-daju-mnogo-odgovora-drugo-poluvreme-za-primer/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 04. 2026. у 21:31",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Crvene zvezde pobedom protiv Jedinstva izborili novo finale Kupa Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/248805/fudbaleri-crvene-zvezde-pobedom-protiv-jedinstva-izborili-novo-finale-kupa-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 04. 2026. у 20:53",
       "slika": null
     },
     {
