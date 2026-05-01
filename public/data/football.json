@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-01T21:31:32.174774+00:00",
-  "azurirano_sr": "1. 05. 2026. у 23:31",
+  "azurirano": "2026-05-01T22:26:22.962017+00:00",
+  "azurirano_sr": "2. 05. 2026. у 00:26",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Piza je sama kriva što je novi drugoligaš, ovakve šanse ne smeju da se propuštaju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/piza-je-sama-kriva-sto-je-novi-drugoligas-ovakve-sanse-ne-smeju-da-se-propustaju/542699",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 05. 2026. у 01:05",
+      "slika": null
+    },
     {
       "naslov": "Kupuj i ne pitaj ništa: Roma dreši kesu i daje 25.000.000 evra za Malena",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kupuj-i-ne-pitaj-nista-roma-dresi-kesu-i-daje-25000000-evra-za-malena/542689",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/brutalno-iskreni-endrik-isao-sam-na-tviter-posle-utakmica-da-pumpam-ego-fudbal-nije-lepo-mesto/542675",
       "izvor": "Мозарт Спорт",
       "datum": "1. 05. 2026. у 18:35",
-      "slika": null
-    },
-    {
-      "naslov": "Najbolja škola Južne Amerike? Posle Čelsija i Dortmunda, sad bi i Mančester Junajted da kupuje tamo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najbolja-skola-juzne-amerike-posle-celsija-i-dortmunda-sad-bi-i-mancester-junajted-da-kupuje-tamo/542673",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 05. 2026. у 18:24",
       "slika": null
     },
     {
