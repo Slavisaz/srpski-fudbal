@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-01T10:06:08.773138+00:00",
-  "azurirano_sr": "1. 05. 2026. у 12:06",
+  "azurirano": "2026-05-01T11:18:52.200524+00:00",
+  "azurirano_sr": "1. 05. 2026. у 13:18",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Humanitarni tiket u podne: Nardin Mulahusejnović iz voleja ispucava dobitnih 212.000 dinara",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-nardin-mulahusejnovic-iz-voleja-ispucava-dobitnih-212000-dinara/542652",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 05. 2026. у 14:02",
+      "slika": null
+    },
     {
       "naslov": "Ako pobedi na Skupštini, Mijatović planira Žarka Lazetića za trenera Partizana",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ako-pobedi-na-skupstini-mijatovic-planira-zarka-lazetica-za-trenera-partizana/542643",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Miriše da će London imati finalistu evro kupa: Palas ide stopama Čelsija i Vest Hema",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mirise-da-ce-london-imati-finalistu-evro-kupa-palas-ide-stopama-celsija-i-vest-hema/542622",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 05. 2026. у 01:04",
+      "naslov": "Fudbaleri Crvene zvezde i Olimpijakosa 9. maja obeležavaju 40 godina prijateljstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/248906/fudbaleri-crvene-zvezde-i-olimpijakosa-9-maja-obelezavaju-40-godina-prijateljstva/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 05. 2026. у 12:00",
+      "slika": null
+    },
+    {
+      "naslov": "Memorijalni turnir \"Živite\" biće održan 4. maja na stadionu Ravni Gaj u Malom Orašju",
+      "url": "https://www.tanjug.rs/sport/fudbal/248892/memorijalni-turnir-zivite-bice-odrzan-4-maja-na-stadionu-ravni-gaj-u-malom-orasju/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 05. 2026. у 11:57",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Psiholog: Maradona je patio od bipolarnog poremećaja",
-      "url": "https://www.tanjug.rs/sport/fudbal/248834/psiholog-maradona-je-patio-od-bipolarnog-poremecaja/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 05. 2026. у 06:54",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Kristal Palasa pobedili Šahtjor, \"minimalac\" Rajo Valjekana protiv Strazbura",
-      "url": "https://www.tanjug.rs/sport/fudbal/248823/fudbaleri-kristal-palasa-pobedili-sahtjor-minimalac-rajo-valjekana-protiv-strazbura/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 04. 2026. у 23:10",
+      "naslov": "Velikan &quot;kruži&quot; oko &quot;Marakane&quot; – meta je Mateus",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229719/brazilci-prenose-da-je-korintijans-zainteresovan-za-mateusa-iz-crvene-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 05. 2026. у 13:15",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229681/predrag-mijatovic-zeli-srdjana-blagojevica-za-trenera-partizana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "1. 05. 2026. у 11:32",
-      "slika": null
-    },
-    {
-      "naslov": "Matić: &quot;Ponosan kako su igrali protiv najjače ekipe na Balkanu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229558/uros-matic-izjava-posle-jedinstvo-crvena-zvezda/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "30. 04. 2026. у 21:05",
       "slika": null
     }
   ]
