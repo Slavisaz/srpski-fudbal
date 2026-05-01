@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-01T11:18:52.200524+00:00",
-  "azurirano_sr": "1. 05. 2026. у 13:18",
+  "azurirano": "2026-05-01T12:08:10.921899+00:00",
+  "azurirano_sr": "1. 05. 2026. у 14:08",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Košarkaš Mege Bogoljub Marković dobio nagradu \"Dejan Milojević\" kao MVP ABA lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/248914/kosarkas-mege-bogoljub-markovic-dobio-nagradu-dejan-milojevic-kao-mvp-aba-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 05. 2026. у 13:48",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Crvene zvezde i Olimpijakosa 9. maja obeležavaju 40 godina prijateljstva",
       "url": "https://www.tanjug.rs/sport/fudbal/248906/fudbaleri-crvene-zvezde-i-olimpijakosa-9-maja-obelezavaju-40-godina-prijateljstva/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Predsednik Fudbalskog saveza Palestine odbio da se rukuje sa izraelskim kolegom",
-      "url": "https://www.tanjug.rs/sport/fudbal/248843/predsednik-fudbalskog-saveza-palestine-odbio-da-se-rukuje-sa-izraelskim-kolegom/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 05. 2026. у 07:48",
+      "naslov": "Stanković: &quot;Ivaniću je, nažalost, sve došlo na naplatu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229728/dejan-stankovic-o-mirku-ivanicu-u-crvenoj-zvezdi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 05. 2026. у 13:45",
       "slika": null
     },
     {
-      "naslov": "Velikan &quot;kruži&quot; oko &quot;Marakane&quot; – meta je Mateus",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229719/brazilci-prenose-da-je-korintijans-zainteresovan-za-mateusa-iz-crvene-zvezde/vest",
+      "naslov": "Zvezda i Olimpijakos slave 40 godina prijateljstva",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229696/zvezda-i-olimpijakos-proslava-40-godina-prijateljstva/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 05. 2026. у 13:15",
-      "slika": null
-    },
-    {
-      "naslov": "Mijatović ima pika za trenera Partizana – ako pobedi na Skupštini",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229681/predrag-mijatovic-zeli-srdjana-blagojevica-za-trenera-partizana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 05. 2026. у 11:32",
+      "datum": "1. 05. 2026. у 13:30",
       "slika": null
     }
   ]
