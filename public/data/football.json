@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-01T18:42:37.855624+00:00",
-  "azurirano_sr": "1. 05. 2026. у 20:42",
+  "azurirano": "2026-05-01T19:50:16.376073+00:00",
+  "azurirano_sr": "1. 05. 2026. у 21:50",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kupuj i ne pitaj ništa: Roma dreši kesu i daje 25.000.000 evra za Malena",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kupuj-i-ne-pitaj-nista-roma-dresi-kesu-i-daje-25000000-evra-za-malena/542689",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 05. 2026. у 23:16",
+      "slika": null
+    },
     {
       "naslov": "Lalatović pred Partizan o finansijama u Pazaru: Igračima i meni se ne duguje ni cent",
       "url": "https://www.mozzartsport.com/fudbal/vesti/lalatovic-pred-partizan-o-finansijama-u-pazaru-igracima-i-meni-se-ne-duguje-ni-cent/542676",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/najbolja-skola-juzne-amerike-posle-celsija-i-dortmunda-sad-bi-i-mancester-junajted-da-kupuje-tamo/542673",
       "izvor": "Мозарт Спорт",
       "datum": "1. 05. 2026. у 18:24",
-      "slika": null
-    },
-    {
-      "naslov": "Kod Fergija je bilo ili po njegovom ili letiš! A, sada je ili Ten Hag ili Ronaldo, čak i kad neće da trči",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kod-fergija-je-bilo-ili-po-njegovom-ili-letis-a-sada-je-ili-ten-hag-ili-ronaldo-cak-i-kad-nece-da-trci/542666",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 05. 2026. у 16:29",
       "slika": null
     },
     {
