@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-01T14:42:08.745571+00:00",
-  "azurirano_sr": "1. 05. 2026. у 16:42",
+  "azurirano": "2026-05-01T15:38:39.779028+00:00",
+  "azurirano_sr": "1. 05. 2026. у 17:38",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Lalatović pred Partizan o finansijama u Pazaru: Igračima i meni se ne duguje ni cent",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lalatovic-pred-partizan-o-finansijama-u-pazaru-igracima-i-meni-se-ne-duguje-ni-cent/542676",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 05. 2026. у 18:43",
+      "slika": null
+    },
+    {
+      "naslov": "Brutalno iskreni Endrik: Išao sam na Tviter posle utakmica da pumpam ego, fudbal nije lepo mesto",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/brutalno-iskreni-endrik-isao-sam-na-tviter-posle-utakmica-da-pumpam-ego-fudbal-nije-lepo-mesto/542675",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 05. 2026. у 18:35",
+      "slika": null
+    },
     {
       "naslov": "Najbolja škola Južne Amerike? Posle Čelsija i Dortmunda, sad bi i Mančester Junajted da kupuje tamo",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najbolja-skola-juzne-amerike-posle-celsija-i-dortmunda-sad-bi-i-mancester-junajted-da-kupuje-tamo/542673",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Humanitarni tiket u podne: Nardin Mulahusejnović iz voleja ispucava dobitnih 212.000 dinara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-nardin-mulahusejnovic-iz-voleja-ispucava-dobitnih-212000-dinara/542652",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 05. 2026. у 14:02",
-      "slika": null
-    },
-    {
-      "naslov": "Ako pobedi na Skupštini, Mijatović planira Žarka Lazetića za trenera Partizana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ako-pobedi-na-skupstini-mijatovic-planira-zarka-lazetica-za-trenera-partizana/542643",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 05. 2026. у 12:20",
+      "naslov": "Blagojević: Posle poraza u derbiju moramo da pokažemo da smo pravi",
+      "url": "https://www.tanjug.rs/sport/fudbal/248945/blagojevic-posle-poraza-u-derbiju-moramo-da-pokazemo-da-smo-pravi/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 05. 2026. у 16:45",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Liverpula Mohamed Salah neće biti spreman za meč protiv Mančester Junajteda",
-      "url": "https://www.tanjug.rs/sport/fudbal/248884/fudbaler-liverpula-mohamed-salah-nece-biti-spreman-za-mec-protiv-mancester-junajteda/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 05. 2026. у 11:30",
+      "naslov": "Lalatović: &quot;Mladi igrači Partizana imaju osnovnu, srednju, fakultet – i veći pritisak&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229789/nenad-lalatovic-izjava-pred-partizan-imaju-veci-pritisak/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 05. 2026. у 17:29",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229765/srdjan-blagojevic-konferencija-pred-partizan-novi-pazar-u-34-kolu-superlige/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "1. 05. 2026. у 16:00",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: &quot;Ivaniću je, nažalost, sve došlo na naplatu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229728/dejan-stankovic-o-mirku-ivanicu-u-crvenoj-zvezdi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 05. 2026. у 13:45",
       "slika": null
     }
   ]
