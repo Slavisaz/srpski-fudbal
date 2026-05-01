@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-01T06:32:45.816163+00:00",
-  "azurirano_sr": "1. 05. 2026. у 08:32",
+  "azurirano": "2026-05-01T08:30:09.307364+00:00",
+  "azurirano_sr": "1. 05. 2026. у 10:30",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -8,6 +8,13 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/inace-je-borba-za-zivu-glavu-ali-danas-je-za-slavu-srbin-cilja-novu-senzaciju-i-prvi-trofej-u-karijeri/542626",
       "izvor": "Мозарт Спорт",
       "datum": "1. 05. 2026. у 10:45",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET, petak, 237.842 dinara:Oko sveta s ulogom od 50 dinara",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-petak-237842-dinaraoko-sveta-s-ulogom-od-50-dinara/542635",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 05. 2026. у 10:12",
       "slika": null
     },
     {
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/brazilci-kuvaju-transfer-mimo-prelaznog-roka-hulk-se-dogovorio-sa-fluminenseom/542585",
       "izvor": "Мозарт Спорт",
       "datum": "1. 05. 2026. у 01:00",
-      "slika": null
-    },
-    {
-      "naslov": "KRAJ - Liga Evrope & Liga konferencije: Palas jednom nogom u finalu, Frajburg kapitulirao u nadoknadi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-evrope-liga-konferencije-palas-jednom-nogom-u-finalu-frajburg-kapitulirao-u-nadoknadi/542607",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 04. 2026. у 23:21",
       "slika": null
     },
     {
