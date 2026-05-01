@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-01T08:30:09.307364+00:00",
-  "azurirano_sr": "1. 05. 2026. у 10:30",
+  "azurirano": "2026-05-01T10:06:08.773138+00:00",
+  "azurirano_sr": "1. 05. 2026. у 12:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ako pobedi na Skupštini, Mijatović planira Žarka Lazetića za trenera Partizana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ako-pobedi-na-skupstini-mijatovic-planira-zarka-lazetica-za-trenera-partizana/542643",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 05. 2026. у 12:20",
+      "slika": null
+    },
     {
       "naslov": "Inače je borba za živu glavu, ali danas je za - slavu! Srbin cilja novu senzaciju i prvi trofej u karijeri",
       "url": "https://www.mozzartsport.com/fudbal/vesti/inace-je-borba-za-zivu-glavu-ali-danas-je-za-slavu-srbin-cilja-novu-senzaciju-i-prvi-trofej-u-karijeri/542626",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Brazilci kuvaju transfer mimo prelaznog roka: Hulk se dogovorio sa Fluminenseom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/brazilci-kuvaju-transfer-mimo-prelaznog-roka-hulk-se-dogovorio-sa-fluminenseom/542585",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 05. 2026. у 01:00",
+      "naslov": "Fudbaler Liverpula Mohamed Salah neće biti spreman za meč protiv Mančester Junajteda",
+      "url": "https://www.tanjug.rs/sport/fudbal/248884/fudbaler-liverpula-mohamed-salah-nece-biti-spreman-za-mec-protiv-mancester-junajteda/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 05. 2026. у 11:30",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Notingem Forest iz penala do prednosti protiv Aston Vile, Braga bolja od Frajburga",
-      "url": "https://www.tanjug.rs/sport/fudbal/248822/notingem-forest-iz-penala-do-prednosti-protiv-aston-vile-braga-bolja-od-frajburga/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 04. 2026. у 23:00",
+      "naslov": "Mijatović ima pika za trenera Partizana – ako pobedi na Skupštini",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229681/predrag-mijatovic-zeli-srdjana-blagojevica-za-trenera-partizana/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 05. 2026. у 11:32",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229558/uros-matic-izjava-posle-jedinstvo-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "30. 04. 2026. у 21:05",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: &quot;To ne može&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229555/dejan-stankovic-izjava-posle-jedinstvo-crvena-zvezda/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "30. 04. 2026. у 21:02",
       "slika": null
     }
   ]
