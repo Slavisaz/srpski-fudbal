@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-01T13:50:46.305043+00:00",
-  "azurirano_sr": "1. 05. 2026. у 15:50",
+  "azurirano": "2026-05-01T14:42:08.745571+00:00",
+  "azurirano_sr": "1. 05. 2026. у 16:42",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Najbolja škola Južne Amerike? Posle Čelsija i Dortmunda, sad bi i Mančester Junajted da kupuje tamo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najbolja-skola-juzne-amerike-posle-celsija-i-dortmunda-sad-bi-i-mancester-junajted-da-kupuje-tamo/542673",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 05. 2026. у 18:24",
+      "slika": null
+    },
     {
       "naslov": "Kod Fergija je bilo ili po njegovom ili letiš! A, sada je ili Ten Hag ili Ronaldo, čak i kad neće da trči",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kod-fergija-je-bilo-ili-po-njegovom-ili-letis-a-sada-je-ili-ten-hag-ili-ronaldo-cak-i-kad-nece-da-trci/542666",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/ako-pobedi-na-skupstini-mijatovic-planira-zarka-lazetica-za-trenera-partizana/542643",
       "izvor": "Мозарт Спорт",
       "datum": "1. 05. 2026. у 12:20",
-      "slika": null
-    },
-    {
-      "naslov": "Inače je borba za živu glavu, ali danas je za - slavu! Srbin cilja novu senzaciju i prvi trofej u karijeri",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/inace-je-borba-za-zivu-glavu-ali-danas-je-za-slavu-srbin-cilja-novu-senzaciju-i-prvi-trofej-u-karijeri/542626",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 05. 2026. у 10:45",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Blagojević: &quot;Moramo da pokažemo da smo pravi&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229765/srdjan-blagojevic-konferencija-pred-partizan-novi-pazar-u-34-kolu-superlige/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 05. 2026. у 16:00",
+      "slika": null
+    },
+    {
       "naslov": "Stanković: &quot;Ivaniću je, nažalost, sve došlo na naplatu&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229728/dejan-stankovic-o-mirku-ivanicu-u-crvenoj-zvezdi/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "1. 05. 2026. у 13:45",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda i Olimpijakos slave 40 godina prijateljstva",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229696/zvezda-i-olimpijakos-proslava-40-godina-prijateljstva/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 05. 2026. у 13:30",
       "slika": null
     }
   ]
