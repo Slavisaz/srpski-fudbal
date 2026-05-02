@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-02T07:19:18.943722+00:00",
-  "azurirano_sr": "2. 05. 2026. у 09:19",
+  "azurirano": "2026-05-02T08:45:43.065791+00:00",
+  "azurirano_sr": "2. 05. 2026. у 10:45",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,6 +60,13 @@
       "slika": null
     },
     {
+      "naslov": "Karabag vodi Babiku iz Zvezde?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229904/karabag-vodi-babiku-iz-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 05. 2026. у 10:22",
+      "slika": null
+    },
+    {
       "naslov": "Bivši kapiten Partizana se &quot;ograđuje&quot;: &quot;Ništa me ne interesuje, niti me je iko zvao&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229798/antonio-rukavina-oko-haosa-u-humskoj-niko-me-nije-zvao/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,10 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "Lalatović: &quot;Mladi igrači Partizana imaju osnovnu, srednju, fakultet – i veći pritisak&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229789/nenad-lalatovic-izjava-pred-partizan-imaju-veci-pritisak/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 05. 2026. у 17:26",
+      "naslov": "&quot;Maradona je patio od bipolarnog poremećaja&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/229640/maradona-je-patio-od-bipolarnog-poremecaja/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "1. 05. 2026. у 09:24",
       "slika": null
     },
     {
