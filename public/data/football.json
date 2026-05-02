@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-02T21:35:56.631045+00:00",
-  "azurirano_sr": "2. 05. 2026. у 23:35",
+  "azurirano": "2026-05-02T22:09:15.468974+00:00",
+  "azurirano_sr": "3. 05. 2026. у 00:09",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Ben: &quot;Znam koliko su navijači Zvezde i Olimpijakosa povezani&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229975/ben-znam-koliko-su-navijaci-zvezde-i-olimpijakosa-povezani/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 05. 2026. у 23:50",
+      "slika": null
+    },
+    {
       "naslov": "Pirgić dvaput u metu za trijumf nad &quot;romantičarima&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230043/pirgic-dvaput-u-metu-za-trijumf-nad-romanticarima/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "2. 05. 2026. у 20:39",
-      "slika": null
-    },
-    {
-      "naslov": "Blagojević: &quot;Normalno da proradi adrenalin&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230041/srdjan-blagojevic-izjava-posle-partizan-novi-pazar/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 05. 2026. у 20:35",
       "slika": null
     }
   ]
