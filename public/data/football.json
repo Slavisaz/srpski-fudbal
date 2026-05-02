@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-02T17:02:02.206263+00:00",
-  "azurirano_sr": "2. 05. 2026. у 19:02",
+  "azurirano": "2026-05-02T17:52:26.511520+00:00",
+  "azurirano_sr": "2. 05. 2026. у 19:52",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -53,10 +53,17 @@
       "slika": null
     },
     {
-      "naslov": "Stativa, pa gol u Humskoj",
+      "naslov": "Peh za Roganovića – Pazar daje znake života",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230013/uzivo-partizan-novi-pazar/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 05. 2026. у 18:56",
+      "datum": "2. 05. 2026. у 19:49",
+      "slika": null
+    },
+    {
+      "naslov": "&quot;Vreme je da se slavi&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229962/vreme-je-da-se-slavi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 05. 2026. у 19:38",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230026/mijatovic-i-ljajic-na-utakmici-partizan-novi-pazar/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "2. 05. 2026. у 18:55",
-      "slika": null
-    },
-    {
-      "naslov": "Dan odluke u Partizanu – Ljajić zakazao sednicu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229980/predsednik-fk-partizan-rasim-ljajic-zakazao-sednicu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 05. 2026. у 14:55",
       "slika": null
     },
     {
