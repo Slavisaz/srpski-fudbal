@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-02T23:00:57.358828+00:00",
-  "azurirano_sr": "3. 05. 2026. у 01:00",
+  "azurirano": "2026-05-02T23:51:38.408121+00:00",
+  "azurirano_sr": "3. 05. 2026. у 01:51",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Poldi obećao - Poldi ispunio: U petoj deceniji doneo Gornjiku trofej Kupa posle pet i po decenija!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/poldi-obecao-poldi-ispunio-u-petoj-deceniji-doneo-gornjiku-trofej-kupa-posle-pet-i-po-decenija/542795",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 05. 2026. у 03:16",
+      "slika": null
+    },
     {
       "naslov": "Lans i Nica se čuvali za finale Kupa: Gosti na Azurnoj obali ostali bez igrača, pa ispustili dva boda",
       "url": "https://www.mozzartsport.com/fudbal/vesti/lans-i-nica-se-cuvali-za-finale-kupa-gosti-na-azurnoj-obali-ostali-bez-igraca-pa-ispustili-dva-boda/542788",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/gelzenkirhen-vise-nema-ugalj-nema-ali-ima-fudbal-koliko-su-samo-zivaca-izgubili-zbog-njega/542790",
       "izvor": "Мозарт Спорт",
       "datum": "3. 05. 2026. у 01:04",
-      "slika": null
-    },
-    {
-      "naslov": "Sudbinska Skupština u Humskoj zakazana za 1. jun: Mijatović ili Ljajić, Lazović i Milka Forcan?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sudbinska-skupstina-u-humskoj-zakazana-za-1-jun-mijatovic-ili-ljajic-lazovic-i-milka-forcan/542736",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 05. 2026. у 16:55",
       "slika": null
     },
     {
