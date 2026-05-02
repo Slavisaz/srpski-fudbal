@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-02T18:37:06.529687+00:00",
-  "azurirano_sr": "2. 05. 2026. у 20:37",
+  "azurirano": "2026-05-02T19:38:46.914897+00:00",
+  "azurirano_sr": "2. 05. 2026. у 21:38",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Blagojević: Uspeli smo da posle derbija pokažemo da nismo pali i da se borimo",
+      "url": "https://www.tanjug.rs/sport/fudbal/249153/blagojevic-uspeli-smo-da-posle-derbija-pokazemo-da-nismo-pali-i-da-se-borimo/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 05. 2026. у 20:45",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Arsenala ubedljivi protiv Fulama",
+      "url": "https://www.tanjug.rs/sport/fudbal/249151/fudbaleri-arsenala-ubedljivi-protiv-fulama/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 05. 2026. у 20:34",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Partizana savladali Novi Pazar, Železničar bolji od OFK Beograda",
+      "url": "https://www.tanjug.rs/sport/fudbal/249150/fudbaleri-partizana-savladali-novi-pazar-zeleznicar-bolji-od-ofk-beograda/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 05. 2026. у 20:28",
+      "slika": null
+    },
+    {
       "naslov": "Naredni Afrički kup nacija u fudbalu igraće se od 19. juna do 17. jula 2027. godine",
       "url": "https://www.tanjug.rs/sport/fudbal/249114/naredni-africki-kup-nacija-u-fudbalu-igrace-se-od-19-juna-do-17-jula-2027-godine/vest",
       "izvor": "Танјуг",
@@ -39,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Ipsviča ekspresno se vratili u Premijer ligu",
-      "url": "https://www.tanjug.rs/sport/fudbal/249105/fudbaleri-ipsvica-ekspresno-se-vratili-u-premijer-ligu/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 05. 2026. у 15:36",
-      "slika": null
-    },
-    {
-      "naslov": "Predsednik FK Partizan Rasim Ljajić sazvao sednicu Redovne skupštine za 1. jun",
-      "url": "https://www.tanjug.rs/sport/fudbal/249098/predsednik-fk-partizan-rasim-ljajic-sazvao-sednicu-redovne-skupstine-za-1-jun/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 05. 2026. у 14:58",
+      "naslov": "Pirgić dvaput u metu za trijumf nad &quot;romantičarima&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230043/pirgic-dvaput-u-metu-za-trijumf-nad-romanticarima/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 05. 2026. у 20:39",
       "slika": null
     },
     {
@@ -60,38 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "Lalatović: &quot;Realan rezultat je nerešeno – Partizanu želim drugo mesto&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230040/nenad-lalatovic-izjava-posle-partizan-novi-pazar/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 05. 2026. у 20:32",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan čuva drugo mesto – Pazar tradicionalno &quot;pao&quot; u Humskoj",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230013/uzivo-partizan-novi-pazar/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 05. 2026. у 20:30",
-      "slika": null
-    },
-    {
-      "naslov": "Blagojević: Posle poraza u derbiju moramo da pokažemo da smo pravi",
-      "url": "https://www.tanjug.rs/sport/fudbal/248945/blagojevic-posle-poraza-u-derbiju-moramo-da-pokazemo-da-smo-pravi/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 05. 2026. у 16:45",
-      "slika": null
-    },
-    {
       "naslov": "&quot;Maradona je patio od bipolarnog poremećaja&quot;",
       "url": "https://www.b92.net/sport/fudbal/vesti/229640/maradona-je-patio-od-bipolarnog-poremecaja/vest",
       "izvor": "Б92 Фудбал",
       "datum": "1. 05. 2026. у 09:24",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Pasošgejt&quot; afera trese Holandiju – 133 utakmice pod upitnikom",
-      "url": "https://www.b92.net/sport/fudbal/vesti/229464/pasosgejt-afera-trese-holandiju-133-utakmice-pod-upitnikom/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "30. 04. 2026. у 19:19",
       "slika": null
     }
   ]
