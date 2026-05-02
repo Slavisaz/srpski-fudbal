@@ -1,7 +1,7 @@
 {
-  "azurirano": "2026-05-02T13:41:44.458873+00:00",
-  "azurirano_sr": "2. 05. 2026. у 15:41",
-  "vesti_24h": 9,
+  "azurirano": "2026-05-02T14:33:00.392143+00:00",
+  "azurirano_sr": "2. 05. 2026. у 16:33",
+  "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "Sudbinska Skupština u Humskoj zakazana za 1. jun: Mijatović ili Ljajić, Lazović i Milka Forcan?",
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Naredni Afrički kup nacija u fudbalu igraće se od 19. juna do 17. jula 2027. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/249114/naredni-africki-kup-nacija-u-fudbalu-igrace-se-od-19-juna-do-17-jula-2027-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 05. 2026. у 16:02",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Ipsviča ekspresno se vratili u Premijer ligu",
+      "url": "https://www.tanjug.rs/sport/fudbal/249105/fudbaleri-ipsvica-ekspresno-se-vratili-u-premijer-ligu/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 05. 2026. у 15:36",
+      "slika": null
+    },
+    {
       "naslov": "Predsednik FK Partizan Rasim Ljajić sazvao sednicu Redovne skupštine za 1. jun",
       "url": "https://www.tanjug.rs/sport/fudbal/249098/predsednik-fk-partizan-rasim-ljajic-sazvao-sednicu-redovne-skupstine-za-1-jun/vest",
       "izvor": "Танјуг",
@@ -57,27 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229904/karabag-vodi-babiku-iz-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "2. 05. 2026. у 10:22",
-      "slika": null
-    },
-    {
-      "naslov": "Bivši kapiten Partizana se &quot;ograđuje&quot;: &quot;Ništa me ne interesuje, niti me je iko zvao&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229798/antonio-rukavina-oko-haosa-u-humskoj-niko-me-nije-zvao/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 05. 2026. у 17:51",
-      "slika": null
-    },
-    {
-      "naslov": "Košarkaš Mege Bogoljub Marković dobio nagradu \"Dejan Milojević\" kao MVP ABA lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/248914/kosarkas-mege-bogoljub-markovic-dobio-nagradu-dejan-milojevic-kao-mvp-aba-lige/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 05. 2026. у 13:48",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Crvene zvezde i Olimpijakosa 9. maja obeležavaju 40 godina prijateljstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/248906/fudbaleri-crvene-zvezde-i-olimpijakosa-9-maja-obelezavaju-40-godina-prijateljstva/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 05. 2026. у 12:00",
       "slika": null
     },
     {
