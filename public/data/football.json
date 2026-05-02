@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-02T12:04:54.186417+00:00",
-  "azurirano_sr": "2. 05. 2026. у 14:04",
-  "vesti_24h": 8,
+  "azurirano": "2026-05-02T13:41:44.458873+00:00",
+  "azurirano_sr": "2. 05. 2026. у 15:41",
+  "vesti_24h": 9,
   "vesti": [
+    {
+      "naslov": "Sudbinska Skupština u Humskoj zakazana za 1. jun: Mijatović ili Ljajić, Lazović i Milka Forcan?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sudbinska-skupstina-u-humskoj-zakazana-za-1-jun-mijatovic-ili-ljajic-lazovic-i-milka-forcan/542736",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 05. 2026. у 16:55",
+      "slika": null
+    },
     {
       "naslov": "Lalatović: Nemamo šta da izgubimo, a Partizan se ispraznio u derbiju i Vojvodina mu je za vratom",
       "url": "https://www.mozzartsport.com/fudbal/vesti/lalatovic-nemamo-sta-da-izgubimo-a-partizan-se-ispraznio-u-derbiju-i-vojvodina-mu-je-za-vratom/542727",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Kupuj i ne pitaj ništa: Roma dreši kesu i daje 25.000.000 evra za Malena",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kupuj-i-ne-pitaj-nista-roma-dresi-kesu-i-daje-25000000-evra-za-malena/542689",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 05. 2026. у 23:16",
+      "naslov": "Predsednik FK Partizan Rasim Ljajić sazvao sednicu Redovne skupštine za 1. jun",
+      "url": "https://www.tanjug.rs/sport/fudbal/249098/predsednik-fk-partizan-rasim-ljajic-sazvao-sednicu-redovne-skupstine-za-1-jun/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 05. 2026. у 14:58",
       "slika": null
     },
     {
@@ -36,6 +43,13 @@
       "url": "https://www.tanjug.rs/sport/fudbal/248945/blagojevic-posle-poraza-u-derbiju-moramo-da-pokazemo-da-smo-pravi/vest",
       "izvor": "Танјуг",
       "datum": "1. 05. 2026. у 16:45",
+      "slika": null
+    },
+    {
+      "naslov": "Dan odluke u Partizanu – Ljajić zakazao sednicu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229980/predsednik-fk-partizan-rasim-ljajic-zakazao-sednicu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 05. 2026. у 14:55",
       "slika": null
     },
     {
@@ -53,13 +67,6 @@
       "slika": null
     },
     {
-      "naslov": "Lalatović: &quot;Mladi igrači Partizana imaju osnovnu, srednju, fakultet – i veći pritisak&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229789/nenad-lalatovic-izjava-pred-partizan-imaju-veci-pritisak/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 05. 2026. у 17:26",
-      "slika": null
-    },
-    {
       "naslov": "Košarkaš Mege Bogoljub Marković dobio nagradu \"Dejan Milojević\" kao MVP ABA lige",
       "url": "https://www.tanjug.rs/sport/fudbal/248914/kosarkas-mege-bogoljub-markovic-dobio-nagradu-dejan-milojevic-kao-mvp-aba-lige/vest",
       "izvor": "Танјуг",
@@ -71,13 +78,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/248906/fudbaleri-crvene-zvezde-i-olimpijakosa-9-maja-obelezavaju-40-godina-prijateljstva/vest",
       "izvor": "Танјуг",
       "datum": "1. 05. 2026. у 12:00",
-      "slika": null
-    },
-    {
-      "naslov": "Memorijalni turnir \"Živite\" biće održan 4. maja na stadionu Ravni Gaj u Malom Orašju",
-      "url": "https://www.tanjug.rs/sport/fudbal/248892/memorijalni-turnir-zivite-bice-odrzan-4-maja-na-stadionu-ravni-gaj-u-malom-orasju/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 05. 2026. у 11:57",
       "slika": null
     },
     {
