@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-02T15:25:13.668060+00:00",
-  "azurirano_sr": "2. 05. 2026. у 17:25",
+  "azurirano": "2026-05-02T16:05:38.161724+00:00",
+  "azurirano_sr": "2. 05. 2026. у 18:05",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -53,6 +53,13 @@
       "slika": null
     },
     {
+      "naslov": "Nenad Lalatović u Humskoj – Partizan vida derbi rane",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230013/uzivo-partizan-novi-pazar/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 05. 2026. у 17:57",
+      "slika": null
+    },
+    {
       "naslov": "Dan odluke u Partizanu – Ljajić zakazao sednicu",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229980/predsednik-fk-partizan-rasim-ljajic-zakazao-sednicu/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,13 +74,6 @@
       "slika": null
     },
     {
-      "naslov": "Bivši kapiten Partizana se &quot;ograđuje&quot;: &quot;Ništa me ne interesuje, niti me je iko zvao&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229798/antonio-rukavina-oko-haosa-u-humskoj-niko-me-nije-zvao/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 05. 2026. у 17:51",
-      "slika": null
-    },
-    {
       "naslov": "Blagojević: Posle poraza u derbiju moramo da pokažemo da smo pravi",
       "url": "https://www.tanjug.rs/sport/fudbal/248945/blagojevic-posle-poraza-u-derbiju-moramo-da-pokazemo-da-smo-pravi/vest",
       "izvor": "Танјуг",
@@ -85,13 +85,6 @@
       "url": "https://www.b92.net/sport/fudbal/vesti/229640/maradona-je-patio-od-bipolarnog-poremecaja/vest",
       "izvor": "Б92 Фудбал",
       "datum": "1. 05. 2026. у 09:24",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Pasošgejt&quot; afera trese Holandiju – 133 utakmice pod upitnikom",
-      "url": "https://www.b92.net/sport/fudbal/vesti/229464/pasosgejt-afera-trese-holandiju-133-utakmice-pod-upitnikom/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "30. 04. 2026. у 19:19",
       "slika": null
     }
   ]
