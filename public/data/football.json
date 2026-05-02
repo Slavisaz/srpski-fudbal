@@ -1,7 +1,7 @@
 {
-  "azurirano": "2026-05-02T11:26:58.648316+00:00",
-  "azurirano_sr": "2. 05. 2026. у 13:26",
-  "vesti_24h": 9,
+  "azurirano": "2026-05-02T12:04:54.186417+00:00",
+  "azurirano_sr": "2. 05. 2026. у 14:04",
+  "vesti_24h": 8,
   "vesti": [
     {
       "naslov": "Lalatović: Nemamo šta da izgubimo, a Partizan se ispraznio u derbiju i Vojvodina mu je za vratom",
@@ -39,13 +39,6 @@
       "slika": null
     },
     {
-      "naslov": "Košarkaš Mege Bogoljub Marković dobio nagradu \"Dejan Milojević\" kao MVP ABA lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/248914/kosarkas-mege-bogoljub-markovic-dobio-nagradu-dejan-milojevic-kao-mvp-aba-lige/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 05. 2026. у 13:48",
-      "slika": null
-    },
-    {
       "naslov": "Karabag vodi Babiku iz Zvezde?",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229904/karabag-vodi-babiku-iz-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
@@ -64,6 +57,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229789/nenad-lalatovic-izjava-pred-partizan-imaju-veci-pritisak/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "1. 05. 2026. у 17:26",
+      "slika": null
+    },
+    {
+      "naslov": "Košarkaš Mege Bogoljub Marković dobio nagradu \"Dejan Milojević\" kao MVP ABA lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/248914/kosarkas-mege-bogoljub-markovic-dobio-nagradu-dejan-milojevic-kao-mvp-aba-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 05. 2026. у 13:48",
       "slika": null
     },
     {
