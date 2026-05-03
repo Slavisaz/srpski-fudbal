@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-03T14:34:50.554883+00:00",
-  "azurirano_sr": "3. 05. 2026. у 16:34",
+  "azurirano": "2026-05-03T15:24:43.874309+00:00",
+  "azurirano_sr": "3. 05. 2026. у 17:24",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Sasuola savladali Milan u 35. kolu Serije A",
+      "url": "https://www.tanjug.rs/sport/fudbal/249259/fudbaleri-sasuola-savladali-milan-u-35-kolu-serije-a/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 05. 2026. у 16:59",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Bornmuta ubedljivo savladali Kristal Palas u engleskoj Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/249258/fudbaleri-bornmuta-ubedljivo-savladali-kristal-palas-u-engleskoj-premijer-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 05. 2026. у 16:57",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Selte pobedili Elče u španskoj La Ligi",
       "url": "https://www.tanjug.rs/sport/fudbal/249254/fudbaleri-selte-pobedili-elce-u-spanskoj-la-ligi/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/249248/fk-crvena-zvezda-devet-prijateljskih-meceva-koji-su-ucvrstili-bratstvo-sa-olimpijakosom/vest",
       "izvor": "Танјуг",
       "datum": "3. 05. 2026. у 15:26",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Bolonje i Kaljarija odigrali bez golova u Seriji A",
-      "url": "https://www.tanjug.rs/sport/fudbal/249242/fudbaleri-bolonje-i-kaljarija-odigrali-bez-golova-u-seriji-a/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 05. 2026. у 14:41",
-      "slika": null
-    },
-    {
-      "naslov": "Marko Jakšić: Uvek idemo na pobedu, ali protiv Zvezde bi i bod bio dobar",
-      "url": "https://www.tanjug.rs/sport/fudbal/249237/marko-jaksic-uvek-idemo-na-pobedu-ali-protiv-zvezde-bi-i-bod-bio-dobar/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 05. 2026. у 14:08",
       "slika": null
     },
     {
