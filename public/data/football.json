@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-03T21:55:58.388800+00:00",
-  "azurirano_sr": "3. 05. 2026. у 23:55",
+  "azurirano": "2026-05-03T22:31:49.901530+00:00",
+  "azurirano_sr": "4. 05. 2026. у 00:31",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "\"Klasiko Kapitalino\" trese Meksiko Siti, Klub Amerika i Pumas oči u oči",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/klasiko-kapitalino-trese-meksiko-siti-klub-amerika-i-pumas-oci-u-oci/542835",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 05. 2026. у 01:05",
+      "slika": null
+    },
     {
       "naslov": "Totenhem opet vidi boje i opstanak u Premijer ligi: Navijači Vile, sram vas bilo (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/totenhem-opet-vidi-boje-i-opstanak-u-premijer-ligi-navijaci-vile-sram-vas-bilo-video/542873",
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230273/superliga-srbije-34-kolo-plej-auta-radnicki-tsc-22/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "3. 05. 2026. у 21:30",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković otkrio – bez trojice na Čuku: &quot;Da vidimo na koga može da se računa&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230236/dejan-stankovic-konferencija-pred-cukaricki/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 05. 2026. у 18:44",
       "slika": null
     }
   ]
