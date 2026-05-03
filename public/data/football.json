@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-03T16:05:14.118186+00:00",
-  "azurirano_sr": "3. 05. 2026. у 18:05",
+  "azurirano": "2026-05-03T17:03:07.328974+00:00",
+  "azurirano_sr": "3. 05. 2026. у 19:03",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Dejan Stanković pred Čukarički: Biće rotacije u timu, sigurno bez Arnautovića",
+      "url": "https://www.tanjug.rs/sport/fudbal/249279/dejan-stankovic-pred-cukaricki-bice-rotacije-u-timu-sigurno-bez-arnautovica/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 05. 2026. у 18:50",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Mančester Junajteda savladali Liverpul u derbiju Premijer lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/249277/fudbaleri-mancester-junajteda-savladali-liverpul-u-derbiju-premijer-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 05. 2026. у 18:38",
+      "slika": null
+    },
+    {
       "naslov": "Ser Aleksu Fergusonu pozlilo na Old Trafordu, hitno prebačen u bolnicu",
       "url": "https://www.tanjug.rs/sport/fudbal/249261/ser-aleksu-fergusonu-pozlilo-na-old-trafordu-hitno-prebacen-u-bolnicu/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Bornmuta ubedljivo savladali Kristal Palas u engleskoj Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/249258/fudbaleri-bornmuta-ubedljivo-savladali-kristal-palas-u-engleskoj-premijer-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 05. 2026. у 16:57",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Selte pobedili Elče u španskoj La Ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/249254/fudbaleri-selte-pobedili-elce-u-spanskoj-la-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 05. 2026. у 16:01",
+      "naslov": "Stanković otkrio – bez trojice na Čuku: &quot;Da vidimo na koga može da se računa&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230236/dejan-stankovic-konferencija-pred-cukaricki/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 05. 2026. у 18:44",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230233/rasim-ljajic-o-skupstini-partizana-i-predragu-mijatovicu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "3. 05. 2026. у 17:41",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Uvek idemo na pobedu, ali protiv Zvezde može i bod&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230191/trener-cukarickog-marko-jaksic-pred-mec-protiv-crvene-zvezde-u-plej-ofu-superlige-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 05. 2026. у 14:50",
       "slika": null
     }
   ]
