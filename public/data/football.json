@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-03T13:45:47.135172+00:00",
-  "azurirano_sr": "3. 05. 2026. у 15:45",
+  "azurirano": "2026-05-03T14:34:50.554883+00:00",
+  "azurirano_sr": "3. 05. 2026. у 16:34",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Selte pobedili Elče u španskoj La Ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/249254/fudbaleri-selte-pobedili-elce-u-spanskoj-la-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 05. 2026. у 16:01",
+      "slika": null
+    },
+    {
+      "naslov": "FK Crvena Zvezda: Devet prijateljskih mečeva koji su učvrstili bratstvo sa Olimpijakosom",
+      "url": "https://www.tanjug.rs/sport/fudbal/249248/fk-crvena-zvezda-devet-prijateljskih-meceva-koji-su-ucvrstili-bratstvo-sa-olimpijakosom/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 05. 2026. у 15:26",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Bolonje i Kaljarija odigrali bez golova u Seriji A",
       "url": "https://www.tanjug.rs/sport/fudbal/249242/fudbaleri-bolonje-i-kaljarija-odigrali-bez-golova-u-seriji-a/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/249237/marko-jaksic-uvek-idemo-na-pobedu-ali-protiv-zvezde-bi-i-bod-bio-dobar/vest",
       "izvor": "Танјуг",
       "datum": "3. 05. 2026. у 14:08",
-      "slika": null
-    },
-    {
-      "naslov": "Nemac Danijel Zibert sudi revanš meč polufinala Lige šampiona između Arsenala i Atletika",
-      "url": "https://www.tanjug.rs/sport/fudbal/249214/nemac-danijel-zibert-sudi-revans-mec-polufinala-lige-sampiona-izmedu-arsenala-i-atletika/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 05. 2026. у 10:31",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Intera iz Majamija vodili 3:0 protiv Orlanda, pa izgubili",
-      "url": "https://www.tanjug.rs/sport/fudbal/249207/fudbaleri-intera-iz-majamija-vodili-30-protiv-orlanda-pa-izgubili/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 05. 2026. у 09:48",
       "slika": null
     },
     {
