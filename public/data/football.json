@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-03T19:38:40.190115+00:00",
-  "azurirano_sr": "3. 05. 2026. у 21:38",
+  "azurirano": "2026-05-03T20:22:28.322545+00:00",
+  "azurirano_sr": "3. 05. 2026. у 22:22",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Totenhem opet vidi boje i opstanak u Premijer ligi: Navijači Vile, sram vas bilo (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/totenhem-opet-vidi-boje-i-opstanak-u-premijer-ligi-navijaci-vile-sram-vas-bilo-video/542873",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 05. 2026. у 00:00",
+      "slika": null
+    },
     {
       "naslov": "Skupilo se staro društvo iz Malage, domaćini bez poklona za Kazorlu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/skupilo-se-staro-drustvo-iz-malage-domacini-bez-poklona-za-kazorlu/542859",
@@ -18,17 +25,10 @@
       "slika": null
     },
     {
-      "naslov": "Ko su delegati u Skupštini Partizana: Od bivših asova, preko navijača, do lica iz biznisa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ko-su-delegati-u-skupstini-partizana-od-bivsih-asova-preko-navijaca-do-lica-iz-biznisa/542781",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 05. 2026. у 09:55",
-      "slika": null
-    },
-    {
-      "naslov": "Poldi obećao - Poldi ispunio: U petoj deceniji doneo Gornjiku trofej Kupa posle pet i po decenija!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/poldi-obecao-poldi-ispunio-u-petoj-deceniji-doneo-gornjiku-trofej-kupa-posle-pet-i-po-decenija/542795",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 05. 2026. у 03:16",
+      "naslov": "Remi fudbalera Radničkog i TSC-a u Kragujevcu",
+      "url": "https://www.tanjug.rs/sport/fudbal/249296/remi-fudbalera-radnickog-i-tsc-a-u-kragujevcu/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 05. 2026. у 21:42",
       "slika": null
     },
     {
@@ -53,10 +53,10 @@
       "slika": null
     },
     {
-      "naslov": "Ser Aleksu Fergusonu pozlilo na Old Trafordu, hitno prebačen u bolnicu",
-      "url": "https://www.tanjug.rs/sport/fudbal/249261/ser-aleksu-fergusonu-pozlilo-na-old-trafordu-hitno-prebacen-u-bolnicu/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 05. 2026. у 17:28",
+      "naslov": "Adem Ljajić progovorio o povratku u Partizan",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230284/adem-ljajic-nista-od-partizana/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 05. 2026. у 22:17",
       "slika": null
     },
     {
