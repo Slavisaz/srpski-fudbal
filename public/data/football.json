@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-03T08:56:33.625142+00:00",
-  "azurirano_sr": "3. 05. 2026. у 10:56",
+  "azurirano": "2026-05-03T09:59:48.406241+00:00",
+  "azurirano_sr": "3. 05. 2026. у 11:59",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Najbolji trener Superlige: &quot;Veruj procesu&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230086/trener-zeleznicara-radomir-kokovic-konferencija-posle-pobede-nad-ofk-beogradom/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 05. 2026. у 11:30",
+      "slika": null
+    },
+    {
       "naslov": "Ben: &quot;Znam koliko su navijači Zvezde i Olimpijakosa povezani&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229975/ben-znam-koliko-su-navijaci-zvezde-i-olimpijakosa-povezani/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "2. 05. 2026. у 23:50",
-      "slika": null
-    },
-    {
-      "naslov": "Pirgić dvaput u metu za trijumf nad &quot;romantičarima&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230043/pirgic-dvaput-u-metu-za-trijumf-nad-romanticarima/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 05. 2026. у 20:39",
       "slika": null
     }
   ]
