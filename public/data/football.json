@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-03T21:06:00.507651+00:00",
-  "azurirano_sr": "3. 05. 2026. у 23:06",
+  "azurirano": "2026-05-03T21:55:58.388800+00:00",
+  "azurirano_sr": "3. 05. 2026. у 23:55",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -25,6 +25,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri banjalučkog Borca pobedili Sarajevo na \"Koševu\" i osvojili titulu",
+      "url": "https://www.tanjug.rs/sport/fudbal/249308/fudbaleri-banjaluckog-borca-pobedili-sarajevo-na-kosevu-i-osvojili-titulu/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 05. 2026. у 23:13",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Reala savladali Espanjol i odložili šampionsko slavlje Barselone",
+      "url": "https://www.tanjug.rs/sport/fudbal/249305/fudbaleri-reala-savladali-espanjol-i-odlozili-sampionsko-slavlje-barselone/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 05. 2026. у 22:57",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Intera pobedom protiv Parme osvojili 21. titulu šampiona Italije",
       "url": "https://www.tanjug.rs/sport/fudbal/249304/fudbaleri-intera-pobedom-protiv-parme-osvojili-21-titulu-sampiona-italije/vest",
       "izvor": "Танјуг",
@@ -36,20 +50,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/249296/remi-fudbalera-radnickog-i-tsc-a-u-kragujevcu/vest",
       "izvor": "Танјуг",
       "datum": "3. 05. 2026. у 21:42",
-      "slika": null
-    },
-    {
-      "naslov": "Remi fudbalera Juventusa i Verone, Vlahović pogodio iz slobodnog udarca",
-      "url": "https://www.tanjug.rs/sport/fudbal/249286/remi-fudbalera-juventusa-i-verone-vlahovic-pogodio-iz-slobodnog-udarca/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 05. 2026. у 20:04",
-      "slika": null
-    },
-    {
-      "naslov": "Dejan Stanković pred Čukarički: Biće rotacije u timu, sigurno bez Arnautovića",
-      "url": "https://www.tanjug.rs/sport/fudbal/249279/dejan-stankovic-pred-cukaricki-bice-rotacije-u-timu-sigurno-bez-arnautovica/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 05. 2026. у 18:50",
       "slika": null
     },
     {
