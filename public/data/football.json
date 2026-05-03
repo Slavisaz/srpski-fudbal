@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-03T12:09:26.415252+00:00",
-  "azurirano_sr": "3. 05. 2026. у 14:09",
+  "azurirano": "2026-05-03T13:45:47.135172+00:00",
+  "azurirano_sr": "3. 05. 2026. у 15:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kovač pred duel imenjaka: Bundesliga nije pozorište",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kovac-pred-duel-imenjaka-bundesliga-nije-pozoriste/542829",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 05. 2026. у 16:23",
+      "slika": null
+    },
     {
       "naslov": "Ko su delegati u Skupštini Partizana: Od bivših asova, preko navijača, do lica iz biznisa",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ko-su-delegati-u-skupstini-partizana-od-bivsih-asova-preko-navijaca-do-lica-iz-biznisa/542781",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Atalantina sezona promašaja: Sad joj ostaje da navija za Inter u finalu kupa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/atalantina-sezona-promasaja-sad-joj-ostaje-da-navija-za-inter-u-finalu-kupa/542792",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 05. 2026. у 01:06",
+      "naslov": "Fudbaleri Bolonje i Kaljarija odigrali bez golova u Seriji A",
+      "url": "https://www.tanjug.rs/sport/fudbal/249242/fudbaleri-bolonje-i-kaljarija-odigrali-bez-golova-u-seriji-a/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 05. 2026. у 14:41",
+      "slika": null
+    },
+    {
+      "naslov": "Marko Jakšić: Uvek idemo na pobedu, ali protiv Zvezde bi i bod bio dobar",
+      "url": "https://www.tanjug.rs/sport/fudbal/249237/marko-jaksic-uvek-idemo-na-pobedu-ali-protiv-zvezde-bi-i-bod-bio-dobar/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 05. 2026. у 14:08",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Srpski fudbaler Dejan Joveljić strelac za Sporting u remiju protiv Sijetla",
-      "url": "https://www.tanjug.rs/sport/fudbal/249203/srpski-fudbaler-dejan-joveljic-strelac-za-sporting-u-remiju-protiv-sijetla/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 05. 2026. у 09:28",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Barselone pobedom u Osasuni napravili još jedan korak ka tituli",
-      "url": "https://www.tanjug.rs/sport/fudbal/249168/fudbaleri-barselone-pobedom-u-osasuni-napravili-jos-jedan-korak-ka-tituli/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 05. 2026. у 23:04",
+      "naslov": "&quot;Uvek idemo na pobedu, ali protiv Zvezde može i bod&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230191/trener-cukarickog-marko-jaksic-pred-mec-protiv-crvene-zvezde-u-plej-ofu-superlige-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 05. 2026. у 14:50",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230086/trener-zeleznicara-radomir-kokovic-konferencija-posle-pobede-nad-ofk-beogradom/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "3. 05. 2026. у 11:30",
-      "slika": null
-    },
-    {
-      "naslov": "Ben: &quot;Znam koliko su navijači Zvezde i Olimpijakosa povezani&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/229975/ben-znam-koliko-su-navijaci-zvezde-i-olimpijakosa-povezani/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 05. 2026. у 23:50",
       "slika": null
     }
   ]
