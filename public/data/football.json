@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-03T15:24:43.874309+00:00",
-  "azurirano_sr": "3. 05. 2026. у 17:24",
+  "azurirano": "2026-05-03T16:05:14.118186+00:00",
+  "azurirano_sr": "3. 05. 2026. у 18:05",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Ser Aleksu Fergusonu pozlilo na Old Trafordu, hitno prebačen u bolnicu",
+      "url": "https://www.tanjug.rs/sport/fudbal/249261/ser-aleksu-fergusonu-pozlilo-na-old-trafordu-hitno-prebacen-u-bolnicu/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 05. 2026. у 17:28",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Sasuola savladali Milan u 35. kolu Serije A",
       "url": "https://www.tanjug.rs/sport/fudbal/249259/fudbaleri-sasuola-savladali-milan-u-35-kolu-serije-a/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "FK Crvena Zvezda: Devet prijateljskih mečeva koji su učvrstili bratstvo sa Olimpijakosom",
-      "url": "https://www.tanjug.rs/sport/fudbal/249248/fk-crvena-zvezda-devet-prijateljskih-meceva-koji-su-ucvrstili-bratstvo-sa-olimpijakosom/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 05. 2026. у 15:26",
+      "naslov": "Ljajić: &quot;Neće nam ulica određivati ko će voditi Partizan&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230233/rasim-ljajic-o-skupstini-partizana-i-predragu-mijatovicu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 05. 2026. у 17:41",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230191/trener-cukarickog-marko-jaksic-pred-mec-protiv-crvene-zvezde-u-plej-ofu-superlige-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "3. 05. 2026. у 14:50",
-      "slika": null
-    },
-    {
-      "naslov": "Najbolji trener Superlige: &quot;Veruj procesu&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230086/trener-zeleznicara-radomir-kokovic-konferencija-posle-pobede-nad-ofk-beogradom/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 05. 2026. у 11:30",
       "slika": null
     }
   ]
