@@ -1,15 +1,8 @@
 {
-  "azurirano": "2026-05-03T17:54:01.313511+00:00",
-  "azurirano_sr": "3. 05. 2026. у 19:54",
+  "azurirano": "2026-05-03T18:38:05.573956+00:00",
+  "azurirano_sr": "3. 05. 2026. у 20:38",
   "vesti_24h": 10,
   "vesti": [
-    {
-      "naslov": "Od Dortmundovog fudbala peku oči: Gladbah kljucnuo Milionere u 90. minutu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/od-dortmundovog-fudbala-peku-oci-gladbah-kljucnuo-milionere-u-90-minutu/542852",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 05. 2026. у 21:34",
-      "slika": null
-    },
     {
       "naslov": "Kovač pred duel imenjaka: Bundesliga nije pozorište",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kovac-pred-duel-imenjaka-bundesliga-nije-pozoriste/542829",
@@ -32,6 +25,20 @@
       "slika": null
     },
     {
+      "naslov": "Lans i Nica se čuvali za finale Kupa: Gosti na Azurnoj obali ostali bez igrača, pa ispustili dva boda",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lans-i-nica-se-cuvali-za-finale-kupa-gosti-na-azurnoj-obali-ostali-bez-igraca-pa-ispustili-dva-boda/542788",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 05. 2026. у 01:26",
+      "slika": null
+    },
+    {
+      "naslov": "Remi fudbalera Juventusa i Verone, Vlahović pogodio iz slobodnog udarca",
+      "url": "https://www.tanjug.rs/sport/fudbal/249286/remi-fudbalera-juventusa-i-verone-vlahovic-pogodio-iz-slobodnog-udarca/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 05. 2026. у 20:04",
+      "slika": null
+    },
+    {
       "naslov": "Dejan Stanković pred Čukarički: Biće rotacije u timu, sigurno bez Arnautovića",
       "url": "https://www.tanjug.rs/sport/fudbal/249279/dejan-stankovic-pred-cukaricki-bice-rotacije-u-timu-sigurno-bez-arnautovica/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/249261/ser-aleksu-fergusonu-pozlilo-na-old-trafordu-hitno-prebacen-u-bolnicu/vest",
       "izvor": "Танјуг",
       "datum": "3. 05. 2026. у 17:28",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Sasuola savladali Milan u 35. kolu Serije A",
-      "url": "https://www.tanjug.rs/sport/fudbal/249259/fudbaleri-sasuola-savladali-milan-u-35-kolu-serije-a/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 05. 2026. у 16:59",
       "slika": null
     },
     {
