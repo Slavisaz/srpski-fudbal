@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-03T20:22:28.322545+00:00",
-  "azurirano_sr": "3. 05. 2026. у 22:22",
+  "azurirano": "2026-05-03T21:06:00.507651+00:00",
+  "azurirano_sr": "3. 05. 2026. у 23:06",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -25,6 +25,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Intera pobedom protiv Parme osvojili 21. titulu šampiona Italije",
+      "url": "https://www.tanjug.rs/sport/fudbal/249304/fudbaleri-intera-pobedom-protiv-parme-osvojili-21-titulu-sampiona-italije/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 05. 2026. у 22:40",
+      "slika": null
+    },
+    {
       "naslov": "Remi fudbalera Radničkog i TSC-a u Kragujevcu",
       "url": "https://www.tanjug.rs/sport/fudbal/249296/remi-fudbalera-radnickog-i-tsc-a-u-kragujevcu/vest",
       "izvor": "Танјуг",
@@ -43,13 +50,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/249279/dejan-stankovic-pred-cukaricki-bice-rotacije-u-timu-sigurno-bez-arnautovica/vest",
       "izvor": "Танјуг",
       "datum": "3. 05. 2026. у 18:50",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Mančester Junajteda savladali Liverpul u derbiju Premijer lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/249277/fudbaleri-mancester-junajteda-savladali-liverpul-u-derbiju-premijer-lige/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 05. 2026. у 18:38",
       "slika": null
     },
     {
