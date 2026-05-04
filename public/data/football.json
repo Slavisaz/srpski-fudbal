@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-04T12:54:53.228629+00:00",
-  "azurirano_sr": "4. 05. 2026. у 14:54",
+  "azurirano": "2026-05-04T15:01:12.370445+00:00",
+  "azurirano_sr": "4. 05. 2026. у 17:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvezda formalni domaćin finala Kupa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-formalni-domacin-finala-kupa/542941",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 05. 2026. у 16:55",
+      "slika": null
+    },
     {
       "naslov": "Ušao da debituje, isključen posle deset sekundi (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/usao-da-debituje-iskljucen-posle-deset-sekundi-video/542929",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Sad je Embape problem? Real nisu izgradili fudbaleri u smokinzima, već oni s blatnjavim dresovima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sad-je-embape-problem-real-nisu-izgradili-fudbaleri-u-smokinzima-vec-oni-s-blatnjavim-dresovima/542905",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 05. 2026. у 11:27",
+      "naslov": "Trener Marselinjo na kraju sezone napušta Viljareal",
+      "url": "https://www.tanjug.rs/sport/fudbal/249432/trener-marselinjo-na-kraju-sezone-napusta-viljareal/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 05. 2026. у 14:59",
+      "slika": null
+    },
+    {
+      "naslov": "Crvena zvezda formalni domaćin finala Kupa Srbije protiv Vojvodine",
+      "url": "https://www.tanjug.rs/sport/fudbal/249429/crvena-zvezda-formalni-domacin-finala-kupa-srbije-protiv-vojvodine/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 05. 2026. у 14:44",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Nenad Sakić: Bratstvo koje prevazilazi granice sporta, proslavićemo na najbolji način",
-      "url": "https://www.tanjug.rs/sport/fudbal/249343/nenad-sakic-bratstvo-koje-prevazilazi-granice-sporta-proslavicemo-na-najbolji-nacin/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 05. 2026. у 09:46",
-      "slika": null
-    },
-    {
-      "naslov": "Memorijalni turnir \"Živite\" biće održan danas na stadionu Ravni Gaj u Malom Orašju",
-      "url": "https://www.tanjug.rs/sport/fudbal/248892/memorijalni-turnir-zivite-bice-odrzan-danas-na-stadionu-ravni-gaj-u-malom-orasju/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 05. 2026. у 04:24",
+      "naslov": "Zvezda inicijalni domaćin finala Kupa Srbije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230488/zvezda-inicijalni-domacin-finala-kupa-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 05. 2026. у 15:14",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230474/veljko-paunovic-na-listi-zelja-hetafea/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 05. 2026. у 14:45",
-      "slika": null
-    },
-    {
-      "naslov": "Apel za spas Partizana: &quot;Hitno raspustite upravu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230433/saopstenje-apela-za-spas-partizana-povodom-skupstine-fk-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 05. 2026. у 13:00",
       "slika": null
     }
   ]
