@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-04T06:39:48.906304+00:00",
-  "azurirano_sr": "4. 05. 2026. у 08:39",
+  "azurirano": "2026-05-04T09:05:33.640686+00:00",
+  "azurirano_sr": "4. 05. 2026. у 11:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Sad je Embape problem? Real nisu izgradili fudbaleri u smokinzima, već oni s blatnjavim dresovima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sad-je-embape-problem-real-nisu-izgradili-fudbaleri-u-smokinzima-vec-oni-s-blatnjavim-dresovima/542905",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 05. 2026. у 11:27",
+      "slika": null
+    },
+    {
+      "naslov": "Partizan prelomio - kupuje Dembu Seka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/partizan-prelomio-kupuje-dembu-seka/542904",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 05. 2026. у 10:55",
+      "slika": null
+    },
     {
       "naslov": "NAJAVA DANA (ponedeljak, 4. maj): Baš mnogo fudbala širom Evrope",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-ponedeljak-4-maj-bas-mnogo-fudbala-sirom-evrope/542897",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Totenhem opet vidi boje i opstanak u Premijer ligi: Navijači Vile, sram vas bilo (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/totenhem-opet-vidi-boje-i-opstanak-u-premijer-ligi-navijaci-vile-sram-vas-bilo-video/542873",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 05. 2026. у 00:00",
-      "slika": null
-    },
-    {
-      "naslov": "Skupilo se staro društvo iz Malage, domaćini bez poklona za Kazorlu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/skupilo-se-staro-drustvo-iz-malage-domacini-bez-poklona-za-kazorlu/542859",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 05. 2026. у 22:36",
+      "naslov": "Nenad Sakić: Bratstvo koje prevazilazi granice sporta, proslavićemo na najbolji način",
+      "url": "https://www.tanjug.rs/sport/fudbal/249343/nenad-sakic-bratstvo-koje-prevazilazi-granice-sporta-proslavicemo-na-najbolji-nacin/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 05. 2026. у 09:46",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Intera pobedom protiv Parme osvojili 21. titulu šampiona Italije",
-      "url": "https://www.tanjug.rs/sport/fudbal/249304/fudbaleri-intera-pobedom-protiv-parme-osvojili-21-titulu-sampiona-italije/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 05. 2026. у 22:40",
+      "naslov": "Poznat prvi Partizanov letnji transfer – 2.000.000 evra",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230358/partizan-otkupljuje-dembu-seka-za-2000000-evra/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 05. 2026. у 10:11",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230308/macva-usla-u-superligu-2026-godine/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 05. 2026. у 08:15",
-      "slika": null
-    },
-    {
-      "naslov": "Adem Ljajić progovorio o povratku u Partizan",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230284/adem-ljajic-nista-od-partizana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 05. 2026. у 22:17",
       "slika": null
     }
   ]
