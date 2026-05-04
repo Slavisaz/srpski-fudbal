@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-04T15:01:12.370445+00:00",
-  "azurirano_sr": "4. 05. 2026. у 17:01",
+  "azurirano": "2026-05-04T16:52:08.827423+00:00",
+  "azurirano_sr": "4. 05. 2026. у 18:52",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Skupili se neki momci i razbili Čelsi: Forestov B tim ispraznio Stamford Bridž pola sata pred kraj",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/skupili-se-neki-momci-i-razbili-celsi-forestov-b-tim-ispraznio-stamford-bridz-pola-sata-pred-kraj/542952",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 05. 2026. у 20:11",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbal po Fabregasu: Tu sam da zabavim! Ako želite duge lopte - žao mi je, nisam vaš čovek",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbal-po-fabregasu-tu-sam-da-zabavim-ako-zelite-duge-lopte-zao-mi-je-nisam-vas-covek/542953",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 05. 2026. у 19:55",
+      "slika": null
+    },
     {
       "naslov": "Zvezda formalni domaćin finala Kupa",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-formalni-domacin-finala-kupa/542941",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Stigao sam s kraja sveta, a Srbija saznala odakle dolazim",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/stigao-sam-s-kraja-sveta-a-srbija-saznala-odakle-dolazim/542919",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 05. 2026. у 13:37",
+      "naslov": "Fudbaleri Notingem Foresta pobedili Čelsi u 35. kolu Premijer lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/249486/fudbaleri-notingem-foresta-pobedili-celsi-u-35-kolu-premijer-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 05. 2026. у 18:12",
       "slika": null
     },
     {
-      "naslov": "Apel za spas Partizana: Hitno raspustiti Skupštinu i formirati profesionalnu upravu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/apel-za-spas-partizana-hitno-raspustiti-skupstinu-i-formirati-profesionalnu-upravu/542920",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 05. 2026. у 13:12",
+      "naslov": "Delegacija Fudbalskog saveza Srbije odala počast žrtvama tragedije u Malom Orašju",
+      "url": "https://www.tanjug.rs/sport/fudbal/249466/delegacija-fudbalskog-saveza-srbije-odala-pocast-zrtvama-tragedije-u-malom-orasju/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 05. 2026. у 17:03",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Trener Atletika Dijego Simeone poveo 25 fudbalera na meč protiv Arsenala u Ligi šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/249387/trener-atletika-dijego-simeone-poveo-25-fudbalera-na-mec-protiv-arsenala-u-ligi-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 05. 2026. у 12:16",
-      "slika": null
-    },
-    {
-      "naslov": "Trener Arbeloa o Mbapeu: Svaki igrač u svoje slobodno vreme radi ono što smatra prikladnim",
-      "url": "https://www.tanjug.rs/sport/fudbal/249362/trener-arbeloa-o-mbapeu-svaki-igrac-u-svoje-slobodno-vreme-radi-ono-sto-smatra-prikladnim/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 05. 2026. у 10:55",
+      "naslov": "Zvezda na &quot;brdu&quot; – Gudelj od prvog minuta",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230504/uzivo-prenos-superliga-srbije-4-kolo-plej-ofa-cukaricki-crvena-zvezda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 05. 2026. у 18:09",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230488/zvezda-inicijalni-domacin-finala-kupa-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 05. 2026. у 15:14",
-      "slika": null
-    },
-    {
-      "naslov": "Veljko Paunović dobio poziv zbog kog napušta klupu Srbije?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230474/veljko-paunovic-na-listi-zelja-hetafea/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 05. 2026. у 14:45",
       "slika": null
     }
   ]
