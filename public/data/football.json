@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-05-04T09:05:33.640686+00:00",
-  "azurirano_sr": "4. 05. 2026. у 11:05",
+  "azurirano": "2026-05-04T11:11:50.865632+00:00",
+  "azurirano_sr": "4. 05. 2026. у 13:11",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ušao da debituje, isključen posle deset sekundi (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/usao-da-debituje-iskljucen-posle-deset-sekundi-video/542929",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 05. 2026. у 14:56",
+      "slika": null
+    },
+    {
+      "naslov": "Stigao sam s kraja sveta, a Srbija saznala odakle dolazim",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stigao-sam-s-kraja-sveta-a-srbija-saznala-odakle-dolazim/542919",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 05. 2026. у 13:37",
+      "slika": null
+    },
+    {
+      "naslov": "Apel za spas Partizana: Hitno raspustiti Skupštinu i formirati profesionalnu upravu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/apel-za-spas-partizana-hitno-raspustiti-skupstinu-i-formirati-profesionalnu-upravu/542920",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 05. 2026. у 13:12",
+      "slika": null
+    },
     {
       "naslov": "Sad je Embape problem? Real nisu izgradili fudbaleri u smokinzima, već oni s blatnjavim dresovima",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sad-je-embape-problem-real-nisu-izgradili-fudbaleri-u-smokinzima-vec-oni-s-blatnjavim-dresovima/542905",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Partizan prelomio - kupuje Dembu Seka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/partizan-prelomio-kupuje-dembu-seka/542904",
-      "izvor": "Мозарт Спорт",
+      "naslov": "Trener Atletika Dijego Simeone poveo 25 fudbalera na meč protiv Arsenala u Ligi šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/249387/trener-atletika-dijego-simeone-poveo-25-fudbalera-na-mec-protiv-arsenala-u-ligi-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 05. 2026. у 12:16",
+      "slika": null
+    },
+    {
+      "naslov": "Trener Arbeloa o Mbapeu: Svaki igrač u svoje slobodno vreme radi ono što smatra prikladnim",
+      "url": "https://www.tanjug.rs/sport/fudbal/249362/trener-arbeloa-o-mbapeu-svaki-igrac-u-svoje-slobodno-vreme-radi-ono-sto-smatra-prikladnim/vest",
+      "izvor": "Танјуг",
       "datum": "4. 05. 2026. у 10:55",
-      "slika": null
-    },
-    {
-      "naslov": "NAJAVA DANA (ponedeljak, 4. maj): Baš mnogo fudbala širom Evrope",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-ponedeljak-4-maj-bas-mnogo-fudbala-sirom-evrope/542897",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 05. 2026. у 09:33",
-      "slika": null
-    },
-    {
-      "naslov": "\"Klasiko Kapitalino\" trese Meksiko Siti, Klub Amerika i Pumas oči u oči",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/klasiko-kapitalino-trese-meksiko-siti-klub-amerika-i-pumas-oci-u-oci/542835",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 05. 2026. у 01:05",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri banjalučkog Borca pobedili Sarajevo na \"Koševu\" i osvojili titulu",
-      "url": "https://www.tanjug.rs/sport/fudbal/249308/fudbaleri-banjaluckog-borca-pobedili-sarajevo-na-kosevu-i-osvojili-titulu/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 05. 2026. у 23:13",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Reala savladali Espanjol i odložili šampionsko slavlje Barselone",
-      "url": "https://www.tanjug.rs/sport/fudbal/249305/fudbaleri-reala-savladali-espanjol-i-odlozili-sampionsko-slavlje-barselone/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 05. 2026. у 22:57",
+      "naslov": "Apel za spas Partizana: &quot;Hitno raspustite upravu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230433/saopstenje-apela-za-spas-partizana-povodom-skupstine-fk-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 05. 2026. у 13:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230358/partizan-otkupljuje-dembu-seka-za-2000000-evra/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 05. 2026. у 10:11",
-      "slika": null
-    },
-    {
-      "naslov": "Imamo novog učesnika Superlige VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230308/macva-usla-u-superligu-2026-godine/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 05. 2026. у 08:15",
       "slika": null
     }
   ]
