@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-04T19:52:52.770524+00:00",
-  "azurirano_sr": "4. 05. 2026. у 21:52",
+  "azurirano": "2026-05-04T20:54:23.198522+00:00",
+  "azurirano_sr": "4. 05. 2026. у 22:54",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Stanković: Zadovoljan sam odnosom i pristupom, uvek ima prostora za napredak",
+      "url": "https://www.tanjug.rs/sport/fudbal/249534/stankovic-zadovoljan-sam-odnosom-i-pristupom-uvek-ima-prostora-za-napredak/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 05. 2026. у 21:56",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Crvene zvezde pobedili Čukarički u Superligi Srbije",
       "url": "https://www.tanjug.rs/sport/fudbal/249524/fudbaleri-crvene-zvezde-pobedili-cukaricki-u-superligi-srbije/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Notingem Foresta pobedili Čelsi u 35. kolu Premijer lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/249486/fudbaleri-notingem-foresta-pobedili-celsi-u-35-kolu-premijer-lige/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 05. 2026. у 18:12",
+      "naslov": "Jakšić posle poraza od Zvezde: &quot;Ovo najviše zameram&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230604/marko-jaksic-izjava-posle-cukaricki-zvezda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 05. 2026. у 22:05",
       "slika": null
     },
     {
@@ -67,10 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "FSS odao počast žrtvama u Malom Orašju",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230537/fss-odao-pocast-zrtvama-u-malom-orasju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 05. 2026. у 21:12",
+      "naslov": "Živković razbio Oly – Nikolićev AEK na pragu titule!",
+      "url": "https://www.b92.net/sport/fudbal/vesti/230280/zivkovic-razbio-oly-nikolicev-aek-na-pragu-titule/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "3. 05. 2026. у 21:57",
       "slika": null
     },
     {
