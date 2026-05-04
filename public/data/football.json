@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-04T11:11:50.865632+00:00",
-  "azurirano_sr": "4. 05. 2026. у 13:11",
+  "azurirano": "2026-05-04T12:54:53.228629+00:00",
+  "azurirano_sr": "4. 05. 2026. у 14:54",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Veljko Paunović dobio poziv zbog kog napušta klupu Srbije?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230474/veljko-paunovic-na-listi-zelja-hetafea/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 05. 2026. у 14:45",
+      "slika": null
+    },
+    {
       "naslov": "Apel za spas Partizana: &quot;Hitno raspustite upravu&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230433/saopstenje-apela-za-spas-partizana-povodom-skupstine-fk-partizan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 05. 2026. у 13:00",
-      "slika": null
-    },
-    {
-      "naslov": "Poznat prvi Partizanov letnji transfer – 2.000.000 evra",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230358/partizan-otkupljuje-dembu-seka-za-2000000-evra/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 05. 2026. у 10:11",
       "slika": null
     }
   ]
