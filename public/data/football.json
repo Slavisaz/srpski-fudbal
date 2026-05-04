@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-04T18:07:10.988839+00:00",
-  "azurirano_sr": "4. 05. 2026. у 20:07",
+  "azurirano": "2026-05-04T19:52:52.770524+00:00",
+  "azurirano_sr": "4. 05. 2026. у 21:52",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Spusti pendrek, policajče, ti ovde više nemaš ovlašćenja: Harts zapalio fitilj škotske revolucije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/spusti-pendrek-policajce-ti-ovde-vise-nemas-ovlascenja-harts-zapalio-fitilj-skotske-revolucije/542962",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 05. 2026. у 22:31",
+      "slika": null
+    },
     {
       "naslov": "Železničar čeka istorijski transfer: Tuluz i Italijani poslali 2.000.000 evra za Džaspera",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zeleznicar-ceka-istorijski-transfer-tuluz-i-italijani-poslali-2000000-evra-za-dzaspera/542956",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Zvezda formalni domaćin finala Kupa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-formalni-domacin-finala-kupa/542941",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 05. 2026. у 16:55",
+      "naslov": "Fudbaleri Crvene zvezde pobedili Čukarički u Superligi Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/249524/fudbaleri-crvene-zvezde-pobedili-cukaricki-u-superligi-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 05. 2026. у 21:06",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Hartsa pobedili Rendžers u škotskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/249516/fudbaleri-hartsa-pobedili-rendzers-u-skotskom-prvenstvu/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 05. 2026. у 20:34",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Delegacija Fudbalskog saveza Srbije odala počast žrtvama tragedije u Malom Orašju",
-      "url": "https://www.tanjug.rs/sport/fudbal/249466/delegacija-fudbalskog-saveza-srbije-odala-pocast-zrtvama-tragedije-u-malom-orasju/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 05. 2026. у 17:03",
-      "slika": null
-    },
-    {
-      "naslov": "Trener Marselinjo na kraju sezone napušta Viljareal",
-      "url": "https://www.tanjug.rs/sport/fudbal/249432/trener-marselinjo-na-kraju-sezone-napusta-viljareal/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 05. 2026. у 14:59",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda ima gol i igrača više",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230504/uzivo-prenos-superliga-srbije-4-kolo-plej-ofa-cukaricki-crvena-zvezda/vest",
+      "naslov": "Stankoviću samo jedno &quot;upalo u oko&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230597/stankovicu-samo-jedno-upalo-u-oko/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 05. 2026. у 20:04",
+      "datum": "4. 05. 2026. у 21:51",
       "slika": null
     },
     {
-      "naslov": "Transfer bomba u Pančevu – milionske ponude stižu sa svih strana!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230573/silvester-dzasper-zeleznicar-transfer-tuluz-nudi-2-miliona-evra/vest",
+      "naslov": "FSS odao počast žrtvama u Malom Orašju",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230537/fss-odao-pocast-zrtvama-u-malom-orasju/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 05. 2026. у 20:01",
+      "datum": "4. 05. 2026. у 21:12",
       "slika": null
     },
     {
