@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-05T17:57:52.792927+00:00",
-  "azurirano_sr": "5. 05. 2026. у 19:57",
+  "azurirano": "2026-05-05T19:14:15.909943+00:00",
+  "azurirano_sr": "5. 05. 2026. у 21:14",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "UŽIVO - LIGA ŠAMPIONA: Arsenal - Atletiko Madrid, ko će prvi u finale?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-arsenal-atletiko-madrid-ko-ce-prvi-u-finale/543029",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 05. 2026. у 22:59",
+      "slika": null
+    },
     {
       "naslov": "Jalčin traži iskupljenje, kup je šansa za spas sezone",
       "url": "https://www.mozzartsport.com/fudbal/vesti/jalcin-trazi-iskupljenje-kup-je-sansa-za-spas-sezone/542996",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Spusti pendrek, policajče, ti ovde više nemaš ovlašćenja: Harts zapalio fitilj škotske revolucije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/spusti-pendrek-policajce-ti-ovde-vise-nemas-ovlascenja-harts-zapalio-fitilj-skotske-revolucije/542962",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 05. 2026. у 22:31",
+      "naslov": "Trener Pari Sen Žermena Luis Enrike računa na 23 igrača za meč protiv Bajerna u LŠ",
+      "url": "https://www.tanjug.rs/sport/fudbal/249801/trener-pari-sen-zermena-luis-enrike-racuna-na-23-igraca-za-mec-protiv-bajerna-u-ls/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 05. 2026. у 19:42",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/249601/gvardiola-nista-nije-gotovo-ali-trka-za-titulu-nije-vise-u-nasim-rukama/vest",
       "izvor": "Танјуг",
       "datum": "5. 05. 2026. у 09:56",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Sevilje savladali Real Sosijedad u 34. kolu španskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/249543/fudbaleri-sevilje-savladali-real-sosijedad-u-34-kolu-spanskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 05. 2026. у 23:11",
       "slika": null
     },
     {
