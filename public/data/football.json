@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-05T16:26:04.621978+00:00",
-  "azurirano_sr": "5. 05. 2026. у 18:26",
+  "azurirano": "2026-05-05T17:57:52.792927+00:00",
+  "azurirano_sr": "5. 05. 2026. у 19:57",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Najbolji igrač Železničara na meti velikana iz komšiluka",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230821/najbolji-igrac-zeleznicara-na-meti-velikana-iz-komsiluka/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "5. 05. 2026. у 18:32",
+      "slika": null
+    },
+    {
       "naslov": "Jakšić posle poraza od Zvezde: &quot;Ovo najviše zameram&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230604/marko-jaksic-izjava-posle-cukaricki-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 05. 2026. у 22:05",
-      "slika": null
-    },
-    {
-      "naslov": "Stankoviću samo jedno &quot;upalo u oko&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230597/stankovicu-samo-jedno-upalo-u-oko/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 05. 2026. у 21:51",
       "slika": null
     }
   ]
