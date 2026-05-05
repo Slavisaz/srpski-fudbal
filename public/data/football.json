@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-05T06:33:16.640691+00:00",
-  "azurirano_sr": "5. 05. 2026. у 08:33",
+  "azurirano": "2026-05-05T08:35:34.479385+00:00",
+  "azurirano_sr": "5. 05. 2026. у 10:35",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ko s kim za pehar najboljem u Premijer ligi: Arsenal protiv Vest Hema za titulu?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ko-s-kim-za-pehar-najboljem-u-premijer-ligi-arsenal-protiv-vest-hema-za-titulu/542983",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 05. 2026. у 11:10",
+      "slika": null
+    },
+    {
+      "naslov": "Raport sa srpskoligaških terena: Bor i rekord od 18:0! BASK zaboravio da prijavi utakmicu SUP-u?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-bor-i-rekord-od-180-bask-zaboravio-da-prijavi-utakmicu-supu/542980",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 05. 2026. у 10:26",
+      "slika": null
+    },
     {
       "naslov": "Spusti pendrek, policajče, ti ovde više nemaš ovlašćenja: Harts zapalio fitilj škotske revolucije",
       "url": "https://www.mozzartsport.com/fudbal/vesti/spusti-pendrek-policajce-ti-ovde-vise-nemas-ovlascenja-harts-zapalio-fitilj-skotske-revolucije/542962",
@@ -18,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Skupili se neki momci i razbili Čelsi: Forestov B tim ispraznio Stamford Bridž pola sata pred kraj",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/skupili-se-neki-momci-i-razbili-celsi-forestov-b-tim-ispraznio-stamford-bridz-pola-sata-pred-kraj/542952",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 05. 2026. у 20:11",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbal po Fabregasu: Tu sam da zabavim! Ako želite duge lopte - žao mi je, nisam vaš čovek",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbal-po-fabregasu-tu-sam-da-zabavim-ako-zelite-duge-lopte-zao-mi-je-nisam-vas-covek/542953",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 05. 2026. у 19:55",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Mančester sitija u 90+7. minutu izborili remi protiv Evertona",
-      "url": "https://www.tanjug.rs/sport/fudbal/249542/fudbaleri-mancester-sitija-u-907-minutu-izborili-remi-protiv-evertona/vest",
+      "naslov": "Gvardiola: Ništa nije gotovo, ali trka za titulu nije više u našim rukama",
+      "url": "https://www.tanjug.rs/sport/fudbal/249601/gvardiola-nista-nije-gotovo-ali-trka-za-titulu-nije-vise-u-nasim-rukama/vest",
       "izvor": "Танјуг",
-      "datum": "4. 05. 2026. у 23:11",
+      "datum": "5. 05. 2026. у 09:56",
       "slika": null
     },
     {
@@ -46,17 +46,17 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Mančester sitija u 90+7. minutu izborili remi protiv Evertona",
+      "url": "https://www.tanjug.rs/sport/fudbal/249542/fudbaleri-mancester-sitija-u-907-minutu-izborili-remi-protiv-evertona/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 05. 2026. у 23:11",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Rome ubedljivi protiv Fiorentine u 35. kolu Serije A",
       "url": "https://www.tanjug.rs/sport/fudbal/249538/fudbaleri-rome-ubedljivi-protiv-fiorentine-u-35-kolu-serije-a/vest",
       "izvor": "Танјуг",
       "datum": "4. 05. 2026. у 22:43",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: Zadovoljan sam odnosom i pristupom, uvek ima prostora za napredak",
-      "url": "https://www.tanjug.rs/sport/fudbal/249534/stankovic-zadovoljan-sam-odnosom-i-pristupom-uvek-ima-prostora-za-napredak/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 05. 2026. у 21:56",
       "slika": null
     },
     {
@@ -74,17 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "Živković razbio Oly – Nikolićev AEK na pragu titule!",
-      "url": "https://www.b92.net/sport/fudbal/vesti/230280/zivkovic-razbio-oly-nikolicev-aek-na-pragu-titule/vest",
+      "naslov": "Nejmar udario Robinjovog sina – jer ga je driblao!",
+      "url": "https://www.b92.net/sport/fudbal/vesti/230330/nejmar-udario-robinjovog-sina-na-treningu-santosa/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "3. 05. 2026. у 21:57",
-      "slika": null
-    },
-    {
-      "naslov": "Čudo u Švajcarskoj: Ušli u ligu i uzeli titulu – prvu u istoriji!",
-      "url": "https://www.b92.net/sport/fudbal/vesti/230248/cudo-u-svajcarskoj-usli-u-ligu-i-uzeli-titulu-prvu-u-127-godina/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "3. 05. 2026. у 19:00",
+      "datum": "4. 05. 2026. у 08:48",
       "slika": null
     }
   ]
