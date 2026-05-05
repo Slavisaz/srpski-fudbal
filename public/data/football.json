@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-05T10:22:11.754415+00:00",
-  "azurirano_sr": "5. 05. 2026. у 12:22",
+  "azurirano": "2026-05-05T11:43:50.524065+00:00",
+  "azurirano_sr": "5. 05. 2026. у 13:43",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Edin Terzić od sledeće sezone trener fudbalera Atletik Bilbaa",
+      "url": "https://www.tanjug.rs/sport/fudbal/249658/edin-terzic-od-sledece-sezone-trener-fudbalera-atletik-bilbaa/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 05. 2026. у 12:38",
+      "slika": null
+    },
+    {
       "naslov": "Gvardiola: Ništa nije gotovo, ali trka za titulu nije više u našim rukama",
       "url": "https://www.tanjug.rs/sport/fudbal/249601/gvardiola-nista-nije-gotovo-ali-trka-za-titulu-nije-vise-u-nasim-rukama/vest",
       "izvor": "Танјуг",
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Rome ubedljivi protiv Fiorentine u 35. kolu Serije A",
-      "url": "https://www.tanjug.rs/sport/fudbal/249538/fudbaleri-rome-ubedljivi-protiv-fiorentine-u-35-kolu-serije-a/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 05. 2026. у 22:43",
-      "slika": null
-    },
-    {
       "naslov": "Jakšić posle poraza od Zvezde: &quot;Ovo najviše zameram&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230604/marko-jaksic-izjava-posle-cukaricki-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230597/stankovicu-samo-jedno-upalo-u-oko/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 05. 2026. у 21:51",
-      "slika": null
-    },
-    {
-      "naslov": "Nejmar udario Robinjovog sina – jer ga je driblao!",
-      "url": "https://www.b92.net/sport/fudbal/vesti/230330/nejmar-udario-robinjovog-sina-na-treningu-santosa/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "4. 05. 2026. у 08:48",
       "slika": null
     }
   ]
