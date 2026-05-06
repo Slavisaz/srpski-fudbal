@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-06T10:36:36.015115+00:00",
-  "azurirano_sr": "6. 05. 2026. у 12:36",
+  "azurirano": "2026-05-06T12:17:15.454570+00:00",
+  "azurirano_sr": "6. 05. 2026. у 14:17",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Buongiorno Italia: Sari, Kup Italije, pa Napoli?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-sari-kup-italije-pa-napoli/543079",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 05. 2026. у 15:36",
+      "slika": null
+    },
+    {
+      "naslov": "Da li ste za hot-dog iz Infantinovih ruku? Za kartu od 2.000.000 predsednik FIFA lično služi užinu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/da-li-ste-za-hotdog-iz-infantinovih-ruku-za-kartu-od-2000000-predsednik-fifa-licno-sluzi-uzinu/543075",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 05. 2026. у 14:35",
+      "slika": null
+    },
     {
       "naslov": "Bitka za Mostar: Zrinjski za spas sezone, Veležov prkos za vraćanje Rođenih na staze stare slave",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bitka-za-mostar-zrinjski-za-spas-sezone-velezov-prkos-za-vracanje-roenih-na-staze-stare-slave/543072",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/navijaces-za-bavarce-i-spartak-moskvu-to-su-kecevi-uz-najvece-kvote-na-svetu/543065",
       "izvor": "Мозарт Спорт",
       "datum": "6. 05. 2026. у 12:29",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezdin položaj na fudbalskoj piramidi, moraće da se čeka i Ognjen Mimović",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdin-polozaj-na-fudbalskoj-piramidi-morace-da-se-ceka-i-ognjen-mimovic/543062",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 05. 2026. у 11:58",
-      "slika": null
-    },
-    {
-      "naslov": "Ono je strašna dosada, UEFA je trebalo da prekine meč u 35. minutu i proglasi finale Bajern - PSŽ",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ono-je-strasna-dosada-uefa-je-trebalo-da-prekine-mec-u-35-minutu-i-proglasi-finale-bajern-psz/543059",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 05. 2026. у 11:58",
       "slika": null
     },
     {
@@ -60,7 +60,7 @@
       "slika": null
     },
     {
-      "naslov": "Terzić: &quot;Naše klubove koji ispadaju u prvom kolu u Evropi treba da bude sramota&quot;",
+      "naslov": "Terzić: &quot;Naše klubove koji ispadaju u prvom kolu u Evropi treba da bude stid&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231057/zvezdan-terzic-o-ispadanju-srpskih-klubova-u-kvalifikacijama/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "6. 05. 2026. у 12:36",
@@ -71,6 +71,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231009/zvezda-i-partizan-da-dele-nacionalni-stadion-kao-inter-i-milan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "6. 05. 2026. у 10:45",
+      "slika": null
+    },
+    {
+      "naslov": "Terzić preuzima Atletik Bilbao",
+      "url": "https://www.b92.net/sport/fudbal/vesti/230744/terzic-preuzima-atletik-bilbao/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "5. 05. 2026. у 13:39",
       "slika": null
     },
     {
