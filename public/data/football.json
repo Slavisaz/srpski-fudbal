@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-06T16:20:46.876340+00:00",
-  "azurirano_sr": "6. 05. 2026. у 18:20",
+  "azurirano": "2026-05-06T17:55:14.832990+00:00",
+  "azurirano_sr": "6. 05. 2026. у 19:55",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Halabuka u Meksiku, savez upozorava: Ko ne dođe na okupljanje reprezentacije, briše se sa spiska!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/halabuka-u-meksiku-savez-upozorava-ko-ne-doe-na-okupljanje-reprezentacije-brise-se-sa-spiska/543105",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 05. 2026. у 21:36",
+      "slika": null
+    },
+    {
+      "naslov": "Pre Terzića je bio Srbin sa cigarom i hteo je da se fudbaleri bave atletikom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pre-terzica-je-bio-srbin-sa-cigarom-i-hteo-je-da-se-fudbaleri-bave-atletikom/543098",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 05. 2026. у 20:10",
+      "slika": null
+    },
     {
       "naslov": "Biser La Masije pronašao zemlju spasa: Monako otkupljuje Ansua Fatija za 11.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/biser-la-masije-pronasao-zemlju-spasa-monako-otkupljuje-ansua-fatija-za-11000000-evra/543095",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/ovo-meso-je-od-celika-i-ne-pristaje-na-diktat-biologije-hulkov-zvucni-transfer-u-40-godini/543080",
       "izvor": "Мозарт Спорт",
       "datum": "6. 05. 2026. у 16:29",
-      "slika": null
-    },
-    {
-      "naslov": "Buongiorno Italia: Sari, Kup Italije, pa Napoli?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-sari-kup-italije-pa-napoli/543079",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 05. 2026. у 15:36",
-      "slika": null
-    },
-    {
-      "naslov": "Da li ste za hot-dog iz Infantinovih ruku? Za kartu od 2.000.000 predsednik FIFA lično služi užinu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/da-li-ste-za-hotdog-iz-infantinovih-ruku-za-kartu-od-2000000-predsednik-fifa-licno-sluzi-uzinu/543075",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 05. 2026. у 14:35",
       "slika": null
     },
     {
@@ -71,6 +71,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231009/zvezda-i-partizan-da-dele-nacionalni-stadion-kao-inter-i-milan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "6. 05. 2026. у 10:45",
+      "slika": null
+    },
+    {
+      "naslov": "Najbolji igrač Železničara na meti velikana iz komšiluka",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230821/najbolji-igrac-zeleznicara-na-meti-velikana-iz-komsiluka/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "5. 05. 2026. у 18:32",
       "slika": null
     }
   ]
