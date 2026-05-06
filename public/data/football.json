@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-06T19:19:46.720804+00:00",
-  "azurirano_sr": "6. 05. 2026. у 21:19",
+  "azurirano": "2026-05-06T20:49:17.648066+00:00",
+  "azurirano_sr": "6. 05. 2026. у 22:49",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -11,8 +11,8 @@
       "slika": null
     },
     {
-      "naslov": "UŽIVO- Liga šampiona: Bajern - Pari Sen Žermen 0:0",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-bajern-pari-sen-zermen-00/543109",
+      "naslov": "UŽIVO- Liga šampiona: Bajern - Pari Sen Žermen 0:1; domaćin nikako da se trgne",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-bajern-pari-sen-zermen-01-domacin-nikako-da-se-trgne/543109",
       "izvor": "Мозарт Спорт",
       "datum": "6. 05. 2026. у 21:57",
       "slika": null
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Fudbalski savez Srbije izrazio saučešće povodom smrti Vladimira Cvetkovića",
+      "url": "https://www.tanjug.rs/sport/fudbal/250081/fudbalski-savez-srbije-izrazio-saucesce-povodom-smrti-vladimira-cvetkovica/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 05. 2026. у 22:11",
+      "slika": null
+    },
+    {
+      "naslov": "FIFA uvela globalnu suspenziju za argentinskog fudbalera Đanluku Prestijanija",
+      "url": "https://www.tanjug.rs/sport/fudbal/250078/fifa-uvela-globalnu-suspenziju-za-argentinskog-fudbalera-danluku-prestijanija/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 05. 2026. у 21:54",
+      "slika": null
+    },
+    {
+      "naslov": "Vaterpolisti Novog Beograda pobedili Šabac i plasirali se u finale plej-ofa SLS",
+      "url": "https://www.tanjug.rs/sport/fudbal/250074/vaterpolisti-novog-beograda-pobedili-sabac-i-plasirali-se-u-finale-plej-ofa-sls/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 05. 2026. у 21:39",
+      "slika": null
+    },
+    {
       "naslov": "Predsednik Fudbalskog saveza Irana zatražio od FIFA-e bezbednosne garancije uoči početka Svetskog prvenstva",
       "url": "https://www.tanjug.rs/sport/fudbal/250056/predsednik-fudbalskog-saveza-irana-zatrazio-od-fifa-e-bezbednosne-garancije-uoci-pocetka-svetskog-prvenstva/vest",
       "izvor": "Танјуг",
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbalski klub Crvena zvezda proslavio krsnu slavu Đurđevdan",
-      "url": "https://www.tanjug.rs/sport/fudbal/250009/fudbalski-klub-crvena-zvezda-proslavio-krsnu-slavu-durdevdan/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 05. 2026. у 16:30",
-      "slika": null
-    },
-    {
-      "naslov": "Božidar Bandović: Delije i Gejt 7 prave izvanrednu atmosferu, navijači će uživati",
-      "url": "https://www.tanjug.rs/sport/fudbal/249999/bozidar-bandovic-delije-i-gejt-7-prave-izvanrednu-atmosferu-navijaci-ce-uzivati/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 05. 2026. у 16:10",
-      "slika": null
-    },
-    {
-      "naslov": "Brazilski fudbaler Hulk potpisao ugovor sa Fluminenseom",
-      "url": "https://www.tanjug.rs/sport/fudbal/249976/brazilski-fudbaler-hulk-potpisao-ugovor-sa-fluminenseom/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 05. 2026. у 15:13",
-      "slika": null
-    },
-    {
-      "naslov": "Ko je bio Vladimir Cvetković? Čovek koji je ostavio neizbrisiv trag i u FK i u KK Crvena zvezda",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231215/ko-je-bio-legenda-crvene-zvezde-vladimir-cvetkovic-in-memoriam/vest",
+      "naslov": "Superliga u svetskom vrhu – po smeni trenera",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231143/superliga-osma-na-svetu-po-broju-smenjenih-trenera/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "6. 05. 2026. у 20:42",
+      "datum": "6. 05. 2026. у 22:24",
       "slika": null
     },
     {
-      "naslov": "Preminuo legendarni Vladimir Cvetković",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231208/preminuo-vladimir-cvetkovic/vest",
+      "naslov": "Predsednik Vučić uputio saučešće povodom smrti Vladimira Cvetkovića",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231230/aleksandar-vucic-izrazio-saucesce-zbog-smrti-vladimira-cvetkovica/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "6. 05. 2026. у 19:53",
+      "datum": "6. 05. 2026. у 21:29",
       "slika": null
     }
   ]
