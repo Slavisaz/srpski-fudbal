@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-06T17:55:14.832990+00:00",
-  "azurirano_sr": "6. 05. 2026. у 19:55",
+  "azurirano": "2026-05-06T19:19:46.720804+00:00",
+  "azurirano_sr": "6. 05. 2026. у 21:19",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "In memoriam: Vladimir Cvetković",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/in-memoriam-vladimir-cvetkovic/543114",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 05. 2026. у 22:39",
+      "slika": null
+    },
+    {
+      "naslov": "UŽIVO- Liga šampiona: Bajern - Pari Sen Žermen 0:0",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-bajern-pari-sen-zermen-00/543109",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 05. 2026. у 21:57",
+      "slika": null
+    },
     {
       "naslov": "Halabuka u Meksiku, savez upozorava: Ko ne dođe na okupljanje reprezentacije, briše se sa spiska!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/halabuka-u-meksiku-savez-upozorava-ko-ne-doe-na-okupljanje-reprezentacije-brise-se-sa-spiska/543105",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Biser La Masije pronašao zemlju spasa: Monako otkupljuje Ansua Fatija za 11.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/biser-la-masije-pronasao-zemlju-spasa-monako-otkupljuje-ansua-fatija-za-11000000-evra/543095",
-      "izvor": "Мозарт Спорт",
+      "naslov": "Predsednik Fudbalskog saveza Irana zatražio od FIFA-e bezbednosne garancije uoči početka Svetskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/250056/predsednik-fudbalskog-saveza-irana-zatrazio-od-fifa-e-bezbednosne-garancije-uoci-pocetka-svetskog-prvenstva/vest",
+      "izvor": "Танјуг",
       "datum": "6. 05. 2026. у 19:45",
-      "slika": null
-    },
-    {
-      "naslov": "Ovo meso je od čelika i ne pristaje na diktat biologije: Hulkov zvučni transfer u 40. godini",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ovo-meso-je-od-celika-i-ne-pristaje-na-diktat-biologije-hulkov-zvucni-transfer-u-40-godini/543080",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 05. 2026. у 16:29",
       "slika": null
     },
     {
@@ -53,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Arteta: Osećaj je fantastičan, sve što smo radili sad ima smisla",
-      "url": "https://www.tanjug.rs/sport/fudbal/249901/arteta-osecaj-je-fantastican-sve-sto-smo-radili-sad-ima-smisla/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 05. 2026. у 11:32",
+      "naslov": "Ko je bio Vladimir Cvetković? Čovek koji je ostavio neizbrisiv trag i u FK i u KK Crvena zvezda",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231215/ko-je-bio-legenda-crvene-zvezde-vladimir-cvetkovic-in-memoriam/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "6. 05. 2026. у 20:42",
       "slika": null
     },
     {
-      "naslov": "Terzić: &quot;Naše klubove koji ispadaju u prvom kolu u Evropi treba da bude stid&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231057/zvezdan-terzic-o-ispadanju-srpskih-klubova-u-kvalifikacijama/vest",
+      "naslov": "Preminuo legendarni Vladimir Cvetković",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231208/preminuo-vladimir-cvetkovic/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "6. 05. 2026. у 12:36",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Zvezda i Partizan da dele Nacionalni stadion kao Inter i Milan&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231009/zvezda-i-partizan-da-dele-nacionalni-stadion-kao-inter-i-milan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 05. 2026. у 10:45",
-      "slika": null
-    },
-    {
-      "naslov": "Najbolji igrač Železničara na meti velikana iz komšiluka",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230821/najbolji-igrac-zeleznicara-na-meti-velikana-iz-komsiluka/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "5. 05. 2026. у 18:32",
+      "datum": "6. 05. 2026. у 19:53",
       "slika": null
     }
   ]
