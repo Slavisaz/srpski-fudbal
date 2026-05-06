@@ -1,27 +1,48 @@
 {
-  "azurirano": "2026-05-06T06:19:12.219768+00:00",
-  "azurirano_sr": "6. 05. 2026. у 08:19",
+  "azurirano": "2026-05-06T10:36:36.015115+00:00",
+  "azurirano_sr": "6. 05. 2026. у 12:36",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Jalčin traži iskupljenje, kup je šansa za spas sezone",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jalcin-trazi-iskupljenje-kup-je-sansa-za-spas-sezone/542996",
+      "naslov": "Bitka za Mostar: Zrinjski za spas sezone, Veležov prkos za vraćanje Rođenih na staze stare slave",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bitka-za-mostar-zrinjski-za-spas-sezone-velezov-prkos-za-vracanje-roenih-na-staze-stare-slave/543072",
       "izvor": "Мозарт Спорт",
-      "datum": "5. 05. 2026. у 13:49",
+      "datum": "6. 05. 2026. у 14:06",
       "slika": null
     },
     {
-      "naslov": "Ko s kim za pehar najboljem u Premijer ligi: Arsenal protiv Vest Hema za titulu?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ko-s-kim-za-pehar-najboljem-u-premijer-ligi-arsenal-protiv-vest-hema-za-titulu/542983",
+      "naslov": "Navijaćeš za Bavarce i Spartak Moskvu - to su kečevi uz najveće kvote na svetu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/navijaces-za-bavarce-i-spartak-moskvu-to-su-kecevi-uz-najvece-kvote-na-svetu/543065",
       "izvor": "Мозарт Спорт",
-      "datum": "5. 05. 2026. у 11:10",
+      "datum": "6. 05. 2026. у 12:29",
       "slika": null
     },
     {
-      "naslov": "Raport sa srpskoligaških terena: Bor i rekord od 18:0! BASK zaboravio da prijavi utakmicu SUP-u?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-bor-i-rekord-od-180-bask-zaboravio-da-prijavi-utakmicu-supu/542980",
+      "naslov": "Zvezdin položaj na fudbalskoj piramidi, moraće da se čeka i Ognjen Mimović",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdin-polozaj-na-fudbalskoj-piramidi-morace-da-se-ceka-i-ognjen-mimovic/543062",
       "izvor": "Мозарт Спорт",
-      "datum": "5. 05. 2026. у 10:26",
+      "datum": "6. 05. 2026. у 11:58",
+      "slika": null
+    },
+    {
+      "naslov": "Ono je strašna dosada, UEFA je trebalo da prekine meč u 35. minutu i proglasi finale Bajern - PSŽ",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ono-je-strasna-dosada-uefa-je-trebalo-da-prekine-mec-u-35-minutu-i-proglasi-finale-bajern-psz/543059",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 05. 2026. у 11:58",
+      "slika": null
+    },
+    {
+      "naslov": "Arteta: Osećaj je fantastičan, sve što smo radili sad ima smisla",
+      "url": "https://www.tanjug.rs/sport/fudbal/249901/arteta-osecaj-je-fantastican-sve-sto-smo-radili-sad-ima-smisla/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 05. 2026. у 11:32",
+      "slika": null
+    },
+    {
+      "naslov": "Dijego Simeone: Odlučili su sitni detalji, imali smo veoma dobru sezonu u Ligi šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/249877/dijego-simeone-odlucili-su-sitni-detalji-imali-smo-veoma-dobru-sezonu-u-ligi-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 05. 2026. у 09:59",
       "slika": null
     },
     {
@@ -39,52 +60,24 @@
       "slika": null
     },
     {
-      "naslov": "Trener Pari Sen Žermena Luis Enrike računa na 23 igrača za meč protiv Bajerna u LŠ",
-      "url": "https://www.tanjug.rs/sport/fudbal/249801/trener-pari-sen-zermena-luis-enrike-racuna-na-23-igraca-za-mec-protiv-bajerna-u-ls/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 05. 2026. у 19:42",
-      "slika": null
-    },
-    {
-      "naslov": "Engleski fudbaler Fil Foden dogovorio produženje ugovora sa Mančester sitijem",
-      "url": "https://www.tanjug.rs/sport/fudbal/249766/engleski-fudbaler-fil-foden-dogovorio-produzenje-ugovora-sa-mancester-sitijem/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 05. 2026. у 17:22",
-      "slika": null
-    },
-    {
-      "naslov": "Najbolji igrač Železničara na meti velikana iz komšiluka",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230821/najbolji-igrac-zeleznicara-na-meti-velikana-iz-komsiluka/vest",
+      "naslov": "Terzić: &quot;Naše klubove koji ispadaju u prvom kolu u Evropi treba da bude sramota&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231057/zvezdan-terzic-o-ispadanju-srpskih-klubova-u-kvalifikacijama/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 05. 2026. у 18:32",
+      "datum": "6. 05. 2026. у 12:36",
       "slika": null
     },
     {
-      "naslov": "SMS pokrenuo preokret – protiv Ronalda za titulu VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/230905/sergej-postigao-gol-al-hilal-pobedio-al-halidz/vest",
+      "naslov": "&quot;Zvezda i Partizan da dele Nacionalni stadion kao Inter i Milan&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231009/zvezda-i-partizan-da-dele-nacionalni-stadion-kao-inter-i-milan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "6. 05. 2026. у 10:45",
+      "slika": null
+    },
+    {
+      "naslov": "Navijači BiH zgroženi cenama ulaznica za prijateljsku utakmicu",
+      "url": "https://www.b92.net/sport/fudbal/vesti/230733/navijaci-bih-ogorceni-zbog-cena-karata-za-mec-sa-panamom-ulaznice-i-do-265-evra/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "5. 05. 2026. у 22:00",
-      "slika": null
-    },
-    {
-      "naslov": "Terzić preuzima Atletik Bilbao",
-      "url": "https://www.b92.net/sport/fudbal/vesti/230744/terzic-preuzima-atletik-bilbao/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "5. 05. 2026. у 13:39",
-      "slika": null
-    },
-    {
-      "naslov": "Jakšić posle poraza od Zvezde: &quot;Ovo najviše zameram&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230604/marko-jaksic-izjava-posle-cukaricki-zvezda/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 05. 2026. у 22:05",
-      "slika": null
-    },
-    {
-      "naslov": "Stankoviću samo jedno &quot;upalo u oko&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/230597/stankovicu-samo-jedno-upalo-u-oko/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 05. 2026. у 21:51",
+      "datum": "5. 05. 2026. у 12:25",
       "slika": null
     }
   ]
