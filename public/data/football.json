@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-06T12:17:15.454570+00:00",
-  "azurirano_sr": "6. 05. 2026. у 14:17",
+  "azurirano": "2026-05-06T14:49:12.331559+00:00",
+  "azurirano_sr": "6. 05. 2026. у 16:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ovo meso je od čelika i ne pristaje na diktat biologije: Hulkov zvučni transfer u 40. godini",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ovo-meso-je-od-celika-i-ne-pristaje-na-diktat-biologije-hulkov-zvucni-transfer-u-40-godini/543080",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 05. 2026. у 16:29",
+      "slika": null
+    },
     {
       "naslov": "Buongiorno Italia: Sari, Kup Italije, pa Napoli?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-sari-kup-italije-pa-napoli/543079",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Navijaćeš za Bavarce i Spartak Moskvu - to su kečevi uz najveće kvote na svetu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/navijaces-za-bavarce-i-spartak-moskvu-to-su-kecevi-uz-najvece-kvote-na-svetu/543065",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 05. 2026. у 12:29",
+      "naslov": "Fudbalski klub Crvena zvezda proslavio krsnu slavu Đurđevdan",
+      "url": "https://www.tanjug.rs/sport/fudbal/250009/fudbalski-klub-crvena-zvezda-proslavio-krsnu-slavu-durdevdan/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 05. 2026. у 16:30",
+      "slika": null
+    },
+    {
+      "naslov": "Božidar Bandović: Delije i Gejt 7 prave izvanrednu atmosferu, navijači će uživati",
+      "url": "https://www.tanjug.rs/sport/fudbal/249999/bozidar-bandovic-delije-i-gejt-7-prave-izvanrednu-atmosferu-navijaci-ce-uzivati/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 05. 2026. у 16:10",
+      "slika": null
+    },
+    {
+      "naslov": "Brazilski fudbaler Hulk potpisao ugovor sa Fluminenseom",
+      "url": "https://www.tanjug.rs/sport/fudbal/249976/brazilski-fudbaler-hulk-potpisao-ugovor-sa-fluminenseom/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 05. 2026. у 15:13",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/249901/arteta-osecaj-je-fantastican-sve-sto-smo-radili-sad-ima-smisla/vest",
       "izvor": "Танјуг",
       "datum": "6. 05. 2026. у 11:32",
-      "slika": null
-    },
-    {
-      "naslov": "Dijego Simeone: Odlučili su sitni detalji, imali smo veoma dobru sezonu u Ligi šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/249877/dijego-simeone-odlucili-su-sitni-detalji-imali-smo-veoma-dobru-sezonu-u-ligi-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 05. 2026. у 09:59",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Arsenala pobedili madridski Atletiko i plasirali se u finale Lige šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/249830/fudbaleri-arsenala-pobedili-madridski-atletiko-i-plasirali-se-u-finale-lige-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 05. 2026. у 22:59",
-      "slika": null
-    },
-    {
-      "naslov": "Sergej Milinković-Savić strelac za Al Hilal u pobedi protiv Al Hiladža",
-      "url": "https://www.tanjug.rs/sport/fudbal/249827/sergej-milinkovic-savic-strelac-za-al-hilal-u-pobedi-protiv-al-hiladza/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 05. 2026. у 22:26",
       "slika": null
     },
     {
@@ -71,20 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231009/zvezda-i-partizan-da-dele-nacionalni-stadion-kao-inter-i-milan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "6. 05. 2026. у 10:45",
-      "slika": null
-    },
-    {
-      "naslov": "Terzić preuzima Atletik Bilbao",
-      "url": "https://www.b92.net/sport/fudbal/vesti/230744/terzic-preuzima-atletik-bilbao/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "5. 05. 2026. у 13:39",
-      "slika": null
-    },
-    {
-      "naslov": "Navijači BiH zgroženi cenama ulaznica za prijateljsku utakmicu",
-      "url": "https://www.b92.net/sport/fudbal/vesti/230733/navijaci-bih-ogorceni-zbog-cena-karata-za-mec-sa-panamom-ulaznice-i-do-265-evra/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "5. 05. 2026. у 12:25",
       "slika": null
     }
   ]
