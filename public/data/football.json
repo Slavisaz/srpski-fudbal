@@ -1,11 +1,18 @@
 {
-  "azurirano": "2026-05-07T19:02:56.322167+00:00",
-  "azurirano_sr": "7. 05. 2026. у 21:02",
+  "azurirano": "2026-05-07T20:21:35.195601+00:00",
+  "azurirano_sr": "7. 05. 2026. у 22:21",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "UŽIVO - Liga Evrope & Liga konferencije: Emeri juri šesto finale u 'svom' takmičenju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-evrope-liga-konferencije-emeri-juri-sesto-finale-u-svom-takmicenju/543194",
+      "naslov": "Leskovcu sve bliži trećeligaški fudbal, ispod crte i Grafičar",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/leskovcu-sve-blizi-treceligaski-fudbal-ispod-crte-i-graficar/543202",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 05. 2026. у 23:20",
+      "slika": null
+    },
+    {
+      "naslov": "UŽIVO - Liga Evrope & Liga konferencije: Vila izjednačila, Braga na konopcima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-evrope-liga-konferencije-vila-izjednacila-braga-na-konopcima/543194",
       "izvor": "Мозарт Спорт",
       "datum": "7. 05. 2026. у 22:06",
       "slika": null
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Vraća se jedan od najboljih direktora u svetu fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vraca-se-jedan-od-najboljih-direktora-u-svetu-fudbala/543166",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 05. 2026. у 16:46",
+      "naslov": "Darko Kovačević: Bratstvo između Zvezde i Olimpijakosa je neraskidivo",
+      "url": "https://www.tanjug.rs/sport/fudbal/250347/darko-kovacevic-bratstvo-izmedu-zvezde-i-olimpijakosa-je-neraskidivo/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 05. 2026. у 21:56",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/250318/fk-crvena-zvezda-otvara-knjigu-zalosti-povodom-smrti-vladimira-cvetkovica/vest",
       "izvor": "Танјуг",
       "datum": "7. 05. 2026. у 18:20",
-      "slika": null
-    },
-    {
-      "naslov": "U petak se nastavlja fudbalska Superliga Srbije, Partizan dočekuje OFK Beograd",
-      "url": "https://www.tanjug.rs/sport/fudbal/250239/u-petak-se-nastavlja-fudbalska-superliga-srbije-partizan-docekuje-ofk-beograd/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 05. 2026. у 14:17",
       "slika": null
     },
     {
