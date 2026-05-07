@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-07T21:16:42.312461+00:00",
-  "azurirano_sr": "7. 05. 2026. у 23:16",
+  "azurirano": "2026-05-07T22:18:00.842656+00:00",
+  "azurirano_sr": "8. 05. 2026. у 00:18",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,31 +32,31 @@
       "slika": null
     },
     {
+      "naslov": "Valverde ima povredu glave posle tuče sa Čuamenijem, pokrenut disciplinski postupak",
+      "url": "https://www.tanjug.rs/sport/fudbal/250357/valverde-ima-povredu-glave-posle-tuce-sa-cuamenijem-pokrenut-disciplinski-postupak/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 05. 2026. у 23:34",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Kristal Palasa i Rajo Valjekana igraće u finalu Lige konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/250356/fudbaleri-kristal-palasa-i-rajo-valjekana-igrace-u-finalu-lige-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 05. 2026. у 23:31",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Aston Vile i Frajburga izborili finale Lige Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/250355/fudbaleri-aston-vile-i-frajburga-izborili-finale-lige-evrope/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 05. 2026. у 23:29",
+      "slika": null
+    },
+    {
       "naslov": "Darko Kovačević: Bratstvo između Zvezde i Olimpijakosa je neraskidivo",
       "url": "https://www.tanjug.rs/sport/fudbal/250347/darko-kovacevic-bratstvo-izmedu-zvezde-i-olimpijakosa-je-neraskidivo/vest",
       "izvor": "Танјуг",
       "datum": "7. 05. 2026. у 21:56",
-      "slika": null
-    },
-    {
-      "naslov": "Trener fudbalera Brajtona Fabijan Hirceler produžio ugovor do juna 2029. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/250324/trener-fudbalera-brajtona-fabijan-hirceler-produzio-ugovor-do-juna-2029-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 05. 2026. у 19:22",
-      "slika": null
-    },
-    {
-      "naslov": "Miroslav Tanjga: Da pobedimo Čukarički, a onda da osvojimo i trofej u Kupu Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/250321/miroslav-tanjga-da-pobedimo-cukaricki-a-onda-da-osvojimo-i-trofej-u-kupu-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 05. 2026. у 18:52",
-      "slika": null
-    },
-    {
-      "naslov": "FK Crvena zvezda otvara knjigu žalosti povodom smrti Vladimira Cvetkovića",
-      "url": "https://www.tanjug.rs/sport/fudbal/250318/fk-crvena-zvezda-otvara-knjigu-zalosti-povodom-smrti-vladimira-cvetkovica/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 05. 2026. у 18:20",
       "slika": null
     },
     {
@@ -67,10 +67,17 @@
       "slika": null
     },
     {
-      "naslov": "&quot;Uopšte ne razmišljam o Zvezdi&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231422/markinjos-se-oglasio-o-transferu-u-crvenu-zvezdu/vest",
+      "naslov": "FK Crvena zvezda otvara knjigu žalosti povodom smrti Vladimira Cvetkovića",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231458/fk-crvena-zvezda-otvara-knjigu-zalosti-povodom-smrti-vladimira-cvetkovica/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "7. 05. 2026. у 18:05",
+      "datum": "7. 05. 2026. у 18:57",
+      "slika": null
+    },
+    {
+      "naslov": "Legenda Barselone pretila sudiji: &quot;Idi s pratnjom da te neko ne napadne, u nekoj drugoj zemlji bi te prebili&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/231210/legenda-barselone-pretila-sudiji-idi-s-pratnjom-da-te-neko-ne-napadne-u-nekoj-drugoj-zemlji-bi-te-prebili/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "6. 05. 2026. у 23:33",
       "slika": null
     }
   ]
