@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-07T04:04:33.819522+00:00",
-  "azurirano_sr": "7. 05. 2026. у 06:04",
+  "azurirano": "2026-05-07T06:47:03.887973+00:00",
+  "azurirano_sr": "7. 05. 2026. у 08:47",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (četvrtak, 7. maj): Liga Evrope, Liga konferencije i Mozzart Bet PLS naravno",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-cetvrtak-7-maj-liga-evrope-liga-konferencije-i-mozzart-bet-pls-naravno/543086",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 05. 2026. у 10:16",
+      "slika": null
+    },
     {
       "naslov": "In memoriam: Vladimir Cvetković",
       "url": "https://www.mozzartsport.com/fudbal/vesti/in-memoriam-vladimir-cvetkovic/543114",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/pre-terzica-je-bio-srbin-sa-cigarom-i-hteo-je-da-se-fudbaleri-bave-atletikom/543098",
       "izvor": "Мозарт Спорт",
       "datum": "6. 05. 2026. у 20:10",
-      "slika": null
-    },
-    {
-      "naslov": "Biser La Masije pronašao zemlju spasa: Monako otkupljuje Ansua Fatija za 11.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/biser-la-masije-pronasao-zemlju-spasa-monako-otkupljuje-ansua-fatija-za-11000000-evra/543095",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 05. 2026. у 19:45",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Džajić se oprostio od Cvetkovića: &quot;Zajedno smo sanjali velike snove&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231266/dzajic-se-oprostio-od-cvetkovica-zajedno-smo-sanjali-velike-snove/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 05. 2026. у 08:30",
+      "slika": null
+    },
+    {
       "naslov": "Superliga u svetskom vrhu – po smeni trenera",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231143/superliga-osma-na-svetu-po-broju-smenjenih-trenera/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "6. 05. 2026. у 22:24",
-      "slika": null
-    },
-    {
-      "naslov": "Predsednik Vučić uputio saučešće povodom smrti Vladimira Cvetkovića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231230/aleksandar-vucic-izrazio-saucesce-zbog-smrti-vladimira-cvetkovica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 05. 2026. у 21:29",
       "slika": null
     }
   ]
