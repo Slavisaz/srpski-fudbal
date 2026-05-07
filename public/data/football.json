@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-07T17:19:30.703423+00:00",
-  "azurirano_sr": "7. 05. 2026. у 19:19",
+  "azurirano": "2026-05-07T19:02:56.322167+00:00",
+  "azurirano_sr": "7. 05. 2026. у 21:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "UŽIVO - Liga Evrope & Liga konferencije: Emeri juri šesto finale u 'svom' takmičenju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-evrope-liga-konferencije-emeri-juri-sesto-finale-u-svom-takmicenju/543194",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 05. 2026. у 22:06",
+      "slika": null
+    },
+    {
+      "naslov": "Srbin za tri meseca postao ključni igrač Vardara, naplatiće titulu transferom u Rusiju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-za-tri-meseca-postao-kljucni-igrac-vardara-naplatice-titulu-transferom-u-rusiju/543191",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 05. 2026. у 22:03",
+      "slika": null
+    },
     {
       "naslov": "Markinjos ne razmišlja o Zvezdi i želi joj sreću",
       "url": "https://www.mozzartsport.com/fudbal/vesti/markinjos-ne-razmislja-o-zvezdi-i-zeli-joj-srecu/543179",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Kečevi na Kristal Palas i Krasnodar najskuplji su u Mozzartu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kecevi-na-kristal-palas-i-krasnodar-najskuplji-su-u-mozzartu/543147",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 05. 2026. у 12:35",
-      "slika": null
-    },
-    {
-      "naslov": "Samo Bleki Srbiju spasava",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/samo-bleki-srbiju-spasava/543143",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 05. 2026. у 12:05",
+      "naslov": "Trener fudbalera Brajtona Fabijan Hirceler produžio ugovor do juna 2029. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/250324/trener-fudbalera-brajtona-fabijan-hirceler-produzio-ugovor-do-juna-2029-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 05. 2026. у 19:22",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/250239/u-petak-se-nastavlja-fudbalska-superliga-srbije-partizan-docekuje-ofk-beograd/vest",
       "izvor": "Танјуг",
       "datum": "7. 05. 2026. у 14:17",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Crvene zvezde protiv Novog Pazara jure 100. gol u Superligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/250208/fudbaleri-crvene-zvezde-protiv-novog-pazara-jure-100-gol-u-superligi/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 05. 2026. у 13:09",
       "slika": null
     },
     {
