@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-07T15:33:38.243178+00:00",
-  "azurirano_sr": "7. 05. 2026. у 17:33",
+  "azurirano": "2026-05-07T17:19:30.703423+00:00",
+  "azurirano_sr": "7. 05. 2026. у 19:19",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Markinjos ne razmišlja o Zvezdi i želi joj sreću",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/markinjos-ne-razmislja-o-zvezdi-i-zeli-joj-srecu/543179",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 05. 2026. у 19:19",
+      "slika": null
+    },
     {
       "naslov": "Vraća se jedan od najboljih direktora u svetu fudbala",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vraca-se-jedan-od-najboljih-direktora-u-svetu-fudbala/543166",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "LUDI TIKET, četvrtak, 146.776 dinara: Lepotica sa Altine",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-cetvrtak-146776-dinara-lepotica-sa-altine/543137",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 05. 2026. у 10:16",
+      "naslov": "Miroslav Tanjga: Da pobedimo Čukarički, a onda da osvojimo i trofej u Kupu Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/250321/miroslav-tanjga-da-pobedimo-cukaricki-a-onda-da-osvojimo-i-trofej-u-kupu-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 05. 2026. у 18:52",
+      "slika": null
+    },
+    {
+      "naslov": "FK Crvena zvezda otvara knjigu žalosti povodom smrti Vladimira Cvetkovića",
+      "url": "https://www.tanjug.rs/sport/fudbal/250318/fk-crvena-zvezda-otvara-knjigu-zalosti-povodom-smrti-vladimira-cvetkovica/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 05. 2026. у 18:20",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Remi u Minhenu, fudbaleri Pari Sen Žermena u finalu Lige šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/250091/remi-u-minhenu-fudbaleri-pari-sen-zermena-u-finalu-lige-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 05. 2026. у 23:14",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalski savez Srbije izrazio saučešće povodom smrti Vladimira Cvetkovića",
-      "url": "https://www.tanjug.rs/sport/fudbal/250081/fudbalski-savez-srbije-izrazio-saucesce-povodom-smrti-vladimira-cvetkovica/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 05. 2026. у 22:11",
+      "naslov": "&quot;Uopšte ne razmišljam o Zvezdi&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231422/markinjos-se-oglasio-o-transferu-u-crvenu-zvezdu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 05. 2026. у 18:05",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231373/fudbaleri-zvezde-protiv-novog-pazara-jure-100-gol-u-superligi/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "7. 05. 2026. у 14:06",
-      "slika": null
-    },
-    {
-      "naslov": "Zečević: &quot;Partizan jedini priredio oproštaj Cvetkoviću&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231352/zecevic-partizan-jedini-priredio-oprostaj-cvetkovicu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 05. 2026. у 12:44",
       "slika": null
     }
   ]
