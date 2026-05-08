@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-08T07:09:44.741751+00:00",
-  "azurirano_sr": "8. 05. 2026. у 09:09",
+  "azurirano": "2026-05-08T08:47:12.356867+00:00",
+  "azurirano_sr": "8. 05. 2026. у 10:47",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Sigurice na Moncu i Rijeku, najskuplje su u Mozzartu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sigurice-na-moncu-i-rijeku-najskuplje-su-u-mozzartu/543236",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 05. 2026. у 12:10",
+      "slika": null
+    },
     {
       "naslov": "LUDI TIKET, petak, 180.196 dinara: Sve po PS-u!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-petak-180196-dinara-sve-po-psu/543223",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/haos-u-medeljinu-dzaba-devet-prstenova-odbrane-pir-navijaca-nije-zaustavila-ni-policija/543217",
       "izvor": "Мозарт Спорт",
       "datum": "8. 05. 2026. у 06:50",
-      "slika": null
-    },
-    {
-      "naslov": "KRAJ - Liga Evrope & Liga konferencije: Vila razbila Forest, Frajburg preokrenuo i otišao u finale",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-evrope-liga-konferencije-vila-razbila-forest-frajburg-preokrenuo-i-otisao-u-finale/543194",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 05. 2026. у 00:28",
       "slika": null
     },
     {
@@ -60,24 +60,24 @@
       "slika": null
     },
     {
-      "naslov": "Na programu Čuka, Voši u mislima trofej",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231471/na-programu-cuka-vosi-u-mislima-trofej/vest",
+      "naslov": "Italijani opčinjeni Partizanovim zlatnim dečkom",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231429/italijani-odesevljeni-partizanovim-vunderkidom/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "7. 05. 2026. у 22:30",
+      "datum": "8. 05. 2026. у 10:02",
       "slika": null
     },
     {
-      "naslov": "FK Crvena zvezda otvara knjigu žalosti povodom smrti Vladimira Cvetkovića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231458/fk-crvena-zvezda-otvara-knjigu-zalosti-povodom-smrti-vladimira-cvetkovica/vest",
+      "naslov": "Terzić Paunoviću: &quot;Šta čekaš?&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231556/zvezdan-terzic-o-veljku-paunovicu-treba-mu-hrabrosti/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "7. 05. 2026. у 18:57",
+      "datum": "8. 05. 2026. у 09:25",
       "slika": null
     },
     {
-      "naslov": "Legenda Barselone pretila sudiji: &quot;Idi s pratnjom da te neko ne napadne, u nekoj drugoj zemlji bi te prebili&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/231210/legenda-barselone-pretila-sudiji-idi-s-pratnjom-da-te-neko-ne-napadne-u-nekoj-drugoj-zemlji-bi-te-prebili/vest",
+      "naslov": "Emotivan oproštaj Jovetića od Omonije – vraća li se u Humsku?",
+      "url": "https://www.b92.net/sport/fudbal/vesti/231303/jovetic-se-oprostio-od-omonije-da-li-je-partizan-sledeca-stanica/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "6. 05. 2026. у 23:33",
+      "datum": "7. 05. 2026. у 10:22",
       "slika": null
     }
   ]
