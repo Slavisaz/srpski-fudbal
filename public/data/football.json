@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-08T11:43:47.636552+00:00",
-  "azurirano_sr": "8. 05. 2026. у 13:43",
+  "azurirano": "2026-05-08T12:59:09.028458+00:00",
+  "azurirano_sr": "8. 05. 2026. у 14:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dejanov poslednji pozdrav Cveletu: Dao nam je stan, kupio mi kola...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dejanov-poslednji-pozdrav-cveletu-dao-nam-je-stan-kupio-mi-kola/543262",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 05. 2026. у 15:41",
+      "slika": null
+    },
     {
       "naslov": "Matić: Groso nas je učinio jačim",
       "url": "https://www.mozzartsport.com/fudbal/vesti/matic-groso-nas-je-ucinio-jacim/543256",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Vanja Dragojević debituje za reprezentaciju u Meksiku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vanja-dragojevic-debituje-za-reprezentaciju-u-meksiku/543249",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 05. 2026. у 13:45",
+      "naslov": "Blagojević: Svaka utakmica je važna, biće neizvesno u trci za drugo mesto",
+      "url": "https://www.tanjug.rs/sport/fudbal/250478/blagojevic-svaka-utakmica-je-vazna-bice-neizvesno-u-trci-za-drugo-mesto/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 05. 2026. у 14:05",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaler Bajerna Alfonso Dejvis završio sezonu zbog povrede mišića leve noge",
+      "url": "https://www.tanjug.rs/sport/fudbal/250475/fudbaler-bajerna-alfonso-dejvis-zavrsio-sezonu-zbog-povrede-misica-leve-noge/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 05. 2026. у 13:54",
+      "slika": null
+    },
+    {
+      "naslov": "Dejan Stanković: Vladimir Cvetković je bio ljudina, institucija, dobrota i profesionalnost",
+      "url": "https://www.tanjug.rs/sport/fudbal/250471/dejan-stankovic-vladimir-cvetkovic-je-bio-ljudina-institucija-dobrota-i-profesionalnost/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 05. 2026. у 13:40",
       "slika": null
     },
     {
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Kristal Palasa i Rajo Valjekana igraće u finalu Lige konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/250356/fudbaleri-kristal-palasa-i-rajo-valjekana-igrace-u-finalu-lige-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 05. 2026. у 23:31",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Aston Vile i Frajburga izborili finale Lige Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/250355/fudbaleri-aston-vile-i-frajburga-izborili-finale-lige-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 05. 2026. у 23:29",
-      "slika": null
-    },
-    {
-      "naslov": "Darko Kovačević: Bratstvo između Zvezde i Olimpijakosa je neraskidivo",
-      "url": "https://www.tanjug.rs/sport/fudbal/250347/darko-kovacevic-bratstvo-izmedu-zvezde-i-olimpijakosa-je-neraskidivo/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 05. 2026. у 21:56",
+      "naslov": "Zvezda menja štopera – Rodrigao odlazi, reprezentativac Srbije dolazi?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231666/rodrigao-napusta-crvenu-zvezdu-dolazi-nemanja-gudelj/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "8. 05. 2026. у 14:20",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231607/kada-se-igra-finale-kupa-srbije-u-fudbalu-2026/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "8. 05. 2026. у 11:42",
-      "slika": null
-    },
-    {
-      "naslov": "Italijani opčinjeni Partizanovim zlatnim dečkom",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231429/italijani-odusevljeni-partizanovim-vunderkidom/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "8. 05. 2026. у 10:02",
       "slika": null
     }
   ]
