@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-08T12:59:09.028458+00:00",
-  "azurirano_sr": "8. 05. 2026. у 14:59",
+  "azurirano": "2026-05-08T14:51:32.425593+00:00",
+  "azurirano_sr": "8. 05. 2026. у 16:51",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Srpski fudbaler Erhan Mašović postaje slobodan igrač na kraju sezone",
+      "url": "https://www.tanjug.rs/sport/fudbal/250512/srpski-fudbaler-erhan-masovic-postaje-slobodan-igrac-na-kraju-sezone/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 05. 2026. у 16:16",
+      "slika": null
+    },
+    {
+      "naslov": "Rukovodstvo Zvezde upisalo se u knjigu žalosti povodom smrti Vladimira Cvetkovića",
+      "url": "https://www.tanjug.rs/sport/fudbal/250498/rukovodstvo-zvezde-upisalo-se-u-knjigu-zalosti-povodom-smrti-vladimira-cvetkovica/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 05. 2026. у 15:28",
+      "slika": null
+    },
+    {
       "naslov": "Blagojević: Svaka utakmica je važna, biće neizvesno u trci za drugo mesto",
       "url": "https://www.tanjug.rs/sport/fudbal/250478/blagojevic-svaka-utakmica-je-vazna-bice-neizvesno-u-trci-za-drugo-mesto/vest",
       "izvor": "Танјуг",
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Dejan Stanković: Vladimir Cvetković je bio ljudina, institucija, dobrota i profesionalnost",
-      "url": "https://www.tanjug.rs/sport/fudbal/250471/dejan-stankovic-vladimir-cvetkovic-je-bio-ljudina-institucija-dobrota-i-profesionalnost/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 05. 2026. у 13:40",
-      "slika": null
-    },
-    {
-      "naslov": "Valverde ima povredu glave posle tuče sa Čuamenijem, pokrenut disciplinski postupak",
-      "url": "https://www.tanjug.rs/sport/fudbal/250357/valverde-ima-povredu-glave-posle-tuce-sa-cuamenijem-pokrenut-disciplinski-postupak/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 05. 2026. у 23:34",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda menja štopera – Rodrigao odlazi, reprezentativac Srbije dolazi?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231666/rodrigao-napusta-crvenu-zvezdu-dolazi-nemanja-gudelj/vest",
+      "naslov": "Blagojević: &quot;Prvi meč sa OFK-om – najzrelija partija, a drugi bez mene – druga priča&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231683/srdjan-blagojevic-konferencija-za-medije-pred-ofk-beograd/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "8. 05. 2026. у 14:20",
+      "datum": "8. 05. 2026. у 15:28",
       "slika": null
     },
     {
-      "naslov": "Poznata satnica – evo kada se tačno igra finale Kupa Srbije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231607/kada-se-igra-finale-kupa-srbije-u-fudbalu-2026/vest",
+      "naslov": "Stanković konferenciju posvetio Cveletu: &quot;Dao mi je ključ i rekao &#039;menjaj bravu, to je vaš stan&#039;&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231677/dejan-stankovic-konferencija-posvecena-cveletu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "8. 05. 2026. у 11:42",
+      "datum": "8. 05. 2026. у 15:15",
       "slika": null
     }
   ]
