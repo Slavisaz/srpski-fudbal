@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-08T05:48:35.563945+00:00",
-  "azurirano_sr": "8. 05. 2026. у 07:48",
+  "azurirano": "2026-05-08T07:09:44.741751+00:00",
+  "azurirano_sr": "8. 05. 2026. у 09:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "LUDI TIKET, petak, 180.196 dinara: Sve po PS-u!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-petak-180196-dinara-sve-po-psu/543223",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 05. 2026. у 10:23",
+      "slika": null
+    },
+    {
+      "naslov": "Brucia la terra - zemlja gori: Jogi Lev, sinovi Švarcvalda i sicilijanska krv na nemački način",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/brucia-la-terra-zemlja-gori-jogi-lev-sinovi-svarcvalda-i-sicilijanska-krv-na-nemacki-nacin/543215",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 05. 2026. у 10:06",
+      "slika": null
+    },
     {
       "naslov": "Haos u Medeljinu: Džaba devet prstenova odbrane, pir navijača nije zaustavila ni policija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/haos-u-medeljinu-dzaba-devet-prstenova-odbrane-pir-navijaca-nije-zaustavila-ni-policija/543217",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-evrope-liga-konferencije-vila-razbila-forest-frajburg-preokrenuo-i-otisao-u-finale/543194",
       "izvor": "Мозарт Спорт",
       "datum": "8. 05. 2026. у 00:28",
-      "slika": null
-    },
-    {
-      "naslov": "Leskovcu sve bliži trećeligaški fudbal, ispod crte i Grafičar",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/leskovcu-sve-blizi-treceligaski-fudbal-ispod-crte-i-graficar/543202",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 05. 2026. у 23:20",
-      "slika": null
-    },
-    {
-      "naslov": "Srbin za tri meseca postao ključni igrač Vardara, naplatiće titulu transferom u Rusiju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-za-tri-meseca-postao-kljucni-igrac-vardara-naplatice-titulu-transferom-u-rusiju/543191",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 05. 2026. у 22:03",
       "slika": null
     },
     {
