@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-08T10:10:03.876328+00:00",
-  "azurirano_sr": "8. 05. 2026. у 12:10",
+  "azurirano": "2026-05-08T11:43:47.636552+00:00",
+  "azurirano_sr": "8. 05. 2026. у 13:43",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Matić: Groso nas je učinio jačim",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/matic-groso-nas-je-ucinio-jacim/543256",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 05. 2026. у 15:08",
+      "slika": null
+    },
+    {
+      "naslov": "Ne pomaže ni Vaha: Osmostruki šampion Francuske na putu ka drugoligaškom karavanu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ne-pomaze-ni-vaha-osmostruki-sampion-francuske-na-putu-ka-drugoligaskom-karavanu/543251",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 05. 2026. у 14:16",
+      "slika": null
+    },
     {
       "naslov": "Humanitarni tiket u podne: Lagani driblizi Mije Stevanović na putu do dobitnih 203.000 dinara",
       "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-lagani-driblizi-mije-stevanovic-na-putu-do-dobitnih-203000-dinara/543243",
@@ -11,24 +25,10 @@
       "slika": null
     },
     {
-      "naslov": "Pravo niotkud, Vošina sudbina je u rukama njene dece",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pravo-niotkud-vosina-sudbina-je-u-rukama-njene-dece/543244",
+      "naslov": "Vanja Dragojević debituje za reprezentaciju u Meksiku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vanja-dragojevic-debituje-za-reprezentaciju-u-meksiku/543249",
       "izvor": "Мозарт Спорт",
-      "datum": "8. 05. 2026. у 13:25",
-      "slika": null
-    },
-    {
-      "naslov": "Sigurice na Moncu i Rijeku, najskuplje su u Mozzartu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sigurice-na-moncu-i-rijeku-najskuplje-su-u-mozzartu/543236",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 05. 2026. у 12:10",
-      "slika": null
-    },
-    {
-      "naslov": "LUDI TIKET, petak, 180.196 dinara: Sve po PS-u!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-petak-180196-dinara-sve-po-psu/543223",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 05. 2026. у 10:23",
+      "datum": "8. 05. 2026. у 13:45",
       "slika": null
     },
     {
