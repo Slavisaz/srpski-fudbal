@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-08T14:51:32.425593+00:00",
-  "azurirano_sr": "8. 05. 2026. у 16:51",
+  "azurirano": "2026-05-08T16:04:53.353851+00:00",
+  "azurirano_sr": "8. 05. 2026. у 18:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dašak evropskog fudbala se nikad jače nije osećao u Pančevu: Vreme je da se završi ono što je započeto",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dasak-evropskog-fudbala-se-nikad-jace-nije-osecao-u-pancevu-vreme-je-da-se-zavrsi-ono-sto-je-zapoceto/543274",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 05. 2026. у 18:50",
+      "slika": null
+    },
     {
       "naslov": "Dejanov poslednji pozdrav Cveletu: Dao nam je stan, kupio mi kola...",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dejanov-poslednji-pozdrav-cveletu-dao-nam-je-stan-kupio-mi-kola/543262",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Humanitarni tiket u podne: Lagani driblizi Mije Stevanović na putu do dobitnih 203.000 dinara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-lagani-driblizi-mije-stevanovic-na-putu-do-dobitnih-203000-dinara/543243",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 05. 2026. у 13:54",
+      "naslov": "Deca do 14 godina i mališani sa \"Super zvezdaš\" karticama besplatno na Novi Pazar",
+      "url": "https://www.tanjug.rs/sport/fudbal/250527/deca-do-14-godina-i-malisani-sa-super-zvezdas-karticama-besplatno-na-novi-pazar/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 05. 2026. у 16:55",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/250478/blagojevic-svaka-utakmica-je-vazna-bice-neizvesno-u-trci-za-drugo-mesto/vest",
       "izvor": "Танјуг",
       "datum": "8. 05. 2026. у 14:05",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Bajerna Alfonso Dejvis završio sezonu zbog povrede mišića leve noge",
-      "url": "https://www.tanjug.rs/sport/fudbal/250475/fudbaler-bajerna-alfonso-dejvis-zavrsio-sezonu-zbog-povrede-misica-leve-noge/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 05. 2026. у 13:54",
       "slika": null
     },
     {
