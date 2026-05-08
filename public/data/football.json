@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-08T20:04:13.751135+00:00",
-  "azurirano_sr": "8. 05. 2026. у 22:04",
+  "azurirano": "2026-05-08T21:12:16.924741+00:00",
+  "azurirano_sr": "8. 05. 2026. у 23:12",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Veliko je srce autsajdera, ali su Sergej i Inzagi odneli pehar u Rijad",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/veliko-je-srce-autsajdera-ali-su-sergej-i-inzagi-odneli-pehar-u-rijad/543300",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 05. 2026. у 00:03",
+      "slika": null
+    },
     {
       "naslov": "Vojvodina povredama platila drugo mesto pred finale Mozzart Bet Kupa",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vojvodina-povredama-platila-drugo-mesto-pred-finale-mozzart-bet-kupa/543287",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Matić: Groso nas je učinio jačim",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/matic-groso-nas-je-ucinio-jacim/543256",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 05. 2026. у 15:08",
+      "naslov": "Sergej Milinković-Savić sa Al Hilalom osvojio Kup Saudijske Arabije",
+      "url": "https://www.tanjug.rs/sport/fudbal/250583/sergej-milinkovic-savic-sa-al-hilalom-osvojio-kup-saudijske-arabije/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 05. 2026. у 22:24",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/250527/deca-do-14-godina-i-malisani-sa-super-zvezdas-karticama-besplatno-na-novi-pazar/vest",
       "izvor": "Танјуг",
       "datum": "8. 05. 2026. у 16:55",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Erhan Mašović postaje slobodan igrač na kraju sezone",
-      "url": "https://www.tanjug.rs/sport/fudbal/250512/srpski-fudbaler-erhan-masovic-postaje-slobodan-igrac-na-kraju-sezone/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 05. 2026. у 16:16",
       "slika": null
     },
     {
