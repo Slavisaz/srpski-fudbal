@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-08T17:41:03.346597+00:00",
-  "azurirano_sr": "8. 05. 2026. у 19:41",
+  "azurirano": "2026-05-08T18:56:42.150250+00:00",
+  "azurirano_sr": "8. 05. 2026. у 20:56",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Vojvodina povredama platila drugo mesto pred finale Mozzart Bet Kupa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vojvodina-povredama-platila-drugo-mesto-pred-finale-mozzart-bet-kupa/543287",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 05. 2026. у 22:10",
+      "slika": null
+    },
     {
       "naslov": "Dašak evropskog fudbala se nikad jače nije osećao u Pančevu: Vreme je da se završi ono što je započeto",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dasak-evropskog-fudbala-se-nikad-jace-nije-osecao-u-pancevu-vreme-je-da-se-zavrsi-ono-sto-je-zapoceto/543274",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Ne pomaže ni Vaha: Osmostruki šampion Francuske na putu ka drugoligaškom karavanu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ne-pomaze-ni-vaha-osmostruki-sampion-francuske-na-putu-ka-drugoligaskom-karavanu/543251",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 05. 2026. у 14:16",
+      "naslov": "Fudbaleri Vojvodine savladali Čukarički i vratili se na drugo mesto na tabeli",
+      "url": "https://www.tanjug.rs/sport/fudbal/250569/fudbaleri-vojvodine-savladali-cukaricki-i-vratili-se-na-drugo-mesto-na-tabeli/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 05. 2026. у 20:14",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Rukovodstvo Zvezde upisalo se u knjigu žalosti povodom smrti Vladimira Cvetkovića",
-      "url": "https://www.tanjug.rs/sport/fudbal/250498/rukovodstvo-zvezde-upisalo-se-u-knjigu-zalosti-povodom-smrti-vladimira-cvetkovica/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 05. 2026. у 15:28",
+      "naslov": "Čukarički mačji kašalj za Vošu – Stara dama pobedom najavila finale Kupa VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231762/cukaricki-macji-kasalj-za-vosu-stara-dama-pobedom-najavila-finale-kupa-video/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "8. 05. 2026. у 19:56",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231739/lalatovic-voleo-bih-da-mts-bude-malo-sponzor-i-novom-pazaru/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "8. 05. 2026. у 18:15",
-      "slika": null
-    },
-    {
-      "naslov": "Blagojević: &quot;Prvi meč sa OFK-om – najzrelija partija, a drugi bez mene – druga priča&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231683/srdjan-blagojevic-konferencija-za-medije-pred-ofk-beograd/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "8. 05. 2026. у 15:28",
       "slika": null
     }
   ]
