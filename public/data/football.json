@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-08T03:49:26.134581+00:00",
-  "azurirano_sr": "8. 05. 2026. у 05:49",
+  "azurirano": "2026-05-08T05:48:35.563945+00:00",
+  "azurirano_sr": "8. 05. 2026. у 07:48",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Haos u Medeljinu: Džaba devet prstenova odbrane, pir navijača nije zaustavila ni policija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/haos-u-medeljinu-dzaba-devet-prstenova-odbrane-pir-navijaca-nije-zaustavila-ni-policija/543217",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 05. 2026. у 06:50",
+      "slika": null
+    },
     {
       "naslov": "KRAJ - Liga Evrope & Liga konferencije: Vila razbila Forest, Frajburg preokrenuo i otišao u finale",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-evrope-liga-konferencije-vila-razbila-forest-frajburg-preokrenuo-i-otisao-u-finale/543194",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-za-tri-meseca-postao-kljucni-igrac-vardara-naplatice-titulu-transferom-u-rusiju/543191",
       "izvor": "Мозарт Спорт",
       "datum": "7. 05. 2026. у 22:03",
-      "slika": null
-    },
-    {
-      "naslov": "Markinjos ne razmišlja o Zvezdi i želi joj sreću",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/markinjos-ne-razmislja-o-zvezdi-i-zeli-joj-srecu/543179",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 05. 2026. у 19:19",
       "slika": null
     },
     {
