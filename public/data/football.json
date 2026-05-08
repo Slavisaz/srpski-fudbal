@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-08T16:04:53.353851+00:00",
-  "azurirano_sr": "8. 05. 2026. у 18:04",
+  "azurirano": "2026-05-08T17:41:03.346597+00:00",
+  "azurirano_sr": "8. 05. 2026. у 19:41",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Ministar Gajić i predsednik OKS Tomašević posetili međunarodni boks kamp u Loznici",
+      "url": "https://www.tanjug.rs/sport/fudbal/250539/ministar-gajic-i-predsednik-oks-tomasevic-posetili-medunarodni-boks-kamp-u-loznici/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 05. 2026. у 17:35",
+      "slika": null
+    },
+    {
       "naslov": "Deca do 14 godina i mališani sa \"Super zvezdaš\" karticama besplatno na Novi Pazar",
       "url": "https://www.tanjug.rs/sport/fudbal/250527/deca-do-14-godina-i-malisani-sa-super-zvezdas-karticama-besplatno-na-novi-pazar/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Blagojević: Svaka utakmica je važna, biće neizvesno u trci za drugo mesto",
-      "url": "https://www.tanjug.rs/sport/fudbal/250478/blagojevic-svaka-utakmica-je-vazna-bice-neizvesno-u-trci-za-drugo-mesto/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 05. 2026. у 14:05",
+      "naslov": "Lalatović: &quot;Voleo bih da MTS bude malo sponzor i Novom Pazaru&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231739/lalatovic-voleo-bih-da-mts-bude-malo-sponzor-i-novom-pazaru/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "8. 05. 2026. у 18:15",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231683/srdjan-blagojevic-konferencija-za-medije-pred-ofk-beograd/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "8. 05. 2026. у 15:28",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković konferenciju posvetio Cveletu: &quot;Dao mi je ključ i rekao &#039;menjaj bravu, to je vaš stan&#039;&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231677/dejan-stankovic-konferencija-posvecena-cveletu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "8. 05. 2026. у 15:15",
       "slika": null
     }
   ]
