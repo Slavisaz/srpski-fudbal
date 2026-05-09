@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-09T09:42:01.080722+00:00",
-  "azurirano_sr": "9. 05. 2026. у 11:42",
+  "azurirano": "2026-05-09T10:35:58.648785+00:00",
+  "azurirano_sr": "9. 05. 2026. у 12:35",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Tanjga: &quot;Razočaran sam navijačima – dolaze da provociraju&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231867/miroslav-tanjga-ljut-na-navijace-vojvodine/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 05. 2026. у 11:45",
+      "slika": null
+    },
+    {
       "naslov": "Mateus prihvatio da se vrati u Brazil?",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231838/mateus-magaljes-pristao-da-se-vrati-u-brazil/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "9. 05. 2026. у 10:15",
-      "slika": null
-    },
-    {
-      "naslov": "Železničar overava Evropu: &quot;Vanredna motivacija&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231746/radomir-kokovic-konferencija-pred-mec-zeleznicar-radnik/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "8. 05. 2026. у 23:55",
       "slika": null
     }
   ]
