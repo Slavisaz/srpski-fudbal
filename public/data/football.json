@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-09T08:07:37.973632+00:00",
-  "azurirano_sr": "9. 05. 2026. у 10:07",
+  "azurirano": "2026-05-09T09:42:01.080722+00:00",
+  "azurirano_sr": "9. 05. 2026. у 11:42",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Pep neće nositi dres Vest Hema, jer tu je Šerki, fudbalski romantik",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pep-nece-nositi-dres-vest-hema-jer-tu-je-serki-fudbalski-romantik/543335",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 05. 2026. у 13:20",
+      "slika": null
+    },
     {
       "naslov": "NAJAVA DANA (subota, 9. maj): Od bitaka na Enfildu i Olimpiku, do obaveza večitih na superligaški način",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-subota-9-maj-od-bitaka-na-enfildu-i-olimpiku-do-obaveza-vecitih-na-superligaski-nacin/543257",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/vojvodina-povredama-platila-drugo-mesto-pred-finale-mozzart-bet-kupa/543287",
       "izvor": "Мозарт Спорт",
       "datum": "8. 05. 2026. у 22:10",
-      "slika": null
-    },
-    {
-      "naslov": "Dašak evropskog fudbala se nikad jače nije osećao u Pančevu: Vreme je da se završi ono što je započeto",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dasak-evropskog-fudbala-se-nikad-jace-nije-osecao-u-pancevu-vreme-je-da-se-zavrsi-ono-sto-je-zapoceto/543274",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 05. 2026. у 18:50",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Mateus prihvatio da se vrati u Brazil?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231838/mateus-magaljes-pristao-da-se-vrati-u-brazil/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 05. 2026. у 10:15",
+      "slika": null
+    },
+    {
       "naslov": "Železničar overava Evropu: &quot;Vanredna motivacija&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231746/radomir-kokovic-konferencija-pred-mec-zeleznicar-radnik/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "8. 05. 2026. у 23:55",
-      "slika": null
-    },
-    {
-      "naslov": "Čukarički mačji kašalj za Vošu – Stara dama pobedom najavila finale Kupa VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231762/cukaricki-macji-kasalj-za-vosu-stara-dama-pobedom-najavila-finale-kupa-video/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "8. 05. 2026. у 19:56",
       "slika": null
     }
   ]
