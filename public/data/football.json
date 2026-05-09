@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-09T17:29:09.190347+00:00",
-  "azurirano_sr": "9. 05. 2026. у 19:29",
+  "azurirano": "2026-05-09T18:13:10.322108+00:00",
+  "azurirano_sr": "9. 05. 2026. у 20:13",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Inter kidisao u nebitnoj utakmici, Lacio izgubio već u svlačionici i sačuvao sva oružja za sredu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/inter-kidisao-u-nebitnoj-utakmici-lacio-izgubio-vec-u-svlacionici-i-sacuvao-sva-oruzja-za-sredu/543378",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 05. 2026. у 21:51",
+      "slika": null
+    },
     {
       "naslov": "Gori Puškaš arena, ali ne zbog Lige šampiona",
       "url": "https://www.mozzartsport.com/fudbal/vesti/gori-puskas-arena-ali-ne-zbog-lige-sampiona/543343",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-subota-9-maj-od-bitaka-na-enfildu-i-olimpiku-do-obaveza-vecitih-na-superligaski-nacin/543257",
       "izvor": "Мозарт Спорт",
       "datum": "9. 05. 2026. у 09:45",
-      "slika": null
-    },
-    {
-      "naslov": "Veliko je srce autsajdera, ali su Sergej i Inzagi odneli pehar u Rijad",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/veliko-je-srce-autsajdera-ali-su-sergej-i-inzagi-odneli-pehar-u-rijad/543300",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 05. 2026. у 00:03",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Arnautović dao gol i pogodio prečku",
+      "naslov": "Senzacija na Marakani – istorijska pobeda Pazara!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231959/uzivo-crvena-zvezda-novi-pazar/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 05. 2026. у 19:26",
+      "datum": "9. 05. 2026. у 20:04",
       "slika": null
     },
     {
-      "naslov": "Partizan protiv OFK – poznati su sastavi u Humskoj",
+      "naslov": "OFK izjednačio iz penala – igrači Partizana pobesneli na sudiju!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231948/superliga-srbije-35-kolo-partizan-ofk-beograd-uzivo-prenos-gde-gledati/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 05. 2026. у 19:18",
+      "datum": "9. 05. 2026. у 19:58",
       "slika": null
     }
   ]
