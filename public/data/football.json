@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-09T18:13:10.322108+00:00",
-  "azurirano_sr": "9. 05. 2026. у 20:13",
+  "azurirano": "2026-05-09T19:32:19.984920+00:00",
+  "azurirano_sr": "9. 05. 2026. у 21:32",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Dejan Stanković: Dobili smo \"batine\", a nismo odgovorili, bićemo pravi za finale Kupa",
+      "url": "https://www.tanjug.rs/sport/fudbal/250757/dejan-stankovic-dobili-smo-batine-a-nismo-odgovorili-bicemo-pravi-za-finale-kupa/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 05. 2026. у 20:49",
+      "slika": null
+    },
+    {
+      "naslov": "Poraz fudbalera Zvezde od Novog Pazara, Železničar iz Pančeva izborio Evropu",
+      "url": "https://www.tanjug.rs/sport/fudbal/250751/poraz-fudbalera-zvezde-od-novog-pazara-zeleznicar-iz-panceva-izborio-evropu/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 05. 2026. у 20:02",
+      "slika": null
+    },
+    {
       "naslov": "Uhapšeno 46 ljudi na derbiju Dinamo-Hajduk, zaplenjena velika količina pirotehnike",
       "url": "https://www.tanjug.rs/sport/fudbal/250744/uhapseno-46-ljudi-na-derbiju-dinamo-hajduk-zaplenjena-velika-kolicina-pirotehnike/vest",
       "izvor": "Танјуг",
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Liverpula i Čelsija odigrali nerešeno u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/250707/fudbaleri-liverpula-i-celsija-odigrali-nereseno-u-premijer-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 05. 2026. у 15:43",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Pari Sen Žermena Pačo i Mendeš zbog povreda ne igraju protiv Bresta",
-      "url": "https://www.tanjug.rs/sport/fudbal/250679/fudbaleri-pari-sen-zermena-paco-i-mendes-zbog-povreda-ne-igraju-protiv-bresta/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 05. 2026. у 13:43",
-      "slika": null
-    },
-    {
-      "naslov": "Senzacija na Marakani – istorijska pobeda Pazara!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231959/uzivo-crvena-zvezda-novi-pazar/vest",
+      "naslov": "OFK opet sapleo Partizan – ovaj kiks bi mogao skupo da košta!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231948/superliga-srbije-35-kolo-partizan-ofk-beograd-11-izvestaj-utakmice/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 05. 2026. у 20:04",
+      "datum": "9. 05. 2026. у 21:30",
       "slika": null
     },
     {
-      "naslov": "OFK izjednačio iz penala – igrači Partizana pobesneli na sudiju!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231948/superliga-srbije-35-kolo-partizan-ofk-beograd-uzivo-prenos-gde-gledati/vest",
+      "naslov": "Stanković: &quot;Neki su zalutali ovde&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231986/stankovic-ruzno-je-ovako-izgubiti-svi-da-se-zapitamo/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 05. 2026. у 19:58",
+      "datum": "9. 05. 2026. у 20:27",
       "slika": null
     }
   ]
