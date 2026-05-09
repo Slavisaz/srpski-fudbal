@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-09T12:09:53.846926+00:00",
-  "azurirano_sr": "9. 05. 2026. у 14:09",
+  "azurirano": "2026-05-09T13:49:31.309678+00:00",
+  "azurirano_sr": "9. 05. 2026. у 15:49",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Liverpula i Čelsija odigrali nerešeno u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/250707/fudbaleri-liverpula-i-celsija-odigrali-nereseno-u-premijer-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 05. 2026. у 15:43",
+      "slika": null
+    },
+    {
       "naslov": "Keti Peri nastupiće pred prvi meč Svetskog prvenstva u fudbalu",
       "url": "https://www.tanjug.rs/sport/fudbal/250600/keti-peri-nastupice-pred-prvi-mec-svetskog-prvenstva-u-fudbalu/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/250569/fudbaleri-vojvodine-savladali-cukaricki-i-vratili-se-na-drugo-mesto-na-tabeli/vest",
       "izvor": "Танјуг",
       "datum": "8. 05. 2026. у 20:14",
-      "slika": null
-    },
-    {
-      "naslov": "Ministar Gajić i predsednik OKS Tomašević posetili međunarodni boks kamp u Loznici",
-      "url": "https://www.tanjug.rs/sport/fudbal/250539/ministar-gajic-i-predsednik-oks-tomasevic-posetili-medunarodni-boks-kamp-u-loznici/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 05. 2026. у 17:35",
       "slika": null
     },
     {
