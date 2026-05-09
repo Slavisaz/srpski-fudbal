@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-09T10:35:58.648785+00:00",
-  "azurirano_sr": "9. 05. 2026. у 12:35",
+  "azurirano": "2026-05-09T11:29:23.543643+00:00",
+  "azurirano_sr": "9. 05. 2026. у 13:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Gori Puškaš arena, ali ne zbog Lige šampiona",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gori-puskas-arena-ali-ne-zbog-lige-sampiona/543343",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 05. 2026. у 14:59",
+      "slika": null
+    },
     {
       "naslov": "Pep neće nositi dres Vest Hema, jer tu je Šerki, fudbalski romantik",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pep-nece-nositi-dres-vest-hema-jer-tu-je-serki-fudbalski-romantik/543335",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/veliko-je-srce-autsajdera-ali-su-sergej-i-inzagi-odneli-pehar-u-rijad/543300",
       "izvor": "Мозарт Спорт",
       "datum": "9. 05. 2026. у 00:03",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina povredama platila drugo mesto pred finale Mozzart Bet Kupa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vojvodina-povredama-platila-drugo-mesto-pred-finale-mozzart-bet-kupa/543287",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 05. 2026. у 22:10",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Zvezda želi još jednog reprezentativca Srbije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231831/mijat-gacinovic-na-radaru-crvene-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 05. 2026. у 13:10",
+      "slika": null
+    },
+    {
       "naslov": "Tanjga: &quot;Razočaran sam navijačima – dolaze da provociraju&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231867/miroslav-tanjga-ljut-na-navijace-vojvodine/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "9. 05. 2026. у 11:45",
-      "slika": null
-    },
-    {
-      "naslov": "Mateus prihvatio da se vrati u Brazil?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231838/mateus-magaljes-pristao-da-se-vrati-u-brazil/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "9. 05. 2026. у 10:15",
       "slika": null
     }
   ]
