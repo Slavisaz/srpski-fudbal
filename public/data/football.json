@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-09T14:39:44.100464+00:00",
-  "azurirano_sr": "9. 05. 2026. у 16:39",
+  "azurirano": "2026-05-09T15:33:55.500139+00:00",
+  "azurirano_sr": "9. 05. 2026. у 17:33",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Lalatović na Marakani traži izlazak iz krize – Arnautović starter",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231959/uzivo-crvena-zvezda-novi-pazar/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 05. 2026. у 17:30",
+      "slika": null
+    },
+    {
       "naslov": "Zvezda želi još jednog reprezentativca Srbije",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231831/mijat-gacinovic-na-radaru-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "9. 05. 2026. у 13:10",
-      "slika": null
-    },
-    {
-      "naslov": "Tanjga: &quot;Razočaran sam navijačima – dolaze da provociraju&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231867/miroslav-tanjga-ljut-na-navijace-vojvodine/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "9. 05. 2026. у 11:45",
       "slika": null
     }
   ]
