@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-09T20:09:51.202575+00:00",
-  "azurirano_sr": "9. 05. 2026. у 22:09",
+  "azurirano": "2026-05-09T21:00:46.495584+00:00",
+  "azurirano_sr": "9. 05. 2026. у 23:00",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Bombonjera za iskupljenje posle kraha u Gvajakilu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bombonjera-za-iskupljenje-posle-kraha-u-gvajakilu/543361",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 05. 2026. у 00:01",
+      "slika": null
+    },
+    {
+      "naslov": "Milijarder želi da kupi Vankuver i preseli ga u pustinju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/milijarder-zeli-da-kupi-vankuver-i-preseli-ga-u-pustinju/543354",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 05. 2026. у 00:00",
+      "slika": null
+    },
     {
       "naslov": "Inter kidisao u nebitnoj utakmici, Lacio izgubio već u svlačionici i sačuvao sva oružja za sredu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/inter-kidisao-u-nebitnoj-utakmici-lacio-izgubio-vec-u-svlacionici-i-sacuvao-sva-oruzja-za-sredu/543378",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Pep neće nositi dres Vest Hema, jer tu je Šerki, fudbalski romantik",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pep-nece-nositi-dres-vest-hema-jer-tu-je-serki-fudbalski-romantik/543335",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 05. 2026. у 13:20",
+      "naslov": "Fudbaleri Juventusa pobedili u Lećeu, Vlahović strelac u 11. sekundu",
+      "url": "https://www.tanjug.rs/sport/fudbal/250772/fudbaleri-juventusa-pobedili-u-leceu-vlahovic-strelac-u-11-sekundu/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 05. 2026. у 22:56",
       "slika": null
     },
     {
-      "naslov": "NAJAVA DANA (subota, 9. maj): Od bitaka na Enfildu i Olimpiku, do obaveza večitih na superligaški način",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-subota-9-maj-od-bitaka-na-enfildu-i-olimpiku-do-obaveza-vecitih-na-superligaski-nacin/543257",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 05. 2026. у 09:45",
+      "naslov": "Blagojević: Biće diskusije oko penala, razočarani smo",
+      "url": "https://www.tanjug.rs/sport/fudbal/250770/blagojevic-bice-diskusije-oko-penala-razocarani-smo/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 05. 2026. у 22:33",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/250757/dejan-stankovic-dobili-smo-batine-a-nismo-odgovorili-bicemo-pravi-za-finale-kupa/vest",
       "izvor": "Танјуг",
       "datum": "9. 05. 2026. у 20:49",
-      "slika": null
-    },
-    {
-      "naslov": "Poraz fudbalera Zvezde od Novog Pazara, Železničar iz Pančeva izborio Evropu",
-      "url": "https://www.tanjug.rs/sport/fudbal/250751/poraz-fudbalera-zvezde-od-novog-pazara-zeleznicar-iz-panceva-izborio-evropu/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 05. 2026. у 20:02",
-      "slika": null
-    },
-    {
-      "naslov": "Uhapšeno 46 ljudi na derbiju Dinamo-Hajduk, zaplenjena velika količina pirotehnike",
-      "url": "https://www.tanjug.rs/sport/fudbal/250744/uhapseno-46-ljudi-na-derbiju-dinamo-hajduk-zaplenjena-velika-kolicina-pirotehnike/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 05. 2026. у 19:18",
       "slika": null
     },
     {
