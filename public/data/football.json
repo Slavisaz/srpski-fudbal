@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-09T21:00:46.495584+00:00",
-  "azurirano_sr": "9. 05. 2026. у 23:00",
+  "azurirano": "2026-05-09T21:50:05.838965+00:00",
+  "azurirano_sr": "9. 05. 2026. у 23:50",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srce da prepukne: Velika brljotina zbog koje možda nećemo imati najlepšu priču evropskog fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srce-da-prepukne-velika-brljotina-zbog-koje-mozda-necemo-imati-najlepsu-pricu-evropskog-fudbala/543394",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 05. 2026. у 01:07",
+      "slika": null
+    },
+    {
+      "naslov": "Vlahović kao Šukur 2002! Liga šampiona je na vidiku, da li i novi ugovor?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vlahovic-kao-sukur-2002-liga-sampiona-je-na-vidiku-da-li-i-novi-ugovor/543391",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 05. 2026. у 00:50",
+      "slika": null
+    },
     {
       "naslov": "Bombonjera za iskupljenje posle kraha u Gvajakilu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bombonjera-za-iskupljenje-posle-kraha-u-gvajakilu/543361",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/milijarder-zeli-da-kupi-vankuver-i-preseli-ga-u-pustinju/543354",
       "izvor": "Мозарт Спорт",
       "datum": "10. 05. 2026. у 00:00",
-      "slika": null
-    },
-    {
-      "naslov": "Inter kidisao u nebitnoj utakmici, Lacio izgubio već u svlačionici i sačuvao sva oružja za sredu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/inter-kidisao-u-nebitnoj-utakmici-lacio-izgubio-vec-u-svlacionici-i-sacuvao-sva-oruzja-za-sredu/543378",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 05. 2026. у 21:51",
-      "slika": null
-    },
-    {
-      "naslov": "Gori Puškaš arena, ali ne zbog Lige šampiona",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gori-puskas-arena-ali-ne-zbog-lige-sampiona/543343",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 05. 2026. у 14:59",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Igrači Železničara okupali Kokovića i lepu voditeljku VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232001/igraci-zeleznicara-okupali-kokovica-i-lepu-voditeljku-video/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 05. 2026. у 23:10",
+      "slika": null
+    },
+    {
       "naslov": "Damjanović (ne)zadovoljan bodom u Humskoj: &quot;Mogli smo više...&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232000/damjanovic-nezadovoljan-bodom-u-humskoj-mogli-smo-vise/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "9. 05. 2026. у 22:01",
-      "slika": null
-    },
-    {
-      "naslov": "Blagojević utučen: &quot;Jako smo razočarani...&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231998/blagojevic-utucen-jako-smo-razocarani/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "9. 05. 2026. у 21:46",
       "slika": null
     }
   ]
