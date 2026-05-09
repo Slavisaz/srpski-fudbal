@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-09T03:51:55.642114+00:00",
-  "azurirano_sr": "9. 05. 2026. у 05:51",
+  "azurirano": "2026-05-09T06:06:35.822226+00:00",
+  "azurirano_sr": "9. 05. 2026. у 08:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (subota, 9. maj): Od bitaka na Enfildu i Olimpiku, do obaveza večitih na superligaški način",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-subota-9-maj-od-bitaka-na-enfildu-i-olimpiku-do-obaveza-vecitih-na-superligaski-nacin/543257",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 05. 2026. у 09:45",
+      "slika": null
+    },
     {
       "naslov": "Veliko je srce autsajdera, ali su Sergej i Inzagi odneli pehar u Rijad",
       "url": "https://www.mozzartsport.com/fudbal/vesti/veliko-je-srce-autsajdera-ali-su-sergej-i-inzagi-odneli-pehar-u-rijad/543300",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Dejanov poslednji pozdrav Cveletu: Dao nam je stan, kupio mi kola...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dejanov-poslednji-pozdrav-cveletu-dao-nam-je-stan-kupio-mi-kola/543262",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 05. 2026. у 15:41",
+      "naslov": "Keti Peri nastupiće pred prvi meč Svetskog prvenstva u fudbalu",
+      "url": "https://www.tanjug.rs/sport/fudbal/250600/keti-peri-nastupice-pred-prvi-mec-svetskog-prvenstva-u-fudbalu/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 05. 2026. у 06:53",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/250539/ministar-gajic-i-predsednik-oks-tomasevic-posetili-medunarodni-boks-kamp-u-loznici/vest",
       "izvor": "Танјуг",
       "datum": "8. 05. 2026. у 17:35",
-      "slika": null
-    },
-    {
-      "naslov": "Deca do 14 godina i mališani sa \"Super zvezdaš\" karticama besplatno na Novi Pazar",
-      "url": "https://www.tanjug.rs/sport/fudbal/250527/deca-do-14-godina-i-malisani-sa-super-zvezdas-karticama-besplatno-na-novi-pazar/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 05. 2026. у 16:55",
       "slika": null
     },
     {
