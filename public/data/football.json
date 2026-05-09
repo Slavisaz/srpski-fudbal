@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-09T19:32:19.984920+00:00",
-  "azurirano_sr": "9. 05. 2026. у 21:32",
+  "azurirano": "2026-05-09T20:09:51.202575+00:00",
+  "azurirano_sr": "9. 05. 2026. у 22:09",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Partizana remizirali sa OFK Beogradom i ostali treći na tabeli",
+      "url": "https://www.tanjug.rs/sport/fudbal/250760/fudbaleri-partizana-remizirali-sa-ofk-beogradom-i-ostali-treci-na-tabeli/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 05. 2026. у 21:34",
+      "slika": null
+    },
+    {
       "naslov": "Dejan Stanković: Dobili smo \"batine\", a nismo odgovorili, bićemo pravi za finale Kupa",
       "url": "https://www.tanjug.rs/sport/fudbal/250757/dejan-stankovic-dobili-smo-batine-a-nismo-odgovorili-bicemo-pravi-za-finale-kupa/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Navijači Crvene zvezde se emotivno oprostili od Vladimira Cvetkovića",
-      "url": "https://www.tanjug.rs/sport/fudbal/250735/navijaci-crvene-zvezde-se-emotivno-oprostili-od-vladimira-cvetkovica/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 05. 2026. у 18:12",
+      "naslov": "Damjanović (ne)zadovoljan bodom u Humskoj: &quot;Mogli smo više...&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232000/damjanovic-nezadovoljan-bodom-u-humskoj-mogli-smo-vise/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 05. 2026. у 22:01",
       "slika": null
     },
     {
-      "naslov": "OFK opet sapleo Partizan – ovaj kiks bi mogao skupo da košta!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231948/superliga-srbije-35-kolo-partizan-ofk-beograd-11-izvestaj-utakmice/vest",
+      "naslov": "Blagojević utučen: &quot;Jako smo razočarani...&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231998/blagojevic-utucen-jako-smo-razocarani/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 05. 2026. у 21:30",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: &quot;Neki su zalutali ovde&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/231986/stankovic-ruzno-je-ovako-izgubiti-svi-da-se-zapitamo/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "9. 05. 2026. у 20:27",
+      "datum": "9. 05. 2026. у 21:46",
       "slika": null
     }
   ]
