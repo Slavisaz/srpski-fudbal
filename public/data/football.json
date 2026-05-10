@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-10T17:04:17.909793+00:00",
-  "azurirano_sr": "10. 05. 2026. у 19:04",
+  "azurirano": "2026-05-10T17:58:49.312678+00:00",
+  "azurirano_sr": "10. 05. 2026. у 19:58",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "VAR odluka za olujno nevreme u engleskom fudbalu! Sudija poništio gol protiv Arsenala u 90+5",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/var-odluka-za-olujno-nevreme-u-engleskom-fudbalu-sudija-ponistio-gol-protiv-arsenala-u-905/543469",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 05. 2026. у 21:38",
+      "slika": null
+    },
     {
       "naslov": "AZ Alkmar i Groningen zovu Milana Vukotića",
       "url": "https://www.mozzartsport.com/fudbal/vesti/az-alkmar-i-groningen-zovu-milana-vukotica/543454",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Rosoneri u slobodnom padu: Visi Liga šampiona, Leao se seli na klupu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rosoneri-u-slobodnom-padu-visi-liga-sampiona-leao-se-seli-na-klupu/543430",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 05. 2026. у 13:56",
+      "naslov": "Košarkaši Partizana prvi polufinalisti plej-ofa ABA lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/250877/kosarkasi-partizana-prvi-polufinalisti-plej-ofa-aba-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 05. 2026. у 19:09",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Juventusa pobedili u Lećeu, Vlahović strelac u 11. sekundu",
-      "url": "https://www.tanjug.rs/sport/fudbal/250772/fudbaleri-juventusa-pobedili-u-leceu-vlahovic-strelac-u-11-sekundu/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 05. 2026. у 22:56",
+      "naslov": "Čelnici Železničara: &quot;Ovo je samo početak&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232176/zoran-naunkovic-i-bojan-saranov-posle-plasmana-zeleznicara-u-evropu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 05. 2026. у 19:10",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232157/plzenj-zeli-daglasa-ovusua/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 05. 2026. у 17:15",
-      "slika": null
-    },
-    {
-      "naslov": "Partizanov kreativac na meti holandskih velikana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232145/fudbaler-partizana-milan-vukotic-na-meti-az-alkmara-i-groningena/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 05. 2026. у 16:43",
       "slika": null
     }
   ]
