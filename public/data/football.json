@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-10T17:58:49.312678+00:00",
-  "azurirano_sr": "10. 05. 2026. у 19:58",
+  "azurirano": "2026-05-10T19:02:45.400199+00:00",
+  "azurirano_sr": "10. 05. 2026. у 21:02",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Orhusa šesti put prvaci Danske, prvi put posle 1986. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/250883/fudbaleri-orhusa-sesti-put-prvaci-danske-prvi-put-posle-1986-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 05. 2026. у 20:18",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Arsenala pobedili Vest Hem i stigli na korak od osvajanja titule",
+      "url": "https://www.tanjug.rs/sport/fudbal/250881/fudbaleri-arsenala-pobedili-vest-hem-i-stigli-na-korak-od-osvajanja-titule/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 05. 2026. у 19:47",
+      "slika": null
+    },
+    {
       "naslov": "Košarkaši Partizana prvi polufinalisti plej-ofa ABA lige",
       "url": "https://www.tanjug.rs/sport/fudbal/250877/kosarkasi-partizana-prvi-polufinalisti-plej-ofa-aba-lige/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Koma savladali Veronu u 36. kolu Serije A",
-      "url": "https://www.tanjug.rs/sport/fudbal/250848/fudbaleri-koma-savladali-veronu-u-36-kolu-serije-a/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 05. 2026. у 14:32",
-      "slika": null
-    },
-    {
-      "naslov": "Mbape nije na spisku fudbalera Reala za večerašnji El klasiko protiv Barselone",
-      "url": "https://www.tanjug.rs/sport/fudbal/250833/mbape-nije-na-spisku-fudbalera-reala-za-vecerasnji-el-klasiko-protiv-barselone/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 05. 2026. у 12:45",
+      "naslov": "Kec u Nišu! Mustafa u 90+1&#039; za delirijum Čaira – TSC &quot;šesticom&quot; ka opstanku",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232194/kec-u-nisu-mustafa-u-901-za-delirijum-caira-tsc-sesticom-ka-opstanku/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 05. 2026. у 20:25",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232176/zoran-naunkovic-i-bojan-saranov-posle-plasmana-zeleznicara-u-evropu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 05. 2026. у 19:10",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda se odriče velikog pojačanja nakon polusezone",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232157/plzenj-zeli-daglasa-ovusua/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 05. 2026. у 17:15",
       "slika": null
     }
   ]
