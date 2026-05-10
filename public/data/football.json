@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-10T14:03:42.756225+00:00",
-  "azurirano_sr": "10. 05. 2026. у 16:03",
+  "azurirano": "2026-05-10T15:03:46.206541+00:00",
+  "azurirano_sr": "10. 05. 2026. у 17:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "AZ Alkmar i Groningen zovu Milana Vukotića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/az-alkmar-i-groningen-zovu-milana-vukotica/543454",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 05. 2026. у 18:06",
+      "slika": null
+    },
     {
       "naslov": "Lalatović četvrti put slavio protiv Zvezde, šteta što ovaj trijumf nema evropsku aromu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/lalatovic-cetvrti-put-slavio-protiv-zvezde-steta-sto-ovaj-trijumf-nema-evropsku-aromu/543445",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Kad je već nezapamćeno, neka bude i holivudski",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kad-je-vec-nezapamceno-neka-bude-i-holivudski/543414",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 05. 2026. у 12:07",
+      "naslov": "Fudbaleri Šahtjora osvojili titulu u Ukrajini, na korak su od direktnog plasmana u Ligu šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/250858/fudbaleri-sahtjora-osvojili-titulu-u-ukrajini-na-korak-su-od-direktnog-plasmana-u-ligu-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 05. 2026. у 16:25",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Blagojević: Biće diskusije oko penala, razočarani smo",
-      "url": "https://www.tanjug.rs/sport/fudbal/250770/blagojevic-bice-diskusije-oko-penala-razocarani-smo/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 05. 2026. у 22:33",
+      "naslov": "Partizanov kreativac na meti holandskih velikana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232145/fudbaler-partizana-milan-vukotic-na-meti-az-alkmara-i-groningena/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 05. 2026. у 16:43",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232115/zvezda-hoce-da-dovede-abu-fanija-iz-ferencvarosa/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 05. 2026. у 14:30",
-      "slika": null
-    },
-    {
-      "naslov": "Igrači Železničara okupali Kokovića i lepu voditeljku VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232001/igraci-zeleznicara-okupali-kokovica-i-lepu-voditeljku-video/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "9. 05. 2026. у 23:10",
       "slika": null
     }
   ]
