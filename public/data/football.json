@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-10T10:49:41.752252+00:00",
-  "azurirano_sr": "10. 05. 2026. у 12:49",
+  "azurirano": "2026-05-10T11:37:12.872790+00:00",
+  "azurirano_sr": "10. 05. 2026. у 13:37",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Mihailo Ivanović o idealnom kraju sezone: Milvol u Premijer ligi, Voši kup i drugo mesto",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mihailo-ivanovic-o-idealnom-kraju-sezone-milvol-u-premijer-ligi-vosi-kup-i-drugo-mesto/543434",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 05. 2026. у 14:35",
+      "slika": null
+    },
     {
       "naslov": "Rosoneri u slobodnom padu: Visi Liga šampiona, Leo se seli na klupu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rosoneri-u-slobodnom-padu-visi-liga-sampiona-leo-se-seli-na-klupu/543430",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Vlahović kao Šukur 2002! Liga šampiona je na vidiku, da li i novi ugovor?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vlahovic-kao-sukur-2002-liga-sampiona-je-na-vidiku-da-li-i-novi-ugovor/543391",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 05. 2026. у 00:50",
+      "naslov": "Mbape nije na spisku fudbalera Reala za večerašnji El klasiko protiv Barselone",
+      "url": "https://www.tanjug.rs/sport/fudbal/250833/mbape-nije-na-spisku-fudbalera-reala-za-vecerasnji-el-klasiko-protiv-barselone/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 05. 2026. у 12:45",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/250760/fudbaleri-partizana-remizirali-sa-ofk-beogradom-i-ostali-treci-na-tabeli/vest",
       "izvor": "Танјуг",
       "datum": "9. 05. 2026. у 21:34",
-      "slika": null
-    },
-    {
-      "naslov": "Dejan Stanković: Dobili smo \"batine\", a nismo odgovorili, bićemo pravi za finale Kupa",
-      "url": "https://www.tanjug.rs/sport/fudbal/250757/dejan-stankovic-dobili-smo-batine-a-nismo-odgovorili-bicemo-pravi-za-finale-kupa/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 05. 2026. у 20:49",
       "slika": null
     },
     {
