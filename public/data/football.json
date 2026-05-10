@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-10T12:37:36.254814+00:00",
-  "azurirano_sr": "10. 05. 2026. у 14:37",
+  "azurirano": "2026-05-10T14:03:42.756225+00:00",
+  "azurirano_sr": "10. 05. 2026. у 16:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Lalatović četvrti put slavio protiv Zvezde, šteta što ovaj trijumf nema evropsku aromu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lalatovic-cetvrti-put-slavio-protiv-zvezde-steta-sto-ovaj-trijumf-nema-evropsku-aromu/543445",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 05. 2026. у 16:41",
+      "slika": null
+    },
     {
       "naslov": "Mihailo Ivanović o idealnom kraju sezone: Milvol u Premijer ligi, Voši kup i drugo mesto",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mihailo-ivanovic-o-idealnom-kraju-sezone-milvol-u-premijer-ligi-vosi-kup-i-drugo-mesto/543434",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Srce da prepukne: Velika brljotina zbog koje možda nećemo imati najlepšu priču evropskog fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srce-da-prepukne-velika-brljotina-zbog-koje-mozda-necemo-imati-najlepsu-pricu-evropskog-fudbala/543394",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 05. 2026. у 01:07",
+      "naslov": "Fudbaleri Koma savladali Veronu u 36. kolu Serije A",
+      "url": "https://www.tanjug.rs/sport/fudbal/250848/fudbaleri-koma-savladali-veronu-u-36-kolu-serije-a/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 05. 2026. у 14:32",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/250770/blagojevic-bice-diskusije-oko-penala-razocarani-smo/vest",
       "izvor": "Танјуг",
       "datum": "9. 05. 2026. у 22:33",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Partizana remizirali sa OFK Beogradom i ostali treći na tabeli",
-      "url": "https://www.tanjug.rs/sport/fudbal/250760/fudbaleri-partizana-remizirali-sa-ofk-beogradom-i-ostali-treci-na-tabeli/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 05. 2026. у 21:34",
       "slika": null
     },
     {
