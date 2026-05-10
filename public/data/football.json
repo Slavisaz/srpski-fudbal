@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-10T11:37:12.872790+00:00",
-  "azurirano_sr": "10. 05. 2026. у 13:37",
+  "azurirano": "2026-05-10T12:37:36.254814+00:00",
+  "azurirano_sr": "10. 05. 2026. у 14:37",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -11,8 +11,8 @@
       "slika": null
     },
     {
-      "naslov": "Rosoneri u slobodnom padu: Visi Liga šampiona, Leo se seli na klupu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rosoneri-u-slobodnom-padu-visi-liga-sampiona-leo-se-seli-na-klupu/543430",
+      "naslov": "Rosoneri u slobodnom padu: Visi Liga šampiona, Leao se seli na klupu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rosoneri-u-slobodnom-padu-visi-liga-sampiona-leao-se-seli-na-klupu/543430",
       "izvor": "Мозарт Спорт",
       "datum": "10. 05. 2026. у 13:56",
       "slika": null
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Zvezda naciljala veliko pojačanje – Izraelac iz Mađarske prva želja",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232115/zvezda-hoce-da-dovede-abu-fanija-iz-ferencvarosa/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 05. 2026. у 14:30",
+      "slika": null
+    },
+    {
       "naslov": "Igrači Železničara okupali Kokovića i lepu voditeljku VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232001/igraci-zeleznicara-okupali-kokovica-i-lepu-voditeljku-video/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "9. 05. 2026. у 23:10",
-      "slika": null
-    },
-    {
-      "naslov": "Damjanović (ne)zadovoljan bodom u Humskoj: &quot;Mogli smo više...&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232000/damjanovic-nezadovoljan-bodom-u-humskoj-mogli-smo-vise/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "9. 05. 2026. у 22:01",
       "slika": null
     }
   ]
