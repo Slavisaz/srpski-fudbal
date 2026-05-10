@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-10T20:57:36.914536+00:00",
-  "azurirano_sr": "10. 05. 2026. у 22:57",
+  "azurirano": "2026-05-10T21:43:27.013722+00:00",
+  "azurirano_sr": "10. 05. 2026. у 23:43",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Barsa silnim fudbalom stavila pečat na titulu i Realov horor od sezone",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/barsa-silnim-fudbalom-stavila-pecat-na-titulu-i-realov-horor-od-sezone/543490",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 05. 2026. у 00:53",
+      "slika": null
+    },
+    {
+      "naslov": "Sve je postalo pepeo i dim u Milanovoj igri, Liga šampiona klizi iz ruku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sve-je-postalo-pepeo-i-dim-u-milanovoj-igri-liga-sampiona-klizi-iz-ruku/543489",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 05. 2026. у 00:48",
+      "slika": null
+    },
     {
       "naslov": "VAR odluka za olujno nevreme u engleskom fudbalu! Sudija poništio gol protiv Arsenala u 90+5",
       "url": "https://www.mozzartsport.com/fudbal/vesti/var-odluka-za-olujno-nevreme-u-engleskom-fudbalu-sudija-ponistio-gol-protiv-arsenala-u-905/543469",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Lalatović četvrti put slavio protiv Zvezde, šteta što ovaj trijumf nema evropsku aromu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lalatovic-cetvrti-put-slavio-protiv-zvezde-steta-sto-ovaj-trijumf-nema-evropsku-aromu/543445",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 05. 2026. у 16:41",
+      "naslov": "Fudbaleri Barselone pobedili Real, odbranili pehar i osvojili 29. titulu prvaka",
+      "url": "https://www.tanjug.rs/sport/fudbal/250904/fudbaleri-barselone-pobedili-real-odbranili-pehar-i-osvojili-29-titulu-prvaka/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 05. 2026. у 23:20",
       "slika": null
     },
     {
-      "naslov": "Mihailo Ivanović o idealnom kraju sezone: Milvol u Premijer ligi, Voši kup i drugo mesto",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mihailo-ivanovic-o-idealnom-kraju-sezone-milvol-u-premijer-ligi-vosi-kup-i-drugo-mesto/543434",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 05. 2026. у 14:35",
+      "naslov": "Srpski fudbaler Strahinja Pavlović strelac u porazu Milana od Atalante",
+      "url": "https://www.tanjug.rs/sport/fudbal/250903/srpski-fudbaler-strahinja-pavlovic-strelac-u-porazu-milana-od-atalante/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 05. 2026. у 23:19",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Pari Sen Žermena minimalno pobedili Brest i praktično odbranili titulu",
+      "url": "https://www.tanjug.rs/sport/fudbal/250901/fudbaleri-pari-sen-zermena-minimalno-pobedili-brest-i-prakticno-odbranili-titulu/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 05. 2026. у 23:16",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/250895/el-klasiko-uzivo-u-novom-sadu-sa-mladim-fudbalerima-mec-prate-micin-i-ambasador-aparisio/vest",
       "izvor": "Танјуг",
       "datum": "10. 05. 2026. у 22:15",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Andrej Ilić strelac u pobedi Union Berlina nad Majncom",
-      "url": "https://www.tanjug.rs/sport/fudbal/250894/srpski-fudbaler-andrej-ilic-strelac-u-pobedi-union-berlina-nad-majncom/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 05. 2026. у 21:56",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri TSC-a deklasirali Javor 6:1 i stigli na korak od opstanka u Superligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/250890/fudbaleri-tsc-a-deklasirali-javor-61-i-stigli-na-korak-od-opstanka-u-superligi/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 05. 2026. у 21:29",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri atinskog AEK-a postali šampioni Grčke 14. put",
-      "url": "https://www.tanjug.rs/sport/fudbal/250888/fudbaleri-atinskog-aek-a-postali-sampioni-grcke-14-put/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 05. 2026. у 21:05",
       "slika": null
     },
     {
