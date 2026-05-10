@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-10T15:03:46.206541+00:00",
-  "azurirano_sr": "10. 05. 2026. у 17:03",
+  "azurirano": "2026-05-10T16:01:58.618188+00:00",
+  "azurirano_sr": "10. 05. 2026. у 18:01",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Zvezda se odriče velikog pojačanja nakon polusezone",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232157/plzenj-zeli-daglasa-ovusua/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 05. 2026. у 17:15",
+      "slika": null
+    },
+    {
       "naslov": "Partizanov kreativac na meti holandskih velikana",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232145/fudbaler-partizana-milan-vukotic-na-meti-az-alkmara-i-groningena/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 05. 2026. у 16:43",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda naciljala veliko pojačanje – Izraelac iz Mađarske prva želja",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232115/zvezda-hoce-da-dovede-abu-fanija-iz-ferencvarosa/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 05. 2026. у 14:30",
       "slika": null
     }
   ]
