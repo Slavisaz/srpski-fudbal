@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-10T20:01:44.945421+00:00",
-  "azurirano_sr": "10. 05. 2026. у 22:01",
+  "azurirano": "2026-05-10T20:57:36.914536+00:00",
+  "azurirano_sr": "10. 05. 2026. у 22:57",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "El klasiko uživo u Novom Sadu, sa mladim fudbalerima meč prate Mićin i ambasador Aparisio",
+      "url": "https://www.tanjug.rs/sport/fudbal/250895/el-klasiko-uzivo-u-novom-sadu-sa-mladim-fudbalerima-mec-prate-micin-i-ambasador-aparisio/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 05. 2026. у 22:15",
+      "slika": null
+    },
+    {
+      "naslov": "Srpski fudbaler Andrej Ilić strelac u pobedi Union Berlina nad Majncom",
+      "url": "https://www.tanjug.rs/sport/fudbal/250894/srpski-fudbaler-andrej-ilic-strelac-u-pobedi-union-berlina-nad-majncom/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 05. 2026. у 21:56",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri TSC-a deklasirali Javor 6:1 i stigli na korak od opstanka u Superligi",
       "url": "https://www.tanjug.rs/sport/fudbal/250890/fudbaleri-tsc-a-deklasirali-javor-61-i-stigli-na-korak-od-opstanka-u-superligi/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "OFK Beograd odbio ponudu od 800 hiljada evra za mladog defanzivca Andreja Pavlovića",
-      "url": "https://www.tanjug.rs/sport/fudbal/250887/ofk-beograd-odbio-ponudu-od-800-hiljada-evra-za-mladog-defanzivca-andreja-pavlovica/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 05. 2026. у 20:59",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Orhusa šesti put prvaci Danske, prvi put posle 1986. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/250883/fudbaleri-orhusa-sesti-put-prvaci-danske-prvi-put-posle-1986-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 05. 2026. у 20:18",
+      "naslov": "Partizan – Ajaks 8:2",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232199/veterani-partizana-bolji-od-ajaksa-82/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 05. 2026. у 22:18",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232194/kec-u-nisu-mustafa-u-901-za-delirijum-caira-tsc-sesticom-ka-opstanku/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 05. 2026. у 20:25",
-      "slika": null
-    },
-    {
-      "naslov": "Čelnici Železničara: &quot;Ovo je samo početak&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232176/zoran-naunkovic-i-bojan-saranov-posle-plasmana-zeleznicara-u-evropu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 05. 2026. у 19:10",
       "slika": null
     }
   ]
