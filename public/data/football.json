@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-11T16:38:08.188527+00:00",
-  "azurirano_sr": "11. 05. 2026. у 18:38",
+  "azurirano": "2026-05-11T18:21:24.277111+00:00",
+  "azurirano_sr": "11. 05. 2026. у 20:21",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Tanjga: Nadam se da će biti treća sreća u finalu Kupa i lepši ambijent nego lani u Zaječaru",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tanjga-nadam-se-da-ce-biti-treca-sreca-u-finalu-kupa-i-lepsi-ambijent-nego-lani-u-zajecaru/543556",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 05. 2026. у 21:45",
+      "slika": null
+    },
+    {
+      "naslov": "Transferi Olisea i Dijaza? Sve je to lepo, ali... Eberl opet visi u Bajernu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-olisea-i-dijaza-sve-je-to-lepo-ali-eberl-opet-visi-u-bajernu/543552",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 05. 2026. у 21:43",
+      "slika": null
+    },
     {
       "naslov": "Kažem Terziću da mi ne uzima Radonju još tri meseca! On ga sutra pokupi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kazem-terzicu-da-mi-ne-uzima-radonju-jos-tri-meseca-on-ga-sutra-pokupi/543518",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/mihin-bivsi-asistent-otkrio-trebalo-je-da-nasledi-sarija-u-napoliju-bilo-je-bas-blizu/543550",
       "izvor": "Мозарт Спорт",
       "datum": "11. 05. 2026. у 19:58",
-      "slika": null
-    },
-    {
-      "naslov": "Cvetković dobro prošao, izvestan nastup u finalu Kupa Belgije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cvetkovic-dobro-prosao-izvestan-nastup-u-finalu-kupa-belgije/543546",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 05. 2026. у 18:51",
-      "slika": null
-    },
-    {
-      "naslov": "Bravo, Barbarez: Nema skrivanja, zna se ko ide na Mundijal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bravo-barbarez-nema-skrivanja-zna-se-ko-ide-na-mundijal/543542",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 05. 2026. у 17:11",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Marko Nikolić krenuo po ofanzivca Crvene zvezde",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232435/marko-nikolic-zeli-savija-babiku/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "11. 05. 2026. у 18:43",
+      "slika": null
+    },
+    {
       "naslov": "Zbiljić &quot;zapretio&quot; Zvezdi: &quot;Kada osvojimo trofej...&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232296/zbiljic-zna-koji-je-glavni-adut-vojvodine-u-finalu-mislim-da-je-svima-jasno/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "11. 05. 2026. у 13:08",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Ovde je sada uživanje biti igrač, a sve zahvaljujući dobrom stanju u državi&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232333/lalatovic-zvezdini-igraci-imaju-primanja-kao-da-igraju-u-barseloni/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "11. 05. 2026. у 12:42",
       "slika": null
     }
   ]
