@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-11T18:21:24.277111+00:00",
-  "azurirano_sr": "11. 05. 2026. у 20:21",
+  "azurirano": "2026-05-11T20:08:06.062021+00:00",
+  "azurirano_sr": "11. 05. 2026. у 22:08",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Mančester Siti predstavio plan najtalentovanijem Nemcu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mancester-siti-predstavio-plan-najtalentovanijem-nemcu/543564",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 05. 2026. у 23:54",
+      "slika": null
+    },
     {
       "naslov": "Tanjga: Nadam se da će biti treća sreća u finalu Kupa i lepši ambijent nego lani u Zaječaru",
       "url": "https://www.mozzartsport.com/fudbal/vesti/tanjga-nadam-se-da-ce-biti-treca-sreca-u-finalu-kupa-i-lepsi-ambijent-nego-lani-u-zajecaru/543556",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Mihin bivši asistent otkrio: Trebalo je da nasledi Sarija u Napoliju, bilo je baš blizu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mihin-bivsi-asistent-otkrio-trebalo-je-da-nasledi-sarija-u-napoliju-bilo-je-bas-blizu/543550",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 05. 2026. у 19:58",
+      "naslov": "Evropska elita školskog futsala u Republici Srpskoj: Prijem povodom početka Evropskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/251125/evropska-elita-skolskog-futsala-u-republici-srpskoj-prijem-povodom-pocetka-evropskog-prvenstva/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 05. 2026. у 21:13",
+      "slika": null
+    },
+    {
+      "naslov": "Tanjga i Crnomarković: Srce, želja i borba donose trofej Kupa u Novi Sad",
+      "url": "https://www.tanjug.rs/sport/fudbal/251116/tanjga-i-crnomarkovic-srce-zelja-i-borba-donose-trofej-kupa-u-novi-sad/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 05. 2026. у 20:27",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Arbeloa: Razumemo razočarenje i nezadovoljstvo navijača ovom sezonom",
-      "url": "https://www.tanjug.rs/sport/fudbal/251016/arbeloa-razumemo-razocarenje-i-nezadovoljstvo-navijaca-ovom-sezonom/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 05. 2026. у 14:36",
-      "slika": null
-    },
-    {
-      "naslov": "Marko Nikolić: Ovo je jedan od najsrećnijih trenutaka moje karijere",
-      "url": "https://www.tanjug.rs/sport/fudbal/250980/marko-nikolic-ovo-je-jedan-od-najsrecnijih-trenutaka-moje-karijere/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 05. 2026. у 12:47",
+      "naslov": "Tanjga se prisetio prošlogodišnjeg finala: &quot;Navijači su morali da budu provereni na ulazu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232498/konferencija-miroslava-tanjge-pred-finala-kupa-srbije-izmedju-crvene-zvezde-i-vojvodine/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "11. 05. 2026. у 20:30",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232435/marko-nikolic-zeli-savija-babiku/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "11. 05. 2026. у 18:43",
-      "slika": null
-    },
-    {
-      "naslov": "Zbiljić &quot;zapretio&quot; Zvezdi: &quot;Kada osvojimo trofej...&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232296/zbiljic-zna-koji-je-glavni-adut-vojvodine-u-finalu-mislim-da-je-svima-jasno/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "11. 05. 2026. у 13:08",
       "slika": null
     }
   ]
