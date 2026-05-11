@@ -1,34 +1,55 @@
 {
-  "azurirano": "2026-05-11T08:02:35.455813+00:00",
-  "azurirano_sr": "11. 05. 2026. у 10:02",
+  "azurirano": "2026-05-11T11:33:16.261077+00:00",
+  "azurirano_sr": "11. 05. 2026. у 13:33",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "LUDI TIKET, ponedeljak, 359.339 dinara: Prijatelj fudbala nagrađen zbog golova",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-ponedeljak-359339-dinara-prijatelj-fudbala-nagraen-zbog-golova/543502",
+      "naslov": "Dok čeka kaznu, Cvetković dobio priznanje: Jesam ga isprovocirao",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dok-ceka-kaznu-cvetkovic-dobio-priznanje-jesam-ga-isprovocirao/543526",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 05. 2026. у 11:06",
+      "datum": "11. 05. 2026. у 14:36",
       "slika": null
     },
     {
-      "naslov": "Barsa silnim fudbalom stavila pečat na titulu i Realov horor od sezone",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/barsa-silnim-fudbalom-stavila-pecat-na-titulu-i-realov-horor-od-sezone/543490",
+      "naslov": "Rašford: Da sam mađioničar, ostao bih u Barsi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rasford-da-sam-maionicar-ostao-bih-u-barsi/543523",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 05. 2026. у 00:53",
+      "datum": "11. 05. 2026. у 13:55",
       "slika": null
     },
     {
-      "naslov": "Sve je postalo pepeo i dim u Milanovoj igri, Liga šampiona klizi iz ruku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sve-je-postalo-pepeo-i-dim-u-milanovoj-igri-liga-sampiona-klizi-iz-ruku/543489",
+      "naslov": "Pavle Ilić sudi finale Kupa Srbije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pavle-ilic-sudi-finale-kupa-srbije/543517",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 05. 2026. у 00:48",
+      "datum": "11. 05. 2026. у 12:28",
       "slika": null
     },
     {
-      "naslov": "VAR odluka za olujno nevreme u engleskom fudbalu! Sudija poništio gol protiv Arsenala u 90+5",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/var-odluka-za-olujno-nevreme-u-engleskom-fudbalu-sudija-ponistio-gol-protiv-arsenala-u-905/543469",
+      "naslov": "Zbiljić pred finale Mozzart Bet Kupa: Tanjga je naša prednost protiv Zvezde",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zbiljic-pred-finale-mozzart-bet-kupa-tanjga-je-nasa-prednost-protiv-zvezde/543513",
       "izvor": "Мозарт Спорт",
-      "datum": "10. 05. 2026. у 21:38",
+      "datum": "11. 05. 2026. у 12:06",
+      "slika": null
+    },
+    {
+      "naslov": "Pavle Ilić biće glavni sudija finala Kupa Srbije između fudbalera Zvezde i Vojvodine",
+      "url": "https://www.tanjug.rs/sport/fudbal/250956/pavle-ilic-bice-glavni-sudija-finala-kupa-srbije-izmedu-fudbalera-zvezde-i-vojvodine/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 05. 2026. у 11:15",
+      "slika": null
+    },
+    {
+      "naslov": "Hansi Flik: Nije bilo lako protiv Reala, ponosan sam na sve u klubu",
+      "url": "https://www.tanjug.rs/sport/fudbal/250955/hansi-flik-nije-bilo-lako-protiv-reala-ponosan-sam-na-sve-u-klubu/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 05. 2026. у 11:11",
+      "slika": null
+    },
+    {
+      "naslov": "Dragoljub Zbiljić: Vreme je za trofeje, iskorak u Evropi i velike stvari",
+      "url": "https://www.tanjug.rs/sport/fudbal/250944/dragoljub-zbiljic-vreme-je-za-trofeje-iskorak-u-evropi-i-velike-stvari/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 05. 2026. у 10:20",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Srpski fudbaler Strahinja Pavlović strelac u porazu Milana od Atalante",
-      "url": "https://www.tanjug.rs/sport/fudbal/250903/srpski-fudbaler-strahinja-pavlovic-strelac-u-porazu-milana-od-atalante/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 05. 2026. у 23:19",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Pari Sen Žermena minimalno pobedili Brest i praktično odbranili titulu",
-      "url": "https://www.tanjug.rs/sport/fudbal/250901/fudbaleri-pari-sen-zermena-minimalno-pobedili-brest-i-prakticno-odbranili-titulu/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 05. 2026. у 23:16",
-      "slika": null
-    },
-    {
-      "naslov": "El klasiko uživo u Novom Sadu, sa mladim fudbalerima meč prate Mićin i ambasador Aparisio",
-      "url": "https://www.tanjug.rs/sport/fudbal/250895/el-klasiko-uzivo-u-novom-sadu-sa-mladim-fudbalerima-mec-prate-micin-i-ambasador-aparisio/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 05. 2026. у 22:15",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan – Ajaks 8:2",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232199/veterani-partizana-bolji-od-ajaksa-82/vest",
+      "naslov": "Zbiljić &quot;zapretio&quot; Zvezdi: &quot;Kada osvojimo trofej...&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232296/zbiljic-zna-koji-je-glavni-adut-vojvodine-u-finalu-mislim-da-je-svima-jasno/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 05. 2026. у 22:18",
+      "datum": "11. 05. 2026. у 13:08",
       "slika": null
     },
     {
-      "naslov": "Kec u Nišu! Mustafa u 90+1&#039; za delirijum Čaira – TSC &quot;šesticom&quot; ka opstanku",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232194/kec-u-nisu-mustafa-u-901-za-delirijum-caira-tsc-sesticom-ka-opstanku/vest",
+      "naslov": "&quot;Ovde je sada uživanje biti igrač, a sve zahvaljujući dobrom stanju u državi&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232333/lalatovic-zvezdini-igraci-imaju-primanja-kao-da-igraju-u-barseloni/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 05. 2026. у 20:25",
+      "datum": "11. 05. 2026. у 12:42",
       "slika": null
     }
   ]
