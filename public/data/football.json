@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-11T04:35:04.248119+00:00",
-  "azurirano_sr": "11. 05. 2026. у 06:35",
+  "azurirano": "2026-05-11T08:02:35.455813+00:00",
+  "azurirano_sr": "11. 05. 2026. у 10:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "LUDI TIKET, ponedeljak, 359.339 dinara: Prijatelj fudbala nagrađen zbog golova",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-ponedeljak-359339-dinara-prijatelj-fudbala-nagraen-zbog-golova/543502",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 05. 2026. у 11:06",
+      "slika": null
+    },
     {
       "naslov": "Barsa silnim fudbalom stavila pečat na titulu i Realov horor od sezone",
       "url": "https://www.mozzartsport.com/fudbal/vesti/barsa-silnim-fudbalom-stavila-pecat-na-titulu-i-realov-horor-od-sezone/543490",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/var-odluka-za-olujno-nevreme-u-engleskom-fudbalu-sudija-ponistio-gol-protiv-arsenala-u-905/543469",
       "izvor": "Мозарт Спорт",
       "datum": "10. 05. 2026. у 21:38",
-      "slika": null
-    },
-    {
-      "naslov": "AZ Alkmar i Groningen zovu Milana Vukotića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/az-alkmar-i-groningen-zovu-milana-vukotica/543454",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 05. 2026. у 18:06",
       "slika": null
     },
     {
