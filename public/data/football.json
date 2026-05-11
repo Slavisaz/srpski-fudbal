@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-11T11:33:16.261077+00:00",
-  "azurirano_sr": "11. 05. 2026. у 13:33",
+  "azurirano": "2026-05-11T14:04:09.893716+00:00",
+  "azurirano_sr": "11. 05. 2026. у 16:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Bravo, Barbarez: Nema skrivanja, zna se ko ide na Mundijal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bravo-barbarez-nema-skrivanja-zna-se-ko-ide-na-mundijal/543542",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 05. 2026. у 17:11",
+      "slika": null
+    },
+    {
+      "naslov": "Real kuka na sudije: Kad je nešto na našu štetu onda se emituju lepi panoramski snimci",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/real-kuka-na-sudije-kad-je-nesto-na-nasu-stetu-onda-se-emituju-lepi-panoramski-snimci/543534",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 05. 2026. у 15:35",
+      "slika": null
+    },
     {
       "naslov": "Dok čeka kaznu, Cvetković dobio priznanje: Jesam ga isprovocirao",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dok-ceka-kaznu-cvetkovic-dobio-priznanje-jesam-ga-isprovocirao/543526",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Pavle Ilić sudi finale Kupa Srbije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pavle-ilic-sudi-finale-kupa-srbije/543517",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 05. 2026. у 12:28",
+      "naslov": "Barbarez objavio spisak fudbalera BiH za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/251023/barbarez-objavio-spisak-fudbalera-bih-za-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 05. 2026. у 15:00",
       "slika": null
     },
     {
-      "naslov": "Zbiljić pred finale Mozzart Bet Kupa: Tanjga je naša prednost protiv Zvezde",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zbiljic-pred-finale-mozzart-bet-kupa-tanjga-je-nasa-prednost-protiv-zvezde/543513",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 05. 2026. у 12:06",
+      "naslov": "Arbeloa: Razumemo razočarenje i nezadovoljstvo navijača ovom sezonom",
+      "url": "https://www.tanjug.rs/sport/fudbal/251016/arbeloa-razumemo-razocarenje-i-nezadovoljstvo-navijaca-ovom-sezonom/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 05. 2026. у 14:36",
+      "slika": null
+    },
+    {
+      "naslov": "Marko Nikolić: Ovo je jedan od najsrećnijih trenutaka moje karijere",
+      "url": "https://www.tanjug.rs/sport/fudbal/250980/marko-nikolic-ovo-je-jedan-od-najsrecnijih-trenutaka-moje-karijere/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 05. 2026. у 12:47",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/250956/pavle-ilic-bice-glavni-sudija-finala-kupa-srbije-izmedu-fudbalera-zvezde-i-vojvodine/vest",
       "izvor": "Танјуг",
       "datum": "11. 05. 2026. у 11:15",
-      "slika": null
-    },
-    {
-      "naslov": "Hansi Flik: Nije bilo lako protiv Reala, ponosan sam na sve u klubu",
-      "url": "https://www.tanjug.rs/sport/fudbal/250955/hansi-flik-nije-bilo-lako-protiv-reala-ponosan-sam-na-sve-u-klubu/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 05. 2026. у 11:11",
-      "slika": null
-    },
-    {
-      "naslov": "Dragoljub Zbiljić: Vreme je za trofeje, iskorak u Evropi i velike stvari",
-      "url": "https://www.tanjug.rs/sport/fudbal/250944/dragoljub-zbiljic-vreme-je-za-trofeje-iskorak-u-evropi-i-velike-stvari/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 05. 2026. у 10:20",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Barselone pobedili Real, odbranili pehar i osvojili 29. titulu prvaka",
-      "url": "https://www.tanjug.rs/sport/fudbal/250904/fudbaleri-barselone-pobedili-real-odbranili-pehar-i-osvojili-29-titulu-prvaka/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 05. 2026. у 23:20",
       "slika": null
     },
     {
