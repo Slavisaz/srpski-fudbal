@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-12T14:47:02.945185+00:00",
-  "azurirano_sr": "12. 05. 2026. у 16:47",
+  "azurirano": "2026-05-12T16:57:43.734576+00:00",
+  "azurirano_sr": "12. 05. 2026. у 18:57",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Stanković pred finale kupa: Manćini, Siniša i Erikson su govorili - takve utakmice ne smeju da bole",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-pred-finale-kupa-mancini-sinisa-i-erikson-su-govorili-takve-utakmice-ne-smeju-da-bole/543622",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 05. 2026. у 20:18",
+      "slika": null
+    },
+    {
+      "naslov": "Poznato 49 od 55 imena na širem spisku Brazila! Tu su Nejmar i Tijago Silva",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/poznato-49-od-55-imena-na-sirem-spisku-brazila-tu-su-nejmar-i-tijago-silva/543620",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 05. 2026. у 19:53",
+      "slika": null
+    },
     {
       "naslov": "Bojan Šaranov za Mozzart Sport: Koković ostaje u Železničaru, Milikić i Džasper najtraženiji",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bojan-saranov-za-mozzart-sport-kokovic-ostaje-u-zeleznicaru-milikic-i-dzasper-najtrazeniji/543605",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Srbija na istorijskom minimumu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-na-istorijskom-minimumu/543582",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 05. 2026. у 13:36",
+      "naslov": "Dejan Stanković: Finala se ne igraju, finala se pobeđuju",
+      "url": "https://www.tanjug.rs/sport/fudbal/251392/dejan-stankovic-finala-se-ne-igraju-finala-se-pobeduju/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 05. 2026. у 17:57",
       "slika": null
     },
     {
-      "naslov": "Betisove muke s defanzivcima, ali Liga šampiona zove",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/betisove-muke-s-defanzivcima-ali-liga-sampiona-zove/543589",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 05. 2026. у 12:43",
+      "naslov": "FK Crvena zvezda: Besplatan ulaz na proslavu 37. šampionske titule",
+      "url": "https://www.tanjug.rs/sport/fudbal/251384/fk-crvena-zvezda-besplatan-ulaz-na-proslavu-37-sampionske-titule/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 05. 2026. у 17:35",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Totenhemu samo bod protiv Lidsa, borba za opstanak do poslednjeg kola",
-      "url": "https://www.tanjug.rs/sport/fudbal/251149/totenhemu-samo-bod-protiv-lidsa-borba-za-opstanak-do-poslednjeg-kola/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 05. 2026. у 23:14",
-      "slika": null
-    },
-    {
-      "naslov": "Evropska elita školskog futsala u Republici Srpskoj: Prijem povodom početka Evropskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/251125/evropska-elita-skolskog-futsala-u-republici-srpskoj-prijem-povodom-pocetka-evropskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 05. 2026. у 21:13",
+      "naslov": "Stanković: &quot;Finale se ne igra, nego pobeđuje&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232760/trener-crvene-zvezde-dejan-stankovic-pred-finale-kupa-protiv-vojvodine/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 05. 2026. у 18:14",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232578/petar-petrovic-iz-javora-na-meti-bresta/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 05. 2026. у 13:42",
-      "slika": null
-    },
-    {
-      "naslov": "Crvena zvezda se oprostila od legendarnog Vladimira Cvetkovića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232638/crvena-zvezda-se-oprostila-od-legendarnog-vladimira-cvetkovica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 05. 2026. у 13:14",
       "slika": null
     }
   ]
