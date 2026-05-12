@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-05-12T07:33:08.011418+00:00",
-  "azurirano_sr": "12. 05. 2026. у 09:33",
+  "azurirano": "2026-05-12T10:07:44.786974+00:00",
+  "azurirano_sr": "12. 05. 2026. у 12:07",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbija na istorijskom minimumu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-na-istorijskom-minimumu/543582",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 05. 2026. у 13:36",
+      "slika": null
+    },
+    {
+      "naslov": "Betisove muke s defanzivcima, ali Liga šampiona zove",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/betisove-muke-s-defanzivcima-ali-liga-sampiona-zove/543589",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 05. 2026. у 12:43",
+      "slika": null
+    },
+    {
+      "naslov": "Stanković ima dilemu samo na levom boku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-ima-dilemu-samo-na-levom-boku/543587",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 05. 2026. у 11:53",
+      "slika": null
+    },
     {
       "naslov": "Ulaznice za finale Mozzart Bet Kupa Srbije 600 i 1.200 dinara",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ulaznice-za-finale-mozzart-bet-kupa-srbije-600-i-1200-dinara/543581",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbalski sistem za reciklažu: Što je kod Engleza škart, u Italiji markirana roba",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalski-sistem-za-reciklazu-sto-je-kod-engleza-skart-u-italiji-markirana-roba/543547",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 05. 2026. у 10:56",
-      "slika": null
-    },
-    {
-      "naslov": "Raport sa srpskoligaških terena: Jedina dilema u Vojvodini, Naftagas čeka još tri boda i – licencu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-jedina-dilema-u-vojvodini-naftagas-ceka-jos-tri-boda-i-licencu/543580",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 05. 2026. у 10:34",
-      "slika": null
-    },
-    {
-      "naslov": "Lalatović: Slali su 20 mejlova i lagali da sam uhapšen, samo da mi pokvare transfer u Saudijsku Arabiju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lalatovic-slali-su-20-mejlova-i-lagali-da-sam-uhapsen-samo-da-mi-pokvare-transfer-u-saudijsku-arabiju/543543",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 05. 2026. у 10:29",
+      "naslov": "Održana komemoracija Vladimiru Cvetkoviću, Zvezdina porodica se oprostila od legende",
+      "url": "https://www.tanjug.rs/sport/fudbal/251243/odrzana-komemoracija-vladimiru-cvetkovicu-zvezdina-porodica-se-oprostila-od-legende/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 05. 2026. у 11:40",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Lionel Skaloni odredio širi spisak fudbalera Argentine za Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/251074/lionel-skaloni-odredio-siri-spisak-fudbalera-argentine-za-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 05. 2026. у 17:17",
+      "naslov": "Partizanu zanimljiv Ukrajinac iz Kazahstana VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232592/partizan-zeli-ukrajinca-iz-kazahstana/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 05. 2026. у 10:33",
       "slika": null
     },
     {
-      "naslov": "Afrikanac velika želja Zvezde – cena preko 2.000.000 evra VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232557/crvena-zvezda-hoce-afrikanca-iz-rusije/vest",
+      "naslov": "Finale Kupa pred 8.000 ljudi – karte 600 i 1.200 dinara",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232582/cene-karata-za-finale-kupa-srbije-u-fudbalu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 05. 2026. у 09:05",
-      "slika": null
-    },
-    {
-      "naslov": "Tanjga se prisetio prošlogodišnjeg finala: &quot;Navijači su morali da budu provereni na ulazu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232498/konferencija-miroslava-tanjge-pred-finala-kupa-srbije-izmedju-crvene-zvezde-i-vojvodine/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "11. 05. 2026. у 20:30",
+      "datum": "12. 05. 2026. у 09:55",
       "slika": null
     }
   ]
