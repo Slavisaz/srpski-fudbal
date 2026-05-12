@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-12T10:07:44.786974+00:00",
-  "azurirano_sr": "12. 05. 2026. у 12:07",
+  "azurirano": "2026-05-12T12:07:53.598063+00:00",
+  "azurirano_sr": "12. 05. 2026. у 14:07",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Bolje da izgubim od novinara 1:0 nego da ga pobedim 10:9; da sam ispunjavao želje, Hrvatska ništa ne bi uradila",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bolje-da-izgubim-od-novinara-10-nego-da-ga-pobedim-109-da-sam-ispunjavao-zelje-hrvatska-nista-ne-bi-uradila/543597",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 05. 2026. у 15:08",
+      "slika": null
+    },
     {
       "naslov": "Srbija na istorijskom minimumu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-na-istorijskom-minimumu/543582",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Ulaznice za finale Mozzart Bet Kupa Srbije 600 i 1.200 dinara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ulaznice-za-finale-mozzart-bet-kupa-srbije-600-i-1200-dinara/543581",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 05. 2026. у 11:04",
+      "naslov": "De la Fuente: Jamal, Niko Vilijams i Merino spremni za početak Svetskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/251298/de-la-fuente-jamal-niko-vilijams-i-merino-spremni-za-pocetak-svetskog-prvenstva/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 05. 2026. у 13:55",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Tanjga i Crnomarković: Srce, želja i borba donose trofej Kupa u Novi Sad",
-      "url": "https://www.tanjug.rs/sport/fudbal/251116/tanjga-i-crnomarkovic-srce-zelja-i-borba-donose-trofej-kupa-u-novi-sad/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 05. 2026. у 20:27",
+      "naslov": "Sve duži red za Javorov bedem – i Francuzi ušli u trku",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232578/petar-petrovic-iz-javora-na-meti-bresta/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 05. 2026. у 13:42",
       "slika": null
     },
     {
-      "naslov": "Partizanu zanimljiv Ukrajinac iz Kazahstana VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232592/partizan-zeli-ukrajinca-iz-kazahstana/vest",
+      "naslov": "Crvena zvezda se oprostila od legendarnog Vladimira Cvetkovića",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232638/crvena-zvezda-se-oprostila-od-legendarnog-vladimira-cvetkovica/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 05. 2026. у 10:33",
-      "slika": null
-    },
-    {
-      "naslov": "Finale Kupa pred 8.000 ljudi – karte 600 i 1.200 dinara",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232582/cene-karata-za-finale-kupa-srbije-u-fudbalu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 05. 2026. у 09:55",
+      "datum": "12. 05. 2026. у 13:14",
       "slika": null
     }
   ]
