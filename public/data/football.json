@@ -1,11 +1,18 @@
 {
-  "azurirano": "2026-05-12T12:07:53.598063+00:00",
-  "azurirano_sr": "12. 05. 2026. у 14:07",
+  "azurirano": "2026-05-12T14:47:02.945185+00:00",
+  "azurirano_sr": "12. 05. 2026. у 16:47",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Bolje da izgubim od novinara 1:0 nego da ga pobedim 10:9; da sam ispunjavao želje, Hrvatska ništa ne bi uradila",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bolje-da-izgubim-od-novinara-10-nego-da-ga-pobedim-109-da-sam-ispunjavao-zelje-hrvatska-nista-ne-bi-uradila/543597",
+      "naslov": "Bojan Šaranov za Mozzart Sport: Koković ostaje u Železničaru, Milikić i Džasper najtraženiji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bojan-saranov-za-mozzart-sport-kokovic-ostaje-u-zeleznicaru-milikic-i-dzasper-najtrazeniji/543605",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 05. 2026. у 18:29",
+      "slika": null
+    },
+    {
+      "naslov": "Bolje da izgubim od novinara 0:1 nego da ga pobedim 10:9; da sam ispunjavao želje, Hrvatska ništa ne bi uradila",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bolje-da-izgubim-od-novinara-01-nego-da-ga-pobedim-109-da-sam-ispunjavao-zelje-hrvatska-nista-ne-bi-uradila/543597",
       "izvor": "Мозарт Спорт",
       "datum": "12. 05. 2026. у 15:08",
       "slika": null
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/betisove-muke-s-defanzivcima-ali-liga-sampiona-zove/543589",
       "izvor": "Мозарт Спорт",
       "datum": "12. 05. 2026. у 12:43",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković ima dilemu samo na levom boku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-ima-dilemu-samo-na-levom-boku/543587",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 05. 2026. у 11:53",
       "slika": null
     },
     {
