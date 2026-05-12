@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-12T16:57:43.734576+00:00",
-  "azurirano_sr": "12. 05. 2026. у 18:57",
+  "azurirano": "2026-05-12T18:53:38.509248+00:00",
+  "azurirano_sr": "12. 05. 2026. у 20:53",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -8,13 +8,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-pred-finale-kupa-mancini-sinisa-i-erikson-su-govorili-takve-utakmice-ne-smeju-da-bole/543622",
       "izvor": "Мозарт Спорт",
       "datum": "12. 05. 2026. у 20:18",
-      "slika": null
-    },
-    {
-      "naslov": "Poznato 49 od 55 imena na širem spisku Brazila! Tu su Nejmar i Tijago Silva",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/poznato-49-od-55-imena-na-sirem-spisku-brazila-tu-su-nejmar-i-tijago-silva/543620",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 05. 2026. у 19:53",
       "slika": null
     },
     {
@@ -29,6 +22,13 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/bolje-da-izgubim-od-novinara-01-nego-da-ga-pobedim-109-da-sam-ispunjavao-zelje-hrvatska-nista-ne-bi-uradila/543597",
       "izvor": "Мозарт Спорт",
       "datum": "12. 05. 2026. у 15:08",
+      "slika": null
+    },
+    {
+      "naslov": "Srbija na istorijskom minimumu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-na-istorijskom-minimumu/543582",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 05. 2026. у 13:36",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Zvezda zove na proslavu titule",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232775/fk-crvena-zvezda-besplatan-ulaz-na-proslavi-37-sampionske-titule/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 05. 2026. у 19:00",
+      "slika": null
+    },
+    {
       "naslov": "Stanković: &quot;Finale se ne igra, nego pobeđuje&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232760/trener-crvene-zvezde-dejan-stankovic-pred-finale-kupa-protiv-vojvodine/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 05. 2026. у 18:14",
-      "slika": null
-    },
-    {
-      "naslov": "Sve duži red za Javorov bedem – i Francuzi ušli u trku",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232578/petar-petrovic-iz-javora-na-meti-bresta/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 05. 2026. у 13:42",
       "slika": null
     }
   ]
