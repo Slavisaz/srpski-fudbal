@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-12T21:44:20.944832+00:00",
-  "azurirano_sr": "12. 05. 2026. у 23:44",
+  "azurirano": "2026-05-12T22:45:57.831256+00:00",
+  "azurirano_sr": "13. 05. 2026. у 00:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Bizarno, srećno i vredno finala baraža za Premijer ligu: Sautemtponu poklon sa neba za put na Vembli",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bizarno-srecno-i-vredno-finala-baraza-za-premijer-ligu-sautemtponu-poklon-sa-neba-za-put-na-vembli/543640",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 05. 2026. у 01:48",
+      "slika": null
+    },
     {
       "naslov": "Stanković pred finale kupa: Manćini, Siniša i Erikson su govorili - takve utakmice ne smeju da bole",
       "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-pred-finale-kupa-mancini-sinisa-i-erikson-su-govorili-takve-utakmice-ne-smeju-da-bole/543622",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Srbija na istorijskom minimumu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-na-istorijskom-minimumu/543582",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 05. 2026. у 13:36",
+      "naslov": "Florentino Perez raspisao izbore u Real Madridu, kandiduje se za novi mandat",
+      "url": "https://www.tanjug.rs/sport/fudbal/251464/florentino-perez-raspisao-izbore-u-real-madridu-kandiduje-se-za-novi-mandat/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 05. 2026. у 00:15",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/251384/fk-crvena-zvezda-besplatan-ulaz-na-proslavu-37-sampionske-titule/vest",
       "izvor": "Танјуг",
       "datum": "12. 05. 2026. у 17:35",
-      "slika": null
-    },
-    {
-      "naslov": "De la Fuente: Jamal, Niko Vilijams i Merino spremni za početak Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/251298/de-la-fuente-jamal-niko-vilijams-i-merino-spremni-za-pocetak-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 05. 2026. у 13:55",
       "slika": null
     },
     {
