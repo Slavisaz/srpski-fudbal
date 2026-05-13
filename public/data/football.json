@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-13T12:30:33.969873+00:00",
-  "azurirano_sr": "13. 05. 2026. у 14:30",
+  "azurirano": "2026-05-13T15:24:55.221439+00:00",
+  "azurirano_sr": "13. 05. 2026. у 17:24",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Košarkaški klub Budućnost ne želi da igra u Dubaiju utakmice polufinala ABA lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/251615/kosarkaski-klub-buducnost-ne-zeli-da-igra-u-dubaiju-utakmice-polufinala-aba-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 05. 2026. у 14:54",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Crvene zvezde i Vojvodine večeras u Loznici igraju finale Kupa Srbije",
       "url": "https://www.tanjug.rs/sport/fudbal/251513/fudbaleri-crvene-zvezde-i-vojvodine-veceras-u-loznici-igraju-finale-kupa-srbije/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Dejan Stanković: Finala se ne igraju, finala se pobeđuju",
-      "url": "https://www.tanjug.rs/sport/fudbal/251392/dejan-stankovic-finala-se-ne-igraju-finala-se-pobeduju/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 05. 2026. у 17:57",
+      "naslov": "Zašto Partizan &quot;navija&quot; za Zvezdu u finalu Kupa?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233069/partizanu-odgovara-da-crvena-zvezda-osvoji-kup-protiv-vojvodine/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 05. 2026. у 17:04",
       "slika": null
     },
     {
-      "naslov": "Izraelci otkrili Abu Fanijevu platu u Zvezdi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232893/koliko-ce-izraelac-zaradjivati-u-crvenoj-zvezdi/vest",
+      "naslov": "Paunović na UEFA licenci: Ispričao anegdotu, a onda se javio akter iz publike",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233054/veljko-paunovic-podelio-znanja-i-iskustva-sa-polaznicima-uefa-licence/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "13. 05. 2026. у 09:36",
-      "slika": null
-    },
-    {
-      "naslov": "Nedodirljiva Zvezda ili Vošin početak trofejne ere?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232867/najava-finala-kupa-srbije-izmedju-crvene-zvezde-i-vojvodine/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 05. 2026. у 09:24",
+      "datum": "13. 05. 2026. у 16:24",
       "slika": null
     }
   ]
