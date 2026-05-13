@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-05-13T08:08:47.555369+00:00",
-  "azurirano_sr": "13. 05. 2026. у 10:08",
+  "azurirano": "2026-05-13T10:40:04.641529+00:00",
+  "azurirano_sr": "13. 05. 2026. у 12:40",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "I Partizan zainteresovan za ishod finala Kupa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/i-partizan-zainteresovan-za-ishod-finala-kupa/543654",
+      "naslov": "Sve manje srpskih fudbalera u inostranstvu, Hrvata sve više",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sve-manje-srpskih-fudbalera-u-inostranstvu-hrvata-sve-vise/543669",
       "izvor": "Мозарт Спорт",
-      "datum": "13. 05. 2026. у 11:36",
+      "datum": "13. 05. 2026. у 14:00",
       "slika": null
     },
     {
-      "naslov": "Zvezda ima samo jedan cilj – da se izjednači sa sovjetskim simbolom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-ima-samo-jedan-cilj-da-se-izjednaci-sa-sovjetskim-simbolom/543617",
+      "naslov": "Španac podgrejao atmosferu pred finale u Osijeku: U dve utakmice na Maksimiru smo oštećeni",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/spanac-podgrejao-atmosferu-pred-finale-u-osijeku-u-dve-utakmice-na-maksimiru-smo-osteceni/543667",
       "izvor": "Мозарт Спорт",
-      "datum": "13. 05. 2026. у 10:00",
+      "datum": "13. 05. 2026. у 13:26",
       "slika": null
     },
     {
-      "naslov": "Bizarno, srećno i vredno finala baraža za Premijer ligu: Sautemtponu poklon sa neba za put na Vembli",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bizarno-srecno-i-vredno-finala-baraza-za-premijer-ligu-sautemtponu-poklon-sa-neba-za-put-na-vembli/543640",
+      "naslov": "PREDLOZZI I TIPOVANJA (sreda): Svaka čast Voši, ali Zvezda uzima i Kup",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/predlozzi-i-tipovanja-sreda-svaka-cast-vosi-ali-zvezda-uzima-i-kup/543670",
       "izvor": "Мозарт Спорт",
-      "datum": "13. 05. 2026. у 01:48",
+      "datum": "13. 05. 2026. у 13:19",
       "slika": null
     },
     {
-      "naslov": "Stanković pred finale kupa: Manćini, Siniša i Erikson su govorili - takve utakmice ne smeju da bole",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-pred-finale-kupa-mancini-sinisa-i-erikson-su-govorili-takve-utakmice-ne-smeju-da-bole/543622",
+      "naslov": "Pobeda Zvezde u Loznici najviše na svetu vredi u Mozzartu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pobeda-zvezde-u-loznici-najvise-na-svetu-vredi-u-mozzartu/543662",
       "izvor": "Мозарт Спорт",
-      "datum": "12. 05. 2026. у 20:18",
+      "datum": "13. 05. 2026. у 12:33",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Crvene zvezde i Vojvodine večeras u Loznici igraju finale Kupa Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/251513/fudbaleri-crvene-zvezde-i-vojvodine-veceras-u-loznici-igraju-finale-kupa-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 05. 2026. у 10:04",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/251392/dejan-stankovic-finala-se-ne-igraju-finala-se-pobeduju/vest",
       "izvor": "Танјуг",
       "datum": "12. 05. 2026. у 17:57",
-      "slika": null
-    },
-    {
-      "naslov": "FK Crvena zvezda: Besplatan ulaz na proslavu 37. šampionske titule",
-      "url": "https://www.tanjug.rs/sport/fudbal/251384/fk-crvena-zvezda-besplatan-ulaz-na-proslavu-37-sampionske-titule/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 05. 2026. у 17:35",
       "slika": null
     },
     {
