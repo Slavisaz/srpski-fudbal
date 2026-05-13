@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-13T19:18:24.237102+00:00",
-  "azurirano_sr": "13. 05. 2026. у 21:18",
+  "azurirano": "2026-05-13T20:57:30.249429+00:00",
+  "azurirano_sr": "13. 05. 2026. у 22:57",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbin nosi trofej u rumunski Detroit: Osvojili su kup, a za četiri dana mogu i titulu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-nosi-trofej-u-rumunski-detroit-osvojili-su-kup-a-za-cetiri-dana-mogu-i-titulu/543718",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 05. 2026. у 00:14",
+      "slika": null
+    },
     {
       "naslov": "Dva prekida, dva crvena, promašen penal i jedan junak: Unikatni Nemanja Bilbija podigao 13 pehara u BiH",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dva-prekida-dva-crvena-promasen-penal-i-jedan-junak-unikatni-nemanja-bilbija-podigao-13-pehara-u-bih/543712",
@@ -18,17 +25,17 @@
       "slika": null
     },
     {
-      "naslov": "UŽIVO: Crvena zvezda – Vojvodina 0:1; Sič posle 70 sekundi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-crvena-zvezda-vojvodina-01-sic-posle-70-sekundi/543706",
+      "naslov": "UŽIVO: Crvena zvezda – Vojvodina 2:2, Rodrigao u 90+5!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-crvena-zvezda-vojvodina-22-rodrigao-u-905/543706",
       "izvor": "Мозарт Спорт",
       "datum": "13. 05. 2026. у 20:48",
       "slika": null
     },
     {
-      "naslov": "Da li je Realu ukradeno sedam titula? Da, naravno! Standardi su dvostruki, plaćaju sudije…",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/da-li-je-realu-ukradeno-sedam-titula-da-naravno-standardi-su-dvostruki-placaju-sudije/543699",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 05. 2026. у 19:23",
+      "naslov": "Zvezda u 90+6. minutu izborila produžetke protiv Vojvodine u finalu Kupa Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/251513/zvezda-u-906-minutu-izborila-produzetke-protiv-vojvodine-u-finalu-kupa-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 05. 2026. у 22:40",
       "slika": null
     },
     {
@@ -46,13 +53,6 @@
       "slika": null
     },
     {
-      "naslov": "Posle 30 minuta kašnjenja počelo finale Kupa Srbije između Crvene zvezde i Vojvodine",
-      "url": "https://www.tanjug.rs/sport/fudbal/251513/posle-30-minuta-kasnjenja-pocelo-finale-kupa-srbije-izmedu-crvene-zvezde-i-vojvodine/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 05. 2026. у 20:37",
-      "slika": null
-    },
-    {
       "naslov": "Preminuo nekadašnji fudbaler Crvene zvezde Selimir Milošević",
       "url": "https://www.tanjug.rs/sport/fudbal/251688/preminuo-nekadasnji-fudbaler-crvene-zvezde-selimir-milosevic/vest",
       "izvor": "Танјуг",
@@ -60,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Zvezda u ogromnom problemu – Vojvodina duplirala prednost!",
+      "naslov": "Produžeci u Loznici",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233085/uzivo-crvena-zvezda-vojvodina-finale-kupa-prenos-gde-gledati/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "13. 05. 2026. у 21:09",
+      "datum": "13. 05. 2026. у 22:39",
       "slika": null
     },
     {
