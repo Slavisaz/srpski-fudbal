@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-13T15:24:55.221439+00:00",
-  "azurirano_sr": "13. 05. 2026. у 17:24",
+  "azurirano": "2026-05-13T17:31:16.985333+00:00",
+  "azurirano_sr": "13. 05. 2026. у 19:31",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "SASTAVI: Crvena zvezda – Vojvodina; Duarte od starta, Vukanović napada 'svoje'",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sastavi-crvena-zvezda-vojvodina-duarte-od-starta-vukanovic-napada-svoje/543706",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 05. 2026. у 20:48",
+      "slika": null
+    },
+    {
+      "naslov": "Da li je Realu ukradeno sedam titula? Da, naravno! Standardi su dvostruki, plaćaju sudije…",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/da-li-je-realu-ukradeno-sedam-titula-da-naravno-standardi-su-dvostruki-placaju-sudije/543699",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 05. 2026. у 19:23",
+      "slika": null
+    },
     {
       "naslov": "O veličini Luisa Enrikea: Udario na Totija iako je znao da kopa sebi grob",
       "url": "https://www.mozzartsport.com/fudbal/vesti/o-velicini-luisa-enrikea-udario-na-totija-iako-je-znao-da-kopa-sebi-grob/543679",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Sve manje srpskih fudbalera u inostranstvu, Hrvata sve više",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sve-manje-srpskih-fudbalera-u-inostranstvu-hrvata-sve-vise/543669",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 05. 2026. у 14:00",
+      "naslov": "Preminuo nekadašnji fudbaler Crvene zvezde Selimir Milošević",
+      "url": "https://www.tanjug.rs/sport/fudbal/251688/preminuo-nekadasnji-fudbaler-crvene-zvezde-selimir-milosevic/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 05. 2026. у 19:07",
       "slika": null
     },
     {
-      "naslov": "Španac podgrejao atmosferu pred finale u Osijeku: U dve utakmice na Maksimiru smo oštećeni",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/spanac-podgrejao-atmosferu-pred-finale-u-osijeku-u-dve-utakmice-na-maksimiru-smo-osteceni/543667",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 05. 2026. у 13:26",
+      "naslov": "Dik Advokat ponovo selektor Kurasaa, postaće najstariji trener u istoriji svetskih prvenstava",
+      "url": "https://www.tanjug.rs/sport/fudbal/251660/dik-advokat-ponovo-selektor-kurasaa-postace-najstariji-trener-u-istoriji-svetskih-prvenstava/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 05. 2026. у 17:02",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Florentino Perez raspisao izbore u Real Madridu, kandiduje se za novi mandat",
-      "url": "https://www.tanjug.rs/sport/fudbal/251464/florentino-perez-raspisao-izbore-u-real-madridu-kandiduje-se-za-novi-mandat/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 05. 2026. у 00:15",
-      "slika": null
-    },
-    {
-      "naslov": "Al Nasr u 98. minutu derbija protiv Al Hilala, za sada, ostao bez titule",
-      "url": "https://www.tanjug.rs/sport/fudbal/251451/al-nasr-u-98-minutu-derbija-protiv-al-hilala-za-sada-ostao-bez-titule/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 05. 2026. у 22:36",
+      "naslov": "Vreme je za finale Kupa – poznati sastavi!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233085/uzivo-crvena-zvezda-vojvodina-finale-kupa-prenos-gde-gledati/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 05. 2026. у 18:47",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233069/partizanu-odgovara-da-crvena-zvezda-osvoji-kup-protiv-vojvodine/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "13. 05. 2026. у 17:04",
-      "slika": null
-    },
-    {
-      "naslov": "Paunović na UEFA licenci: Ispričao anegdotu, a onda se javio akter iz publike",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233054/veljko-paunovic-podelio-znanja-i-iskustva-sa-polaznicima-uefa-licence/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 05. 2026. у 16:24",
       "slika": null
     }
   ]
