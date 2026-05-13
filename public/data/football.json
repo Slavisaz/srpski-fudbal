@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-13T05:07:21.021666+00:00",
-  "azurirano_sr": "13. 05. 2026. у 07:07",
+  "azurirano": "2026-05-13T08:08:47.555369+00:00",
+  "azurirano_sr": "13. 05. 2026. у 10:08",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "I Partizan zainteresovan za ishod finala Kupa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/i-partizan-zainteresovan-za-ishod-finala-kupa/543654",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 05. 2026. у 11:36",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezda ima samo jedan cilj – da se izjednači sa sovjetskim simbolom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-ima-samo-jedan-cilj-da-se-izjednaci-sa-sovjetskim-simbolom/543617",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 05. 2026. у 10:00",
+      "slika": null
+    },
     {
       "naslov": "Bizarno, srećno i vredno finala baraža za Premijer ligu: Sautemtponu poklon sa neba za put na Vembli",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bizarno-srecno-i-vredno-finala-baraza-za-premijer-ligu-sautemtponu-poklon-sa-neba-za-put-na-vembli/543640",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-pred-finale-kupa-mancini-sinisa-i-erikson-su-govorili-takve-utakmice-ne-smeju-da-bole/543622",
       "izvor": "Мозарт Спорт",
       "datum": "12. 05. 2026. у 20:18",
-      "slika": null
-    },
-    {
-      "naslov": "Bojan Šaranov za Mozzart Sport: Koković ostaje u Železničaru, Milikić i Džasper najtraženiji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bojan-saranov-za-mozzart-sport-kokovic-ostaje-u-zeleznicaru-milikic-i-dzasper-najtrazeniji/543605",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 05. 2026. у 18:29",
-      "slika": null
-    },
-    {
-      "naslov": "Bolje da izgubim od novinara 0:1 nego da ga pobedim 10:9; da sam ispunjavao želje, Hrvatska ništa ne bi uradila",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bolje-da-izgubim-od-novinara-01-nego-da-ga-pobedim-109-da-sam-ispunjavao-zelje-hrvatska-nista-ne-bi-uradila/543597",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 05. 2026. у 15:08",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Zvezda zove na proslavu titule",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232775/fk-crvena-zvezda-besplatan-ulaz-na-proslavi-37-sampionske-titule/vest",
+      "naslov": "Izraelci otkrili Abu Fanijevu platu u Zvezdi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232893/koliko-ce-izraelac-zaradjivati-u-crvenoj-zvezdi/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 05. 2026. у 19:00",
+      "datum": "13. 05. 2026. у 09:36",
       "slika": null
     },
     {
-      "naslov": "Stanković: &quot;Finale se ne igra, nego pobeđuje&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232760/trener-crvene-zvezde-dejan-stankovic-pred-finale-kupa-protiv-vojvodine/vest",
+      "naslov": "Nedodirljiva Zvezda ili Vošin početak trofejne ere?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/232867/najava-finala-kupa-srbije-izmedju-crvene-zvezde-i-vojvodine/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 05. 2026. у 18:14",
+      "datum": "13. 05. 2026. у 09:24",
       "slika": null
     }
   ]
