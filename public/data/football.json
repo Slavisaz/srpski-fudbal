@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-13T20:57:30.249429+00:00",
-  "azurirano_sr": "13. 05. 2026. у 22:57",
+  "azurirano": "2026-05-13T22:06:51.882847+00:00",
+  "azurirano_sr": "14. 05. 2026. у 00:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Korporativno i hladno - podrazumevajuće: PSŽ potvrdio monopol i okončao \"krvavo-zlatni\" san",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/korporativno-i-hladno-podrazumevajuce-psz-potvrdio-monopol-i-okoncao-krvavozlatni-san/543714",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 05. 2026. у 01:04",
+      "slika": null
+    },
     {
       "naslov": "Srbin nosi trofej u rumunski Detroit: Osvojili su kup, a za četiri dana mogu i titulu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-nosi-trofej-u-rumunski-detroit-osvojili-su-kup-a-za-cetiri-dana-mogu-i-titulu/543718",
@@ -25,52 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "UŽIVO: Crvena zvezda – Vojvodina 2:2, Rodrigao u 90+5!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-crvena-zvezda-vojvodina-22-rodrigao-u-905/543706",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 05. 2026. у 20:48",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda u 90+6. minutu izborila produžetke protiv Vojvodine u finalu Kupa Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/251513/zvezda-u-906-minutu-izborila-produzetke-protiv-vojvodine-u-finalu-kupa-srbije/vest",
+      "naslov": "Fudbaleri Crvene zvezde posle penala pobedili Vojvodinu za 30. trofej u Kupu Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/251513/fudbaleri-crvene-zvezde-posle-penala-pobedili-vojvodinu-za-30-trofej-u-kupu-srbije/vest",
       "izvor": "Танјуг",
-      "datum": "13. 05. 2026. у 22:40",
+      "datum": "13. 05. 2026. у 23:43",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Dinama iz Zagreba osvojili Kup Hrvatske",
-      "url": "https://www.tanjug.rs/sport/fudbal/251713/fudbaleri-dinama-iz-zagreba-osvojili-kup-hrvatske/vest",
+      "naslov": "Fudbaleri Alavesa savladali Barselonu u španskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/251742/fudbaleri-alavesa-savladali-barselonu-u-spanskom-prvenstvu/vest",
       "izvor": "Танјуг",
-      "datum": "13. 05. 2026. у 20:54",
+      "datum": "13. 05. 2026. у 23:39",
       "slika": null
     },
     {
-      "naslov": "Luka Jović strelac, Živković asistent u remiju fudbalera PAOK-a i AEK-a u grčkom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/251712/luka-jovic-strelac-zivkovic-asistent-u-remiju-fudbalera-paok-a-i-aek-a-u-grckom-prvenstvu/vest",
+      "naslov": "Fudbaleri Pari Sen Žermena osvojili 14. titulu šampiona Francuske",
+      "url": "https://www.tanjug.rs/sport/fudbal/251738/fudbaleri-pari-sen-zermena-osvojili-14-titulu-sampiona-francuske/vest",
       "izvor": "Танјуг",
-      "datum": "13. 05. 2026. у 20:53",
+      "datum": "13. 05. 2026. у 23:07",
       "slika": null
     },
     {
-      "naslov": "Preminuo nekadašnji fudbaler Crvene zvezde Selimir Milošević",
-      "url": "https://www.tanjug.rs/sport/fudbal/251688/preminuo-nekadasnji-fudbaler-crvene-zvezde-selimir-milosevic/vest",
+      "naslov": "Fudbaleri Intera savladali Lacio i 10. put osvojili Kup Italije",
+      "url": "https://www.tanjug.rs/sport/fudbal/251737/fudbaleri-intera-savladali-lacio-i-10-put-osvojili-kup-italije/vest",
       "izvor": "Танјуг",
-      "datum": "13. 05. 2026. у 19:07",
+      "datum": "13. 05. 2026. у 23:06",
       "slika": null
     },
     {
-      "naslov": "Produžeci u Loznici",
+      "naslov": "Zvezda osvojila Kup – haos posle utakmice, oglasio se Stanković VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233085/uzivo-crvena-zvezda-vojvodina-finale-kupa-prenos-gde-gledati/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "13. 05. 2026. у 22:39",
+      "datum": "13. 05. 2026. у 23:54",
       "slika": null
     },
     {
-      "naslov": "Nemile scene u Loznici: Tuča navijača Zvezde i policije VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233115/tuca-delija-i-policije-pred-zvezda-vojvodina-u-finalu-kupa-video/vest",
+      "naslov": "Opšti haos na kraju finala Kupa – pogledajte tuču na &quot;Lagatoru&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233145/tuca-igraca-vojvodine-i-crvene-zvezde-po-zavrsetku-finala-kupa/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "13. 05. 2026. у 20:08",
+      "datum": "13. 05. 2026. у 23:50",
       "slika": null
     }
   ]
