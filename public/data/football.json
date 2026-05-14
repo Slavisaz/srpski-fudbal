@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-14T04:14:14.492697+00:00",
-  "azurirano_sr": "14. 05. 2026. у 06:14",
+  "azurirano": "2026-05-14T07:22:04.673677+00:00",
+  "azurirano_sr": "14. 05. 2026. у 09:22",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (četvrtak, 14. maj): U Španiji gori za opstanak, igraju se finala kupova u Belgiji i Danskoj",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-cetvrtak-14-maj-u-spaniji-gori-za-opstanak-igraju-se-finala-kupova-u-belgiji-i-danskoj/543685",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 05. 2026. у 10:18",
+      "slika": null
+    },
     {
       "naslov": "Zasluženo smo osvojili Kup, sada idemo na zasluženi odmor",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zasluzeno-smo-osvojili-kup-sada-idemo-na-zasluzeni-odmor/543732",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-nosi-trofej-u-rumunski-detroit-osvojili-su-kup-a-za-cetiri-dana-mogu-i-titulu/543718",
       "izvor": "Мозарт Спорт",
       "datum": "14. 05. 2026. у 00:14",
-      "slika": null
-    },
-    {
-      "naslov": "Dva prekida, dva crvena, promašen penal i jedan junak: Unikatni Nemanja Bilbija podigao 13 pehara u BiH",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dva-prekida-dva-crvena-promasen-penal-i-jedan-junak-unikatni-nemanja-bilbija-podigao-13-pehara-u-bih/543712",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 05. 2026. у 22:25",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Zvezda osvojila Kup – haos posle utakmice, oglasio se Stanković; Tanjga &quot;udario&quot; na sudije VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233085/uzivo-crvena-zvezda-vojvodina-finale-kupa-prenos-gde-gledati/vest",
+      "naslov": "Handel: &quot;Pokazali smo neverovatan karakter – Stanković je verovao&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233159/tomas-handel-izjava-posle-finala-kupa-zvezda-vojvodina/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "14. 05. 2026. у 00:42",
+      "datum": "14. 05. 2026. у 08:35",
       "slika": null
     },
     {
-      "naslov": "Stanković &quot;iskopirao&quot; Murinja: &quot;Setio sam se kako je uveo Samjuela na špica&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233094/konferencija-trenera-crvene-zvezde-dejana-stankovica/vest",
+      "naslov": "Tuča igrača Zvezde i Vojvodine po završetku finala Kupa VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233145/fudbaleri-crvene-zvezde-i-vojvodine-potukli-se-po-zavrsetku-finala-kupa-video/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "14. 05. 2026. у 00:40",
+      "datum": "14. 05. 2026. у 07:45",
       "slika": null
     }
   ]
