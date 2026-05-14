@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-14T07:22:04.673677+00:00",
-  "azurirano_sr": "14. 05. 2026. у 09:22",
+  "azurirano": "2026-05-14T09:41:42.851581+00:00",
+  "azurirano_sr": "14. 05. 2026. у 11:41",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Cvetković ipak igra, Union i Anderleht se bore prvi put u finalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cvetkovic-ipak-igra-union-i-anderleht-se-bore-prvi-put-u-finalu/543760",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 05. 2026. у 13:20",
+      "slika": null
+    },
     {
       "naslov": "NAJAVA DANA (četvrtak, 14. maj): U Španiji gori za opstanak, igraju se finala kupova u Belgiji i Danskoj",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-cetvrtak-14-maj-u-spaniji-gori-za-opstanak-igraju-se-finala-kupova-u-belgiji-i-danskoj/543685",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Srbin nosi trofej u rumunski Detroit: Osvojili su kup, a za četiri dana mogu i titulu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-nosi-trofej-u-rumunski-detroit-osvojili-su-kup-a-za-cetiri-dana-mogu-i-titulu/543718",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 05. 2026. у 00:14",
+      "naslov": "Joveljić strelac u pobedi Sporting Kanzas Sitija protiv LA Galaksija",
+      "url": "https://www.tanjug.rs/sport/fudbal/251796/joveljic-strelac-u-pobedi-sporting-kanzas-sitija-protiv-la-galaksija/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 05. 2026. у 10:12",
+      "slika": null
+    },
+    {
+      "naslov": "Mirko Ivanić osvajanjem Kupa postao najtrofejniji fudbaler u istoriji Crvene zvezde",
+      "url": "https://www.tanjug.rs/sport/fudbal/251781/mirko-ivanic-osvajanjem-kupa-postao-najtrofejniji-fudbaler-u-istoriji-crvene-zvezde/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 05. 2026. у 09:23",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Crvene zvezde posle penala pobedili Vojvodinu za 30. trofej u Kupu Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/251513/fudbaleri-crvene-zvezde-posle-penala-pobedili-vojvodinu-za-30-trofej-u-kupu-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 05. 2026. у 23:43",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Alavesa savladali Barselonu u španskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/251742/fudbaleri-alavesa-savladali-barselonu-u-spanskom-prvenstvu/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 05. 2026. у 23:39",
-      "slika": null
-    },
-    {
-      "naslov": "Handel: &quot;Pokazali smo neverovatan karakter – Stanković je verovao&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233159/tomas-handel-izjava-posle-finala-kupa-zvezda-vojvodina/vest",
+      "naslov": "Blagojević: &quot;Srbiji nedostaje  vizija, plan i strategija – treba da se ugleda na Mađare&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233180/srdjan-blagojevic-uporedio-srpski-i-madjarski-fudbal/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "14. 05. 2026. у 08:35",
+      "datum": "14. 05. 2026. у 11:33",
       "slika": null
     },
     {
-      "naslov": "Tuča igrača Zvezde i Vojvodine po završetku finala Kupa VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233145/fudbaleri-crvene-zvezde-i-vojvodine-potukli-se-po-zavrsetku-finala-kupa-video/vest",
+      "naslov": "Zvezdin prijateljski klub želi Tiknizjana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233194/zenit-zove-naira-tiknizjana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "14. 05. 2026. у 07:45",
+      "datum": "14. 05. 2026. у 11:11",
       "slika": null
     }
   ]
