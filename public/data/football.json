@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-14T19:13:19.302895+00:00",
-  "azurirano_sr": "14. 05. 2026. у 21:13",
+  "azurirano": "2026-05-14T20:45:26.722453+00:00",
+  "azurirano_sr": "14. 05. 2026. у 22:45",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "FIFA suspendovala Zvezdu? Nove informacije tvrde suprotno",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233447/fifa-zabranila-zvezdi-registraciju-novih-igraca/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 05. 2026. у 22:35",
+      "slika": null
+    },
+    {
       "naslov": "Beogradska promocija romana &quot;Devetka&quot;: Profesor Koprivica, Stolica i Raduljica govore o romanu Jovana Simića",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233423/beogradska-promocija-romana-devetka-profesor-koprivica-stolica-i-raduljica-govore-o-romanu-jovana-simica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "14. 05. 2026. у 19:45",
-      "slika": null
-    },
-    {
-      "naslov": "Terzić posle finala Kupa: &quot;Neviđena dominacija Zvezde&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233346/zvezdan-terzic-nakon-pobede-crvene-zvezde-nad-vojvodinom-u-finalu-kupa/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 05. 2026. у 15:40",
       "slika": null
     }
   ]
