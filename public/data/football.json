@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-14T11:28:31.826923+00:00",
-  "azurirano_sr": "14. 05. 2026. у 13:28",
+  "azurirano": "2026-05-14T13:14:46.807150+00:00",
+  "azurirano_sr": "14. 05. 2026. у 15:14",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Miloševićev odlazak izazvao potrese, oglasili se igrači: Prepušteni smo sami sebi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/milosevicev-odlazak-izazvao-potrese-oglasili-se-igraci-prepusteni-smo-sami-sebi/543783",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 05. 2026. у 16:39",
+      "slika": null
+    },
     {
       "naslov": "Najbolje pojačanje u Evropi ove sezone: Malen zvanično Romin za 25.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najbolje-pojacanje-u-evropi-ove-sezone-malen-zvanicno-romin-za-25000000-evra/543771",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Cvetković ipak igra, Union i Anderleht se bore prvi put u finalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cvetkovic-ipak-igra-union-i-anderleht-se-bore-prvi-put-u-finalu/543760",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 05. 2026. у 13:20",
+      "naslov": "Odbojkaši savez Srbije imenovao selektore mlađih reprezentacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/251863/odbojkasi-savez-srbije-imenovao-selektore-mladih-reprezentacija/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 05. 2026. у 13:07",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Mirko Ivanić osvajanjem Kupa postao najtrofejniji fudbaler u istoriji Crvene zvezde",
-      "url": "https://www.tanjug.rs/sport/fudbal/251781/mirko-ivanic-osvajanjem-kupa-postao-najtrofejniji-fudbaler-u-istoriji-crvene-zvezde/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 05. 2026. у 09:23",
+      "naslov": "Oglasio se tragičar Meri: &quot;Čuvena Zvezdina magija sa sudijama...&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233329/dzon-meri-potkacio-zvezdu-posle-promasenog-penala-u-finalu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 05. 2026. у 14:38",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233241/komentar-b92sport-na-finale-kupa-srbije-crvena-zvezda-vojvodina/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "14. 05. 2026. у 12:05",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Srbiji nedostaju vizija, plan i strategija&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233180/srdjan-blagojevic-uporedio-srpski-i-madjarski-fudbal/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 05. 2026. у 11:33",
       "slika": null
     }
   ]
