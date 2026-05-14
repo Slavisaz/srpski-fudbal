@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-14T17:22:28.380545+00:00",
-  "azurirano_sr": "14. 05. 2026. у 19:22",
+  "azurirano": "2026-05-14T19:13:19.302895+00:00",
+  "azurirano_sr": "14. 05. 2026. у 21:13",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Anćeloti ostaje selektor Brazila do 2030. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/251970/anceloti-ostaje-selektor-brazila-do-2030-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 05. 2026. у 19:11",
+      "slika": null
+    },
+    {
       "naslov": "Terzić: Dupla kruna je dokaz stabilnosti, planskog rada i šampionskog gena",
       "url": "https://www.tanjug.rs/sport/fudbal/251900/terzic-dupla-kruna-je-dokaz-stabilnosti-planskog-rada-i-sampionskog-gena/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Madona, Šakira i grupa BTS nastupiće na poluvremenu finala Svetskog prvenstva u fudbalu",
-      "url": "https://www.tanjug.rs/sport/fudbal/251829/madona-sakira-i-grupa-bts-nastupice-na-poluvremenu-finala-svetskog-prvenstva-u-fudbalu/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 05. 2026. у 11:32",
+      "naslov": "Beogradska promocija romana &quot;Devetka&quot;: Profesor Koprivica, Stolica i Raduljica govore o romanu Jovana Simića",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233423/beogradska-promocija-romana-devetka-profesor-koprivica-stolica-i-raduljica-govore-o-romanu-jovana-simica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 05. 2026. у 19:45",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233346/zvezdan-terzic-nakon-pobede-crvene-zvezde-nad-vojvodinom-u-finalu-kupa/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "14. 05. 2026. у 15:40",
-      "slika": null
-    },
-    {
-      "naslov": "Oglasio se tragičar Meri: &quot;Čuvena Zvezdina magija sa sudijama...&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233329/dzon-meri-potkacio-zvezdu-posle-promasenog-penala-u-finalu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 05. 2026. у 14:38",
       "slika": null
     }
   ]
