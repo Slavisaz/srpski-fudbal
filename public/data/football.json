@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-14T13:14:46.807150+00:00",
-  "azurirano_sr": "14. 05. 2026. у 15:14",
+  "azurirano": "2026-05-14T15:33:42.312925+00:00",
+  "azurirano_sr": "14. 05. 2026. у 17:33",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvezdan Terzić: Dominacija kakva u srpskom fudbalu nikad nije viđena",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdan-terzic-dominacija-kakva-u-srpskom-fudbalu-nikad-nije-viena/543788",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 05. 2026. у 17:27",
+      "slika": null
+    },
     {
       "naslov": "Miloševićev odlazak izazvao potrese, oglasili se igrači: Prepušteni smo sami sebi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/milosevicev-odlazak-izazvao-potrese-oglasili-se-igraci-prepusteni-smo-sami-sebi/543783",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Pokrenuta mašinerija: Izbori u Realu će se brzo završiti, možda čak niko ne izađe Florentinu na crtu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pokrenuta-masinerija-izbori-u-realu-ce-se-brzo-zavrsiti-mozda-cak-niko-ne-izae-florentinu-na-crtu/543767",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 05. 2026. у 14:00",
+      "naslov": "Terzić: Dupla kruna je dokaz stabilnosti, planskog rada i šampionskog gena",
+      "url": "https://www.tanjug.rs/sport/fudbal/251900/terzic-dupla-kruna-je-dokaz-stabilnosti-planskog-rada-i-sampionskog-gena/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 05. 2026. у 14:55",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Joveljić strelac u pobedi Sporting Kanzas Sitija protiv LA Galaksija",
-      "url": "https://www.tanjug.rs/sport/fudbal/251796/joveljic-strelac-u-pobedi-sporting-kanzas-sitija-protiv-la-galaksija/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 05. 2026. у 10:12",
+      "naslov": "Terzić posle finala Kupa: &quot;Neviđena dominacija Zvezde&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233346/zvezdan-terzic-nakon-pobede-crvene-zvezde-nad-vojvodinom-u-finalu-kupa/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 05. 2026. у 15:40",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233329/dzon-meri-potkacio-zvezdu-posle-promasenog-penala-u-finalu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "14. 05. 2026. у 14:38",
-      "slika": null
-    },
-    {
-      "naslov": "Finale kakvo Srbija dugo nije videla VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233241/komentar-b92sport-na-finale-kupa-srbije-crvena-zvezda-vojvodina/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 05. 2026. у 12:05",
       "slika": null
     }
   ]
