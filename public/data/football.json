@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-14T20:45:26.722453+00:00",
-  "azurirano_sr": "14. 05. 2026. у 22:45",
+  "azurirano": "2026-05-14T21:51:03.021802+00:00",
+  "azurirano_sr": "14. 05. 2026. у 23:51",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Spisak Francuza za Mundijal: Dešam \"precrtao\" Kamavingu, višak i Kolo Muani",
+      "url": "https://www.tanjug.rs/sport/fudbal/252006/spisak-francuza-za-mundijal-desam-precrtao-kamavingu-visak-i-kolo-muani/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 05. 2026. у 22:40",
+      "slika": null
+    },
+    {
       "naslov": "Anćeloti ostaje selektor Brazila do 2030. godine",
       "url": "https://www.tanjug.rs/sport/fudbal/251970/anceloti-ostaje-selektor-brazila-do-2030-godine/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Savo Milošević nije više trener fudbalera Željezničara iz Sarajeva",
-      "url": "https://www.tanjug.rs/sport/fudbal/251840/savo-milosevic-nije-vise-trener-fudbalera-zeljeznicara-iz-sarajeva/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 05. 2026. у 12:21",
+      "naslov": "Zvezda zove: &quot;Dođite da proslavimo titulu i pozdravimo Duartea&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233449/zvezda-zove-dodjite-da-proslavimo-titulu-i-pozdravimo-duartea/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 05. 2026. у 23:38",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233447/fifa-zabranila-zvezdi-registraciju-novih-igraca/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "14. 05. 2026. у 22:35",
-      "slika": null
-    },
-    {
-      "naslov": "Beogradska promocija romana &quot;Devetka&quot;: Profesor Koprivica, Stolica i Raduljica govore o romanu Jovana Simića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233423/beogradska-promocija-romana-devetka-profesor-koprivica-stolica-i-raduljica-govore-o-romanu-jovana-simica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 05. 2026. у 19:45",
       "slika": null
     }
   ]
