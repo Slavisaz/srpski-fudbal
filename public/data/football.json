@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-14T15:33:42.312925+00:00",
-  "azurirano_sr": "14. 05. 2026. у 17:33",
+  "azurirano": "2026-05-14T17:22:28.380545+00:00",
+  "azurirano_sr": "14. 05. 2026. у 19:22",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "'Survivor' na fudbalski način i bombaški odred Čelsija vredan 250.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/survivor-na-fudbalski-nacin-i-bombaski-odred-celsija-vredan-250000000-evra/543797",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 05. 2026. у 20:22",
+      "slika": null
+    },
     {
       "naslov": "Zvezdan Terzić: Dominacija kakva u srpskom fudbalu nikad nije viđena",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdan-terzic-dominacija-kakva-u-srpskom-fudbalu-nikad-nije-viena/543788",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/najbolje-pojacanje-u-evropi-ove-sezone-malen-zvanicno-romin-za-25000000-evra/543771",
       "izvor": "Мозарт Спорт",
       "datum": "14. 05. 2026. у 14:35",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda oborila Hajdukov rekord",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-oborila-hajdukov-rekord/543769",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 05. 2026. у 14:19",
       "slika": null
     },
     {
