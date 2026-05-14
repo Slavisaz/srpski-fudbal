@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-05-14T09:41:42.851581+00:00",
-  "azurirano_sr": "14. 05. 2026. у 11:41",
+  "azurirano": "2026-05-14T11:28:31.826923+00:00",
+  "azurirano_sr": "14. 05. 2026. у 13:28",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Najbolje pojačanje u Evropi ove sezone: Malen zvanično Romin za 25.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najbolje-pojacanje-u-evropi-ove-sezone-malen-zvanicno-romin-za-25000000-evra/543771",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 05. 2026. у 14:35",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezda oborila Hajdukov rekord",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-oborila-hajdukov-rekord/543769",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 05. 2026. у 14:19",
+      "slika": null
+    },
+    {
+      "naslov": "Pokrenuta mašinerija: Izbori u Realu će se brzo završiti, možda čak niko ne izađe Florentinu na crtu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pokrenuta-masinerija-izbori-u-realu-ce-se-brzo-zavrsiti-mozda-cak-niko-ne-izae-florentinu-na-crtu/543767",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 05. 2026. у 14:00",
+      "slika": null
+    },
     {
       "naslov": "Cvetković ipak igra, Union i Anderleht se bore prvi put u finalu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/cvetkovic-ipak-igra-union-i-anderleht-se-bore-prvi-put-u-finalu/543760",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "NAJAVA DANA (četvrtak, 14. maj): U Španiji gori za opstanak, igraju se finala kupova u Belgiji i Danskoj",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-cetvrtak-14-maj-u-spaniji-gori-za-opstanak-igraju-se-finala-kupova-u-belgiji-i-danskoj/543685",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 05. 2026. у 10:18",
+      "naslov": "Savo Milošević nije više trener fudbalera Željezničara iz Sarajeva",
+      "url": "https://www.tanjug.rs/sport/fudbal/251840/savo-milosevic-nije-vise-trener-fudbalera-zeljeznicara-iz-sarajeva/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 05. 2026. у 12:21",
       "slika": null
     },
     {
-      "naslov": "Zasluženo smo osvojili Kup, sada idemo na zasluženi odmor",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zasluzeno-smo-osvojili-kup-sada-idemo-na-zasluzeni-odmor/543732",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 05. 2026. у 03:13",
-      "slika": null
-    },
-    {
-      "naslov": "Korporativno i hladno - podrazumevajuće: PSŽ potvrdio monopol i okončao \"krvavo-zlatni\" san",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/korporativno-i-hladno-podrazumevajuce-psz-potvrdio-monopol-i-okoncao-krvavozlatni-san/543714",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 05. 2026. у 01:04",
+      "naslov": "Madona, Šakira i grupa BTS nastupiće na poluvremenu finala Svetskog prvenstva u fudbalu",
+      "url": "https://www.tanjug.rs/sport/fudbal/251829/madona-sakira-i-grupa-bts-nastupice-na-poluvremenu-finala-svetskog-prvenstva-u-fudbalu/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 05. 2026. у 11:32",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Dejan Stanković: Puno mi je srce, zahvalnost svima na ovim emocijama",
-      "url": "https://www.tanjug.rs/sport/fudbal/251748/dejan-stankovic-puno-mi-je-srce-zahvalnost-svima-na-ovim-emocijama/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 05. 2026. у 00:50",
+      "naslov": "Finale kakvo Srbija dugo nije videla VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233241/komentar-b92sport-na-finale-kupa-srbije-crvena-zvezda-vojvodina/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 05. 2026. у 12:05",
       "slika": null
     },
     {
-      "naslov": "Miroslav Tanjga: Nismo imali snage da do kraja igramo kao u prvom poluvremenu",
-      "url": "https://www.tanjug.rs/sport/fudbal/251751/miroslav-tanjga-nismo-imali-snage-da-do-kraja-igramo-kao-u-prvom-poluvremenu/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 05. 2026. у 00:41",
-      "slika": null
-    },
-    {
-      "naslov": "Blagojević: &quot;Srbiji nedostaje  vizija, plan i strategija – treba da se ugleda na Mađare&quot;",
+      "naslov": "&quot;Srbiji nedostaju vizija, plan i strategija&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233180/srdjan-blagojevic-uporedio-srpski-i-madjarski-fudbal/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "14. 05. 2026. у 11:33",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezdin prijateljski klub želi Tiknizjana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233194/zenit-zove-naira-tiknizjana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 05. 2026. у 11:11",
       "slika": null
     }
   ]
