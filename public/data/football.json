@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-15T19:16:33.516946+00:00",
-  "azurirano_sr": "15. 05. 2026. у 21:16",
+  "azurirano": "2026-05-15T20:35:23.190127+00:00",
+  "azurirano_sr": "15. 05. 2026. у 22:35",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Obradović: Igrali smo pod pritiskom, oscilacije su prisutne tokom cele sezone",
+      "url": "https://www.tanjug.rs/sport/fudbal/252289/obradovic-igrali-smo-pod-pritiskom-oscilacije-su-prisutne-tokom-cele-sezone/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 05. 2026. у 22:02",
+      "slika": null
+    },
+    {
+      "naslov": "Svetozar Mijailović jedini kandidat za predsednika FK Crvena zvezda",
+      "url": "https://www.tanjug.rs/sport/fudbal/252282/svetozar-mijailovic-jedini-kandidat-za-predsednika-fk-crvena-zvezda/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 05. 2026. у 21:19",
+      "slika": null
+    },
+    {
       "naslov": "Emers Fae objavio spisak fudbalera Obale Slonovače za Svetsko prvenstvo",
       "url": "https://www.tanjug.rs/sport/fudbal/252249/emers-fae-objavio-spisak-fudbalera-obale-slonovace-za-svetsko-prvenstvo/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Rudi Garsija objavio spisak fudbalera Belgije za Svetsko prvensvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/252222/rudi-garsija-objavio-spisak-fudbalera-belgije-za-svetsko-prvensvo/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 05. 2026. у 17:30",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Mančester junajteda Matijs de Liht uspešno operisao leđa",
-      "url": "https://www.tanjug.rs/sport/fudbal/252217/fudbaler-mancester-junajteda-matijs-de-liht-uspesno-operisao-leda/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 05. 2026. у 17:18",
+      "naslov": "Vojvodina vraća bivšeg kapitena i reprezentativca Srbije?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233748/vojvodina-vraca-bivseg-kapitena-i-reprezentativca-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 05. 2026. у 22:15",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233701/tanjga-imamo-sve-u-svojim-rukama-verujem-u-ove-momke/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "15. 05. 2026. у 20:45",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Kako se to &#039;igra na siguricu&#039;?&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233666/trener-radnickog-marko-nedjic-pred-mec-protiv-tsc-a/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 05. 2026. у 19:30",
       "slika": null
     }
   ]
