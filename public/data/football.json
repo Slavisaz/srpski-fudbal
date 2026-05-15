@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-15T17:55:35.505939+00:00",
-  "azurirano_sr": "15. 05. 2026. у 19:55",
+  "azurirano": "2026-05-15T19:16:33.516946+00:00",
+  "azurirano_sr": "15. 05. 2026. у 21:16",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Tanjga: &quot;Imamo sve u svojim rukama, verujem u ove momke&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233701/tanjga-imamo-sve-u-svojim-rukama-verujem-u-ove-momke/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 05. 2026. у 20:45",
+      "slika": null
+    },
+    {
       "naslov": "&quot;Kako se to &#039;igra na siguricu&#039;?&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233666/trener-radnickog-marko-nedjic-pred-mec-protiv-tsc-a/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "15. 05. 2026. у 19:30",
-      "slika": null
-    },
-    {
-      "naslov": "Javila se Zvezda i objasnila suspenziju FIFA",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233690/marko-petrovic-operativni-direktor-crvene-zvezde-o-suspenziji-fifa/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 05. 2026. у 17:36",
       "slika": null
     }
   ]
