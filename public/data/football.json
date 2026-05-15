@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-15T08:15:32.085363+00:00",
-  "azurirano_sr": "15. 05. 2026. у 10:15",
+  "azurirano": "2026-05-15T10:38:30.366383+00:00",
+  "azurirano_sr": "15. 05. 2026. у 12:38",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Humanitarni tiket u podne: Sa Dragoljubom Srnićem do 173.500 dinara",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-sa-dragoljubom-srnicem-do-173500-dinara/543765",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 05. 2026. у 14:13",
+      "slika": null
+    },
+    {
+      "naslov": "Leto još nije počelo, a Salcburg na tinejdžerima već zaradio 45.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/leto-jos-nije-pocelo-a-salcburg-na-tinejdzerima-vec-zaradio-45000000-evra/543853",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 05. 2026. у 14:08",
+      "slika": null
+    },
     {
       "naslov": "Japan na Mundijalu bez jednog od najboljih: Pola tima iz liga petice, tu je i zaboravljeni \"dekica\"",
       "url": "https://www.mozzartsport.com/fudbal/vesti/japan-na-mundijalu-bez-jednog-od-najboljih-pola-tima-iz-liga-petice-tu-je-i-zaboravljeni-dekica/543834",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "LUDI TIKET, petak, 46.492 dinara: Norveška 4, Švedska 3 i 4, ženski fudbal... I eto para",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-petak-46492-dinara-norveska-4-svedska-3-i-4-zenski-fudbal-i-eto-para/543828",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 05. 2026. у 09:58",
+      "naslov": "Zvezda gostuje u Surdulici, Partizan na Banovom brdu, Vojvodina na Karaburmi",
+      "url": "https://www.tanjug.rs/sport/fudbal/252105/zvezda-gostuje-u-surdulici-partizan-na-banovom-brdu-vojvodina-na-karaburmi/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 05. 2026. у 11:40",
       "slika": null
     },
     {
-      "naslov": "'Survivor' na fudbalski način i bombaški odred Čelsija vredan 250.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/survivor-na-fudbalski-nacin-i-bombaski-odred-celsija-vredan-250000000-evra/543797",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 05. 2026. у 20:22",
+      "naslov": "Italijanski fudbaler Samuele Inasio potpisao novi ugovor sa Borusijom iz Dortmunda",
+      "url": "https://www.tanjug.rs/sport/fudbal/252081/italijanski-fudbaler-samuele-inasio-potpisao-novi-ugovor-sa-borusijom-iz-dortmunda/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 05. 2026. у 10:39",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Terzić: Dupla kruna je dokaz stabilnosti, planskog rada i šampionskog gena",
-      "url": "https://www.tanjug.rs/sport/fudbal/251900/terzic-dupla-kruna-je-dokaz-stabilnosti-planskog-rada-i-sampionskog-gena/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 05. 2026. у 14:55",
-      "slika": null
-    },
-    {
-      "naslov": "Odbojkaši savez Srbije imenovao selektore mlađih reprezentacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/251863/odbojkasi-savez-srbije-imenovao-selektore-mladih-reprezentacija/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 05. 2026. у 13:07",
+      "naslov": "Nastavlja se Superliga – Zvezda u Surdulici, Partizan na Banovom brdu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233555/nastavlja-se-superliga-zvezda-u-surdulici-partizan-na-banovom-brdu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 05. 2026. у 11:15",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233449/zvezda-zove-dodjite-da-proslavimo-titulu-i-pozdravimo-duartea/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "14. 05. 2026. у 23:38",
-      "slika": null
-    },
-    {
-      "naslov": "FIFA suspendovala Zvezdu? Nove informacije tvrde suprotno",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233447/fifa-zabranila-zvezdi-registraciju-novih-igraca/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 05. 2026. у 22:35",
       "slika": null
     }
   ]
