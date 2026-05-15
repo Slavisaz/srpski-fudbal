@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-15T16:22:34.948667+00:00",
-  "azurirano_sr": "15. 05. 2026. у 18:22",
+  "azurirano": "2026-05-15T17:55:35.505939+00:00",
+  "azurirano_sr": "15. 05. 2026. у 19:55",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Emers Fae objavio spisak fudbalera Obale Slonovače za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/252249/emers-fae-objavio-spisak-fudbalera-obale-slonovace-za-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 05. 2026. у 19:13",
+      "slika": null
+    },
+    {
+      "naslov": "Nojer i Urlih produžili ugovore sa Bajernom za još godinu dana",
+      "url": "https://www.tanjug.rs/sport/fudbal/252243/nojer-i-urlih-produzili-ugovore-sa-bajernom-za-jos-godinu-dana/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 05. 2026. у 18:52",
+      "slika": null
+    },
+    {
       "naslov": "Rudi Garsija objavio spisak fudbalera Belgije za Svetsko prvensvo",
       "url": "https://www.tanjug.rs/sport/fudbal/252222/rudi-garsija-objavio-spisak-fudbalera-belgije-za-svetsko-prvensvo/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Sportske igre mladih: Održan Dan sporta u Čačku",
-      "url": "https://www.tanjug.rs/sport/fudbal/252195/sportske-igre-mladih-odrzan-dan-sporta-u-cacku/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 05. 2026. у 16:40",
-      "slika": null
-    },
-    {
-      "naslov": "Tanjga: Izvinjavam se sudiji Iliću na neprimerenim komentarima posle finala Kupa",
-      "url": "https://www.tanjug.rs/sport/fudbal/252159/tanjga-izvinjavam-se-sudiji-ilicu-na-neprimerenim-komentarima-posle-finala-kupa/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 05. 2026. у 14:15",
+      "naslov": "&quot;Kako se to &#039;igra na siguricu&#039;?&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233666/trener-radnickog-marko-nedjic-pred-mec-protiv-tsc-a/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 05. 2026. у 19:30",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233690/marko-petrovic-operativni-direktor-crvene-zvezde-o-suspenziji-fifa/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "15. 05. 2026. у 17:36",
-      "slika": null
-    },
-    {
-      "naslov": "Palo šest potpisa u Humskoj",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233658/palo-sest-potpisa-u-humskoj/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 05. 2026. у 16:00",
       "slika": null
     }
   ]
