@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-15T10:38:30.366383+00:00",
-  "azurirano_sr": "15. 05. 2026. у 12:38",
+  "azurirano": "2026-05-15T12:20:06.572366+00:00",
+  "azurirano_sr": "15. 05. 2026. у 14:20",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Irski fudbaler Šejmus Kolman napušta Everton posle 17 godina",
+      "url": "https://www.tanjug.rs/sport/fudbal/252137/irski-fudbaler-sejmus-kolman-napusta-everton-posle-17-godina/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 05. 2026. у 13:21",
+      "slika": null
+    },
+    {
       "naslov": "Zvezda gostuje u Surdulici, Partizan na Banovom brdu, Vojvodina na Karaburmi",
       "url": "https://www.tanjug.rs/sport/fudbal/252105/zvezda-gostuje-u-surdulici-partizan-na-banovom-brdu-vojvodina-na-karaburmi/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Anćeloti ostaje selektor Brazila do 2030. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/251970/anceloti-ostaje-selektor-brazila-do-2030-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 05. 2026. у 19:11",
+      "naslov": "Tanjga se izvinio sudiji Pavlu Iliću!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233627/miroslav-tanjga-izvinjenje-sudiji-pavlu-ilicu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 05. 2026. у 14:16",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233555/nastavlja-se-superliga-zvezda-u-surdulici-partizan-na-banovom-brdu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "15. 05. 2026. у 11:15",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda zove: &quot;Dođite da proslavimo titulu i pozdravimo Duartea&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233449/zvezda-zove-dodjite-da-proslavimo-titulu-i-pozdravimo-duartea/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 05. 2026. у 23:38",
       "slika": null
     }
   ]
