@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-15T12:20:06.572366+00:00",
-  "azurirano_sr": "15. 05. 2026. у 14:20",
+  "azurirano": "2026-05-15T14:40:02.888510+00:00",
+  "azurirano_sr": "15. 05. 2026. у 16:40",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Tanjga: Izvinjavam se sudiji Iliću na neprimerenim komentarima posle finala Kupa",
+      "url": "https://www.tanjug.rs/sport/fudbal/252159/tanjga-izvinjavam-se-sudiji-ilicu-na-neprimerenim-komentarima-posle-finala-kupa/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 05. 2026. у 14:15",
+      "slika": null
+    },
+    {
       "naslov": "Irski fudbaler Šejmus Kolman napušta Everton posle 17 godina",
       "url": "https://www.tanjug.rs/sport/fudbal/252137/irski-fudbaler-sejmus-kolman-napusta-everton-posle-17-godina/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Spisak Francuza za Mundijal: Dešam \"precrtao\" Kamavingu, višak i Kolo Muani",
-      "url": "https://www.tanjug.rs/sport/fudbal/252006/spisak-francuza-za-mundijal-desam-precrtao-kamavingu-visak-i-kolo-muani/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 05. 2026. у 22:40",
+      "naslov": "Palo šest potpisa u Humskoj",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233658/palo-sest-potpisa-u-humskoj/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 05. 2026. у 16:00",
       "slika": null
     },
     {
-      "naslov": "Tanjga se izvinio sudiji Pavlu Iliću!",
+      "naslov": "Tanjga promenio ploču - izvinio se sudiji Pavlu Iliću!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233627/miroslav-tanjga-izvinjenje-sudiji-pavlu-ilicu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "15. 05. 2026. у 14:16",
-      "slika": null
-    },
-    {
-      "naslov": "Nastavlja se Superliga – Zvezda u Surdulici, Partizan na Banovom brdu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233555/nastavlja-se-superliga-zvezda-u-surdulici-partizan-na-banovom-brdu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 05. 2026. у 11:15",
       "slika": null
     }
   ]
