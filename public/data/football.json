@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-15T20:35:23.190127+00:00",
-  "azurirano_sr": "15. 05. 2026. у 22:35",
+  "azurirano": "2026-05-15T21:37:52.304139+00:00",
+  "azurirano_sr": "15. 05. 2026. у 23:37",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Aston Vile pobedili Liverpul i izborili učešće u Ligi šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/252301/fudbaleri-aston-vile-pobedili-liverpul-i-izborili-ucesce-u-ligi-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 05. 2026. у 23:05",
+      "slika": null
+    },
+    {
       "naslov": "Obradović: Igrali smo pod pritiskom, oscilacije su prisutne tokom cele sezone",
       "url": "https://www.tanjug.rs/sport/fudbal/252289/obradovic-igrali-smo-pod-pritiskom-oscilacije-su-prisutne-tokom-cele-sezone/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Nojer i Urlih produžili ugovore sa Bajernom za još godinu dana",
-      "url": "https://www.tanjug.rs/sport/fudbal/252243/nojer-i-urlih-produzili-ugovore-sa-bajernom-za-jos-godinu-dana/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 05. 2026. у 18:52",
+      "naslov": "Zvezda nagrađuje učlanjene porodice dresom na proslavi titule",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233766/zvezda-nagradjuje-uclanjene-porodice-dresom-na-proslavi-titule/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 05. 2026. у 22:37",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233748/vojvodina-vraca-bivseg-kapitena-i-reprezentativca-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "15. 05. 2026. у 22:15",
-      "slika": null
-    },
-    {
-      "naslov": "Tanjga: &quot;Imamo sve u svojim rukama, verujem u ove momke&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233701/tanjga-imamo-sve-u-svojim-rukama-verujem-u-ove-momke/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 05. 2026. у 20:45",
       "slika": null
     }
   ]
