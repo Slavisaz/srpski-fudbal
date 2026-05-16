@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-16T20:26:37.945050+00:00",
-  "azurirano_sr": "16. 05. 2026. у 22:26",
+  "azurirano": "2026-05-16T21:08:55.370441+00:00",
+  "azurirano_sr": "16. 05. 2026. у 23:08",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Mladosti iz Lučana pobedili Javor, ekipa iz Ivanjice ispala iz Superlige",
+      "url": "https://www.tanjug.rs/sport/fudbal/252500/fudbaleri-mladosti-iz-lucana-pobedili-javor-ekipa-iz-ivanjice-ispala-iz-superlige/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 05. 2026. у 22:16",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Rasing Santandera posle 14 godina izborili povratak u prvu ligu Španije",
       "url": "https://www.tanjug.rs/sport/fudbal/252475/fudbaleri-rasing-santandera-posle-14-godina-izborili-povratak-u-prvu-ligu-spanije/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/252464/andrej-ilic-postigao-dva-gola-u-pobedi-fudbalera-union-berlina-protiv-augsburga/vest",
       "izvor": "Танјуг",
       "datum": "16. 05. 2026. у 19:43",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Mančester sitija savladali Čelsi i osmi put osvojili trofej FA kupa",
-      "url": "https://www.tanjug.rs/sport/fudbal/252451/fudbaleri-mancester-sitija-savladali-celsi-i-osmi-put-osvojili-trofej-fa-kupa/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 05. 2026. у 18:13",
       "slika": null
     },
     {
