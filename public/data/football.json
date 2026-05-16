@@ -1,13 +1,34 @@
 {
-  "azurirano": "2026-05-16T15:41:11.896580+00:00",
-  "azurirano_sr": "16. 05. 2026. у 17:41",
+  "azurirano": "2026-05-16T16:35:15.785929+00:00",
+  "azurirano_sr": "16. 05. 2026. у 18:35",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ovakav Čelsi nije za velika dela: Semenjo petom doveo siti do FA kupa!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ovakav-celsi-nije-za-velika-dela-semenjo-petom-doveo-siti-do-fa-kupa/543958",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 05. 2026. у 19:53",
+      "slika": null
+    },
     {
       "naslov": "NAJAVA DANA (subota, 16. maj): Derbi za titulu u Škotskoj, finale FA kupa…",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-subota-16-maj-derbi-za-titulu-u-skotskoj-finale-fa-kupa/543909",
       "izvor": "Мозарт Спорт",
       "datum": "16. 05. 2026. у 09:47",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Mančester sitija savladali Čelsi i osmi put osvojili trofej FA kupa",
+      "url": "https://www.tanjug.rs/sport/fudbal/252451/fudbaleri-mancester-sitija-savladali-celsi-i-osmi-put-osvojili-trofej-fa-kupa/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 05. 2026. у 18:13",
+      "slika": null
+    },
+    {
+      "naslov": "Nenad Sakić: Ne smemo da budemo opušteni protiv Radnika, imamo obavezu prema Zvezdinom grbu",
+      "url": "https://www.tanjug.rs/sport/fudbal/252443/nenad-sakic-ne-smemo-da-budemo-opusteni-protiv-radnika-imamo-obavezu-prema-zvezdinom-grbu/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 05. 2026. у 17:45",
       "slika": null
     },
     {
@@ -22,20 +43,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/252416/fudbaler-seltika-postali-prvaci-skotske-56-put/vest",
       "izvor": "Танјуг",
       "datum": "16. 05. 2026. у 15:43",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler OFK Beograda Stefan Despotovski dobio poziv za reprezentaciju S. Makedonije",
-      "url": "https://www.tanjug.rs/sport/fudbal/252414/fudbaler-ofk-beograda-stefan-despotovski-dobio-poziv-za-reprezentaciju-s-makedonije/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 05. 2026. у 15:28",
-      "slika": null
-    },
-    {
-      "naslov": "Srđan Blagojević: Ne držimo sve u našim rukama, ali se ne predajemo u trci za drugo mesto",
-      "url": "https://www.tanjug.rs/sport/fudbal/252410/srdan-blagojevic-ne-drzimo-sve-u-nasim-rukama-ali-se-ne-predajemo-u-trci-za-drugo-mesto/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 05. 2026. у 15:17",
       "slika": null
     },
     {
@@ -60,17 +67,10 @@
       "slika": null
     },
     {
-      "naslov": "Ništa od Hartsovog čuda! Maedina strela pravo u Srce – Seltik odbranio titulu!",
-      "url": "https://www.b92.net/sport/fudbal/vesti/233903/nista-od-hartsovog-cuda-maedina-strela-pravo-u-srce-seltik-odbranio-titulu/vest",
+      "naslov": "Čarolija donela Sitiju drugi trofej u sezoni VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/233933/carolija-semenja-za-drugi-trofej-sitija-video/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "16. 05. 2026. у 15:33",
-      "slika": null
-    },
-    {
-      "naslov": "Fener spremio astronomsku ponudu za Salaha",
-      "url": "https://www.b92.net/sport/fudbal/vesti/233816/fenerbahce-nudi-60-miliona-evra-za-salaha/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "16. 05. 2026. у 13:06",
+      "datum": "16. 05. 2026. у 17:56",
       "slika": null
     },
     {
