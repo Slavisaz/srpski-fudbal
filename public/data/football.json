@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-16T08:52:21.521585+00:00",
-  "azurirano_sr": "16. 05. 2026. у 10:52",
+  "azurirano": "2026-05-16T10:05:22.809554+00:00",
+  "azurirano_sr": "16. 05. 2026. у 12:05",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -22,13 +22,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/leto-jos-nije-pocelo-a-salcburg-na-tinejdzerima-vec-zaradio-45000000-evra/543853",
       "izvor": "Мозарт Спорт",
       "datum": "15. 05. 2026. у 14:08",
-      "slika": null
-    },
-    {
-      "naslov": "Japan na Mundijalu bez jednog od najboljih: Pola tima iz liga petice, tu je i zaboravljeni \"dekica\"",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/japan-na-mundijalu-bez-jednog-od-najboljih-pola-tima-iz-liga-petice-tu-je-i-zaboravljeni-dekica/543834",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 05. 2026. у 11:05",
       "slika": null
     },
     {
@@ -71,6 +64,20 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233748/vojvodina-vraca-bivseg-kapitena-i-reprezentativca-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "15. 05. 2026. у 22:15",
+      "slika": null
+    },
+    {
+      "naslov": "Tanjga: &quot;Imamo sve u svojim rukama, verujem u ove momke&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233701/tanjga-imamo-sve-u-svojim-rukama-verujem-u-ove-momke/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 05. 2026. у 20:45",
+      "slika": null
+    },
+    {
+      "naslov": "Japan na Mundijalu bez jednog od najboljih: Pola tima iz liga petice, tu je i zaboravljeni \"dekica\"",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/japan-na-mundijalu-bez-jednog-od-najboljih-pola-tima-iz-liga-petice-tu-je-i-zaboravljeni-dekica/543834",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 05. 2026. у 11:05",
       "slika": null
     }
   ]
