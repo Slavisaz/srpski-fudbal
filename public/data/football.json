@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-16T11:12:33.118084+00:00",
-  "azurirano_sr": "16. 05. 2026. у 13:12",
+  "azurirano": "2026-05-16T12:04:41.429889+00:00",
+  "azurirano_sr": "16. 05. 2026. у 14:04",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -25,6 +25,13 @@
       "slika": null
     },
     {
+      "naslov": "Alvaro Arbeloa: Ako Murinjo bude u Realu sledeće sezone, biću veoma srećan",
+      "url": "https://www.tanjug.rs/sport/fudbal/252388/alvaro-arbeloa-ako-murinjo-bude-u-realu-sledece-sezone-bicu-veoma-srecan/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 05. 2026. у 13:12",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Aston Vile pobedili Liverpul i izborili učešće u Ligi šampiona",
       "url": "https://www.tanjug.rs/sport/fudbal/252301/fudbaleri-aston-vile-pobedili-liverpul-i-izborili-ucesce-u-ligi-sampiona/vest",
       "izvor": "Танјуг",
@@ -46,13 +53,6 @@
       "slika": null
     },
     {
-      "naslov": "Emers Fae objavio spisak fudbalera Obale Slonovače za Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/252249/emers-fae-objavio-spisak-fudbalera-obale-slonovace-za-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 05. 2026. у 19:13",
-      "slika": null
-    },
-    {
       "naslov": "Zvezda nagrađuje učlanjene porodice dresom na proslavi titule",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233766/zvezda-nagradjuje-uclanjene-porodice-dresom-na-proslavi-titule/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233701/tanjga-imamo-sve-u-svojim-rukama-verujem-u-ove-momke/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "15. 05. 2026. у 20:45",
-      "slika": null
-    },
-    {
-      "naslov": "Japan na Mundijalu bez jednog od najboljih: Pola tima iz liga petice, tu je i zaboravljeni \"dekica\"",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/japan-na-mundijalu-bez-jednog-od-najboljih-pola-tima-iz-liga-petice-tu-je-i-zaboravljeni-dekica/543834",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 05. 2026. у 11:05",
       "slika": null
     }
   ]
