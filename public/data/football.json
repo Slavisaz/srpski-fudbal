@@ -1,10 +1,17 @@
 {
-  "azurirano": "2026-05-16T17:32:47.900373+00:00",
-  "azurirano_sr": "16. 05. 2026. у 19:32",
+  "azurirano": "2026-05-16T18:32:55.011685+00:00",
+  "azurirano_sr": "16. 05. 2026. у 20:32",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Ovakav Čelsi nije za velika dela: Semenjo petom doveo siti do trofeja u FA kupu!",
+      "naslov": "Neka slave napaćeni: Došao kraj Fradijevoj hegemoniji, Đer na tronu posle 13 godina",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/neka-slave-napaceni-dosao-kraj-fradijevoj-hegemoniji-er-na-tronu-posle-13-godina/543962",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 05. 2026. у 21:20",
+      "slika": null
+    },
+    {
+      "naslov": "Ovakav Čelsi nije za velika dela: Semenjo petom doveo Siti do trofeja u FA kupu!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ovakav-celsi-nije-za-velika-dela-semenjo-petom-doveo-siti-do-trofeja-u-fa-kupu/543958",
       "izvor": "Мозарт Спорт",
       "datum": "16. 05. 2026. у 19:53",
@@ -15,6 +22,20 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-subota-16-maj-derbi-za-titulu-u-skotskoj-finale-fa-kupa/543909",
       "izvor": "Мозарт Спорт",
       "datum": "16. 05. 2026. у 09:47",
+      "slika": null
+    },
+    {
+      "naslov": "FK Crvena zvezda: Posle utakmice sa OFK Beogradom proslava titule na Kalemegdanu",
+      "url": "https://www.tanjug.rs/sport/fudbal/252465/fk-crvena-zvezda-posle-utakmice-sa-ofk-beogradom-proslava-titule-na-kalemegdanu/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 05. 2026. у 19:44",
+      "slika": null
+    },
+    {
+      "naslov": "Andrej Ilić postigao dva gola u pobedi fudbalera Union Berlina protiv Augsburga",
+      "url": "https://www.tanjug.rs/sport/fudbal/252464/andrej-ilic-postigao-dva-gola-u-pobedi-fudbalera-union-berlina-protiv-augsburga/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 05. 2026. у 19:43",
       "slika": null
     },
     {
@@ -32,17 +53,10 @@
       "slika": null
     },
     {
-      "naslov": "Marko Jakšić: Imamo velike kadrovske probleme, ali želimo pobedu protiv Partizana",
-      "url": "https://www.tanjug.rs/sport/fudbal/252421/marko-jaksic-imamo-velike-kadrovske-probleme-ali-zelimo-pobedu-protiv-partizana/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 05. 2026. у 16:03",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Seltika postali prvaci Škotske 56. put",
-      "url": "https://www.tanjug.rs/sport/fudbal/252416/fudbaler-seltika-postali-prvaci-skotske-56-put/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 05. 2026. у 15:43",
+      "naslov": "Crvena zvezda slavi titulu na Kalemegdanu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233956/proslava-titule-fudbalskog-kluba-crvene-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "16. 05. 2026. у 20:22",
       "slika": null
     },
     {
@@ -60,31 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "Koković pred Novi Pazar: &quot;Da se unapredimo za leto&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233869/trener-zeleznicara-radomir-kokovic-izjava-pred-mec-u-novom-pazaru/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 05. 2026. у 15:17",
-      "slika": null
-    },
-    {
-      "naslov": "Ferencvaroš pao posle sedam godina – Đer novi šampion Mađarske!",
-      "url": "https://www.b92.net/sport/fudbal/vesti/233945/djer-sampion-madjarske/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "16. 05. 2026. у 19:22",
-      "slika": null
-    },
-    {
       "naslov": "Humanitarni tiket u podne: Sa Dragoljubom Srnićem do 173.500 dinara",
       "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-sa-dragoljubom-srnicem-do-173500-dinara/543765",
       "izvor": "Мозарт Спорт",
       "datum": "15. 05. 2026. у 14:13",
-      "slika": null
-    },
-    {
-      "naslov": "Leto još nije počelo, a Salcburg na tinejdžerima već zaradio 45.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/leto-jos-nije-pocelo-a-salcburg-na-tinejdzerima-vec-zaradio-45000000-evra/543853",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 05. 2026. у 14:08",
       "slika": null
     }
   ]
