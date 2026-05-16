@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-16T04:40:37.663195+00:00",
-  "azurirano_sr": "16. 05. 2026. у 06:40",
+  "azurirano": "2026-05-16T07:01:46.091868+00:00",
+  "azurirano_sr": "16. 05. 2026. у 09:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (subota, 16. maj): Derbi za titulu u Škotskoj, finale FA kupa…",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-subota-16-maj-derbi-za-titulu-u-skotskoj-finale-fa-kupa/543909",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 05. 2026. у 09:47",
+      "slika": null
+    },
     {
       "naslov": "Humanitarni tiket u podne: Sa Dragoljubom Srnićem do 173.500 dinara",
       "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-sa-dragoljubom-srnicem-do-173500-dinara/543765",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/japan-na-mundijalu-bez-jednog-od-najboljih-pola-tima-iz-liga-petice-tu-je-i-zaboravljeni-dekica/543834",
       "izvor": "Мозарт Спорт",
       "datum": "15. 05. 2026. у 11:05",
-      "slika": null
-    },
-    {
-      "naslov": "NAJAVA DANA (petak, 15. maj): Fudbal širom Evrope i Zvezda za polufinale ABA",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-petak-15-maj-fudbal-sirom-evrope-i-zvezda-za-polufinale-aba/543774",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 05. 2026. у 10:06",
       "slika": null
     },
     {
