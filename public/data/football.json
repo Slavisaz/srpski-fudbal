@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-16T19:41:12.773258+00:00",
-  "azurirano_sr": "16. 05. 2026. у 21:41",
+  "azurirano": "2026-05-16T20:26:37.945050+00:00",
+  "azurirano_sr": "16. 05. 2026. у 22:26",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Prošlost je iza njih, iluizije više nema: Santander u Primeri prvi put od Munitisa i Kupera",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/proslost-je-iza-njih-iluizije-vise-nema-santander-u-primeri-prvi-put-od-munitisa-i-kupera/543967",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 05. 2026. у 23:39",
+      "slika": null
+    },
     {
       "naslov": "Neka slave napaćeni: Došao kraj Fradijevoj hegemoniji, Đer na tronu posle 13 godina",
       "url": "https://www.mozzartsport.com/fudbal/vesti/neka-slave-napaceni-dosao-kraj-fradijevoj-hegemoniji-er-na-tronu-posle-13-godina/543962",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Superligaški trileri za opstanak – Mladost od 0:2 do 4:2, Radnički od 0:1 do 2:1",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233981/carlije-za-opstanak-mladost-od-02-do-42-radnicki-od-01-do-21/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "16. 05. 2026. у 22:08",
+      "slika": null
+    },
+    {
       "naslov": "Zvezda dogovorila transfer – dobiće 3.300.000 evra",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233892/daglas-ovusu-ide-iz-zvezde-za-3300000-evra/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "16. 05. 2026. у 20:48",
-      "slika": null
-    },
-    {
-      "naslov": "Crvena zvezda slavi titulu na Kalemegdanu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233956/proslava-titule-fudbalskog-kluba-crvene-zvezde/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 05. 2026. у 20:22",
-      "slika": null
-    },
-    {
-      "naslov": "Blagojević: &quot;Partizan je otpisan, ali se ne predajemo&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233918/konferencija-za-medije-trenera-partizana-pred-duel-sa-cukarickim/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 05. 2026. у 16:48",
       "slika": null
     }
   ]
