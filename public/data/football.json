@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-17T14:09:16.191511+00:00",
-  "azurirano_sr": "17. 05. 2026. у 16:09",
+  "azurirano": "2026-05-17T15:14:58.216379+00:00",
+  "azurirano_sr": "17. 05. 2026. у 17:14",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Veče odluke u Francuskoj: Tri tima igraju za LŠ, Nica može u Evropu kao drugoligaš",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vece-odluke-u-francuskoj-tri-tima-igraju-za-ls-nica-moze-u-evropu-kao-drugoligas/544031",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 05. 2026. у 18:49",
+      "slika": null
+    },
     {
       "naslov": "Muke Srba u Primeri: Ili su oni bili dobri, a njihove ekipe loše - ili obrnuto",
       "url": "https://www.mozzartsport.com/fudbal/vesti/muke-srba-u-primeri-ili-su-oni-bili-dobri-a-njihove-ekipe-lose-ili-obrnuto/544021",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "LASK pred ostvarenjem čuda, treba mu bod za upis u istoriju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lask-pred-ostvarenjem-cuda-treba-mu-bod-za-upis-u-istoriju/544005",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 05. 2026. у 13:24",
+      "naslov": "Fudbaleri LASK-a iz Linca prvaci Austrije prvi put posle 61 godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/252634/fudbaleri-lask-a-iz-linca-prvaci-austrije-prvi-put-posle-61-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 05. 2026. у 16:34",
       "slika": null
     },
     {
@@ -53,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Španski stručnjak Ćabi Alonso imenovan za novog trenera fudbalera Čelsija",
-      "url": "https://www.tanjug.rs/sport/fudbal/252561/spanski-strucnjak-cabi-alonso-imenovan-za-novog-trenera-fudbalera-celsija/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 05. 2026. у 10:28",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan na Brdu – pobeda ili propast",
+      "naslov": "Partizanu izmiče drugo mesto – golman Čuke nesavladiv",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234102/uzivo-cukaricki-partizan-lajv-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 05. 2026. у 16:01",
+      "datum": "17. 05. 2026. у 16:50",
       "slika": null
     },
     {
