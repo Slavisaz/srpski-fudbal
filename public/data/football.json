@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-17T20:26:06.016899+00:00",
-  "azurirano_sr": "17. 05. 2026. у 22:26",
+  "azurirano": "2026-05-17T21:12:30.085922+00:00",
+  "azurirano_sr": "17. 05. 2026. у 23:12",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "&quot;Skidam kapu momcima, zaslužuju punu Marakanu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234182/skidam-kapu-momcima-zasluzuju-punu-marakanu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 05. 2026. у 22:40",
+      "slika": null
+    },
+    {
       "naslov": "Loše vesti za Partizan – Voša overila drugo mesto Superlige!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234186/lose-vesti-za-partizan-vosa-overila-drugo-mesto-superlige/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "17. 05. 2026. у 22:00",
-      "slika": null
-    },
-    {
-      "naslov": "Desetkovana Zvezda bez pobede u Surdulici",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234140/uzivo-radnik-crvena-zvezda/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 05. 2026. у 20:27",
       "slika": null
     }
   ]
