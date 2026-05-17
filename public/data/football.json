@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-17T18:09:23.990281+00:00",
-  "azurirano_sr": "17. 05. 2026. у 20:09",
+  "azurirano": "2026-05-17T19:33:25.082182+00:00",
+  "azurirano_sr": "17. 05. 2026. у 21:33",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Lalatović: Moramo petorici da damo po 10.000 evra mesečno i 30 odsto \"na ruke\", inače smo prvi kandidati za ispadanje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lalatovic-moramo-petorici-da-damo-po-10000-evra-mesecno-i-30-odsto-na-ruke-inace-smo-prvi-kandidati-za-ispadanje/544058",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 05. 2026. у 22:26",
+      "slika": null
+    },
     {
       "naslov": "Veče odluke u Francuskoj: Tri tima igraju za LŠ, Nica može u Evropu kao drugoligaš",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vece-odluke-u-francuskoj-tri-tima-igraju-za-ls-nica-moze-u-evropu-kao-drugoligas/544031",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "To se ne može propustiti",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/to-se-ne-moze-propustiti/544013",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 05. 2026. у 15:05",
+      "naslov": "Nenad Sakić: Skidam kapu momcima, zaslužuju punu Marakanu na proslavi duple krune",
+      "url": "https://www.tanjug.rs/sport/fudbal/252674/nenad-sakic-skidam-kapu-momcima-zasluzuju-punu-marakanu-na-proslavi-duple-krune/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 05. 2026. у 21:03",
+      "slika": null
+    },
+    {
+      "naslov": "Remi fudbalera Radnika i Zvezde u Surdulici",
+      "url": "https://www.tanjug.rs/sport/fudbal/252669/remi-fudbalera-radnika-i-zvezde-u-surdulici/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 05. 2026. у 20:27",
       "slika": null
     },
     {
@@ -46,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Elversberga prvi put u istoriji izborili plasman u Bundesligu",
-      "url": "https://www.tanjug.rs/sport/fudbal/252645/fudbaleri-elversberga-prvi-put-u-istoriji-izborili-plasman-u-bundesligu/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 05. 2026. у 17:40",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri LASK-a iz Linca prvaci Austrije prvi put posle 61 godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/252634/fudbaleri-lask-a-iz-linca-prvaci-austrije-prvi-put-posle-61-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 05. 2026. у 16:34",
-      "slika": null
-    },
-    {
-      "naslov": "Živo je u Surdulici: Šansa, prečka, šansa!",
+      "naslov": "Desetkovana Zvezda bez pobede u Surdulici",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234140/uzivo-radnik-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 05. 2026. у 20:06",
+      "datum": "17. 05. 2026. у 20:27",
       "slika": null
     },
     {
