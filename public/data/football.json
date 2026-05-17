@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-17T05:10:02.155372+00:00",
-  "azurirano_sr": "17. 05. 2026. у 07:10",
+  "azurirano": "2026-05-17T07:42:43.380199+00:00",
+  "azurirano_sr": "17. 05. 2026. у 09:42",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -53,6 +53,13 @@
       "slika": null
     },
     {
+      "naslov": "Branislav Knežević: &quot;Osećali smo da mnogo potcenjuju Želju, Pastore me vodio sa sobom u Španiji&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234006/branislav-knezevic-za-b92sport-fk-zeleznicar-pancevo-elce-intervju/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 05. 2026. у 09:00",
+      "slika": null
+    },
+    {
       "naslov": "Sudija Lazar Lukić na udaru: &quot;Da se spuštam nisko njega da komentarišem - neću&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233993/sudija-lazar-lukic-na-udaru-da-se-spustam-nisko-njega-da-komentarisem-necu/vest",
       "izvor": "Б92 Српски фудбал",
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233981/carlije-za-opstanak-mladost-od-02-do-42-radnicki-od-01-do-21/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "16. 05. 2026. у 22:08",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda dogovorila transfer – dobiće 3.300.000 evra",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233892/daglas-ovusu-ide-iz-zvezde-za-3300000-evra/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 05. 2026. у 20:48",
       "slika": null
     }
   ]
