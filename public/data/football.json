@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-17T15:14:58.216379+00:00",
-  "azurirano_sr": "17. 05. 2026. у 17:14",
+  "azurirano": "2026-05-17T16:12:12.639233+00:00",
+  "azurirano_sr": "17. 05. 2026. у 18:12",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Elversberga prvi put u istoriji izborili plasman u Bundesligu",
+      "url": "https://www.tanjug.rs/sport/fudbal/252645/fudbaleri-elversberga-prvi-put-u-istoriji-izborili-plasman-u-bundesligu/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 05. 2026. у 17:40",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri LASK-a iz Linca prvaci Austrije prvi put posle 61 godine",
       "url": "https://www.tanjug.rs/sport/fudbal/252634/fudbaleri-lask-a-iz-linca-prvaci-austrije-prvi-put-posle-61-godine/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Golman Bajerna Manuel Nojer neizvestan za finale Kupa Nemačke",
-      "url": "https://www.tanjug.rs/sport/fudbal/252597/golman-bajerna-manuel-nojer-neizvestan-za-finale-kupa-nemacke/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 05. 2026. у 13:50",
+      "naslov": "Zvezda u Surdulici, rekreativno",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234140/uzivo-radnik-crvena-zvezda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 05. 2026. у 18:07",
       "slika": null
     },
     {
-      "naslov": "Partizanu izmiče drugo mesto – golman Čuke nesavladiv",
+      "naslov": "Partizanove nade sahranjene na Brdu!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234102/uzivo-cukaricki-partizan-lajv-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 05. 2026. у 16:50",
-      "slika": null
-    },
-    {
-      "naslov": "Branislav Knežević: &quot;Osećali smo da mnogo potcenjuju Želju, Pastore me vodio sa sobom u Španiji&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234006/branislav-knezevic-za-b92sport-fk-zeleznicar-pancevo-elce-intervju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 05. 2026. у 09:00",
+      "datum": "17. 05. 2026. у 17:56",
       "slika": null
     }
   ]
