@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-17T10:45:33.136347+00:00",
-  "azurirano_sr": "17. 05. 2026. у 12:45",
+  "azurirano": "2026-05-17T11:45:12.174748+00:00",
+  "azurirano_sr": "17. 05. 2026. у 13:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Četiri dana posle finala kupa direktan okršaj filijala Vojvodine i Zvezde za opstanak",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cetiri-dana-posle-finala-kupa-direktan-okrsaj-filijala-vojvodine-i-zvezde-za-opstanak/544014",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 05. 2026. у 15:23",
+      "slika": null
+    },
+    {
+      "naslov": "To se ne može propustiti",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/to-se-ne-moze-propustiti/544013",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 05. 2026. у 15:05",
+      "slika": null
+    },
     {
       "naslov": "LASK pred ostvarenjem čuda, treba mu bod za upis u istoriju",
       "url": "https://www.mozzartsport.com/fudbal/vesti/lask-pred-ostvarenjem-cuda-treba-mu-bod-za-upis-u-istoriju/544005",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/marinkovic-spreman-za-zeleznicar-krivo-mi-je-sto-nisam-bio-tu-dok-se-odlucivalo-o-evropi/544002",
       "izvor": "Мозарт Спорт",
       "datum": "17. 05. 2026. у 12:49",
-      "slika": null
-    },
-    {
-      "naslov": "Prošlost je iza njih, iluzije više nema: Santander u Primeri prvi put od Munitisa i Kupera",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/proslost-je-iza-njih-iluzije-vise-nema-santander-u-primeri-prvi-put-od-munitisa-i-kupera/543967",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 05. 2026. у 23:39",
-      "slika": null
-    },
-    {
-      "naslov": "Neka slave napaćeni: Došao kraj Fradijevoj hegemoniji, Đer na tronu posle 13 godina",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/neka-slave-napaceni-dosao-kraj-fradijevoj-hegemoniji-er-na-tronu-posle-13-godina/543962",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 05. 2026. у 21:20",
       "slika": null
     },
     {
