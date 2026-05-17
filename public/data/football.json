@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-17T12:41:07.371261+00:00",
-  "azurirano_sr": "17. 05. 2026. у 14:41",
+  "azurirano": "2026-05-17T14:09:16.191511+00:00",
+  "azurirano_sr": "17. 05. 2026. у 16:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Muke Srba u Primeri: Ili su oni bili dobri, a njihove ekipe loše - ili obrnuto",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/muke-srba-u-primeri-ili-su-oni-bili-dobri-a-njihove-ekipe-lose-ili-obrnuto/544021",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 05. 2026. у 17:38",
+      "slika": null
+    },
     {
       "naslov": "Četiri dana posle finala kupa direktan okršaj filijala Vojvodine i Zvezde za opstanak",
       "url": "https://www.mozzartsport.com/fudbal/vesti/cetiri-dana-posle-finala-kupa-direktan-okrsaj-filijala-vojvodine-i-zvezde-za-opstanak/544014",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Marinković spreman za Železničar: Krivo mi je što nisam bio tu dok se odlučivalo o Evropi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/marinkovic-spreman-za-zeleznicar-krivo-mi-je-sto-nisam-bio-tu-dok-se-odlucivalo-o-evropi/544002",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 05. 2026. у 12:49",
+      "naslov": "Fudbaler Mančester Junajteda Fernandeš poravnao rekord Premijer lige u asistencijama",
+      "url": "https://www.tanjug.rs/sport/fudbal/252619/fudbaler-mancester-junajteda-fernandes-poravnao-rekord-premijer-lige-u-asistencijama/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 05. 2026. у 15:32",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Mladosti iz Lučana pobedili Javor, ekipa iz Ivanjice ispala iz Superlige",
-      "url": "https://www.tanjug.rs/sport/fudbal/252500/fudbaleri-mladosti-iz-lucana-pobedili-javor-ekipa-iz-ivanjice-ispala-iz-superlige/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 05. 2026. у 22:16",
+      "naslov": "Partizan na Brdu – pobeda ili propast",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234102/uzivo-cukaricki-partizan-lajv-prenos/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 05. 2026. у 16:01",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234006/branislav-knezevic-za-b92sport-fk-zeleznicar-pancevo-elce-intervju/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "17. 05. 2026. у 09:00",
-      "slika": null
-    },
-    {
-      "naslov": "Sudija Lazar Lukić na udaru: &quot;Da se spuštam nisko njega da komentarišem - neću&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233993/sudija-lazar-lukic-na-udaru-da-se-spustam-nisko-njega-da-komentarisem-necu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 05. 2026. у 23:35",
       "slika": null
     }
   ]
