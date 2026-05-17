@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-17T16:12:12.639233+00:00",
-  "azurirano_sr": "17. 05. 2026. у 18:12",
+  "azurirano": "2026-05-17T17:12:39.645262+00:00",
+  "azurirano_sr": "17. 05. 2026. у 19:12",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Srđan Blagojević: Rezultat je neprijatan, dali smo maksimum u ovom trenutku",
+      "url": "https://www.tanjug.rs/sport/fudbal/252650/srdan-blagojevic-rezultat-je-neprijatan-dali-smo-maksimum-u-ovom-trenutku/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 05. 2026. у 18:30",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Čukaričkog i Partizana odigrali bez golova na Banovom brdu",
+      "url": "https://www.tanjug.rs/sport/fudbal/252647/fudbaleri-cukarickog-i-partizana-odigrali-bez-golova-na-banovom-brdu/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 05. 2026. у 18:17",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Elversberga prvi put u istoriji izborili plasman u Bundesligu",
       "url": "https://www.tanjug.rs/sport/fudbal/252645/fudbaleri-elversberga-prvi-put-u-istoriji-izborili-plasman-u-bundesligu/vest",
       "izvor": "Танјуг",
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Mančester Junajteda Fernandeš poravnao rekord Premijer lige u asistencijama",
-      "url": "https://www.tanjug.rs/sport/fudbal/252619/fudbaler-mancester-junajteda-fernandes-poravnao-rekord-premijer-lige-u-asistencijama/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 05. 2026. у 15:32",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Rome pobedili Lacio u rimskom derbiju",
-      "url": "https://www.tanjug.rs/sport/fudbal/252603/fudbaleri-rome-pobedili-lacio-u-rimskom-derbiju/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 05. 2026. у 14:13",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda u Surdulici, rekreativno",
+      "naslov": "Radniku poništen gol protiv Zvezde",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234140/uzivo-radnik-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 05. 2026. у 18:07",
+      "datum": "17. 05. 2026. у 19:10",
       "slika": null
     },
     {
-      "naslov": "Partizanove nade sahranjene na Brdu!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234102/uzivo-cukaricki-partizan-lajv-prenos/vest",
+      "naslov": "Trener Čukaričkog o deci koja su uzela bod Partizanu: &quot;Imamo blistavu budućnost&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234155/trener-cukarickog-o-deci-koja-su-uzela-bod-partizanu-imamo-blistavu-buducnost/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 05. 2026. у 17:56",
+      "datum": "17. 05. 2026. у 18:30",
       "slika": null
     }
   ]
