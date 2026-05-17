@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-17T01:29:08.713139+00:00",
-  "azurirano_sr": "17. 05. 2026. у 03:29",
+  "azurirano": "2026-05-17T05:10:02.155372+00:00",
+  "azurirano_sr": "17. 05. 2026. у 07:10",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -22,13 +22,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/ovakav-celsi-nije-za-velika-dela-semenjo-petom-doveo-siti-do-trofeja-u-fa-kupu/543958",
       "izvor": "Мозарт Спорт",
       "datum": "16. 05. 2026. у 19:53",
-      "slika": null
-    },
-    {
-      "naslov": "NAJAVA DANA (subota, 16. maj): Derbi za titulu u Škotskoj, finale FA kupa…",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-subota-16-maj-derbi-za-titulu-u-skotskoj-finale-fa-kupa/543909",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 05. 2026. у 09:47",
       "slika": null
     },
     {
@@ -71,6 +64,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233981/carlije-za-opstanak-mladost-od-02-do-42-radnicki-od-01-do-21/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "16. 05. 2026. у 22:08",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezda dogovorila transfer – dobiće 3.300.000 evra",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233892/daglas-ovusu-ide-iz-zvezde-za-3300000-evra/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "16. 05. 2026. у 20:48",
       "slika": null
     }
   ]
