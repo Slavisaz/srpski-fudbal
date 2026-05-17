@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-17T07:42:43.380199+00:00",
-  "azurirano_sr": "17. 05. 2026. у 09:42",
+  "azurirano": "2026-05-17T09:23:17.946555+00:00",
+  "azurirano_sr": "17. 05. 2026. у 11:23",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Marinković spreman za Železničar: Krivo mi je što nisam bio tu dok se odlučivalo o Evropi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/marinkovic-spreman-za-zeleznicar-krivo-mi-je-sto-nisam-bio-tu-dok-se-odlucivalo-o-evropi/544002",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 05. 2026. у 12:49",
+      "slika": null
+    },
     {
       "naslov": "Prošlost je iza njih, iluzije više nema: Santander u Primeri prvi put od Munitisa i Kupera",
       "url": "https://www.mozzartsport.com/fudbal/vesti/proslost-je-iza-njih-iluzije-vise-nema-santander-u-primeri-prvi-put-od-munitisa-i-kupera/543967",
@@ -22,6 +29,13 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/ovakav-celsi-nije-za-velika-dela-semenjo-petom-doveo-siti-do-trofeja-u-fa-kupu/543958",
       "izvor": "Мозарт Спорт",
       "datum": "16. 05. 2026. у 19:53",
+      "slika": null
+    },
+    {
+      "naslov": "Španski stručnjak Ćabi Alonso imenovan za novog trenera fudbalera Čelsija",
+      "url": "https://www.tanjug.rs/sport/fudbal/252561/spanski-strucnjak-cabi-alonso-imenovan-za-novog-trenera-fudbalera-celsija/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 05. 2026. у 10:28",
       "slika": null
     },
     {
@@ -46,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Andrej Ilić postigao dva gola u pobedi fudbalera Union Berlina protiv Augsburga",
-      "url": "https://www.tanjug.rs/sport/fudbal/252464/andrej-ilic-postigao-dva-gola-u-pobedi-fudbalera-union-berlina-protiv-augsburga/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 05. 2026. у 19:43",
-      "slika": null
-    },
-    {
       "naslov": "Branislav Knežević: &quot;Osećali smo da mnogo potcenjuju Želju, Pastore me vodio sa sobom u Španiji&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234006/branislav-knezevic-za-b92sport-fk-zeleznicar-pancevo-elce-intervju/vest",
       "izvor": "Б92 Српски фудбал",
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233993/sudija-lazar-lukic-na-udaru-da-se-spustam-nisko-njega-da-komentarisem-necu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "16. 05. 2026. у 23:35",
-      "slika": null
-    },
-    {
-      "naslov": "Superligaški trileri za opstanak – Mladost od 0:2 do 4:2, Radnički od 0:1 do 2:1",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/233981/carlije-za-opstanak-mladost-od-02-do-42-radnicki-od-01-do-21/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 05. 2026. у 22:08",
       "slika": null
     }
   ]
