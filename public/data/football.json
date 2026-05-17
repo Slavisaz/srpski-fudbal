@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-17T11:45:12.174748+00:00",
-  "azurirano_sr": "17. 05. 2026. у 13:45",
+  "azurirano": "2026-05-17T12:41:07.371261+00:00",
+  "azurirano_sr": "17. 05. 2026. у 14:41",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Rome pobedili Lacio u rimskom derbiju",
+      "url": "https://www.tanjug.rs/sport/fudbal/252603/fudbaleri-rome-pobedili-lacio-u-rimskom-derbiju/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 05. 2026. у 14:13",
+      "slika": null
+    },
+    {
+      "naslov": "Golman Bajerna Manuel Nojer neizvestan za finale Kupa Nemačke",
+      "url": "https://www.tanjug.rs/sport/fudbal/252597/golman-bajerna-manuel-nojer-neizvestan-za-finale-kupa-nemacke/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 05. 2026. у 13:50",
+      "slika": null
+    },
+    {
       "naslov": "Španski stručnjak Ćabi Alonso imenovan za novog trenera fudbalera Čelsija",
       "url": "https://www.tanjug.rs/sport/fudbal/252561/spanski-strucnjak-cabi-alonso-imenovan-za-novog-trenera-fudbalera-celsija/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/252500/fudbaleri-mladosti-iz-lucana-pobedili-javor-ekipa-iz-ivanjice-ispala-iz-superlige/vest",
       "izvor": "Танјуг",
       "datum": "16. 05. 2026. у 22:16",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Rasing Santandera posle 14 godina izborili povratak u prvu ligu Španije",
-      "url": "https://www.tanjug.rs/sport/fudbal/252475/fudbaleri-rasing-santandera-posle-14-godina-izborili-povratak-u-prvu-ligu-spanije/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 05. 2026. у 20:42",
-      "slika": null
-    },
-    {
-      "naslov": "FK Crvena zvezda: Posle utakmice sa OFK Beogradom proslava titule na Kalemegdanu",
-      "url": "https://www.tanjug.rs/sport/fudbal/252465/fk-crvena-zvezda-posle-utakmice-sa-ofk-beogradom-proslava-titule-na-kalemegdanu/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 05. 2026. у 19:44",
       "slika": null
     },
     {
