@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-18T12:00:34.788692+00:00",
-  "azurirano_sr": "18. 05. 2026. у 14:00",
+  "azurirano": "2026-05-18T15:41:03.019053+00:00",
+  "azurirano_sr": "18. 05. 2026. у 17:41",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "La Liga neće biti ista: Tri legende, dva emotivna “zbogom“... i jedno na čekanju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/la-liga-nece-biti-ista-tri-legende-dva-emotivna-zbogom-i-jedno-na-cekanju/544115",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 05. 2026. у 15:35",
+      "slika": null
+    },
     {
       "naslov": "Scene bezumlja za kraj Lige 1: Huligani u Nantu i Nici upali u teren i najurili igrače u svlačionicu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/scene-bezumlja-za-kraj-lige-1-huligani-u-nantu-i-nici-upali-u-teren-i-najurili-igrace-u-svlacionicu/544082",
@@ -25,38 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Lalatović: Moramo petorici da damo po 10.000 evra mesečno i 30 odsto \"na ruke\", inače smo prvi kandidati za ispadanje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lalatovic-moramo-petorici-da-damo-po-10000-evra-mesecno-i-30-odsto-na-ruke-inace-smo-prvi-kandidati-za-ispadanje/544058",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 05. 2026. у 22:26",
+      "naslov": "Rangnik objavio spisak fudbalera Austrije za Svetsko prvenstvo, Aranutović u napadu",
+      "url": "https://www.tanjug.rs/sport/fudbal/252866/rangnik-objavio-spisak-fudbalera-austrije-za-svetsko-prvenstvo-aranutovic-u-napadu/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 05. 2026. у 17:02",
       "slika": null
     },
     {
-      "naslov": "Terzić: Titule i kupove više i ne slavimo, to je počelo da se podrazumeva",
-      "url": "https://www.tanjug.rs/sport/fudbal/252768/terzic-titule-i-kupove-vise-i-ne-slavimo-to-je-pocelo-da-se-podrazumeva/vest",
+      "naslov": "Fermin Lopez zadobio prelom metatarzalne kosti, propušta Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/252862/fermin-lopez-zadobio-prelom-metatarzalne-kosti-propusta-svetsko-prvenstvo/vest",
       "izvor": "Танјуг",
-      "datum": "18. 05. 2026. у 11:56",
+      "datum": "18. 05. 2026. у 16:39",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Vojvodine pobedom protiv OFK Beograda obezbedili kvalifikacije za LE",
-      "url": "https://www.tanjug.rs/sport/fudbal/252680/fudbaleri-vojvodine-pobedom-protiv-ofk-beograda-obezbedili-kvalifikacije-za-le/vest",
+      "naslov": "Dani Karvahal na kraju sezone napušta Real Madrid",
+      "url": "https://www.tanjug.rs/sport/fudbal/252850/dani-karvahal-na-kraju-sezone-napusta-real-madrid/vest",
       "izvor": "Танјуг",
-      "datum": "17. 05. 2026. у 22:07",
+      "datum": "18. 05. 2026. у 15:52",
       "slika": null
     },
     {
-      "naslov": "Nenad Sakić: Skidam kapu momcima, zaslužuju punu Marakanu na proslavi duple krune",
-      "url": "https://www.tanjug.rs/sport/fudbal/252674/nenad-sakic-skidam-kapu-momcima-zasluzuju-punu-marakanu-na-proslavi-duple-krune/vest",
+      "naslov": "Danijel Bajhler nije više trener fudbalera Salcburga",
+      "url": "https://www.tanjug.rs/sport/fudbal/252825/danijel-bajhler-nije-vise-trener-fudbalera-salcburga/vest",
       "izvor": "Танјуг",
-      "datum": "17. 05. 2026. у 21:03",
+      "datum": "18. 05. 2026. у 15:01",
       "slika": null
     },
     {
-      "naslov": "Remi fudbalera Radnika i Zvezde u Surdulici",
-      "url": "https://www.tanjug.rs/sport/fudbal/252669/remi-fudbalera-radnika-i-zvezde-u-surdulici/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 05. 2026. у 20:27",
+      "naslov": "Ljajić: &quot;Veliki neuspeh&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234383/rasim-ljajic-posle-treceg-mesta-fk-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 05. 2026. у 15:09",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234288/zvezdan-terzic-o-zvezdi-pojacanjima/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 05. 2026. у 12:20",
-      "slika": null
-    },
-    {
-      "naslov": "Lalatović: &quot;Ako ne damo igračima 10.000 evra mesečno, prvi smo kandidati za ispadanje&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234235/lalatovic-ako-ne-damo-igracima-10000-evra-mesecno-prvi-smo-kandidati-za-ispadanje/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 05. 2026. у 11:17",
       "slika": null
     }
   ]
