@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-18T08:33:43.424860+00:00",
-  "azurirano_sr": "18. 05. 2026. у 10:33",
+  "azurirano": "2026-05-18T12:00:34.788692+00:00",
+  "azurirano_sr": "18. 05. 2026. у 14:00",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Terzić: Titule i kupove više i ne slavimo, to je počelo da se podrazumeva",
+      "url": "https://www.tanjug.rs/sport/fudbal/252768/terzic-titule-i-kupove-vise-i-ne-slavimo-to-je-pocelo-da-se-podrazumeva/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 05. 2026. у 11:56",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Vojvodine pobedom protiv OFK Beograda obezbedili kvalifikacije za LE",
       "url": "https://www.tanjug.rs/sport/fudbal/252680/fudbaleri-vojvodine-pobedom-protiv-ofk-beograda-obezbedili-kvalifikacije-za-le/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Srđan Blagojević: Rezultat je neprijatan, dali smo maksimum u ovom trenutku",
-      "url": "https://www.tanjug.rs/sport/fudbal/252650/srdan-blagojevic-rezultat-je-neprijatan-dali-smo-maksimum-u-ovom-trenutku/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 05. 2026. у 18:30",
+      "naslov": "Terzić: &quot;U završnim pregovorima smo sa pojačanjima&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234288/zvezdan-terzic-o-zvezdi-pojacanjima/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 05. 2026. у 12:20",
       "slika": null
     },
     {
-      "naslov": "&quot;Skidam kapu momcima, zaslužuju punu Marakanu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234182/skidam-kapu-momcima-zasluzuju-punu-marakanu/vest",
+      "naslov": "Lalatović: &quot;Ako ne damo igračima 10.000 evra mesečno, prvi smo kandidati za ispadanje&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234235/lalatovic-ako-ne-damo-igracima-10000-evra-mesecno-prvi-smo-kandidati-za-ispadanje/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 05. 2026. у 22:40",
-      "slika": null
-    },
-    {
-      "naslov": "Loše vesti za Partizan – Voša overila drugo mesto Superlige!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234186/lose-vesti-za-partizan-vosa-overila-drugo-mesto-superlige/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 05. 2026. у 22:00",
+      "datum": "18. 05. 2026. у 11:17",
       "slika": null
     }
   ]
