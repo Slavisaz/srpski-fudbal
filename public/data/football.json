@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-18T17:47:49.815232+00:00",
-  "azurirano_sr": "18. 05. 2026. у 19:47",
+  "azurirano": "2026-05-18T19:16:32.117955+00:00",
+  "azurirano_sr": "18. 05. 2026. у 21:16",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Mladi fudbaler OFK Beograda Aleksa Cvetković blizu prelaska u Standard iz Liježa",
+      "url": "https://www.tanjug.rs/sport/fudbal/252920/mladi-fudbaler-ofk-beograda-aleksa-cvetkovic-blizu-prelaska-u-standard-iz-lijeza/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 05. 2026. у 20:30",
+      "slika": null
+    },
+    {
       "naslov": "Crvena Zvezda u petak protiv OFK Beograda slavi duplu krunu i predstavlja nove dresove",
       "url": "https://www.tanjug.rs/sport/fudbal/252882/crvena-zvezda-u-petak-protiv-ofk-beograda-slavi-duplu-krunu-i-predstavlja-nove-dresove/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Dani Karvahal na kraju sezone napušta Real Madrid",
-      "url": "https://www.tanjug.rs/sport/fudbal/252850/dani-karvahal-na-kraju-sezone-napusta-real-madrid/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 05. 2026. у 15:52",
+      "naslov": "Kostov u Borusiji za 25.000.000 evra?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234479/borusija-dortmund-zainteresovana-za-vasilija-kostova/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 05. 2026. у 20:45",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234426/medvedja-odala-pocast-blagoju-paunovicu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 05. 2026. у 19:45",
-      "slika": null
-    },
-    {
-      "naslov": "Velikan želi Dejana Stankovića!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234440/panatinaikos-zeli-da-dovede-dejana-stankovica-iz-crvene-zvezde/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 05. 2026. у 18:00",
       "slika": null
     }
   ]
