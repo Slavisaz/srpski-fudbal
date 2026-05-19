@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-19T08:51:25.853663+00:00",
-  "azurirano_sr": "19. 05. 2026. у 10:51",
+  "azurirano": "2026-05-19T11:48:20.770908+00:00",
+  "azurirano_sr": "19. 05. 2026. у 13:48",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Srpski teniser Dušan Lajović eliminisan na startu kvalifikacija za Rolan Garos",
+      "url": "https://www.tanjug.rs/sport/fudbal/253055/srpski-teniser-dusan-lajovic-eliminisan-na-startu-kvalifikacija-za-rolan-garos/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 05. 2026. у 13:16",
+      "slika": null
+    },
+    {
+      "naslov": "Selektor Škotske Stiv Klark objavio spisak od 26 fudbalera za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/253042/selektor-skotske-stiv-klark-objavio-spisak-od-26-fudbalera-za-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 05. 2026. у 12:30",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Juventusa Vlahović i Lokateli kažnjeni zbog međusobne svađe",
+      "url": "https://www.tanjug.rs/sport/fudbal/253039/fudbaleri-juventusa-vlahovic-i-lokateli-kaznjeni-zbog-medusobne-svade/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 05. 2026. у 12:13",
+      "slika": null
+    },
+    {
       "naslov": "Anćeloti saopštio spisak, Nejmar ide na Mundijal",
       "url": "https://www.tanjug.rs/sport/fudbal/252950/anceloti-saopstio-spisak-nejmar-ide-na-mundijal/vest",
       "izvor": "Танјуг",
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Haverc za pobedu Arsenala protiv Barnlija, još korak do titule",
-      "url": "https://www.tanjug.rs/sport/fudbal/252943/haverc-za-pobedu-arsenala-protiv-barnlija-jos-korak-do-titule/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 05. 2026. у 22:58",
-      "slika": null
-    },
-    {
-      "naslov": "Mladi fudbaler OFK Beograda Aleksa Cvetković blizu prelaska u Standard iz Liježa",
-      "url": "https://www.tanjug.rs/sport/fudbal/252920/mladi-fudbaler-ofk-beograda-aleksa-cvetkovic-blizu-prelaska-u-standard-iz-lijeza/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 05. 2026. у 20:30",
-      "slika": null
-    },
-    {
-      "naslov": "Crvena Zvezda u petak protiv OFK Beograda slavi duplu krunu i predstavlja nove dresove",
-      "url": "https://www.tanjug.rs/sport/fudbal/252882/crvena-zvezda-u-petak-protiv-ofk-beograda-slavi-duplu-krunu-i-predstavlja-nove-dresove/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 05. 2026. у 17:53",
-      "slika": null
-    },
-    {
-      "naslov": "Šampion Evrope želi fudbalera Zvezde!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234572/sampion-evrope-zeli-fudbalera-zvezde/vest",
+      "naslov": "Katai &quot;počistio&quot; konkurenciju: Druga mladost i priznanje za najboljeg igrača Superlige",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234644/aleksandar-katai-najbolji-fudbaler-superlige-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "19. 05. 2026. у 10:45",
+      "datum": "19. 05. 2026. у 13:30",
       "slika": null
     },
     {
-      "naslov": "&quot;Mogli su da me pozovu u &#039;B&#039; reprezentaciju – verovatno bih igrao za Srbiju jer sam Srbin&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234559/rade-krunic-o-srbiji-mogli-su-u-b-reprezentaciju-da-me-pozovu/vest",
+      "naslov": "Radomir Koković – ubedljivo najbolji trener Superlige Srbije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234615/radomir-kokovic-ubedljivo-izabran-za-najboljeg-trenera-superlige-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "19. 05. 2026. у 10:15",
+      "datum": "19. 05. 2026. у 12:35",
       "slika": null
     }
   ]
