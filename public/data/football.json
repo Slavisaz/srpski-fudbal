@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-19T14:18:48.897731+00:00",
-  "azurirano_sr": "19. 05. 2026. у 16:18",
+  "azurirano": "2026-05-19T17:18:44.354508+00:00",
+  "azurirano_sr": "19. 05. 2026. у 19:18",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Lautaro Martinez otvoreno: Neću ostati u fudbalu, ne sviđa mi se to okruženje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lautaro-martinez-otvoreno-necu-ostati-u-fudbalu-ne-svia-mi-se-to-okruzenje/544183",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 05. 2026. у 18:16",
+      "slika": null
+    },
     {
       "naslov": "Raport sa srpskoligaških terena: Poznata sva četiri nova prvoligaša, slede obračuni za opstanak",
       "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-poznata-sva-cetiri-nova-prvoligasa-slede-obracuni-za-opstanak/544178",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "To se zove timski duh: Slavlje zbog poziva saigraču na Svetsko prvenstvo (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/to-se-zove-timski-duh-slavlje-zbog-poziva-saigracu-na-svetsko-prvenstvo-video/544150",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 05. 2026. у 23:30",
+      "naslov": "Aleksandar Katai najbolji fudbaler Superlige Srbije za sezonu 2025/26",
+      "url": "https://www.tanjug.rs/sport/fudbal/253130/aleksandar-katai-najbolji-fudbaler-superlige-srbije-za-sezonu-202526/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 05. 2026. у 16:57",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/253076/dejan-stankovic-susret-sa-vasovicem-bio-je-iskljucivo-prijateljski-i-nema-drugu-pozadinu/vest",
       "izvor": "Танјуг",
       "datum": "19. 05. 2026. у 14:11",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski teniser Dušan Lajović eliminisan na startu kvalifikacija za Rolan Garos",
-      "url": "https://www.tanjug.rs/sport/fudbal/253055/srpski-teniser-dusan-lajovic-eliminisan-na-startu-kvalifikacija-za-rolan-garos/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 05. 2026. у 13:16",
       "slika": null
     },
     {
