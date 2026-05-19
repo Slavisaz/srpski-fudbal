@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-19T17:18:44.354508+00:00",
-  "azurirano_sr": "19. 05. 2026. у 19:18",
+  "azurirano": "2026-05-19T19:19:20.864904+00:00",
+  "azurirano_sr": "19. 05. 2026. у 21:19",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Skupa cena špijuniranja: Sautempton izbačen iz finala plej-ofa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/skupa-cena-spijuniranja-sautempton-izbacen-iz-finala-plejofa/544219",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 05. 2026. у 22:16",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbalski svet na svečanoj ceremoniji Mozzart Bet Superlige",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalski-svet-na-svecanoj-ceremoniji-mozzart-bet-superlige/544218",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 05. 2026. у 22:10",
+      "slika": null
+    },
     {
       "naslov": "Lautaro Martinez otvoreno: Neću ostati u fudbalu, ne sviđa mi se to okruženje",
       "url": "https://www.mozzartsport.com/fudbal/vesti/lautaro-martinez-otvoreno-necu-ostati-u-fudbalu-ne-svia-mi-se-to-okruzenje/544183",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Dok je cela nacija slavila, u jednom domu je bila tuga (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dok-je-cela-nacija-slavila-u-jednom-domu-je-bila-tuga-video/544177",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 05. 2026. у 10:52",
-      "slika": null
-    },
-    {
-      "naslov": "LUDI TIKET (utorak), 37.386 dinara: Znalac za fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-utorak-37386-dinara-znalac-za-fudbal/544170",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 05. 2026. у 10:17",
+      "naslov": "Rolando Maran novi selektor fudbalera Albanije",
+      "url": "https://www.tanjug.rs/sport/fudbal/253155/rolando-maran-novi-selektor-fudbalera-albanije/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 05. 2026. у 18:34",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Dejan Stanković: Susret sa Vasovićem bio je isključivo prijateljski i nema drugu pozadinu",
-      "url": "https://www.tanjug.rs/sport/fudbal/253076/dejan-stankovic-susret-sa-vasovicem-bio-je-iskljucivo-prijateljski-i-nema-drugu-pozadinu/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 05. 2026. у 14:11",
+      "naslov": "Superliga odabrala najboljih 11: Najviše iz Zvezde i Želje, samo jedan iz Partizana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234753/izabrani-najbolji-u-superligi-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 05. 2026. у 19:42",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234644/aleksandar-katai-najbolji-fudbaler-superlige-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 05. 2026. у 13:30",
-      "slika": null
-    },
-    {
-      "naslov": "Radomir Koković – ubedljivo najbolji trener Superlige Srbije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234615/radomir-kokovic-ubedljivo-izabran-za-najboljeg-trenera-superlige-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 05. 2026. у 12:35",
       "slika": null
     }
   ]
