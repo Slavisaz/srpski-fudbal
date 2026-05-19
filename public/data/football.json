@@ -1,34 +1,34 @@
 {
-  "azurirano": "2026-05-19T05:52:10.844910+00:00",
-  "azurirano_sr": "19. 05. 2026. у 07:52",
+  "azurirano": "2026-05-19T08:51:25.853663+00:00",
+  "azurirano_sr": "19. 05. 2026. у 10:51",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Raport sa srpskoligaških terena: Poznata sva četiri nova prvoligaša, slede obračuni za opstanak",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-poznata-sva-cetiri-nova-prvoligasa-slede-obracuni-za-opstanak/544178",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 05. 2026. у 10:55",
+      "slika": null
+    },
+    {
+      "naslov": "Dok je cela nacija slavila, u jednom domu je bila tuga (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dok-je-cela-nacija-slavila-u-jednom-domu-je-bila-tuga-video/544177",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 05. 2026. у 10:52",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET (utorak), 37.386 dinara: Znalac za fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-utorak-37386-dinara-znalac-za-fudbal/544170",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 05. 2026. у 10:17",
+      "slika": null
+    },
     {
       "naslov": "To se zove timski duh: Slavlje zbog poziva saigraču na Svetsko prvenstvo (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/to-se-zove-timski-duh-slavlje-zbog-poziva-saigracu-na-svetsko-prvenstvo-video/544150",
       "izvor": "Мозарт Спорт",
       "datum": "18. 05. 2026. у 23:30",
-      "slika": null
-    },
-    {
-      "naslov": "Zlatna kopačka Balkana ne ide na Mundijal – šta to govori o Hrvatskoj i ligama u regionu?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zlatna-kopacka-balkana-ne-ide-na-mundijal-sta-to-govori-o-hrvatskoj-i-ligama-u-regionu/544131",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 05. 2026. у 21:04",
-      "slika": null
-    },
-    {
-      "naslov": "Ako se Kodžaman vrati u Fener, Jevtović bi bio pred transferom karijere",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ako-se-kodzaman-vrati-u-fener-jevtovic-bi-bio-pred-transferom-karijere/544136",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 05. 2026. у 20:24",
-      "slika": null
-    },
-    {
-      "naslov": "La Liga neće biti ista: Tri legende, dva emotivna “zbogom“... i jedno na čekanju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/la-liga-nece-biti-ista-tri-legende-dva-emotivna-zbogom-i-jedno-na-cekanju/544115",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 05. 2026. у 15:35",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "OFK Beograd &quot;puni kasu&quot; – prodaje talenta u Belgiju",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234475/ofk-beograd-puni-kasu-prodaje-talenta-u-belgiju/vest",
+      "naslov": "Šampion Evrope želi fudbalera Zvezde!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234572/sampion-evrope-zeli-fudbalera-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 05. 2026. у 21:30",
+      "datum": "19. 05. 2026. у 10:45",
       "slika": null
     },
     {
-      "naslov": "Kostov u Borusiji za 25.000.000 evra?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234479/borusija-dortmund-zainteresovana-za-vasilija-kostova/vest",
+      "naslov": "&quot;Mogli su da me pozovu u &#039;B&#039; reprezentaciju – verovatno bih igrao za Srbiju jer sam Srbin&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234559/rade-krunic-o-srbiji-mogli-su-u-b-reprezentaciju-da-me-pozovu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 05. 2026. у 20:45",
+      "datum": "19. 05. 2026. у 10:15",
       "slika": null
     }
   ]
