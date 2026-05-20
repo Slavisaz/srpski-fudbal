@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-20T04:39:17.390013+00:00",
-  "azurirano_sr": "20. 05. 2026. у 06:39",
+  "azurirano": "2026-05-20T08:04:13.306213+00:00",
+  "azurirano_sr": "20. 05. 2026. у 10:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "LUDI TIKET (sreda), 1.567.558 dinara: Majstor južnoameričkog fudbala iz Novog Pazara",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-sreda-1567558-dinara-majstor-juznoamerickog-fudbala-iz-novog-pazara/544243",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 05. 2026. у 11:41",
+      "slika": null
+    },
+    {
+      "naslov": "INTERVJU – Luka Jović: Tata, potpiši za AEK do kraja karijere",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/intervju-luka-jovic-tata-potpisi-za-aek-do-kraja-karijere/544240",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 05. 2026. у 11:00",
+      "slika": null
+    },
     {
       "naslov": "Skupa cena špijuniranja: Sautempton izbačen iz finala plej-ofa",
       "url": "https://www.mozzartsport.com/fudbal/vesti/skupa-cena-spijuniranja-sautempton-izbacen-iz-finala-plejofa/544219",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Lautaro Martinez otvoreno: Neću ostati u fudbalu, ne sviđa mi se to okruženje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lautaro-martinez-otvoreno-necu-ostati-u-fudbalu-ne-svia-mi-se-to-okruzenje/544183",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 05. 2026. у 18:16",
-      "slika": null
-    },
-    {
-      "naslov": "Raport sa srpskoligaških terena: Poznata sva četiri nova prvoligaša, slede obračuni za opstanak",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-poznata-sva-cetiri-nova-prvoligasa-slede-obracuni-za-opstanak/544178",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 05. 2026. у 10:55",
+      "naslov": "Večeras u finalu Lige Evrope igraju Frajburg i Aston Vila",
+      "url": "https://www.tanjug.rs/sport/fudbal/253248/veceras-u-finalu-lige-evrope-igraju-frajburg-i-aston-vila/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 05. 2026. у 08:50",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Sautempton izbačen iz baraža za Premijer ligu zbog špijunaže",
-      "url": "https://www.tanjug.rs/sport/fudbal/253191/sautempton-izbacen-iz-baraza-za-premijer-ligu-zbog-spijunaze/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 05. 2026. у 20:54",
+      "naslov": "Partizan dobio konkurenciju za napadača",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234821/partizan-zainteresovan-za-nardina-mulahusejnovica-ali-zele-ga-i-jagjelonija-i-vidjev-lodj/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "20. 05. 2026. у 08:57",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234753/izabrani-najbolji-u-superligi-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 05. 2026. у 19:42",
-      "slika": null
-    },
-    {
-      "naslov": "Katai &quot;počistio&quot; konkurenciju: Druga mladost i priznanje za najboljeg igrača Superlige",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234644/aleksandar-katai-najbolji-fudbaler-superlige-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 05. 2026. у 13:30",
       "slika": null
     }
   ]
