@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-05-20T08:04:13.306213+00:00",
-  "azurirano_sr": "20. 05. 2026. у 10:04",
+  "azurirano": "2026-05-20T11:16:21.892122+00:00",
+  "azurirano_sr": "20. 05. 2026. у 13:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Enem: Nisam mogao da igram za Jong Ajaks i radim još jedan posao, sumnjao sam u svoju karijeru",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/enem-nisam-mogao-da-igram-za-jong-ajaks-i-radim-jos-jedan-posao-sumnjao-sam-u-svoju-karijeru/544258",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 05. 2026. у 14:51",
+      "slika": null
+    },
+    {
+      "naslov": "Ko to kaže, ko to laže da Engleze ne zanima Liga Evrope?!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ko-to-kaze-ko-to-laze-da-engleze-ne-zanima-liga-evrope/544250",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 05. 2026. у 12:52",
+      "slika": null
+    },
+    {
+      "naslov": "Vaskrsenje Kingsa Kangve: Cena i do 3.000.000, Seltik stao u red",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vaskrsenje-kingsa-kangve-cena-i-do-3000000-seltik-stao-u-red/544245",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 05. 2026. у 11:58",
+      "slika": null
+    },
     {
       "naslov": "LUDI TIKET (sreda), 1.567.558 dinara: Majstor južnoameričkog fudbala iz Novog Pazara",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-sreda-1567558-dinara-majstor-juznoamerickog-fudbala-iz-novog-pazara/544243",
@@ -11,24 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "INTERVJU – Luka Jović: Tata, potpiši za AEK do kraja karijere",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/intervju-luka-jovic-tata-potpisi-za-aek-do-kraja-karijere/544240",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 05. 2026. у 11:00",
+      "naslov": "Selektor Švajcarske Murat Jakin saopštio spisak od 26 igrača za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/253319/selektor-svajcarske-murat-jakin-saopstio-spisak-od-26-igraca-za-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 05. 2026. у 12:30",
       "slika": null
     },
     {
-      "naslov": "Skupa cena špijuniranja: Sautempton izbačen iz finala plej-ofa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/skupa-cena-spijuniranja-sautempton-izbacen-iz-finala-plejofa/544219",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 05. 2026. у 22:16",
+      "naslov": "Mladi fudbaler Nebojša Grujić potpisao prvi profesionalni ugovor sa Čukaričkim",
+      "url": "https://www.tanjug.rs/sport/fudbal/253320/mladi-fudbaler-nebojsa-grujic-potpisao-prvi-profesionalni-ugovor-sa-cukarickim/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 05. 2026. у 12:28",
       "slika": null
     },
     {
-      "naslov": "Fudbalski svet na svečanoj ceremoniji Mozzart Bet Superlige",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalski-svet-na-svecanoj-ceremoniji-mozzart-bet-superlige/544218",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 05. 2026. у 22:10",
+      "naslov": "Nikola Simić: Velika je čast biti u timu sezone, priznanje pripada celoj svlačionici",
+      "url": "https://www.tanjug.rs/sport/fudbal/253276/nikola-simic-velika-je-cast-biti-u-timu-sezone-priznanje-pripada-celoj-svlacionici/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 05. 2026. у 10:33",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Čelsija pobedili Totenhem u 37. kolu Premijer lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/253219/fudbaleri-celsija-pobedili-totenhem-u-37-kolu-premijer-lige/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 05. 2026. у 23:14",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Arsenala posle 22 godine ponovo šampioni Engleske",
-      "url": "https://www.tanjug.rs/sport/fudbal/253206/fudbaleri-arsenala-posle-22-godine-ponovo-sampioni-engleske/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 05. 2026. у 22:36",
-      "slika": null
-    },
-    {
-      "naslov": "Izabran idealan tim Superlige Srbije, u njemu šest fudbalera Crvene zvezde",
-      "url": "https://www.tanjug.rs/sport/fudbal/253203/izabran-idealan-tim-superlige-srbije-u-njemu-sest-fudbalera-crvene-zvezde/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 05. 2026. у 21:44",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan dobio konkurenciju za napadača",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234821/partizan-zainteresovan-za-nardina-mulahusejnovica-ali-zele-ga-i-jagjelonija-i-vidjev-lodj/vest",
+      "naslov": "Čukarički &quot;zaključao&quot; bisera",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234923/nebojsa-grujic-potpisao-prvi-profesionalni-ugovor-sa-cukarickim/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "20. 05. 2026. у 08:57",
+      "datum": "20. 05. 2026. у 12:45",
       "slika": null
     },
     {
-      "naslov": "Superliga odabrala najboljih 11: Najviše iz Zvezde i Želje, samo jedan iz Partizana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234753/izabrani-najbolji-u-superligi-srbije/vest",
+      "naslov": "Simić: &quot;Ginuli smo za grb Partizana&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234864/simic-ginuli-smo-za-grb-partizana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "19. 05. 2026. у 19:42",
+      "datum": "20. 05. 2026. у 11:32",
       "slika": null
     }
   ]
