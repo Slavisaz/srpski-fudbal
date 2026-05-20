@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-20T16:39:59.210064+00:00",
-  "azurirano_sr": "20. 05. 2026. у 18:39",
+  "azurirano": "2026-05-20T19:05:45.285456+00:00",
+  "azurirano_sr": "20. 05. 2026. у 21:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Veliki posao Marka Jovanovića: Teleoptik stigao do istorijske duple krune - neporažen!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/veliki-posao-marka-jovanovica-teleoptik-stigao-do-istorijske-duple-krune-neporazen/544291",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 05. 2026. у 21:28",
+      "slika": null
+    },
+    {
+      "naslov": "Vasilije Novičić potvrdio kontakt sa Zvezdom: Imam ljude koji se time bave, ipak sam ja klinac",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vasilije-novicic-potvrdio-kontakt-sa-zvezdom-imam-ljude-koji-se-time-bave-ipak-sam-ja-klinac/544285",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 05. 2026. у 20:38",
+      "slika": null
+    },
     {
       "naslov": "Bernardo Silva u Madridu kao Grizmanov naslednik?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bernardo-silva-u-madridu-kao-grizmanov-naslednik/544273",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/najcudniji-i-najsrecniji-finalista-svih-vremena/544272",
       "izvor": "Мозарт Спорт",
       "datum": "20. 05. 2026. у 17:45",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski golman ima priliku da osvoji Kup Bugarske pre prelaska u neku znatno jaču ligu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-golman-ima-priliku-da-osvoji-kup-bugarske-pre-prelaska-u-neku-znatno-jacu-ligu/544270",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 05. 2026. у 16:16",
-      "slika": null
-    },
-    {
-      "naslov": "Enem: Nisam mogao da igram za Jong Ajaks i radim još jedan posao, sumnjao sam u svoju karijeru",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/enem-nisam-mogao-da-igram-za-jong-ajaks-i-radim-jos-jedan-posao-sumnjao-sam-u-svoju-karijeru/544258",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 05. 2026. у 14:51",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Natho presekao – kraj karijere: &quot;Nisam mogao da zamislim da negde igram posle Partizana&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235052/natho-odlucio-da-zavrsi-karijeru-u-fk-partizan-video/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "20. 05. 2026. у 19:46",
+      "slika": null
+    },
+    {
       "naslov": "Marin pozvao zvezdaše na proslavu titule: Šlag na torti bio bi plasman u Ligu šampiona",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235038/marin-pozvao-zvezdase-na-proslavu-titule-slag-na-torti-bio-bi-plasman-u-ligu-sampiona/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "20. 05. 2026. у 18:05",
-      "slika": null
-    },
-    {
-      "naslov": "Čukarički &quot;zaključao&quot; bisera",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234923/nebojsa-grujic-potpisao-prvi-profesionalni-ugovor-sa-cukarickim/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "20. 05. 2026. у 12:45",
       "slika": null
     }
   ]
