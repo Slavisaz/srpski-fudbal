@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-20T11:16:21.892122+00:00",
-  "azurirano_sr": "20. 05. 2026. у 13:16",
+  "azurirano": "2026-05-20T13:47:32.094242+00:00",
+  "azurirano_sr": "20. 05. 2026. у 15:47",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srpski golman ima priliku da osvoji Kup Bugarske pre prelaska u neku znatno jaču ligu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-golman-ima-priliku-da-osvoji-kup-bugarske-pre-prelaska-u-neku-znatno-jacu-ligu/544270",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 05. 2026. у 16:16",
+      "slika": null
+    },
     {
       "naslov": "Enem: Nisam mogao da igram za Jong Ajaks i radim još jedan posao, sumnjao sam u svoju karijeru",
       "url": "https://www.mozzartsport.com/fudbal/vesti/enem-nisam-mogao-da-igram-za-jong-ajaks-i-radim-jos-jedan-posao-sumnjao-sam-u-svoju-karijeru/544258",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "LUDI TIKET (sreda), 1.567.558 dinara: Majstor južnoameričkog fudbala iz Novog Pazara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-sreda-1567558-dinara-majstor-juznoamerickog-fudbala-iz-novog-pazara/544243",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 05. 2026. у 11:41",
+      "naslov": "Zvezdanu Terziću novi mandat na mestu predsednika Upravnog odbora SD Crvena zvezda",
+      "url": "https://www.tanjug.rs/sport/fudbal/253354/zvezdanu-terzicu-novi-mandat-na-mestu-predsednika-upravnog-odbora-sd-crvena-zvezda/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 05. 2026. у 14:22",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/253276/nikola-simic-velika-je-cast-biti-u-timu-sezone-priznanje-pripada-celoj-svlacionici/vest",
       "izvor": "Танјуг",
       "datum": "20. 05. 2026. у 10:33",
-      "slika": null
-    },
-    {
-      "naslov": "Večeras u finalu Lige Evrope igraju Frajburg i Aston Vila",
-      "url": "https://www.tanjug.rs/sport/fudbal/253248/veceras-u-finalu-lige-evrope-igraju-frajburg-i-aston-vila/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 05. 2026. у 08:50",
       "slika": null
     },
     {
