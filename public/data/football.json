@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-20T13:47:32.094242+00:00",
-  "azurirano_sr": "20. 05. 2026. у 15:47",
+  "azurirano": "2026-05-20T16:39:59.210064+00:00",
+  "azurirano_sr": "20. 05. 2026. у 18:39",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Bernardo Silva u Madridu kao Grizmanov naslednik?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bernardo-silva-u-madridu-kao-grizmanov-naslednik/544273",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 05. 2026. у 18:18",
+      "slika": null
+    },
+    {
+      "naslov": "Najčudniji i najsrećniji finalista svih vremena",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najcudniji-i-najsrecniji-finalista-svih-vremena/544272",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 05. 2026. у 17:45",
+      "slika": null
+    },
     {
       "naslov": "Srpski golman ima priliku da osvoji Kup Bugarske pre prelaska u neku znatno jaču ligu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-golman-ima-priliku-da-osvoji-kup-bugarske-pre-prelaska-u-neku-znatno-jacu-ligu/544270",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Ko to kaže, ko to laže da Engleze ne zanima Liga Evrope?!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ko-to-kaze-ko-to-laze-da-engleze-ne-zanima-liga-evrope/544250",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 05. 2026. у 12:52",
-      "slika": null
-    },
-    {
-      "naslov": "Vaskrsenje Kingsa Kangve: Cena i do 3.000.000, Seltik stao u red",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vaskrsenje-kingsa-kangve-cena-i-do-3000000-seltik-stao-u-red/544245",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 05. 2026. у 11:58",
+      "naslov": "UEFA usvojila novi koncept fudbalskih reprezentativnih takmičenja, počev od 2028. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/253402/uefa-usvojila-novi-koncept-fudbalskih-reprezentativnih-takmicenja-pocev-od-2028-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 05. 2026. у 16:42",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Nikola Simić: Velika je čast biti u timu sezone, priznanje pripada celoj svlačionici",
-      "url": "https://www.tanjug.rs/sport/fudbal/253276/nikola-simic-velika-je-cast-biti-u-timu-sezone-priznanje-pripada-celoj-svlacionici/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 05. 2026. у 10:33",
+      "naslov": "Marin pozvao zvezdaše na proslavu titule: Šlag na torti bio bi plasman u Ligu šampiona",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235038/marin-pozvao-zvezdase-na-proslavu-titule-slag-na-torti-bio-bi-plasman-u-ligu-sampiona/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "20. 05. 2026. у 18:05",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234923/nebojsa-grujic-potpisao-prvi-profesionalni-ugovor-sa-cukarickim/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "20. 05. 2026. у 12:45",
-      "slika": null
-    },
-    {
-      "naslov": "Simić: &quot;Ginuli smo za grb Partizana&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/234864/simic-ginuli-smo-za-grb-partizana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "20. 05. 2026. у 11:32",
       "slika": null
     }
   ]
