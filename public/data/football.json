@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-20T19:05:45.285456+00:00",
-  "azurirano_sr": "20. 05. 2026. у 21:05",
+  "azurirano": "2026-05-20T21:06:24.762232+00:00",
+  "azurirano_sr": "20. 05. 2026. у 23:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Natho u subotu odlazi u penziju: Nisam mogao da zamislim da igram bilo gde posle Partizana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/natho-u-subotu-odlazi-u-penziju-nisam-mogao-da-zamislim-da-igram-bilo-gde-posle-partizana/544298",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 05. 2026. у 22:52",
+      "slika": null
+    },
     {
       "naslov": "Veliki posao Marka Jovanovića: Teleoptik stigao do istorijske duple krune - neporažen!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/veliki-posao-marka-jovanovica-teleoptik-stigao-do-istorijske-duple-krune-neporazen/544291",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Najčudniji i najsrećniji finalista svih vremena",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najcudniji-i-najsrecniji-finalista-svih-vremena/544272",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 05. 2026. у 17:45",
+      "naslov": "Fudbaleri Aston Vile ubedljivo savladali Frajburg i osvojili Ligu Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/253248/fudbaleri-aston-vile-ubedljivo-savladali-frajburg-i-osvojili-ligu-evrope/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 05. 2026. у 22:52",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/253319/selektor-svajcarske-murat-jakin-saopstio-spisak-od-26-igraca-za-svetsko-prvenstvo/vest",
       "izvor": "Танјуг",
       "datum": "20. 05. 2026. у 12:30",
-      "slika": null
-    },
-    {
-      "naslov": "Mladi fudbaler Nebojša Grujić potpisao prvi profesionalni ugovor sa Čukaričkim",
-      "url": "https://www.tanjug.rs/sport/fudbal/253320/mladi-fudbaler-nebojsa-grujic-potpisao-prvi-profesionalni-ugovor-sa-cukarickim/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 05. 2026. у 12:28",
       "slika": null
     },
     {
