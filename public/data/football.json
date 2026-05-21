@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-21T05:56:22.110946+00:00",
-  "azurirano_sr": "21. 05. 2026. у 07:56",
+  "azurirano": "2026-05-21T09:24:47.853565+00:00",
+  "azurirano_sr": "21. 05. 2026. у 11:24",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Vidim da pripadate establišmentu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vidim-da-pripadate-establismentu/544322",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 05. 2026. у 12:57",
+      "slika": null
+    },
+    {
+      "naslov": "INTERVJU – Radomir Koković: Mislim da imam potencijal za rad u ozbiljnom fudbalu u Evropi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/intervju-radomir-kokovic-mislim-da-imam-potencijal-za-rad-u-ozbiljnom-fudbalu-u-evropi/544324",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 05. 2026. у 12:46",
+      "slika": null
+    },
     {
       "naslov": "Otvorio se Luis de la Fuente: Gledam 60 utakmica nedeljno, najteža odluka - sklanjanje Ramosa",
       "url": "https://www.mozzartsport.com/fudbal/vesti/otvorio-se-luis-de-la-fuente-gledam-60-utakmica-nedeljno-najteza-odluka-sklanjanje-ramosa/544313",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/farioli-raspalio-po-ajaksu-odluke-donose-ljudi-koji-nemaju-fudbalsko-znanje-usporavaju-klub/544312",
       "izvor": "Мозарт Спорт",
       "datum": "21. 05. 2026. у 02:24",
-      "slika": null
-    },
-    {
-      "naslov": "Natho u subotu odlazi u penziju: Nisam mogao da zamislim da igram bilo gde posle Partizana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/natho-u-subotu-odlazi-u-penziju-nisam-mogao-da-zamislim-da-igram-bilo-gde-posle-partizana/544298",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 05. 2026. у 22:52",
-      "slika": null
-    },
-    {
-      "naslov": "Veliki posao Marka Jovanovića: Teleoptik stigao do istorijske duple krune - neporažen!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/veliki-posao-marka-jovanovica-teleoptik-stigao-do-istorijske-duple-krune-neporazen/544291",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 05. 2026. у 21:28",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Natho presekao – kraj karijere: &quot;Nisam mogao da zamislim da negde igram posle Partizana&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235052/natho-odlucio-da-zavrsi-karijeru-u-fk-partizan-video/vest",
+      "naslov": "Problematični fudbaler napustio Partizan",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235118/gajas-zahid-napustio-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "20. 05. 2026. у 19:46",
+      "datum": "21. 05. 2026. у 09:00",
       "slika": null
     },
     {
-      "naslov": "Marin pozvao zvezdaše na proslavu titule: Šlag na torti bio bi plasman u Ligu šampiona",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235038/marin-pozvao-zvezdase-na-proslavu-titule-slag-na-torti-bio-bi-plasman-u-ligu-sampiona/vest",
+      "naslov": "Direktor IMT-a za B92.sport: &quot;Blizu smo prodaje Novičića u jedan od najboljih klubova na svetu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235088/predrag-govedarica-za-b92sport-vasilije-novicic-transfer-intervju/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "20. 05. 2026. у 18:05",
+      "datum": "21. 05. 2026. у 08:30",
       "slika": null
     }
   ]
