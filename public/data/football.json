@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-21T17:50:15.552963+00:00",
-  "azurirano_sr": "21. 05. 2026. у 19:50",
+  "azurirano": "2026-05-21T19:30:17.835557+00:00",
+  "azurirano_sr": "21. 05. 2026. у 21:30",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kao da se zainatio što ne ide na Mundijal, pa je rešio da Ajaks odvede u Evropu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kao-da-se-zainatio-sto-ne-ide-na-mundijal-pa-je-resio-da-ajaks-odvede-u-evropu/544376",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 05. 2026. у 23:03",
+      "slika": null
+    },
     {
       "naslov": "Skupština služila za održavanje pozicija! Mijatović i Ljajić imaju kapacitet, ali nemaju saradnike (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/skupstina-sluzila-za-odrzavanje-pozicija-mijatovic-i-ljajic-imaju-kapacitet-ali-nemaju-saradnike-video/544292",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Srbija hoće finale Lige Evrope 2029.",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-hoce-finale-lige-evrope-2029/544351",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 05. 2026. у 17:52",
+      "naslov": "Megvajer: Šokiran sam i razočaran izostankom sa spiska reprezentacije Engleske za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/253748/megvajer-sokiran-sam-i-razocaran-izostankom-sa-spiska-reprezentacije-engleske-za-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 05. 2026. у 19:45",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Dejan Stanković: Momci su zaslužili da ih zvezdaši pozdrave u velikom broju",
-      "url": "https://www.tanjug.rs/sport/fudbal/253700/dejan-stankovic-momci-su-zasluzili-da-ih-zvezdasi-pozdrave-u-velikom-broju/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 05. 2026. у 16:19",
+      "naslov": "Tanasković odgovorio Terziću: &quot;Mora da obrati pažnju&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235357/zeljko-tanaskovic-odgovorio-zvezdanu-terzicu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 05. 2026. у 21:21",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235275/kadeti-srbije-protiv-japana-kolumbije-i-hondurasa-na-svetskom-prventsvu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "21. 05. 2026. у 16:56",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković zove na proslavu titule: &quot;Ovi momci zaslužuju&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235212/dejan-stankovic-pred-zvezda-ofk-beograd/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 05. 2026. у 13:45",
       "slika": null
     }
   ]
