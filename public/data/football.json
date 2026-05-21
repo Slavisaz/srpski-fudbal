@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-05-21T12:29:41.193960+00:00",
-  "azurirano_sr": "21. 05. 2026. у 14:29",
+  "azurirano": "2026-05-21T15:55:50.234362+00:00",
+  "azurirano_sr": "21. 05. 2026. у 17:55",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Veliki igrač, još veći čovek: Poruke koje su izraelski fudbaleri slali Nathu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/veliki-igrac-jos-veci-covek-poruke-koje-su-izraelski-fudbaleri-slali-nathu/544358",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 05. 2026. у 18:48",
+      "slika": null
+    },
+    {
+      "naslov": "Žarko Lazetić pregovara sa Tuluzom!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zarko-lazetic-pregovara-sa-tuluzom/544352",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 05. 2026. у 18:08",
+      "slika": null
+    },
+    {
+      "naslov": "Srbija hoće finale Lige Evrope 2029.",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-hoce-finale-lige-evrope-2029/544351",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 05. 2026. у 17:52",
+      "slika": null
+    },
     {
       "naslov": "Vidim da pripadate establišmentu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vidim-da-pripadate-establismentu/544322",
@@ -11,24 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "INTERVJU – Radomir Koković: Mislim da imam potencijal za rad u ozbiljnom fudbalu u Evropi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/intervju-radomir-kokovic-mislim-da-imam-potencijal-za-rad-u-ozbiljnom-fudbalu-u-evropi/544324",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 05. 2026. у 12:46",
+      "naslov": "Besplatan ulaz na utakmicu Partizan - Radnik povodom Nathovog oproštaja",
+      "url": "https://www.tanjug.rs/sport/fudbal/253710/besplatan-ulaz-na-utakmicu-partizan-radnik-povodom-nathovog-oprostaja/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 05. 2026. у 16:53",
       "slika": null
     },
     {
-      "naslov": "Otvorio se Luis de la Fuente: Gledam 60 utakmica nedeljno, najteža odluka - sklanjanje Ramosa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/otvorio-se-luis-de-la-fuente-gledam-60-utakmica-nedeljno-najteza-odluka-sklanjanje-ramosa/544313",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 05. 2026. у 03:24",
+      "naslov": "Dejan Stanković: Momci su zaslužili da ih zvezdaši pozdrave u velikom broju",
+      "url": "https://www.tanjug.rs/sport/fudbal/253700/dejan-stankovic-momci-su-zasluzili-da-ih-zvezdasi-pozdrave-u-velikom-broju/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 05. 2026. у 16:19",
       "slika": null
     },
     {
-      "naslov": "Farioli raspalio po Ajaksu: Odluke donose ljudi koji nemaju fudbalsko znanje, usporavaju klub",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/farioli-raspalio-po-ajaksu-odluke-donose-ljudi-koji-nemaju-fudbalsko-znanje-usporavaju-klub/544312",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 05. 2026. у 02:24",
+      "naslov": "Brazilski fudbaler Tijago Silva napustio Porto posle pola godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/253696/brazilski-fudbaler-tijago-silva-napustio-porto-posle-pola-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 05. 2026. у 16:06",
       "slika": null
     },
     {
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Jago Aspas produžio ugovor sa Seltom za još jednu sezonu",
-      "url": "https://www.tanjug.rs/sport/fudbal/253603/jago-aspas-produzio-ugovor-sa-seltom-za-jos-jednu-sezonu/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 05. 2026. у 12:38",
-      "slika": null
-    },
-    {
-      "naslov": "Španski fudbaler Dani Pareho na kraju sezone napušta Viljareal",
-      "url": "https://www.tanjug.rs/sport/fudbal/253586/spanski-fudbaler-dani-pareho-na-kraju-sezone-napusta-viljareal/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 05. 2026. у 12:10",
-      "slika": null
-    },
-    {
-      "naslov": "Unai Emeri: Nisam kralj Lige Evrope, bez igrača ništa ne bi bilo moguće",
-      "url": "https://www.tanjug.rs/sport/fudbal/253573/unai-emeri-nisam-kralj-lige-evrope-bez-igraca-nista-ne-bi-bilo-moguce/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 05. 2026. у 11:32",
+      "naslov": "Srbija saznala rivale na SP u Kataru",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235275/kadeti-srbije-protiv-japana-kolumbije-i-hondurasa-na-svetskom-prventsvu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 05. 2026. у 16:56",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235212/dejan-stankovic-pred-zvezda-ofk-beograd/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "21. 05. 2026. у 13:45",
-      "slika": null
-    },
-    {
-      "naslov": "Problematični fudbaler napustio Partizan",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235118/gajas-zahid-napustio-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 05. 2026. у 09:00",
       "slika": null
     }
   ]
