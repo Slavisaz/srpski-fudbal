@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-22T13:42:18.993338+00:00",
-  "azurirano_sr": "22. 05. 2026. у 15:42",
+  "azurirano": "2026-05-22T16:05:08.601099+00:00",
+  "azurirano_sr": "22. 05. 2026. у 18:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Malekinušić u Pazaru do leta 2029, Preković još godinu, pred novim potpisom i Bačkulja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/malekinusic-u-pazaru-do-leta-2029-prekovic-jos-godinu-pred-novim-potpisom-i-backulja/544453",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 05. 2026. у 19:25",
+      "slika": null
+    },
     {
       "naslov": "Humanitarni tiket u podne: Sa Markom Neđićem do 212.000",
       "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-sa-markom-neicem-do-212000/544439",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Pogođena pojačanja, vraćene u život zvezde padalice, trofej na Sen Deniju za sezonu iz snova",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pogoena-pojacanja-vracene-u-zivot-zvezde-padalice-trofej-na-sen-deniju-za-sezonu-iz-snova/544426",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 05. 2026. у 14:28",
+      "naslov": "Nenad Lalatović na kraju sezone napušta Novi Pazar",
+      "url": "https://www.tanjug.rs/sport/fudbal/253979/nenad-lalatovic-na-kraju-sezone-napusta-novi-pazar/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 05. 2026. у 17:53",
+      "slika": null
+    },
+    {
+      "naslov": "Aleksandar Pešić novi fudbaler Karagumruka",
+      "url": "https://www.tanjug.rs/sport/fudbal/253972/aleksandar-pesic-novi-fudbaler-karagumruka/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 05. 2026. у 17:23",
+      "slika": null
+    },
+    {
+      "naslov": "Srđan Blagojević: Imamo veliku obavezu da Nathu ulepšamo oproštaj",
+      "url": "https://www.tanjug.rs/sport/fudbal/253954/srdan-blagojevic-imamo-veliku-obavezu-da-nathu-ulepsamo-oprostaj/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 05. 2026. у 16:11",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/253884/spanski-strucnjak-gvardiola-napusta-mesto-trenera-mancester-sitija-posle-10-godina/vest",
       "izvor": "Танјуг",
       "datum": "22. 05. 2026. у 12:46",
-      "slika": null
-    },
-    {
-      "naslov": "Majkl Karik ostaje trener fudbalera Mančester Junajteda",
-      "url": "https://www.tanjug.rs/sport/fudbal/253879/majkl-karik-ostaje-trener-fudbalera-mancester-junajteda/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 05. 2026. у 12:29",
-      "slika": null
-    },
-    {
-      "naslov": "Selektor Engleske Tomas Tuhel saopštio spisak fudbalera za Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/253863/selektor-engleske-tomas-tuhel-saopstio-spisak-fudbalera-za-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 05. 2026. у 11:46",
-      "slika": null
-    },
-    {
-      "naslov": "Alvaro Arbeloa potvrdio da napušta mesto trenera fudbalera Reala na kraju sezone",
-      "url": "https://www.tanjug.rs/sport/fudbal/253861/alvaro-arbeloa-potvrdio-da-napusta-mesto-trenera-fudbalera-reala-na-kraju-sezone/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 05. 2026. у 11:42",
       "slika": null
     },
     {
