@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-22T17:59:59.684387+00:00",
-  "azurirano_sr": "22. 05. 2026. у 19:59",
+  "azurirano": "2026-05-22T19:50:19.292175+00:00",
+  "azurirano_sr": "22. 05. 2026. у 21:50",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbalerima Crvene zvezde uručen trofej i dodeljene medalje namenjene šampionu Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/254021/fudbalerima-crvene-zvezde-urucen-trofej-i-dodeljene-medalje-namenjene-sampionu-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 05. 2026. у 20:22",
+      "slika": null
+    },
+    {
       "naslov": "David Alaba na kraju sezone napušta Real Madrid",
       "url": "https://www.tanjug.rs/sport/fudbal/254005/david-alaba-na-kraju-sezone-napusta-real-madrid/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Aleksandar Pešić novi fudbaler Karagumruka",
-      "url": "https://www.tanjug.rs/sport/fudbal/253972/aleksandar-pesic-novi-fudbaler-karagumruka/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 05. 2026. у 17:23",
-      "slika": null
-    },
-    {
-      "naslov": "Nula za kraj sezone",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235624/remi-cukarickog-i-zeleznicara-00-u-poslednjem-kolu-sls/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 05. 2026. у 19:47",
-      "slika": null
-    },
-    {
-      "naslov": "Kasne dodela pehara i utakmica",
+      "naslov": "POLUVREME Zvezda i OFK promašili po veliku šansu",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235592/uzivo-crvena-zvezda-ofk-beograd-proslava-titule-gde-gledati/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "22. 05. 2026. у 19:38",
+      "datum": "22. 05. 2026. у 21:37",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezda je krunisana FOTO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235641/zvezda-je-krunisana-foto/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 05. 2026. у 20:56",
       "slika": null
     }
   ]
