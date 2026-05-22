@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-22T05:44:38.992454+00:00",
-  "azurirano_sr": "22. 05. 2026. у 07:44",
+  "azurirano": "2026-05-22T08:39:26.465385+00:00",
+  "azurirano_sr": "22. 05. 2026. у 10:39",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Alegri skuplja šampionski DNK za novi Milan",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/alegri-skuplja-sampionski-dnk-za-novi-milan/544410",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 05. 2026. у 12:00",
+      "slika": null
+    },
     {
       "naslov": "Zlatanović u izboru za najboljeg stranca u Izraelu; u konkurenciji i bivši Zvezdin vezista",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zlatanovic-u-izboru-za-najboljeg-stranca-u-izraelu-u-konkurenciji-i-bivsi-zvezdin-vezista/544379",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Veliki igrač, još veći čovek: Poruke koje su izraelski fudbaleri slali Nathu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/veliki-igrac-jos-veci-covek-poruke-koje-su-izraelski-fudbaleri-slali-nathu/544358",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 05. 2026. у 18:48",
+      "naslov": "Selektor Norveške Stale Solbaken objavio spisak fudbalera za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/253831/selektor-norveske-stale-solbaken-objavio-spisak-fudbalera-za-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 05. 2026. у 10:16",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Megvajer: Šokiran sam i razočaran izostankom sa spiska reprezentacije Engleske za Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/253748/megvajer-sokiran-sam-i-razocaran-izostankom-sa-spiska-reprezentacije-engleske-za-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 05. 2026. у 19:45",
+      "naslov": "Isti protivnik na &quot;Marakani&quot;, dva univerzuma",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235353/crvena-zvezda-proslava-titule-2026-protiv-ofk-beograda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 05. 2026. у 08:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235279/radomir-kokovic-konferencija-pred-poslednje-kolo-superlige-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "21. 05. 2026. у 21:30",
-      "slika": null
-    },
-    {
-      "naslov": "Tanasković odgovorio Terziću: &quot;Mora da obrati pažnju&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235357/zeljko-tanaskovic-odgovorio-zvezdanu-terzicu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 05. 2026. у 21:21",
       "slika": null
     }
   ]
