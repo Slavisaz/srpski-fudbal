@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-05-22T21:00:25.761681+00:00",
-  "azurirano_sr": "22. 05. 2026. у 23:00",
+  "azurirano": "2026-05-22T22:11:18.464116+00:00",
+  "azurirano_sr": "23. 05. 2026. у 00:11",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Spektakularna sezona nije mogla da prođe bez nagrade, krunisana je istorijskim peharom!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/spektakularna-sezona-nije-mogla-da-proe-bez-nagrade-krunisana-je-istorijskim-peharom/544482",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 01:34",
+      "slika": null
+    },
+    {
+      "naslov": "Stanković: Jedno od najlepših večeri otkad sam trener",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-jedno-od-najlepsih-veceri-otkad-sam-trener/544481",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 01:16",
+      "slika": null
+    },
+    {
+      "naslov": "Daudina luda sudbina pre Zvezde: Zaustavili su auto usred ničega i terali da potpišem, uplašio sam se za život",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/daudina-luda-sudbina-pre-zvezde-zaustavili-su-auto-usred-nicega-i-terali-da-potpisem-uplasio-sam-se-za-zivot/544477",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 01:03",
+      "slika": null
+    },
     {
       "naslov": "Dominacija Vladimira Ivića u Emiratima: Posle titule osvojio i kup!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dominacija-vladimira-ivica-u-emiratima-posle-titule-osvojio-i-kup/544472",
@@ -11,24 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Tanjga: Superligaške nagrade dokaz da nas javnost ne poštuje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tanjga-superligaske-nagrade-dokaz-da-nas-javnost-ne-postuje/544460",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 05. 2026. у 21:22",
+      "naslov": "Fudbaleri Lansa prvi put osvojili Kup Francuske",
+      "url": "https://www.tanjug.rs/sport/fudbal/254043/fudbaleri-lansa-prvi-put-osvojili-kup-francuske/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 05. 2026. у 23:43",
       "slika": null
     },
     {
-      "naslov": "Malekinušić u Pazaru do leta 2029, Preković još godinu, pred novim potpisom i Bačkulja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/malekinusic-u-pazaru-do-leta-2029-prekovic-jos-godinu-pred-novim-potpisom-i-backulja/544453",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 05. 2026. у 19:25",
+      "naslov": "Stanković posle proslave titule: Za mene je ovo najlepše veče od kada sam trener",
+      "url": "https://www.tanjug.rs/sport/fudbal/254042/stankovic-posle-proslave-titule-za-mene-je-ovo-najlepse-vece-od-kada-sam-trener/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 05. 2026. у 23:42",
       "slika": null
     },
     {
-      "naslov": "Humanitarni tiket u podne: Sa Markom Neđićem do 212.000",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-sa-markom-neicem-do-212000/544439",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 05. 2026. у 16:02",
+      "naslov": "Fudbaleri Crvene zvezde poraženi od OFK Beograda na proslavi titule",
+      "url": "https://www.tanjug.rs/sport/fudbal/254037/fudbaleri-crvene-zvezde-porazeni-od-ofk-beograda-na-proslavi-titule/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 05. 2026. у 23:04",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "David Alaba na kraju sezone napušta Real Madrid",
-      "url": "https://www.tanjug.rs/sport/fudbal/254005/david-alaba-na-kraju-sezone-napusta-real-madrid/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 05. 2026. у 19:21",
+      "naslov": "Vojvodina ostaje bez kapitena",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235621/slobodan-medojevic-napusta-vojvodinu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 05. 2026. у 23:50",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Železničara i Čukaričkog odigrali nerešeno u poslednjem kolu Superlige",
-      "url": "https://www.tanjug.rs/sport/fudbal/254004/fudbaleri-zeleznicara-i-cukarickog-odigrali-nereseno-u-poslednjem-kolu-superlige/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 05. 2026. у 19:20",
-      "slika": null
-    },
-    {
-      "naslov": "Nenad Lalatović na kraju sezone napušta Novi Pazar",
-      "url": "https://www.tanjug.rs/sport/fudbal/253979/nenad-lalatovic-na-kraju-sezone-napusta-novi-pazar/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 05. 2026. у 17:53",
-      "slika": null
-    },
-    {
-      "naslov": "OFK Beograd posle 13 godina pobedio Zvezdu na Marakani!",
+      "naslov": "OFK Beograd posle 13 godina pobedio Zvezdu na Marakani!; Stanković: &quot;Najlepše veče otkako sam trener&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235592/uzivo-crvena-zvezda-ofk-beograd-proslava-titule-gde-gledati/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "22. 05. 2026. у 22:56",
-      "slika": null
-    },
-    {
-      "naslov": "OFK &quot;partibrejker&quot; na crveno-beloj žurci – Zvezda nije mogla protiv inspirisanog Siluea",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235674/ofk-partibrejker-na-crveno-beloj-zurci-zvezda-nije-mogla-protiv-inspirisanog-siluea/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 05. 2026. у 22:47",
+      "datum": "22. 05. 2026. у 23:34",
       "slika": null
     }
   ]
