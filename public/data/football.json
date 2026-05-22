@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-22T16:05:08.601099+00:00",
-  "azurirano_sr": "22. 05. 2026. у 18:05",
+  "azurirano": "2026-05-22T17:59:59.684387+00:00",
+  "azurirano_sr": "22. 05. 2026. у 19:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Tanjga: Superligaške nagrade dokaz da nas javnost ne poštuje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tanjga-superligaske-nagrade-dokaz-da-nas-javnost-ne-postuje/544460",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 05. 2026. у 21:22",
+      "slika": null
+    },
     {
       "naslov": "Malekinušić u Pazaru do leta 2029, Preković još godinu, pred novim potpisom i Bačkulja",
       "url": "https://www.mozzartsport.com/fudbal/vesti/malekinusic-u-pazaru-do-leta-2029-prekovic-jos-godinu-pred-novim-potpisom-i-backulja/544453",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Ko će od bivših partizanovaca da podigne trofej u Turskoj?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ko-ce-od-bivsih-partizanovaca-da-podigne-trofej-u-turskoj/544435",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 05. 2026. у 15:27",
+      "naslov": "David Alaba na kraju sezone napušta Real Madrid",
+      "url": "https://www.tanjug.rs/sport/fudbal/254005/david-alaba-na-kraju-sezone-napusta-real-madrid/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 05. 2026. у 19:21",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Železničara i Čukaričkog odigrali nerešeno u poslednjem kolu Superlige",
+      "url": "https://www.tanjug.rs/sport/fudbal/254004/fudbaleri-zeleznicara-i-cukarickog-odigrali-nereseno-u-poslednjem-kolu-superlige/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 05. 2026. у 19:20",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Srđan Blagojević: Imamo veliku obavezu da Nathu ulepšamo oproštaj",
-      "url": "https://www.tanjug.rs/sport/fudbal/253954/srdan-blagojevic-imamo-veliku-obavezu-da-nathu-ulepsamo-oprostaj/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 05. 2026. у 16:11",
-      "slika": null
-    },
-    {
-      "naslov": "Španski stručnjak Gvardiola napušta mesto trenera Mančester Sitija posle 10 godina",
-      "url": "https://www.tanjug.rs/sport/fudbal/253884/spanski-strucnjak-gvardiola-napusta-mesto-trenera-mancester-sitija-posle-10-godina/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 05. 2026. у 12:46",
-      "slika": null
-    },
-    {
-      "naslov": "Nenad Lalatović ponovo traži klub",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235536/nenad-lalatovic-ponovo-trazi-klub/vest",
+      "naslov": "Nula za kraj sezone",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235624/remi-cukarickog-i-zeleznicara-00-u-poslednjem-kolu-sls/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "22. 05. 2026. у 15:29",
+      "datum": "22. 05. 2026. у 19:47",
       "slika": null
     },
     {
-      "naslov": "Blagojević emotivno o Nathu: &quot;Penalom je završio trening&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235529/blagojevic-emotivno-o-nathu-penalom-je-zavrsio-trening/vest",
+      "naslov": "Kasne dodela pehara i utakmica",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235592/uzivo-crvena-zvezda-ofk-beograd-proslava-titule-gde-gledati/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "22. 05. 2026. у 15:15",
+      "datum": "22. 05. 2026. у 19:38",
       "slika": null
     }
   ]
