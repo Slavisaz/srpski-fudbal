@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-22T19:50:19.292175+00:00",
-  "azurirano_sr": "22. 05. 2026. у 21:50",
+  "azurirano": "2026-05-22T21:00:25.761681+00:00",
+  "azurirano_sr": "22. 05. 2026. у 23:00",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dominacija Vladimira Ivića u Emiratima: Posle titule osvojio i kup!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dominacija-vladimira-ivica-u-emiratima-posle-titule-osvojio-i-kup/544472",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 00:09",
+      "slika": null
+    },
     {
       "naslov": "Tanjga: Superligaške nagrade dokaz da nas javnost ne poštuje",
       "url": "https://www.mozzartsport.com/fudbal/vesti/tanjga-superligaske-nagrade-dokaz-da-nas-javnost-ne-postuje/544460",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-sa-markom-neicem-do-212000/544439",
       "izvor": "Мозарт Спорт",
       "datum": "22. 05. 2026. у 16:02",
-      "slika": null
-    },
-    {
-      "naslov": "Aleksandar Pešić potpisao za turskog drugoligaša",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/aleksandar-pesic-potpisao-za-turskog-drugoligasa/544437",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 05. 2026. у 15:49",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "POLUVREME Zvezda i OFK promašili po veliku šansu",
+      "naslov": "OFK Beograd posle 13 godina pobedio Zvezdu na Marakani!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235592/uzivo-crvena-zvezda-ofk-beograd-proslava-titule-gde-gledati/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "22. 05. 2026. у 21:37",
+      "datum": "22. 05. 2026. у 22:56",
       "slika": null
     },
     {
-      "naslov": "Zvezda je krunisana FOTO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235641/zvezda-je-krunisana-foto/vest",
+      "naslov": "OFK &quot;partibrejker&quot; na crveno-beloj žurci – Zvezda nije mogla protiv inspirisanog Siluea",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235674/ofk-partibrejker-na-crveno-beloj-zurci-zvezda-nije-mogla-protiv-inspirisanog-siluea/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "22. 05. 2026. у 20:56",
+      "datum": "22. 05. 2026. у 22:47",
       "slika": null
     }
   ]
