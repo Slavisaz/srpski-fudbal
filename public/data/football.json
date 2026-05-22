@@ -1,34 +1,34 @@
 {
-  "azurirano": "2026-05-22T11:28:02.438379+00:00",
-  "azurirano_sr": "22. 05. 2026. у 13:28",
+  "azurirano": "2026-05-22T13:42:18.993338+00:00",
+  "azurirano_sr": "22. 05. 2026. у 15:42",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Humanitarni tiket u podne: Sa Markom Neđićem do 212.000",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-sa-markom-neicem-do-212000/544439",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 05. 2026. у 16:02",
+      "slika": null
+    },
+    {
+      "naslov": "Aleksandar Pešić potpisao za turskog drugoligaša",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/aleksandar-pesic-potpisao-za-turskog-drugoligasa/544437",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 05. 2026. у 15:49",
+      "slika": null
+    },
+    {
+      "naslov": "Ko će od bivših partizanovaca da podigne trofej u Turskoj?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ko-ce-od-bivsih-partizanovaca-da-podigne-trofej-u-turskoj/544435",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 05. 2026. у 15:27",
+      "slika": null
+    },
     {
       "naslov": "Pogođena pojačanja, vraćene u život zvezde padalice, trofej na Sen Deniju za sezonu iz snova",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pogoena-pojacanja-vracene-u-zivot-zvezde-padalice-trofej-na-sen-deniju-za-sezonu-iz-snova/544426",
       "izvor": "Мозарт Спорт",
       "datum": "22. 05. 2026. у 14:28",
-      "slika": null
-    },
-    {
-      "naslov": "Visi transfer Ovusua u Plzenj, problem medicinski pregledi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/visi-transfer-ovusua-u-plzenj-problem-medicinski-pregledi/544427",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 05. 2026. у 14:26",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezdin Milson i dvojica Srba pretnja za Ivićevu vladavinu u Emiratima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdin-milson-i-dvojica-srba-pretnja-za-ivicevu-vladavinu-u-emiratima/544421",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 05. 2026. у 13:30",
-      "slika": null
-    },
-    {
-      "naslov": "Hristos Colis? Vaistinu Colis!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/hristos-colis-vaistinu-colis/544413",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 05. 2026. у 12:59",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Isti protivnik na &quot;Marakani&quot;, dva univerzuma",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235353/crvena-zvezda-proslava-titule-2026-protiv-ofk-beograda/vest",
+      "naslov": "Nenad Lalatović ponovo traži klub",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235536/nenad-lalatovic-ponovo-trazi-klub/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "22. 05. 2026. у 08:00",
+      "datum": "22. 05. 2026. у 15:29",
       "slika": null
     },
     {
-      "naslov": "Koković: &quot;Navijači, uveličajte nam kraj posebne sezone&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235279/radomir-kokovic-konferencija-pred-poslednje-kolo-superlige-srbije/vest",
+      "naslov": "Blagojević emotivno o Nathu: &quot;Penalom je završio trening&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235529/blagojevic-emotivno-o-nathu-penalom-je-zavrsio-trening/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "21. 05. 2026. у 21:30",
+      "datum": "22. 05. 2026. у 15:15",
       "slika": null
     }
   ]
