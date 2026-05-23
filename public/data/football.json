@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-23T14:12:28.378591+00:00",
-  "azurirano_sr": "23. 05. 2026. у 16:12",
+  "azurirano": "2026-05-23T15:19:02.977858+00:00",
+  "azurirano_sr": "23. 05. 2026. у 17:19",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvanično: Kings Kangva najbolji igrač prvenstva Izraela",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-kings-kangva-najbolji-igrac-prvenstva-izraela/544538",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 18:13",
+      "slika": null
+    },
     {
       "naslov": "Dva kupa za devet godina – da nije to premalo za Bajern?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dva-kupa-za-devet-godina-da-nije-to-premalo-za-bajern/544536",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Ruši se još jedna fudbalska dinastija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rusi-se-jos-jedna-fudbalska-dinastija/544523",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 05. 2026. у 15:54",
+      "naslov": "Niko O'Rajli najbolji mladi fudbaler Premijer lige za sezonu 2025/26",
+      "url": "https://www.tanjug.rs/sport/fudbal/254151/niko-orajli-najbolji-mladi-fudbaler-premijer-lige-za-sezonu-202526/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 05. 2026. у 16:44",
       "slika": null
     },
     {
@@ -53,21 +60,14 @@
       "slika": null
     },
     {
-      "naslov": "Učvršćeno bratstvo CSKA i JSD Partizan: Kreće nova era saradnje i razmene sportista",
-      "url": "https://www.tanjug.rs/sport/fudbal/254100/ucvrsceno-bratstvo-cska-i-jsd-partizan-krece-nova-era-saradnje-i-razmene-sportista/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 05. 2026. у 12:12",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan duplirao prednost!",
+      "naslov": "Humska gledala goleadu: Petarda Partizana za kraj - Natho ušao u legendu!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235773/uzivo-partizan-radnik-lajv-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 05. 2026. у 15:57",
+      "datum": "23. 05. 2026. у 17:01",
       "slika": null
     },
     {
-      "naslov": "Suze, ovacije i gol na oproštaju Natha FOTO",
+      "naslov": "Suze, ovacije i gol na oproštaju Natha FOTO/VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235806/poslednji-mec-bibrasa-natha-u-partizanu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "23. 05. 2026. у 15:50",
