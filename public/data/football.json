@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-23T16:15:56.751730+00:00",
-  "azurirano_sr": "23. 05. 2026. у 18:15",
+  "azurirano": "2026-05-23T17:18:02.086136+00:00",
+  "azurirano_sr": "23. 05. 2026. у 19:18",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Početak sezone košmaran, nastavak idealan: Seltik osvojio 22. duplu krunu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pocetak-sezone-kosmaran-nastavak-idealan-seltik-osvojio-22-duplu-krunu/544547",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 20:07",
+      "slika": null
+    },
     {
       "naslov": "Zvanično: Kings Kangva najbolji igrač prvenstva Izraela",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-kings-kangva-najbolji-igrac-prvenstva-izraela/544538",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Zmajevi započinju misiju zvanu Svetsko prvenstvo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zmajevi-zapocinju-misiju-zvanu-svetsko-prvenstvo/544528",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 05. 2026. у 16:55",
+      "naslov": "Fudbaleri Hal Sitija savladali Midlzbro i plasirali se u Premijer ligu",
+      "url": "https://www.tanjug.rs/sport/fudbal/254173/fudbaleri-hal-sitija-savladali-midlzbro-i-plasirali-se-u-premijer-ligu/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 05. 2026. у 18:39",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Adriana Vilagoš zauzela treće mesto na Dijamantskoj ligi u Sjamenu",
-      "url": "https://www.tanjug.rs/sport/fudbal/254120/adriana-vilagos-zauzela-trece-mesto-na-dijamantskoj-ligi-u-sjamenu/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 05. 2026. у 13:55",
+      "naslov": "&quot;Bile su teške godine, ali Partizan će se vratiti jači&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235838/natho-za-kraj/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "23. 05. 2026. у 18:15",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235806/poslednji-mec-bibrasa-natha-u-partizanu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "23. 05. 2026. у 17:43",
-      "slika": null
-    },
-    {
-      "naslov": "Trener Partizana: &quot;Nije vreme za analizu, ovo je dan Bibarsa Natha&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235825/srdjan-blagojevic-izjava-posle-kraja-sezone-u-superligi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 05. 2026. у 17:25",
       "slika": null
     }
   ]
