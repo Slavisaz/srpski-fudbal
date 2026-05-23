@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-23T17:18:02.086136+00:00",
-  "azurirano_sr": "23. 05. 2026. у 19:18",
+  "azurirano": "2026-05-23T18:12:27.957116+00:00",
+  "azurirano_sr": "23. 05. 2026. у 20:12",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Vojvodine pobedom protiv Novog Pazara završili uspešnu sezonu",
+      "url": "https://www.tanjug.rs/sport/fudbal/254186/fudbaleri-vojvodine-pobedom-protiv-novog-pazara-zavrsili-uspesnu-sezonu/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 05. 2026. у 20:00",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Hal Sitija savladali Midlzbro i plasirali se u Premijer ligu",
       "url": "https://www.tanjug.rs/sport/fudbal/254173/fudbaleri-hal-sitija-savladali-midlzbro-i-plasirali-se-u-premijer-ligu/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Juniori Crvene zvezde porazom od Žalgirisa završili učešće na F8 Evrolige",
-      "url": "https://www.tanjug.rs/sport/fudbal/254136/juniori-crvene-zvezde-porazom-od-zalgirisa-zavrsili-ucesce-na-f8-evrolige/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 05. 2026. у 15:21",
+      "naslov": "Vojvodina pobedila Lalatovićev Pazar za kraj",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235858/vojvodina-pobedila-lalatovicev-pazar-za-kraj/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "23. 05. 2026. у 19:54",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235838/natho-za-kraj/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "23. 05. 2026. у 18:15",
-      "slika": null
-    },
-    {
-      "naslov": "Suze, ovacije i gol na oproštaju Natha FOTO/VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235806/poslednji-mec-bibrasa-natha-u-partizanu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 05. 2026. у 17:43",
       "slika": null
     }
   ]
