@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-05-23T12:40:00.351166+00:00",
-  "azurirano_sr": "23. 05. 2026. у 14:40",
+  "azurirano": "2026-05-23T14:12:28.378591+00:00",
+  "azurirano_sr": "23. 05. 2026. у 16:12",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dva kupa za devet godina – da nije to premalo za Bajern?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dva-kupa-za-devet-godina-da-nije-to-premalo-za-bajern/544536",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 17:47",
+      "slika": null
+    },
+    {
+      "naslov": "Joveljić: U Zvezdi si otpušten posle dva poraza, letiš iz tima i teško se vraćaš, Ajntraht bio prevelik korak",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/joveljic-u-zvezdi-si-otpusten-posle-dva-poraza-letis-iz-tima-i-tesko-se-vracas-ajntraht-bio-prevelik-korak/544535",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 17:38",
+      "slika": null
+    },
+    {
+      "naslov": "Zmajevi započinju misiju zvanu Svetsko prvenstvo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zmajevi-zapocinju-misiju-zvanu-svetsko-prvenstvo/544528",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 16:55",
+      "slika": null
+    },
     {
       "naslov": "Ruši se još jedna fudbalska dinastija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rusi-se-jos-jedna-fudbalska-dinastija/544523",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Talenat koji prevazilazi belgijski fudbal: Stanković u najužem izboru za mladog igrača sezone",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/talenat-koji-prevazilazi-belgijski-fudbal-stankovic-u-najuzem-izboru-za-mladog-igraca-sezone/544518",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 05. 2026. у 15:15",
-      "slika": null
-    },
-    {
-      "naslov": "Čovek koji je pobedio smrt vraća Filipa Stevanovića u prvoligaški fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/covek-koji-je-pobedio-smrt-vraca-filipa-stevanovica-u-prvoligaski-fudbal/544516",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 05. 2026. у 14:38",
-      "slika": null
-    },
-    {
-      "naslov": "O’Nil se na velika vrata oprašta od Seltika, i Maeda izvesno igra poslednji meč u zeleno-belom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/onil-se-na-velika-vrata-oprasta-od-seltika-i-maeda-izvesno-igra-poslednji-mec-u-zelenobelom/544509",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 05. 2026. у 13:27",
+      "naslov": "Juniori Crvene zvezde porazom od Žalgirisa završili učešće na F8 Evrolige",
+      "url": "https://www.tanjug.rs/sport/fudbal/254136/juniori-crvene-zvezde-porazom-od-zalgirisa-zavrsili-ucesce-na-f8-evrolige/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 05. 2026. у 15:21",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Rafael Benitez nije više trener fudbalera Panatinaikosa",
-      "url": "https://www.tanjug.rs/sport/fudbal/254091/rafael-benitez-nije-vise-trener-fudbalera-panatinaikosa/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 05. 2026. у 11:10",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan zatvara sezonu – Humska se oprašta od Natha",
+      "naslov": "Partizan duplirao prednost!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235773/uzivo-partizan-radnik-lajv-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 05. 2026. у 14:29",
+      "datum": "23. 05. 2026. у 15:57",
       "slika": null
     },
     {
-      "naslov": "&quot;Čudni golovi su sastavni deo posla sa kojim se bavimo&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235726/tomislav-sivic-pred-odlucujucu-borbu-za-opstanak/vest",
+      "naslov": "Suze, ovacije i gol na oproštaju Natha FOTO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235806/poslednji-mec-bibrasa-natha-u-partizanu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 05. 2026. у 13:45",
+      "datum": "23. 05. 2026. у 15:50",
       "slika": null
     }
   ]
