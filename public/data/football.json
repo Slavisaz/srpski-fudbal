@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-23T11:37:23.049018+00:00",
-  "azurirano_sr": "23. 05. 2026. у 13:37",
+  "azurirano": "2026-05-23T12:40:00.351166+00:00",
+  "azurirano_sr": "23. 05. 2026. у 14:40",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ruši se još jedna fudbalska dinastija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rusi-se-jos-jedna-fudbalska-dinastija/544523",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 15:54",
+      "slika": null
+    },
     {
       "naslov": "Talenat koji prevazilazi belgijski fudbal: Stanković u najužem izboru za mladog igrača sezone",
       "url": "https://www.mozzartsport.com/fudbal/vesti/talenat-koji-prevazilazi-belgijski-fudbal-stankovic-u-najuzem-izboru-za-mladog-igraca-sezone/544518",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "A, mislili su da neće moći...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/a-mislili-su-da-nece-moci/544505",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 05. 2026. у 12:39",
+      "naslov": "Adriana Vilagoš zauzela treće mesto na Dijamantskoj ligi u Sjamenu",
+      "url": "https://www.tanjug.rs/sport/fudbal/254120/adriana-vilagos-zauzela-trece-mesto-na-dijamantskoj-ligi-u-sjamenu/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 05. 2026. у 13:55",
+      "slika": null
+    },
+    {
+      "naslov": "Lukas Podolski završava fudbalsku karijeru",
+      "url": "https://www.tanjug.rs/sport/fudbal/254118/lukas-podolski-zavrsava-fudbalsku-karijeru/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 05. 2026. у 13:34",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Federiko Dimarko najbolji fudbaler Serije A za sezonu 2025/26",
-      "url": "https://www.tanjug.rs/sport/fudbal/254077/federiko-dimarko-najbolji-fudbaler-serije-a-za-sezonu-202526/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 05. 2026. у 09:59",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Lansa prvi put osvojili Kup Francuske",
-      "url": "https://www.tanjug.rs/sport/fudbal/254043/fudbaleri-lansa-prvi-put-osvojili-kup-francuske/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 05. 2026. у 23:43",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda se vratila u elitu – stiglo veliko pojačanje!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235653/zvezda-se-vratila-u-elitu-stiglo-veliko-pojacanje/vest",
+      "naslov": "Partizan zatvara sezonu – Humska se oprašta od Natha",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235773/uzivo-partizan-radnik-lajv-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 05. 2026. у 10:45",
+      "datum": "23. 05. 2026. у 14:29",
       "slika": null
     },
     {
-      "naslov": "Javor u Prvu ligu ide sa 2.200.000 evra",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235573/javor-u-prvu-ligu-ide-sa-2200000-evra/vest",
+      "naslov": "&quot;Čudni golovi su sastavni deo posla sa kojim se bavimo&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235726/tomislav-sivic-pred-odlucujucu-borbu-za-opstanak/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 05. 2026. у 10:00",
+      "datum": "23. 05. 2026. у 13:45",
       "slika": null
     }
   ]
