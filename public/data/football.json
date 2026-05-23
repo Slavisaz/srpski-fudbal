@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-23T08:53:06.365392+00:00",
-  "azurirano_sr": "23. 05. 2026. у 10:53",
+  "azurirano": "2026-05-23T10:17:57.795091+00:00",
+  "azurirano_sr": "23. 05. 2026. у 12:17",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "O’Nil se na velika vrata oprašta od Seltika, i Maeda izvesno igra poslednji meč u zeleno-belom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/onil-se-na-velika-vrata-oprasta-od-seltika-i-maeda-izvesno-igra-poslednji-mec-u-zelenobelom/544509",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 13:27",
+      "slika": null
+    },
+    {
+      "naslov": "A, mislili su da neće moći...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/a-mislili-su-da-nece-moci/544505",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 12:39",
+      "slika": null
+    },
     {
       "naslov": "Vesti iz Poljske: Ćirković izgubio pet kilograma za nedelju dana, Bukari na transfer listi, Pankov slobodan",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vesti-iz-poljske-cirkovic-izgubio-pet-kilograma-za-nedelju-dana-bukari-na-transfer-listi-pankov-slobodan/544502",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "LUDI TIKET, subota, 154.970 dinara: Gde su golovi, tu je i dobitak",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-subota-154970-dinara-gde-su-golovi-tu-je-i-dobitak/544494",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 05. 2026. у 10:47",
-      "slika": null
-    },
-    {
-      "naslov": "NAJAVA DANA (petak, 23. maj): Najskuplja utakmica na planeti i finale Kupa Nemačke",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-petak-23-maj-najskuplja-utakmica-na-planeti-i-finale-kupa-nemacke/544449",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 05. 2026. у 10:23",
+      "naslov": "Rafael Benitez nije više trener fudbalera Panatinaikosa",
+      "url": "https://www.tanjug.rs/sport/fudbal/254091/rafael-benitez-nije-vise-trener-fudbalera-panatinaikosa/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 05. 2026. у 11:10",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/254042/stankovic-posle-proslave-titule-za-mene-je-ovo-najlepse-vece-od-kada-sam-trener/vest",
       "izvor": "Танјуг",
       "datum": "22. 05. 2026. у 23:42",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Crvene zvezde poraženi od OFK Beograda na proslavi titule",
-      "url": "https://www.tanjug.rs/sport/fudbal/254037/fudbaleri-crvene-zvezde-porazeni-od-ofk-beograda-na-proslavi-titule/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 05. 2026. у 23:04",
       "slika": null
     },
     {
