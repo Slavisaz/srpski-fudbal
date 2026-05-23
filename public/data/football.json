@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-23T10:17:57.795091+00:00",
-  "azurirano_sr": "23. 05. 2026. у 12:17",
+  "azurirano": "2026-05-23T11:37:23.049018+00:00",
+  "azurirano_sr": "23. 05. 2026. у 13:37",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Talenat koji prevazilazi belgijski fudbal: Stanković u najužem izboru za mladog igrača sezone",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/talenat-koji-prevazilazi-belgijski-fudbal-stankovic-u-najuzem-izboru-za-mladog-igraca-sezone/544518",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 15:15",
+      "slika": null
+    },
+    {
+      "naslov": "Čovek koji je pobedio smrt vraća Filipa Stevanovića u prvoligaški fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/covek-koji-je-pobedio-smrt-vraca-filipa-stevanovica-u-prvoligaski-fudbal/544516",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 14:38",
+      "slika": null
+    },
     {
       "naslov": "O’Nil se na velika vrata oprašta od Seltika, i Maeda izvesno igra poslednji meč u zeleno-belom",
       "url": "https://www.mozzartsport.com/fudbal/vesti/onil-se-na-velika-vrata-oprasta-od-seltika-i-maeda-izvesno-igra-poslednji-mec-u-zelenobelom/544509",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Vesti iz Poljske: Ćirković izgubio pet kilograma za nedelju dana, Bukari na transfer listi, Pankov slobodan",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vesti-iz-poljske-cirkovic-izgubio-pet-kilograma-za-nedelju-dana-bukari-na-transfer-listi-pankov-slobodan/544502",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 05. 2026. у 12:35",
-      "slika": null
-    },
-    {
-      "naslov": "PRELAZZI: Poslednji mit o poštenom engleskom fudbalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-poslednji-mit-o-postenom-engleskom-fudbalu/544492",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 05. 2026. у 10:50",
+      "naslov": "Učvršćeno bratstvo CSKA i JSD Partizan: Kreće nova era saradnje i razmene sportista",
+      "url": "https://www.tanjug.rs/sport/fudbal/254100/ucvrsceno-bratstvo-cska-i-jsd-partizan-krece-nova-era-saradnje-i-razmene-sportista/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 05. 2026. у 12:12",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/254043/fudbaleri-lansa-prvi-put-osvojili-kup-francuske/vest",
       "izvor": "Танјуг",
       "datum": "22. 05. 2026. у 23:43",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković posle proslave titule: Za mene je ovo najlepše veče od kada sam trener",
-      "url": "https://www.tanjug.rs/sport/fudbal/254042/stankovic-posle-proslave-titule-za-mene-je-ovo-najlepse-vece-od-kada-sam-trener/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 05. 2026. у 23:42",
       "slika": null
     },
     {
