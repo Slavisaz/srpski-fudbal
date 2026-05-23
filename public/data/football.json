@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-05-23T06:43:08.276149+00:00",
-  "azurirano_sr": "23. 05. 2026. у 08:43",
+  "azurirano": "2026-05-23T08:53:06.365392+00:00",
+  "azurirano_sr": "23. 05. 2026. у 10:53",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Vesti iz Poljske: Ćirković izgubio pet kilograma za nedelju dana, Bukari na transfer listi, Pankov slobodan",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vesti-iz-poljske-cirkovic-izgubio-pet-kilograma-za-nedelju-dana-bukari-na-transfer-listi-pankov-slobodan/544502",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 12:35",
+      "slika": null
+    },
+    {
+      "naslov": "PRELAZZI: Poslednji mit o poštenom engleskom fudbalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-poslednji-mit-o-postenom-engleskom-fudbalu/544492",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 10:50",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET, subota, 154.970 dinara: Gde su golovi, tu je i dobitak",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-subota-154970-dinara-gde-su-golovi-tu-je-i-dobitak/544494",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 10:47",
+      "slika": null
+    },
     {
       "naslov": "NAJAVA DANA (petak, 23. maj): Najskuplja utakmica na planeti i finale Kupa Nemačke",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-petak-23-maj-najskuplja-utakmica-na-planeti-i-finale-kupa-nemacke/544449",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Spektakularna sezona nije mogla da prođe bez nagrade, krunisana je istorijskim peharom!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/spektakularna-sezona-nije-mogla-da-proe-bez-nagrade-krunisana-je-istorijskim-peharom/544482",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 05. 2026. у 01:34",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: Jedno od najlepših večeri otkad sam trener",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-jedno-od-najlepsih-veceri-otkad-sam-trener/544481",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 05. 2026. у 01:16",
-      "slika": null
-    },
-    {
-      "naslov": "Daudina luda sudbina pre Zvezde: Zaustavili su auto usred ničega i terali da potpišem, uplašio sam se za život",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/daudina-luda-sudbina-pre-zvezde-zaustavili-su-auto-usred-nicega-i-terali-da-potpisem-uplasio-sam-se-za-zivot/544477",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 05. 2026. у 01:03",
+      "naslov": "Federiko Dimarko najbolji fudbaler Serije A za sezonu 2025/26",
+      "url": "https://www.tanjug.rs/sport/fudbal/254077/federiko-dimarko-najbolji-fudbaler-serije-a-za-sezonu-202526/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 05. 2026. у 09:59",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbalerima Crvene zvezde uručen trofej i dodeljene medalje namenjene šampionu Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/254021/fudbalerima-crvene-zvezde-urucen-trofej-i-dodeljene-medalje-namenjene-sampionu-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 05. 2026. у 20:22",
+      "naslov": "Zvezda se vratila u elitu – stiglo veliko pojačanje!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235653/zvezda-se-vratila-u-elitu-stiglo-veliko-pojacanje/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "23. 05. 2026. у 10:45",
       "slika": null
     },
     {
-      "naslov": "Zvezda slavila i na Kalemegdanu: Ovacije za Kataija, Arnautović ima još jedan san VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235694/crvena-zvezda-na-kalemegdanu-proslavila-titulu-2026/vest",
+      "naslov": "Javor u Prvu ligu ide sa 2.200.000 evra",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235573/javor-u-prvu-ligu-ide-sa-2200000-evra/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 05. 2026. у 08:10",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina ostaje bez kapitena",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235621/slobodan-medojevic-napusta-vojvodinu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 05. 2026. у 23:50",
+      "datum": "23. 05. 2026. у 10:00",
       "slika": null
     }
   ]
