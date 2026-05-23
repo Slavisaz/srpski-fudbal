@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-23T04:09:37.693023+00:00",
-  "azurirano_sr": "23. 05. 2026. у 06:09",
+  "azurirano": "2026-05-23T06:43:08.276149+00:00",
+  "azurirano_sr": "23. 05. 2026. у 08:43",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (petak, 23. maj): Najskuplja utakmica na planeti i finale Kupa Nemačke",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-petak-23-maj-najskuplja-utakmica-na-planeti-i-finale-kupa-nemacke/544449",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 05. 2026. у 10:23",
+      "slika": null
+    },
     {
       "naslov": "Spektakularna sezona nije mogla da prođe bez nagrade, krunisana je istorijskim peharom!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/spektakularna-sezona-nije-mogla-da-proe-bez-nagrade-krunisana-je-istorijskim-peharom/544482",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/daudina-luda-sudbina-pre-zvezde-zaustavili-su-auto-usred-nicega-i-terali-da-potpisem-uplasio-sam-se-za-zivot/544477",
       "izvor": "Мозарт Спорт",
       "datum": "23. 05. 2026. у 01:03",
-      "slika": null
-    },
-    {
-      "naslov": "Dominacija Vladimira Ivića u Emiratima: Posle titule osvojio i kup!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dominacija-vladimira-ivica-u-emiratima-posle-titule-osvojio-i-kup/544472",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 05. 2026. у 00:09",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Zvezda slavila i na Kalemegdanu: Ovacije za Kataija, Arnautović ima još jedan san VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235694/crvena-zvezda-na-kalemegdanu-proslavila-titulu-2026/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "23. 05. 2026. у 08:10",
+      "slika": null
+    },
+    {
       "naslov": "Vojvodina ostaje bez kapitena",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235621/slobodan-medojevic-napusta-vojvodinu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 05. 2026. у 23:50",
-      "slika": null
-    },
-    {
-      "naslov": "OFK Beograd posle 13 godina pobedio Zvezdu na Marakani!; Stanković: &quot;Najlepše veče otkako sam trener&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235592/uzivo-crvena-zvezda-ofk-beograd-proslava-titule-gde-gledati/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 05. 2026. у 23:34",
       "slika": null
     }
   ]
