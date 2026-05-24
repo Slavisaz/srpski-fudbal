@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-24T10:55:31.260186+00:00",
-  "azurirano_sr": "24. 05. 2026. у 12:55",
+  "azurirano": "2026-05-24T11:57:56.179866+00:00",
+  "azurirano_sr": "24. 05. 2026. у 13:57",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Gde će se igrati trećeligaški fudbal, u Odžacima ili Čačku?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gde-ce-se-igrati-treceligaski-fudbal-u-odzacima-ili-cacku/544596",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 05. 2026. у 15:10",
+      "slika": null
+    },
     {
       "naslov": "Renoviranje od poda do plafona: Moreira postaje najskuplje pojačanje u istoriji Dortmunda?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/renoviranje-od-poda-do-plafona-moreira-postaje-najskuplje-pojacanje-u-istoriji-dortmunda/544587",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Ovog malog vredi pratiti: Mirza Ćatović igrač utakmice u finalu Kupa Nemačke za juniore",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ovog-malog-vredi-pratiti-mirza-catovic-igrac-utakmice-u-finalu-kupa-nemacke-za-juniore/544583",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 05. 2026. у 11:58",
+      "naslov": "Fudbaler Pari Sen Žermena Ašraf Hakimi neće biti spreman za finale Lige šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/254300/fudbaler-pari-sen-zermena-asraf-hakimi-nece-biti-spreman-za-finale-lige-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 05. 2026. у 12:58",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/254186/fudbaleri-vojvodine-pobedom-protiv-novog-pazara-zavrsili-uspesnu-sezonu/vest",
       "izvor": "Танјуг",
       "datum": "23. 05. 2026. у 20:00",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Hal Sitija savladali Midlzbro i plasirali se u Premijer ligu",
-      "url": "https://www.tanjug.rs/sport/fudbal/254173/fudbaleri-hal-sitija-savladali-midlzbro-i-plasirali-se-u-premijer-ligu/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 05. 2026. у 18:39",
       "slika": null
     },
     {
