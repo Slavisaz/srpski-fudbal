@@ -1,11 +1,25 @@
 {
-  "azurirano": "2026-05-24T18:46:51.891273+00:00",
-  "azurirano_sr": "24. 05. 2026. у 20:46",
+  "azurirano": "2026-05-24T19:52:48.079328+00:00",
+  "azurirano_sr": "24. 05. 2026. у 21:52",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "POLUVREME – Poslednje kolo plej-auta Mozzart Bet Superlige: TSC na ivici ambisa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/poluvreme-poslednje-kolo-plejauta-mozzart-bet-superlige-tsc-na-ivici-ambisa/544625",
+      "naslov": "Slom kakav Srbija ne pamti: TSC ispao iz lige!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/slom-kakav-srbija-ne-pamti-tsc-ispao-iz-lige/544640",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 05. 2026. у 23:34",
+      "slika": null
+    },
+    {
+      "naslov": "UŽIVO - POSLEDNJE KOLO SERIJE A: Tuča huligana odložila meč u Torinu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-poslednje-kolo-serije-a-tuca-huligana-odlozila-mec-u-torinu/544637",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 05. 2026. у 22:28",
+      "slika": null
+    },
+    {
+      "naslov": "KRAJ – Poslednje kolo plej-auta Mozzart Bet Superlige: TSC ispao",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-poslednje-kolo-plejauta-mozzart-bet-superlige-tsc-ispao/544625",
       "izvor": "Мозарт Спорт",
       "datum": "24. 05. 2026. у 20:34",
       "slika": null
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Između borbe za istorijski trofej i ulaska u Primeiru: Čuvati sastav ili napasti ranjenog Lava",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/izmeu-borbe-za-istorijski-trofej-i-ulaska-u-primeiru-cuvati-sastav-ili-napasti-ranjenog-lava/544604",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 05. 2026. у 16:50",
-      "slika": null
-    },
-    {
-      "naslov": "Babić počeo da trenira posle sedam meseci, taman da konkuriše za rusko “superfinale”",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/babic-poceo-da-trenira-posle-sedam-meseci-taman-da-konkurise-za-rusko-superfinale/544602",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 05. 2026. у 16:18",
+      "naslov": "Fudbaleri TSC-a ispali iz Superlige, Mladost i Radnički iz Kragujevca izborili opstanak",
+      "url": "https://www.tanjug.rs/sport/fudbal/254369/fudbaleri-tsc-a-ispali-iz-superlige-mladost-i-radnicki-iz-kragujevca-izborili-opstanak/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 05. 2026. у 21:41",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/254300/fudbaler-pari-sen-zermena-asraf-hakimi-nece-biti-spreman-za-finale-lige-sampiona/vest",
       "izvor": "Танјуг",
       "datum": "24. 05. 2026. у 12:58",
-      "slika": null
-    },
-    {
-      "naslov": "Giljermo Almada nije više trener fudbalera Ovijeda",
-      "url": "https://www.tanjug.rs/sport/fudbal/254288/giljermo-almada-nije-vise-trener-fudbalera-ovijeda/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 05. 2026. у 12:00",
       "slika": null
     },
     {
