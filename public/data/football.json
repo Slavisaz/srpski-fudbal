@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-24T09:30:29.597830+00:00",
-  "azurirano_sr": "24. 05. 2026. у 11:30",
+  "azurirano": "2026-05-24T10:55:31.260186+00:00",
+  "azurirano_sr": "24. 05. 2026. у 12:55",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -25,10 +25,17 @@
       "slika": null
     },
     {
-      "naslov": "Ovo malog vredi pratiti: Mirza Ćatović igrač utakmice u finalu Kupa Nemačke za juniore",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ovo-malog-vredi-pratiti-mirza-catovic-igrac-utakmice-u-finalu-kupa-nemacke-za-juniore/544583",
+      "naslov": "Ovog malog vredi pratiti: Mirza Ćatović igrač utakmice u finalu Kupa Nemačke za juniore",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ovog-malog-vredi-pratiti-mirza-catovic-igrac-utakmice-u-finalu-kupa-nemacke-za-juniore/544583",
       "izvor": "Мозарт Спорт",
       "datum": "24. 05. 2026. у 11:58",
+      "slika": null
+    },
+    {
+      "naslov": "Giljermo Almada nije više trener fudbalera Ovijeda",
+      "url": "https://www.tanjug.rs/sport/fudbal/254288/giljermo-almada-nije-vise-trener-fudbalera-ovijeda/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 05. 2026. у 12:00",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Partizana ubedljivo pobedili Radnik, Natho strelac na oproštaju",
-      "url": "https://www.tanjug.rs/sport/fudbal/254155/fudbaleri-partizana-ubedljivo-pobedili-radnik-natho-strelac-na-oprostaju/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 05. 2026. у 17:06",
+      "naslov": "Raste broj zainteresovanih za Zvezdinog ofanzivca",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235933/raste-broj-zainteresovanih-za-zvezdinog-ofanzivca/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 05. 2026. у 12:40",
       "slika": null
     },
     {
-      "naslov": "Iran menja lokaciju kampa na Mundijalu",
-      "url": "https://www.b92.net/sport/fudbal/vesti/235926/iran-menja-lokaciju-kampa-na-mundijalu/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "24. 05. 2026. у 10:35",
-      "slika": null
-    },
-    {
-      "naslov": "Izraelci kvare planove Partizanu?",
-      "url": "https://www.b92.net/sport/fudbal/vesti/235908/izraelci-kvare-planove-partizanu/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "24. 05. 2026. у 09:00",
+      "naslov": "Rikardo: &quot;Promenio sam tri leta zbog Natha&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235916/rikardo-promenio-sam-tri-leta-zbog-natha/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 05. 2026. у 11:40",
       "slika": null
     }
   ]
