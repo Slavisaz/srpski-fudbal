@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-24T20:39:30.179809+00:00",
-  "azurirano_sr": "24. 05. 2026. у 22:39",
+  "azurirano": "2026-05-24T21:36:08.601168+00:00",
+  "azurirano_sr": "24. 05. 2026. у 23:36",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Haos u Kragujevcu: Huligani upali na teren i napali igrače",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/haos-u-kragujevcu-huligani-upali-na-teren-i-napali-igrace/544653",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 05. 2026. у 01:24",
+      "slika": null
+    },
     {
       "naslov": "Slom kakav Srbija ne pamti: TSC ispao iz lige!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/slom-kakav-srbija-ne-pamti-tsc-ispao-iz-lige/544640",
@@ -11,8 +18,8 @@
       "slika": null
     },
     {
-      "naslov": "UŽIVO - POSLEDNJE KOLO SERIJE A: Sunovrat Milana na San Siru! Opet Vlahović!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-poslednje-kolo-serije-a-sunovrat-milana-na-san-siru-opet-vlahovic/544637",
+      "naslov": "KRAJ - POSLEDNJE KOLO SERIJE A",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-poslednje-kolo-serije-a/544637",
       "izvor": "Мозарт Спорт",
       "datum": "24. 05. 2026. у 22:28",
       "slika": null
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-poslednje-kolo-plejauta-mozzart-bet-superlige-tsc-ispao/544625",
       "izvor": "Мозарт Спорт",
       "datum": "24. 05. 2026. у 20:34",
-      "slika": null
-    },
-    {
-      "naslov": "Goreće Rabat, goreće Afrika",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gorece-rabat-gorece-afrika/544610",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 05. 2026. у 18:13",
       "slika": null
     },
     {
