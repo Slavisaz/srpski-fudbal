@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-24T13:19:52.406872+00:00",
-  "azurirano_sr": "24. 05. 2026. у 15:19",
+  "azurirano": "2026-05-24T14:44:30.776772+00:00",
+  "azurirano_sr": "24. 05. 2026. у 16:44",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Goreće Rabat, goreće Afrika",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gorece-rabat-gorece-afrika/544610",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 05. 2026. у 18:13",
+      "slika": null
+    },
     {
       "naslov": "Između borbe za istorijski trofej i ulaska u Primeiru: Čuvati sastav ili napasti ranjenog Lava",
       "url": "https://www.mozzartsport.com/fudbal/vesti/izmeu-borbe-za-istorijski-trofej-i-ulaska-u-primeiru-cuvati-sastav-ili-napasti-ranjenog-lava/544604",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-srbin-iz-javora-postao-jedno-od-najskupljih-pojacanja-sturma/544595",
       "izvor": "Мозарт Спорт",
       "datum": "24. 05. 2026. у 15:51",
-      "slika": null
-    },
-    {
-      "naslov": "Gde će se igrati trećeligaški fudbal, u Odžacima ili Čačku?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gde-ce-se-igrati-treceligaski-fudbal-u-odzacima-ili-cacku/544596",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 05. 2026. у 15:10",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Mijailoviću novi mandat",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235999/mijailovicu-novi-mandat/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "24. 05. 2026. у 14:50",
+      "naslov": "Milinković-Savić: &quot;Nismo se nadali ovakvom kraju&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/235992/milinkovic-savic-nismo-se-nadali-ovakvom-kraju/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "24. 05. 2026. у 16:32",
       "slika": null
     },
     {
-      "naslov": "Raste broj zainteresovanih za Zvezdinog ofanzivca",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235933/raste-broj-zainteresovanih-za-zvezdinog-ofanzivca/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "24. 05. 2026. у 12:40",
+      "naslov": "Iran menja lokaciju kampa na Mundijalu",
+      "url": "https://www.b92.net/sport/fudbal/vesti/235926/iran-menja-lokaciju-kampa-na-mundijalu/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "24. 05. 2026. у 10:35",
       "slika": null
     }
   ]
