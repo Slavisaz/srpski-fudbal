@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-25T13:49:05.245453+00:00",
-  "azurirano_sr": "25. 05. 2026. у 15:49",
+  "azurirano": "2026-05-25T16:10:17.879048+00:00",
+  "azurirano_sr": "25. 05. 2026. у 18:10",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Heroj pobede OFK Beograda na Marakani: &quot;Okrenula se sreća na moju stranu protiv Kataija&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236286/nedeljko-stojisic-za-b92sport-ofk-beograd-crvena-zvezda-intervju/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 05. 2026. у 16:30",
+      "slika": null
+    },
+    {
       "naslov": "Haos u srpskom fudbalu: FSS pokrenuo istragu",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236233/hitna-reakcija-fss-pokrenut-disciplinski-postupak-protiv-radnickog-iz-kragujevca/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 05. 2026. у 14:38",
-      "slika": null
-    },
-    {
-      "naslov": "Mijatović odgovorio Lazoviću: &quot;Što dalje od Partizana&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236208/predrag-mijatovic-odgovorio-danku-lazovicu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 05. 2026. у 12:54",
       "slika": null
     }
   ]
