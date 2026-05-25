@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-25T16:10:17.879048+00:00",
-  "azurirano_sr": "25. 05. 2026. у 18:10",
+  "azurirano": "2026-05-25T17:53:10.842031+00:00",
+  "azurirano_sr": "25. 05. 2026. у 19:53",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Novo svetsko priznanje srpskom sportu - Tanaskoviću orden u Moskvi",
+      "url": "https://www.tanjug.rs/sport/fudbal/254587/novo-svetsko-priznanje-srpskom-sportu-tanaskovicu-orden-u-moskvi/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 05. 2026. у 18:34",
+      "slika": null
+    },
+    {
       "naslov": "Lidija Stojkanović odredila spisak fudbalerki Srbije za mečeve protiv Italije i Danske",
       "url": "https://www.tanjug.rs/sport/fudbal/254506/lidija-stojkanovic-odredila-spisak-fudbalerki-srbije-za-meceve-protiv-italije-i-danske/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/254476/hitna-reakcija-fss-pokrenut-disciplinski-postupak-protiv-radnickog-iz-kragujevca/vest",
       "izvor": "Танјуг",
       "datum": "25. 05. 2026. у 13:26",
-      "slika": null
-    },
-    {
-      "naslov": "Selektor Španije Luis de la Fuente saopštio spisak fudbalera za Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/254472/selektor-spanije-luis-de-la-fuente-saopstio-spisak-fudbalera-za-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 05. 2026. у 13:15",
       "slika": null
     },
     {
