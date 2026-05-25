@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-25T21:50:21.681920+00:00",
-  "azurirano_sr": "25. 05. 2026. у 23:50",
+  "azurirano": "2026-05-25T22:45:50.890580+00:00",
+  "azurirano_sr": "26. 05. 2026. у 00:45",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Osvojio titulu sa Portom, a Francuzi ga platili 22.500.000 evra – sada ga želi Partizan",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236332/partizan-zeli-terema-mofija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 05. 2026. у 23:50",
+      "slika": null
+    },
+    {
       "naslov": "Pavlović na spisku Srbije, Mitrović i Vlahović preskaču junsko okupljanje",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236362/pavlovic-na-spisku-srbije-mitrovic-i-vlahovic-preskacu-junsko-okupljanje/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 05. 2026. у 20:35",
-      "slika": null
-    },
-    {
-      "naslov": "Heroj pobede OFK Beograda na Marakani: &quot;Okrenula se sreća na moju stranu protiv Kataija&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236286/nedeljko-stojisic-za-b92sport-ofk-beograd-crvena-zvezda-intervju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 05. 2026. у 16:30",
       "slika": null
     }
   ]
