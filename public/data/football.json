@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-05-25T06:06:12.608888+00:00",
-  "azurirano_sr": "25. 05. 2026. у 08:06",
+  "azurirano": "2026-05-25T10:43:40.265486+00:00",
+  "azurirano_sr": "25. 05. 2026. у 12:43",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Ludilo u Portugaliji - drugoligaš osvojio kup pobedom nad Sportingom u finalu!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludilo-u-portugaliji-drugoligas-osvojio-kup-pobedom-nad-sportingom-u-finalu/544659",
+      "naslov": "Evropski fudbalski moleraj",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/evropski-fudbalski-moleraj/544672",
       "izvor": "Мозарт Спорт",
-      "datum": "25. 05. 2026. у 04:23",
+      "datum": "25. 05. 2026. у 12:19",
       "slika": null
     },
     {
-      "naslov": "Haos u Kragujevcu: Huligani upali na teren i napali igrače",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/haos-u-kragujevcu-huligani-upali-na-teren-i-napali-igrace/544653",
+      "naslov": "Poslednji utisci su uvek najjači: Ovako je spuštena zavesa na Mozzart Bet Superligu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/poslednji-utisci-su-uvek-najjaci-ovako-je-spustena-zavesa-na-mozzart-bet-superligu/544669",
       "izvor": "Мозарт Спорт",
-      "datum": "25. 05. 2026. у 01:24",
+      "datum": "25. 05. 2026. у 11:34",
       "slika": null
     },
     {
-      "naslov": "Slom kakav Srbija ne pamti: TSC ispao iz lige!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/slom-kakav-srbija-ne-pamti-tsc-ispao-iz-lige/544640",
+      "naslov": "Promašena transfer sezona TSC-a: Kad loše poseješ, ne očekuj da nikne",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/promasena-transfer-sezona-tsca-kad-lose-posejes-ne-ocekuj-da-nikne/544667",
       "izvor": "Мозарт Спорт",
-      "datum": "24. 05. 2026. у 23:34",
+      "datum": "25. 05. 2026. у 10:59",
       "slika": null
     },
     {
-      "naslov": "KRAJ - POSLEDNJE KOLO SERIJE A",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-poslednje-kolo-serije-a/544637",
+      "naslov": "LUDI TIKET, ponedeljak, 141.549 dinara: Paragvajci i Šveđani doneli lovu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-ponedeljak-141549-dinara-paragvajci-i-sveani-doneli-lovu/544661",
       "izvor": "Мозарт Спорт",
-      "datum": "24. 05. 2026. у 22:28",
+      "datum": "25. 05. 2026. у 10:35",
+      "slika": null
+    },
+    {
+      "naslov": "Goleada u Majamiju, fudbaleri Intera pobedili Filadelfiju, povredio se Lionel Mesi",
+      "url": "https://www.tanjug.rs/sport/fudbal/254423/goleada-u-majamiju-fudbaleri-intera-pobedili-filadelfiju-povredio-se-lionel-mesi/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 05. 2026. у 10:35",
+      "slika": null
+    },
+    {
+      "naslov": "Antonio Konte potvrdio da odlazi iz Napolija",
+      "url": "https://www.tanjug.rs/sport/fudbal/254420/antonio-konte-potvrdio-da-odlazi-iz-napolija/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 05. 2026. у 10:12",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Arsenal pobedom protiv Palasa proslavio titulu, Totenhem izborio opstanak",
-      "url": "https://www.tanjug.rs/sport/fudbal/254354/arsenal-pobedom-protiv-palasa-proslavio-titulu-totenhem-izborio-opstanak/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 05. 2026. у 19:13",
-      "slika": null
-    },
-    {
-      "naslov": "Svetozar Mijailović reizabran za predsednika FK Crvena zvezda",
-      "url": "https://www.tanjug.rs/sport/fudbal/254314/svetozar-mijailovic-reizabran-za-predsednika-fk-crvena-zvezda/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 05. 2026. у 14:19",
-      "slika": null
-    },
-    {
-      "naslov": "TSC ispao iz Superlige!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236080/tsc-ispao-iz-superlige/vest",
+      "naslov": "TSC ispao, Žemberi poručio: &quot;Bolje časno ispasti, nego nečasno ostati u ligi&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236197/tsc-ispao-zemberi-porucio-bolje-casno-ispasti-nego-necasno-ostati-u-ligi/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "24. 05. 2026. у 21:36",
+      "datum": "25. 05. 2026. у 12:37",
       "slika": null
     },
     {
-      "naslov": "Mijailoviću novi mandat",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/235999/mijailovicu-novi-mandat/vest",
+      "naslov": "Horor scena u Kragujevcu – trener podneo ostavku VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236168/slavko-matic-trener-radnickog-kragujevac-podneo-ostavku-nakon-sto-su-huligani-napali-fudbalere/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "24. 05. 2026. у 14:50",
+      "datum": "25. 05. 2026. у 10:50",
       "slika": null
     }
   ]
