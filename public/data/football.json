@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-05-25T10:43:40.265486+00:00",
-  "azurirano_sr": "25. 05. 2026. у 12:43",
+  "azurirano": "2026-05-25T13:49:05.245453+00:00",
+  "azurirano_sr": "25. 05. 2026. у 15:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Mijat odgovorio Danku: Jako loš čovek i moja najveća poslovna greška",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mijat-odgovorio-danku-jako-los-covek-i-moja-najveca-poslovna-greska/544686",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 05. 2026. у 15:30",
+      "slika": null
+    },
+    {
+      "naslov": "Već viđeno: Dođoh, osvojih i, posle dve sezone, odoh - Napoli ozvaničio rastanak sa Konteom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vec-vieno-dooh-osvojih-i-posle-dve-sezone-odoh-napoli-ozvanicio-rastanak-sa-konteom/544683",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 05. 2026. у 15:07",
+      "slika": null
+    },
+    {
+      "naslov": "Buenos dias svima, samo ne fudbalerima Real Madrida! Istorijski spisak Španije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/buenos-dias-svima-samo-ne-fudbalerima-real-madrida-istorijski-spisak-spanije/544682",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 05. 2026. у 15:00",
+      "slika": null
+    },
     {
       "naslov": "Evropski fudbalski moleraj",
       "url": "https://www.mozzartsport.com/fudbal/vesti/evropski-fudbalski-moleraj/544672",
@@ -11,66 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Poslednji utisci su uvek najjači: Ovako je spuštena zavesa na Mozzart Bet Superligu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/poslednji-utisci-su-uvek-najjaci-ovako-je-spustena-zavesa-na-mozzart-bet-superligu/544669",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 05. 2026. у 11:34",
-      "slika": null
-    },
-    {
-      "naslov": "Promašena transfer sezona TSC-a: Kad loše poseješ, ne očekuj da nikne",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/promasena-transfer-sezona-tsca-kad-lose-posejes-ne-ocekuj-da-nikne/544667",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 05. 2026. у 10:59",
-      "slika": null
-    },
-    {
-      "naslov": "LUDI TIKET, ponedeljak, 141.549 dinara: Paragvajci i Šveđani doneli lovu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-ponedeljak-141549-dinara-paragvajci-i-sveani-doneli-lovu/544661",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 05. 2026. у 10:35",
-      "slika": null
-    },
-    {
-      "naslov": "Goleada u Majamiju, fudbaleri Intera pobedili Filadelfiju, povredio se Lionel Mesi",
-      "url": "https://www.tanjug.rs/sport/fudbal/254423/goleada-u-majamiju-fudbaleri-intera-pobedili-filadelfiju-povredio-se-lionel-mesi/vest",
+      "naslov": "Lidija Stojkanović odredila spisak fudbalerki Srbije za mečeve protiv Italije i Danske",
+      "url": "https://www.tanjug.rs/sport/fudbal/254506/lidija-stojkanovic-odredila-spisak-fudbalerki-srbije-za-meceve-protiv-italije-i-danske/vest",
       "izvor": "Танјуг",
-      "datum": "25. 05. 2026. у 10:35",
+      "datum": "25. 05. 2026. у 15:08",
       "slika": null
     },
     {
-      "naslov": "Antonio Konte potvrdio da odlazi iz Napolija",
-      "url": "https://www.tanjug.rs/sport/fudbal/254420/antonio-konte-potvrdio-da-odlazi-iz-napolija/vest",
+      "naslov": "Luis Majli produžio ugovor sa Njukaslom",
+      "url": "https://www.tanjug.rs/sport/fudbal/254502/luis-majli-produzio-ugovor-sa-njukaslom/vest",
       "izvor": "Танјуг",
-      "datum": "25. 05. 2026. у 10:12",
+      "datum": "25. 05. 2026. у 14:47",
       "slika": null
     },
     {
-      "naslov": "Dva gola Vlahovića, Juventus i Milan bez Lige šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/254377/dva-gola-vlahovica-juventus-i-milan-bez-lige-sampiona/vest",
+      "naslov": "Hitna reakcija FSS, pokrenut disciplinski postupak protiv Radničkog iz Kragujevca",
+      "url": "https://www.tanjug.rs/sport/fudbal/254476/hitna-reakcija-fss-pokrenut-disciplinski-postupak-protiv-radnickog-iz-kragujevca/vest",
       "izvor": "Танјуг",
-      "datum": "24. 05. 2026. у 23:48",
+      "datum": "25. 05. 2026. у 13:26",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri TSC-a ispali iz Superlige, Mladost i Radnički iz Kragujevca izborili opstanak",
-      "url": "https://www.tanjug.rs/sport/fudbal/254369/fudbaleri-tsc-a-ispali-iz-superlige-mladost-i-radnicki-iz-kragujevca-izborili-opstanak/vest",
+      "naslov": "Selektor Španije Luis de la Fuente saopštio spisak fudbalera za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/254472/selektor-spanije-luis-de-la-fuente-saopstio-spisak-fudbalera-za-svetsko-prvenstvo/vest",
       "izvor": "Танјуг",
-      "datum": "24. 05. 2026. у 21:41",
+      "datum": "25. 05. 2026. у 13:15",
       "slika": null
     },
     {
-      "naslov": "TSC ispao, Žemberi poručio: &quot;Bolje časno ispasti, nego nečasno ostati u ligi&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236197/tsc-ispao-zemberi-porucio-bolje-casno-ispasti-nego-necasno-ostati-u-ligi/vest",
+      "naslov": "Haos u srpskom fudbalu: FSS pokrenuo istragu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236233/hitna-reakcija-fss-pokrenut-disciplinski-postupak-protiv-radnickog-iz-kragujevca/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "25. 05. 2026. у 12:37",
+      "datum": "25. 05. 2026. у 14:38",
       "slika": null
     },
     {
-      "naslov": "Horor scena u Kragujevcu – trener podneo ostavku VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236168/slavko-matic-trener-radnickog-kragujevac-podneo-ostavku-nakon-sto-su-huligani-napali-fudbalere/vest",
+      "naslov": "Mijatović odgovorio Lazoviću: &quot;Što dalje od Partizana&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236208/predrag-mijatovic-odgovorio-danku-lazovicu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "25. 05. 2026. у 10:50",
+      "datum": "25. 05. 2026. у 12:54",
       "slika": null
     }
   ]
