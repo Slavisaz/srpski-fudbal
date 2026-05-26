@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-26T17:46:46.596591+00:00",
-  "azurirano_sr": "26. 05. 2026. у 19:46",
+  "azurirano": "2026-05-26T19:46:33.226238+00:00",
+  "azurirano_sr": "26. 05. 2026. у 21:46",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Škotski fudbaler Lorens Šenkland prešao iz Hartsa u Rendžers",
+      "url": "https://www.tanjug.rs/sport/fudbal/254877/skotski-fudbaler-lorens-senkland-presao-iz-hartsa-u-rendzers/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 05. 2026. у 20:26",
+      "slika": null
+    },
+    {
       "naslov": "Holandski fudbaler Doniel Malen potpisao dugoročni ugovor sa Romom",
       "url": "https://www.tanjug.rs/sport/fudbal/254856/holandski-fudbaler-doniel-malen-potpisao-dugorocni-ugovor-sa-romom/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Hulijan Alvarez: Argentina uvek želi da bude šampion",
-      "url": "https://www.tanjug.rs/sport/fudbal/254737/hulijan-alvarez-argentina-uvek-zeli-da-bude-sampion/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 05. 2026. у 13:03",
+      "naslov": "I Maroko otkrio karte za Mundijal – tu je supertalenat za kojim žali Francuska",
+      "url": "https://www.b92.net/sport/fudbal/vesti/236654/i-maroko-otkrio-karte-za-mundijal-tu-je-supertalenat-za-kojim-zali-francuska/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "26. 05. 2026. у 21:40",
       "slika": null
     },
     {
-      "naslov": "Navijači Radničkog se oglasili posle skandala: &quot;Igrači uzeli pare da nas izbace iz lige!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236596/navijaci-radnickog-se-oglasili-posle-skandala-igraci-uzeli-pare-da-nas-izbace-iz-lige/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 05. 2026. у 18:14",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković o Terziću: &quot;Institucija kao čovek&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236526/stankovic-o-terzicu-institucija-kao-covek/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 05. 2026. у 17:59",
+      "naslov": "&quot;Argentina uvek želi da bude šampion&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/236525/hulijan-alvares-ocekivanja-pred-sp/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "26. 05. 2026. у 15:45",
       "slika": null
     }
   ]
