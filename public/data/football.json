@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-26T14:40:12.716137+00:00",
-  "azurirano_sr": "26. 05. 2026. у 16:40",
+  "azurirano": "2026-05-26T17:46:46.596591+00:00",
+  "azurirano_sr": "26. 05. 2026. у 19:46",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kuva u Novom Sadu: Voša ima dogovor sa Zukićem, uskoro stižu Đakovac i špic",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kuva-u-novom-sadu-vosa-ima-dogovor-sa-zukicem-uskoro-stizu-akovac-i-spic/544780",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 05. 2026. у 19:48",
+      "slika": null
+    },
     {
       "naslov": "Najbolji šahista među trenerima - Zoran Vasiljević: Obožavam brze poteze",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najbolji-sahista-meu-trenerima-zoran-vasiljevic-obozavam-brze-poteze/544772",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Dvojica Srba u predvorju francuske Lige 1",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dvojica-srba-u-predvorju-francuske-lige-1/544748",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 05. 2026. у 13:33",
+      "naslov": "Holandski fudbaler Doniel Malen potpisao dugoročni ugovor sa Romom",
+      "url": "https://www.tanjug.rs/sport/fudbal/254856/holandski-fudbaler-doniel-malen-potpisao-dugorocni-ugovor-sa-romom/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 05. 2026. у 18:51",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Argentinski fudbaler Lionel Mesi nije teže povređen",
-      "url": "https://www.tanjug.rs/sport/fudbal/254678/argentinski-fudbaler-lionel-mesi-nije-teze-povreden/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 05. 2026. у 09:21",
+      "naslov": "Navijači Radničkog se oglasili posle skandala: &quot;Igrači uzeli pare da nas izbace iz lige!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236596/navijaci-radnickog-se-oglasili-posle-skandala-igraci-uzeli-pare-da-nas-izbace-iz-lige/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 05. 2026. у 18:14",
       "slika": null
     },
     {
-      "naslov": "Grčki velikan zagrizao za Paunovića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236564/paok-hoce-veljka-paunovica/vest",
+      "naslov": "Stanković o Terziću: &quot;Institucija kao čovek&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236526/stankovic-o-terzicu-institucija-kao-covek/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 05. 2026. у 16:34",
-      "slika": null
-    },
-    {
-      "naslov": "Paunovićev neobičan spisak",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236454/veljko-paunovic-objavio-spisak-za-naredne-meceve-reprezentacije-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 05. 2026. у 10:10",
+      "datum": "26. 05. 2026. у 17:59",
       "slika": null
     }
   ]
