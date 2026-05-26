@@ -1,34 +1,55 @@
 {
-  "azurirano": "2026-05-26T08:55:34.061981+00:00",
-  "azurirano_sr": "26. 05. 2026. у 10:55",
+  "azurirano": "2026-05-26T14:40:12.716137+00:00",
+  "azurirano_sr": "26. 05. 2026. у 16:40",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Raport sa srpskoligaških terena: Dizelka autogolovima pogurala Požežane",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-dizelka-autogolovima-pogurala-pozezane/544737",
+      "naslov": "Najbolji šahista među trenerima - Zoran Vasiljević: Obožavam brze poteze",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najbolji-sahista-meu-trenerima-zoran-vasiljevic-obozavam-brze-poteze/544772",
       "izvor": "Мозарт Спорт",
-      "datum": "26. 05. 2026. у 11:24",
+      "datum": "26. 05. 2026. у 17:57",
       "slika": null
     },
     {
-      "naslov": "LUDI TIKET, utorak, 93.6444 dinara: Skandinavske zanimacije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-utorak-936444-dinara-skandinavske-zanimacije/544735",
+      "naslov": "Juventus u epizodi \"kupus gleda, meso vadi\": Poslata ponuda Robertsonu, prava meta Alison",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/juventus-u-epizodi-kupus-gleda-meso-vadi-poslata-ponuda-robertsonu-prava-meta-alison/544760",
       "izvor": "Мозарт Спорт",
-      "datum": "26. 05. 2026. у 11:16",
+      "datum": "26. 05. 2026. у 15:41",
       "slika": null
     },
     {
-      "naslov": "Najava dana (utorak, 26. maj): Fudbalska razglednica, plus velika bitka Bešiktaša i Galtasaraja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-26-maj-fudbalska-razglednica-plus-velika-bitka-besiktasa-i-galtasaraja/544732",
+      "naslov": "Kako se od \"niko na more\" stiglo do 11 superligaša",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-se-od-niko-na-more-stiglo-do-11-superligasa/544754",
       "izvor": "Мозарт Спорт",
-      "datum": "26. 05. 2026. у 10:58",
+      "datum": "26. 05. 2026. у 14:35",
       "slika": null
     },
     {
-      "naslov": "Mijat odgovorio Danku: Jako loš čovek i moja najveća poslovna greška",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mijat-odgovorio-danku-jako-los-covek-i-moja-najveca-poslovna-greska/544686",
+      "naslov": "Dvojica Srba u predvorju francuske Lige 1",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dvojica-srba-u-predvorju-francuske-lige-1/544748",
       "izvor": "Мозарт Спорт",
-      "datum": "25. 05. 2026. у 15:30",
+      "datum": "26. 05. 2026. у 13:33",
+      "slika": null
+    },
+    {
+      "naslov": "Španski stručnjak Manolo Gonzales ostaje trener Espanjola",
+      "url": "https://www.tanjug.rs/sport/fudbal/254799/spanski-strucnjak-manolo-gonzales-ostaje-trener-espanjola/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 05. 2026. у 16:00",
+      "slika": null
+    },
+    {
+      "naslov": "Dejan Stanković o Terziću: Institucija kao čovek, napravio je ozbiljnu mašineriju od Zvezde",
+      "url": "https://www.tanjug.rs/sport/fudbal/254744/dejan-stankovic-o-terzicu-institucija-kao-covek-napravio-je-ozbiljnu-masineriju-od-zvezde/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 05. 2026. у 13:28",
+      "slika": null
+    },
+    {
+      "naslov": "Hulijan Alvarez: Argentina uvek želi da bude šampion",
+      "url": "https://www.tanjug.rs/sport/fudbal/254737/hulijan-alvarez-argentina-uvek-zeli-da-bude-sampion/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 05. 2026. у 13:03",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Novo svetsko priznanje srpskom sportu - Tanaskoviću orden u Moskvi",
-      "url": "https://www.tanjug.rs/sport/fudbal/254587/novo-svetsko-priznanje-srpskom-sportu-tanaskovicu-orden-u-moskvi/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 05. 2026. у 18:34",
+      "naslov": "Grčki velikan zagrizao za Paunovića",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236564/paok-hoce-veljka-paunovica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 05. 2026. у 16:34",
       "slika": null
     },
     {
-      "naslov": "Lidija Stojkanović odredila spisak fudbalerki Srbije za mečeve protiv Italije i Danske",
-      "url": "https://www.tanjug.rs/sport/fudbal/254506/lidija-stojkanovic-odredila-spisak-fudbalerki-srbije-za-meceve-protiv-italije-i-danske/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 05. 2026. у 15:08",
-      "slika": null
-    },
-    {
-      "naslov": "Luis Majli produžio ugovor sa Njukaslom",
-      "url": "https://www.tanjug.rs/sport/fudbal/254502/luis-majli-produzio-ugovor-sa-njukaslom/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 05. 2026. у 14:47",
-      "slika": null
-    },
-    {
-      "naslov": "Prognoza za Mundijal – senzacije kod Hrvata, Nemaca i Brazilaca",
-      "url": "https://www.b92.net/sport/fudbal/vesti/236446/analiza-grupa-mundijala-2026-favoriti-autsajderi-i-potencijalna-iznenadjenja/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "26. 05. 2026. у 09:42",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Iran u Meksiku? Nemamo problem s tim&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/236404/iran-u-meksiku-nemamo-problem-s-tim/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "26. 05. 2026. у 08:38",
+      "naslov": "Paunovićev neobičan spisak",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236454/veljko-paunovic-objavio-spisak-za-naredne-meceve-reprezentacije-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 05. 2026. у 10:10",
       "slika": null
     }
   ]
