@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-05-26T05:44:18.094517+00:00",
-  "azurirano_sr": "26. 05. 2026. у 07:44",
+  "azurirano": "2026-05-26T08:55:34.061981+00:00",
+  "azurirano_sr": "26. 05. 2026. у 10:55",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Raport sa srpskoligaških terena: Dizelka autogolovima pogurala Požežane",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-dizelka-autogolovima-pogurala-pozezane/544737",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 05. 2026. у 11:24",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET, utorak, 93.6444 dinara: Skandinavske zanimacije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-utorak-936444-dinara-skandinavske-zanimacije/544735",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 05. 2026. у 11:16",
+      "slika": null
+    },
+    {
+      "naslov": "Najava dana (utorak, 26. maj): Fudbalska razglednica, plus velika bitka Bešiktaša i Galtasaraja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-26-maj-fudbalska-razglednica-plus-velika-bitka-besiktasa-i-galtasaraja/544732",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 05. 2026. у 10:58",
+      "slika": null
+    },
     {
       "naslov": "Mijat odgovorio Danku: Jako loš čovek i moja najveća poslovna greška",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mijat-odgovorio-danku-jako-los-covek-i-moja-najveca-poslovna-greska/544686",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Već viđeno: Dođoh, osvojih i, posle dve sezone, odoh - Napoli ozvaničio rastanak sa Konteom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vec-vieno-dooh-osvojih-i-posle-dve-sezone-odoh-napoli-ozvanicio-rastanak-sa-konteom/544683",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 05. 2026. у 15:07",
-      "slika": null
-    },
-    {
-      "naslov": "Buenos dias svima, samo ne fudbalerima Real Madrida! Istorijski spisak Španije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/buenos-dias-svima-samo-ne-fudbalerima-real-madrida-istorijski-spisak-spanije/544682",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 05. 2026. у 15:00",
-      "slika": null
-    },
-    {
-      "naslov": "Evropski fudbalski moleraj",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/evropski-fudbalski-moleraj/544672",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 05. 2026. у 12:19",
+      "naslov": "Argentinski fudbaler Lionel Mesi nije teže povređen",
+      "url": "https://www.tanjug.rs/sport/fudbal/254678/argentinski-fudbaler-lionel-mesi-nije-teze-povreden/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 05. 2026. у 09:21",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Hitna reakcija FSS, pokrenut disciplinski postupak protiv Radničkog iz Kragujevca",
-      "url": "https://www.tanjug.rs/sport/fudbal/254476/hitna-reakcija-fss-pokrenut-disciplinski-postupak-protiv-radnickog-iz-kragujevca/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 05. 2026. у 13:26",
+      "naslov": "Prognoza za Mundijal – senzacije kod Hrvata, Nemaca i Brazilaca",
+      "url": "https://www.b92.net/sport/fudbal/vesti/236446/analiza-grupa-mundijala-2026-favoriti-autsajderi-i-potencijalna-iznenadjenja/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "26. 05. 2026. у 09:42",
       "slika": null
     },
     {
-      "naslov": "Osvojio titulu sa Portom, a Francuzi ga platili 22.500.000 evra – sada ga želi Partizan",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236332/partizan-zeli-terema-mofija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 05. 2026. у 23:50",
-      "slika": null
-    },
-    {
-      "naslov": "Pavlović na spisku Srbije, Mitrović i Vlahović preskaču junsko okupljanje",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236362/pavlovic-na-spisku-srbije-mitrovic-i-vlahovic-preskacu-junsko-okupljanje/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 05. 2026. у 20:35",
+      "naslov": "&quot;Iran u Meksiku? Nemamo problem s tim&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/236404/iran-u-meksiku-nemamo-problem-s-tim/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "26. 05. 2026. у 08:38",
       "slika": null
     }
   ]
