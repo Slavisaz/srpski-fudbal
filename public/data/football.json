@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-26T19:46:33.226238+00:00",
-  "azurirano_sr": "26. 05. 2026. у 21:46",
+  "azurirano": "2026-05-26T21:20:18.109631+00:00",
+  "azurirano_sr": "26. 05. 2026. у 23:20",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Sent Etjena i Nice odigrali bez golova u prvom meču baraža za opstanak",
+      "url": "https://www.tanjug.rs/sport/fudbal/254896/fudbaleri-sent-etjena-i-nice-odigrali-bez-golova-u-prvom-mecu-baraza-za-opstanak/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 05. 2026. у 22:52",
+      "slika": null
+    },
+    {
       "naslov": "Škotski fudbaler Lorens Šenkland prešao iz Hartsa u Rendžers",
       "url": "https://www.tanjug.rs/sport/fudbal/254877/skotski-fudbaler-lorens-senkland-presao-iz-hartsa-u-rendzers/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Dejan Stanković o Terziću: Institucija kao čovek, napravio je ozbiljnu mašineriju od Zvezde",
-      "url": "https://www.tanjug.rs/sport/fudbal/254744/dejan-stankovic-o-terzicu-institucija-kao-covek-napravio-je-ozbiljnu-masineriju-od-zvezde/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 05. 2026. у 13:28",
+      "naslov": "Zvezda želi Kipranina koji ju je izbacio sa Omonijom",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236634/crvena-zvezda-u-izraelu-nasla-pojacanje/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 05. 2026. у 20:41",
       "slika": null
     },
     {
-      "naslov": "I Maroko otkrio karte za Mundijal – tu je supertalenat za kojim žali Francuska",
-      "url": "https://www.b92.net/sport/fudbal/vesti/236654/i-maroko-otkrio-karte-za-mundijal-tu-je-supertalenat-za-kojim-zali-francuska/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "26. 05. 2026. у 21:40",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Argentina uvek želi da bude šampion&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/236525/hulijan-alvares-ocekivanja-pred-sp/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "26. 05. 2026. у 15:45",
+      "naslov": "Navijači Radničkog se oglasili posle skandala: &quot;Igrači uzeli pare da nas izbace iz lige!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236596/navijaci-radnickog-se-oglasili-posle-skandala-igraci-uzeli-pare-da-nas-izbace-iz-lige/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 05. 2026. у 18:14",
       "slika": null
     }
   ]
