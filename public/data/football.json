@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-27T13:48:46.566765+00:00",
-  "azurirano_sr": "27. 05. 2026. у 15:48",
+  "azurirano": "2026-05-27T16:53:50.766588+00:00",
+  "azurirano_sr": "27. 05. 2026. у 18:53",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Junajtedov prvi poklon Keriku - vezista iz Serije A od 45.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/junajtedov-prvi-poklon-keriku-vezista-iz-serije-a-od-45000000-evra/544858",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 05. 2026. у 19:16",
+      "slika": null
+    },
+    {
+      "naslov": "Klasa je večna: Mata bez premca i na zalasku karijere",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/klasa-je-vecna-mata-bez-premca-i-na-zalasku-karijere/544852",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 05. 2026. у 17:58",
+      "slika": null
+    },
     {
       "naslov": "Hetafe neće da otkupi Birmančevića, na leto čeka novu selidbu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/hetafe-nece-da-otkupi-birmancevica-na-leto-ceka-novu-selidbu/544848",
@@ -11,24 +25,17 @@
       "slika": null
     },
     {
-      "naslov": "Klasa je večna: Mata bez premca i na zalasku karijere",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/klasa-je-vecna-mata-bez-premca-i-na-zalasku-karijere/544849",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 05. 2026. у 17:26",
+      "naslov": "Crnomarković i Vukanović produžili ugovore sa Vojvodinom",
+      "url": "https://www.tanjug.rs/sport/fudbal/255073/crnomarkovic-i-vukanovic-produzili-ugovore-sa-vojvodinom/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 05. 2026. у 15:59",
       "slika": null
     },
     {
-      "naslov": "Spisak Holandije za Mundijal: Odbrana čista petica, napad - nikad tanji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/spisak-holandije-za-mundijal-odbrana-cista-petica-napad-nikad-tanji/544838",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 05. 2026. у 17:00",
-      "slika": null
-    },
-    {
-      "naslov": "OFK Beograd Mozzart Bet otkupljuje Siluea za 200.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ofk-beograd-mozzart-bet-otkupljuje-siluea-za-200000-evra/544837",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 05. 2026. у 16:13",
+      "naslov": "Crvena zvezda izdvaja tri miliona evra za kiparskog fudbalera Loizua",
+      "url": "https://www.tanjug.rs/sport/fudbal/255062/crvena-zvezda-izdvaja-tri-miliona-evra-za-kiparskog-fudbalera-loizua/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 05. 2026. у 15:29",
       "slika": null
     },
     {
@@ -46,17 +53,10 @@
       "slika": null
     },
     {
-      "naslov": "Jovan Milošević: Svi smo orni i željni da se pokažemo u najboljem svetlu",
-      "url": "https://www.tanjug.rs/sport/fudbal/254962/jovan-milosevic-svi-smo-orni-i-zeljni-da-se-pokazemo-u-najboljem-svetlu/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 05. 2026. у 10:15",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Kristal Palasa i Rajo Valjekana večeras igraju za trofej Lige konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/254915/fudbaleri-kristal-palasa-i-rajo-valjekana-veceras-igraju-za-trofej-lige-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 05. 2026. у 07:30",
+      "naslov": "Zvezda dobila cenu za Kipranina",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236885/crvena-zvezda-mora-da-izdvoji-4500000-evra-za-pojacanje/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 05. 2026. у 16:41",
       "slika": null
     },
     {
