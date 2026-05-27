@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-27T01:52:44.654424+00:00",
-  "azurirano_sr": "27. 05. 2026. у 03:52",
+  "azurirano": "2026-05-27T06:04:28.695894+00:00",
+  "azurirano_sr": "27. 05. 2026. у 08:04",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Kristal Palasa i Rajo Valjekana večeras igraju za trofej Lige konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/254915/fudbaleri-kristal-palasa-i-rajo-valjekana-veceras-igraju-za-trofej-lige-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 05. 2026. у 07:30",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Sent Etjena i Nice odigrali bez golova u prvom meču baraža za opstanak",
       "url": "https://www.tanjug.rs/sport/fudbal/254896/fudbaleri-sent-etjena-i-nice-odigrali-bez-golova-u-prvom-mecu-baraza-za-opstanak/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Španski stručnjak Manolo Gonzales ostaje trener Espanjola",
-      "url": "https://www.tanjug.rs/sport/fudbal/254799/spanski-strucnjak-manolo-gonzales-ostaje-trener-espanjola/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 05. 2026. у 16:00",
+      "naslov": "Stanković: &quot;Tata je oduvek pričao da nema slave bez znoja&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/236586/stankovic-tata-je-oduvek-pricao-da-nema-slave-bez-znoja/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "26. 05. 2026. у 23:10",
       "slika": null
     },
     {
-      "naslov": "Zvezda želi Kipranina koji ju je izbacio sa Omonijom",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236634/crvena-zvezda-u-izraelu-nasla-pojacanje/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 05. 2026. у 20:41",
-      "slika": null
-    },
-    {
-      "naslov": "Navijači Radničkog se oglasili posle skandala: &quot;Igrači uzeli pare da nas izbace iz lige!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236596/navijaci-radnickog-se-oglasili-posle-skandala-igraci-uzeli-pare-da-nas-izbace-iz-lige/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 05. 2026. у 18:14",
+      "naslov": "I domaćin objavio spisak – oči su uprte u Pulišića",
+      "url": "https://www.b92.net/sport/fudbal/vesti/236669/amerika-spisak-za-mundijal-2026/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "26. 05. 2026. у 22:55",
       "slika": null
     }
   ]
