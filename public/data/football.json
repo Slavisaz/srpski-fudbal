@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-27T06:04:28.695894+00:00",
-  "azurirano_sr": "27. 05. 2026. у 08:04",
+  "azurirano": "2026-05-27T10:15:03.971391+00:00",
+  "azurirano_sr": "27. 05. 2026. у 12:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "LUDI TIKET (sreda): Fudbalski bogovi oteli MOZZART MAKSIMALU tešku 50.000.000 dinara!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-sreda-fudbalski-bogovi-oteli-mozzart-maksimalu-tesku-50000000-dinara/544813",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 05. 2026. у 10:15",
+      "slika": null
+    },
+    {
+      "naslov": "Kafanski čovek Žarko Udovičić: Da sam mlađi, bio bih u Seriji A",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kafanski-covek-zarko-udovicic-da-sam-mlai-bio-bih-u-seriji-a/544798",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 05. 2026. у 10:03",
+      "slika": null
+    },
     {
       "naslov": "Kuva u Novom Sadu: Voša ima dogovor sa Zukićem, uskoro stižu Đakovac i špic",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kuva-u-novom-sadu-vosa-ima-dogovor-sa-zukicem-uskoro-stizu-akovac-i-spic/544780",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Juventus u epizodi \"kupus gleda, meso vadi\": Poslata ponuda Robertsonu, prava meta Alison",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/juventus-u-epizodi-kupus-gleda-meso-vadi-poslata-ponuda-robertsonu-prava-meta-alison/544760",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 05. 2026. у 15:41",
+      "naslov": "Nuno Espirito Santo ostaje menadžer Vest Hema",
+      "url": "https://www.tanjug.rs/sport/fudbal/254981/nuno-espirito-santo-ostaje-menadzer-vest-hema/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 05. 2026. у 11:25",
       "slika": null
     },
     {
-      "naslov": "Kako se od \"niko na more\" stiglo do 11 superligaša",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-se-od-niko-na-more-stiglo-do-11-superligasa/544754",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 05. 2026. у 14:35",
+      "naslov": "Jovan Milošević: Svi smo orni i željni da se pokažemo u najboljem svetlu",
+      "url": "https://www.tanjug.rs/sport/fudbal/254962/jovan-milosevic-svi-smo-orni-i-zeljni-da-se-pokazemo-u-najboljem-svetlu/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 05. 2026. у 10:15",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Škotski fudbaler Lorens Šenkland prešao iz Hartsa u Rendžers",
-      "url": "https://www.tanjug.rs/sport/fudbal/254877/skotski-fudbaler-lorens-senkland-presao-iz-hartsa-u-rendzers/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 05. 2026. у 20:26",
+      "naslov": "Bivši golman Partizana u odelu golgetera: &quot;Evrogol kao nekada Božinov – ličim na Bobadilju&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236675/marko-jovicic-za-b92sport-fk-petar-dobrnjac-fk-partizan-intervju-golovi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 05. 2026. у 11:42",
       "slika": null
     },
     {
-      "naslov": "Holandski fudbaler Doniel Malen potpisao dugoročni ugovor sa Romom",
-      "url": "https://www.tanjug.rs/sport/fudbal/254856/holandski-fudbaler-doniel-malen-potpisao-dugorocni-ugovor-sa-romom/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 05. 2026. у 18:51",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: &quot;Tata je oduvek pričao da nema slave bez znoja&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/236586/stankovic-tata-je-oduvek-pricao-da-nema-slave-bez-znoja/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "26. 05. 2026. у 23:10",
-      "slika": null
-    },
-    {
-      "naslov": "I domaćin objavio spisak – oči su uprte u Pulišića",
-      "url": "https://www.b92.net/sport/fudbal/vesti/236669/amerika-spisak-za-mundijal-2026/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "26. 05. 2026. у 22:55",
+      "naslov": "&quot;Nisam hteo u Partizan!&quot; – Milošević otkrio ko ga je naterao da obuče crno-beli dres VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236706/ispovest-jovana-milosevica-majka-me-je-nagovorila-da-dodjem-u-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 05. 2026. у 09:08",
       "slika": null
     }
   ]
