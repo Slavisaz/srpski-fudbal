@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-27T16:53:50.766588+00:00",
-  "azurirano_sr": "27. 05. 2026. у 18:53",
+  "azurirano": "2026-05-27T19:10:00.879996+00:00",
+  "azurirano_sr": "27. 05. 2026. у 21:10",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -25,6 +25,13 @@
       "slika": null
     },
     {
+      "naslov": "Italijanski stručnjak Mauricio Sari nije više trener fudbalera Lacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/255132/italijanski-strucnjak-mauricio-sari-nije-vise-trener-fudbalera-lacija/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 05. 2026. у 19:04",
+      "slika": null
+    },
+    {
       "naslov": "Crnomarković i Vukanović produžili ugovore sa Vojvodinom",
       "url": "https://www.tanjug.rs/sport/fudbal/255073/crnomarkovic-i-vukanovic-produzili-ugovore-sa-vojvodinom/vest",
       "izvor": "Танјуг",
@@ -46,31 +53,24 @@
       "slika": null
     },
     {
-      "naslov": "Nuno Espirito Santo ostaje menadžer Vest Hema",
-      "url": "https://www.tanjug.rs/sport/fudbal/254981/nuno-espirito-santo-ostaje-menadzer-vest-hema/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 05. 2026. у 11:25",
+      "naslov": "Nejmar stigao na okupljanje – helikopterom VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/236921/nejmar-stigao-na-okupljanje-helikopterom-video/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "27. 05. 2026. у 21:00",
       "slika": null
     },
     {
-      "naslov": "Zvezda dobila cenu za Kipranina",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236885/crvena-zvezda-mora-da-izdvoji-4500000-evra-za-pojacanje/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 05. 2026. у 16:41",
+      "naslov": "Zahid se vraća na početak",
+      "url": "https://www.b92.net/sport/fudbal/vesti/236905/zahid-se-vraca-na-pocetak/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "27. 05. 2026. у 20:10",
       "slika": null
     },
     {
-      "naslov": "Ljajić o Partizanu: &quot;Lud je svako ko se nada...&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236828/rasim-ljajic-intervju-o-stanju-u-partizanu-lud-je-svako-ko-se-nada-da-ce-neko-doneti-dzakove-para/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 05. 2026. у 13:54",
-      "slika": null
-    },
-    {
-      "naslov": "Bivši golman Partizana u odelu golgetera: &quot;Evrogol kao nekada Božinov – ličim na Bobadilju&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236675/marko-jovicic-za-b92sport-fk-petar-dobrnjac-fk-partizan-intervju-golovi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 05. 2026. у 11:42",
+      "naslov": "Kuman izabrao za Mundijal – bez Simonsa, De Fraja, Frimponga...",
+      "url": "https://www.b92.net/sport/fudbal/vesti/236858/kuman-izabrao-za-mundijal-bez-siomnsa-de-fraja-frimponga/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "27. 05. 2026. у 16:10",
       "slika": null
     }
   ]
