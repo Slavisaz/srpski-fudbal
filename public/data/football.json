@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-27T19:10:00.879996+00:00",
-  "azurirano_sr": "27. 05. 2026. у 21:10",
+  "azurirano": "2026-05-27T21:08:13.275439+00:00",
+  "azurirano_sr": "27. 05. 2026. у 23:08",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Robertson neće pogaziti reč, odjavio Juventus zbog Totenhema",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/robertson-nece-pogaziti-rec-odjavio-juventus-zbog-totenhema/544879",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 05. 2026. у 00:26",
+      "slika": null
+    },
+    {
+      "naslov": "Na mundijalskom spisku su: Sebelebele, Mudau, Zvane, Mofokeng, Mbokazi, Makandža, Ndamane…",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/na-mundijalskom-spisku-su-sebelebele-mudau-zvane-mofokeng-mbokazi-makandza-ndamane/544872",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 05. 2026. у 22:59",
+      "slika": null
+    },
     {
       "naslov": "Junajtedov prvi poklon Keriku - vezista iz Serije A od 45.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/junajtedov-prvi-poklon-keriku-vezista-iz-serije-a-od-45000000-evra/544858",
@@ -18,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Hetafe neće da otkupi Birmančevića, na leto čeka novu selidbu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/hetafe-nece-da-otkupi-birmancevica-na-leto-ceka-novu-selidbu/544848",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 05. 2026. у 17:29",
+      "naslov": "Fudbaler Šturma Petar Petrović pozvan umesto Veljka Milosavljevića u reprezentaciju Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/255171/fudbaler-sturma-petar-petrovic-pozvan-umesto-veljka-milosavljevica-u-reprezentaciju-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 05. 2026. у 22:15",
+      "slika": null
+    },
+    {
+      "naslov": "Utakmica između fudbalera Srbije i Zelenortskih Ostrva pomerena sa 16 i 30 na 17 časova",
+      "url": "https://www.tanjug.rs/sport/fudbal/255164/utakmica-izmedu-fudbalera-srbije-i-zelenortskih-ostrva-pomerena-sa-16-i-30-na-17-casova/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 05. 2026. у 21:38",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbalski savez Demokratske Republike Kongo zatražio od FIFA povraćaj novca za navijače zbog zabrane ulaska u SAD",
+      "url": "https://www.tanjug.rs/sport/fudbal/255140/fudbalski-savez-demokratske-republike-kongo-zatrazio-od-fifa-povracaj-novca-za-navijace-zbog-zabrane-ulaska-u-sad/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 05. 2026. у 19:47",
       "slika": null
     },
     {
@@ -32,45 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Crnomarković i Vukanović produžili ugovore sa Vojvodinom",
-      "url": "https://www.tanjug.rs/sport/fudbal/255073/crnomarkovic-i-vukanovic-produzili-ugovore-sa-vojvodinom/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 05. 2026. у 15:59",
+      "naslov": "Peh za &quot;orlove&quot; – Paunović u poslednji čas promenio spisak i pozvao debitanta!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236949/povredio-se-veljko-milosavljevic-paunovic-pozvao-petra-petrovica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 05. 2026. у 20:30",
       "slika": null
     },
     {
-      "naslov": "Crvena zvezda izdvaja tri miliona evra za kiparskog fudbalera Loizua",
-      "url": "https://www.tanjug.rs/sport/fudbal/255062/crvena-zvezda-izdvaja-tri-miliona-evra-za-kiparskog-fudbalera-loizua/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 05. 2026. у 15:29",
-      "slika": null
-    },
-    {
-      "naslov": "Lionel Skaloni: Želeli smo da Mesi potpuno spreman dođe na pripreme, ali to nije realno",
-      "url": "https://www.tanjug.rs/sport/fudbal/254986/lionel-skaloni-zeleli-smo-da-mesi-potpuno-spreman-dode-na-pripreme-ali-to-nije-realno/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 05. 2026. у 11:50",
-      "slika": null
-    },
-    {
-      "naslov": "Nejmar stigao na okupljanje – helikopterom VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/236921/nejmar-stigao-na-okupljanje-helikopterom-video/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "27. 05. 2026. у 21:00",
-      "slika": null
-    },
-    {
-      "naslov": "Zahid se vraća na početak",
-      "url": "https://www.b92.net/sport/fudbal/vesti/236905/zahid-se-vraca-na-pocetak/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "27. 05. 2026. у 20:10",
-      "slika": null
-    },
-    {
-      "naslov": "Kuman izabrao za Mundijal – bez Simonsa, De Fraja, Frimponga...",
-      "url": "https://www.b92.net/sport/fudbal/vesti/236858/kuman-izabrao-za-mundijal-bez-siomnsa-de-fraja-frimponga/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "27. 05. 2026. у 16:10",
+      "naslov": "Srbija pomerila utakmicu u Lisabonu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236936/srbija-u-drugom-terminu-igra-u-lisabonu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 05. 2026. у 20:20",
       "slika": null
     }
   ]
