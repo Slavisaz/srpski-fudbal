@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-28T09:05:24.444860+00:00",
-  "azurirano_sr": "28. 05. 2026. у 11:05",
+  "azurirano": "2026-05-28T12:40:39.665849+00:00",
+  "azurirano_sr": "28. 05. 2026. у 14:40",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Jandrić čeka prvi trofej u karijeri: U današnje vreme je uspeh biti cele sezone trener istog tima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jandric-ceka-prvi-trofej-u-karijeri-u-danasnje-vreme-je-uspeh-biti-cele-sezone-trener-istog-tima/544919",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 05. 2026. у 15:46",
+      "slika": null
+    },
+    {
+      "naslov": "Koliko drugoligaša će igrati u Evropi i da li će bivši šampion dostojanstveno otići u penziju?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/koliko-drugoligasa-ce-igrati-u-evropi-i-da-li-ce-bivsi-sampion-dostojanstveno-otici-u-penziju/544911",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 05. 2026. у 13:47",
+      "slika": null
+    },
     {
       "naslov": "Zvezdinin Kipranin je krilo sa dušom desetke, ali izraelska liga poziva na oprez",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdinin-kipranin-je-krilo-sa-dusom-desetke-ali-izraelska-liga-poziva-na-oprez/544907",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "LUDI TIKET, četvrtak, 104.903 dinara: Leskovačka Mozzart mućkalica",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-cetvrtak-104903-dinara-leskovacka-mozzart-muckalica/544894",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 05. 2026. у 10:24",
+      "naslov": "Glasner: Zaslužili smo da osvojimo Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/255280/glasner-zasluzili-smo-da-osvojimo-ligu-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 05. 2026. у 12:26",
       "slika": null
     },
     {
-      "naslov": "Robertson neće pogaziti reč, odjavio Juventus zbog Totenhema",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/robertson-nece-pogaziti-rec-odjavio-juventus-zbog-totenhema/544879",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 05. 2026. у 00:26",
+      "naslov": "Domović Bulut 4. i 5. juna u Novom Sadu organizuje basket turnir za decu do 14 godina",
+      "url": "https://www.tanjug.rs/sport/fudbal/255261/domovic-bulut-4-i-5-juna-u-novom-sadu-organizuje-basket-turnir-za-decu-do-14-godina/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 05. 2026. у 11:35",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Utakmica između fudbalera Srbije i Zelenortskih Ostrva pomerena sa 16 i 30 na 17 časova",
-      "url": "https://www.tanjug.rs/sport/fudbal/255164/utakmica-izmedu-fudbalera-srbije-i-zelenortskih-ostrva-pomerena-sa-16-i-30-na-17-casova/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 05. 2026. у 21:38",
+      "naslov": "Štulić: &quot;Zdjelar najveći trener među saigračima – sličan sam Mitroviću&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237090/stulic-zdjelar-najveci-trener-medju-saigracima-slican-sam-mitrovicu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 05. 2026. у 13:30",
       "slika": null
     },
     {
-      "naslov": "Fudbalski savez Demokratske Republike Kongo zatražio od FIFA povraćaj novca za navijače zbog zabrane ulaska u SAD",
-      "url": "https://www.tanjug.rs/sport/fudbal/255140/fudbalski-savez-demokratske-republike-kongo-zatrazio-od-fifa-povracaj-novca-za-navijace-zbog-zabrane-ulaska-u-sad/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 05. 2026. у 19:47",
-      "slika": null
-    },
-    {
-      "naslov": "Nejmar privatnim helikopterom na pripreme reprezentacije VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/237018/nejmar-helikopterom-u-trening-kamp-reprezentacije-brazila-video/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "28. 05. 2026. у 09:30",
-      "slika": null
-    },
-    {
-      "naslov": "Bizarna povreda Andrije Živkovića okrenula sezonu PAOK-a",
-      "url": "https://www.b92.net/sport/fudbal/vesti/236891/bizarna-povreda-andrije-zivkovica-okrenula-sezonu-paok-a/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "27. 05. 2026. у 22:30",
+      "naslov": "Bosanac u Voši za 600.000 evra",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237066/nardin-mulahusejnovic-stize-u-vojvodinu-iz-jermenije-za-600000-evra/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 05. 2026. у 11:34",
       "slika": null
     }
   ]
