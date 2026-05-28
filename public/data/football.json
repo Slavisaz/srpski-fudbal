@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-28T19:20:04.398885+00:00",
-  "azurirano_sr": "28. 05. 2026. у 21:20",
+  "azurirano": "2026-05-28T21:24:07.341556+00:00",
+  "azurirano_sr": "28. 05. 2026. у 23:24",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kada bi svi kao mornari pobednici Kupa postali: Projektil Stefana Denkovića za istoriju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kada-bi-svi-kao-mornari-pobednici-kupa-postali-projektil-stefana-denkovica-za-istoriju/544960",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 05. 2026. у 00:55",
+      "slika": null
+    },
     {
       "naslov": "Mejson Grinvud će biti jedna od transfer bombi leta! Roma se nada – baš njena",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mejson-grinvud-ce-biti-jedna-od-transfer-bombi-leta-roma-se-nada-bas-njena/544923",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Zvezdin Kipranin je krilo sa dušom desetke, ali izraelska liga poziva na oprez",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdin-kipranin-je-krilo-sa-dusom-desetke-ali-izraelska-liga-poziva-na-oprez/544907",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 05. 2026. у 12:46",
+      "naslov": "Fudbaleri Egipta pobedili Rusiju u prijateljskom meču",
+      "url": "https://www.tanjug.rs/sport/fudbal/255437/fudbaleri-egipta-pobedili-rusiju-u-prijateljskom-mecu/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 05. 2026. у 22:12",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Nejmar zbog povrede lista neće igrati dve do tri nedelje",
-      "url": "https://www.tanjug.rs/sport/fudbal/255349/nejmar-zbog-povrede-lista-nece-igrati-dve-do-tri-nedelje/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 05. 2026. у 15:35",
+      "naslov": "Milka Forcan otkrila: &quot;Dug Partizana smanjen za čak 17 miliona evra&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237243/potpredsednica-partizan-o-dugu-crno-belih/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 05. 2026. у 20:45",
       "slika": null
     },
     {
-      "naslov": "Ministar uručio diplomatske pasoše reprezentativcima BiH",
-      "url": "https://www.b92.net/sport/fudbal/vesti/237166/ministar-urucio-diplomatske-pasose-reprezentativcima-bih/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "28. 05. 2026. у 15:45",
-      "slika": null
-    },
-    {
-      "naslov": "Potvrđeno – Nejmar ne igra na startu Mundijala",
-      "url": "https://www.b92.net/sport/fudbal/vesti/237148/potvrdjeno-nejmar-ne-igra-na-startu-mundijala/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "28. 05. 2026. у 15:14",
+      "naslov": "Štulić: &quot;Zdjelar najveći trener među saigračima – sličan sam Mitroviću&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237090/stulic-zdjelar-najveci-trener-medju-saigracima-slican-sam-mitrovicu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 05. 2026. у 13:30",
       "slika": null
     }
   ]
