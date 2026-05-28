@@ -1,34 +1,34 @@
 {
-  "azurirano": "2026-05-28T05:45:20.310853+00:00",
-  "azurirano_sr": "28. 05. 2026. у 07:45",
+  "azurirano": "2026-05-28T09:05:24.444860+00:00",
+  "azurirano_sr": "28. 05. 2026. у 11:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvezdinin Kipranin je krilo sa dušom desetke, ali izraelska liga poziva na oprez",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdinin-kipranin-je-krilo-sa-dusom-desetke-ali-izraelska-liga-poziva-na-oprez/544907",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 05. 2026. у 12:46",
+      "slika": null
+    },
+    {
+      "naslov": "Kečeve na Septemvri i Vječistu najskuplje plaća Mozzart",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/keceve-na-septemvri-i-vjecistu-najskuplje-placa-mozzart/544906",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 05. 2026. у 12:29",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET, četvrtak, 104.903 dinara: Leskovačka Mozzart mućkalica",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-cetvrtak-104903-dinara-leskovacka-mozzart-muckalica/544894",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 05. 2026. у 10:24",
+      "slika": null
+    },
     {
       "naslov": "Robertson neće pogaziti reč, odjavio Juventus zbog Totenhema",
       "url": "https://www.mozzartsport.com/fudbal/vesti/robertson-nece-pogaziti-rec-odjavio-juventus-zbog-totenhema/544879",
       "izvor": "Мозарт Спорт",
       "datum": "28. 05. 2026. у 00:26",
-      "slika": null
-    },
-    {
-      "naslov": "Na mundijalskom spisku su: Sebelebele, Mudau, Zvane, Mofokeng, Mbokazi, Makandža, Ndamane…",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/na-mundijalskom-spisku-su-sebelebele-mudau-zvane-mofokeng-mbokazi-makandza-ndamane/544872",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 05. 2026. у 22:59",
-      "slika": null
-    },
-    {
-      "naslov": "Junajtedov prvi poklon Keriku - vezista iz Serije A od 45.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/junajtedov-prvi-poklon-keriku-vezista-iz-serije-a-od-45000000-evra/544858",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 05. 2026. у 19:16",
-      "slika": null
-    },
-    {
-      "naslov": "Klasa je večna: Mata bez premca i na zalasku karijere",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/klasa-je-vecna-mata-bez-premca-i-na-zalasku-karijere/544852",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 05. 2026. у 17:58",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Peh za &quot;orlove&quot; – Paunović u poslednji čas promenio spisak i pozvao debitanta!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236949/povredio-se-veljko-milosavljevic-paunovic-pozvao-petra-petrovica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 05. 2026. у 20:30",
+      "naslov": "Nejmar privatnim helikopterom na pripreme reprezentacije VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/237018/nejmar-helikopterom-u-trening-kamp-reprezentacije-brazila-video/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "28. 05. 2026. у 09:30",
       "slika": null
     },
     {
-      "naslov": "Srbija pomerila utakmicu u Lisabonu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/236936/srbija-u-drugom-terminu-igra-u-lisabonu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 05. 2026. у 20:20",
+      "naslov": "Bizarna povreda Andrije Živkovića okrenula sezonu PAOK-a",
+      "url": "https://www.b92.net/sport/fudbal/vesti/236891/bizarna-povreda-andrije-zivkovica-okrenula-sezonu-paok-a/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "27. 05. 2026. у 22:30",
       "slika": null
     }
   ]
