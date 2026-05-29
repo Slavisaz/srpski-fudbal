@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-29T02:45:03.674440+00:00",
-  "azurirano_sr": "29. 05. 2026. у 04:45",
+  "azurirano": "2026-05-29T06:41:48.100502+00:00",
+  "azurirano_sr": "29. 05. 2026. у 08:41",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Crvene zvezde na današnji dan pre 35 godina postali šampioni Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/255478/fudbaleri-crvene-zvezde-na-danasnji-dan-pre-35-godina-postali-sampioni-evrope/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 05. 2026. у 08:18",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Egipta pobedili Rusiju u prijateljskom meču",
       "url": "https://www.tanjug.rs/sport/fudbal/255437/fudbaleri-egipta-pobedili-rusiju-u-prijateljskom-mecu/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Devetorica fudbalera napustila Volfsburg posle ispadanja iz Bundeslige",
-      "url": "https://www.tanjug.rs/sport/fudbal/255367/devetorica-fudbalera-napustila-volfsburg-posle-ispadanja-iz-bundeslige/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 05. 2026. у 16:09",
+      "naslov": "Radnik blizu rastanka sa bivšim selektorom Srbije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237297/dusan-djordjevic-blizu-odlaska-iz-radnika/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 05. 2026. у 08:22",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237243/potpredsednica-partizan-o-dugu-crno-belih/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 05. 2026. у 20:45",
-      "slika": null
-    },
-    {
-      "naslov": "Štulić: &quot;Zdjelar najveći trener među saigračima – sličan sam Mitroviću&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237090/stulic-zdjelar-najveci-trener-medju-saigracima-slican-sam-mitrovicu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 05. 2026. у 13:30",
       "slika": null
     }
   ]
