@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-29T10:34:28.797212+00:00",
-  "azurirano_sr": "29. 05. 2026. у 12:34",
+  "azurirano": "2026-05-29T13:45:31.229649+00:00",
+  "azurirano_sr": "29. 05. 2026. у 15:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Paunović otvoreno: Ne shvatam lično i ne zameram, ali razočaran sam što neki nisu ovde",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/paunovic-otvoreno-ne-shvatam-licno-i-ne-zameram-ali-razocaran-sam-sto-neki-nisu-ovde/545009",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 05. 2026. у 15:52",
+      "slika": null
+    },
+    {
+      "naslov": "Staniću raste cena, Holanđani zagrizli prvi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stanicu-raste-cena-holanani-zagrizli-prvi/545007",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 05. 2026. у 15:24",
+      "slika": null
+    },
     {
       "naslov": "Apel za spas Partizana: Ne priznajemo Skupštinu, tražimo njeno raspuštanje",
       "url": "https://www.mozzartsport.com/fudbal/vesti/apel-za-spas-partizana-ne-priznajemo-skupstinu-trazimo-njeno-raspustanje/544994",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Serija A iz 90-ih, Španci sa Mesijem i Ronaldom ili ipak ova Premijer liga? (ANKETA)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/serija-a-iz-90ih-spanci-sa-mesijem-i-ronaldom-ili-ipak-ova-premijer-liga-anketa/544973",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 05. 2026. у 12:47",
-      "slika": null
-    },
-    {
-      "naslov": "Fabrika skupocenih napadača se zainteresovala za Cvetkovića, spremna da ga plati 12.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fabrika-skupocenih-napadaca-se-zainteresovala-za-cvetkovica-spremna-da-ga-plati-12000000-evra/544980",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 05. 2026. у 11:52",
+      "naslov": "Veljko Paunović: Nećemo da pravimo frku zbog velikog broja otkaza, niko neće biti precrtan",
+      "url": "https://www.tanjug.rs/sport/fudbal/255574/veljko-paunovic-necemo-da-pravimo-frku-zbog-velikog-broja-otkaza-niko-nece-biti-precrtan/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 05. 2026. у 13:54",
       "slika": null
     },
     {
@@ -53,24 +60,31 @@
       "slika": null
     },
     {
-      "naslov": "Argentinski stručnjak Martin Demičelis ostaje trener španske Majorke",
-      "url": "https://www.tanjug.rs/sport/fudbal/255370/argentinski-strucnjak-martin-demicelis-ostaje-trener-spanske-majorke/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 05. 2026. у 16:13",
+      "naslov": "Oglasio se Apel za spas Partizana: &quot;Tražimo raspuštanje Skupštine!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237389/apel-za-spas-partizana-se-oglasio-zbog-skupstine-partizana/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 05. 2026. у 13:50",
       "slika": null
     },
     {
-      "naslov": "Veljko Paunović se obraća pred okupljanje",
+      "naslov": "Veljko Paunović: &quot;Nisam srećan zbog pojedinaca&quot;; &quot;Kapitenska traka nije dezert&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237398/uzivo-konferencija-veljko-paunovic-srbija/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "29. 05. 2026. у 12:30",
+      "datum": "29. 05. 2026. у 13:45",
       "slika": null
     },
     {
-      "naslov": "Ljajić pred Skupštinu kluba: &quot;Čuli smo sve i svašta, ljudi se žale da trpe pritiske&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237395/predsednik-partizana-se-oglasio-pred-skupstinu-kluba/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 05. 2026. у 12:21",
+      "naslov": "Ministar uručio diplomatske pasoše reprezentativcima BiH",
+      "url": "https://www.b92.net/sport/fudbal/vesti/237166/ministar-urucio-diplomatske-pasose-reprezentativcima-bih/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "28. 05. 2026. у 15:45",
+      "slika": null
+    },
+    {
+      "naslov": "Potvrđeno – Nejmar ne igra na startu Mundijala",
+      "url": "https://www.b92.net/sport/fudbal/vesti/237148/potvrdjeno-nejmar-ne-igra-na-startu-mundijala/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "28. 05. 2026. у 15:14",
       "slika": null
     }
   ]
