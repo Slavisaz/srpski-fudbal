@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-29T17:02:17.082550+00:00",
-  "azurirano_sr": "29. 05. 2026. у 19:02",
+  "azurirano": "2026-05-29T19:36:50.717395+00:00",
+  "azurirano_sr": "29. 05. 2026. у 21:36",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Pandurović menja Lalatovića u Pazaru!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pandurovic-menja-lalatovica-u-pazaru/545035",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 05. 2026. у 23:04",
+      "slika": null
+    },
     {
       "naslov": "Paunović otvoreno: Ne shvatam lično i ne zameram, ali razočaran sam što neki nisu ovde",
       "url": "https://www.mozzartsport.com/fudbal/vesti/paunovic-otvoreno-ne-shvatam-licno-i-ne-zameram-ali-razocaran-sam-sto-neki-nisu-ovde/545009",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Vraća se Barsa, kupi sve pred sobom! Spakovan i Bernardo Silva",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vraca-se-barsa-kupi-sve-pred-sobom-spakovan-i-bernardo-silva/544993",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 05. 2026. у 13:19",
+      "naslov": "Dragan Džajić: Zvezda bi sad bila kao Real i Barselona da nije bilo raspada Jugoslavije",
+      "url": "https://www.tanjug.rs/sport/fudbal/255681/dragan-dzajic-zvezda-bi-sad-bila-kao-real-i-barselona-da-nije-bilo-raspada-jugoslavije/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 05. 2026. у 20:36",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Veljko Paunović: Nećemo da pravimo frku zbog velikog broja otkaza, niko neće biti precrtan",
-      "url": "https://www.tanjug.rs/sport/fudbal/255574/veljko-paunovic-necemo-da-pravimo-frku-zbog-velikog-broja-otkaza-niko-nece-biti-precrtan/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 05. 2026. у 13:54",
+      "naslov": "Prošlo je već 35 godina od Barija: &quot;Slavlje i danas traje...&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237540/proslo-je-vec-35-godina-od-barija-slavlje-i-danas-traje/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 05. 2026. у 20:25",
       "slika": null
     },
     {
-      "naslov": "Matićev saigrač odjavio Italiju zbog Mundijala",
-      "url": "https://www.b92.net/sport/fudbal/vesti/237456/maticev-saigrac-odjavio-italiju-zbog-mundijala/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "29. 05. 2026. у 18:12",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Gaučosi&quot; na fenomenalan način objavili spisak igrača za SP VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/237315/argentina-spisak-za-mundijal-2026/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "29. 05. 2026. у 09:20",
+      "naslov": "TSC ostao bez trenera – Sivić napustio klub",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237418/sivic-nije-vise-trener-tsc/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 05. 2026. у 16:00",
       "slika": null
     },
     {
