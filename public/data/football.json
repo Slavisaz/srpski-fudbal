@@ -1,10 +1,24 @@
 {
-  "azurirano": "2026-05-29T19:36:50.717395+00:00",
-  "azurirano_sr": "29. 05. 2026. у 21:36",
+  "azurirano": "2026-05-29T21:24:28.907089+00:00",
+  "azurirano_sr": "29. 05. 2026. у 23:24",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Pandurović menja Lalatovića u Pazaru!",
+      "naslov": "Šta će s njima biti niko ne zna, ali je tradicija duga 24 godine sačuvana: Prvoligaški fudbal na Azurnoj obali i sledeće sezone",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sta-ce-s-njima-biti-niko-ne-zna-ali-je-tradicija-duga-24-godine-sacuvana-prvoligaski-fudbal-na-azurnoj-obali-i-sledece-sezone/545046",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 05. 2026. у 00:57",
+      "slika": null
+    },
+    {
+      "naslov": "Vlada Jovanović: Nemam poseban recept za Zvezdu, jednostavno se tako desi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vlada-jovanovic-nemam-poseban-recept-za-zvezdu-jednostavno-se-tako-desi/545044",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 05. 2026. у 00:34",
+      "slika": null
+    },
+    {
+      "naslov": "Pandurović menja Lalatovića u Pazaru",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pandurovic-menja-lalatovica-u-pazaru/545035",
       "izvor": "Мозарт Спорт",
       "datum": "29. 05. 2026. у 23:04",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Staniću raste cena, Holanđani zagrizli prvi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/stanicu-raste-cena-holanani-zagrizli-prvi/545007",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 05. 2026. у 15:24",
-      "slika": null
-    },
-    {
-      "naslov": "Apel za spas Partizana: Ne priznajemo Skupštinu, tražimo njeno raspuštanje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/apel-za-spas-partizana-ne-priznajemo-skupstinu-trazimo-njeno-raspustanje/544994",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 05. 2026. у 13:20",
+      "naslov": "Arteta: Imamo priliku da ispišemo istoriju, došli smo da osvojimo Ligu šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/255700/arteta-imamo-priliku-da-ispisemo-istoriju-dosli-smo-da-osvojimo-ligu-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 05. 2026. у 21:54",
       "slika": null
     },
     {
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Tomislav Sivić nije više trener fudbalera TSC-a",
-      "url": "https://www.tanjug.rs/sport/fudbal/255638/tomislav-sivic-nije-vise-trener-fudbalera-tsc-a/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 05. 2026. у 16:50",
-      "slika": null
-    },
-    {
       "naslov": "Prošlo je već 35 godina od Barija: &quot;Slavlje i danas traje...&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237540/proslo-je-vec-35-godina-od-barija-slavlje-i-danas-traje/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237418/sivic-nije-vise-trener-tsc/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "29. 05. 2026. у 16:00",
-      "slika": null
-    },
-    {
-      "naslov": "Ministar uručio diplomatske pasoše reprezentativcima BiH",
-      "url": "https://www.b92.net/sport/fudbal/vesti/237166/ministar-urucio-diplomatske-pasose-reprezentativcima-bih/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "28. 05. 2026. у 15:45",
       "slika": null
     }
   ]
