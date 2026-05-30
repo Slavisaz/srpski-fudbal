@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-30T12:48:49.768560+00:00",
-  "azurirano_sr": "30. 05. 2026. у 14:48",
+  "azurirano": "2026-05-30T14:19:36.353739+00:00",
+  "azurirano_sr": "30. 05. 2026. у 16:19",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Selektor Egipta Hosam Hasan saopštio konačan spisak fudbalera za SP",
+      "url": "https://www.tanjug.rs/sport/fudbal/255775/selektor-egipta-hosam-hasan-saopstio-konacan-spisak-fudbalera-za-sp/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 05. 2026. у 14:56",
+      "slika": null
+    },
+    {
+      "naslov": "Arne Slot nije više menadžer Liverpula",
+      "url": "https://www.tanjug.rs/sport/fudbal/255770/arne-slot-nije-vise-menadzer-liverpula/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 05. 2026. у 13:49",
+      "slika": null
+    },
+    {
       "naslov": "Bukinac: Mnogo nam znače ovakve utakmice, to su dobre pripreme za Ligu nacija",
       "url": "https://www.tanjug.rs/sport/fudbal/255752/bukinac-mnogo-nam-znace-ovakve-utakmice-to-su-dobre-pripreme-za-ligu-nacija/vest",
       "izvor": "Танјуг",
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Pari Sen Žermena i Arsenala večeras igraju za trofej Lige šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/255735/fudbaleri-pari-sen-zermena-i-arsenala-veceras-igraju-za-trofej-lige-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 05. 2026. у 09:13",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Nice izborili opstanak u francuskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/255710/fudbaleri-nice-izborili-opstanak-u-francuskom-prvenstvu/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 05. 2026. у 23:15",
-      "slika": null
-    },
-    {
-      "naslov": "Novi Pazar dovodi Brazilca",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237635/brazilac-dzoni-robert-na-meti-novog-pazara/vest",
+      "naslov": "Stiže informacija iz Rusije – Blagojević napušta Partizan",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237705/srdjan-blagojevic-napusta-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 05. 2026. у 12:50",
+      "datum": "30. 05. 2026. у 15:00",
       "slika": null
     },
     {
-      "naslov": "Drama u Humskoj pred Skupštinu – Generalni sponzor pokrenuo raskid ugovora",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237640/maxbet-trazi-raskid-ugovora-sa-partizanom/vest",
+      "naslov": "Novi Pazar predstavio naslednika Lalatovića – stigao trener iz Partizanove škole",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237681/strahinja-pandurovic-novi-trener-novog-pazara/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 05. 2026. у 10:42",
+      "datum": "30. 05. 2026. у 14:45",
       "slika": null
     }
   ]
