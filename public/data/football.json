@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-30T08:08:29.563804+00:00",
-  "azurirano_sr": "30. 05. 2026. у 10:08",
+  "azurirano": "2026-05-30T10:12:12.223797+00:00",
+  "azurirano_sr": "30. 05. 2026. у 12:12",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "General došao da ostvari dečački san: River pokupio Nikolasa Otamendija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/general-dosao-da-ostvari-decacki-san-river-pokupio-nikolasa-otamendija/545072",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 05. 2026. у 13:11",
+      "slika": null
+    },
     {
       "naslov": "Zvezda otkupljuje Strahinju Erakovića za 3.500.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-otkupljuje-strahinju-erakovica-za-3500000-evra/545066",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Pandurović menja Lalatovića u Pazaru",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pandurovic-menja-lalatovica-u-pazaru/545035",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 05. 2026. у 23:04",
+      "naslov": "Košarkaš Oklahome Džejlen Vilijams zbog povrede propušta meč protiv San Antonija",
+      "url": "https://www.tanjug.rs/sport/fudbal/255742/kosarkas-oklahome-dzejlen-vilijams-zbog-povrede-propusta-mec-protiv-san-antonija/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 05. 2026. у 10:02",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Arteta: Imamo priliku da ispišemo istoriju, došli smo da osvojimo Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/255700/arteta-imamo-priliku-da-ispisemo-istoriju-dosli-smo-da-osvojimo-ligu-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 05. 2026. у 21:54",
+      "naslov": "Barbareza zabrinula povreda golmana pred Mundijal: &quot;Ne izgleda dobro&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/237616/selektor-bih-o-povredi-golmana-pred-odlazak-na-mundijal/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "30. 05. 2026. у 09:30",
       "slika": null
     },
     {
-      "naslov": "Terzić potvrdio – Zvezda otkupljuje štopera",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237627/erakovic-ostaje-u-zvezdi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "30. 05. 2026. у 09:45",
-      "slika": null
-    },
-    {
-      "naslov": "Prošlo je već 35 godina od Barija: &quot;Slavlje i danas traje...&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237540/proslo-je-vec-35-godina-od-barija-slavlje-i-danas-traje/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 05. 2026. у 20:25",
+      "naslov": "Spektakl na tribinama, &quot;nula&quot; na terenu – &quot;zmajevi&quot; ispraćeni na Mundijal VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/237587/spektakl-na-kosevu-nula-na-terenu-zmajevi-ispraceni-na-mundijal-video/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "29. 05. 2026. у 23:32",
       "slika": null
     }
   ]
