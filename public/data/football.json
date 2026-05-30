@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-30T10:12:12.223797+00:00",
-  "azurirano_sr": "30. 05. 2026. у 12:12",
+  "azurirano": "2026-05-30T11:43:55.305969+00:00",
+  "azurirano_sr": "30. 05. 2026. у 13:43",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Bukinac: Mnogo nam znače ovakve utakmice, to su dobre pripreme za Ligu nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/255752/bukinac-mnogo-nam-znace-ovakve-utakmice-to-su-dobre-pripreme-za-ligu-nacija/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 05. 2026. у 10:52",
+      "slika": null
+    },
+    {
       "naslov": "Košarkaš Oklahome Džejlen Vilijams zbog povrede propušta meč protiv San Antonija",
       "url": "https://www.tanjug.rs/sport/fudbal/255742/kosarkas-oklahome-dzejlen-vilijams-zbog-povrede-propusta-mec-protiv-san-antonija/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Entoni Gordon prešao iz Njukasla u Barselonu",
-      "url": "https://www.tanjug.rs/sport/fudbal/255709/entoni-gordon-presao-iz-njukasla-u-barselonu/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 05. 2026. у 23:13",
+      "naslov": "Novi Pazar dovodi Brazilca",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237635/brazilac-dzoni-robert-na-meti-novog-pazara/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "30. 05. 2026. у 12:50",
       "slika": null
     },
     {
-      "naslov": "Barbareza zabrinula povreda golmana pred Mundijal: &quot;Ne izgleda dobro&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/237616/selektor-bih-o-povredi-golmana-pred-odlazak-na-mundijal/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "30. 05. 2026. у 09:30",
-      "slika": null
-    },
-    {
-      "naslov": "Spektakl na tribinama, &quot;nula&quot; na terenu – &quot;zmajevi&quot; ispraćeni na Mundijal VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/237587/spektakl-na-kosevu-nula-na-terenu-zmajevi-ispraceni-na-mundijal-video/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "29. 05. 2026. у 23:32",
+      "naslov": "Drama u Humskoj pred Skupštinu – Generalni sponzor pokrenuo raskid ugovora",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237640/maxbet-trazi-raskid-ugovora-sa-partizanom/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "30. 05. 2026. у 10:42",
       "slika": null
     }
   ]
