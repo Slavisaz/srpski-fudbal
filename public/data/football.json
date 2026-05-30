@@ -1,11 +1,11 @@
 {
-  "azurirano": "2026-05-30T16:38:56.628493+00:00",
-  "azurirano_sr": "30. 05. 2026. у 18:38",
+  "azurirano": "2026-05-30T17:41:57.035284+00:00",
+  "azurirano_sr": "30. 05. 2026. у 19:41",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "UŽIVO - finale Lige šampiona: Pari Sen Žermen - Arsenal 0:1, bez penala za Sakino igranje rukom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-finale-lige-sampiona-pari-sen-zermen-arsenal-01-bez-penala-za-sakino-igranje-rukom/545098",
+      "naslov": "UŽIVO - finale Lige šampiona: Pari Sen Žermen - Arsenal 1:1, Dembele iz penala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-finale-lige-sampiona-pari-sen-zermen-arsenal-11-dembele-iz-penala/545098",
       "izvor": "Мозарт Спорт",
       "datum": "30. 05. 2026. у 19:00",
       "slika": null
@@ -32,17 +32,17 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Arsenala vode 1:0 protiv PSŽ-a na poluvremenu finala Lige šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/255735/fudbaleri-arsenala-vode-10-protiv-psz-a-na-poluvremenu-finala-lige-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 05. 2026. у 19:00",
+      "slika": null
+    },
+    {
       "naslov": "Diter Heking nije više trener fudbalera Volfsburga, ostaje u klubu kao funkcioner",
       "url": "https://www.tanjug.rs/sport/fudbal/255806/diter-heking-nije-vise-trener-fudbalera-volfsburga-ostaje-u-klubu-kao-funkcioner/vest",
       "izvor": "Танјуг",
       "datum": "30. 05. 2026. у 18:09",
-      "slika": null
-    },
-    {
-      "naslov": "Sastavi timova za finale Lige šampiona: Dembele predvodi PSŽ, Đekereš na klupi Arsenala",
-      "url": "https://www.tanjug.rs/sport/fudbal/255735/sastavi-timova-za-finale-lige-sampiona-dembele-predvodi-psz-dekeres-na-klupi-arsenala/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 05. 2026. у 17:11",
       "slika": null
     },
     {
