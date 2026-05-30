@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-30T20:45:42.885869+00:00",
-  "azurirano_sr": "30. 05. 2026. у 22:45",
+  "azurirano": "2026-05-30T21:43:00.645341+00:00",
+  "azurirano_sr": "30. 05. 2026. у 23:43",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kakav obračun za kraj, Toluka i Tigres igraju za tron Kupa šampiona",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kakav-obracun-za-kraj-toluka-i-tigres-igraju-za-tron-kupa-sampiona/545094",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 05. 2026. у 00:56",
+      "slika": null
+    },
     {
       "naslov": "Rajs veruje u još bolji Arsenal: Osvojili smo titulu, ovo je samo početak za nas u Ligi šampiona",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rajs-veruje-u-jos-bolji-arsenal-osvojili-smo-titulu-ovo-je-samo-pocetak-za-nas-u-ligi-sampiona/545121",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "General došao da ostvari dečački san: River pokupio Nikolasa Otamendija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/general-dosao-da-ostvari-decacki-san-river-pokupio-nikolasa-otamendija/545072",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 05. 2026. у 13:11",
+      "naslov": "Arteta: Ponosan sam na ekipu i celu sezonu, teško je kada izgubite finale posle penala",
+      "url": "https://www.tanjug.rs/sport/fudbal/255839/arteta-ponosan-sam-na-ekipu-i-celu-sezonu-tesko-je-kada-izgubite-finale-posle-penala/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 05. 2026. у 22:47",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/255806/diter-heking-nije-vise-trener-fudbalera-volfsburga-ostaje-u-klubu-kao-funkcioner/vest",
       "izvor": "Танјуг",
       "datum": "30. 05. 2026. у 18:09",
-      "slika": null
-    },
-    {
-      "naslov": "Selektor Egipta Hosam Hasan saopštio konačan spisak fudbalera za SP",
-      "url": "https://www.tanjug.rs/sport/fudbal/255775/selektor-egipta-hosam-hasan-saopstio-konacan-spisak-fudbalera-za-sp/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 05. 2026. у 14:56",
       "slika": null
     },
     {
