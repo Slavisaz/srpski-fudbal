@@ -1,11 +1,11 @@
 {
-  "azurirano": "2026-05-30T15:39:46.568459+00:00",
-  "azurirano_sr": "30. 05. 2026. у 17:39",
+  "azurirano": "2026-05-30T16:38:56.628493+00:00",
+  "azurirano_sr": "30. 05. 2026. у 18:38",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "UŽIVO - finale Lige šampiona: Pari Sen Žermen - Arsenal, Arteta počinje finale sa četiri štopera",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-finale-lige-sampiona-pari-sen-zermen-arsenal-arteta-pocinje-finale-sa-cetiri-stopera/545098",
+      "naslov": "UŽIVO - finale Lige šampiona: Pari Sen Žermen - Arsenal 0:1, bez penala za Sakino igranje rukom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-finale-lige-sampiona-pari-sen-zermen-arsenal-01-bez-penala-za-sakino-igranje-rukom/545098",
       "izvor": "Мозарт Спорт",
       "datum": "30. 05. 2026. у 19:00",
       "slika": null
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Diter Heking nije više trener fudbalera Volfsburga, ostaje u klubu kao funkcioner",
+      "url": "https://www.tanjug.rs/sport/fudbal/255806/diter-heking-nije-vise-trener-fudbalera-volfsburga-ostaje-u-klubu-kao-funkcioner/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 05. 2026. у 18:09",
+      "slika": null
+    },
+    {
       "naslov": "Sastavi timova za finale Lige šampiona: Dembele predvodi PSŽ, Đekereš na klupi Arsenala",
       "url": "https://www.tanjug.rs/sport/fudbal/255735/sastavi-timova-za-finale-lige-sampiona-dembele-predvodi-psz-dekeres-na-klupi-arsenala/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/255770/arne-slot-nije-vise-menadzer-liverpula/vest",
       "izvor": "Танјуг",
       "datum": "30. 05. 2026. у 13:49",
-      "slika": null
-    },
-    {
-      "naslov": "Bukinac: Mnogo nam znače ovakve utakmice, to su dobre pripreme za Ligu nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/255752/bukinac-mnogo-nam-znace-ovakve-utakmice-to-su-dobre-pripreme-za-ligu-nacija/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 05. 2026. у 10:52",
       "slika": null
     },
     {
