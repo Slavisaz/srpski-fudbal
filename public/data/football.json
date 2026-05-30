@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-30T05:44:01.102135+00:00",
-  "azurirano_sr": "30. 05. 2026. у 07:44",
+  "azurirano": "2026-05-30T08:08:29.563804+00:00",
+  "azurirano_sr": "30. 05. 2026. у 10:08",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvezda otkupljuje Strahinju Erakovića za 3.500.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-otkupljuje-strahinju-erakovica-za-3500000-evra/545066",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 05. 2026. у 11:26",
+      "slika": null
+    },
     {
       "naslov": "Bizarno pravilo odlučilo poslednjeg putnika u Seriju A: Sumanuto je, 2-0 i 0-2 nije za produžetke",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bizarno-pravilo-odlucilo-poslednjeg-putnika-u-seriju-a-sumanuto-je-20-i-02-nije-za-produzetke/545050",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Paunović otvoreno: Ne shvatam lično i ne zameram, ali razočaran sam što neki nisu ovde",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/paunovic-otvoreno-ne-shvatam-licno-i-ne-zameram-ali-razocaran-sam-sto-neki-nisu-ovde/545009",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 05. 2026. у 15:52",
+      "naslov": "Fudbaleri Pari Sen Žermena i Arsenala večeras igraju za trofej Lige šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/255735/fudbaleri-pari-sen-zermena-i-arsenala-veceras-igraju-za-trofej-lige-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 05. 2026. у 09:13",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Dragan Džajić: Zvezda bi sad bila kao Real i Barselona da nije bilo raspada Jugoslavije",
-      "url": "https://www.tanjug.rs/sport/fudbal/255681/dragan-dzajic-zvezda-bi-sad-bila-kao-real-i-barselona-da-nije-bilo-raspada-jugoslavije/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 05. 2026. у 20:36",
+      "naslov": "Terzić potvrdio – Zvezda otkupljuje štopera",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237627/erakovic-ostaje-u-zvezdi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "30. 05. 2026. у 09:45",
       "slika": null
     },
     {
-      "naslov": "Spektakl na tribinama, &quot;nula&quot; na terenu – &quot;zmajevi&quot; ispraćeni na Mundijal VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/237587/spektakl-na-kosevu-nula-na-terenu-zmajevi-ispraceni-na-mundijal-video/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "29. 05. 2026. у 23:32",
-      "slika": null
-    },
-    {
-      "naslov": "Matićev saigrač odjavio Italiju zbog Mundijala",
-      "url": "https://www.b92.net/sport/fudbal/vesti/237456/maticev-saigrac-odjavio-italiju-zbog-mundijala/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "29. 05. 2026. у 18:12",
+      "naslov": "Prošlo je već 35 godina od Barija: &quot;Slavlje i danas traje...&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237540/proslo-je-vec-35-godina-od-barija-slavlje-i-danas-traje/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 05. 2026. у 20:25",
       "slika": null
     }
   ]
