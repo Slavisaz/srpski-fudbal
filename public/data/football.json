@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-31T08:51:38.387562+00:00",
-  "azurirano_sr": "31. 05. 2026. у 10:51",
+  "azurirano": "2026-05-31T10:48:44.239952+00:00",
+  "azurirano_sr": "31. 05. 2026. у 12:48",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "PREDLOZZI I TIPOVANJA (nedelja): Svega po malo, najviše reprezentacija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/predlozzi-i-tipovanja-nedelja-svega-po-malo-najvise-reprezentacija/545151",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 05. 2026. у 12:57",
+      "slika": null
+    },
+    {
+      "naslov": "Izgleda da će Arteta opet morati da se menja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/izgleda-da-ce-arteta-opet-morati-da-se-menja/545145",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 05. 2026. у 12:51",
+      "slika": null
+    },
     {
       "naslov": "Partizan sredio prvo pojačanje: Milan Aleksić pred povratkom u Humsku",
       "url": "https://www.mozzartsport.com/fudbal/vesti/partizan-sredio-prvo-pojacanje-milan-aleksic-pred-povratkom-u-humsku/545148",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Švajcarci na Jordan bez Kobela i Okafora",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/svajcarci-na-jordan-bez-kobela-i-okafora/545143",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 05. 2026. у 11:38",
+      "naslov": "Pariz osudio nerede, zatražio zabranu proslave pobede fudbalera na Jelisejskim poljima",
+      "url": "https://www.tanjug.rs/sport/fudbal/255885/pariz-osudio-nerede-zatrazio-zabranu-proslave-pobede-fudbalera-na-jelisejskim-poljima/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 05. 2026. у 11:29",
       "slika": null
     },
     {
-      "naslov": "LUDI TIKET, nedelja, 164.242 dinara: Skandinavci i Liga šampiona doneli lovu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-nedelja-164242-dinara-skandinavci-i-liga-sampiona-doneli-lovu/545134",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 05. 2026. у 10:09",
+      "naslov": "Portugalski fudbaler Rafael Leao najavio odlazak iz Milana",
+      "url": "https://www.tanjug.rs/sport/fudbal/255884/portugalski-fudbaler-rafael-leao-najavio-odlazak-iz-milana/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 05. 2026. у 11:15",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri PSŽ-a posle penala pobedili Arsenal i odbranili titulu prvaka Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/255735/fudbaleri-psz-a-posle-penala-pobedili-arsenal-i-odbranili-titulu-prvaka-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 05. 2026. у 21:05",
-      "slika": null
-    },
-    {
-      "naslov": "Diter Heking nije više trener fudbalera Volfsburga, ostaje u klubu kao funkcioner",
-      "url": "https://www.tanjug.rs/sport/fudbal/255806/diter-heking-nije-vise-trener-fudbalera-volfsburga-ostaje-u-klubu-kao-funkcioner/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 05. 2026. у 18:09",
+      "naslov": "Zvezda saopštila plan priprema – Zlatibor, Austrija, pa Rusija",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237869/crvena-zvezda-prijateljske-utakmice-na-pripremama-2026/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "31. 05. 2026. у 12:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237847/milan-aleksic-na-pozajmici-u-partizanu-iz-sanderlenda/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "31. 05. 2026. у 10:15",
-      "slika": null
-    },
-    {
-      "naslov": "Kombinovani tim Srbije u Lisabonu – rival je učesnik Mundijala",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237828/prijateljska-utakmica-srbija-zelenortska-ostrva-najava/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "31. 05. 2026. у 09:15",
       "slika": null
     }
   ]
