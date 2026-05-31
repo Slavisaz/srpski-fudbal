@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-31T15:36:45.651936+00:00",
-  "azurirano_sr": "31. 05. 2026. у 17:36",
+  "azurirano": "2026-05-31T16:43:30.394041+00:00",
+  "azurirano_sr": "31. 05. 2026. у 18:43",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -11,8 +11,8 @@
       "slika": null
     },
     {
-      "naslov": "UŽIVO: Zelenortska ostrva – Srbija 1:0; Orlovi gube u Lisabonu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-zelenortska-ostrva-srbija-10-orlovi-gube-u-lisabonu/545178",
+      "naslov": "UŽIVO: Zelenortska ostrva – Srbija 3:0; debakl Orlova",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-zelenortska-ostrva-srbija-30-debakl-orlova/545178",
       "izvor": "Мозарт Спорт",
       "datum": "31. 05. 2026. у 18:26",
       "slika": null
@@ -32,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Selektor fudbalera Srbije Veljko Paunović odredio sastav za meč sa Zelenortskim Ostrvima",
-      "url": "https://www.tanjug.rs/sport/fudbal/255939/selektor-fudbalera-srbije-veljko-paunovic-odredio-sastav-za-mec-sa-zelenortskim-ostrvima/vest",
+      "naslov": "Fudbaler Pari Sen Žermena Hviča Kvarachelija proglašen za igrača sezone u Lige šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/255959/fudbaler-pari-sen-zermena-hvica-kvarachelija-proglasen-za-igraca-sezone-u-lige-sampiona/vest",
       "izvor": "Танјуг",
-      "datum": "31. 05. 2026. у 16:28",
+      "datum": "31. 05. 2026. у 18:09",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Srbije gube na poluvremenu, Zelenortska Ostrva vode 1:0",
+      "url": "https://www.tanjug.rs/sport/fudbal/255939/fudbaleri-srbije-gube-na-poluvremenu-zelenortska-ostrva-vode-10/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 05. 2026. у 17:57",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbalski klub Bešiktaš demantovao dolazak Olivera Glasnera na mesto trenera",
-      "url": "https://www.tanjug.rs/sport/fudbal/255911/fudbalski-klub-besiktas-demantovao-dolazak-olivera-glasnera-na-mesto-trenera/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 05. 2026. у 13:48",
+      "naslov": "Potop &quot;orlova&quot; u Portugalu – Srbija gubi 3:0",
+      "url": "https://www.b92.net/sport/fudbal/vesti/237927/uzivo-zelenortska-ostrva-srbija-uzivo-prenos/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "31. 05. 2026. у 18:39",
       "slika": null
     },
     {
-      "naslov": "Zvezda završila veliki posao – Mateus ostaje na Marakani",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237931/golman-crvene-zvezde-ostaje-na-marakani/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "31. 05. 2026. у 17:00",
-      "slika": null
-    },
-    {
-      "naslov": "Mijatović: &quot;Partizan je u teškoj situaciji – nek članovi sutra izaberu ko će voditi klub&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237923/predrag-mijatovic-o-partizanu-vucicu-ljajicu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "31. 05. 2026. у 16:00",
+      "naslov": "Prinudna izmena kod Škotlanđana – Flečerov sin ide na Mundijal",
+      "url": "https://www.b92.net/sport/fudbal/vesti/237865/tezak-udarac-za-skotlandjane-pred-mundijal/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "31. 05. 2026. у 14:35",
       "slika": null
     }
   ]
