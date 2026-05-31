@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-31T01:37:22.341591+00:00",
-  "azurirano_sr": "31. 05. 2026. у 03:37",
+  "azurirano": "2026-05-31T06:00:36.305407+00:00",
+  "azurirano_sr": "31. 05. 2026. у 08:00",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Spektakl u Meksiku - Toluka do trofeja Kupa šampiona nakon 23 godine",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/spektakl-u-meksiku-toluka-do-trofeja-kupa-sampiona-nakon-23-godine/545138",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 05. 2026. у 07:58",
+      "slika": null
+    },
     {
       "naslov": "Kakav obračun za kraj, Toluka i Tigres igraju za tron Kupa šampiona",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kakav-obracun-za-kraj-toluka-i-tigres-igraju-za-tron-kupa-sampiona/545094",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/pretvaranje-lepog-u-jos-lepse/545119",
       "izvor": "Мозарт Спорт",
       "datum": "30. 05. 2026. у 23:37",
-      "slika": null
-    },
-    {
-      "naslov": "KRAJ - finale Lige šampiona: Pari Sen Žermen je šampion Evrope drugi put zaredom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-finale-lige-sampiona-pari-sen-zermen-je-sampion-evrope-drugi-put-zaredom/545098",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 05. 2026. у 22:46",
       "slika": null
     },
     {
