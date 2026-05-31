@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-05-31T10:48:44.239952+00:00",
-  "azurirano_sr": "31. 05. 2026. у 12:48",
+  "azurirano": "2026-05-31T12:05:11.493041+00:00",
+  "azurirano_sr": "31. 05. 2026. у 14:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Najpotcenjeniji fudbaler na svetu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najpotcenjeniji-fudbaler-na-svetu/545161",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 05. 2026. у 15:16",
+      "slika": null
+    },
     {
       "naslov": "PREDLOZZI I TIPOVANJA (nedelja): Svega po malo, najviše reprezentacija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/predlozzi-i-tipovanja-nedelja-svega-po-malo-najvise-reprezentacija/545151",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbalski alhemičar: Luis Enrike mućkao epruvete i na kraju stvorio – čudovište",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalski-alhemicar-luis-enrike-muckao-epruvete-i-na-kraju-stvorio-cudoviste/545144",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 05. 2026. у 11:40",
+      "naslov": "Fudbaleri Crvene zvezde 15. juna počinju pripreme za narednu sezonu",
+      "url": "https://www.tanjug.rs/sport/fudbal/255901/fudbaleri-crvene-zvezde-15-juna-pocinju-pripreme-za-narednu-sezonu/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 05. 2026. у 13:25",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaler Mančester Junajteda Tajler Flečer naknadno pozvan u reprezentaciju Škotske",
+      "url": "https://www.tanjug.rs/sport/fudbal/255900/fudbaler-mancester-junajteda-tajler-flecer-naknadno-pozvan-u-reprezentaciju-skotske/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 05. 2026. у 13:21",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Arteta: Ponosan sam na ekipu i celu sezonu, teško je kada izgubite finale posle penala",
-      "url": "https://www.tanjug.rs/sport/fudbal/255839/arteta-ponosan-sam-na-ekipu-i-celu-sezonu-tesko-je-kada-izgubite-finale-posle-penala/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 05. 2026. у 22:47",
+      "naslov": "Šampion Severne i Centralne Amerike dobijen posle penala VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/237873/toluka-sampion-severne-i-centralne-amerike-2026/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "31. 05. 2026. у 12:15",
       "slika": null
     },
     {
-      "naslov": "Enrike: Osećaj je jači nego prošle godine, neverovatno je što smo ponovo osvojili Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/255834/enrike-osecaj-je-jaci-nego-prosle-godine-neverovatno-je-sto-smo-ponovo-osvojili-ligu-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 05. 2026. у 22:18",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda saopštila plan priprema – Zlatibor, Austrija, pa Rusija",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237869/crvena-zvezda-prijateljske-utakmice-na-pripremama-2026/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "31. 05. 2026. у 12:00",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan &quot;sredio&quot; pozajmicu iz Premijer lige",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237847/milan-aleksic-na-pozajmici-u-partizanu-iz-sanderlenda/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "31. 05. 2026. у 10:15",
+      "naslov": "Vinisijus predao &quot;desetku&quot; Nejmaru",
+      "url": "https://www.b92.net/sport/fudbal/vesti/237799/vinisijus-predao-desetku-nejmaru/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "30. 05. 2026. у 23:45",
       "slika": null
     }
   ]
