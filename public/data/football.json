@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-05-31T12:05:11.493041+00:00",
-  "azurirano_sr": "31. 05. 2026. у 14:05",
+  "azurirano": "2026-05-31T14:06:24.539095+00:00",
+  "azurirano_sr": "31. 05. 2026. у 16:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "A bio je netrpeljivi lezilebović...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/a-bio-je-netrpeljivi-lezilebovic/545160",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 05. 2026. у 16:04",
+      "slika": null
+    },
+    {
+      "naslov": "Tošić: Kad nema Srba, neka je Rus osvojio Ligu šampiona",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tosic-kad-nema-srba-neka-je-rus-osvojio-ligu-sampiona/545166",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 05. 2026. у 15:56",
+      "slika": null
+    },
     {
       "naslov": "Najpotcenjeniji fudbaler na svetu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najpotcenjeniji-fudbaler-na-svetu/545161",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Izgleda da će Arteta opet morati da se menja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/izgleda-da-ce-arteta-opet-morati-da-se-menja/545145",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 05. 2026. у 12:51",
+      "naslov": "Srpski veslači Martin Mačković i Nikolaj Pimenov osvojili bronzanu medalju na Svetskom kupu",
+      "url": "https://www.tanjug.rs/sport/fudbal/255916/srpski-veslaci-martin-mackovic-i-nikolaj-pimenov-osvojili-bronzanu-medalju-na-svetskom-kupu/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 05. 2026. у 14:26",
       "slika": null
     },
     {
-      "naslov": "Partizan sredio prvo pojačanje: Milan Aleksić pred povratkom u Humsku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/partizan-sredio-prvo-pojacanje-milan-aleksic-pred-povratkom-u-humsku/545148",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 05. 2026. у 12:03",
+      "naslov": "Fudbalski klub Bešiktaš demantovao dolazak Olivera Glasnera na mesto trenera",
+      "url": "https://www.tanjug.rs/sport/fudbal/255911/fudbalski-klub-besiktas-demantovao-dolazak-olivera-glasnera-na-mesto-trenera/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 05. 2026. у 13:48",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Pariz osudio nerede, zatražio zabranu proslave pobede fudbalera na Jelisejskim poljima",
-      "url": "https://www.tanjug.rs/sport/fudbal/255885/pariz-osudio-nerede-zatrazio-zabranu-proslave-pobede-fudbalera-na-jelisejskim-poljima/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 05. 2026. у 11:29",
+      "naslov": "Mijatović: &quot;Partizan je u teškoj situaciji – nek članovi sutra izaberu ko će voditi klub&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237923/predrag-mijatovic-o-partizanu-vucicu-ljajicu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "31. 05. 2026. у 16:00",
       "slika": null
     },
     {
-      "naslov": "Portugalski fudbaler Rafael Leao najavio odlazak iz Milana",
-      "url": "https://www.tanjug.rs/sport/fudbal/255884/portugalski-fudbaler-rafael-leao-najavio-odlazak-iz-milana/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 05. 2026. у 11:15",
-      "slika": null
-    },
-    {
-      "naslov": "Šampion Severne i Centralne Amerike dobijen posle penala VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/237873/toluka-sampion-severne-i-centralne-amerike-2026/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "31. 05. 2026. у 12:15",
-      "slika": null
-    },
-    {
-      "naslov": "Vinisijus predao &quot;desetku&quot; Nejmaru",
-      "url": "https://www.b92.net/sport/fudbal/vesti/237799/vinisijus-predao-desetku-nejmaru/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "30. 05. 2026. у 23:45",
+      "naslov": "Zvezda saopštila plan priprema – Zlatibor, Austrija, pa Rusija",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237869/crvena-zvezda-prijateljske-utakmice-na-pripremama-2026/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "31. 05. 2026. у 12:00",
       "slika": null
     }
   ]
