@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-31T17:44:32.897493+00:00",
-  "azurirano_sr": "31. 05. 2026. у 19:44",
+  "azurirano": "2026-05-31T18:50:35.456835+00:00",
+  "azurirano_sr": "31. 05. 2026. у 20:50",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Francuski fudbaler Ibrahima Konate napušta Liverpul",
+      "url": "https://www.tanjug.rs/sport/fudbal/255977/francuski-fudbaler-ibrahima-konate-napusta-liverpul/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 05. 2026. у 19:59",
+      "slika": null
+    },
+    {
+      "naslov": "Selektor Alžira Vladimir Petković saopštio konačan spisak fudbalera za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/255975/selektor-alzira-vladimir-petkovic-saopstio-konacan-spisak-fudbalera-za-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 05. 2026. у 19:37",
+      "slika": null
+    },
+    {
       "naslov": "Težak poraz fudbalera Srbije od Zelenortskih Ostrva u prijateljskom meču u Lisabonu",
       "url": "https://www.tanjug.rs/sport/fudbal/255939/tezak-poraz-fudbalera-srbije-od-zelenortskih-ostrva-u-prijateljskom-mecu-u-lisabonu/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/255959/fudbaler-pari-sen-zermena-hvica-kvarachelija-proglasen-za-igraca-sezone-u-lige-sampiona/vest",
       "izvor": "Танјуг",
       "datum": "31. 05. 2026. у 18:09",
-      "slika": null
-    },
-    {
-      "naslov": "Adi Hiter novi trener fudbalera Ajntrahta iz Frankfurta",
-      "url": "https://www.tanjug.rs/sport/fudbal/255934/adi-hiter-novi-trener-fudbalera-ajntrahta-iz-frankfurta/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 05. 2026. у 16:15",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski veslači Martin Mačković i Nikolaj Pimenov osvojili bronzanu medalju na Svetskom kupu",
-      "url": "https://www.tanjug.rs/sport/fudbal/255916/srpski-veslaci-martin-mackovic-i-nikolaj-pimenov-osvojili-bronzanu-medalju-na-svetskom-kupu/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 05. 2026. у 14:26",
       "slika": null
     },
     {
