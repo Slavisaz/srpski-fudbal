@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-05-31T14:06:24.539095+00:00",
-  "azurirano_sr": "31. 05. 2026. у 16:06",
+  "azurirano": "2026-05-31T15:36:45.651936+00:00",
+  "azurirano_sr": "31. 05. 2026. у 17:36",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Mijatović pred skupštinu: Na delegatima možda najveća odgovornost u istoriji kluba",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mijatovic-pred-skupstinu-na-delegatima-mozda-najveca-odgovornost-u-istoriji-kluba/545179",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 05. 2026. у 18:53",
+      "slika": null
+    },
+    {
+      "naslov": "UŽIVO: Zelenortska ostrva – Srbija 1:0; Orlovi gube u Lisabonu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-zelenortska-ostrva-srbija-10-orlovi-gube-u-lisabonu/545178",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 05. 2026. у 18:26",
+      "slika": null
+    },
+    {
+      "naslov": "Crvena zvezda ne pušta golmana: Mateus produžio ugovor",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/crvena-zvezda-ne-pusta-golmana-mateus-produzio-ugovor/545176",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 05. 2026. у 18:12",
+      "slika": null
+    },
     {
       "naslov": "A bio je netrpeljivi lezilebović...",
       "url": "https://www.mozzartsport.com/fudbal/vesti/a-bio-je-netrpeljivi-lezilebovic/545160",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Tošić: Kad nema Srba, neka je Rus osvojio Ligu šampiona",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tosic-kad-nema-srba-neka-je-rus-osvojio-ligu-sampiona/545166",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 05. 2026. у 15:56",
+      "naslov": "Selektor fudbalera Srbije Veljko Paunović odredio sastav za meč sa Zelenortskim Ostrvima",
+      "url": "https://www.tanjug.rs/sport/fudbal/255939/selektor-fudbalera-srbije-veljko-paunovic-odredio-sastav-za-mec-sa-zelenortskim-ostrvima/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 05. 2026. у 16:28",
       "slika": null
     },
     {
-      "naslov": "Najpotcenjeniji fudbaler na svetu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najpotcenjeniji-fudbaler-na-svetu/545161",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 05. 2026. у 15:16",
-      "slika": null
-    },
-    {
-      "naslov": "PREDLOZZI I TIPOVANJA (nedelja): Svega po malo, najviše reprezentacija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/predlozzi-i-tipovanja-nedelja-svega-po-malo-najvise-reprezentacija/545151",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 05. 2026. у 12:57",
+      "naslov": "Adi Hiter novi trener fudbalera Ajntrahta iz Frankfurta",
+      "url": "https://www.tanjug.rs/sport/fudbal/255934/adi-hiter-novi-trener-fudbalera-ajntrahta-iz-frankfurta/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 05. 2026. у 16:15",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Crvene zvezde 15. juna počinju pripreme za narednu sezonu",
-      "url": "https://www.tanjug.rs/sport/fudbal/255901/fudbaleri-crvene-zvezde-15-juna-pocinju-pripreme-za-narednu-sezonu/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 05. 2026. у 13:25",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Mančester Junajteda Tajler Flečer naknadno pozvan u reprezentaciju Škotske",
-      "url": "https://www.tanjug.rs/sport/fudbal/255900/fudbaler-mancester-junajteda-tajler-flecer-naknadno-pozvan-u-reprezentaciju-skotske/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 05. 2026. у 13:21",
+      "naslov": "Zvezda završila veliki posao – Mateus ostaje na Marakani",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237931/golman-crvene-zvezde-ostaje-na-marakani/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "31. 05. 2026. у 17:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237923/predrag-mijatovic-o-partizanu-vucicu-ljajicu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "31. 05. 2026. у 16:00",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda saopštila plan priprema – Zlatibor, Austrija, pa Rusija",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237869/crvena-zvezda-prijateljske-utakmice-na-pripremama-2026/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "31. 05. 2026. у 12:00",
       "slika": null
     }
   ]
