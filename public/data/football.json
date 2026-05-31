@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-05-31T18:50:35.456835+00:00",
-  "azurirano_sr": "31. 05. 2026. у 20:50",
+  "azurirano": "2026-05-31T19:57:41.269533+00:00",
+  "azurirano_sr": "31. 05. 2026. у 21:57",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Veljko Paunović: Meč za zaborav, moramo ozbiljno da radimo na taktičkoj disciplini i zrelosti",
+      "url": "https://www.tanjug.rs/sport/fudbal/255991/veljko-paunovic-mec-za-zaborav-moramo-ozbiljno-da-radimo-na-taktickoj-disciplini-i-zrelosti/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 05. 2026. у 21:31",
+      "slika": null
+    },
+    {
+      "naslov": "Navijači Arsenala prisustvovali paradi povodom proslave titule u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/255987/navijaci-arsenala-prisustvovali-paradi-povodom-proslave-titule-u-premijer-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 05. 2026. у 20:58",
+      "slika": null
+    },
+    {
+      "naslov": "Selektor Urugvaja Bijelsa objavio spisak igrača za Svetsko prvenstvo, Muslera peti put na Mundijalu",
+      "url": "https://www.tanjug.rs/sport/fudbal/255984/selektor-urugvaja-bijelsa-objavio-spisak-igraca-za-svetsko-prvenstvo-muslera-peti-put-na-mundijalu/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 05. 2026. у 20:37",
+      "slika": null
+    },
+    {
       "naslov": "Francuski fudbaler Ibrahima Konate napušta Liverpul",
       "url": "https://www.tanjug.rs/sport/fudbal/255977/francuski-fudbaler-ibrahima-konate-napusta-liverpul/vest",
       "izvor": "Танјуг",
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Selektor Alžira Vladimir Petković saopštio konačan spisak fudbalera za Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/255975/selektor-alzira-vladimir-petkovic-saopstio-konacan-spisak-fudbalera-za-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 05. 2026. у 19:37",
-      "slika": null
-    },
-    {
-      "naslov": "Težak poraz fudbalera Srbije od Zelenortskih Ostrva u prijateljskom meču u Lisabonu",
-      "url": "https://www.tanjug.rs/sport/fudbal/255939/tezak-poraz-fudbalera-srbije-od-zelenortskih-ostrva-u-prijateljskom-mecu-u-lisabonu/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 05. 2026. у 19:07",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Pari Sen Žermena Hviča Kvarachelija proglašen za igrača sezone u Lige šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/255959/fudbaler-pari-sen-zermena-hvica-kvarachelija-proglasen-za-igraca-sezone-u-lige-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 05. 2026. у 18:09",
+      "naslov": "Paunović posle debakla: &quot;Vreme je da savijemo vrat i radimo jače&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237986/izjava-selektora-veljka-paunovica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "31. 05. 2026. у 21:28",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237931/golman-crvene-zvezde-ostaje-na-marakani/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "31. 05. 2026. у 17:00",
-      "slika": null
-    },
-    {
-      "naslov": "Mijatović: &quot;Partizan je u teškoj situaciji – nek članovi sutra izaberu ko će voditi klub&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/237923/predrag-mijatovic-o-partizanu-vucicu-ljajicu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "31. 05. 2026. у 16:00",
       "slika": null
     }
   ]
