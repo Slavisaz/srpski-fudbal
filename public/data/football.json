@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-01T12:47:10.307355+00:00",
-  "azurirano_sr": "1. 06. 2026. у 14:47",
+  "azurirano": "2026-06-01T18:29:15.645610+00:00",
+  "azurirano_sr": "1. 06. 2026. у 20:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Cirkus na Skupštini Partizana: Niko nije smenjen",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cirkus-na-skupstini-partizana-niko-nije-smenjen/545270",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 06. 2026. у 19:04",
+      "slika": null
+    },
+    {
+      "naslov": "Dečić se rastao sa Jandrićem: Vaše znanje, predanost i liderstvo bili su nam od neprocenjivog značaja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/decic-se-rastao-sa-jandricem-vase-znanje-predanost-i-liderstvo-bili-su-nam-od-neprocenjivog-znacaja/545258",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 06. 2026. у 16:36",
+      "slika": null
+    },
     {
       "naslov": "Svi su na proveri",
       "url": "https://www.mozzartsport.com/fudbal/vesti/svi-su-na-proveri/545238",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Degenek ide na treći Mundijal zaredom, Popović izmešao mladost i iskustvo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/degenek-ide-na-treci-mundijal-zaredom-popovic-izmesao-mladost-i-iskustvo/545228",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 06. 2026. у 11:36",
+      "naslov": "Predrag Mijatović podneo ostavku na mesto potpredsednika: Želim da budem predsednik Partizana",
+      "url": "https://www.tanjug.rs/sport/fudbal/256198/predrag-mijatovic-podneo-ostavku-na-mesto-potpredsednika-zelim-da-budem-predsednik-partizana/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 06. 2026. у 18:04",
       "slika": null
     },
     {
-      "naslov": "Kristijan Belić tri godine u Makabiju iz Tel Aviva",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kristijan-belic-tri-godine-u-makabiju-iz-tel-aviva/545227",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 06. 2026. у 11:27",
+      "naslov": "Skupština FK Partizan potvrdila mandat dosadašnjim članovima Upravnog odbora",
+      "url": "https://www.tanjug.rs/sport/fudbal/256188/skupstina-fk-partizan-potvrdila-mandat-dosadasnjim-clanovima-upravnog-odbora/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 06. 2026. у 17:24",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Ženska rvačka reprezentacija Srbije do 20 godina treća na turniru \"Trofej Jadrana\"",
-      "url": "https://www.tanjug.rs/sport/fudbal/256126/zenska-rvacka-reprezentacija-srbije-do-20-godina-treca-na-turniru-trofej-jadrana/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 06. 2026. у 13:08",
-      "slika": null
-    },
-    {
-      "naslov": "Italijanski stručnjak Davide Anćeloti novi trener fudbalera Lila",
-      "url": "https://www.tanjug.rs/sport/fudbal/256117/italijanski-strucnjak-davide-anceloti-novi-trener-fudbalera-lila/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 06. 2026. у 12:50",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan bira svoj put – Mijatović na Skupštinu došao u crvenom džipu – gde je Lazović?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238182/skupstina-fk-partizan-bira-se-uprava/vest",
+      "naslov": "Gotova je Skupština; Ljajić najavio promene – Mijatović napustio Partizan",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238162/zavrsena-skupstina-fk-partizan-predrag-mijatovic-dao-ostavku/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 06. 2026. у 14:30",
+      "datum": "1. 06. 2026. у 18:44",
       "slika": null
     },
     {
-      "naslov": "Živković posle debakla: &quot;Dali smo maksimum – idemo u dobrom smeru&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238078/andrija-zivkovic-izjava-posle-srbija-zelenortska-ostrva/vest",
+      "naslov": "Mijatović ne odustaje od Partizana: &quot;Imam želju da budem predsednik&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238272/izlaganje-predraga-mijatovica-na-konferenciji-za-medije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 06. 2026. у 10:33",
+      "datum": "1. 06. 2026. у 18:20",
       "slika": null
     }
   ]
