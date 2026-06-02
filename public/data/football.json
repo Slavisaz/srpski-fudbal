@@ -1,62 +1,69 @@
 {
-  "azurirano": "2026-06-02T06:19:02.735282+00:00",
-  "azurirano_sr": "2. 06. 2026. у 08:19",
+  "azurirano": "2026-06-02T10:57:45.872206+00:00",
+  "azurirano_sr": "2. 06. 2026. у 12:57",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Ispovest koja tera na razmišljanje: U fudbalu je previše zmija i foliranata, imam samo dva-tri prijatelja među igračima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ispovest-koja-tera-na-razmisljanje-u-fudbalu-je-previse-zmija-i-foliranata-imam-samo-dvatri-prijatelja-meu-igracima/545296",
+      "naslov": "Više ništa neće biti isto: Profesionalni ugovori sada mogući i u Srpskim ligama",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vise-nista-nece-biti-isto-profesionalni-ugovori-sada-moguci-i-u-srpskim-ligama/545322",
       "izvor": "Мозарт Спорт",
-      "datum": "2. 06. 2026. у 03:00",
+      "datum": "2. 06. 2026. у 13:45",
       "slika": null
     },
     {
-      "naslov": "Cirkus na Skupštini Partizana: Niko nije smenjen",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cirkus-na-skupstini-partizana-niko-nije-smenjen/545270",
+      "naslov": "Olise fudbaler sezone u Bundesligi, Kejn nije ni među prva tri",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/olise-fudbaler-sezone-u-bundesligi-kejn-nije-ni-meu-prva-tri/545313",
       "izvor": "Мозарт Спорт",
-      "datum": "1. 06. 2026. у 19:04",
+      "datum": "2. 06. 2026. у 11:42",
       "slika": null
     },
     {
-      "naslov": "Dečić se rastao sa Jandrićem: Vaše znanje, predanost i liderstvo bili su nam od neprocenjivog značaja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/decic-se-rastao-sa-jandricem-vase-znanje-predanost-i-liderstvo-bili-su-nam-od-neprocenjivog-znacaja/545258",
+      "naslov": "Marota krenuo jako, Palestra postaje najskuplji defanzivac u istoriji Intera",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/marota-krenuo-jako-palestra-postaje-najskuplji-defanzivac-u-istoriji-intera/545310",
       "izvor": "Мозарт Спорт",
-      "datum": "1. 06. 2026. у 16:36",
+      "datum": "2. 06. 2026. у 11:37",
       "slika": null
     },
     {
-      "naslov": "Svi su na proveri",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/svi-su-na-proveri/545238",
+      "naslov": "Raport sa srpskoligaških terena: Iskra poslala BASK u baraž, Timok strepi i pored pobede 19:0",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-iskra-poslala-bask-u-baraz-timok-strepi-i-pored-pobede-190/545307",
       "izvor": "Мозарт Спорт",
-      "datum": "1. 06. 2026. у 12:38",
+      "datum": "2. 06. 2026. у 11:05",
       "slika": null
     },
     {
-      "naslov": "Predrag Mijatović podneo ostavku na mesto potpredsednika: Želim da budem predsednik Partizana",
-      "url": "https://www.tanjug.rs/sport/fudbal/256198/predrag-mijatovic-podneo-ostavku-na-mesto-potpredsednika-zelim-da-budem-predsednik-partizana/vest",
+      "naslov": "Selektor Senegala saopštio konačan spisak igrača za Svetsko prvenstvo, Šerif Ndiaje ide na Mundijal",
+      "url": "https://www.tanjug.rs/sport/fudbal/256339/selektor-senegala-saopstio-konacan-spisak-igraca-za-svetsko-prvenstvo-serif-ndiaje-ide-na-mundijal/vest",
       "izvor": "Танјуг",
-      "datum": "1. 06. 2026. у 18:04",
+      "datum": "2. 06. 2026. у 12:09",
       "slika": null
     },
     {
-      "naslov": "Skupština FK Partizan potvrdila mandat dosadašnjim članovima Upravnog odbora",
-      "url": "https://www.tanjug.rs/sport/fudbal/256188/skupstina-fk-partizan-potvrdila-mandat-dosadasnjim-clanovima-upravnog-odbora/vest",
+      "naslov": "Liverpul počeo pregovore sa španskim trenerom Iraolom",
+      "url": "https://www.tanjug.rs/sport/fudbal/256329/liverpul-poceo-pregovore-sa-spanskim-trenerom-iraolom/vest",
       "izvor": "Танјуг",
-      "datum": "1. 06. 2026. у 17:24",
+      "datum": "2. 06. 2026. у 11:33",
       "slika": null
     },
     {
-      "naslov": "Fudbaler OFK Beograda Aleksa Cvetković prvi na listi igrača sa najviše sprintova",
-      "url": "https://www.tanjug.rs/sport/fudbal/256137/fudbaler-ofk-beograda-aleksa-cvetkovic-prvi-na-listi-igraca-sa-najvise-sprintova/vest",
+      "naslov": "Selektor Kanade Gordon Herbert saopštio spisak košarkaša za kvalifikacije za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/256310/selektor-kanade-gordon-herbert-saopstio-spisak-kosarkasa-za-kvalifikacije-za-svetsko-prvenstvo/vest",
       "izvor": "Танјуг",
-      "datum": "1. 06. 2026. у 14:07",
+      "datum": "2. 06. 2026. у 10:39",
       "slika": null
     },
     {
-      "naslov": "Marko Arnautović se posle Svetskog prvenstva povlači iz reprezentacije Austrije",
-      "url": "https://www.tanjug.rs/sport/fudbal/256130/marko-arnautovic-se-posle-svetskog-prvenstva-povlaci-iz-reprezentacije-austrije/vest",
+      "naslov": "Selektor Gane Karlos Keiroš saopštio konačan spisak fudbalera za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/256285/selektor-gane-karlos-keiros-saopstio-konacan-spisak-fudbalera-za-svetsko-prvenstvo/vest",
       "izvor": "Танјуг",
-      "datum": "1. 06. 2026. у 13:20",
+      "datum": "2. 06. 2026. у 09:21",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezda najskuplje pojačanje šalje na pozajmicu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238447/zvezda-daglasa-ovusua-salje-na-pozajmicu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 06. 2026. у 12:42",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238162/zavrsena-skupstina-fk-partizan-predrag-mijatovic-dao-ostavku/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "1. 06. 2026. у 18:44",
-      "slika": null
-    },
-    {
-      "naslov": "Mijatović ne odustaje od Partizana: &quot;Imam želju da budem predsednik&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238272/izlaganje-predraga-mijatovica-na-konferenciji-za-medije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 06. 2026. у 18:20",
       "slika": null
     }
   ]
