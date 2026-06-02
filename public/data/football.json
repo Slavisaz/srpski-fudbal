@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-02T10:57:45.872206+00:00",
-  "azurirano_sr": "2. 06. 2026. у 12:57",
+  "azurirano": "2026-06-02T14:48:54.536443+00:00",
+  "azurirano_sr": "2. 06. 2026. у 16:48",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Demba Sek je Partizanov: Otkup 1.400.000 evra i procenti",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/demba-sek-je-partizanov-otkup-1400000-evra-i-procenti/545339",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 06. 2026. у 17:04",
+      "slika": null
+    },
+    {
+      "naslov": "Prvo pojačanje Nikolićevog AEK-a za Ligu šampiona: Ukrajinac iz Trabzona za 5.000.000",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prvo-pojacanje-nikolicevog-aeka-za-ligu-sampiona-ukrajinac-iz-trabzona-za-5000000/545332",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 06. 2026. у 15:56",
+      "slika": null
+    },
     {
       "naslov": "Više ništa neće biti isto: Profesionalni ugovori sada mogući i u Srpskim ligama",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vise-nista-nece-biti-isto-profesionalni-ugovori-sada-moguci-i-u-srpskim-ligama/545322",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Marota krenuo jako, Palestra postaje najskuplji defanzivac u istoriji Intera",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/marota-krenuo-jako-palestra-postaje-najskuplji-defanzivac-u-istoriji-intera/545310",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 06. 2026. у 11:37",
+      "naslov": "Nardin Mulahusejnović potpisao trogodišnji ugovor sa Vojvodinom",
+      "url": "https://www.tanjug.rs/sport/fudbal/256418/nardin-mulahusejnovic-potpisao-trogodisnji-ugovor-sa-vojvodinom/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 06. 2026. у 15:43",
       "slika": null
     },
     {
-      "naslov": "Raport sa srpskoligaških terena: Iskra poslala BASK u baraž, Timok strepi i pored pobede 19:0",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-iskra-poslala-bask-u-baraz-timok-strepi-i-pored-pobede-190/545307",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 06. 2026. у 11:05",
+      "naslov": "Od koje reprezentacije Srbi očekuju da bude iznenađenje na Svetskom prvenstvu?",
+      "url": "https://www.tanjug.rs/sport/fudbal/256407/od-koje-reprezentacije-srbi-ocekuju-da-bude-iznenadenje-na-svetskom-prvenstvu/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 06. 2026. у 15:21",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbalski savez Srbije: Poznat raspored utakmica kadetske reprezentacije Srbije na Svetskom prvenstvu u Kataru (U-17)",
+      "url": "https://www.tanjug.rs/sport/fudbal/256357/fudbalski-savez-srbije-poznat-raspored-utakmica-kadetske-reprezentacije-srbije-na-svetskom-prvenstvu-u-kataru-u-17/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 06. 2026. у 12:54",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Liverpul počeo pregovore sa španskim trenerom Iraolom",
-      "url": "https://www.tanjug.rs/sport/fudbal/256329/liverpul-poceo-pregovore-sa-spanskim-trenerom-iraolom/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 06. 2026. у 11:33",
-      "slika": null
-    },
-    {
-      "naslov": "Selektor Kanade Gordon Herbert saopštio spisak košarkaša za kvalifikacije za Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/256310/selektor-kanade-gordon-herbert-saopstio-spisak-kosarkasa-za-kvalifikacije-za-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 06. 2026. у 10:39",
-      "slika": null
-    },
-    {
-      "naslov": "Selektor Gane Karlos Keiroš saopštio konačan spisak fudbalera za Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/256285/selektor-gane-karlos-keiros-saopstio-konacan-spisak-fudbalera-za-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 06. 2026. у 09:21",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda najskuplje pojačanje šalje na pozajmicu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238447/zvezda-daglasa-ovusua-salje-na-pozajmicu/vest",
+      "naslov": "Partizan otkupio Dembu Seka?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238522/partizan-otkupio-dembu-seka/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 06. 2026. у 12:42",
+      "datum": "2. 06. 2026. у 15:45",
       "slika": null
     },
     {
-      "naslov": "Gotova je Skupština; Ljajić najavio promene – Mijatović napustio Partizan",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238162/zavrsena-skupstina-fk-partizan-predrag-mijatovic-dao-ostavku/vest",
+      "naslov": "Partizan traži obeštećenje za Blagojevića",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238512/otkupna-klauzula-fk-partizan-i-obestecenje-za-srdjana-blagojevica/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 06. 2026. у 18:44",
+      "datum": "2. 06. 2026. у 15:15",
       "slika": null
     }
   ]
