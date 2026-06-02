@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-01T23:18:09.512254+00:00",
-  "azurirano_sr": "2. 06. 2026. у 01:18",
+  "azurirano": "2026-06-02T01:38:42.871778+00:00",
+  "azurirano_sr": "2. 06. 2026. у 03:38",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ispovest koja tera na razmišljanje: U fudbalu je previše zmija i foliranata, imam samo dva-tri prijatelja među igračima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ispovest-koja-tera-na-razmisljanje-u-fudbalu-je-previse-zmija-i-foliranata-imam-samo-dvatri-prijatelja-meu-igracima/545296",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 06. 2026. у 03:00",
+      "slika": null
+    },
     {
       "naslov": "Cirkus na Skupštini Partizana: Niko nije smenjen",
       "url": "https://www.mozzartsport.com/fudbal/vesti/cirkus-na-skupstini-partizana-niko-nije-smenjen/545270",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/svi-su-na-proveri/545238",
       "izvor": "Мозарт Спорт",
       "datum": "1. 06. 2026. у 12:38",
-      "slika": null
-    },
-    {
-      "naslov": "Akcija klubova nije prošla, skraćenje lige ostaje na snazi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/akcija-klubova-nije-prosla-skracenje-lige-ostaje-na-snazi/545232",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 06. 2026. у 12:15",
       "slika": null
     },
     {
