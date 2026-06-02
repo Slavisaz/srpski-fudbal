@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-02T18:26:14.620244+00:00",
-  "azurirano_sr": "2. 06. 2026. у 20:26",
+  "azurirano": "2026-06-02T21:27:43.549025+00:00",
+  "azurirano_sr": "2. 06. 2026. у 23:27",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nada se i Ajaks da je ubo svog Španca…",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nada-se-i-ajaks-da-je-ubo-svog-spanca/545370",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 06. 2026. у 23:05",
+      "slika": null
+    },
     {
       "naslov": "Vrati Vukovima \"zlatne osamdesete\": Posao koji će Nestu lansirati u elitu ili ga potpuno ugasiti",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vrati-vukovima-zlatne-osamdesete-posao-koji-ce-nestu-lansirati-u-elitu-ili-ga-potpuno-ugasiti/545364",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Više ništa neće biti isto: Profesionalni ugovori sada mogući i u Srpskim ligama",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vise-nista-nece-biti-isto-profesionalni-ugovori-sada-moguci-i-u-srpskim-ligama/545322",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 06. 2026. у 13:45",
+      "naslov": "Španski stručnjak Mičel novi trener fudbalera Ajaksa",
+      "url": "https://www.tanjug.rs/sport/fudbal/256501/spanski-strucnjak-micel-novi-trener-fudbalera-ajaksa/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 06. 2026. у 22:16",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Nardin Mulahusejnović potpisao trogodišnji ugovor sa Vojvodinom",
-      "url": "https://www.tanjug.rs/sport/fudbal/256418/nardin-mulahusejnovic-potpisao-trogodisnji-ugovor-sa-vojvodinom/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 06. 2026. у 15:43",
+      "naslov": "Radnički ostao bez tvoraca plasmana u Evropu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238481/slavko-perovic-napustio-radnicki-1923/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 06. 2026. у 20:30",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238595/rasim-ljajic-o-planovima-partizana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "2. 06. 2026. у 20:15",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Mijatović pomislio da je Partizan njegov privatni klub –  hteo da bude sve i svja&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238580/ljajic-mijatovic-umislio-da-je-partizan-njegov-privatni-klub/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 06. 2026. у 19:25",
       "slika": null
     }
   ]
