@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-02T14:48:54.536443+00:00",
-  "azurirano_sr": "2. 06. 2026. у 16:48",
+  "azurirano": "2026-06-02T18:26:14.620244+00:00",
+  "azurirano_sr": "2. 06. 2026. у 20:26",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Vrati Vukovima \"zlatne osamdesete\": Posao koji će Nestu lansirati u elitu ili ga potpuno ugasiti",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vrati-vukovima-zlatne-osamdesete-posao-koji-ce-nestu-lansirati-u-elitu-ili-ga-potpuno-ugasiti/545364",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 06. 2026. у 22:06",
+      "slika": null
+    },
     {
       "naslov": "Demba Sek je Partizanov: Otkup 1.400.000 evra i procenti",
       "url": "https://www.mozzartsport.com/fudbal/vesti/demba-sek-je-partizanov-otkup-1400000-evra-i-procenti/545339",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Olise fudbaler sezone u Bundesligi, Kejn nije ni među prva tri",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/olise-fudbaler-sezone-u-bundesligi-kejn-nije-ni-meu-prva-tri/545313",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 06. 2026. у 11:42",
+      "naslov": "Fudbaleri Belgije kao gosti pobedili Hrvatsku u prijateljskom meču",
+      "url": "https://www.tanjug.rs/sport/fudbal/256483/fudbaleri-belgije-kao-gosti-pobedili-hrvatsku-u-prijateljskom-mecu/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 06. 2026. у 20:00",
+      "slika": null
+    },
+    {
+      "naslov": "Svih 48 selekcija prijavilo timove za Svetsko prvenstvo, promene moguće samo u slučaju teške povrede",
+      "url": "https://www.tanjug.rs/sport/fudbal/256469/svih-48-selekcija-prijavilo-timove-za-svetsko-prvenstvo-promene-moguce-samo-u-slucaju-teske-povrede/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 06. 2026. у 18:45",
+      "slika": null
+    },
+    {
+      "naslov": "Direktor Konatar i sportski direktor Perović napustili kragujevački Radnički",
+      "url": "https://www.tanjug.rs/sport/fudbal/256440/direktor-konatar-i-sportski-direktor-perovic-napustili-kragujevacki-radnicki/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 06. 2026. у 16:47",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Od koje reprezentacije Srbi očekuju da bude iznenađenje na Svetskom prvenstvu?",
-      "url": "https://www.tanjug.rs/sport/fudbal/256407/od-koje-reprezentacije-srbi-ocekuju-da-bude-iznenadenje-na-svetskom-prvenstvu/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 06. 2026. у 15:21",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalski savez Srbije: Poznat raspored utakmica kadetske reprezentacije Srbije na Svetskom prvenstvu u Kataru (U-17)",
-      "url": "https://www.tanjug.rs/sport/fudbal/256357/fudbalski-savez-srbije-poznat-raspored-utakmica-kadetske-reprezentacije-srbije-na-svetskom-prvenstvu-u-kataru-u-17/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 06. 2026. у 12:54",
-      "slika": null
-    },
-    {
-      "naslov": "Selektor Senegala saopštio konačan spisak igrača za Svetsko prvenstvo, Šerif Ndiaje ide na Mundijal",
-      "url": "https://www.tanjug.rs/sport/fudbal/256339/selektor-senegala-saopstio-konacan-spisak-igraca-za-svetsko-prvenstvo-serif-ndiaje-ide-na-mundijal/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 06. 2026. у 12:09",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan otkupio Dembu Seka?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238522/partizan-otkupio-dembu-seka/vest",
+      "naslov": "Ljajić otvorio karte – o Jovetiću, Baždaru, Aleksiću i planovima Partizana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238595/rasim-ljajic-o-planovima-partizana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 06. 2026. у 15:45",
+      "datum": "2. 06. 2026. у 20:15",
       "slika": null
     },
     {
-      "naslov": "Partizan traži obeštećenje za Blagojevića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238512/otkupna-klauzula-fk-partizan-i-obestecenje-za-srdjana-blagojevica/vest",
+      "naslov": "&quot;Mijatović pomislio da je Partizan njegov privatni klub –  hteo da bude sve i svja&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238580/ljajic-mijatovic-umislio-da-je-partizan-njegov-privatni-klub/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 06. 2026. у 15:15",
+      "datum": "2. 06. 2026. у 19:25",
       "slika": null
     }
   ]
