@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-03T15:59:57.945243+00:00",
-  "azurirano_sr": "3. 06. 2026. у 17:59",
+  "azurirano": "2026-06-03T19:50:48.669215+00:00",
+  "azurirano_sr": "3. 06. 2026. у 21:50",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ris Milvud srušio Grke u 90+4, Srbija posle prvog kola već ima sve u svojim rukama",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ris-milvud-srusio-grke-u-904-srbija-posle-prvog-kola-vec-ima-sve-u-svojim-rukama/545438",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 06. 2026. у 21:54",
+      "slika": null
+    },
+    {
+      "naslov": "Hodajuća istorija fudbala: Čovek koji će provesti 36. godinu u istom klubu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/hodajuca-istorija-fudbala-covek-koji-ce-provesti-36-godinu-u-istom-klubu/545435",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 06. 2026. у 20:16",
+      "slika": null
+    },
     {
       "naslov": "Posvećenost za primer: Isko odložio odmor zbog individualnih treninga",
       "url": "https://www.mozzartsport.com/fudbal/vesti/posvecenost-za-primer-isko-odlozio-odmor-zbog-individualnih-treninga/545431",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Tražili ste i dobićete „hevi-metal“ fudbal: Liverpul i Iraola – saradnja će biti oročena na dve godine",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/trazili-ste-i-dobicete-hevimetal-fudbal-liverpul-i-iraola-saradnja-ce-biti-orocena-na-dve-godine/545401",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 06. 2026. у 13:02",
-      "slika": null
-    },
-    {
-      "naslov": "Banijas otkupio Đekovića, Napretku stiže 500.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/banijas-otkupio-ekovica-napretku-stize-500000-evra/545398",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 06. 2026. у 12:30",
+      "naslov": "Talentovani fudbaler Mateja Milošević potpisao ugovor sa Crvenom zvezdom",
+      "url": "https://www.tanjug.rs/sport/fudbal/256727/talentovani-fudbaler-mateja-milosevic-potpisao-ugovor-sa-crvenom-zvezdom/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 06. 2026. у 18:00",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Veljko Paunović: Moramo da popravimo utisak protiv Meksika, očekuje nas veliki izazov",
-      "url": "https://www.tanjug.rs/sport/fudbal/256611/veljko-paunovic-moramo-da-popravimo-utisak-protiv-meksika-ocekuje-nas-veliki-izazov/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 06. 2026. у 12:16",
+      "naslov": "FK Partizan: Vukotić nikada ne sme da bude zaboravljen – Mocin rođendan će se uvek slaviti",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238926/fk-partizan-vukotic-nikada-ne-sme-da-bude-zaboravljen-mocin-rodjendan-ce-se-uvek-slaviti/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 06. 2026. у 19:02",
       "slika": null
     },
     {
-      "naslov": "Partizan dogovorio prvo pojačanje – stiže iz Fejenorda!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238854/alek-zekovic-stize-u-partizan/vest",
+      "naslov": "Veliki talenat stigao u Zvezdu: &quot;Dugo i strpljivo smo radili&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238911/mateja-milosevic-potpisao-za-fk-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "3. 06. 2026. у 15:00",
-      "slika": null
-    },
-    {
-      "naslov": "Izabrani predsednici i rukovodstva okružnih saveza – svi sa Zapada žele Nebojšu Živanovića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238900/izabrani-predsednici-i-rukovodstva-okruznih-saveza-svi-sa-zapada-zele-nebojsu-zivanovica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 06. 2026. у 15:00",
+      "datum": "3. 06. 2026. у 18:12",
       "slika": null
     }
   ]
