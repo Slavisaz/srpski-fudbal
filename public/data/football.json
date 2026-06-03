@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-03T11:29:07.950070+00:00",
-  "azurirano_sr": "3. 06. 2026. у 13:29",
+  "azurirano": "2026-06-03T15:59:57.945243+00:00",
+  "azurirano_sr": "3. 06. 2026. у 17:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Posvećenost za primer: Isko odložio odmor zbog individualnih treninga",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/posvecenost-za-primer-isko-odlozio-odmor-zbog-individualnih-treninga/545431",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 06. 2026. у 19:13",
+      "slika": null
+    },
     {
       "naslov": "Muke fudbalera DR Konga zbog ebole – nisu dobrodošli u Španiju",
       "url": "https://www.mozzartsport.com/fudbal/vesti/muke-fudbalera-dr-konga-zbog-ebole-nisu-dobrodosli-u-spaniju/545403",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Zubairu završio misiju u Turskoj i vraća se u Partizan",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zubairu-zavrsio-misiju-u-turskoj-i-vraca-se-u-partizan/545389",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 06. 2026. у 11:21",
+      "naslov": "Ukrajinski fudbaler Oleksandr Zubkov potpisao za atinski AEK",
+      "url": "https://www.tanjug.rs/sport/fudbal/256717/ukrajinski-fudbaler-oleksandr-zubkov-potpisao-za-atinski-aek/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 06. 2026. у 17:17",
+      "slika": null
+    },
+    {
+      "naslov": "Džejson Ajto nije više sportski direktor Brajtona",
+      "url": "https://www.tanjug.rs/sport/fudbal/256650/dzejson-ajto-nije-vise-sportski-direktor-brajtona/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 06. 2026. у 13:39",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Atalante Ederson dogovorio prelazak u Mančester junajted",
-      "url": "https://www.tanjug.rs/sport/fudbal/256593/fudbaler-atalante-ederson-dogovorio-prelazak-u-mancester-junajted/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 06. 2026. у 11:34",
-      "slika": null
-    },
-    {
-      "naslov": "Srpska košarkašica Anđela Dugalić postigla osam poena za Vašington u WNBA ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/256535/srpska-kosarkasica-andela-dugalic-postigla-osam-poena-za-vasington-u-wnba-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 06. 2026. у 09:05",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Navijači Partizana su me gađali punjačem za telefon&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238742/navijaci-partizana-su-me-gadjali-punjacem-za-telefon/vest",
+      "naslov": "Partizan dogovorio prvo pojačanje – stiže iz Fejenorda!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238854/alek-zekovic-stize-u-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "3. 06. 2026. у 13:06",
+      "datum": "3. 06. 2026. у 15:00",
       "slika": null
     },
     {
-      "naslov": "Partizan jači za ofanzivca",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238708/vratio-se-ibrahim-zubairu-u-partizan/vest",
+      "naslov": "Izabrani predsednici i rukovodstva okružnih saveza – svi sa Zapada žele Nebojšu Živanovića",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/238900/izabrani-predsednici-i-rukovodstva-okruznih-saveza-svi-sa-zapada-zele-nebojsu-zivanovica/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "3. 06. 2026. у 12:20",
+      "datum": "3. 06. 2026. у 15:00",
       "slika": null
     }
   ]
