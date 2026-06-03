@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-03T19:50:48.669215+00:00",
-  "azurirano_sr": "3. 06. 2026. у 21:50",
+  "azurirano": "2026-06-03T22:17:11.462794+00:00",
+  "azurirano_sr": "4. 06. 2026. у 00:17",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Gotovo: Real aktivirao otkupnu klauzulu i za 20.000.000 doveo konkurenciju Aleksander Arnoldu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gotovo-real-aktivirao-otkupnu-klauzulu-i-za-20000000-doveo-konkurenciju-aleksander-arnoldu/545447",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 06. 2026. у 23:47",
+      "slika": null
+    },
     {
       "naslov": "Ris Milvud srušio Grke u 90+4, Srbija posle prvog kola već ima sve u svojim rukama",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ris-milvud-srusio-grke-u-904-srbija-posle-prvog-kola-vec-ima-sve-u-svojim-rukama/545438",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Muke fudbalera DR Konga zbog ebole – nisu dobrodošli u Španiju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/muke-fudbalera-dr-konga-zbog-ebole-nisu-dobrodosli-u-spaniju/545403",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 06. 2026. у 13:12",
+      "naslov": "Fudbaleri Alžira pobedili Holandiju u prijateljskom meču pred Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/256782/fudbaleri-alzira-pobedili-holandiju-u-prijateljskom-mecu-pred-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 06. 2026. у 22:58",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/256650/dzejson-ajto-nije-vise-sportski-direktor-brajtona/vest",
       "izvor": "Танјуг",
       "datum": "3. 06. 2026. у 13:39",
-      "slika": null
-    },
-    {
-      "naslov": "Danski fudbaler Rasmus Hojlund ostaje u Napoliju",
-      "url": "https://www.tanjug.rs/sport/fudbal/256625/danski-fudbaler-rasmus-hojlund-ostaje-u-napoliju/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 06. 2026. у 12:46",
       "slika": null
     },
     {
