@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-04T11:40:04.029855+00:00",
-  "azurirano_sr": "4. 06. 2026. у 13:40",
+  "azurirano": "2026-06-04T14:19:56.062742+00:00",
+  "azurirano_sr": "4. 06. 2026. у 16:19",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Đurković na klupi bugarskog drugoligaša",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/urkovic-na-klupi-bugarskog-drugoligasa/545502",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 06. 2026. у 17:10",
+      "slika": null
+    },
     {
       "naslov": "Buongiorno Italia: Alegrijev prioritet u Napoliju je Liga šampiona",
       "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-alegrijev-prioritet-u-napoliju-je-liga-sampiona/545491",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Javio se Siti zbog Halanda: Razmatramo da tužimo Real",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/javio-se-siti-zbog-halanda-razmatramo-da-tuzimo-real/545479",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 06. 2026. у 13:03",
+      "naslov": "Napoli i Konte sporazumno raskinuli ugovor",
+      "url": "https://www.tanjug.rs/sport/fudbal/256959/napoli-i-konte-sporazumno-raskinuli-ugovor/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 06. 2026. у 14:38",
+      "slika": null
+    },
+    {
+      "naslov": "Karles Martines Novelj novi trener fudbalera Bajera iz Leverkuzena",
+      "url": "https://www.tanjug.rs/sport/fudbal/256925/karles-martines-novelj-novi-trener-fudbalera-bajera-iz-leverkuzena/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 06. 2026. у 13:31",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/256879/ivanovic-jedva-cekamo-da-pocne-mec-protiv-meksika-bice-pun-stadion/vest",
       "izvor": "Танјуг",
       "datum": "4. 06. 2026. у 11:51",
-      "slika": null
-    },
-    {
-      "naslov": "Hrvatski vaterpolo reprezentativac Josip Vrlić novo pojačanje Radničkog",
-      "url": "https://www.tanjug.rs/sport/fudbal/256842/hrvatski-vaterpolo-reprezentativac-josip-vrlic-novo-pojacanje-radnickog/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 06. 2026. у 10:37",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Alžira pobedili Holandiju u prijateljskom meču pred Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/256782/fudbaleri-alzira-pobedili-holandiju-u-prijateljskom-mecu-pred-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 06. 2026. у 22:58",
       "slika": null
     },
     {
