@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-04T19:34:57.932237+00:00",
-  "azurirano_sr": "4. 06. 2026. у 21:34",
+  "azurirano": "2026-06-04T21:15:26.145070+00:00",
+  "azurirano_sr": "4. 06. 2026. у 23:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Deluje da se nećemo naigrati fudbala protiv Grka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/deluje-da-se-necemo-naigrati-fudbala-protiv-grka/545536",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 06. 2026. у 00:09",
+      "slika": null
+    },
     {
       "naslov": "Borba za vazduh i bolji utisak",
       "url": "https://www.mozzartsport.com/fudbal/vesti/borba-za-vazduh-i-bolji-utisak/545520",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Buongiorno Italia: Alegrijev prioritet u Napoliju je Liga šampiona",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-alegrijev-prioritet-u-napoliju-je-liga-sampiona/545491",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 06. 2026. у 15:03",
+      "naslov": "Fudbaleri Španije u \"kombinovanom\" sastavu remizirali sa Irakom",
+      "url": "https://www.tanjug.rs/sport/fudbal/257056/fudbaleri-spanije-u-kombinovanom-sastavu-remizirali-sa-irakom/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 06. 2026. у 22:57",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Lajpciga Kristof Baumgartner uspešno operisan",
-      "url": "https://www.tanjug.rs/sport/fudbal/256896/fudbaler-lajpciga-kristof-baumgartner-uspesno-operisan/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 06. 2026. у 12:38",
+      "naslov": "Zvezda spremila 2.500.000 evra za Bugarina!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239283/zvezda-spremila-2500000-evra-za-bugarina/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 06. 2026. у 22:06",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239266/paunovic-mi-smo-odgovarajuci-protivnik-za-meksiko/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 06. 2026. у 21:00",
-      "slika": null
-    },
-    {
-      "naslov": "Potvrđeno za B92.sport: Gotov veliki transfer u Zvezdi!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239255/mohamed-abu-fani-potpisao-za-crvenu-zvezdu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 06. 2026. у 19:50",
       "slika": null
     }
   ]
