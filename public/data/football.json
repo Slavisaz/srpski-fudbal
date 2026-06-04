@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-04T17:24:59.200141+00:00",
-  "azurirano_sr": "4. 06. 2026. у 19:24",
+  "azurirano": "2026-06-04T19:34:57.932237+00:00",
+  "azurirano_sr": "4. 06. 2026. у 21:34",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Borba za vazduh i bolji utisak",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/borba-za-vazduh-i-bolji-utisak/545520",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 06. 2026. у 22:03",
+      "slika": null
+    },
     {
       "naslov": "Sve bliži, ali i duplo skuplji: Real mora da plati 15.000.000 evra za Murinja!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sve-blizi-ali-i-duplo-skuplji-real-mora-da-plati-15000000-evra-za-murinja/545516",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-alegrijev-prioritet-u-napoliju-je-liga-sampiona/545491",
       "izvor": "Мозарт Спорт",
       "datum": "4. 06. 2026. у 15:03",
-      "slika": null
-    },
-    {
-      "naslov": "Mihailo Ivanović oduševljen prijemom u Meksiku: Viši nivo nego kod nas, ljudi vole fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mihailo-ivanovic-odusevljen-prijemom-u-meksiku-visi-nivo-nego-kod-nas-ljudi-vole-fudbal/545486",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 06. 2026. у 14:37",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Partizan vraća Vlahovića?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239228/partizan-vraca-vlahovica/vest",
+      "naslov": "Paunović: &quot;Mi smo odgovarajući protivnik za Meksiko&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239266/paunovic-mi-smo-odgovarajuci-protivnik-za-meksiko/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 06. 2026. у 18:13",
+      "datum": "4. 06. 2026. у 21:00",
       "slika": null
     },
     {
-      "naslov": "Ovusu ostaje u Zvezdi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239213/daglas-ovusu-ostaje-u-crvenoj-zvezdi/vest",
+      "naslov": "Potvrđeno za B92.sport: Gotov veliki transfer u Zvezdi!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239255/mohamed-abu-fani-potpisao-za-crvenu-zvezdu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 06. 2026. у 17:02",
+      "datum": "4. 06. 2026. у 19:50",
       "slika": null
     }
   ]
