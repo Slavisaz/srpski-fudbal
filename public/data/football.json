@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-04T14:19:56.062742+00:00",
-  "azurirano_sr": "4. 06. 2026. у 16:19",
+  "azurirano": "2026-06-04T17:24:59.200141+00:00",
+  "azurirano_sr": "4. 06. 2026. у 19:24",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Sve bliži, ali i duplo skuplji: Real mora da plati 15.000.000 evra za Murinja!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sve-blizi-ali-i-duplo-skuplji-real-mora-da-plati-15000000-evra-za-murinja/545516",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 06. 2026. у 20:52",
+      "slika": null
+    },
     {
       "naslov": "Đurković na klupi bugarskog drugoligaša",
       "url": "https://www.mozzartsport.com/fudbal/vesti/urkovic-na-klupi-bugarskog-drugoligasa/545502",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Dubai poharao osvajača Evrokupa: Stiže Alimpijevićev dželat iz finala, ali će prvo u Bolonju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dubai-poharao-osvajaca-evrokupa-stize-alimpijevicev-dzelat-iz-finala-ali-ce-prvo-u-bolonju/545483",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 06. 2026. у 13:11",
+      "naslov": "Porodica Glejzer razmatra prodaju udela u Mančester junajtedu",
+      "url": "https://www.tanjug.rs/sport/fudbal/257006/porodica-glejzer-razmatra-prodaju-udela-u-mancester-junajtedu/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 06. 2026. у 16:34",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Ivanović: Jedva čekamo da počne meč protiv Meksika, biće pun stadion",
-      "url": "https://www.tanjug.rs/sport/fudbal/256879/ivanovic-jedva-cekamo-da-pocne-mec-protiv-meksika-bice-pun-stadion/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 06. 2026. у 11:51",
+      "naslov": "Partizan vraća Vlahovića?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239228/partizan-vraca-vlahovica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 06. 2026. у 18:13",
       "slika": null
     },
     {
-      "naslov": "Partizan dao Blagojeviću i Rusima rok od 24h da se dogovore",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239127/blagojevic-i-akron-imaju-rok-do-5-juna-da-se-dogovore/vest",
+      "naslov": "Ovusu ostaje u Zvezdi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239213/daglas-ovusu-ostaje-u-crvenoj-zvezdi/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 06. 2026. у 12:55",
-      "slika": null
-    },
-    {
-      "naslov": "Ivanović pred Meksiko: &quot;Jedva čekamo&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239107/mihailo-ivanovic-pred-meksiko-srbija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 06. 2026. у 12:15",
+      "datum": "4. 06. 2026. у 17:02",
       "slika": null
     }
   ]
