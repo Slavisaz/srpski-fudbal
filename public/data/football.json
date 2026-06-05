@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-05T18:06:03.539857+00:00",
-  "azurirano_sr": "5. 06. 2026. у 20:06",
+  "azurirano": "2026-06-05T20:07:03.305292+00:00",
+  "azurirano_sr": "5. 06. 2026. у 22:07",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbalerke Srbije poražene na gostovanju Italiji u kvalifikacijama za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/257288/fudbalerke-srbije-porazene-na-gostovanju-italiji-u-kvalifikacijama-za-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 06. 2026. у 21:32",
+      "slika": null
+    },
+    {
       "naslov": "Anćeloti: Nejmar bi mogao da se priključi treninzima sledeće nedelje",
       "url": "https://www.tanjug.rs/sport/fudbal/257225/anceloti-nejmar-bi-mogao-da-se-prikljuci-treninzima-sledece-nedelje/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Paunović: Lično sam jako nezadovoljan, najbolje je da sve ovo zaboravimo",
-      "url": "https://www.tanjug.rs/sport/fudbal/257072/paunovic-licno-sam-jako-nezadovoljan-najbolje-je-da-sve-ovo-zaboravimo/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 06. 2026. у 08:31",
+      "naslov": "Crvena zvezda na korak od velikog pojačanja",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239575/loizos-loizu-dolazi-u-crvenu-zvezdu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "5. 06. 2026. у 20:09",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239573/tiknizjan-na-meti-koma-i-lensa/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "5. 06. 2026. у 19:55",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan razmatra da dovede Španca",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239552/spanac-na-meti-partizana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "5. 06. 2026. у 18:25",
       "slika": null
     }
   ]
