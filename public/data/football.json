@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-06-05T01:56:06.152962+00:00",
-  "azurirano_sr": "5. 06. 2026. у 03:56",
+  "azurirano": "2026-06-05T06:14:50.393677+00:00",
+  "azurirano_sr": "5. 06. 2026. у 08:14",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Deluje da se nećemo naigrati fudbala protiv Grka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/deluje-da-se-necemo-naigrati-fudbala-protiv-grka/545536",
+      "naslov": "Pobedili Srbiju 5:1, selektor Meksika pričao o primljenom golu: Kakva glupa greška!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pobedili-srbiju-51-selektor-meksika-pricao-o-primljenom-golu-kakva-glupa-greska/545551",
       "izvor": "Мозарт Спорт",
-      "datum": "5. 06. 2026. у 00:09",
+      "datum": "5. 06. 2026. у 09:40",
       "slika": null
     },
     {
-      "naslov": "Borba za vazduh i bolji utisak",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/borba-za-vazduh-i-bolji-utisak/545520",
+      "naslov": "Srbija prvi put primila pet golova u prijateljskoj utakmici",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-prvi-put-primila-pet-golova-u-prijateljskoj-utakmici/545550",
       "izvor": "Мозарт Спорт",
-      "datum": "4. 06. 2026. у 22:03",
+      "datum": "5. 06. 2026. у 09:15",
       "slika": null
     },
     {
-      "naslov": "Sve bliži, ali i duplo skuplji: Real mora da plati 15.000.000 evra za Murinja!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sve-blizi-ali-i-duplo-skuplji-real-mora-da-plati-15000000-evra-za-murinja/545516",
+      "naslov": "Stanićev prvenac da se lakše diše (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stanicev-prvenac-da-se-lakse-dise-video/545544",
       "izvor": "Мозарт Спорт",
-      "datum": "4. 06. 2026. у 20:52",
+      "datum": "5. 06. 2026. у 06:42",
       "slika": null
     },
     {
-      "naslov": "Đurković na klupi bugarskog drugoligaša",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/urkovic-na-klupi-bugarskog-drugoligasa/545502",
+      "naslov": "Florentinovo predizborno obećanje: 150 miliona za pojačanje, nije Olise i nije iz Premijer lige",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/florentinovo-predizborno-obecanje-150-miliona-za-pojacanje-nije-olise-i-nije-iz-premijer-lige/545543",
       "izvor": "Мозарт Спорт",
-      "datum": "4. 06. 2026. у 17:10",
+      "datum": "5. 06. 2026. у 05:59",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Srbije poveli golom Stanića, pa doživeli težak poraz od Meksika",
+      "url": "https://www.tanjug.rs/sport/fudbal/257060/fudbaleri-srbije-poveli-golom-stanica-pa-doziveli-tezak-poraz-od-meksika/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 06. 2026. у 06:01",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Karles Martines Novelj novi trener fudbalera Bajera iz Leverkuzena",
-      "url": "https://www.tanjug.rs/sport/fudbal/256925/karles-martines-novelj-novi-trener-fudbalera-bajera-iz-leverkuzena/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 06. 2026. у 13:31",
+      "naslov": "Selektor Meksika iznerviran: &quot;Kakva glupa greška!&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239309/havijer-agire-posle-meksiko-srbija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "5. 06. 2026. у 08:04",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239283/zvezda-spremila-2500000-evra-za-bugarina/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 06. 2026. у 22:06",
-      "slika": null
-    },
-    {
-      "naslov": "Paunović: &quot;Mi smo odgovarajući protivnik za Meksiko&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239266/paunovic-mi-smo-odgovarajuci-protivnik-za-meksiko/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 06. 2026. у 21:00",
       "slika": null
     }
   ]
