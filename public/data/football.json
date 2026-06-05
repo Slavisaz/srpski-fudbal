@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-05T10:16:18.336186+00:00",
-  "azurirano_sr": "5. 06. 2026. у 12:16",
+  "azurirano": "2026-06-05T13:26:10.073702+00:00",
+  "azurirano_sr": "5. 06. 2026. у 15:26",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Najbolji fudbaler na svetu kojeg nećemo gledati na Mundijalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najbolji-fudbaler-na-svetu-kojeg-necemo-gledati-na-mundijalu/545600",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 06. 2026. у 16:40",
+      "slika": null
+    },
+    {
+      "naslov": "Aleks je Interov za 23.000.000 evra: Peta najskuplja prodaja u istoriji Briža!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/aleks-je-interov-za-23000000-evra-peta-najskuplja-prodaja-u-istoriji-briza/545592",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 06. 2026. у 15:14",
+      "slika": null
+    },
     {
       "naslov": "OFK Beograd Mozzart Bet iskoristio pravo preče kupovine – Silue za 200.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ofk-beograd-mozzart-bet-iskoristio-pravo-prece-kupovine-silue-za-200000-evra/545582",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-predrag-sikimic-u-stilu-centarfora-puca-na-dobitnih-203000-dinara/545583",
       "izvor": "Мозарт Спорт",
       "datum": "5. 06. 2026. у 13:57",
-      "slika": null
-    },
-    {
-      "naslov": "Budi pobednik uz najskuplje kečeve na Slovake i Mađare",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/budi-pobednik-uz-najskuplje-keceve-na-slovake-i-maare/545571",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 06. 2026. у 12:24",
-      "slika": null
-    },
-    {
-      "naslov": "Pobedili Srbiju 5:1, selektor Meksika pričao o primljenom golu: Kakva glupa greška!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pobedili-srbiju-51-selektor-meksika-pricao-o-primljenom-golu-kakva-glupa-greska/545551",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 06. 2026. у 09:40",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Nenad Milijaš odlazi iz Zvezde?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239336/nenad-milijas-preuzima-tsc/vest",
+      "naslov": "Perović se oprostio od Radničkog: &quot;Tužan i ponosan&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239403/perovic-se-oprostio-od-radnickog-tuzan-i-ponosan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 06. 2026. у 11:39",
+      "datum": "5. 06. 2026. у 14:53",
       "slika": null
     },
     {
-      "naslov": "Partizan ponovo za stolom sa Lazetićem",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239363/partizan-pregovara-sa-zarkom-lazeticem/vest",
+      "naslov": "Zvezda prati situaciju oko Seolovog naslednika",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239393/zvezda-prati-situaciju-oko-seolovog-naslednika/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 06. 2026. у 11:17",
+      "datum": "5. 06. 2026. у 14:10",
       "slika": null
     }
   ]
