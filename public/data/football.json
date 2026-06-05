@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-05T13:26:10.073702+00:00",
-  "azurirano_sr": "5. 06. 2026. у 15:26",
+  "azurirano": "2026-06-05T16:10:57.719641+00:00",
+  "azurirano_sr": "5. 06. 2026. у 18:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Hoćete Baturinu za 50.000.000 – nećete ga dobiti! Premijerligaši i Bajern da istresu 80.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/hocete-baturinu-za-50000000-necete-ga-dobiti-premijerligasi-i-bajern-da-istresu-80000000-evra/545604",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 06. 2026. у 17:22",
+      "slika": null
+    },
     {
       "naslov": "Najbolji fudbaler na svetu kojeg nećemo gledati na Mundijalu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najbolji-fudbaler-na-svetu-kojeg-necemo-gledati-na-mundijalu/545600",
@@ -11,8 +18,8 @@
       "slika": null
     },
     {
-      "naslov": "Aleks je Interov za 23.000.000 evra: Peta najskuplja prodaja u istoriji Briža!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/aleks-je-interov-za-23000000-evra-peta-najskuplja-prodaja-u-istoriji-briza/545592",
+      "naslov": "Aleks Interov za 23.000.000 evra: Peta najskuplja prodaja u istoriji Briža!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/aleks-interov-za-23000000-evra-peta-najskuplja-prodaja-u-istoriji-briza/545592",
       "izvor": "Мозарт Спорт",
       "datum": "5. 06. 2026. у 15:14",
       "slika": null
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Humanitarni tiket u podne: Predrag Sikimić u stilu centarfora, puca na dobitnih 203.000 dinara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-predrag-sikimic-u-stilu-centarfora-puca-na-dobitnih-203000-dinara/545583",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 06. 2026. у 13:57",
+      "naslov": "Anćeloti: Nejmar bi mogao da se priključi treninzima sledeće nedelje",
+      "url": "https://www.tanjug.rs/sport/fudbal/257225/anceloti-nejmar-bi-mogao-da-se-prikljuci-treninzima-sledece-nedelje/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 06. 2026. у 16:24",
+      "slika": null
+    },
+    {
+      "naslov": "Srpski fudbaler Aleksandar Stanković vratio se u Inter iz Klub Briža",
+      "url": "https://www.tanjug.rs/sport/fudbal/257223/srpski-fudbaler-aleksandar-stankovic-vratio-se-u-inter-iz-klub-briza/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 06. 2026. у 16:22",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Srbije poveli golom Stanića, pa doživeli težak poraz od Meksika",
-      "url": "https://www.tanjug.rs/sport/fudbal/257060/fudbaleri-srbije-poveli-golom-stanica-pa-doziveli-tezak-poraz-od-meksika/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 06. 2026. у 06:01",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Španije u \"kombinovanom\" sastavu remizirali sa Irakom",
-      "url": "https://www.tanjug.rs/sport/fudbal/257056/fudbaleri-spanije-u-kombinovanom-sastavu-remizirali-sa-irakom/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 06. 2026. у 22:57",
+      "naslov": "OFK Beograd otkupio Afrikanca",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239436/ofk-beograd-otkupio-afrikanca/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "5. 06. 2026. у 17:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239403/perovic-se-oprostio-od-radnickog-tuzan-i-ponosan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "5. 06. 2026. у 14:53",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda prati situaciju oko Seolovog naslednika",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239393/zvezda-prati-situaciju-oko-seolovog-naslednika/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "5. 06. 2026. у 14:10",
       "slika": null
     }
   ]
