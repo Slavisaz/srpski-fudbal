@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-06-05T06:14:50.393677+00:00",
-  "azurirano_sr": "5. 06. 2026. у 08:14",
+  "azurirano": "2026-06-05T10:16:18.336186+00:00",
+  "azurirano_sr": "5. 06. 2026. у 12:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "OFK Beograd Mozzart Bet iskoristio pravo preče kupovine – Silue za 200.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ofk-beograd-mozzart-bet-iskoristio-pravo-prece-kupovine-silue-za-200000-evra/545582",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 06. 2026. у 14:00",
+      "slika": null
+    },
+    {
+      "naslov": "Humanitarni tiket u podne: Predrag Sikimić u stilu centarfora, puca na dobitnih 203.000 dinara",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-predrag-sikimic-u-stilu-centarfora-puca-na-dobitnih-203000-dinara/545583",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 06. 2026. у 13:57",
+      "slika": null
+    },
+    {
+      "naslov": "Budi pobednik uz najskuplje kečeve na Slovake i Mađare",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/budi-pobednik-uz-najskuplje-keceve-na-slovake-i-maare/545571",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 06. 2026. у 12:24",
+      "slika": null
+    },
     {
       "naslov": "Pobedili Srbiju 5:1, selektor Meksika pričao o primljenom golu: Kakva glupa greška!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pobedili-srbiju-51-selektor-meksika-pricao-o-primljenom-golu-kakva-glupa-greska/545551",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Srbija prvi put primila pet golova u prijateljskoj utakmici",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-prvi-put-primila-pet-golova-u-prijateljskoj-utakmici/545550",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 06. 2026. у 09:15",
+      "naslov": "Vladimir Lučić: Na kraju je ispao jako težak poraz za nas, ali sve čestitke momcima",
+      "url": "https://www.tanjug.rs/sport/fudbal/257123/vladimir-lucic-na-kraju-je-ispao-jako-tezak-poraz-za-nas-ali-sve-cestitke-momcima/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 06. 2026. у 11:44",
       "slika": null
     },
     {
-      "naslov": "Stanićev prvenac da se lakše diše (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/stanicev-prvenac-da-se-lakse-dise-video/545544",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 06. 2026. у 06:42",
-      "slika": null
-    },
-    {
-      "naslov": "Florentinovo predizborno obećanje: 150 miliona za pojačanje, nije Olise i nije iz Premijer lige",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/florentinovo-predizborno-obecanje-150-miliona-za-pojacanje-nije-olise-i-nije-iz-premijer-lige/545543",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 06. 2026. у 05:59",
+      "naslov": "Paunović: Lično sam jako nezadovoljan, najbolje je da sve ovo zaboravimo",
+      "url": "https://www.tanjug.rs/sport/fudbal/257072/paunovic-licno-sam-jako-nezadovoljan-najbolje-je-da-sve-ovo-zaboravimo/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 06. 2026. у 08:31",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Porodica Glejzer razmatra prodaju udela u Mančester junajtedu",
-      "url": "https://www.tanjug.rs/sport/fudbal/257006/porodica-glejzer-razmatra-prodaju-udela-u-mancester-junajtedu/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 06. 2026. у 16:34",
-      "slika": null
-    },
-    {
-      "naslov": "Napoli i Konte sporazumno raskinuli ugovor",
-      "url": "https://www.tanjug.rs/sport/fudbal/256959/napoli-i-konte-sporazumno-raskinuli-ugovor/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 06. 2026. у 14:38",
-      "slika": null
-    },
-    {
-      "naslov": "Selektor Meksika iznerviran: &quot;Kakva glupa greška!&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239309/havijer-agire-posle-meksiko-srbija/vest",
+      "naslov": "Nenad Milijaš odlazi iz Zvezde?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239336/nenad-milijas-preuzima-tsc/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 06. 2026. у 08:04",
+      "datum": "5. 06. 2026. у 11:39",
       "slika": null
     },
     {
-      "naslov": "Zvezda spremila 2.500.000 evra za Bugarina!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239283/zvezda-spremila-2500000-evra-za-bugarina/vest",
+      "naslov": "Partizan ponovo za stolom sa Lazetićem",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239363/partizan-pregovara-sa-zarkom-lazeticem/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 06. 2026. у 22:06",
+      "datum": "5. 06. 2026. у 11:17",
       "slika": null
     }
   ]
