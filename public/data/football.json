@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-05T16:10:57.719641+00:00",
-  "azurirano_sr": "5. 06. 2026. у 18:10",
+  "azurirano": "2026-06-05T18:06:03.539857+00:00",
+  "azurirano_sr": "5. 06. 2026. у 20:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Transfermarkt: Crvena zvezda blizu Dinamovog rekorda, Partizan raste zbog Ugrešića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transfermarkt-crvena-zvezda-blizu-dinamovog-rekorda-partizan-raste-zbog-ugresica/545619",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 06. 2026. у 21:07",
+      "slika": null
+    },
     {
       "naslov": "Hoćete Baturinu za 50.000.000 – nećete ga dobiti! Premijerligaši i Bajern da istresu 80.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/hocete-baturinu-za-50000000-necete-ga-dobiti-premijerligasi-i-bajern-da-istresu-80000000-evra/545604",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/aleks-interov-za-23000000-evra-peta-najskuplja-prodaja-u-istoriji-briza/545592",
       "izvor": "Мозарт Спорт",
       "datum": "5. 06. 2026. у 15:14",
-      "slika": null
-    },
-    {
-      "naslov": "OFK Beograd Mozzart Bet iskoristio pravo preče kupovine – Silue za 200.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ofk-beograd-mozzart-bet-iskoristio-pravo-prece-kupovine-silue-za-200000-evra/545582",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 06. 2026. у 14:00",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "OFK Beograd otkupio Afrikanca",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239436/ofk-beograd-otkupio-afrikanca/vest",
+      "naslov": "Italijani i Francuzi zainteresovani za Tiknizjana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239573/tiknizjan-na-meti-koma-i-lensa/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 06. 2026. у 17:00",
+      "datum": "5. 06. 2026. у 19:55",
       "slika": null
     },
     {
-      "naslov": "Perović se oprostio od Radničkog: &quot;Tužan i ponosan&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239403/perovic-se-oprostio-od-radnickog-tuzan-i-ponosan/vest",
+      "naslov": "Partizan razmatra da dovede Španca",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239552/spanac-na-meti-partizana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 06. 2026. у 14:53",
+      "datum": "5. 06. 2026. у 18:25",
       "slika": null
     }
   ]
