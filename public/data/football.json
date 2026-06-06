@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-06T17:54:50.159715+00:00",
-  "azurirano_sr": "6. 06. 2026. у 19:54",
+  "azurirano": "2026-06-06T19:01:47.651907+00:00",
+  "azurirano_sr": "6. 06. 2026. у 21:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Neka euforija počne u zemlji fudbala: Superofanzivni Ančelotijev Brazil ide po Boginju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/neka-euforija-pocne-u-zemlji-fudbala-superofanzivni-ancelotijev-brazil-ide-po-boginju/545678",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 06. 2026. у 22:26",
+      "slika": null
+    },
+    {
+      "naslov": "Za ovaj novac, moraće da stvara magiju: Brajton dao 30.000.000 za igrača sa 18 seniorskih nastupa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/za-ovaj-novac-morace-da-stvara-magiju-brajton-dao-30000000-za-igraca-sa-18-seniorskih-nastupa/545698",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 06. 2026. у 21:53",
+      "slika": null
+    },
     {
       "naslov": "Rekordna kupovina doktora za pametno poslovanje: Sinonim za racionalnost bacio kocku na Gambijca",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rekordna-kupovina-doktora-za-pametno-poslovanje-sinonim-za-racionalnost-bacio-kocku-na-gambijca/545694",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/vitorija-pred-krunisanjem/545671",
       "izvor": "Мозарт Спорт",
       "datum": "6. 06. 2026. у 15:14",
-      "slika": null
-    },
-    {
-      "naslov": "Gotovo: Špic iz CSKA Moskve dolazi u Partizan",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gotovo-spic-iz-cska-moskve-dolazi-u-partizan/545666",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 06. 2026. у 14:08",
-      "slika": null
-    },
-    {
-      "naslov": "Svetsko prvenstvo još nije počelo, ali problemi uveliko traju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/svetsko-prvenstvo-jos-nije-pocelo-ali-problemi-uveliko-traju/545650",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 06. 2026. у 13:38",
       "slika": null
     },
     {
@@ -53,24 +53,24 @@
       "slika": null
     },
     {
+      "naslov": "Adem Avdić teško povredio koleno!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239794/adem-avdic-se-povredio-ceka-se-snimak-kolena/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "6. 06. 2026. у 20:02",
+      "slika": null
+    },
+    {
+      "naslov": "Šta se dešava sa Ilićem i Partizanom – pojavile se nove informacije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239793/ilic-pricao-sa-fk-partizan-ali-nista-nije-dogovoreno/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "6. 06. 2026. у 19:55",
+      "slika": null
+    },
+    {
       "naslov": "Saša Ilić novi trener Partizana?!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239772/sasa-ilic-trener-fk-partizan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "6. 06. 2026. у 18:19",
-      "slika": null
-    },
-    {
-      "naslov": "OFK Beograd &quot;eksplodirao&quot; na tržištu: &quot;Romantičari&quot; treći najvredniji tim Superlige!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239766/ofk-beograd-treci-najvredniji-klub-superlige/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 06. 2026. у 17:50",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan razmatra da dovede Džaspera, ali cena &quot;koči&quot; transfer",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239688/partizan-zeli-da-dovede-dzaspera/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 06. 2026. у 13:15",
       "slika": null
     },
     {
