@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-06T19:01:47.651907+00:00",
-  "azurirano_sr": "6. 06. 2026. у 21:01",
+  "azurirano": "2026-06-06T20:15:39.761046+00:00",
+  "azurirano_sr": "6. 06. 2026. у 22:15",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -46,13 +46,6 @@
       "slika": null
     },
     {
-      "naslov": "Fudbalerke Srbije poražene na gostovanju Italiji u kvalifikacijama za Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/257288/fudbalerke-srbije-porazene-na-gostovanju-italiji-u-kvalifikacijama-za-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 06. 2026. у 21:32",
-      "slika": null
-    },
-    {
       "naslov": "Adem Avdić teško povredio koleno!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239794/adem-avdic-se-povredio-ceka-se-snimak-kolena/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,6 +64,20 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239772/sasa-ilic-trener-fk-partizan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "6. 06. 2026. у 18:19",
+      "slika": null
+    },
+    {
+      "naslov": "(Ne)prijateljski meč Portugala i Čilea – frka, dva crvena i tri gola VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/239812/neprijateljski-mec-portugala-i-cilea-frka-dva-crvena-i-tri-gola-video/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "6. 06. 2026. у 21:57",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbalerke Srbije poražene na gostovanju Italiji u kvalifikacijama za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/257288/fudbalerke-srbije-porazene-na-gostovanju-italiji-u-kvalifikacijama-za-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 06. 2026. у 21:32",
       "slika": null
     },
     {
