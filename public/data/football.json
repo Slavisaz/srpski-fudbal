@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-06T12:56:42.672924+00:00",
-  "azurirano_sr": "6. 06. 2026. у 14:56",
+  "azurirano": "2026-06-06T14:25:58.546701+00:00",
+  "azurirano_sr": "6. 06. 2026. у 16:25",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -46,20 +46,6 @@
       "slika": null
     },
     {
-      "naslov": "Anćeloti: Nejmar bi mogao da se priključi treninzima sledeće nedelje",
-      "url": "https://www.tanjug.rs/sport/fudbal/257225/anceloti-nejmar-bi-mogao-da-se-prikljuci-treninzima-sledece-nedelje/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 06. 2026. у 16:24",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Aleksandar Stanković vratio se u Inter iz Klub Briža",
-      "url": "https://www.tanjug.rs/sport/fudbal/257223/srpski-fudbaler-aleksandar-stankovic-vratio-se-u-inter-iz-klub-briza/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 06. 2026. у 16:22",
-      "slika": null
-    },
-    {
       "naslov": "Partizan razmatra da dovede Džaspera, ali cena &quot;koči&quot; transfer",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239688/partizan-zeli-da-dovede-dzaspera/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,6 +57,34 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239706/srbija-porazena-od-kazahstana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "6. 06. 2026. у 13:00",
+      "slika": null
+    },
+    {
+      "naslov": "Napadač iz Moskve stiže u Partizan!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239693/partizan-dovodi-sumanskog-iz-cska-moskve/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "6. 06. 2026. у 12:30",
+      "slika": null
+    },
+    {
+      "naslov": "Delu stručnog štaba Irana odbijena viza za SAD",
+      "url": "https://www.b92.net/sport/fudbal/vesti/239680/delu-strucnog-staba-irana-odbijena-viza-za-sad/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "6. 06. 2026. у 16:11",
+      "slika": null
+    },
+    {
+      "naslov": "Anćeloti: Nejmar bi mogao da se priključi treninzima sledeće nedelje",
+      "url": "https://www.tanjug.rs/sport/fudbal/257225/anceloti-nejmar-bi-mogao-da-se-prikljuci-treninzima-sledece-nedelje/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 06. 2026. у 16:24",
+      "slika": null
+    },
+    {
+      "naslov": "Srpski fudbaler Aleksandar Stanković vratio se u Inter iz Klub Briža",
+      "url": "https://www.tanjug.rs/sport/fudbal/257223/srpski-fudbaler-aleksandar-stankovic-vratio-se-u-inter-iz-klub-briza/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 06. 2026. у 16:22",
       "slika": null
     }
   ]
