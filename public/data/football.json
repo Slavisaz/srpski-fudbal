@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-06T21:18:33.115472+00:00",
-  "azurirano_sr": "6. 06. 2026. у 23:18",
+  "azurirano": "2026-06-06T22:31:27.011778+00:00",
+  "azurirano_sr": "7. 06. 2026. у 00:31",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Petominutno pomračenje koje se na Mundijalu skupo plaća: Australija u tri poreza nokautirala Švajcarsku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/petominutno-pomracenje-koje-se-na-mundijalu-skupo-placa-australija-u-tri-poreza-nokautirala-svajcarsku/545717",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 06. 2026. у 01:20",
+      "slika": null
+    },
     {
       "naslov": "Neka euforija počne u zemlji fudbala: Superofanzivni Ančelotijev Brazil ide po Boginju",
       "url": "https://www.mozzartsport.com/fudbal/vesti/neka-euforija-pocne-u-zemlji-fudbala-superofanzivni-ancelotijev-brazil-ide-po-boginju/545678",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Vitorija pred krunisanjem",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vitorija-pred-krunisanjem/545671",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 06. 2026. у 15:14",
+      "naslov": "Fudbaleri BiH remizirali sa Panamom u \"generalci\" pred Mundijal",
+      "url": "https://www.tanjug.rs/sport/fudbal/257435/fudbaleri-bih-remizirali-sa-panamom-u-generalci-pred-mundijal/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 06. 2026. у 22:59",
       "slika": null
     },
     {
@@ -67,24 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "U Sent Luisu kao u Zenici – remi BiH pred Mundijal VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/239821/u-sent-luisu-kao-u-zenici-remi-bih-pred-mundijal-video/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "6. 06. 2026. у 23:10",
-      "slika": null
-    },
-    {
       "naslov": "Fudbalerke Srbije poražene na gostovanju Italiji u kvalifikacijama za Svetsko prvenstvo",
       "url": "https://www.tanjug.rs/sport/fudbal/257288/fudbalerke-srbije-porazene-na-gostovanju-italiji-u-kvalifikacijama-za-svetsko-prvenstvo/vest",
       "izvor": "Танјуг",
       "datum": "5. 06. 2026. у 21:32",
-      "slika": null
-    },
-    {
-      "naslov": "Anćeloti: Nejmar bi mogao da se priključi treninzima sledeće nedelje",
-      "url": "https://www.tanjug.rs/sport/fudbal/257225/anceloti-nejmar-bi-mogao-da-se-prikljuci-treninzima-sledece-nedelje/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 06. 2026. у 16:24",
       "slika": null
     }
   ]
