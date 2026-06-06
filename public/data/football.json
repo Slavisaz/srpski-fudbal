@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-06-06T08:11:29.576441+00:00",
-  "azurirano_sr": "6. 06. 2026. у 10:11",
+  "azurirano": "2026-06-06T10:20:11.270846+00:00",
+  "azurirano_sr": "6. 06. 2026. у 12:20",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Kad ljubazni polude: Mani sad klubove, Meksiko je svetinja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kad-ljubazni-polude-mani-sad-klubove-meksiko-je-svetinja/545608",
+      "naslov": "Gotovo: Špic iz CSKA Moskve dolazi u Partizan",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gotovo-spic-iz-cska-moskve-dolazi-u-partizan/545666",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 06. 2026. у 11:21",
+      "datum": "6. 06. 2026. у 14:08",
       "slika": null
     },
     {
-      "naslov": "INTERVJU – Stanislav Tončev: Da bi Radnik opstao u eliti, opet će neki ‘kapitalac’ morati da sklizne",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/intervju-stanislav-toncev-da-bi-radnik-opstao-u-eliti-opet-ce-neki-kapitalac-morati-da-sklizne/545610",
+      "naslov": "Svetsko prvenstvo još nije počelo, ali problemi uveliko traju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/svetsko-prvenstvo-jos-nije-pocelo-ali-problemi-uveliko-traju/545650",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 06. 2026. у 10:07",
+      "datum": "6. 06. 2026. у 13:38",
       "slika": null
     },
     {
-      "naslov": "Transfermarkt: Crvena zvezda blizu Dinamovog rekorda, Partizan raste zbog Ugrešića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transfermarkt-crvena-zvezda-blizu-dinamovog-rekorda-partizan-raste-zbog-ugresica/545619",
+      "naslov": "Kijeza želi nazad u Juve: Nikad ne bih ni otišao, ali mi nisu ponudili ugovor",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kijeza-zeli-nazad-u-juve-nikad-ne-bih-ni-otisao-ali-mi-nisu-ponudili-ugovor/545663",
       "izvor": "Мозарт Спорт",
-      "datum": "5. 06. 2026. у 21:07",
+      "datum": "6. 06. 2026. у 13:29",
       "slika": null
     },
     {
-      "naslov": "Hoćete Baturinu za 50.000.000 – nećete ga dobiti! Premijerligaši i Bajern da istresu 80.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/hocete-baturinu-za-50000000-necete-ga-dobiti-premijerligasi-i-bajern-da-istresu-80000000-evra/545604",
+      "naslov": "Uroš Milovanović demantuje oca: Tata je na terapijama, a ja sam prezadovoljan u Tobolu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uros-milovanovic-demantuje-oca-tata-je-na-terapijama-a-ja-sam-prezadovoljan-u-tobolu/545654",
       "izvor": "Мозарт Спорт",
-      "datum": "5. 06. 2026. у 17:22",
+      "datum": "6. 06. 2026. у 12:23",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaler Paragvaja Hulio Ensiso propušta prva dva meča na Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/257332/fudbaler-paragvaja-hulio-ensiso-propusta-prva-dva-meca-na-svetskom-prvenstvu/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 06. 2026. у 10:58",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Vladimir Lučić: Na kraju je ispao jako težak poraz za nas, ali sve čestitke momcima",
-      "url": "https://www.tanjug.rs/sport/fudbal/257123/vladimir-lucic-na-kraju-je-ispao-jako-tezak-poraz-za-nas-ali-sve-cestitke-momcima/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 06. 2026. у 11:44",
+      "naslov": "Napadač iz Moskve stiže u Partizan!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239693/partizan-dovodi-sumanskog-iz-cska-moskve/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "6. 06. 2026. у 12:16",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239609/poznat-termin-starta-nove-sezone-superlige/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "5. 06. 2026. у 22:44",
-      "slika": null
-    },
-    {
-      "naslov": "Crvena zvezda na korak od velikog pojačanja",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239575/loizos-loizu-dolazi-u-crvenu-zvezdu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "5. 06. 2026. у 20:09",
       "slika": null
     }
   ]
