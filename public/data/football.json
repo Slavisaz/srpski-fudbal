@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-06T20:15:39.761046+00:00",
-  "azurirano_sr": "6. 06. 2026. у 22:15",
+  "azurirano": "2026-06-06T21:18:33.115472+00:00",
+  "azurirano_sr": "6. 06. 2026. у 23:18",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -46,6 +46,20 @@
       "slika": null
     },
     {
+      "naslov": "Dudić se vraća na mesto uspeha?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239819/fedja-dudic-se-vraca-u-radnicki-1923/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "6. 06. 2026. у 22:56",
+      "slika": null
+    },
+    {
+      "naslov": "Jedni kažu dolazi, drugi kažu nije sigurno, a odjednom imamo i detalje ugovora Ilića i Partizana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239816/sasa-ilic-ugovor-na-dve-godine-sa-fk-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "6. 06. 2026. у 22:26",
+      "slika": null
+    },
+    {
       "naslov": "Adem Avdić teško povredio koleno!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239794/adem-avdic-se-povredio-ceka-se-snimak-kolena/vest",
       "izvor": "Б92 Српски фудбал",
@@ -53,24 +67,10 @@
       "slika": null
     },
     {
-      "naslov": "Šta se dešava sa Ilićem i Partizanom – pojavile se nove informacije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239793/ilic-pricao-sa-fk-partizan-ali-nista-nije-dogovoreno/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 06. 2026. у 19:55",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić novi trener Partizana?!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239772/sasa-ilic-trener-fk-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 06. 2026. у 18:19",
-      "slika": null
-    },
-    {
-      "naslov": "(Ne)prijateljski meč Portugala i Čilea – frka, dva crvena i tri gola VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/239812/neprijateljski-mec-portugala-i-cilea-frka-dva-crvena-i-tri-gola-video/vest",
+      "naslov": "U Sent Luisu kao u Zenici – remi BiH pred Mundijal VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/239821/u-sent-luisu-kao-u-zenici-remi-bih-pred-mundijal-video/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "6. 06. 2026. у 21:57",
+      "datum": "6. 06. 2026. у 23:10",
       "slika": null
     },
     {
