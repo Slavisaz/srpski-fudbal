@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-06T10:20:11.270846+00:00",
-  "azurirano_sr": "6. 06. 2026. у 12:20",
+  "azurirano": "2026-06-06T11:48:40.539234+00:00",
+  "azurirano_sr": "6. 06. 2026. у 13:48",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Vitorija pred krunisanjem",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vitorija-pred-krunisanjem/545671",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 06. 2026. у 15:14",
+      "slika": null
+    },
     {
       "naslov": "Gotovo: Špic iz CSKA Moskve dolazi u Partizan",
       "url": "https://www.mozzartsport.com/fudbal/vesti/gotovo-spic-iz-cska-moskve-dolazi-u-partizan/545666",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/kijeza-zeli-nazad-u-juve-nikad-ne-bih-ni-otisao-ali-mi-nisu-ponudili-ugovor/545663",
       "izvor": "Мозарт Спорт",
       "datum": "6. 06. 2026. у 13:29",
-      "slika": null
-    },
-    {
-      "naslov": "Uroš Milovanović demantuje oca: Tata je na terapijama, a ja sam prezadovoljan u Tobolu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uros-milovanovic-demantuje-oca-tata-je-na-terapijama-a-ja-sam-prezadovoljan-u-tobolu/545654",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 06. 2026. у 12:23",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Napadač iz Moskve stiže u Partizan!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239693/partizan-dovodi-sumanskog-iz-cska-moskve/vest",
+      "naslov": "Partizan razmatra da dovede Džaspera, ali cena &quot;koči&quot; transfer",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239688/partizan-zeli-da-dovede-dzaspera/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "6. 06. 2026. у 12:16",
+      "datum": "6. 06. 2026. у 13:15",
       "slika": null
     },
     {
-      "naslov": "Poznat termin starta nove sezone Superlige",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239609/poznat-termin-starta-nove-sezone-superlige/vest",
+      "naslov": "Orlići pali posle pobede nad Grčkom",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239706/srbija-porazena-od-kazahstana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 06. 2026. у 22:44",
+      "datum": "6. 06. 2026. у 13:00",
       "slika": null
     }
   ]
