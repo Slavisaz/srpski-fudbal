@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-07T14:43:42.139913+00:00",
-  "azurirano_sr": "7. 06. 2026. у 16:43",
+  "azurirano": "2026-06-07T15:58:55.081784+00:00",
+  "azurirano_sr": "7. 06. 2026. у 17:58",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -53,10 +53,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Belgije deklasirali Tunis u prijateljskom meču pred Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/257388/fudbaleri-belgije-deklasirali-tunis-u-prijateljskom-mecu-pred-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 06. 2026. у 16:59",
+      "naslov": "Poznato koliko će Partizan dobiti od odlaska Blagojevića – Srđan oprostio deo plate",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239958/koliko-ce-fk-partizan-dobiti-od-odlaska-blagojevica-srdjan-oprostio-deo-plate/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 06. 2026. у 16:45",
       "slika": null
     },
     {
@@ -71,6 +71,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239850/dris-kamara-stize-na-marakanu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "7. 06. 2026. у 09:20",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Belgije deklasirali Tunis u prijateljskom meču pred Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/257388/fudbaleri-belgije-deklasirali-tunis-u-prijateljskom-mecu-pred-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 06. 2026. у 16:59",
       "slika": null
     }
   ]
