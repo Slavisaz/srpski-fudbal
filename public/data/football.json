@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-06-07T06:09:03.212270+00:00",
-  "azurirano_sr": "7. 06. 2026. у 08:09",
+  "azurirano": "2026-06-07T09:32:21.445076+00:00",
+  "azurirano_sr": "7. 06. 2026. у 11:32",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Petominutno pomračenje koje se na Mundijalu skupo plaća: Australija u tri poteza nokautirala Švajcarsku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/petominutno-pomracenje-koje-se-na-mundijalu-skupo-placa-australija-u-tri-poteza-nokautirala-svajcarsku/545717",
+      "naslov": "Put čuda iz AIK-a do Brajtona i transfera od skoro 30.000.000 evra: Odmah se znalo da će biti zver…",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/put-cuda-iz-aika-do-brajtona-i-transfera-od-skoro-30000000-evra-odmah-se-znalo-da-ce-biti-zver/545746",
       "izvor": "Мозарт Спорт",
-      "datum": "7. 06. 2026. у 01:20",
+      "datum": "7. 06. 2026. у 13:12",
       "slika": null
     },
     {
-      "naslov": "Neka euforija počne u zemlji fudbala: Superofanzivni Ančelotijev Brazil ide po Boginju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/neka-euforija-pocne-u-zemlji-fudbala-superofanzivni-ancelotijev-brazil-ide-po-boginju/545678",
+      "naslov": "V. d. selektora Italije: Fudbaleri treniraju dva sata, zamislite šta bi postigli kad bi radili kao drugi sportisti",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/v-d-selektora-italije-fudbaleri-treniraju-dva-sata-zamislite-sta-bi-postigli-kad-bi-radili-kao-drugi-sportisti/545740",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 06. 2026. у 22:26",
+      "datum": "7. 06. 2026. у 12:41",
       "slika": null
     },
     {
-      "naslov": "Za ovaj novac, moraće da stvara magiju: Brajton dao 30.000.000 za igrača sa 18 seniorskih nastupa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/za-ovaj-novac-morace-da-stvara-magiju-brajton-dao-30000000-za-igraca-sa-18-seniorskih-nastupa/545698",
+      "naslov": "Posao se privodi kraju: Loizu zbog Zvezde napustio reprezentaciju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/posao-se-privodi-kraju-loizu-zbog-zvezde-napustio-reprezentaciju/545731",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 06. 2026. у 21:53",
+      "datum": "7. 06. 2026. у 11:07",
       "slika": null
     },
     {
-      "naslov": "Rekordna kupovina doktora za pametno poslovanje: Sinonim za racionalnost bacio kocku na Gambijca",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rekordna-kupovina-doktora-za-pametno-poslovanje-sinonim-za-racionalnost-bacio-kocku-na-gambijca/545694",
+      "naslov": "Neće biti da su samo 'Džeko i deca', ovaj tim ima j..... karakter",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nece-biti-da-su-samo-dzeko-i-deca-ovaj-tim-ima-j-karakter/545703",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 06. 2026. у 20:49",
+      "datum": "7. 06. 2026. у 10:06",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Argentine bolji od Hondurasa, Mesi ostao na klupi",
+      "url": "https://www.tanjug.rs/sport/fudbal/257456/fudbaleri-argentine-bolji-od-hondurasa-mesi-ostao-na-klupi/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 06. 2026. у 09:25",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Brazila savladali Egipat u prijateljskom meču pred start Mundijala",
+      "url": "https://www.tanjug.rs/sport/fudbal/257454/fudbaleri-brazila-savladali-egipat-u-prijateljskom-mecu-pred-start-mundijala/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 06. 2026. у 09:13",
       "slika": null
     },
     {
@@ -46,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Paragvaja Hulio Ensiso propušta prva dva meča na Svetskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/257332/fudbaler-paragvaja-hulio-ensiso-propusta-prva-dva-meca-na-svetskom-prvenstvu/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 06. 2026. у 10:58",
+      "naslov": "Zvezda blizu pojačanja u Turskoj",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239850/dris-kamara-stize-na-marakanu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 06. 2026. у 09:20",
       "slika": null
     },
     {
@@ -57,27 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239819/fedja-dudic-se-vraca-u-radnicki-1923/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "6. 06. 2026. у 22:56",
-      "slika": null
-    },
-    {
-      "naslov": "Jedni kažu dolazi, drugi kažu nije sigurno, a odjednom imamo i detalje ugovora Ilića i Partizana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239816/sasa-ilic-ugovor-na-dve-godine-sa-fk-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 06. 2026. у 22:26",
-      "slika": null
-    },
-    {
-      "naslov": "Adem Avdić teško povredio koleno!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/239794/adem-avdic-se-povredio-ceka-se-snimak-kolena/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 06. 2026. у 20:02",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalerke Srbije poražene na gostovanju Italiji u kvalifikacijama za Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/257288/fudbalerke-srbije-porazene-na-gostovanju-italiji-u-kvalifikacijama-za-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 06. 2026. у 21:32",
       "slika": null
     }
   ]
