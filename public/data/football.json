@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-07T19:58:50.800533+00:00",
-  "azurirano_sr": "7. 06. 2026. у 21:58",
+  "azurirano": "2026-06-07T21:11:50.906367+00:00",
+  "azurirano_sr": "7. 06. 2026. у 23:11",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Hrvatske u 93. minutu do pobede protiv Slovenije pred put na Mundijal",
+      "url": "https://www.tanjug.rs/sport/fudbal/257554/fudbaleri-hrvatske-u-93-minutu-do-pobede-protiv-slovenije-pred-put-na-mundijal/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 06. 2026. у 22:48",
+      "slika": null
+    },
+    {
       "naslov": "Kristijan Eriksen ponovo izgubio svest na terenu, prekinut meč Danska - Ukrajina",
       "url": "https://www.tanjug.rs/sport/fudbal/257543/kristijan-eriksen-ponovo-izgubio-svest-na-terenu-prekinut-mec-danska-ukrajina/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/257454/fudbaleri-brazila-savladali-egipat-u-prijateljskom-mecu-pred-start-mundijala/vest",
       "izvor": "Танјуг",
       "datum": "7. 06. 2026. у 09:13",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri BiH remizirali sa Panamom u \"generalci\" pred Mundijal",
-      "url": "https://www.tanjug.rs/sport/fudbal/257435/fudbaleri-bih-remizirali-sa-panamom-u-generalci-pred-mundijal/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 06. 2026. у 22:59",
       "slika": null
     },
     {
