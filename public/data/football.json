@@ -1,10 +1,24 @@
 {
-  "azurirano": "2026-06-08T14:53:09.312037+00:00",
-  "azurirano_sr": "8. 06. 2026. у 16:53",
+  "azurirano": "2026-06-08T17:39:48.785394+00:00",
+  "azurirano_sr": "8. 06. 2026. у 19:39",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Maroko - državna priča: Kralj koji je ustrojio fudbal i čudesan mentalitetski zaokret",
+      "naslov": "Prvi veliki plus u direktorskoj karijeri Danka Lazovića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-veliki-plus-u-direktorskoj-karijeri-danka-lazovica/545837",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 06. 2026. у 20:45",
+      "slika": null
+    },
+    {
+      "naslov": "Neprofesionalno, sramotno: Škoti o'ladili Norvežane pred Mundijal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/neprofesionalno-sramotno-skoti-oladili-norvezane-pred-mundijal/545845",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 06. 2026. у 20:30",
+      "slika": null
+    },
+    {
+      "naslov": "Maroko – državna priča: Kralj koji je ustrojio fudbal i čudesan mentalitetski zaokret",
       "url": "https://www.mozzartsport.com/fudbal/vesti/maroko-drzavna-prica-kralj-koji-je-ustrojio-fudbal-i-cudesan-mentalitetski-zaokret/545751",
       "izvor": "Мозарт Спорт",
       "datum": "8. 06. 2026. у 18:41",
@@ -18,45 +32,31 @@
       "slika": null
     },
     {
-      "naslov": "Ispraćaj Didijea Dešana u Lilu, Zeleno-bela armija specijalan gost",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ispracaj-didijea-desana-u-lilu-zelenobela-armija-specijalan-gost/545816",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 06. 2026. у 15:02",
-      "slika": null
-    },
-    {
-      "naslov": "Najki, Adidas, Puma, Mekdonalds, Brahma... Čija je reklama za Svetsko prvenstvo najbolja? (ANKETA)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najki-adidas-puma-mekdonalds-brahma-cija-je-reklama-za-svetsko-prvenstvo-najbolja-anketa/545815",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 06. 2026. у 14:56",
-      "slika": null
-    },
-    {
-      "naslov": "Tuhel: Belingem mora da se bori za startnu postavu na Svetskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/257708/tuhel-belingem-mora-da-se-bori-za-startnu-postavu-na-svetskom-prvenstvu/vest",
+      "naslov": "Eriksen otpušten iz bolnice: Osećam se dobro, moj oporavak je već počeo",
+      "url": "https://www.tanjug.rs/sport/fudbal/257669/eriksen-otpusten-iz-bolnice-osecam-se-dobro-moj-oporavak-je-vec-poceo/vest",
       "izvor": "Танјуг",
-      "datum": "8. 06. 2026. у 15:17",
+      "datum": "8. 06. 2026. у 18:56",
       "slika": null
     },
     {
-      "naslov": "Saša Ilić novi trener fudbalera Partizana",
-      "url": "https://www.tanjug.rs/sport/fudbal/257694/sasa-ilic-novi-trener-fudbalera-partizana/vest",
+      "naslov": "Reprezentativac Meksika Raul Himenez napušta Fulam po isteku ugovora",
+      "url": "https://www.tanjug.rs/sport/fudbal/257758/reprezentativac-meksika-raul-himenez-napusta-fulam-po-isteku-ugovora/vest",
       "izvor": "Танјуг",
-      "datum": "8. 06. 2026. у 15:07",
+      "datum": "8. 06. 2026. у 18:00",
       "slika": null
     },
     {
-      "naslov": "De la Fuente: Očekujem da Jamal, Vilijams i Munjoz budu spremni za prvi meč na Svetskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/257676/de-la-fuente-ocekujem-da-jamal-vilijams-i-munjoz-budu-spremni-za-prvi-mec-na-svetskom-prvenstvu/vest",
+      "naslov": "Ukrajinski fudbaler Vitalij Mikolenko produžio ugovor sa Evertonom",
+      "url": "https://www.tanjug.rs/sport/fudbal/257754/ukrajinski-fudbaler-vitalij-mikolenko-produzio-ugovor-sa-evertonom/vest",
       "izvor": "Танјуг",
-      "datum": "8. 06. 2026. у 13:49",
+      "datum": "8. 06. 2026. у 17:35",
       "slika": null
     },
     {
-      "naslov": "Lekar danske reprezentacije: Eriksen je dobro, uskoro izlazi iz bolnice",
-      "url": "https://www.tanjug.rs/sport/fudbal/257669/lekar-danske-reprezentacije-eriksen-je-dobro-uskoro-izlazi-iz-bolnice/vest",
+      "naslov": "Belgijski fudbaler Divok Origi završio igračku karijeru",
+      "url": "https://www.tanjug.rs/sport/fudbal/257745/belgijski-fudbaler-divok-origi-zavrsio-igracku-karijeru/vest",
       "izvor": "Танјуг",
-      "datum": "8. 06. 2026. у 13:28",
+      "datum": "8. 06. 2026. у 17:25",
       "slika": null
     },
     {
