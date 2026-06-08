@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-08T01:40:55.676000+00:00",
-  "azurirano_sr": "8. 06. 2026. у 03:40",
+  "azurirano": "2026-06-08T06:22:49.380001+00:00",
+  "azurirano_sr": "8. 06. 2026. у 08:22",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Florentino Perez ubedljivo pobedio na izborima i ostaje predsednik Real Madrida do 2030. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/257569/florentino-perez-ubedljivo-pobedio-na-izborima-i-ostaje-predsednik-real-madrida-do-2030-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 06. 2026. у 07:15",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Hrvatske u 93. minutu do pobede protiv Slovenije pred put na Mundijal",
       "url": "https://www.tanjug.rs/sport/fudbal/257554/fudbaleri-hrvatske-u-93-minutu-do-pobede-protiv-slovenije-pred-put-na-mundijal/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/257456/fudbaleri-argentine-bolji-od-hondurasa-mesi-ostao-na-klupi/vest",
       "izvor": "Танјуг",
       "datum": "7. 06. 2026. у 09:25",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Brazila savladali Egipat u prijateljskom meču pred start Mundijala",
-      "url": "https://www.tanjug.rs/sport/fudbal/257454/fudbaleri-brazila-savladali-egipat-u-prijateljskom-mecu-pred-start-mundijala/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 06. 2026. у 09:13",
       "slika": null
     },
     {
