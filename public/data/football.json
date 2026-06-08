@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-08T11:22:56.884583+00:00",
-  "azurirano_sr": "8. 06. 2026. у 13:22",
+  "azurirano": "2026-06-08T14:53:09.312037+00:00",
+  "azurirano_sr": "8. 06. 2026. у 16:53",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Maroko - državna priča: Kralj koji je ustrojio fudbal i čudesan mentalitetski zaokret",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/maroko-drzavna-prica-kralj-koji-je-ustrojio-fudbal-i-cudesan-mentalitetski-zaokret/545751",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 06. 2026. у 18:41",
+      "slika": null
+    },
+    {
+      "naslov": "Gazda Akrona predstavio Blagojevića: Sposoban trener sa progresivnim, modernim pristupom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gazda-akrona-predstavio-blagojevica-sposoban-trener-sa-progresivnim-modernim-pristupom/545828",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 06. 2026. у 18:03",
+      "slika": null
+    },
     {
       "naslov": "Ispraćaj Didijea Dešana u Lilu, Zeleno-bela armija specijalan gost",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ispracaj-didijea-desana-u-lilu-zelenobela-armija-specijalan-gost/545816",
@@ -18,59 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Raport sa srpskoligaških terena: Naftagasu bride obrazi, Piroćanci odlučuju ko ispada na Istoku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-naftagasu-bride-obrazi-pirocanci-odlucuju-ko-ispada-na-istoku/545797",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 06. 2026. у 11:19",
-      "slika": null
-    },
-    {
-      "naslov": "Gotovo je: Balov izabrao Zvezdu, stiže do kraja sedmice",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gotovo-je-balov-izabrao-zvezdu-stize-do-kraja-sedmice/545795",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 06. 2026. у 11:10",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan sporazumno raskinuo ugovor sa trenerom Srđanom Blagojevićem",
-      "url": "https://www.tanjug.rs/sport/fudbal/257649/partizan-sporazumno-raskinuo-ugovor-sa-trenerom-srdanom-blagojevicem/vest",
+      "naslov": "Tuhel: Belingem mora da se bori za startnu postavu na Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/257708/tuhel-belingem-mora-da-se-bori-za-startnu-postavu-na-svetskom-prvenstvu/vest",
       "izvor": "Танјуг",
-      "datum": "8. 06. 2026. у 12:16",
+      "datum": "8. 06. 2026. у 15:17",
       "slika": null
     },
     {
-      "naslov": "Florentino Perez ubedljivo pobedio na izborima i ostaje predsednik Real Madrida do 2030. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/257569/florentino-perez-ubedljivo-pobedio-na-izborima-i-ostaje-predsednik-real-madrida-do-2030-godine/vest",
+      "naslov": "Saša Ilić novi trener fudbalera Partizana",
+      "url": "https://www.tanjug.rs/sport/fudbal/257694/sasa-ilic-novi-trener-fudbalera-partizana/vest",
       "izvor": "Танјуг",
-      "datum": "8. 06. 2026. у 07:15",
+      "datum": "8. 06. 2026. у 15:07",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Hrvatske u 93. minutu do pobede protiv Slovenije pred put na Mundijal",
-      "url": "https://www.tanjug.rs/sport/fudbal/257554/fudbaleri-hrvatske-u-93-minutu-do-pobede-protiv-slovenije-pred-put-na-mundijal/vest",
+      "naslov": "De la Fuente: Očekujem da Jamal, Vilijams i Munjoz budu spremni za prvi meč na Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/257676/de-la-fuente-ocekujem-da-jamal-vilijams-i-munjoz-budu-spremni-za-prvi-mec-na-svetskom-prvenstvu/vest",
       "izvor": "Танјуг",
-      "datum": "7. 06. 2026. у 22:48",
+      "datum": "8. 06. 2026. у 13:49",
       "slika": null
     },
     {
-      "naslov": "Kristijan Eriksen ponovo izgubio svest na terenu, prekinut meč Danska - Ukrajina",
-      "url": "https://www.tanjug.rs/sport/fudbal/257543/kristijan-eriksen-ponovo-izgubio-svest-na-terenu-prekinut-mec-danska-ukrajina/vest",
+      "naslov": "Lekar danske reprezentacije: Eriksen je dobro, uskoro izlazi iz bolnice",
+      "url": "https://www.tanjug.rs/sport/fudbal/257669/lekar-danske-reprezentacije-eriksen-je-dobro-uskoro-izlazi-iz-bolnice/vest",
       "izvor": "Танјуг",
-      "datum": "7. 06. 2026. у 20:49",
+      "datum": "8. 06. 2026. у 13:28",
       "slika": null
     },
     {
-      "naslov": "Oproštajne reči Blagojevića: &quot;Odlazim miran, a vreme će pokazati&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240158/srdjan-blagojevic-oprostajna-izjava-po-odlasku-iz-partizana/vest",
+      "naslov": "Bivši fudbaler Partizana dobija srpski pasoš",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240109/frenk-kanute-dobija-srpski-pasos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "8. 06. 2026. у 12:36",
+      "datum": "8. 06. 2026. у 14:51",
       "slika": null
     },
     {
-      "naslov": "Blagojević napustio Humsku – Partizanu umesto milion, 150.000 evra!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240136/srdjan-blagojevic-napustio-fk-partizan/vest",
+      "naslov": "Zvanično – Saša Ilić novi trener Partizana!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240204/sasa-ilic-zvanicno-novi-trener-fk-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "8. 06. 2026. у 11:30",
+      "datum": "8. 06. 2026. у 14:27",
       "slika": null
     }
   ]
