@@ -1,13 +1,27 @@
 {
-  "azurirano": "2026-06-09T10:10:35.385306+00:00",
-  "azurirano_sr": "9. 06. 2026. у 12:10",
+  "azurirano": "2026-06-09T12:49:59.549271+00:00",
+  "azurirano_sr": "9. 06. 2026. у 14:49",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "UŽIVO: Promocija Saše Ilića u Humskoj",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-promocija-sase-ilica-u-humskoj/545894",
+      "naslov": "U Senegalu odahnuli, Kulibali i Gej se vraćaju na teren",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/u-senegalu-odahnuli-kulibali-i-gej-se-vracaju-na-teren/545903",
       "izvor": "Мозарт Спорт",
-      "datum": "9. 06. 2026. у 13:46",
+      "datum": "9. 06. 2026. у 15:27",
+      "slika": null
+    },
+    {
+      "naslov": "Saša Ilić okupio više novinara nego Lotar Mateus: U Partizanu se prosek ne trpi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sasa-ilic-okupio-vise-novinara-nego-lotar-mateus-u-partizanu-se-prosek-ne-trpi/545899",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 06. 2026. у 14:40",
+      "slika": null
+    },
+    {
+      "naslov": "DR Kongo umesto u Španiji, sa Čileom igra u Francuskoj",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dr-kongo-umesto-u-spaniji-sa-cileom-igra-u-francuskoj/545897",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 06. 2026. у 14:35",
       "slika": null
     },
     {
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Artetin detektiv prikupio dokaze: Neočekivan otkaz u Arsenalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/artetin-detektiv-prikupio-dokaze-neocekivan-otkaz-u-arsenalu/545886",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 06. 2026. у 12:34",
-      "slika": null
-    },
-    {
-      "naslov": "Florentinovih 150.000.000 evra ide na adresu Atletiko Madrida!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/florentinovih-150000000-evra-ide-na-adresu-atletiko-madrida/545887",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 06. 2026. у 12:33",
+      "naslov": "Ilić: Ponosan sam što ću biti trener Partizana, spreman sam za ono što me čeka",
+      "url": "https://www.tanjug.rs/sport/fudbal/257919/ilic-ponosan-sam-sto-cu-biti-trener-partizana-spreman-sam-za-ono-sto-me-ceka/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 06. 2026. у 12:15",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "FIFA potvrdila: Somalijskom sudiji Omaru Artanu zabranjen ulazak u SAD na Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/257861/fifa-potvrdila-somalijskom-sudiji-omaru-artanu-zabranjen-ulazak-u-sad-na-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 06. 2026. у 10:03",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan predstavio Sašu Ilića: &quot;Spreman sam&quot;",
+      "naslov": "&quot;Spreman sam&quot; – Saša Ilić trener Partizana VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240453/uzivo-sasa-ilic-je-novi-trener-partizana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 06. 2026. у 12:03",
+      "datum": "9. 06. 2026. у 12:38",
       "slika": null
     },
     {
-      "naslov": "Barak Bahar pronašao pojačanje na Marakani",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240429/barak-bahar-pronasao-pojacanje-na-marakani/vest",
+      "naslov": "Zvezda ima novo pojačanje – dogovor pao u ponoć!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240474/kristijan-balov-novi-fudbaler-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 06. 2026. у 11:25",
+      "datum": "9. 06. 2026. у 12:26",
       "slika": null
     }
   ]
