@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-09T17:46:57.112438+00:00",
-  "azurirano_sr": "9. 06. 2026. у 19:46",
+  "azurirano": "2026-06-09T19:49:20.868104+00:00",
+  "azurirano_sr": "9. 06. 2026. у 21:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dok čekaju Feđu Dudića, Kragujevčani doveli dvojicu igrača: Miletić i Nikčević na Čika Dači",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dok-cekaju-feu-dudica-kragujevcani-doveli-dvojicu-igraca-miletic-i-nikcevic-na-cika-daci/545938",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 06. 2026. у 23:16",
+      "slika": null
+    },
     {
       "naslov": "Čam prvo pojačanje Zvezde: Razgovori sa Marinom i Arnautovićem jedan od razloga što sam došao",
       "url": "https://www.mozzartsport.com/fudbal/vesti/cam-prvo-pojacanje-zvezde-razgovori-sa-marinom-i-arnautovicem-jedan-od-razloga-sto-sam-dosao/545927",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Saša Ilić okupio više novinara nego Lotar Mateus: U Partizanu se prosek ne trpi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sasa-ilic-okupio-vise-novinara-nego-lotar-mateus-u-partizanu-se-prosek-ne-trpi/545899",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 06. 2026. у 14:40",
+      "naslov": "Fudbalska reprezentacija Irana moći će da doputuje u SAD dan pre odigravanja utakmica",
+      "url": "https://www.tanjug.rs/sport/fudbal/258070/fudbalska-reprezentacija-irana-moci-ce-da-doputuje-u-sad-dan-pre-odigravanja-utakmica/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 06. 2026. у 20:10",
+      "slika": null
+    },
+    {
+      "naslov": "Atletiko Madrid odbio ponudu Reala od 150 miliona evra za Hulijana Alvareza",
+      "url": "https://www.tanjug.rs/sport/fudbal/258069/atletiko-madrid-odbio-ponudu-reala-od-150-miliona-evra-za-hulijana-alvareza/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 06. 2026. у 20:05",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Evrokup u košarci od sledeće sezone sa 32 ekipe, promena sistema takmičenja",
-      "url": "https://www.tanjug.rs/sport/fudbal/258054/evrokup-u-kosarci-od-sledece-sezone-sa-32-ekipe-promena-sistema-takmicenja/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 06. 2026. у 18:30",
-      "slika": null
-    },
-    {
-      "naslov": "Ilić: Ponosan sam što ću biti trener Partizana, spreman sam za ono što me čeka",
-      "url": "https://www.tanjug.rs/sport/fudbal/257919/ilic-ponosan-sam-sto-cu-biti-trener-partizana-spreman-sam-za-ono-sto-me-ceka/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 06. 2026. у 12:15",
-      "slika": null
-    },
-    {
-      "naslov": "Novi poraz omladinaca Srbije – ništa od EURO, ispali u niži rang",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240610/u19-srbija-izgubila-od-portugala-ne-ide-na-evropsko-prvenstvo/vest",
+      "naslov": "Težak poraz Srbije – do SP kroz dva kruga baraža",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240645/fudbalerke-srbije-porazene-od-danske-u-ligi-nacija-14/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 06. 2026. у 18:56",
+      "datum": "9. 06. 2026. у 21:12",
       "slika": null
     },
     {
-      "naslov": "Prvi utisci Zvezdinog pojačanja: &quot;Savršen trenutak za ovaj korak&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240604/muhamed-cam-prva-izjava-po-dolasku-u-crvenu-zvezdu/vest",
+      "naslov": "Dva velika posla Voše – milionsko obeštećenje plus bivši reprezentativac na pozajmici",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240637/ifet-djakovac-i-stefan-mitrovic-pred-potpisom-za-vojvodinu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 06. 2026. у 18:25",
+      "datum": "9. 06. 2026. у 21:00",
       "slika": null
     }
   ]
