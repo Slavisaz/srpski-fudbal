@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-09T15:45:59.106278+00:00",
-  "azurirano_sr": "9. 06. 2026. у 17:45",
+  "azurirano": "2026-06-09T17:46:57.112438+00:00",
+  "azurirano_sr": "9. 06. 2026. у 19:46",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Čam prvo pojačanje Zvezde: Razgovori sa Marinom i Arnautovićem jedan od razloga što sam došao",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cam-prvo-pojacanje-zvezde-razgovori-sa-marinom-i-arnautovicem-jedan-od-razloga-sto-sam-dosao/545927",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 06. 2026. у 20:06",
+      "slika": null
+    },
     {
       "naslov": "Marko Nikolić dobio pojačanja u stručnom štabu - Nemanja Rnić i Milija Žižić",
       "url": "https://www.mozzartsport.com/fudbal/vesti/marko-nikolic-dobio-pojacanja-u-strucnom-stabu-nemanja-rnic-i-milija-zizic/545919",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "DR Kongo umesto u Španiji, sa Čileom igra u Francuskoj",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dr-kongo-umesto-u-spaniji-sa-cileom-igra-u-francuskoj/545897",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 06. 2026. у 14:35",
+      "naslov": "Omladinci Srbije bez nastavka kvalifikacija za Evropsko prvenstvo 2027. godine u fudbalu",
+      "url": "https://www.tanjug.rs/sport/fudbal/258065/omladinci-srbije-bez-nastavka-kvalifikacija-za-evropsko-prvenstvo-2027-godine-u-fudbalu/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 06. 2026. у 19:12",
+      "slika": null
+    },
+    {
+      "naslov": "Austrijski fudbaler Muhamed Čam prešao na pozajmicu u Crvenu zvezdu",
+      "url": "https://www.tanjug.rs/sport/fudbal/258056/austrijski-fudbaler-muhamed-cam-presao-na-pozajmicu-u-crvenu-zvezdu/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 06. 2026. у 18:32",
+      "slika": null
+    },
+    {
+      "naslov": "Evrokup u košarci od sledeće sezone sa 32 ekipe, promena sistema takmičenja",
+      "url": "https://www.tanjug.rs/sport/fudbal/258054/evrokup-u-kosarci-od-sledece-sezone-sa-32-ekipe-promena-sistema-takmicenja/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 06. 2026. у 18:30",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Švedski fudbaler Isak Lidberg potpisao ugovor sa Borusijom iz Menhengladbaha",
-      "url": "https://www.tanjug.rs/sport/fudbal/257895/svedski-fudbaler-isak-lidberg-potpisao-ugovor-sa-borusijom-iz-menhengladbaha/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 06. 2026. у 11:21",
-      "slika": null
-    },
-    {
-      "naslov": "FIFA: Fakundo Teljo sudi meč Kanada - BiH, a Dani Makeli duel SAD - Paragvaj na Svetskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/257879/fifa-fakundo-teljo-sudi-mec-kanada-bih-a-dani-makeli-duel-sad-paragvaj-na-svetskom-prvenstvu/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 06. 2026. у 10:54",
-      "slika": null
-    },
-    {
-      "naslov": "Brazilac Vilton Sampajo sudi meč Meksiko - Južna Afrika na otvaranju Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/257866/brazilac-vilton-sampajo-sudi-mec-meksiko-juzna-afrika-na-otvaranju-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 06. 2026. у 10:22",
-      "slika": null
-    },
-    {
-      "naslov": "Bivši igrač Zvezde odsekao sebi dva prsta",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240582/vinko-marinovic-odsekao-sebi-dva-prsta/vest",
+      "naslov": "Novi poraz omladinaca Srbije – ništa od EURO, ispali u niži rang",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240610/u19-srbija-izgubila-od-portugala-ne-ide-na-evropsko-prvenstvo/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 06. 2026. у 17:00",
+      "datum": "9. 06. 2026. у 18:56",
       "slika": null
     },
     {
-      "naslov": "Prvo pojačanje Blagojevića – napadač kog je Zvezda želela",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240571/srdjan-blagojevic-dovodi-slobodana-tedica-iz-cukarickog-u-akron/vest",
+      "naslov": "Prvi utisci Zvezdinog pojačanja: &quot;Savršen trenutak za ovaj korak&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240604/muhamed-cam-prva-izjava-po-dolasku-u-crvenu-zvezdu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 06. 2026. у 16:30",
+      "datum": "9. 06. 2026. у 18:25",
       "slika": null
     }
   ]
