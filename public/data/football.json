@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-09T12:49:59.549271+00:00",
-  "azurirano_sr": "9. 06. 2026. у 14:49",
+  "azurirano": "2026-06-09T15:45:59.106278+00:00",
+  "azurirano_sr": "9. 06. 2026. у 17:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Marko Nikolić dobio pojačanja u stručnom štabu - Nemanja Rnić i Milija Žižić",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/marko-nikolic-dobio-pojacanja-u-strucnom-stabu-nemanja-rnic-i-milija-zizic/545919",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 06. 2026. у 17:21",
+      "slika": null
+    },
     {
       "naslov": "U Senegalu odahnuli, Kulibali i Gej se vraćaju na teren",
       "url": "https://www.mozzartsport.com/fudbal/vesti/u-senegalu-odahnuli-kulibali-i-gej-se-vracaju-na-teren/545903",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/dr-kongo-umesto-u-spaniji-sa-cileom-igra-u-francuskoj/545897",
       "izvor": "Мозарт Спорт",
       "datum": "9. 06. 2026. у 14:35",
-      "slika": null
-    },
-    {
-      "naslov": "Šta kažu bivši i sadašnji srpski fudbaleri, ko osvaja Mundijal, a ko će da iznenadi?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sta-kazu-bivsi-i-sadasnji-srpski-fudbaleri-ko-osvaja-mundijal-a-ko-ce-da-iznenadi/545889",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 06. 2026. у 13:30",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "&quot;Spreman sam&quot; – Saša Ilić trener Partizana VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240453/uzivo-sasa-ilic-je-novi-trener-partizana/vest",
+      "naslov": "Bivši igrač Zvezde odsekao sebi dva prsta",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240582/vinko-marinovic-odsekao-sebi-dva-prsta/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 06. 2026. у 12:38",
+      "datum": "9. 06. 2026. у 17:00",
       "slika": null
     },
     {
-      "naslov": "Zvezda ima novo pojačanje – dogovor pao u ponoć!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240474/kristijan-balov-novi-fudbaler-crvene-zvezde/vest",
+      "naslov": "Prvo pojačanje Blagojevića – napadač kog je Zvezda želela",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240571/srdjan-blagojevic-dovodi-slobodana-tedica-iz-cukarickog-u-akron/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 06. 2026. у 12:26",
+      "datum": "9. 06. 2026. у 16:30",
       "slika": null
     }
   ]
