@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-09T19:49:20.868104+00:00",
-  "azurirano_sr": "9. 06. 2026. у 21:49",
+  "azurirano": "2026-06-09T21:25:05.632202+00:00",
+  "azurirano_sr": "9. 06. 2026. у 23:25",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Mažić: Hrvatska ima kontinuitet i sistem, srpski fudbal pati od kompromisa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mazic-hrvatska-ima-kontinuitet-i-sistem-srpski-fudbal-pati-od-kompromisa/545947",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 06. 2026. у 00:46",
+      "slika": null
+    },
     {
       "naslov": "Dok čekaju Feđu Dudića, Kragujevčani doveli dvojicu igrača: Miletić i Nikčević na Čika Dači",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dok-cekaju-feu-dudica-kragujevcani-doveli-dvojicu-igraca-miletic-i-nikcevic-na-cika-daci/545938",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "U Senegalu odahnuli, Kulibali i Gej se vraćaju na teren",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/u-senegalu-odahnuli-kulibali-i-gej-se-vracaju-na-teren/545903",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 06. 2026. у 15:27",
+      "naslov": "Fudbalerke Srbije poražene od Danske na kraju kvalifikacija za Svetsko prvenstvo, sledi baraž",
+      "url": "https://www.tanjug.rs/sport/fudbal/258085/fudbalerke-srbije-porazene-od-danske-na-kraju-kvalifikacija-za-svetsko-prvenstvo-sledi-baraz/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 06. 2026. у 21:22",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Austrijski fudbaler Muhamed Čam prešao na pozajmicu u Crvenu zvezdu",
-      "url": "https://www.tanjug.rs/sport/fudbal/258056/austrijski-fudbaler-muhamed-cam-presao-na-pozajmicu-u-crvenu-zvezdu/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 06. 2026. у 18:32",
+      "naslov": "Zvezda završila novi višemilionski transfer!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240652/loizos-loizu-na-pragu-crvene-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 06. 2026. у 21:55",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240645/fudbalerke-srbije-porazene-od-danske-u-ligi-nacija-14/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "9. 06. 2026. у 21:12",
-      "slika": null
-    },
-    {
-      "naslov": "Dva velika posla Voše – milionsko obeštećenje plus bivši reprezentativac na pozajmici",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240637/ifet-djakovac-i-stefan-mitrovic-pred-potpisom-za-vojvodinu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "9. 06. 2026. у 21:00",
       "slika": null
     }
   ]
