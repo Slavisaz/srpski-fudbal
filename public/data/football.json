@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-10T04:39:45.918477+00:00",
-  "azurirano_sr": "10. 06. 2026. у 06:39",
+  "azurirano": "2026-06-10T08:34:13.703068+00:00",
+  "azurirano_sr": "10. 06. 2026. у 10:34",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "U srcu Meksiko Sitija... pod šatorima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/u-srcu-meksiko-sitija-pod-satorima/545964",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 06. 2026. у 10:52",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET (-), sreda, 1.136.880 dinara: Bogovi fudbala nisu krunisali novog MOZZART milonera",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-sreda-1136880-dinara-bogovi-fudbala-nisu-krunisali-novog-mozzart-milonera/545965",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 06. 2026. у 10:51",
+      "slika": null
+    },
     {
       "naslov": "Rusi opet zovu Partizan i OFK na Bratski kup, stiže i Botafogo",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rusi-opet-zovu-partizan-i-ofk-na-bratski-kup-stize-i-botafogo/545954",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Mažić: Hrvatska ima kontinuitet i sistem, srpski fudbal pati od kompromisa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mazic-hrvatska-ima-kontinuitet-i-sistem-srpski-fudbal-pati-od-kompromisa/545947",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 06. 2026. у 00:46",
+      "naslov": "Žoze Murinjo prelazi u Real Madrid, Marko Silva novi trener fudbalera Benfike",
+      "url": "https://www.tanjug.rs/sport/fudbal/258148/zoze-murinjo-prelazi-u-real-madrid-marko-silva-novi-trener-fudbalera-benfike/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 06. 2026. у 10:03",
       "slika": null
     },
     {
-      "naslov": "Dok čekaju Feđu Dudića, Kragujevčani doveli dvojicu igrača: Miletić i Nikčević na Čika Dači",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dok-cekaju-feu-dudica-kragujevcani-doveli-dvojicu-igraca-miletic-i-nikcevic-na-cika-daci/545938",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 06. 2026. у 23:16",
+      "naslov": "Fudbaleri Argentine savladali Island, Mesi je spreman za Mundijal",
+      "url": "https://www.tanjug.rs/sport/fudbal/258111/fudbaleri-argentine-savladali-island-mesi-je-spreman-za-mundijal/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 06. 2026. у 07:35",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/258070/fudbalska-reprezentacija-irana-moci-ce-da-doputuje-u-sad-dan-pre-odigravanja-utakmica/vest",
       "izvor": "Танјуг",
       "datum": "9. 06. 2026. у 20:10",
-      "slika": null
-    },
-    {
-      "naslov": "Atletiko Madrid odbio ponudu Reala od 150 miliona evra za Hulijana Alvareza",
-      "url": "https://www.tanjug.rs/sport/fudbal/258069/atletiko-madrid-odbio-ponudu-reala-od-150-miliona-evra-za-hulijana-alvareza/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 06. 2026. у 20:05",
-      "slika": null
-    },
-    {
-      "naslov": "Omladinci Srbije bez nastavka kvalifikacija za Evropsko prvenstvo 2027. godine u fudbalu",
-      "url": "https://www.tanjug.rs/sport/fudbal/258065/omladinci-srbije-bez-nastavka-kvalifikacija-za-evropsko-prvenstvo-2027-godine-u-fudbalu/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 06. 2026. у 19:12",
       "slika": null
     },
     {
