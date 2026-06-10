@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-09T22:55:07.463113+00:00",
-  "azurirano_sr": "10. 06. 2026. у 00:55",
+  "azurirano": "2026-06-10T00:03:54.483217+00:00",
+  "azurirano_sr": "10. 06. 2026. у 02:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Rusi opet zovu Partizan i OFK na Bratski kup, stiže i Botafogo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rusi-opet-zovu-partizan-i-ofk-na-bratski-kup-stize-i-botafogo/545954",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 06. 2026. у 03:20",
+      "slika": null
+    },
+    {
+      "naslov": "Udarac za Maroko: Ezalzuli preskače Brazil, možda i ceo Mundijal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/udarac-za-maroko-ezalzuli-preskace-brazil-mozda-i-ceo-mundijal/545952",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 06. 2026. у 02:48",
+      "slika": null
+    },
     {
       "naslov": "Mažić: Hrvatska ima kontinuitet i sistem, srpski fudbal pati od kompromisa",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mazic-hrvatska-ima-kontinuitet-i-sistem-srpski-fudbal-pati-od-kompromisa/545947",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/dok-cekaju-feu-dudica-kragujevcani-doveli-dvojicu-igraca-miletic-i-nikcevic-na-cika-daci/545938",
       "izvor": "Мозарт Спорт",
       "datum": "9. 06. 2026. у 23:16",
-      "slika": null
-    },
-    {
-      "naslov": "Čam prvo pojačanje Zvezde: Razgovori sa Marinom i Arnautovićem jedan od razloga što sam došao",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cam-prvo-pojacanje-zvezde-razgovori-sa-marinom-i-arnautovicem-jedan-od-razloga-sto-sam-dosao/545927",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 06. 2026. у 20:06",
-      "slika": null
-    },
-    {
-      "naslov": "Marko Nikolić dobio pojačanja u stručnom štabu - Nemanja Rnić i Milija Žižić",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/marko-nikolic-dobio-pojacanja-u-strucnom-stabu-nemanja-rnic-i-milija-zizic/545919",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 06. 2026. у 17:21",
       "slika": null
     },
     {
