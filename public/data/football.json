@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-10T19:57:42.626570+00:00",
-  "azurirano_sr": "10. 06. 2026. у 21:57",
+  "azurirano": "2026-06-10T21:56:58.132792+00:00",
+  "azurirano_sr": "10. 06. 2026. у 23:56",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Košarkaši Valensije pobedili Huventud u prvom meču polufinala španske lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/258412/kosarkasi-valensije-pobedili-huventud-u-prvom-mecu-polufinala-spanske-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 06. 2026. у 22:44",
+      "slika": null
+    },
+    {
+      "naslov": "Hoze Bordalas ostaje trener fudbalera Hetafea",
+      "url": "https://www.tanjug.rs/sport/fudbal/258409/hoze-bordalas-ostaje-trener-fudbalera-hetafea/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 06. 2026. у 22:16",
+      "slika": null
+    },
+    {
+      "naslov": "Penjaroja: Ovo je samo jedna pobeda, moramo da se pripremimo za naredni meč",
+      "url": "https://www.tanjug.rs/sport/fudbal/258402/penjaroja-ovo-je-samo-jedna-pobeda-moramo-da-se-pripremimo-za-naredni-mec/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 06. 2026. у 21:50",
+      "slika": null
+    },
+    {
       "naslov": "Srpski fudbaler Stefan Mitrović novo pojačanje Vojvodine",
       "url": "https://www.tanjug.rs/sport/fudbal/258398/srpski-fudbaler-stefan-mitrovic-novo-pojacanje-vojvodine/vest",
       "izvor": "Танјуг",
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Nenad Milijaš zvanično predstavljen kao novi trener fudbalera TSC-a",
-      "url": "https://www.tanjug.rs/sport/fudbal/258389/nenad-milijas-zvanicno-predstavljen-kao-novi-trener-fudbalera-tsc-a/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 06. 2026. у 20:29",
-      "slika": null
-    },
-    {
-      "naslov": "Everton mora da plati Barnliju 35 miliona funti zbog kršenja finansijskih pravila",
-      "url": "https://www.tanjug.rs/sport/fudbal/258386/everton-mora-da-plati-barnliju-35-miliona-funti-zbog-krsenja-finansijskih-pravila/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 06. 2026. у 20:05",
-      "slika": null
-    },
-    {
-      "naslov": "Kiran Mekena nije više menadžer Ipsviča",
-      "url": "https://www.tanjug.rs/sport/fudbal/258374/kiran-mekena-nije-vise-menadzer-ipsvica/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 06. 2026. у 19:38",
-      "slika": null
-    },
-    {
-      "naslov": "Milijaš preuzeo TSC",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240942/nenad-milijas-novi-trener-tsc-a/vest",
+      "naslov": "Istorija u Pančevu – kadeti Železničara ušli u elitni rang",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240953/istorija-u-pancevu-kadeti-zeleznicara-usli-u-elitni-rang/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 06. 2026. у 20:35",
+      "datum": "10. 06. 2026. у 22:45",
       "slika": null
     },
     {
-      "naslov": "Partizan produžio ugovor sa golmanom",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240872/milos-krunic-produzio-ugovor-sa-partizanom-do-2028/vest",
+      "naslov": "Vojvodina se ozbiljno pojačala",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240958/stefan-mitrovic-na-pozajmici-u-vojvodini/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 06. 2026. у 18:35",
+      "datum": "10. 06. 2026. у 22:35",
       "slika": null
     }
   ]
