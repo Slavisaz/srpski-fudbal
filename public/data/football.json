@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-10T14:44:03.735081+00:00",
-  "azurirano_sr": "10. 06. 2026. у 16:44",
+  "azurirano": "2026-06-10T17:44:09.348886+00:00",
+  "azurirano_sr": "10. 06. 2026. у 19:44",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Argentinski fudbaler Markos Senesi novo pojačanje Totenhema",
+      "url": "https://www.tanjug.rs/sport/fudbal/258349/argentinski-fudbaler-markos-senesi-novo-pojacanje-totenhema/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 06. 2026. у 18:23",
+      "slika": null
+    },
+    {
       "naslov": "Kiparski fudbaler Loizos Loizu novo pojačanje Crvene zvezde",
       "url": "https://www.tanjug.rs/sport/fudbal/258303/kiparski-fudbaler-loizos-loizu-novo-pojacanje-crvene-zvezde/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Ilić: Izuzetno naporan posao je pred nama, prosek se ne trpi u Paritzanu",
-      "url": "https://www.tanjug.rs/sport/fudbal/258262/ilic-izuzetno-naporan-posao-je-pred-nama-prosek-se-ne-trpi-u-paritzanu/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 06. 2026. у 14:33",
+      "naslov": "Partizan produžio ugovor sa golmanom",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240872/milos-krunic-produzio-ugovor-sa-partizanom-do-2028/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 06. 2026. у 18:35",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240874/partizan-doveo-aleksa-zekovica-iz-fejenorda/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 06. 2026. у 16:21",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda predstavila drugo pojačanje: &quot;Veliki klub u svetskim okvirima&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240871/loizos-loizu-novi-fudbaler-fk-crvena-zvezda/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 06. 2026. у 16:10",
       "slika": null
     }
   ]
