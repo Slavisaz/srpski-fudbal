@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-10T17:44:09.348886+00:00",
-  "azurirano_sr": "10. 06. 2026. у 19:44",
+  "azurirano": "2026-06-10T19:57:42.626570+00:00",
+  "azurirano_sr": "10. 06. 2026. у 21:57",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Šta kažu bivši i sadašnji stranci Mozzart Bet Super Lige: Ko osvaja Mundijal?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sta-kazu-bivsi-i-sadasnji-stranci-mozzart-bet-super-lige-ko-osvaja-mundijal/546012",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 06. 2026. у 21:38",
+      "slika": null
+    },
     {
       "naslov": "Hvala za sve, ali Barsi treba neko bolji: Rašford odlazi jer su milioni potrebniji za novu devetku",
       "url": "https://www.mozzartsport.com/fudbal/vesti/hvala-za-sve-ali-barsi-treba-neko-bolji-rasford-odlazi-jer-su-milioni-potrebniji-za-novu-devetku/545991",
@@ -25,38 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Dolaze ljudi sa velikim plućima da plaše gospodu! Hvala i Duju iz Lovćenca",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dolaze-ljudi-sa-velikim-plucima-da-plase-gospodu-hvala-i-duju-iz-lovcenca/545584",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 06. 2026. у 13:35",
+      "naslov": "Srpski fudbaler Stefan Mitrović novo pojačanje Vojvodine",
+      "url": "https://www.tanjug.rs/sport/fudbal/258398/srpski-fudbaler-stefan-mitrovic-novo-pojacanje-vojvodine/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 06. 2026. у 21:38",
       "slika": null
     },
     {
-      "naslov": "Argentinski fudbaler Markos Senesi novo pojačanje Totenhema",
-      "url": "https://www.tanjug.rs/sport/fudbal/258349/argentinski-fudbaler-markos-senesi-novo-pojacanje-totenhema/vest",
+      "naslov": "Nenad Milijaš zvanično predstavljen kao novi trener fudbalera TSC-a",
+      "url": "https://www.tanjug.rs/sport/fudbal/258389/nenad-milijas-zvanicno-predstavljen-kao-novi-trener-fudbalera-tsc-a/vest",
       "izvor": "Танјуг",
-      "datum": "10. 06. 2026. у 18:23",
+      "datum": "10. 06. 2026. у 20:29",
       "slika": null
     },
     {
-      "naslov": "Kiparski fudbaler Loizos Loizu novo pojačanje Crvene zvezde",
-      "url": "https://www.tanjug.rs/sport/fudbal/258303/kiparski-fudbaler-loizos-loizu-novo-pojacanje-crvene-zvezde/vest",
+      "naslov": "Everton mora da plati Barnliju 35 miliona funti zbog kršenja finansijskih pravila",
+      "url": "https://www.tanjug.rs/sport/fudbal/258386/everton-mora-da-plati-barnliju-35-miliona-funti-zbog-krsenja-finansijskih-pravila/vest",
       "izvor": "Танјуг",
-      "datum": "10. 06. 2026. у 16:13",
+      "datum": "10. 06. 2026. у 20:05",
       "slika": null
     },
     {
-      "naslov": "FK Barselona ovog leta organizuje prvi kamp za mlade fudbalere u Beogradu",
-      "url": "https://www.tanjug.rs/sport/fudbal/258290/fk-barselona-ovog-leta-organizuje-prvi-kamp-za-mlade-fudbalere-u-beogradu/vest",
+      "naslov": "Kiran Mekena nije više menadžer Ipsviča",
+      "url": "https://www.tanjug.rs/sport/fudbal/258374/kiran-mekena-nije-vise-menadzer-ipsvica/vest",
       "izvor": "Танјуг",
-      "datum": "10. 06. 2026. у 15:33",
+      "datum": "10. 06. 2026. у 19:38",
       "slika": null
     },
     {
-      "naslov": "Ben Dejvis produžio ugovor sa Totenhemom, Iv Bisuma napušta klub",
-      "url": "https://www.tanjug.rs/sport/fudbal/258275/ben-dejvis-produzio-ugovor-sa-totenhemom-iv-bisuma-napusta-klub/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 06. 2026. у 14:53",
+      "naslov": "Milijaš preuzeo TSC",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240942/nenad-milijas-novi-trener-tsc-a/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 06. 2026. у 20:35",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240872/milos-krunic-produzio-ugovor-sa-partizanom-do-2028/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 06. 2026. у 18:35",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Ponovio&quot; se i Partizan – stigao veznjak iz Fejenorda",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/240874/partizan-doveo-aleksa-zekovica-iz-fejenorda/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 06. 2026. у 16:21",
       "slika": null
     }
   ]
