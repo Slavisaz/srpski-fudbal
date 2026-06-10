@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-10T21:56:58.132792+00:00",
-  "azurirano_sr": "10. 06. 2026. у 23:56",
+  "azurirano": "2026-06-10T23:21:05.652096+00:00",
+  "azurirano_sr": "11. 06. 2026. у 01:21",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Rezzime dana (sreda): Portugalci pobedom otišli na Mundijal, KuPS bezuspešno dominirao",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-sreda-portugalci-pobedom-otisli-na-mundijal-kups-bezuspesno-dominirao/546031",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 06. 2026. у 01:43",
+      "slika": null
+    },
     {
       "naslov": "Šta kažu bivši i sadašnji stranci Mozzart Bet Super Lige: Ko osvaja Mundijal?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sta-kazu-bivsi-i-sadasnji-stranci-mozzart-bet-super-lige-ko-osvaja-mundijal/546012",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/od-drogbinog-zaveta-miru-do-nove-zveri-fudbala-slonovi-stizu-da-naplate-sve-dugove-istorije/545615",
       "izvor": "Мозарт Спорт",
       "datum": "10. 06. 2026. у 15:36",
-      "slika": null
-    },
-    {
-      "naslov": "Sa Brazilcima o tome gde je nestao onaj Brazil: Igor Tijago? Ko? Šta?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sa-brazilcima-o-tome-gde-je-nestao-onaj-brazil-igor-tijago-ko-sta/545982",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 06. 2026. у 14:49",
       "slika": null
     },
     {
