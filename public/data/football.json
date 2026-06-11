@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-06-11T06:25:10.290826+00:00",
-  "azurirano_sr": "11. 06. 2026. у 08:25",
+  "azurirano": "2026-06-11T11:04:06.510078+00:00",
+  "azurirano_sr": "11. 06. 2026. у 13:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Definitivno: Srbija se za Ligu nacija vraća u Beograd",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/definitivno-srbija-se-za-ligu-nacija-vraca-u-beograd/546071",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 06. 2026. у 13:04",
+      "slika": null
+    },
+    {
+      "naslov": "Poslednja stvar koja nas ujedinjuje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/poslednja-stvar-koja-nas-ujedinjuje/546056",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 06. 2026. у 11:47",
+      "slika": null
+    },
+    {
+      "naslov": "Televisa presenta: Kraljica Mundijala večeras čeka drevne bogove da siđu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/televisa-presenta-kraljica-mundijala-veceras-ceka-drevne-bogove-da-siu/546051",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 06. 2026. у 10:41",
+      "slika": null
+    },
     {
       "naslov": "Rezzime dana (sreda): Portugalci pobedom otišli na Mundijal, KuPS bezuspešno dominirao",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-sreda-portugalci-pobedom-otisli-na-mundijal-kups-bezuspesno-dominirao/546031",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Šta kažu bivši i sadašnji stranci Mozzart Bet Super Lige: Ko osvaja Mundijal?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sta-kazu-bivsi-i-sadasnji-stranci-mozzart-bet-super-lige-ko-osvaja-mundijal/546012",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 06. 2026. у 21:38",
-      "slika": null
-    },
-    {
-      "naslov": "Hvala za sve, ali Barsi treba neko bolji: Rašford odlazi jer su milioni potrebniji za novu devetku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/hvala-za-sve-ali-barsi-treba-neko-bolji-rasford-odlazi-jer-su-milioni-potrebniji-za-novu-devetku/545991",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 06. 2026. у 16:58",
-      "slika": null
-    },
-    {
-      "naslov": "Od Drogbinog zaveta miru do nove zveri fudbala: Slonovi stižu da naplate sve dugove istorije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/od-drogbinog-zaveta-miru-do-nove-zveri-fudbala-slonovi-stizu-da-naplate-sve-dugove-istorije/545615",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 06. 2026. у 15:36",
+      "naslov": "Fudbaleri Engleske savladali Kostariku u pripremnoj utakmici za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/258468/fudbaleri-engleske-savladali-kostariku-u-pripremnoj-utakmici-za-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 06. 2026. у 10:24",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/258402/penjaroja-ovo-je-samo-jedna-pobeda-moramo-da-se-pripremimo-za-naredni-mec/vest",
       "izvor": "Танјуг",
       "datum": "10. 06. 2026. у 21:50",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Stefan Mitrović novo pojačanje Vojvodine",
-      "url": "https://www.tanjug.rs/sport/fudbal/258398/srpski-fudbaler-stefan-mitrovic-novo-pojacanje-vojvodine/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 06. 2026. у 21:38",
       "slika": null
     },
     {
