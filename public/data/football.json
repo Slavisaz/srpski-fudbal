@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-11T20:14:43.857543+00:00",
-  "azurirano_sr": "11. 06. 2026. у 22:14",
+  "azurirano": "2026-06-11T22:16:11.455247+00:00",
+  "azurirano_sr": "12. 06. 2026. у 00:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Pesma marijačija na kolumbijskom kofeinu: Krenula najveća svetkovina fudbala, slavi mitska Asteka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pesma-marijacija-na-kolumbijskom-kofeinu-krenula-najveca-svetkovina-fudbala-slavi-mitska-asteka/546130",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 06. 2026. у 01:04",
+      "slika": null
+    },
     {
       "naslov": "Romantično-bombastičan transfer u Cvajti: Kotbus sa Leom napada Bundesligu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/romanticnobombastican-transfer-u-cvajti-kotbus-sa-leom-napada-bundesligu/546118",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Insajder iz Španije o Liju, Serlotu, Kukurelji... Hulijan ne sme da prizna javno koliko želi u Barsu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/insajder-iz-spanije-o-liju-serlotu-kukurelji-hulijan-ne-sme-da-prizna-javno-koliko-zeli-u-barsu/546115",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 06. 2026. у 20:31",
+      "naslov": "Srpski fudbaler Nemanja Gudelj napušta Sevilju po isteku ugovora",
+      "url": "https://www.tanjug.rs/sport/fudbal/258719/srpski-fudbaler-nemanja-gudelj-napusta-sevilju-po-isteku-ugovora/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 06. 2026. у 22:24",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "U Meksiko Sitiju svečano otvoreno Svetsko prvenstvo u fudbalu",
-      "url": "https://www.tanjug.rs/sport/fudbal/258693/u-meksiko-sitiju-svecano-otvoreno-svetsko-prvenstvo-u-fudbalu/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 06. 2026. у 20:58",
+      "naslov": "Avdić uspešno operisan FOTO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241262/operisan-adem-avdic/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "11. 06. 2026. у 23:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241249/sasa-ilic-obavio-prozivku-crno-beli-u-beogradu-do-27-juna/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "11. 06. 2026. у 22:09",
-      "slika": null
-    },
-    {
-      "naslov": "Zvanično: Rastali se Gudelj i Sevilja – čeka se Zvezda?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241246/nemanja-gudelj-napustio-sevilju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "11. 06. 2026. у 21:54",
       "slika": null
     }
   ]
