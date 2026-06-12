@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-12T02:08:07.858927+00:00",
-  "azurirano_sr": "12. 06. 2026. у 04:08",
+  "azurirano": "2026-06-12T06:53:40.097584+00:00",
+  "azurirano_sr": "12. 06. 2026. у 08:53",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Sad su svi profesionalci, a Pejn je i influenser: Fudbal nije ni ragbi ni haka, ali Ol Vajts juri prvenac",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sad-su-svi-profesionalci-a-pejn-je-i-influenser-fudbal-nije-ni-ragbi-ni-haka-ali-ol-vajts-juri-prvenac/546075",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 06. 2026. у 10:15",
+      "slika": null
+    },
     {
       "naslov": "Pesma marijačija na kolumbijskom kofeinu: Krenula najveća svetkovina fudbala, slavi mitska Asteka",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pesma-marijacija-na-kolumbijskom-kofeinu-krenula-najveca-svetkovina-fudbala-slavi-mitska-asteka/546130",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Seolov 'fudbalski otac' poručuje: Pokidaj Mundijal i prodaj se u Bundesligu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/seolov-fudbalski-otac-porucuje-pokidaj-mundijal-i-prodaj-se-u-bundesligu/546100",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 06. 2026. у 20:48",
+      "naslov": "Fudbaleri Koreje posle preokreta savladali Češku, Hvang strelac i asistent",
+      "url": "https://www.tanjug.rs/sport/fudbal/258731/fudbaleri-koreje-posle-preokreta-savladali-cesku-hvang-strelac-i-asistent/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 06. 2026. у 05:57",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/258708/balerdi-propusta-svetsko-prvenstvo-selektor-fudbalera-argentine-skaloni-naknadno-pozvao-senesija/vest",
       "izvor": "Танјуг",
       "datum": "11. 06. 2026. у 21:28",
-      "slika": null
-    },
-    {
-      "naslov": "Portugalac Žoze Murinjo novi trener fudbalera Real Madrida",
-      "url": "https://www.tanjug.rs/sport/fudbal/258701/portugalac-zoze-murinjo-novi-trener-fudbalera-real-madrida/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 06. 2026. у 21:09",
       "slika": null
     },
     {
