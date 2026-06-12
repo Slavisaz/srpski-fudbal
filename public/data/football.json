@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-12T13:56:19.434864+00:00",
-  "azurirano_sr": "12. 06. 2026. у 15:56",
+  "azurirano": "2026-06-12T16:39:34.986605+00:00",
+  "azurirano_sr": "12. 06. 2026. у 18:39",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Balov zadužio Zvezdinu ‘osmicu’ i podigao šal: Ovo sam sanjao od malih nogu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/balov-zaduzio-zvezdinu-osmicu-i-podigao-sal-ovo-sam-sanjao-od-malih-nogu/546192",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 06. 2026. у 19:53",
+      "slika": null
+    },
+    {
+      "naslov": "VAR u Mozzart Bet Prvoj ligi: Čim tehnički bude spremno, makar i u toku sezone",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/var-u-mozzart-bet-prvoj-ligi-cim-tehnicki-bude-spremno-makar-i-u-toku-sezone/546183",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 06. 2026. у 18:18",
+      "slika": null
+    },
     {
       "naslov": "Pulišić pokušava da natera Amerikance da zavole fudbal",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pulisic-pokusava-da-natera-amerikance-da-zavole-fudbal/546179",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Žestoke kazne za nameštanje u ligi pionira",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zestoke-kazne-za-namestanje-u-ligi-pionira/546170",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 06. 2026. у 15:18",
-      "slika": null
-    },
-    {
-      "naslov": "Tošić: Mundijal bi bio mnogo zanimljiviji da učestvuju Srbija i Rusija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tosic-mundijal-bi-bio-mnogo-zanimljiviji-da-ucestvuju-srbija-i-rusija/546171",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 06. 2026. у 15:15",
+      "naslov": "Bugarski fudbaler Kristijan Balov novo pojačanje Crvene zvezde",
+      "url": "https://www.tanjug.rs/sport/fudbal/258889/bugarski-fudbaler-kristijan-balov-novo-pojacanje-crvene-zvezde/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 06. 2026. у 17:47",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Koreje posle preokreta savladali Češku, Hvang strelac i asistent",
-      "url": "https://www.tanjug.rs/sport/fudbal/258731/fudbaleri-koreje-posle-preokreta-savladali-cesku-hvang-strelac-i-asistent/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 06. 2026. у 05:57",
+      "naslov": "Stiže VAR u Prvu ligu Srbije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241464/najavljeno-uvodjenje-var-tehnologije-u-prvu-ligu-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 06. 2026. у 18:02",
       "slika": null
     },
     {
-      "naslov": "Đakovac posle potpisa za Vojvodinu: &quot;Želimo da napadnemo titulu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241415/djakovac-izneo-utiske-posle-potpisa-za-vojvodinu/vest",
+      "naslov": "Zvezda ozvaničila treće pojačanje: &quot;Ostvario mi se san!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241493/kristijan-balov-novi-igrac-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 06. 2026. у 15:15",
-      "slika": null
-    },
-    {
-      "naslov": "Određen raspored Superlige Srbije – Zvezda dočekuje Partizan u osmom kolu!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241429/novi-raspored-superlige-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 06. 2026. у 14:50",
+      "datum": "12. 06. 2026. у 17:48",
       "slika": null
     }
   ]
