@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-12T16:39:34.986605+00:00",
-  "azurirano_sr": "12. 06. 2026. у 18:39",
+  "azurirano": "2026-06-12T18:28:42.351576+00:00",
+  "azurirano_sr": "12. 06. 2026. у 20:28",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Injacio Abate novi trener fudbaler Torina",
+      "url": "https://www.tanjug.rs/sport/fudbal/258903/injacio-abate-novi-trener-fudbaler-torina/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 06. 2026. у 19:34",
+      "slika": null
+    },
+    {
+      "naslov": "Srpski fudbaler Filip Đuričić napušta Panatinaikos",
+      "url": "https://www.tanjug.rs/sport/fudbal/258901/srpski-fudbaler-filip-duricic-napusta-panatinaikos/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 06. 2026. у 19:18",
+      "slika": null
+    },
+    {
       "naslov": "Bugarski fudbaler Kristijan Balov novo pojačanje Crvene zvezde",
       "url": "https://www.tanjug.rs/sport/fudbal/258889/bugarski-fudbaler-kristijan-balov-novo-pojacanje-crvene-zvezde/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Ifet Đakovac novi fudbaler Vojvodine",
-      "url": "https://www.tanjug.rs/sport/fudbal/258850/ifet-dakovac-novi-fudbaler-vojvodine/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 06. 2026. у 14:38",
-      "slika": null
-    },
-    {
-      "naslov": "FK Kiker i FK Borac Čačak kažnjeni zbog neregularnosti pionirske utakmice Prve lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/258851/fk-kiker-i-fk-borac-cacak-kaznjeni-zbog-neregularnosti-pionirske-utakmice-prve-lige/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 06. 2026. у 14:26",
+      "naslov": "Nastavljene promene – Partizan ima nove članove UO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241515/uros-momirovic-i-slavko-gak-novi-clanovi-upravnog-odbora-fk-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 06. 2026. у 19:42",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241464/najavljeno-uvodjenje-var-tehnologije-u-prvu-ligu-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 06. 2026. у 18:02",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda ozvaničila treće pojačanje: &quot;Ostvario mi se san!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241493/kristijan-balov-novi-igrac-crvene-zvezde/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 06. 2026. у 17:48",
       "slika": null
     }
   ]
