@@ -1,34 +1,55 @@
 {
-  "azurirano": "2026-06-12T10:54:28.620573+00:00",
-  "azurirano_sr": "12. 06. 2026. у 12:54",
+  "azurirano": "2026-06-12T13:56:19.434864+00:00",
+  "azurirano_sr": "12. 06. 2026. у 15:56",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Paja Pašić pred Kanadu: Najvažnija utakmica za Bosnu i Hercegovinu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/paja-pasic-pred-kanadu-najvaznija-utakmica-za-bosnu-i-hercegovinu/546166",
+      "naslov": "Pulišić pokušava da natera Amerikance da zavole fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pulisic-pokusava-da-natera-amerikance-da-zavole-fudbal/546179",
       "izvor": "Мозарт Спорт",
-      "datum": "12. 06. 2026. у 14:33",
+      "datum": "12. 06. 2026. у 17:30",
       "slika": null
     },
     {
-      "naslov": "Dok se Bašić sprema za Kanadu menadžer mu završava transfer u Bugarsku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dok-se-basic-sprema-za-kanadu-menadzer-mu-zavrsava-transfer-u-bugarsku/546160",
+      "naslov": "Mozzart Bet Prva liga Srbije: TSC kreće protiv Vršca, Bor u Subotici, derbi filijala u 11. kolu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mozzart-bet-prva-liga-srbije-tsc-krece-protiv-vrsca-bor-u-subotici-derbi-filijala-u-11-kolu/546177",
       "izvor": "Мозарт Спорт",
-      "datum": "12. 06. 2026. у 13:20",
+      "datum": "12. 06. 2026. у 16:44",
       "slika": null
     },
     {
-      "naslov": "IMT promovisao trenera: Popović se posle čitave decenije vratio u srpski fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/imt-promovisao-trenera-popovic-se-posle-citave-decenije-vratio-u-srpski-fudbal/546155",
+      "naslov": "Žestoke kazne za nameštanje u ligi pionira",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zestoke-kazne-za-namestanje-u-ligi-pionira/546170",
       "izvor": "Мозарт Спорт",
-      "datum": "12. 06. 2026. у 12:47",
+      "datum": "12. 06. 2026. у 15:18",
       "slika": null
     },
     {
-      "naslov": "Buongiorno Italia: Odlazak Komolija vraća Vlahovića u Juve",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-odlazak-komolija-vraca-vlahovica-u-juve/546144",
+      "naslov": "Tošić: Mundijal bi bio mnogo zanimljiviji da učestvuju Srbija i Rusija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tosic-mundijal-bi-bio-mnogo-zanimljiviji-da-ucestvuju-srbija-i-rusija/546171",
       "izvor": "Мозарт Спорт",
-      "datum": "12. 06. 2026. у 11:07",
+      "datum": "12. 06. 2026. у 15:15",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezda na startu Super Lige Srbije sa Mačvom, Partizan protiv Zemuna, prvi derbi početkom septembra",
+      "url": "https://www.tanjug.rs/sport/fudbal/258854/zvezda-na-startu-super-lige-srbije-sa-macvom-partizan-protiv-zemuna-prvi-derbi-pocetkom-septembra/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 06. 2026. у 14:49",
+      "slika": null
+    },
+    {
+      "naslov": "Ifet Đakovac novi fudbaler Vojvodine",
+      "url": "https://www.tanjug.rs/sport/fudbal/258850/ifet-dakovac-novi-fudbaler-vojvodine/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 06. 2026. у 14:38",
+      "slika": null
+    },
+    {
+      "naslov": "FK Kiker i FK Borac Čačak kažnjeni zbog neregularnosti pionirske utakmice Prve lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/258851/fk-kiker-i-fk-borac-cacak-kaznjeni-zbog-neregularnosti-pionirske-utakmice-prve-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 06. 2026. у 14:26",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Srpski fudbaler Nemanja Gudelj napušta Sevilju po isteku ugovora",
-      "url": "https://www.tanjug.rs/sport/fudbal/258719/srpski-fudbaler-nemanja-gudelj-napusta-sevilju-po-isteku-ugovora/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 06. 2026. у 22:24",
-      "slika": null
-    },
-    {
-      "naslov": "Kapiten Japana Vataru Endo zbog povrede propušta Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/258712/kapiten-japana-vataru-endo-zbog-povrede-propusta-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 06. 2026. у 21:50",
-      "slika": null
-    },
-    {
-      "naslov": "Balerdi propušta Svetsko prvenstvo, selektor fudbalera Argentine Skaloni naknadno pozvao Senesija",
-      "url": "https://www.tanjug.rs/sport/fudbal/258708/balerdi-propusta-svetsko-prvenstvo-selektor-fudbalera-argentine-skaloni-naknadno-pozvao-senesija/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 06. 2026. у 21:28",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Greh je zaboravljen, kazna pamti&quot; – srpski klubovi drakonski kažnjeni, treneri suspendovani",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241393/fsrzs-drasticno-kaznio-fk-kiker-i-borac/vest",
+      "naslov": "Đakovac posle potpisa za Vojvodinu: &quot;Želimo da napadnemo titulu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241415/djakovac-izneo-utiske-posle-potpisa-za-vojvodinu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 06. 2026. у 12:52",
+      "datum": "12. 06. 2026. у 15:15",
       "slika": null
     },
     {
-      "naslov": "Avdić uspešno operisan FOTO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241262/operisan-adem-avdic/vest",
+      "naslov": "Određen raspored Superlige Srbije – Zvezda dočekuje Partizan u osmom kolu!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241429/novi-raspored-superlige-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "11. 06. 2026. у 23:00",
+      "datum": "12. 06. 2026. у 14:50",
       "slika": null
     }
   ]
