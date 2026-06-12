@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-12T18:28:42.351576+00:00",
-  "azurirano_sr": "12. 06. 2026. у 20:28",
+  "azurirano": "2026-06-12T20:34:22.107221+00:00",
+  "azurirano_sr": "12. 06. 2026. у 22:34",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -53,10 +53,17 @@
       "slika": null
     },
     {
-      "naslov": "Zvezda na startu Super Lige Srbije sa Mačvom, Partizan protiv Zemuna, prvi derbi početkom septembra",
-      "url": "https://www.tanjug.rs/sport/fudbal/258854/zvezda-na-startu-super-lige-srbije-sa-macvom-partizan-protiv-zemuna-prvi-derbi-pocetkom-septembra/vest",
+      "naslov": "Zoran Popović novi trener fudbalera IMT-a",
+      "url": "https://www.tanjug.rs/sport/fudbal/258867/zoran-popovic-novi-trener-fudbalera-imt-a/vest",
       "izvor": "Танјуг",
-      "datum": "12. 06. 2026. у 14:49",
+      "datum": "12. 06. 2026. у 15:48",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezda obavila možda i najvažniji potpis leta!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241542/golman-mateus-produzio-ugovor-sa-crvenom-zvezdom-do-2029/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 06. 2026. у 21:36",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241515/uros-momirovic-i-slavko-gak-novi-clanovi-upravnog-odbora-fk-partizan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 06. 2026. у 19:42",
-      "slika": null
-    },
-    {
-      "naslov": "Stiže VAR u Prvu ligu Srbije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241464/najavljeno-uvodjenje-var-tehnologije-u-prvu-ligu-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 06. 2026. у 18:02",
       "slika": null
     }
   ]
