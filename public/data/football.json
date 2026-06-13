@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-13T11:28:15.540334+00:00",
-  "azurirano_sr": "13. 06. 2026. у 13:28",
+  "azurirano": "2026-06-13T13:03:02.765273+00:00",
+  "azurirano_sr": "13. 06. 2026. у 15:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Aleksić stigao na preglede, pa da zaduži dres Partizana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/aleksic-stigao-na-preglede-pa-da-zaduzi-dres-partizana/546266",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 06. 2026. у 16:32",
+      "slika": null
+    },
     {
       "naslov": "Priča o velikim sumnjama i još većim snovima, može li fudbalska religija da preživi Bjelsine zakone?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/prica-o-velikim-sumnjama-i-jos-vecim-snovima-moze-li-fudbalska-religija-da-prezivi-bjelsine-zakone/546174",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/eh-kada-bi-mundijal-bio-takmicenje-liga/546133",
       "izvor": "Мозарт Спорт",
       "datum": "13. 06. 2026. у 10:23",
-      "slika": null
-    },
-    {
-      "naslov": "Balov zadužio Zvezdinu ‘osmicu’ i podigao šal: Ovo sam sanjao od malih nogu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/balov-zaduzio-zvezdinu-osmicu-i-podigao-sal-ovo-sam-sanjao-od-malih-nogu/546192",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 06. 2026. у 19:53",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Mesina napustio FSS",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241667/domeniko-mesina-napustio-fss/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 06. 2026. у 14:42",
+      "slika": null
+    },
+    {
       "naslov": "Pao rekord – najveći transfer u istoriji Železničara!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241622/stefan-pirgic-iz-zeleznicara-u-viktoriju-iz-plzenja-rekordan-transfer/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "13. 06. 2026. у 11:45",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda obavila možda i najvažniji potpis leta!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241542/golman-mateus-produzio-ugovor-sa-crvenom-zvezdom-do-2029/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 06. 2026. у 21:36",
       "slika": null
     }
   ]
