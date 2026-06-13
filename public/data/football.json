@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-13T19:00:45.775695+00:00",
-  "azurirano_sr": "13. 06. 2026. у 21:00",
+  "azurirano": "2026-06-13T20:18:25.900396+00:00",
+  "azurirano_sr": "13. 06. 2026. у 22:18",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Izraelski reprezentativac Abu Fani novi fudbaler Crvene zvezde",
+      "url": "https://www.tanjug.rs/sport/fudbal/259052/izraelski-reprezentativac-abu-fani-novi-fudbaler-crvene-zvezde/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 06. 2026. у 20:57",
+      "slika": null
+    },
+    {
       "naslov": "Italijan Domeniko Mesina nije više predsednik Sudijske komisije FSS",
       "url": "https://www.tanjug.rs/sport/fudbal/259031/italijan-domeniko-mesina-nije-vise-predsednik-sudijske-komisije-fss/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Barbarez: Rezultat je realan, bod protiv Kanade je zadovoljavajući",
-      "url": "https://www.tanjug.rs/sport/fudbal/258960/barbarez-rezultat-je-realan-bod-protiv-kanade-je-zadovoljavajuci/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 06. 2026. у 10:20",
+      "naslov": "Stigao Stankovićev čovek – Zvezda završila i četvrto pojačanje",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241751/mohamed-abu-fani-novi-fudbaler-crvene-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 06. 2026. у 21:03",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241726/aktivnosti-fk-partizan-na-pocetku-priprema-sa-sasom-ilicem/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "13. 06. 2026. у 19:00",
-      "slika": null
-    },
-    {
-      "naslov": "FSS se oglasio posle odlaska Mesine",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241712/oprostaj-domenika-mesine-i-saopstenje-fudbalskog-saveza-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 06. 2026. у 17:34",
       "slika": null
     }
   ]
