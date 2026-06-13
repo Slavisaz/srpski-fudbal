@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-13T15:04:30.725080+00:00",
-  "azurirano_sr": "13. 06. 2026. у 17:04",
+  "azurirano": "2026-06-13T16:24:55.974649+00:00",
+  "azurirano_sr": "13. 06. 2026. у 18:24",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Domeniko Mesina: Odluka nije bila laka, želim da budem bliže porodici",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/domeniko-mesina-odluka-nije-bila-laka-zelim-da-budem-blize-porodici/546283",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 06. 2026. у 19:40",
+      "slika": null
+    },
+    {
+      "naslov": "Prvi presek i kako bi izgledao Zvezdin idealan tim u ovom trenutku...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-presek-i-kako-bi-izgledao-zvezdin-idealan-tim-u-ovom-trenutku/546282",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 06. 2026. у 19:14",
+      "slika": null
+    },
     {
       "naslov": "Sa klupe Mladosti na gol Pazara: Lučanci pozajmili Matijaševića",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sa-klupe-mladosti-na-gol-pazara-lucanci-pozajmili-matijasevica/546273",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Aleksić stigao na preglede, pa da zaduži dres Partizana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/aleksic-stigao-na-preglede-pa-da-zaduzi-dres-partizana/546266",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 06. 2026. у 16:32",
-      "slika": null
-    },
-    {
-      "naslov": "Priča o velikim sumnjama i još većim snovima, može li fudbalska religija da preživi Bjelsine zakone?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prica-o-velikim-sumnjama-i-jos-vecim-snovima-moze-li-fudbalska-religija-da-prezivi-bjelsine-zakone/546174",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 06. 2026. у 11:45",
+      "naslov": "Italijan Domeniko Mesina nije više predsednik Sudijske komisije FSS",
+      "url": "https://www.tanjug.rs/sport/fudbal/259031/italijan-domeniko-mesina-nije-vise-predsednik-sudijske-komisije-fss/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 06. 2026. у 17:42",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri SAD ubedljivo savladali Paragvaj, dva gola Baloguna",
-      "url": "https://www.tanjug.rs/sport/fudbal/258936/fudbaleri-sad-ubedljivo-savladali-paragvaj-dva-gola-baloguna/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 06. 2026. у 05:08",
+      "naslov": "FSS se oglasio posle odlaska Mesine",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241712/oprostaj-domenika-mesine-i-saopstenje-fudbalskog-saveza-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 06. 2026. у 17:34",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241680/milan-aleksic-stigao-u-beograd-na-preglede-i-potpis-sa-partizanom/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "13. 06. 2026. у 15:44",
-      "slika": null
-    },
-    {
-      "naslov": "Mesina napustio FSS",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241667/domeniko-mesina-napustio-fss/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 06. 2026. у 14:42",
       "slika": null
     }
   ]
