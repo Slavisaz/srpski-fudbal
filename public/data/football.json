@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-06-13T06:04:03.421398+00:00",
-  "azurirano_sr": "13. 06. 2026. у 08:04",
+  "azurirano": "2026-06-13T09:30:00.453563+00:00",
+  "azurirano_sr": "13. 06. 2026. у 11:30",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Priča o velikim sumnjama i još većim snovima, može li fudbalska religija da preživi Bjelsine zakone?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prica-o-velikim-sumnjama-i-jos-vecim-snovima-moze-li-fudbalska-religija-da-prezivi-bjelsine-zakone/546174",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 06. 2026. у 11:45",
+      "slika": null
+    },
+    {
+      "naslov": "Arsenal krenuo po Jildiza i udario u zid! Okrenuo se ka autoru 51 gola od 40.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/arsenal-krenuo-po-jildiza-i-udario-u-zid-okrenuo-se-ka-autoru-51-gola-od-40000000-evra/546237",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 06. 2026. у 11:08",
+      "slika": null
+    },
+    {
+      "naslov": "Eh, kada bi Mundijal bio takmičenje liga",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/eh-kada-bi-mundijal-bio-takmicenje-liga/546133",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 06. 2026. у 10:23",
+      "slika": null
+    },
     {
       "naslov": "Balov zadužio Zvezdinu ‘osmicu’ i podigao šal: Ovo sam sanjao od malih nogu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/balov-zaduzio-zvezdinu-osmicu-i-podigao-sal-ovo-sam-sanjao-od-malih-nogu/546192",
@@ -11,52 +32,31 @@
       "slika": null
     },
     {
-      "naslov": "VAR u Mozzart Bet Prvoj ligi: Čim tehnički bude spremno, makar i u toku sezone",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/var-u-mozzart-bet-prvoj-ligi-cim-tehnicki-bude-spremno-makar-i-u-toku-sezone/546183",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 06. 2026. у 18:18",
-      "slika": null
-    },
-    {
-      "naslov": "Pulišić pokušava da natera Amerikance da zavole fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pulisic-pokusava-da-natera-amerikance-da-zavole-fudbal/546179",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 06. 2026. у 17:30",
-      "slika": null
-    },
-    {
-      "naslov": "Mozzart Bet Prva liga Srbije: TSC kreće protiv Vršca, Bor u Subotici, derbi filijala u 11. kolu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mozzart-bet-prva-liga-srbije-tsc-krece-protiv-vrsca-bor-u-subotici-derbi-filijala-u-11-kolu/546177",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 06. 2026. у 16:44",
-      "slika": null
-    },
-    {
-      "naslov": "Injacio Abate novi trener fudbalera Torina",
-      "url": "https://www.tanjug.rs/sport/fudbal/258903/injacio-abate-novi-trener-fudbalera-torina/vest",
+      "naslov": "Barbarez: Rezultat je realan, bod protiv Kanade je zadovoljavajući",
+      "url": "https://www.tanjug.rs/sport/fudbal/258960/barbarez-rezultat-je-realan-bod-protiv-kanade-je-zadovoljavajuci/vest",
       "izvor": "Танјуг",
-      "datum": "12. 06. 2026. у 19:34",
+      "datum": "13. 06. 2026. у 10:20",
       "slika": null
     },
     {
-      "naslov": "Srpski fudbaler Filip Đuričić napušta Panatinaikos",
-      "url": "https://www.tanjug.rs/sport/fudbal/258901/srpski-fudbaler-filip-duricic-napusta-panatinaikos/vest",
+      "naslov": "Fudbaleri SAD ubedljivo savladali Paragvaj, dva gola Baloguna",
+      "url": "https://www.tanjug.rs/sport/fudbal/258936/fudbaleri-sad-ubedljivo-savladali-paragvaj-dva-gola-baloguna/vest",
       "izvor": "Танјуг",
-      "datum": "12. 06. 2026. у 19:18",
+      "datum": "13. 06. 2026. у 05:08",
       "slika": null
     },
     {
-      "naslov": "Bugarski fudbaler Kristijan Balov novo pojačanje Crvene zvezde",
-      "url": "https://www.tanjug.rs/sport/fudbal/258889/bugarski-fudbaler-kristijan-balov-novo-pojacanje-crvene-zvezde/vest",
+      "naslov": "Dejvid Bekam dobio zvezdu na Holivudskoj stazi slavnih",
+      "url": "https://www.tanjug.rs/sport/fudbal/258943/dejvid-bekam-dobio-zvezdu-na-holivudskoj-stazi-slavnih/vest",
       "izvor": "Танјуг",
-      "datum": "12. 06. 2026. у 17:47",
+      "datum": "12. 06. 2026. у 23:22",
       "slika": null
     },
     {
-      "naslov": "Zoran Popović novi trener fudbalera IMT-a",
-      "url": "https://www.tanjug.rs/sport/fudbal/258867/zoran-popovic-novi-trener-fudbalera-imt-a/vest",
+      "naslov": "Feđa Dudić ponovo trener fudbalera Radničkog iz Kragujevca",
+      "url": "https://www.tanjug.rs/sport/fudbal/258929/feda-dudic-ponovo-trener-fudbalera-radnickog-iz-kragujevca/vest",
       "izvor": "Танјуг",
-      "datum": "12. 06. 2026. у 15:48",
+      "datum": "12. 06. 2026. у 23:14",
       "slika": null
     },
     {
