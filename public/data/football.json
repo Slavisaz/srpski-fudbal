@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-13T16:24:55.974649+00:00",
-  "azurirano_sr": "13. 06. 2026. у 18:24",
+  "azurirano": "2026-06-13T17:49:45.698718+00:00",
+  "azurirano_sr": "13. 06. 2026. у 19:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Letećemo po terenu: Degenek veruje da je Australija najspremnija reprezentacija na Mundijalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/letecemo-po-terenu-degenek-veruje-da-je-australija-najspremnija-reprezentacija-na-mundijalu/546287",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 06. 2026. у 20:33",
+      "slika": null
+    },
     {
       "naslov": "Domeniko Mesina: Odluka nije bila laka, želim da budem bliže porodici",
       "url": "https://www.mozzartsport.com/fudbal/vesti/domeniko-mesina-odluka-nije-bila-laka-zelim-da-budem-blize-porodici/546283",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/sa-klupe-mladosti-na-gol-pazara-lucanci-pozajmili-matijasevica/546273",
       "izvor": "Мозарт Спорт",
       "datum": "13. 06. 2026. у 17:25",
-      "slika": null
-    },
-    {
-      "naslov": "Mozzart Bet Superliga ostala bez komesara, Mesina našao novi posao u Italiji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mozzart-bet-superliga-ostala-bez-komesara-mesina-nasao-novi-posao-u-italiji/546267",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 06. 2026. у 16:40",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Živo u &quot;Zemunelu&quot; – &quot;parni valjak&quot; zagreva motore",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241726/aktivnosti-fk-partizan-na-pocetku-priprema-sa-sasom-ilicem/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 06. 2026. у 19:00",
+      "slika": null
+    },
+    {
       "naslov": "FSS se oglasio posle odlaska Mesine",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241712/oprostaj-domenika-mesine-i-saopstenje-fudbalskog-saveza-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "13. 06. 2026. у 17:34",
-      "slika": null
-    },
-    {
-      "naslov": "Drugo pojačanje Partizana stiglo u Beograd – spremna je i otkupna klauzula",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241680/milan-aleksic-stigao-u-beograd-na-preglede-i-potpis-sa-partizanom/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 06. 2026. у 15:44",
       "slika": null
     }
   ]
