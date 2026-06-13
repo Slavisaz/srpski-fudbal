@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-13T13:03:02.765273+00:00",
-  "azurirano_sr": "13. 06. 2026. у 15:03",
+  "azurirano": "2026-06-13T15:04:30.725080+00:00",
+  "azurirano_sr": "13. 06. 2026. у 17:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Sa klupe Mladosti na gol Pazara: Lučanci pozajmili Matijaševića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sa-klupe-mladosti-na-gol-pazara-lucanci-pozajmili-matijasevica/546273",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 06. 2026. у 17:25",
+      "slika": null
+    },
+    {
+      "naslov": "Mozzart Bet Superliga ostala bez komesara, Mesina našao novi posao u Italiji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mozzart-bet-superliga-ostala-bez-komesara-mesina-nasao-novi-posao-u-italiji/546267",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 06. 2026. у 16:40",
+      "slika": null
+    },
     {
       "naslov": "Aleksić stigao na preglede, pa da zaduži dres Partizana",
       "url": "https://www.mozzartsport.com/fudbal/vesti/aleksic-stigao-na-preglede-pa-da-zaduzi-dres-partizana/546266",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/prica-o-velikim-sumnjama-i-jos-vecim-snovima-moze-li-fudbalska-religija-da-prezivi-bjelsine-zakone/546174",
       "izvor": "Мозарт Спорт",
       "datum": "13. 06. 2026. у 11:45",
-      "slika": null
-    },
-    {
-      "naslov": "Arsenal krenuo po Jildiza i udario u zid! Okrenuo se ka autoru 51 gola od 40.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/arsenal-krenuo-po-jildiza-i-udario-u-zid-okrenuo-se-ka-autoru-51-gola-od-40000000-evra/546237",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 06. 2026. у 11:08",
-      "slika": null
-    },
-    {
-      "naslov": "Eh, kada bi Mundijal bio takmičenje liga",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/eh-kada-bi-mundijal-bio-takmicenje-liga/546133",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 06. 2026. у 10:23",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Drugo pojačanje Partizana stiglo u Beograd – spremna je i otkupna klauzula",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241680/milan-aleksic-stigao-u-beograd-na-preglede-i-potpis-sa-partizanom/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 06. 2026. у 15:44",
+      "slika": null
+    },
+    {
       "naslov": "Mesina napustio FSS",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241667/domeniko-mesina-napustio-fss/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "13. 06. 2026. у 14:42",
-      "slika": null
-    },
-    {
-      "naslov": "Pao rekord – najveći transfer u istoriji Železničara!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241622/stefan-pirgic-iz-zeleznicara-u-viktoriju-iz-plzenja-rekordan-transfer/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 06. 2026. у 11:45",
       "slika": null
     }
   ]
