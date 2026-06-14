@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-14T12:15:54.609602+00:00",
-  "azurirano_sr": "14. 06. 2026. у 14:15",
+  "azurirano": "2026-06-14T14:29:39.753314+00:00",
+  "azurirano_sr": "14. 06. 2026. у 16:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Najefikasniji Srbin u Crnoj Gori se seli pokraj Kaspijskog jezera",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najefikasniji-srbin-u-crnoj-gori-se-seli-pokraj-kaspijskog-jezera/546361",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 06. 2026. у 17:49",
+      "slika": null
+    },
+    {
+      "naslov": "FIFA, izvoli broj računa: Somalijski sudija dolazi po naplatu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fifa-izvoli-broj-racuna-somalijski-sudija-dolazi-po-naplatu/546356",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 06. 2026. у 16:24",
+      "slika": null
+    },
     {
       "naslov": "Kompletan izveštaj Zvezdana Terzića: Rezultati, finansije, omladinska škola, infrastruktura...",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kompletan-izvestaj-zvezdana-terzica-rezultati-finansije-omladinska-skola-infrastruktura/546354",
@@ -18,45 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Mijailović objavio ciljeve Zvezde do 2030. godine, predloženi novi članovi Upravnog odbora",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mijailovic-objavio-ciljeve-zvezde-do-2030-godine-predlozeni-novi-clanovi-upravnog-odbora/546349",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 06. 2026. у 15:03",
-      "slika": null
-    },
-    {
-      "naslov": "Srbin iz Sidneja sprema Iračane: Idemo da šokiramo svet!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-iz-sidneja-sprema-iracane-idemo-da-sokiramo-svet/546270",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 06. 2026. у 13:45",
-      "slika": null
-    },
-    {
-      "naslov": "Mijailović: Zahvaljujem se članovima na poverenju, Zvezda će biti na još višem nivou",
-      "url": "https://www.tanjug.rs/sport/fudbal/259146/mijailovic-zahvaljujem-se-clanovima-na-poverenju-zvezda-ce-biti-na-jos-visem-nivou/vest",
+      "naslov": "Održana redovna sednica Skupštine FK Crvena zvezda",
+      "url": "https://www.tanjug.rs/sport/fudbal/259166/odrzana-redovna-sednica-skupstine-fk-crvena-zvezda/vest",
       "izvor": "Танјуг",
-      "datum": "14. 06. 2026. у 13:53",
+      "datum": "14. 06. 2026. у 15:34",
       "slika": null
     },
     {
-      "naslov": "Montela posle poraza od Australije: Ništa nije izgubljeno, imamo još dva teška meča",
-      "url": "https://www.tanjug.rs/sport/fudbal/259108/montela-posle-poraza-od-australije-nista-nije-izgubljeno-imamo-jos-dva-teska-meca/vest",
+      "naslov": "Francuz Klemon Turpan sudi meč između Engleske i Hrvatske na Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/259162/francuz-klemon-turpan-sudi-mec-izmedu-engleske-i-hrvatske-na-svetskom-prvenstvu/vest",
       "izvor": "Танјуг",
-      "datum": "14. 06. 2026. у 11:02",
+      "datum": "14. 06. 2026. у 15:13",
       "slika": null
     },
     {
-      "naslov": "FIFA: Nije bilo nepravilnosti u radu VAR sistema tokom meča Katar - Švajcarska",
-      "url": "https://www.tanjug.rs/sport/fudbal/259104/fifa-nije-bilo-nepravilnosti-u-radu-var-sistema-tokom-meca-katar-svajcarska/vest",
+      "naslov": "Nikolić: Ako ne bude Liga Evrope, cilj je da izborimo grupnu fazu Lige konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/259152/nikolic-ako-ne-bude-liga-evrope-cilj-je-da-izborimo-grupnu-fazu-lige-konferencije/vest",
       "izvor": "Танјуг",
-      "datum": "14. 06. 2026. у 10:41",
+      "datum": "14. 06. 2026. у 14:36",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Australije iznenadili Tursku i zabeležili pobedu na Svetskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/259087/fudbaleri-australije-iznenadili-tursku-i-zabelezili-pobedu-na-svetskom-prvenstvu/vest",
+      "naslov": "Terzić: Kontinuitet u Evropi, četvrta zvezdica i rekonstrukcija stadiona ključni ciljevi",
+      "url": "https://www.tanjug.rs/sport/fudbal/259149/terzic-kontinuitet-u-evropi-cetvrta-zvezdica-i-rekonstrukcija-stadiona-kljucni-ciljevi/vest",
       "izvor": "Танјуг",
-      "datum": "14. 06. 2026. у 08:08",
+      "datum": "14. 06. 2026. у 14:19",
+      "slika": null
+    },
+    {
+      "naslov": "Liga konferencije minimum za Vojvodinu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241888/liga-konferencije-minimum-za-vojvodinu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 06. 2026. у 15:22",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241876/zvezdan-terzic-o-finansijskoj-situaciji-u-fk-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "14. 06. 2026. у 14:12",
-      "slika": null
-    },
-    {
-      "naslov": "Stigao Stankovićev čovek – Zvezda završila i četvrto pojačanje",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241751/mohamed-abu-fani-novi-fudbaler-crvene-zvezde/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 06. 2026. у 21:03",
       "slika": null
     }
   ]
