@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-06-14T10:16:12.251712+00:00",
-  "azurirano_sr": "14. 06. 2026. у 12:16",
+  "azurirano": "2026-06-14T12:15:54.609602+00:00",
+  "azurirano_sr": "14. 06. 2026. у 14:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kompletan izveštaj Zvezdana Terzića: Rezultati, finansije, omladinska škola, infrastruktura...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kompletan-izvestaj-zvezdana-terzica-rezultati-finansije-omladinska-skola-infrastruktura/546354",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 06. 2026. у 15:47",
+      "slika": null
+    },
+    {
+      "naslov": "Trauma na Kupu afričkih nacija, pa Francuzi na startu Mundijala – to zvuči baš poznato",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/trauma-na-kupu-africkih-nacija-pa-francuzi-na-startu-mundijala-to-zvuci-bas-poznato/546278",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 06. 2026. у 15:15",
+      "slika": null
+    },
+    {
+      "naslov": "Mijailović objavio ciljeve Zvezde do 2030. godine, predloženi novi članovi Upravnog odbora",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mijailovic-objavio-ciljeve-zvezde-do-2030-godine-predlozeni-novi-clanovi-upravnog-odbora/546349",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 06. 2026. у 15:03",
+      "slika": null
+    },
     {
       "naslov": "Srbin iz Sidneja sprema Iračane: Idemo da šokiramo svet!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-iz-sidneja-sprema-iracane-idemo-da-sokiramo-svet/546270",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Očevi, sinovi i generacijski zavet: Kada su Norvežani počeli da igraju fudbal...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ocevi-sinovi-i-generacijski-zavet-kada-su-norvezani-poceli-da-igraju-fudbal/546265",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 06. 2026. у 11:36",
-      "slika": null
-    },
-    {
-      "naslov": "Ako ego ostane po strani, biće – spasavaj se ko može: Da, Kilijane, u tebe gledamo...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ako-ego-ostane-po-strani-bice-spasavaj-se-ko-moze-da-kilijane-u-tebe-gledamo/546196",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 06. 2026. у 10:12",
-      "slika": null
-    },
-    {
-      "naslov": "LUDI TIKET (-), nedelja,  808.111 dinara: Pad na austrijskoj trećoj, a nadao se pari većoj",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-nedelja-808111-dinara-pad-na-austrijskoj-trecoj-a-nadao-se-pari-vecoj/546314",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 06. 2026. у 07:15",
+      "naslov": "Mijailović: Zahvaljujem se članovima na poverenju, Zvezda će biti na još višem nivou",
+      "url": "https://www.tanjug.rs/sport/fudbal/259146/mijailovic-zahvaljujem-se-clanovima-na-poverenju-zvezda-ce-biti-na-jos-visem-nivou/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 06. 2026. у 13:53",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Džon Mekgin za pobedu fudbalera Škotske protiv Haitija na Mundijalu",
-      "url": "https://www.tanjug.rs/sport/fudbal/259080/dzon-mekgin-za-pobedu-fudbalera-skotske-protiv-haitija-na-mundijalu/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 06. 2026. у 05:08",
+      "naslov": "Terzić: &quot;Očekujemo između 70 i 100 miliona prihoda&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241876/zvezdan-terzic-o-finansijskoj-situaciji-u-fk-crvena-zvezda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 06. 2026. у 14:12",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241751/mohamed-abu-fani-novi-fudbaler-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "13. 06. 2026. у 21:03",
-      "slika": null
-    },
-    {
-      "naslov": "Živo u &quot;Zemunelu&quot; – &quot;parni valjak&quot; zagreva motore",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/241726/aktivnosti-fk-partizan-na-pocetku-priprema-sa-sasom-ilicem/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 06. 2026. у 19:00",
       "slika": null
     }
   ]
