@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-14T06:49:57.171903+00:00",
-  "azurirano_sr": "14. 06. 2026. у 08:49",
+  "azurirano": "2026-06-14T10:16:12.251712+00:00",
+  "azurirano_sr": "14. 06. 2026. у 12:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbin iz Sidneja sprema Iračane: Idemo da šokiramo svet!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-iz-sidneja-sprema-iracane-idemo-da-sokiramo-svet/546270",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 06. 2026. у 13:45",
+      "slika": null
+    },
+    {
+      "naslov": "Očevi, sinovi i generacijski zavet: Kada su Norvežani počeli da igraju fudbal...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ocevi-sinovi-i-generacijski-zavet-kada-su-norvezani-poceli-da-igraju-fudbal/546265",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 06. 2026. у 11:36",
+      "slika": null
+    },
     {
       "naslov": "Ako ego ostane po strani, biće – spasavaj se ko može: Da, Kilijane, u tebe gledamo...",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ako-ego-ostane-po-strani-bice-spasavaj-se-ko-moze-da-kilijane-u-tebe-gledamo/546196",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Letećemo po terenu: Degenek veruje da je Australija najspremnija reprezentacija na Mundijalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/letecemo-po-terenu-degenek-veruje-da-je-australija-najspremnija-reprezentacija-na-mundijalu/546287",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 06. 2026. у 20:33",
+      "naslov": "Montela posle poraza od Australije: Ništa nije izgubljeno, imamo još dva teška meča",
+      "url": "https://www.tanjug.rs/sport/fudbal/259108/montela-posle-poraza-od-australije-nista-nije-izgubljeno-imamo-jos-dva-teska-meca/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 06. 2026. у 11:02",
       "slika": null
     },
     {
-      "naslov": "Domeniko Mesina: Odluka nije bila laka, želim da budem bliže porodici",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/domeniko-mesina-odluka-nije-bila-laka-zelim-da-budem-blize-porodici/546283",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 06. 2026. у 19:40",
+      "naslov": "FIFA: Nije bilo nepravilnosti u radu VAR sistema tokom meča Katar - Švajcarska",
+      "url": "https://www.tanjug.rs/sport/fudbal/259104/fifa-nije-bilo-nepravilnosti-u-radu-var-sistema-tokom-meca-katar-svajcarska/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 06. 2026. у 10:41",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/259080/dzon-mekgin-za-pobedu-fudbalera-skotske-protiv-haitija-na-mundijalu/vest",
       "izvor": "Танјуг",
       "datum": "14. 06. 2026. у 05:08",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Brazila i Maroka remizirali u Njujorku na startu Mundijala",
-      "url": "https://www.tanjug.rs/sport/fudbal/259082/fudbaleri-brazila-i-maroka-remizirali-u-njujorku-na-startu-mundijala/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 06. 2026. у 02:05",
-      "slika": null
-    },
-    {
-      "naslov": "Izraelski reprezentativac Abu Fani novi fudbaler Crvene zvezde",
-      "url": "https://www.tanjug.rs/sport/fudbal/259052/izraelski-reprezentativac-abu-fani-novi-fudbaler-crvene-zvezde/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 06. 2026. у 20:57",
       "slika": null
     },
     {
