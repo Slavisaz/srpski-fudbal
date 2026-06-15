@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-15T21:18:58.665755+00:00",
-  "azurirano_sr": "15. 06. 2026. у 23:18",
+  "azurirano": "2026-06-15T23:12:06.180492+00:00",
+  "azurirano_sr": "16. 06. 2026. у 01:12",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbin ukrotio vatru i oživeo nestašnog dečka: Udineze otkupio Zaniola za 5.000.000",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-ukrotio-vatru-i-oziveo-nestasnog-decka-udineze-otkupio-zaniola-za-5000000/546481",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 06. 2026. у 00:59",
+      "slika": null
+    },
     {
       "naslov": "Taremi misli samo na fudbal, Vud sanja prvi gol na Mundijalu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/taremi-misli-samo-na-fudbal-vud-sanja-prvi-gol-na-mundijalu/546449",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-otkupila-enema-ugovor-na-tri-godine/546462",
       "izvor": "Мозарт Спорт",
       "datum": "15. 06. 2026. у 19:48",
-      "slika": null
-    },
-    {
-      "naslov": "Rangnikova 'press&stress' mašina protiv koje će se malo ko naigrati fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rangnikova-pressstress-masina-protiv-koje-ce-se-malo-ko-naigrati-fudbala/546432",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 06. 2026. у 17:50",
       "slika": null
     },
     {
