@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-15T18:11:14.567497+00:00",
-  "azurirano_sr": "15. 06. 2026. у 20:11",
+  "azurirano": "2026-06-15T21:18:58.665755+00:00",
+  "azurirano_sr": "15. 06. 2026. у 23:18",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Taremi misli samo na fudbal, Vud sanja prvi gol na Mundijalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/taremi-misli-samo-na-fudbal-vud-sanja-prvi-gol-na-mundijalu/546449",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 06. 2026. у 00:05",
+      "slika": null
+    },
     {
       "naslov": "Zvezda poslala Lučića u Cvajtu za 300.000 evra, otkup 2.500.000",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-poslala-lucica-u-cvajtu-za-300000-evra-otkup-2500000/546469",
@@ -25,38 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Železničar počeo pripreme za istorijsku sezonu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zeleznicar-poceo-pripreme-za-istorijsku-sezonu/546430",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 06. 2026. у 14:40",
+      "naslov": "Kanadski fudbaler Alfonso Dejvis nije se još oporavio od povrede",
+      "url": "https://www.tanjug.rs/sport/fudbal/259505/kanadski-fudbaler-alfonso-dejvis-nije-se-jos-oporavio-od-povrede/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 06. 2026. у 22:52",
       "slika": null
     },
     {
-      "naslov": "Žeremi Boga ostaje u Juventusu do 2029. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/259469/zeremi-boga-ostaje-u-juventusu-do-2029-godine/vest",
+      "naslov": "Brito: Pokazali smo dobru organizovanost i hrabrost na meču protiv Španije",
+      "url": "https://www.tanjug.rs/sport/fudbal/259503/brito-pokazali-smo-dobru-organizovanost-i-hrabrost-na-mecu-protiv-spanije/vest",
       "izvor": "Танјуг",
-      "datum": "15. 06. 2026. у 18:57",
+      "datum": "15. 06. 2026. у 22:25",
       "slika": null
     },
     {
-      "naslov": "Holandski fudbaler Džej Enem ostaje u Crvenoj zvezdi do 2029. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/259451/holandski-fudbaler-dzej-enem-ostaje-u-crvenoj-zvezdi-do-2029-godine/vest",
+      "naslov": "Italijanski fudbaler Nikolo Zaniolo ostaje u Udinezeu do 2029. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/259500/italijanski-fudbaler-nikolo-zaniolo-ostaje-u-udinezeu-do-2029-godine/vest",
       "izvor": "Танјуг",
-      "datum": "15. 06. 2026. у 17:28",
+      "datum": "15. 06. 2026. у 21:55",
       "slika": null
     },
     {
-      "naslov": "Mauricio Sari novi trener fudbalera Atalante",
-      "url": "https://www.tanjug.rs/sport/fudbal/259436/mauricio-sari-novi-trener-fudbalera-atalante/vest",
+      "naslov": "Portugalski fudbaler Koštinja potpisao ugovor sa Brajtonom",
+      "url": "https://www.tanjug.rs/sport/fudbal/259495/portugalski-fudbaler-kostinja-potpisao-ugovor-sa-brajtonom/vest",
       "izvor": "Танјуг",
-      "datum": "15. 06. 2026. у 16:50",
+      "datum": "15. 06. 2026. у 21:26",
       "slika": null
     },
     {
-      "naslov": "Selektor fudbalera Tunisa Sabri Lamuši dobio otkaz nakon ubedljivog poraza u prvom kolu Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/259420/selektor-fudbalera-tunisa-sabri-lamusi-dobio-otkaz-nakon-ubedljivog-poraza-u-prvom-kolu-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 06. 2026. у 15:54",
+      "naslov": "Vladimir Lučić napustio Zvezdu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242273/crvena-zvezda-prodala-vladimira-lucica-u-drugu-ligu-nemacke/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 06. 2026. у 21:40",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242227/glavni-problem-srbije-imamo-sjajne-igrace-ali-nemamo-zajednistvo/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "15. 06. 2026. у 18:48",
-      "slika": null
-    },
-    {
-      "naslov": "Zvanično: Zvezda &quot;vezala&quot; Džeja Enema",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242196/dzej-enem-trogodisnji-ugovor-fk-crvena-zvezda/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 06. 2026. у 17:30",
       "slika": null
     }
   ]
