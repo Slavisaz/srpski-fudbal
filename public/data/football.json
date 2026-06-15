@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-15T02:08:59.265664+00:00",
-  "azurirano_sr": "15. 06. 2026. у 04:08",
+  "azurirano": "2026-06-15T07:34:27.739821+00:00",
+  "azurirano_sr": "15. 06. 2026. у 09:34",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Raport sa srpskoligaških terena: Sloga iz Požege preživela baraž na Zapadu, Trstenik PTT ispao na Istoku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-sloga-iz-pozege-prezivela-baraz-na-zapadu-trstenik-ptt-ispao-na-istoku/546400",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 06. 2026. у 11:19",
+      "slika": null
+    },
     {
       "naslov": "Dajte nam Jamala u finalu, da razjasnimo da li je pogrešio",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dajte-nam-jamala-u-finalu-da-razjasnimo-da-li-je-pogresio/546376",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Kompletan izveštaj Zvezdana Terzića: Rezultati, finansije, omladinska škola, infrastruktura...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kompletan-izvestaj-zvezdana-terzica-rezultati-finansije-omladinska-skola-infrastruktura/546354",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 06. 2026. у 15:47",
+      "naslov": "Sjajan start fudbalera Švedske na Mundijalu, \"petarda\" protiv Tunisa",
+      "url": "https://www.tanjug.rs/sport/fudbal/259237/sjajan-start-fudbalera-svedske-na-mundijalu-petarda-protiv-tunisa/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 06. 2026. у 06:15",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/259186/brazilski-golman-mateus-produzio-ugovor-sa-crvenom-zvezdom/vest",
       "izvor": "Танјуг",
       "datum": "14. 06. 2026. у 17:44",
-      "slika": null
-    },
-    {
-      "naslov": "Održana redovna sednica Skupštine FK Crvena zvezda",
-      "url": "https://www.tanjug.rs/sport/fudbal/259166/odrzana-redovna-sednica-skupstine-fk-crvena-zvezda/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 06. 2026. у 15:34",
       "slika": null
     },
     {
