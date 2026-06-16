@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-16T20:21:35.169253+00:00",
-  "azurirano_sr": "16. 06. 2026. у 22:21",
+  "azurirano": "2026-06-16T22:24:35.243173+00:00",
+  "azurirano_sr": "17. 06. 2026. у 00:24",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Francuske pobedili Senegal, Mbape pisao istoriju",
+      "url": "https://www.tanjug.rs/sport/fudbal/259767/fudbaleri-francuske-pobedili-senegal-mbape-pisao-istoriju/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 06. 2026. у 23:04",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Vojvodine protiv Ferencvaroša u prvom kolu kvalifikacija za Ligu Evrope",
       "url": "https://www.tanjug.rs/sport/fudbal/259696/fudbaleri-vojvodine-protiv-ferencvarosa-u-prvom-kolu-kvalifikacija-za-ligu-evrope/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Senegalski fudbaler Aruna Sangante potpisao ugovor sa Seviljom",
-      "url": "https://www.tanjug.rs/sport/fudbal/259648/senegalski-fudbaler-aruna-sangante-potpisao-ugovor-sa-seviljom/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 06. 2026. у 14:57",
+      "naslov": "Klubovi rekli &quot;ne&quot;: Srbija bez dva nosioca igre na Evropskom prvenstvu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242593/petric-ostao-bez-cvetkovica-i-maksimovica-pred-ep-u-velsu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "16. 06. 2026. у 22:32",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242432/ofk-beograd-krenuo-u-novu-sezonu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "16. 06. 2026. у 13:32",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan ne staje: Posle Kojzeka i Traorea stiže i Brazilac?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242425/partizan-hoce-brazilca/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 06. 2026. у 13:17",
       "slika": null
     }
   ]
