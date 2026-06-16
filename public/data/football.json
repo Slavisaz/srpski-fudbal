@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-16T07:07:45.033088+00:00",
-  "azurirano_sr": "16. 06. 2026. у 09:07",
+  "azurirano": "2026-06-16T12:19:35.445186+00:00",
+  "azurirano_sr": "16. 06. 2026. у 14:19",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dosadno uporni i žilavi, ali teško da će im i peti najplaćeniji trener Mundijala mnogo pomoći",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dosadno-uporni-i-zilavi-ali-tesko-da-ce-im-i-peti-najplaceniji-trener-mundijala-mnogo-pomoci/546488",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 06. 2026. у 13:40",
+      "slika": null
+    },
+    {
+      "naslov": "Tejlgejting = roštilj i zabava, a na prvom mestu – zarada! Kako Ameri doživljavaju fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tejlgejting-rostilj-i-zabava-a-na-prvom-mestu-zarada-kako-ameri-dozivljavaju-fudbal/546497",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 06. 2026. у 10:57",
+      "slika": null
+    },
     {
       "naslov": "Srbin ukrotio vatru i oživeo nestašnog dečka: Udineze otkupio Zaniola za 5.000.000",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-ukrotio-vatru-i-oziveo-nestasnog-decka-udineze-otkupio-zaniola-za-5000000/546481",
@@ -18,59 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Zvezda poslala Lučića u Cvajtu za 300.000 evra, otkup 2.500.000",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-poslala-lucica-u-cvajtu-za-300000-evra-otkup-2500000/546469",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 06. 2026. у 22:01",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda otkupila Enema, ugovor na tri godine",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-otkupila-enema-ugovor-na-tri-godine/546462",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 06. 2026. у 19:48",
-      "slika": null
-    },
-    {
-      "naslov": "Kanadski fudbaler Alfonso Dejvis nije se još oporavio od povrede",
-      "url": "https://www.tanjug.rs/sport/fudbal/259505/kanadski-fudbaler-alfonso-dejvis-nije-se-jos-oporavio-od-povrede/vest",
+      "naslov": "Selektor Novog Zelanda Bejzli: Ponosan sam, imali smo šansu da ispišemo istoriju",
+      "url": "https://www.tanjug.rs/sport/fudbal/259583/selektor-novog-zelanda-bejzli-ponosan-sam-imali-smo-sansu-da-ispisemo-istoriju/vest",
       "izvor": "Танјуг",
-      "datum": "15. 06. 2026. у 22:52",
+      "datum": "16. 06. 2026. у 11:54",
       "slika": null
     },
     {
-      "naslov": "Brito: Pokazali smo dobru organizovanost i hrabrost na meču protiv Španije",
-      "url": "https://www.tanjug.rs/sport/fudbal/259503/brito-pokazali-smo-dobru-organizovanost-i-hrabrost-na-mecu-protiv-spanije/vest",
+      "naslov": "Američki fudbaler Kristijan Pulišić spreman za meč sa Australijom",
+      "url": "https://www.tanjug.rs/sport/fudbal/259580/americki-fudbaler-kristijan-pulisic-spreman-za-mec-sa-australijom/vest",
       "izvor": "Танјуг",
-      "datum": "15. 06. 2026. у 22:25",
+      "datum": "16. 06. 2026. у 11:41",
       "slika": null
     },
     {
-      "naslov": "Italijanski fudbaler Nikolo Zaniolo ostaje u Udinezeu do 2029. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/259500/italijanski-fudbaler-nikolo-zaniolo-ostaje-u-udinezeu-do-2029-godine/vest",
+      "naslov": "Nemački fudbaler Antonio Ridiger produžio ugovor sa Realom",
+      "url": "https://www.tanjug.rs/sport/fudbal/259574/nemacki-fudbaler-antonio-ridiger-produzio-ugovor-sa-realom/vest",
       "izvor": "Танјуг",
-      "datum": "15. 06. 2026. у 21:55",
+      "datum": "16. 06. 2026. у 11:21",
       "slika": null
     },
     {
-      "naslov": "Portugalski fudbaler Koštinja potpisao ugovor sa Brajtonom",
-      "url": "https://www.tanjug.rs/sport/fudbal/259495/portugalski-fudbaler-kostinja-potpisao-ugovor-sa-brajtonom/vest",
+      "naslov": "Fudbalski reprezentativac Novog Zelanda Metju Garbet zbog povrede propušta Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/259571/fudbalski-reprezentativac-novog-zelanda-metju-garbet-zbog-povrede-propusta-svetsko-prvenstvo/vest",
       "izvor": "Танјуг",
-      "datum": "15. 06. 2026. у 21:26",
+      "datum": "16. 06. 2026. у 11:07",
       "slika": null
     },
     {
-      "naslov": "Vladimir Lučić napustio Zvezdu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242273/crvena-zvezda-prodala-vladimira-lucica-u-drugu-ligu-nemacke/vest",
+      "naslov": "OFK Beograd krenuo u novu sezonu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242432/ofk-beograd-krenuo-u-novu-sezonu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "15. 06. 2026. у 21:40",
+      "datum": "16. 06. 2026. у 13:32",
       "slika": null
     },
     {
-      "naslov": "&quot;Glavni problem Srbije? Imamo sjajne igrače, ali nemamo zajedništvo&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242227/glavni-problem-srbije-imamo-sjajne-igrace-ali-nemamo-zajednistvo/vest",
+      "naslov": "Partizan ne staje: Posle Kojzeka i Traorea stiže i Brazilac?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242425/partizan-hoce-brazilca/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "15. 06. 2026. у 18:48",
+      "datum": "16. 06. 2026. у 13:17",
       "slika": null
     }
   ]
