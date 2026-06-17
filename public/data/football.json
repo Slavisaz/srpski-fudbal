@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-06-17T07:24:52.986106+00:00",
-  "azurirano_sr": "17. 06. 2026. у 09:24",
+  "azurirano": "2026-06-17T11:59:31.429044+00:00",
+  "azurirano_sr": "17. 06. 2026. у 13:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Mesina glasa da opet dođe stranac: Mora da se promeni mentalitet u srpskom fudbalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mesina-glasa-da-opet-doe-stranac-mora-da-se-promeni-mentalitet-u-srpskom-fudbalu/546612",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 06. 2026. у 13:49",
+      "slika": null
+    },
+    {
+      "naslov": "Buongiorno Italia: Real Madrid bacio oko na Bastonija, Inter ne odustaje od 70.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-real-madrid-bacio-oko-na-bastonija-inter-ne-odustaje-od-70000000-evra/546601",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 06. 2026. у 12:47",
+      "slika": null
+    },
+    {
+      "naslov": "Olimpijakos i Petar Stanić: Napredak postoji, vruće je",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/olimpijakos-i-petar-stanic-napredak-postoji-vruce-je/546595",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 06. 2026. у 12:08",
+      "slika": null
+    },
     {
       "naslov": "Zaboravite bejzbol, sada se igra fudbal: Spojili su okeane, pokušaće da razdvoje favorite",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zaboravite-bejzbol-sada-se-igra-fudbal-spojili-su-okeane-pokusace-da-razdvoje-favorite/546562",
@@ -11,66 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Mesi, Mesi, Mesi! Čovek je čudo, bajka traje (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mesi-mesi-mesi-covek-je-cudo-bajka-traje-video/546582",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 06. 2026. у 07:05",
-      "slika": null
-    },
-    {
-      "naslov": "Moćan, moćniji, Erling Haland! Norveški defibrilator umirio puno srce Iračana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mocan-mocniji-erling-haland-norveski-defibrilator-umirio-puno-srce-iracana/546581",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 06. 2026. у 04:01",
-      "slika": null
-    },
-    {
-      "naslov": "Ništa od Nejmara! Loše vesti za Brazil, u domovini besni",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nista-od-nejmara-lose-vesti-za-brazil-u-domovini-besni/546566",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 06. 2026. у 23:15",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Austrije bolji od Jordana, Arnautović sa klupe režirao pobedu",
-      "url": "https://www.tanjug.rs/sport/fudbal/259783/fudbaleri-austrije-bolji-od-jordana-arnautovic-sa-klupe-rezirao-pobedu/vest",
+      "naslov": "Renar: Ni sekund nisam razmišljao da li da preuzmem reprezentaciju Tunisa",
+      "url": "https://www.tanjug.rs/sport/fudbal/259899/renar-ni-sekund-nisam-razmisljao-da-li-da-preuzmem-reprezentaciju-tunisa/vest",
       "izvor": "Танјуг",
-      "datum": "17. 06. 2026. у 08:11",
+      "datum": "17. 06. 2026. у 13:33",
       "slika": null
     },
     {
-      "naslov": "Istorijski het-trik čudesnog Mesija, Argentina savladala Alžir na startu Svetskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/259776/istorijski-het-trik-cudesnog-mesija-argentina-savladala-alzir-na-startu-svetskom-prvenstvu/vest",
+      "naslov": "Vojvodina igra protiv Tventea ako eliminiše Ferencvaroš u kvalifikacijama za Ligu Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/259894/vojvodina-igra-protiv-tventea-ako-eliminise-ferencvaros-u-kvalifikacijama-za-ligu-evrope/vest",
       "izvor": "Танјуг",
-      "datum": "17. 06. 2026. у 05:14",
+      "datum": "17. 06. 2026. у 13:22",
       "slika": null
     },
     {
-      "naslov": "Haland sa dva gola predvodio Norvešku do pobede protiv Iraka",
-      "url": "https://www.tanjug.rs/sport/fudbal/259778/haland-sa-dva-gola-predvodio-norvesku-do-pobede-protiv-iraka/vest",
+      "naslov": "Deni Rel novi trener fudbalera Salcburga",
+      "url": "https://www.tanjug.rs/sport/fudbal/259886/deni-rel-novi-trener-fudbalera-salcburga/vest",
       "izvor": "Танјуг",
-      "datum": "17. 06. 2026. у 02:04",
+      "datum": "17. 06. 2026. у 13:02",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Francuske pobedili Senegal, Mbape pisao istoriju",
-      "url": "https://www.tanjug.rs/sport/fudbal/259767/fudbaleri-francuske-pobedili-senegal-mbape-pisao-istoriju/vest",
+      "naslov": "Petković posle poraza od Argentine: Igrali smo protiv tima koji je bio nivo iznad nas",
+      "url": "https://www.tanjug.rs/sport/fudbal/259869/petkovic-posle-poraza-od-argentine-igrali-smo-protiv-tima-koji-je-bio-nivo-iznad-nas/vest",
       "izvor": "Танјуг",
-      "datum": "16. 06. 2026. у 23:04",
+      "datum": "17. 06. 2026. у 12:20",
       "slika": null
     },
     {
-      "naslov": "Klubovi rekli &quot;ne&quot;: Srbija bez dva nosioca igre na Evropskom prvenstvu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242593/petric-ostao-bez-cvetkovica-i-maksimovica-pred-ep-u-velsu/vest",
+      "naslov": "Čuka počela pripreme: ciljevi – Evropa i vrh srpskog fudbala",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242750/cukaricki-poceo-pripreme-jaksic-i-matijasevic-izneli-ciljeve/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 06. 2026. у 22:32",
+      "datum": "17. 06. 2026. у 13:55",
       "slika": null
     },
     {
-      "naslov": "OFK Beograd krenuo u novu sezonu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242432/ofk-beograd-krenuo-u-novu-sezonu/vest",
+      "naslov": "Vojvodina potvrdila &quot;bombu&quot;: &quot;Kapiten ponovo na Karađorđu&quot; FOTO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242711/dejan-zukic-ponovo-u-fk-vojvodina/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 06. 2026. у 13:32",
+      "datum": "17. 06. 2026. у 12:41",
       "slika": null
     }
   ]
