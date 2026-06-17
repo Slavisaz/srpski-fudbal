@@ -1,34 +1,55 @@
 {
-  "azurirano": "2026-06-17T11:59:31.429044+00:00",
-  "azurirano_sr": "17. 06. 2026. у 13:59",
+  "azurirano": "2026-06-17T15:34:04.202367+00:00",
+  "azurirano_sr": "17. 06. 2026. у 17:34",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Mesina glasa da opet dođe stranac: Mora da se promeni mentalitet u srpskom fudbalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mesina-glasa-da-opet-doe-stranac-mora-da-se-promeni-mentalitet-u-srpskom-fudbalu/546612",
+      "naslov": "Radnički predstavio kvartet: Ima pojačanja i u Mozzart Bet Prvoj ligi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/radnicki-predstavio-kvartet-ima-pojacanja-i-u-mozzart-bet-prvoj-ligi/546646",
       "izvor": "Мозарт Спорт",
-      "datum": "17. 06. 2026. у 13:49",
+      "datum": "17. 06. 2026. у 19:11",
       "slika": null
     },
     {
-      "naslov": "Buongiorno Italia: Real Madrid bacio oko na Bastonija, Inter ne odustaje od 70.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-real-madrid-bacio-oko-na-bastonija-inter-ne-odustaje-od-70000000-evra/546601",
+      "naslov": "Igor Ivanović je ’opklada’ Radničkog za sledeću sezonu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/igor-ivanovic-je-opklada-radnickog-za-sledecu-sezonu/546641",
       "izvor": "Мозарт Спорт",
-      "datum": "17. 06. 2026. у 12:47",
+      "datum": "17. 06. 2026. у 18:31",
       "slika": null
     },
     {
-      "naslov": "Olimpijakos i Petar Stanić: Napredak postoji, vruće je",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/olimpijakos-i-petar-stanic-napredak-postoji-vruce-je/546595",
+      "naslov": "Vladimir Matijašević predlaže: Milorad Mažić za predsednika sudijske komisije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vladimir-matijasevic-predlaze-milorad-mazic-za-predsednika-sudijske-komisije/546636",
       "izvor": "Мозарт Спорт",
-      "datum": "17. 06. 2026. у 12:08",
+      "datum": "17. 06. 2026. у 16:58",
       "slika": null
     },
     {
-      "naslov": "Zaboravite bejzbol, sada se igra fudbal: Spojili su okeane, pokušaće da razdvoje favorite",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zaboravite-bejzbol-sada-se-igra-fudbal-spojili-su-okeane-pokusace-da-razdvoje-favorite/546562",
+      "naslov": "Demba Sek je Partizanov za 1.400.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/demba-sek-je-partizanov-za-1400000-evra/546634",
       "izvor": "Мозарт Спорт",
-      "datum": "17. 06. 2026. у 10:26",
+      "datum": "17. 06. 2026. у 16:43",
+      "slika": null
+    },
+    {
+      "naslov": "Englez Majkl Oliver sudi meč između fudbalera Holandije i Švedske na Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/259962/englez-majkl-oliver-sudi-mec-izmedu-fudbalera-holandije-i-svedske-na-svetskom-prvenstvu/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 06. 2026. у 16:07",
+      "slika": null
+    },
+    {
+      "naslov": "Koković: Braga je verovatno najkvalitetniji tim u Ligi konferencije, dostojno ćemo predstaviti Srbiju",
+      "url": "https://www.tanjug.rs/sport/fudbal/259928/kokovic-braga-je-verovatno-najkvalitetniji-tim-u-ligi-konferencije-dostojno-cemo-predstaviti-srbiju/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 06. 2026. у 14:51",
+      "slika": null
+    },
+    {
+      "naslov": "Partizan igra sa pobednikom meča Una Strasen - La Fjorita, Železničar sa Bragom u Ligi konferencija",
+      "url": "https://www.tanjug.rs/sport/fudbal/259923/partizan-igra-sa-pobednikom-meca-una-strasen-la-fjorita-zeleznicar-sa-bragom-u-ligi-konferencija/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 06. 2026. у 14:40",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/259899/renar-ni-sekund-nisam-razmisljao-da-li-da-preuzmem-reprezentaciju-tunisa/vest",
       "izvor": "Танјуг",
       "datum": "17. 06. 2026. у 13:33",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina igra protiv Tventea ako eliminiše Ferencvaroš u kvalifikacijama za Ligu Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/259894/vojvodina-igra-protiv-tventea-ako-eliminise-ferencvaros-u-kvalifikacijama-za-ligu-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 06. 2026. у 13:22",
-      "slika": null
-    },
-    {
-      "naslov": "Deni Rel novi trener fudbalera Salcburga",
-      "url": "https://www.tanjug.rs/sport/fudbal/259886/deni-rel-novi-trener-fudbalera-salcburga/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 06. 2026. у 13:02",
-      "slika": null
-    },
-    {
-      "naslov": "Petković posle poraza od Argentine: Igrali smo protiv tima koji je bio nivo iznad nas",
-      "url": "https://www.tanjug.rs/sport/fudbal/259869/petkovic-posle-poraza-od-argentine-igrali-smo-protiv-tima-koji-je-bio-nivo-iznad-nas/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 06. 2026. у 12:20",
       "slika": null
     },
     {
