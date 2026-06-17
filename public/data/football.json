@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-17T02:07:47.525727+00:00",
-  "azurirano_sr": "17. 06. 2026. у 04:07",
+  "azurirano": "2026-06-17T07:24:52.986106+00:00",
+  "azurirano_sr": "17. 06. 2026. у 09:24",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zaboravite bejzbol, sada se igra fudbal: Spojili su okeane, pokušaće da razdvoje favorite",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zaboravite-bejzbol-sada-se-igra-fudbal-spojili-su-okeane-pokusace-da-razdvoje-favorite/546562",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 06. 2026. у 10:26",
+      "slika": null
+    },
+    {
+      "naslov": "Mesi, Mesi, Mesi! Čovek je čudo, bajka traje (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mesi-mesi-mesi-covek-je-cudo-bajka-traje-video/546582",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 06. 2026. у 07:05",
+      "slika": null
+    },
     {
       "naslov": "Moćan, moćniji, Erling Haland! Norveški defibrilator umirio puno srce Iračana",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mocan-mocniji-erling-haland-norveski-defibrilator-umirio-puno-srce-iracana/546581",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Totenhem razbio kasu za novi stub odbrane! Brajtonova fabrika nastavlja da štanca pare",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/totenhem-razbio-kasu-za-novi-stub-odbrane-brajtonova-fabrika-nastavlja-da-stanca-pare/546564",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 06. 2026. у 22:52",
+      "naslov": "Fudbaleri Austrije bolji od Jordana, Arnautović sa klupe režirao pobedu",
+      "url": "https://www.tanjug.rs/sport/fudbal/259783/fudbaleri-austrije-bolji-od-jordana-arnautovic-sa-klupe-rezirao-pobedu/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 06. 2026. у 08:11",
       "slika": null
     },
     {
-      "naslov": "Vojvodina napada uplašenog i palog vladara ravnice: Zavrtanje slavine Fradiju šansa za Novosađane",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vojvodina-napada-uplasenog-i-palog-vladara-ravnice-zavrtanje-slavine-fradiju-sansa-za-novosaane/546554",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 06. 2026. у 20:37",
+      "naslov": "Istorijski het-trik čudesnog Mesija, Argentina savladala Alžir na startu Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/259776/istorijski-het-trik-cudesnog-mesija-argentina-savladala-alzir-na-startu-svetskom-prvenstvu/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 06. 2026. у 05:14",
+      "slika": null
+    },
+    {
+      "naslov": "Haland sa dva gola predvodio Norvešku do pobede protiv Iraka",
+      "url": "https://www.tanjug.rs/sport/fudbal/259778/haland-sa-dva-gola-predvodio-norvesku-do-pobede-protiv-iraka/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 06. 2026. у 02:04",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/259767/fudbaleri-francuske-pobedili-senegal-mbape-pisao-istoriju/vest",
       "izvor": "Танјуг",
       "datum": "16. 06. 2026. у 23:04",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Vojvodine protiv Ferencvaroša u prvom kolu kvalifikacija za Ligu Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/259696/fudbaleri-vojvodine-protiv-ferencvarosa-u-prvom-kolu-kvalifikacija-za-ligu-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 06. 2026. у 17:15",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Borca iz Banjaluke protiv Levskog u prvom kolu kvalifikacija za Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/259685/fudbaleri-borca-iz-banjaluke-protiv-levskog-u-prvom-kolu-kvalifikacija-za-ligu-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 06. 2026. у 16:30",
-      "slika": null
-    },
-    {
-      "naslov": "Nemac Feliks Cvajer sudi meč SAD - Australija na Svetskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/259659/nemac-feliks-cvajer-sudi-mec-sad-australija-na-svetskom-prvenstvu/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 06. 2026. у 15:36",
       "slika": null
     },
     {
