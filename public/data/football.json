@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-06-17T15:34:04.202367+00:00",
-  "azurirano_sr": "17. 06. 2026. у 17:34",
+  "azurirano": "2026-06-17T18:02:55.566135+00:00",
+  "azurirano_sr": "17. 06. 2026. у 20:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Pojavila se i Loznica na letnjoj pijaci: Povratak Milana Ilića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pojavila-se-i-loznica-na-letnjoj-pijaci-povratak-milana-ilica/546648",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 06. 2026. у 19:54",
+      "slika": null
+    },
+    {
+      "naslov": "Red za Gašića sve duži: Sad je i Kasteljon zainteresovan",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/red-za-gasica-sve-duzi-sad-je-i-kasteljon-zainteresovan/546647",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 06. 2026. у 19:30",
+      "slika": null
+    },
+    {
+      "naslov": "Hrvatski funkcioner kao sav običan svet - dres, pivo i imperativ: Daliću niko ne sme da se meša u posao",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/hrvatski-funkcioner-kao-sav-obican-svet-dres-pivo-i-imperativ-dalicu-niko-ne-sme-da-se-mesa-u-posao/546645",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 06. 2026. у 19:25",
+      "slika": null
+    },
     {
       "naslov": "Radnički predstavio kvartet: Ima pojačanja i u Mozzart Bet Prvoj ligi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/radnicki-predstavio-kvartet-ima-pojacanja-i-u-mozzart-bet-prvoj-ligi/546646",
@@ -11,24 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Igor Ivanović je ’opklada’ Radničkog za sledeću sezonu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/igor-ivanovic-je-opklada-radnickog-za-sledecu-sezonu/546641",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 06. 2026. у 18:31",
+      "naslov": "Đovani van Bronkhorst novi trener fudbalera Fejenorda",
+      "url": "https://www.tanjug.rs/sport/fudbal/260001/dovani-van-bronkhorst-novi-trener-fudbalera-fejenorda/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 06. 2026. у 17:57",
       "slika": null
     },
     {
-      "naslov": "Vladimir Matijašević predlaže: Milorad Mažić za predsednika sudijske komisije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vladimir-matijasevic-predlaze-milorad-mazic-za-predsednika-sudijske-komisije/546636",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 06. 2026. у 16:58",
+      "naslov": "Euzebio Di Frančesko ostaje trener Lećea do 2028. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/259994/euzebio-di-francesko-ostaje-trener-lecea-do-2028-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 06. 2026. у 17:42",
       "slika": null
     },
     {
-      "naslov": "Demba Sek je Partizanov za 1.400.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/demba-sek-je-partizanov-za-1400000-evra/546634",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 06. 2026. у 16:43",
+      "naslov": "Ronaldo: Lionel Mesi je najbolji fudbaler svih vremena",
+      "url": "https://www.tanjug.rs/sport/fudbal/259987/ronaldo-lionel-mesi-je-najbolji-fudbaler-svih-vremena/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 06. 2026. у 17:06",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/259962/englez-majkl-oliver-sudi-mec-izmedu-fudbalera-holandije-i-svedske-na-svetskom-prvenstvu/vest",
       "izvor": "Танјуг",
       "datum": "17. 06. 2026. у 16:07",
-      "slika": null
-    },
-    {
-      "naslov": "Koković: Braga je verovatno najkvalitetniji tim u Ligi konferencije, dostojno ćemo predstaviti Srbiju",
-      "url": "https://www.tanjug.rs/sport/fudbal/259928/kokovic-braga-je-verovatno-najkvalitetniji-tim-u-ligi-konferencije-dostojno-cemo-predstaviti-srbiju/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 06. 2026. у 14:51",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan igra sa pobednikom meča Una Strasen - La Fjorita, Železničar sa Bragom u Ligi konferencija",
-      "url": "https://www.tanjug.rs/sport/fudbal/259923/partizan-igra-sa-pobednikom-meca-una-strasen-la-fjorita-zeleznicar-sa-bragom-u-ligi-konferencija/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 06. 2026. у 14:40",
-      "slika": null
-    },
-    {
-      "naslov": "Renar: Ni sekund nisam razmišljao da li da preuzmem reprezentaciju Tunisa",
-      "url": "https://www.tanjug.rs/sport/fudbal/259899/renar-ni-sekund-nisam-razmisljao-da-li-da-preuzmem-reprezentaciju-tunisa/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 06. 2026. у 13:33",
       "slika": null
     },
     {
