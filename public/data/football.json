@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-18T07:02:17.446418+00:00",
-  "azurirano_sr": "18. 06. 2026. у 09:02",
+  "azurirano": "2026-06-18T11:13:29.427619+00:00",
+  "azurirano_sr": "18. 06. 2026. у 13:13",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Bogosavac predao dokumente za dobijanje ruskog pasoša: Želim da ostanem",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bogosavac-predao-dokumente-za-dobijanje-ruskog-pasosa-zelim-da-ostanem/546697",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 06. 2026. у 13:27",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET (-), četvrtak, 270.568 dinara: Fincima jedan gol falio za magiju u Majke Jevrosime",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-cetvrtak-270568-dinara-fincima-jedan-gol-falio-za-magiju-u-majke-jevrosime/546682",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 06. 2026. у 10:49",
+      "slika": null
+    },
     {
       "naslov": "PRELAZZI: Tajni agent španske krune Roberto Martinez",
       "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-tajni-agent-spanske-krune-roberto-martinez/546678",
@@ -18,45 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Gana od beznađa do pobede u 90+5: Veruj profesoru svom i kad ti izgleda da nema nikakvog smisla",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gana-od-beznaa-do-pobede-u-905-veruj-profesoru-svom-i-kad-ti-izgleda-da-nema-nikakvog-smisla/546674",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 06. 2026. у 05:06",
-      "slika": null
-    },
-    {
-      "naslov": "Pojavila se i Loznica na letnjoj pijaci: Povratak Milana Ilića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pojavila-se-i-loznica-na-letnjoj-pijaci-povratak-milana-ilica/546648",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 06. 2026. у 19:54",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Kolumbije savladali Uzbekistan na Mundijalu",
-      "url": "https://www.tanjug.rs/sport/fudbal/260070/fudbaleri-kolumbije-savladali-uzbekistan-na-mundijalu/vest",
+      "naslov": "Francuski fudbaler Ibrahima Konate potpisao ugovor sa Realom",
+      "url": "https://www.tanjug.rs/sport/fudbal/260144/francuski-fudbaler-ibrahima-konate-potpisao-ugovor-sa-realom/vest",
       "izvor": "Танјуг",
-      "datum": "18. 06. 2026. у 06:03",
+      "datum": "18. 06. 2026. у 11:41",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Gane u 90+5. minutu do pobede protiv Paname",
-      "url": "https://www.tanjug.rs/sport/fudbal/260071/fudbaleri-gane-u-905-minutu-do-pobede-protiv-paname/vest",
+      "naslov": "Martines: Ronaldo mora da bude na terenu, nema smisla da ostane na klupi za rezerve",
+      "url": "https://www.tanjug.rs/sport/fudbal/260125/martines-ronaldo-mora-da-bude-na-terenu-nema-smisla-da-ostane-na-klupi-za-rezerve/vest",
       "izvor": "Танјуг",
-      "datum": "18. 06. 2026. у 05:49",
+      "datum": "18. 06. 2026. у 10:55",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Engleske bolji od Hrvatske, Livaković sprečio teži poraz",
-      "url": "https://www.tanjug.rs/sport/fudbal/260060/fudbaleri-engleske-bolji-od-hrvatske-livakovic-sprecio-tezi-poraz/vest",
+      "naslov": "Kapiten fudbalera Kanade Alfonso Dejvis spreman za meč protiv Katara",
+      "url": "https://www.tanjug.rs/sport/fudbal/260112/kapiten-fudbalera-kanade-alfonso-dejvis-spreman-za-mec-protiv-katara/vest",
       "izvor": "Танјуг",
-      "datum": "18. 06. 2026. у 00:01",
+      "datum": "18. 06. 2026. у 10:05",
       "slika": null
     },
     {
-      "naslov": "Novo iznenađenje na Mundijalu: Fudbaleri DR Kongo zaustavili Portugal i Ronalda",
-      "url": "https://www.tanjug.rs/sport/fudbal/260039/novo-iznenadenje-na-mundijalu-fudbaleri-dr-kongo-zaustavili-portugal-i-ronalda/vest",
+      "naslov": "Selektor Kolumbije Nestor Lorenco: Bili smo pod pritiskom da pobedimo",
+      "url": "https://www.tanjug.rs/sport/fudbal/260102/selektor-kolumbije-nestor-lorenco-bili-smo-pod-pritiskom-da-pobedimo/vest",
       "izvor": "Танјуг",
-      "datum": "17. 06. 2026. у 20:59",
+      "datum": "18. 06. 2026. у 09:35",
+      "slika": null
+    },
+    {
+      "naslov": "Partizan preskače Rusiju",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242969/partizan-ne-ide-u-rusiju-na-turnir-cska-u-moskvi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 06. 2026. у 11:33",
       "slika": null
     },
     {
