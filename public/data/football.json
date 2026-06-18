@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-18T17:35:05.038577+00:00",
-  "azurirano_sr": "18. 06. 2026. у 19:35",
+  "azurirano": "2026-06-18T19:50:18.230646+00:00",
+  "azurirano_sr": "18. 06. 2026. у 21:50",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Remi fudbalera Češke i Južne Afrike u prvom meču drugog kola na Mundijalu",
+      "url": "https://www.tanjug.rs/sport/fudbal/260312/remi-fudbalera-ceske-i-juzne-afrike-u-prvom-mecu-drugog-kola-na-mundijalu/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 06. 2026. у 19:59",
+      "slika": null
+    },
+    {
       "naslov": "Dušan Tadić posle godinu dana napušta Al Vahdu",
       "url": "https://www.tanjug.rs/sport/fudbal/260287/dusan-tadic-posle-godinu-dana-napusta-al-vahdu/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Srpski fudbaler Milan Aleksić prešao na pozajmicu u Partizan",
-      "url": "https://www.tanjug.rs/sport/fudbal/260245/srpski-fudbaler-milan-aleksic-presao-na-pozajmicu-u-partizan/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 06. 2026. у 16:04",
+      "naslov": "Spartak doveo bivšeg igrača Bajerna i Zvezde!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243124/nemanja-motika-potpisao-za-spartak/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 06. 2026. у 20:09",
       "slika": null
     },
     {
-      "naslov": "Oštre reči na račun Ronalda: &quot;Nikada neće biti Mesi&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/243163/dzej-botrojd-o-kristijanu-ronaldu/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "18. 06. 2026. у 19:33",
-      "slika": null
-    },
-    {
-      "naslov": "Češka dominira u nastavku – drugi pogodak visi u vazduhu",
-      "url": "https://www.b92.net/sport/fudbal/vesti/243112/uzivo-ceska-juzna-afrika-lajv-prenos/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "18. 06. 2026. у 19:21",
+      "naslov": "Srbija saznala rivale na putu ka istorijskom plasmanu na SP",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243127/fudbalerke-srbije-protiv-finske-u-barazu-za-svetsko-prvenstvo/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 06. 2026. у 18:40",
       "slika": null
     }
   ]
