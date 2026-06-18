@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-06-18T11:13:29.427619+00:00",
-  "azurirano_sr": "18. 06. 2026. у 13:13",
+  "azurirano": "2026-06-18T14:21:32.274868+00:00",
+  "azurirano_sr": "18. 06. 2026. у 16:21",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Makedonci uhapsili i drugog bivšeg predsednika Fudbalskog saveza",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/makedonci-uhapsili-i-drugog-bivseg-predsednika-fudbalskog-saveza/546724",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 06. 2026. у 17:23",
+      "slika": null
+    },
+    {
+      "naslov": "Utisci prve runde Mundijala: Nema turista! Leo, izvini što smo posumnjali",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/utisci-prve-runde-mundijala-nema-turista-leo-izvini-sto-smo-posumnjali/546717",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 06. 2026. у 16:27",
+      "slika": null
+    },
+    {
+      "naslov": "Miladinović priprema teren za odlazak iz Sent Etjena",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/miladinovic-priprema-teren-za-odlazak-iz-sent-etjena/546713",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 06. 2026. у 16:02",
+      "slika": null
+    },
     {
       "naslov": "Bogosavac predao dokumente za dobijanje ruskog pasoša: Želim da ostanem",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bogosavac-predao-dokumente-za-dobijanje-ruskog-pasosa-zelim-da-ostanem/546697",
@@ -11,73 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "LUDI TIKET (-), četvrtak, 270.568 dinara: Fincima jedan gol falio za magiju u Majke Jevrosime",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-cetvrtak-270568-dinara-fincima-jedan-gol-falio-za-magiju-u-majke-jevrosime/546682",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 06. 2026. у 10:49",
-      "slika": null
-    },
-    {
-      "naslov": "PRELAZZI: Tajni agent španske krune Roberto Martinez",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-tajni-agent-spanske-krune-roberto-martinez/546678",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 06. 2026. у 10:12",
-      "slika": null
-    },
-    {
-      "naslov": "Rezzime jučerašnjeg dana (sreda): Bogovi fudbala su bili strogi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-jucerasnjeg-dana-sreda-bogovi-fudbala-su-bili-strogi/546679",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 06. 2026. у 10:10",
-      "slika": null
-    },
-    {
-      "naslov": "Francuski fudbaler Ibrahima Konate potpisao ugovor sa Realom",
-      "url": "https://www.tanjug.rs/sport/fudbal/260144/francuski-fudbaler-ibrahima-konate-potpisao-ugovor-sa-realom/vest",
+      "naslov": "Brazilac Rafael Klaus sudi meč Španija - Saudijska Arabija na Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/260232/brazilac-rafael-klaus-sudi-mec-spanija-saudijska-arabija-na-svetskom-prvenstvu/vest",
       "izvor": "Танјуг",
-      "datum": "18. 06. 2026. у 11:41",
+      "datum": "18. 06. 2026. у 15:24",
       "slika": null
     },
     {
-      "naslov": "Martines: Ronaldo mora da bude na terenu, nema smisla da ostane na klupi za rezerve",
-      "url": "https://www.tanjug.rs/sport/fudbal/260125/martines-ronaldo-mora-da-bude-na-terenu-nema-smisla-da-ostane-na-klupi-za-rezerve/vest",
+      "naslov": "Fudbaler iz Obale Slonovače Čaka Traore novi igrač Partizana",
+      "url": "https://www.tanjug.rs/sport/fudbal/260230/fudbaler-iz-obale-slonovace-caka-traore-novi-igrac-partizana/vest",
       "izvor": "Танјуг",
-      "datum": "18. 06. 2026. у 10:55",
+      "datum": "18. 06. 2026. у 15:14",
       "slika": null
     },
     {
-      "naslov": "Kapiten fudbalera Kanade Alfonso Dejvis spreman za meč protiv Katara",
-      "url": "https://www.tanjug.rs/sport/fudbal/260112/kapiten-fudbalera-kanade-alfonso-dejvis-spreman-za-mec-protiv-katara/vest",
+      "naslov": "Fudbaler Obale Slonovače Eli Vai ne može u Kanadu zbog optužbi za nameštanje mečeva",
+      "url": "https://www.tanjug.rs/sport/fudbal/260200/fudbaler-obale-slonovace-eli-vai-ne-moze-u-kanadu-zbog-optuzbi-za-namestanje-meceva/vest",
       "izvor": "Танјуг",
-      "datum": "18. 06. 2026. у 10:05",
+      "datum": "18. 06. 2026. у 14:13",
       "slika": null
     },
     {
-      "naslov": "Selektor Kolumbije Nestor Lorenco: Bili smo pod pritiskom da pobedimo",
-      "url": "https://www.tanjug.rs/sport/fudbal/260102/selektor-kolumbije-nestor-lorenco-bili-smo-pod-pritiskom-da-pobedimo/vest",
+      "naslov": "Fudbalerke Srbije protiv Finske u prvoj rundi baraža za plasman na Svetsko prvenstvo 2027.",
+      "url": "https://www.tanjug.rs/sport/fudbal/260192/fudbalerke-srbije-protiv-finske-u-prvoj-rundi-baraza-za-plasman-na-svetsko-prvenstvo-2027/vest",
       "izvor": "Танјуг",
-      "datum": "18. 06. 2026. у 09:35",
+      "datum": "18. 06. 2026. у 13:58",
       "slika": null
     },
     {
-      "naslov": "Partizan preskače Rusiju",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242969/partizan-ne-ide-u-rusiju-na-turnir-cska-u-moskvi/vest",
+      "naslov": "Aleksić se vratio u Partizan – iz premijerligaša",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243104/milan-aleksic-na-pozajmici-u-partizanu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 06. 2026. у 11:33",
+      "datum": "18. 06. 2026. у 16:12",
       "slika": null
     },
     {
-      "naslov": "Čuka počela pripreme: ciljevi – Evropa i vrh srpskog fudbala",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242750/cukaricki-poceo-pripreme-jaksic-i-matijasevic-izneli-ciljeve/vest",
+      "naslov": "Zvanično: Partizan doveo igrača iz Milana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243093/zvanicno-partizan-doveo-igraca-iz-milana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 06. 2026. у 13:55",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina potvrdila &quot;bombu&quot;: &quot;Kapiten ponovo na Karađorđu&quot; FOTO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/242711/dejan-zukic-ponovo-u-fk-vojvodina/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 06. 2026. у 12:41",
+      "datum": "18. 06. 2026. у 15:15",
       "slika": null
     }
   ]
