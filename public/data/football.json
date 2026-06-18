@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-18T02:06:04.603014+00:00",
-  "azurirano_sr": "18. 06. 2026. у 04:06",
+  "azurirano": "2026-06-18T07:02:17.446418+00:00",
+  "azurirano_sr": "18. 06. 2026. у 09:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "PRELAZZI: Tajni agent španske krune Roberto Martinez",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-tajni-agent-spanske-krune-roberto-martinez/546678",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 06. 2026. у 10:12",
+      "slika": null
+    },
+    {
+      "naslov": "Rezzime jučerašnjeg dana (sreda): Bogovi fudbala su bili strogi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-jucerasnjeg-dana-sreda-bogovi-fudbala-su-bili-strogi/546679",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 06. 2026. у 10:10",
+      "slika": null
+    },
     {
       "naslov": "Gana od beznađa do pobede u 90+5: Veruj profesoru svom i kad ti izgleda da nema nikakvog smisla",
       "url": "https://www.mozzartsport.com/fudbal/vesti/gana-od-beznaa-do-pobede-u-905-veruj-profesoru-svom-i-kad-ti-izgleda-da-nema-nikakvog-smisla/546674",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Red za Gašića sve duži: Sad je i Kasteljon zainteresovan",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/red-za-gasica-sve-duzi-sad-je-i-kasteljon-zainteresovan/546647",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 06. 2026. у 19:30",
+      "naslov": "Fudbaleri Kolumbije savladali Uzbekistan na Mundijalu",
+      "url": "https://www.tanjug.rs/sport/fudbal/260070/fudbaleri-kolumbije-savladali-uzbekistan-na-mundijalu/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 06. 2026. у 06:03",
       "slika": null
     },
     {
-      "naslov": "Hrvatski funkcioner kao sav običan svet - dres, pivo i imperativ: Daliću niko ne sme da se meša u posao",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/hrvatski-funkcioner-kao-sav-obican-svet-dres-pivo-i-imperativ-dalicu-niko-ne-sme-da-se-mesa-u-posao/546645",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 06. 2026. у 19:25",
+      "naslov": "Fudbaleri Gane u 90+5. minutu do pobede protiv Paname",
+      "url": "https://www.tanjug.rs/sport/fudbal/260071/fudbaleri-gane-u-905-minutu-do-pobede-protiv-paname/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 06. 2026. у 05:49",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/260039/novo-iznenadenje-na-mundijalu-fudbaleri-dr-kongo-zaustavili-portugal-i-ronalda/vest",
       "izvor": "Танјуг",
       "datum": "17. 06. 2026. у 20:59",
-      "slika": null
-    },
-    {
-      "naslov": "Đovani van Bronkhorst novi trener fudbalera Fejenorda",
-      "url": "https://www.tanjug.rs/sport/fudbal/260001/dovani-van-bronkhorst-novi-trener-fudbalera-fejenorda/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 06. 2026. у 17:57",
-      "slika": null
-    },
-    {
-      "naslov": "Euzebio Di Frančesko ostaje trener Lećea do 2028. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/259994/euzebio-di-francesko-ostaje-trener-lecea-do-2028-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 06. 2026. у 17:42",
       "slika": null
     },
     {
