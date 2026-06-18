@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-18T14:21:32.274868+00:00",
-  "azurirano_sr": "18. 06. 2026. у 16:21",
+  "azurirano": "2026-06-18T17:35:05.038577+00:00",
+  "azurirano_sr": "18. 06. 2026. у 19:35",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Za otkup Kojzeka 2.000.000 evra! Traore po šemi „pola-pola“",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/za-otkup-kojzeka-2000000-evra-traore-po-semi-polapola/546739",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 06. 2026. у 20:54",
+      "slika": null
+    },
     {
       "naslov": "Makedonci uhapsili i drugog bivšeg predsednika Fudbalskog saveza",
       "url": "https://www.mozzartsport.com/fudbal/vesti/makedonci-uhapsili-i-drugog-bivseg-predsednika-fudbalskog-saveza/546724",
@@ -25,52 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Bogosavac predao dokumente za dobijanje ruskog pasoša: Želim da ostanem",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bogosavac-predao-dokumente-za-dobijanje-ruskog-pasosa-zelim-da-ostanem/546697",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 06. 2026. у 13:27",
-      "slika": null
-    },
-    {
-      "naslov": "Brazilac Rafael Klaus sudi meč Španija - Saudijska Arabija na Svetskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/260232/brazilac-rafael-klaus-sudi-mec-spanija-saudijska-arabija-na-svetskom-prvenstvu/vest",
+      "naslov": "Dušan Tadić posle godinu dana napušta Al Vahdu",
+      "url": "https://www.tanjug.rs/sport/fudbal/260287/dusan-tadic-posle-godinu-dana-napusta-al-vahdu/vest",
       "izvor": "Танјуг",
-      "datum": "18. 06. 2026. у 15:24",
+      "datum": "18. 06. 2026. у 18:19",
       "slika": null
     },
     {
-      "naslov": "Fudbaler iz Obale Slonovače Čaka Traore novi igrač Partizana",
-      "url": "https://www.tanjug.rs/sport/fudbal/260230/fudbaler-iz-obale-slonovace-caka-traore-novi-igrac-partizana/vest",
+      "naslov": "Ismail Kartal novi trener fudbalera Fenerbahčea",
+      "url": "https://www.tanjug.rs/sport/fudbal/260284/ismail-kartal-novi-trener-fudbalera-fenerbahcea/vest",
       "izvor": "Танјуг",
-      "datum": "18. 06. 2026. у 15:14",
+      "datum": "18. 06. 2026. у 18:19",
       "slika": null
     },
     {
-      "naslov": "Fudbaler Obale Slonovače Eli Vai ne može u Kanadu zbog optužbi za nameštanje mečeva",
-      "url": "https://www.tanjug.rs/sport/fudbal/260200/fudbaler-obale-slonovace-eli-vai-ne-moze-u-kanadu-zbog-optuzbi-za-namestanje-meceva/vest",
+      "naslov": "Partizan predstavio treće pojačanje u danu, Erik Kojzek došao na pozajmicu",
+      "url": "https://www.tanjug.rs/sport/fudbal/260267/partizan-predstavio-trece-pojacanje-u-danu-erik-kojzek-dosao-na-pozajmicu/vest",
       "izvor": "Танјуг",
-      "datum": "18. 06. 2026. у 14:13",
+      "datum": "18. 06. 2026. у 17:12",
       "slika": null
     },
     {
-      "naslov": "Fudbalerke Srbije protiv Finske u prvoj rundi baraža za plasman na Svetsko prvenstvo 2027.",
-      "url": "https://www.tanjug.rs/sport/fudbal/260192/fudbalerke-srbije-protiv-finske-u-prvoj-rundi-baraza-za-plasman-na-svetsko-prvenstvo-2027/vest",
+      "naslov": "Srpski fudbaler Milan Aleksić prešao na pozajmicu u Partizan",
+      "url": "https://www.tanjug.rs/sport/fudbal/260245/srpski-fudbaler-milan-aleksic-presao-na-pozajmicu-u-partizan/vest",
       "izvor": "Танјуг",
-      "datum": "18. 06. 2026. у 13:58",
+      "datum": "18. 06. 2026. у 16:04",
       "slika": null
     },
     {
-      "naslov": "Aleksić se vratio u Partizan – iz premijerligaša",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243104/milan-aleksic-na-pozajmici-u-partizanu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 06. 2026. у 16:12",
+      "naslov": "Oštre reči na račun Ronalda: &quot;Nikada neće biti Mesi&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/243163/dzej-botrojd-o-kristijanu-ronaldu/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "18. 06. 2026. у 19:33",
       "slika": null
     },
     {
-      "naslov": "Zvanično: Partizan doveo igrača iz Milana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243093/zvanicno-partizan-doveo-igraca-iz-milana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 06. 2026. у 15:15",
+      "naslov": "Češka dominira u nastavku – drugi pogodak visi u vazduhu",
+      "url": "https://www.b92.net/sport/fudbal/vesti/243112/uzivo-ceska-juzna-afrika-lajv-prenos/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "18. 06. 2026. у 19:21",
       "slika": null
     }
   ]
