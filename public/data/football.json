@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-19T02:11:24.531644+00:00",
-  "azurirano_sr": "19. 06. 2026. у 04:11",
+  "azurirano": "2026-06-19T07:25:35.559111+00:00",
+  "azurirano_sr": "19. 06. 2026. у 09:25",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Evropska škola i afrički ratnički gen - formula kojom su Maroko i DR Kongo poljuljali velikane",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/evropska-skola-i-africki-ratnicki-gen-formula-kojom-su-maroko-i-dr-kongo-poljuljali-velikane/546693",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 06. 2026. у 10:28",
+      "slika": null
+    },
     {
       "naslov": "Za otkup Kojzeka 2.000.000 evra! Traore po šemi „pola-pola“",
       "url": "https://www.mozzartsport.com/fudbal/vesti/za-otkup-kojzeka-2000000-evra-traore-po-semi-polapola/546739",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Miladinović priprema teren za odlazak iz Sent Etjena",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/miladinovic-priprema-teren-za-odlazak-iz-sent-etjena/546713",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 06. 2026. у 16:02",
+      "naslov": "Fudbaleri Meksika savladali Južnu Koreju i prvi obezbedili plasman u nokaut fazu Svetskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/260349/fudbaleri-meksika-savladali-juznu-koreju-i-prvi-obezbedili-plasman-u-nokaut-fazu-svetskog-prvenstva/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 06. 2026. у 05:04",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Kanade ubedljivi protiv Katara za prvi trijumf na Svetskom prvenstvu, het-trik Dejvida",
+      "url": "https://www.tanjug.rs/sport/fudbal/260350/fudbaleri-kanade-ubedljivi-protiv-katara-za-prvi-trijumf-na-svetskom-prvenstvu-het-trik-dejvida/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 06. 2026. у 04:50",
+      "slika": null
+    },
+    {
+      "naslov": "Uhapšeno šest navijača tokom utakmice Engleske i Hrvatske",
+      "url": "https://www.tanjug.rs/sport/fudbal/260354/uhapseno-sest-navijaca-tokom-utakmice-engleske-i-hrvatske/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 06. 2026. у 00:00",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/260337/fudbaleri-svajcarske-ubedljivo-savladali-bih-muharemovic-iskljucen/vest",
       "izvor": "Танјуг",
       "datum": "18. 06. 2026. у 22:58",
-      "slika": null
-    },
-    {
-      "naslov": "Gudurić predvodio Armani do 32. titule šampiona Italije",
-      "url": "https://www.tanjug.rs/sport/fudbal/260331/guduric-predvodio-armani-do-32-titule-sampiona-italije/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 06. 2026. у 22:41",
-      "slika": null
-    },
-    {
-      "naslov": "Remi fudbalera Češke i Južne Afrike u prvom meču drugog kola na Mundijalu",
-      "url": "https://www.tanjug.rs/sport/fudbal/260312/remi-fudbalera-ceske-i-juzne-afrike-u-prvom-mecu-drugog-kola-na-mundijalu/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 06. 2026. у 19:59",
-      "slika": null
-    },
-    {
-      "naslov": "Dušan Tadić posle godinu dana napušta Al Vahdu",
-      "url": "https://www.tanjug.rs/sport/fudbal/260287/dusan-tadic-posle-godinu-dana-napusta-al-vahdu/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 06. 2026. у 18:19",
       "slika": null
     },
     {
