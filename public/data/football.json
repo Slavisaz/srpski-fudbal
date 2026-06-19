@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-19T11:45:06.087643+00:00",
-  "azurirano_sr": "19. 06. 2026. у 13:45",
+  "azurirano": "2026-06-19T14:29:20.087854+00:00",
+  "azurirano_sr": "19. 06. 2026. у 16:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Montela zarežao na Turke da mu se skinu sa grbače: Pregrubi ste - mi smo ljudi, ne roboti",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/montela-zarezao-na-turke-da-mu-se-skinu-sa-grbace-pregrubi-ste-mi-smo-ljudi-ne-roboti/546816",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 06. 2026. у 17:42",
+      "slika": null
+    },
     {
       "naslov": "Humanitarni tiket u podne: Mundijalski tipovi Marjana Markovića za dobitnih 200.000 dinara",
       "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-mundijalski-tipovi-marjana-markovica-za-dobitnih-200000-dinara/546795",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Liverpul udario u prvi zid: Malo je 100.000.000 za Diomandea",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/liverpul-udario-u-prvi-zid-malo-je-100000000-za-diomandea/546763",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 06. 2026. у 11:23",
+      "naslov": "Premijer liga počinje 21. avgusta, Arsenal u prvom kolu dočekuje Konventri",
+      "url": "https://www.tanjug.rs/sport/fudbal/260474/premijer-liga-pocinje-21-avgusta-arsenal-u-prvom-kolu-docekuje-konventri/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 06. 2026. у 15:08",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Crvene zvezde pobedili Jedinstvo iz Užica u prijateljskoj utakmici",
+      "url": "https://www.tanjug.rs/sport/fudbal/260458/fudbaleri-crvene-zvezde-pobedili-jedinstvo-iz-uzica-u-prijateljskoj-utakmici/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 06. 2026. у 13:49",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Agire: Ostaćemo mirni, bez velike euforije zbog prolaska grupe",
-      "url": "https://www.tanjug.rs/sport/fudbal/260410/agire-ostacemo-mirni-bez-velike-euforije-zbog-prolaska-grupe/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 06. 2026. у 11:25",
-      "slika": null
-    },
-    {
-      "naslov": "Viktor Munjoz novi fudbaler Liverpula",
-      "url": "https://www.tanjug.rs/sport/fudbal/260387/viktor-munjoz-novi-fudbaler-liverpula/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 06. 2026. у 10:16",
+      "naslov": "Zvezda &quot;petardom&quot; zatvorila pripreme na Zlatiboru – pogađale novajlije VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243348/crvena-zvezda-slavila-u-prvoj-pripremnoj-utakmici/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 06. 2026. у 14:10",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243341/nemanja-rnic-za-b92sport-erik-kojzek-fk-partizan-intervju/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 06. 2026. у 13:35",
-      "slika": null
-    },
-    {
-      "naslov": "Novi odlazak iz Partizana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243296/aleksandar-kirovski-napustio-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 06. 2026. у 12:08",
       "slika": null
     }
   ]
