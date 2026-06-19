@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-19T14:29:20.087854+00:00",
-  "azurirano_sr": "19. 06. 2026. у 16:29",
+  "azurirano": "2026-06-19T16:57:39.031449+00:00",
+  "azurirano_sr": "19. 06. 2026. у 18:57",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Čukarički zadržao Miladinovića",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243460/uros-miladinovic-ostaje-u-cukarickom/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 06. 2026. у 18:25",
+      "slika": null
+    },
+    {
       "naslov": "Zvezda &quot;petardom&quot; zatvorila pripreme na Zlatiboru – pogađale novajlije VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243348/crvena-zvezda-slavila-u-prvoj-pripremnoj-utakmici/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 06. 2026. у 14:10",
-      "slika": null
-    },
-    {
-      "naslov": "Bivši igrač Partizana o novom napadaču crno-belih: &quot;Kojzek  igrač za sebe – iznenadio me je&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243341/nemanja-rnic-za-b92sport-erik-kojzek-fk-partizan-intervju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 06. 2026. у 13:35",
       "slika": null
     }
   ]
