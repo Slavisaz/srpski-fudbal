@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-19T18:51:38.305153+00:00",
-  "azurirano_sr": "19. 06. 2026. у 20:51",
+  "azurirano": "2026-06-19T20:22:04.845880+00:00",
+  "azurirano_sr": "19. 06. 2026. у 22:22",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Portugalski fudbaler Alfonso Moreira prešao iz Liona u Bajer Leverkuzen",
+      "url": "https://www.tanjug.rs/sport/fudbal/260483/portugalski-fudbaler-alfonso-moreira-presao-iz-liona-u-bajer-leverkuzen/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 06. 2026. у 15:26",
+      "slika": null
+    },
+    {
       "naslov": "Premijer liga počinje 21. avgusta, Arsenal u prvom kolu dočekuje Konventri",
       "url": "https://www.tanjug.rs/sport/fudbal/260474/premijer-liga-pocinje-21-avgusta-arsenal-u-prvom-kolu-docekuje-konventri/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/260417/kristijan-kivu-produzio-ugovor-sa-interom-do-2028-godine/vest",
       "izvor": "Танјуг",
       "datum": "19. 06. 2026. у 11:39",
-      "slika": null
-    },
-    {
-      "naslov": "Holandski fudbaler Jan Pol van Heke prešao iz Brajtona u Totenhem",
-      "url": "https://www.tanjug.rs/sport/fudbal/260411/holandski-fudbaler-jan-pol-van-heke-presao-iz-brajtona-u-totenhem/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 06. 2026. у 11:29",
       "slika": null
     },
     {
