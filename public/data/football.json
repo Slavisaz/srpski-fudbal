@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-20T21:57:00.954572+00:00",
-  "azurirano_sr": "20. 06. 2026. у 23:57",
+  "azurirano": "2026-06-20T23:01:51.065486+00:00",
+  "azurirano_sr": "21. 06. 2026. у 01:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Advokat: Kako do pobede nad Ekvadorom? Da im isključe četvoricu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/advokat-kako-do-pobede-nad-ekvadorom-da-im-iskljuce-cetvoricu/546899",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 06. 2026. у 01:05",
+      "slika": null
+    },
     {
       "naslov": "Ovako igra fudbaler gladan uspeha",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ovako-igra-fudbaler-gladan-uspeha/546919",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/bez-dobrih-vesti-za-brazil-rafinja-upitan-za-nastavak-sp/546918",
       "izvor": "Мозарт Спорт",
       "datum": "20. 06. 2026. у 22:35",
-      "slika": null
-    },
-    {
-      "naslov": "Grimaldo duplo skuplji nego što je Atletiko planirao: Nije 10.000.000 evra, nego 25.000.000",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/grimaldo-duplo-skuplji-nego-sto-je-atletiko-planirao-nije-10000000-evra-nego-25000000/546907",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 06. 2026. у 18:59",
       "slika": null
     },
     {
