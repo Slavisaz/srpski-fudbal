@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-19T23:41:09.543565+00:00",
-  "azurirano_sr": "20. 06. 2026. у 01:41",
+  "azurirano": "2026-06-20T01:50:20.986401+00:00",
+  "azurirano_sr": "20. 06. 2026. у 03:50",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -22,13 +22,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/zemun-sklapa-tim-za-superligu-belakovic-pojacao-krilo-bonus-stigao-iz-priboja/546791",
       "izvor": "Мозарт Спорт",
       "datum": "19. 06. 2026. у 14:13",
-      "slika": null
-    },
-    {
-      "naslov": "Sokermanija u Sijetlu: „Gnezdo” će da gori, još samo Pulišić da se oporavi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sokermanija-u-sijetlu-gnezdo-ce-da-gori-jos-samo-pulisic-da-se-oporavi/546769",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 06. 2026. у 11:40",
       "slika": null
     },
     {
@@ -71,6 +64,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243460/uros-miladinovic-ostaje-u-cukarickom/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 06. 2026. у 18:25",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezda &quot;petardom&quot; zatvorila pripreme na Zlatiboru – pogađale novajlije VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243348/crvena-zvezda-slavila-u-prvoj-pripremnoj-utakmici/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 06. 2026. у 14:10",
       "slika": null
     }
   ]
