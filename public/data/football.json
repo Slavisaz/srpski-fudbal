@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-20T09:31:51.416285+00:00",
-  "azurirano_sr": "20. 06. 2026. у 11:31",
+  "azurirano": "2026-06-20T11:30:22.653447+00:00",
+  "azurirano_sr": "20. 06. 2026. у 13:30",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Engleski fudbaler Bili Dži prvo pojačanje Železničara iz Pančeva",
+      "url": "https://www.tanjug.rs/sport/fudbal/260621/engleski-fudbaler-bili-dzi-prvo-pojacanje-zeleznicara-iz-panceva/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 06. 2026. у 12:48",
+      "slika": null
+    },
+    {
+      "naslov": "Montela: Veoma smo razočarani, očekivanja u Turskoj su bila ogromna",
+      "url": "https://www.tanjug.rs/sport/fudbal/260618/montela-veoma-smo-razocarani-ocekivanja-u-turskoj-su-bila-ogromna/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 06. 2026. у 12:19",
+      "slika": null
+    },
+    {
       "naslov": "Anćeloti: Uradili smo dobar posao protiv Haitija, Nejmar će biti spreman za Škotsku",
       "url": "https://www.tanjug.rs/sport/fudbal/260604/anceloti-uradili-smo-dobar-posao-protiv-haitija-nejmar-ce-biti-spreman-za-skotsku/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Dva gola Kunje i Vinisijus za pobedu fudbalera Brazila protiv Haitija",
-      "url": "https://www.tanjug.rs/sport/fudbal/260573/dva-gola-kunje-i-vinisijus-za-pobedu-fudbalera-brazila-protiv-haitija/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 06. 2026. у 04:35",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Maroka pobedili Škotsku, Saibari odlučio posle samo 70 sekundi",
-      "url": "https://www.tanjug.rs/sport/fudbal/260571/fudbaleri-maroka-pobedili-skotsku-saibari-odlucio-posle-samo-70-sekundi/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 06. 2026. у 01:59",
+      "naslov": "Železničar doveo bivšeg igrača Čelsija!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243597/bili-dzi-potpisao-za-zeleznicar-pancevo/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "20. 06. 2026. у 12:17",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243580/vasilije-kostov-ne-igra-evropsko-prvenstvo-za-omladince/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "20. 06. 2026. у 11:30",
-      "slika": null
-    },
-    {
-      "naslov": "Oproštaj od Partizana: &quot;Ponosan sam na sve što smo uradili&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243562/srdjan-ostojic-se-oprostio-od-fk-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "20. 06. 2026. у 10:30",
       "slika": null
     }
   ]
