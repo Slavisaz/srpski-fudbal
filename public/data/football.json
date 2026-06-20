@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-20T11:30:22.653447+00:00",
-  "azurirano_sr": "20. 06. 2026. у 13:30",
+  "azurirano": "2026-06-20T13:05:47.313039+00:00",
+  "azurirano_sr": "20. 06. 2026. у 15:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Deportivo se za Primeru pojačava kapitenom mlade reprezentacije Srbije?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/deportivo-se-za-primeru-pojacava-kapitenom-mlade-reprezentacije-srbije/546898",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 06. 2026. у 16:44",
+      "slika": null
+    },
     {
       "naslov": "Novo lice na treninzima Radničkog: Vošino dete koje zna kako je na jugu Srbije",
       "url": "https://www.mozzartsport.com/fudbal/vesti/novo-lice-na-treninzima-radnickog-vosino-dete-koje-zna-kako-je-na-jugu-srbije/546874",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Panenka, 50 godina kasnije: Žao mi je što nisam dobijao procente od golova koje su drugi davali",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/panenka-50-godina-kasnije-zao-mi-je-sto-nisam-dobijao-procente-od-golova-koje-su-drugi-davali/546862",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 06. 2026. у 11:20",
+      "naslov": "Srpski fudbaler Dejan Zukić posle dve godine ponovo u Vojvodini",
+      "url": "https://www.tanjug.rs/sport/fudbal/260638/srpski-fudbaler-dejan-zukic-posle-dve-godine-ponovo-u-vojvodini/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 06. 2026. у 14:33",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Turske sa igračem više poraženi od Paragvaja, ništa od nokaut faze Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/260583/fudbaleri-turske-sa-igracem-vise-porazeni-od-paragvaja-nista-od-nokaut-faze-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 06. 2026. у 07:44",
+      "naslov": "Vojvodina vratila reprezentativca Srbije!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243632/srpski-fudbaler-dejan-zukic-posle-dve-godine-ponovo-u-vojvodini/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "20. 06. 2026. у 14:40",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243597/bili-dzi-potpisao-za-zeleznicar-pancevo/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "20. 06. 2026. у 12:17",
-      "slika": null
-    },
-    {
-      "naslov": "I Kostov otpao za Evropsko prvenstvo",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243580/vasilije-kostov-ne-igra-evropsko-prvenstvo-za-omladince/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "20. 06. 2026. у 11:30",
       "slika": null
     }
   ]
