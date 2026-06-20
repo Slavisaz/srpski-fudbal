@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-06-20T17:59:52.335046+00:00",
-  "azurirano_sr": "20. 06. 2026. у 19:59",
+  "azurirano": "2026-06-20T19:39:45.764537+00:00",
+  "azurirano_sr": "20. 06. 2026. у 21:39",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ovako igra fudbaler gladan uspeha",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ovako-igra-fudbaler-gladan-uspeha/546919",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 06. 2026. у 23:01",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbal za nebeske aplauze Krojfa i Mihelsa: Narandžasti autobus pregazio Isaka i Đekereša",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbal-za-nebeske-aplauze-krojfa-i-mihelsa-narandzasti-autobus-pregazio-isaka-i-ekeresa/546920",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 06. 2026. у 22:58",
+      "slika": null
+    },
+    {
+      "naslov": "Bez dobrih vesti za Brazil: Rafinja upitan za nastavak SP",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bez-dobrih-vesti-za-brazil-rafinja-upitan-za-nastavak-sp/546918",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 06. 2026. у 22:35",
+      "slika": null
+    },
     {
       "naslov": "Grimaldo duplo skuplji nego što je Atletiko planirao: Nije 10.000.000 evra, nego 25.000.000",
       "url": "https://www.mozzartsport.com/fudbal/vesti/grimaldo-duplo-skuplji-nego-sto-je-atletiko-planirao-nije-10000000-evra-nego-25000000/546907",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Deportivo se za Primeru pojačava kapitenom mlade reprezentacije Srbije?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/deportivo-se-za-primeru-pojacava-kapitenom-mlade-reprezentacije-srbije/546898",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 06. 2026. у 16:44",
-      "slika": null
-    },
-    {
-      "naslov": "Novo lice na treninzima Radničkog: Vošino dete koje zna kako je na jugu Srbije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/novo-lice-na-treninzima-radnickog-vosino-dete-koje-zna-kako-je-na-jugu-srbije/546874",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 06. 2026. у 13:11",
-      "slika": null
-    },
-    {
-      "naslov": "Prvi talas zapljusno Humsku: Potencijal – da, sad Partizan mora da vodi računa o odbrani",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-talas-zapljusno-humsku-potencijal-da-sad-partizan-mora-da-vodi-racuna-o-odbrani/546870",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 06. 2026. у 12:14",
+      "naslov": "Goleada u Hjustonu - fudbaleri Holandije ubedljivi protiv Švedske",
+      "url": "https://www.tanjug.rs/sport/fudbal/260708/goleada-u-hjustonu-fudbaleri-holandije-ubedljivi-protiv-svedske/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 06. 2026. у 20:57",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/260638/srpski-fudbaler-dejan-zukic-posle-dve-godine-ponovo-u-vojvodini/vest",
       "izvor": "Танјуг",
       "datum": "20. 06. 2026. у 14:33",
-      "slika": null
-    },
-    {
-      "naslov": "Engleski fudbaler Bili Dži prvo pojačanje Železničara iz Pančeva",
-      "url": "https://www.tanjug.rs/sport/fudbal/260621/engleski-fudbaler-bili-dzi-prvo-pojacanje-zeleznicara-iz-panceva/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 06. 2026. у 12:48",
       "slika": null
     },
     {
