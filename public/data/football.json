@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-21T20:03:28.665310+00:00",
-  "azurirano_sr": "21. 06. 2026. у 22:03",
+  "azurirano": "2026-06-21T21:23:42.054413+00:00",
+  "azurirano_sr": "21. 06. 2026. у 23:23",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Rijerina frustracija posle otkaza: Nivo fudbala u Bundesligi je razočaravajuć",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rijerina-frustracija-posle-otkaza-nivo-fudbala-u-bundesligi-je-razocaravajuc/547004",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 06. 2026. у 00:50",
+      "slika": null
+    },
+    {
+      "naslov": "Dva asa za nula evra: Julijan Brant i Hari Vilson donose elitnu kreativnost u redove premijerligaša",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dva-asa-za-nula-evra-julijan-brant-i-hari-vilson-donose-elitnu-kreativnost-u-redove-premijerligasa/547003",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 06. 2026. у 00:22",
+      "slika": null
+    },
     {
       "naslov": "Bojan Kovačević najtraženiji igrač španskog drugoligaša",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bojan-kovacevic-najtrazeniji-igrac-spanskog-drugoligasa/546990",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Hvala Bogu: Neće biti pauze za hidrataciju u Ligi šampiona i na EP",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/hvala-bogu-nece-biti-pauze-za-hidrataciju-u-ligi-sampiona-i-na-ep/546977",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 06. 2026. у 17:39",
-      "slika": null
-    },
-    {
-      "naslov": "Otpade i Bačanin, Srbija bez polovine startera u Velsu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/otpade-i-bacanin-srbija-bez-polovine-startera-u-velsu/546952",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 06. 2026. у 13:33",
+      "naslov": "Remi fudbalera Belgije i Irana u Los Anđelesu",
+      "url": "https://www.tanjug.rs/sport/fudbal/260929/remi-fudbalera-belgije-i-irana-u-los-andelesu/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 06. 2026. у 23:02",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Lajpcig odbio ponudu Liverpula od 100 miliona evra za Diomandea",
-      "url": "https://www.tanjug.rs/sport/fudbal/260818/lajpcig-odbio-ponudu-liverpula-od-100-miliona-evra-za-diomandea/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 06. 2026. у 13:36",
+      "naslov": "Nemački golgeter se ozbiljno nameće Nagelsmanu",
+      "url": "https://www.b92.net/sport/fudbal/vesti/243888/nemacki-golgeter-se-ozbiljno-namece-nagelsmanu/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "21. 06. 2026. у 23:10",
       "slika": null
     },
     {
-      "naslov": "Zvezda stigla u Austriju – Stanković poveo 31 igrača",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243842/fudbaleri-crvene-zvezde-doputovali-na-pripreme-u-austriju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 06. 2026. у 16:37",
-      "slika": null
-    },
-    {
-      "naslov": "Železničar ozvaničio novo pojačanje: Srbin iz Švajcarske obukao plavo-beli dres",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243793/nemanja-zaric-u-fk-zeleznicar-pancevo/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 06. 2026. у 12:26",
+      "naslov": "Belgija pucala sebi u noge – nemoćna protiv veterana iz Irana!",
+      "url": "https://www.b92.net/sport/fudbal/vesti/243839/mundijal-grupa-g-2-kolo-belgija-iran-uzivo-prenos-gde-gledati/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "21. 06. 2026. у 23:00",
       "slika": null
     }
   ]
