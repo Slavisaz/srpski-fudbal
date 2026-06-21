@@ -1,13 +1,20 @@
 {
-  "azurirano": "2026-06-21T13:26:45.545641+00:00",
-  "azurirano_sr": "21. 06. 2026. у 15:26",
+  "azurirano": "2026-06-21T15:21:41.429553+00:00",
+  "azurirano_sr": "21. 06. 2026. у 17:21",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "MUNDIJAL UŽIVO (11. DAN): Španci traže iskupljenje za kiks protiv Zelenortskih Ostrva",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mundijal-uzivo-11-dan-spanci-traze-iskupljenje-za-kiks-protiv-zelenortskih-ostrva/546965",
+      "naslov": "Bjelsa nije za \"četvrtine\" u fudbalu, Bubista sanja plasman u nokaut fazu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bjelsa-nije-za-cetvrtine-u-fudbalu-bubista-sanja-plasman-u-nokaut-fazu/546956",
       "izvor": "Мозарт Спорт",
-      "datum": "21. 06. 2026. у 15:04",
+      "datum": "21. 06. 2026. у 19:09",
+      "slika": null
+    },
+    {
+      "naslov": "Hvala Bogu: Neće biti pauze za hidrataciju u Ligi šampiona i na EP",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/hvala-bogu-nece-biti-pauze-za-hidrataciju-u-ligi-sampiona-i-na-ep/546977",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 06. 2026. у 17:39",
       "slika": null
     },
     {
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Za Šloterbeka Mundijal gotov",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/za-sloterbeka-mundijal-gotov/546932",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 06. 2026. у 03:56",
+      "naslov": "Fudbaleri Crvene zvezde doputovali na pripreme u Austriju",
+      "url": "https://www.tanjug.rs/sport/fudbal/260868/fudbaleri-crvene-zvezde-doputovali-na-pripreme-u-austriju/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 06. 2026. у 16:19",
+      "slika": null
+    },
+    {
+      "naslov": "FIFA: Hesus Valensuela iz Venecuele sudi meč između BiH i Katara na Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/260856/fifa-hesus-valensuela-iz-venecuele-sudi-mec-izmedu-bih-i-katara-na-svetskom-prvenstvu/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 06. 2026. у 15:30",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Bijelsa: Pauze za hidrataciju na Svetskom prvenstvu ništa ne doprinose fudbalu",
-      "url": "https://www.tanjug.rs/sport/fudbal/260782/bijelsa-pauze-za-hidrataciju-na-svetskom-prvenstvu-nista-ne-doprinose-fudbalu/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 06. 2026. у 11:13",
-      "slika": null
-    },
-    {
-      "naslov": "Rum: Odigrali smo skoro savršenu utakmicu protiv Ekvadora",
-      "url": "https://www.tanjug.rs/sport/fudbal/260756/rum-odigrali-smo-skoro-savrsenu-utakmicu-protiv-ekvadora/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 06. 2026. у 09:49",
+      "naslov": "Zvezda stigla u Austriju – Stanković poveo 31 igrača",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243842/fudbaleri-crvene-zvezde-doputovali-na-pripreme-u-austriju/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 06. 2026. у 16:37",
       "slika": null
     },
     {
@@ -64,20 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243793/nemanja-zaric-u-fk-zeleznicar-pancevo/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "21. 06. 2026. у 12:26",
-      "slika": null
-    },
-    {
-      "naslov": "Srbija desetkovana za EP: Nižu se otkazi, Petrić ostao bez još jednog igrača",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243768/andrej-bacanin-ne-igra-za-srbiju-na-evropskom-prvenstvu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 06. 2026. у 10:43",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina vratila reprezentativca Srbije!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243632/srpski-fudbaler-dejan-zukic-posle-dve-godine-ponovo-u-vojvodini/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "20. 06. 2026. у 14:40",
       "slika": null
     }
   ]
