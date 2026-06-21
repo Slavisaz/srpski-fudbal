@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-21T09:04:05.236766+00:00",
-  "azurirano_sr": "21. 06. 2026. у 11:04",
+  "azurirano": "2026-06-21T11:49:32.403998+00:00",
+  "azurirano_sr": "21. 06. 2026. у 13:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "MUNDIJAL UŽIVO (11. DAN): Španci traže iskupljenje za kiks protiv Zelenortskih Ostrva",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mundijal-uzivo-11-dan-spanci-traze-iskupljenje-za-kiks-protiv-zelenortskih-ostrva/546965",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 06. 2026. у 15:04",
+      "slika": null
+    },
+    {
+      "naslov": "Otpade i Bačanin, Srbija bez polovine startera u Velsu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/otpade-i-bacanin-srbija-bez-polovine-startera-u-velsu/546952",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 06. 2026. у 13:33",
+      "slika": null
+    },
     {
       "naslov": "LUDI TIKET, nedelja, 99.445 dinara: Ko kaže da nema fudbala tokom Mundijala",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-nedelja-99445-dinara-ko-kaze-da-nema-fudbala-tokom-mundijala/546940",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Advokat: Kako do pobede nad Ekvadorom? Da im isključe četvoricu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/advokat-kako-do-pobede-nad-ekvadorom-da-im-iskljuce-cetvoricu/546899",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 06. 2026. у 01:05",
+      "naslov": "Selektor fudbalera Japana Morijasu: Srećan sam zbog pobede protiv Tunisa",
+      "url": "https://www.tanjug.rs/sport/fudbal/260786/selektor-fudbalera-japana-morijasu-srecan-sam-zbog-pobede-protiv-tunisa/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 06. 2026. у 11:30",
       "slika": null
     },
     {
-      "naslov": "Ovako igra fudbaler gladan uspeha",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ovako-igra-fudbaler-gladan-uspeha/546919",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 06. 2026. у 23:01",
+      "naslov": "Bijelsa: Pauze za hidrataciju na Svetskom prvenstvu ništa ne doprinose fudbalu",
+      "url": "https://www.tanjug.rs/sport/fudbal/260782/bijelsa-pauze-za-hidrataciju-na-svetskom-prvenstvu-nista-ne-doprinose-fudbalu/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 06. 2026. у 11:13",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Tunisu nije pomogla smena selektora, ubedljiv trijumf fudbalera Japana",
-      "url": "https://www.tanjug.rs/sport/fudbal/260741/tunisu-nije-pomogla-smena-selektora-ubedljiv-trijumf-fudbalera-japana/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 06. 2026. у 08:13",
-      "slika": null
-    },
-    {
-      "naslov": "Goleada u Hjustonu - fudbaleri Holandije ubedljivi protiv Švedske",
-      "url": "https://www.tanjug.rs/sport/fudbal/260708/goleada-u-hjustonu-fudbaleri-holandije-ubedljivi-protiv-svedske/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 06. 2026. у 20:57",
+      "naslov": "Železničar ozvaničio novo pojačanje: Srbin iz Švajcarske obukao plavo-beli dres",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243793/nemanja-zaric-u-fk-zeleznicar-pancevo/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 06. 2026. у 12:26",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243768/andrej-bacanin-ne-igra-za-srbiju-na-evropskom-prvenstvu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "21. 06. 2026. у 10:43",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina vratila reprezentativca Srbije!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243632/srpski-fudbaler-dejan-zukic-posle-dve-godine-ponovo-u-vojvodini/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "20. 06. 2026. у 14:40",
       "slika": null
     }
   ]
