@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-21T05:19:30.656293+00:00",
-  "azurirano_sr": "21. 06. 2026. у 07:19",
+  "azurirano": "2026-06-21T09:04:05.236766+00:00",
+  "azurirano_sr": "21. 06. 2026. у 11:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "LUDI TIKET, nedelja, 99.445 dinara: Ko kaže da nema fudbala tokom Mundijala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-nedelja-99445-dinara-ko-kaze-da-nema-fudbala-tokom-mundijala/546940",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 06. 2026. у 11:16",
+      "slika": null
+    },
     {
       "naslov": "Za Šloterbeka Mundijal gotov",
       "url": "https://www.mozzartsport.com/fudbal/vesti/za-sloterbeka-mundijal-gotov/546932",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Fudbal za nebeske aplauze Krojfa i Mihelsa: Narandžasti autobus pregazio Isaka i Đekereša",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbal-za-nebeske-aplauze-krojfa-i-mihelsa-narandzasti-autobus-pregazio-isaka-i-ekeresa/546920",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 06. 2026. у 22:58",
+      "naslov": "Rum: Odigrali smo skoro savršenu utakmicu protiv Ekvadora",
+      "url": "https://www.tanjug.rs/sport/fudbal/260756/rum-odigrali-smo-skoro-savrsenu-utakmicu-protiv-ekvadora/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 06. 2026. у 09:49",
+      "slika": null
+    },
+    {
+      "naslov": "Odbojkašice Srbije poražene od SAD u Ligi nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/260743/odbojkasice-srbije-porazene-od-sad-u-ligi-nacija/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 06. 2026. у 08:34",
+      "slika": null
+    },
+    {
+      "naslov": "Tunisu nije pomogla smena selektora, ubedljiv trijumf fudbalera Japana",
+      "url": "https://www.tanjug.rs/sport/fudbal/260741/tunisu-nije-pomogla-smena-selektora-ubedljiv-trijumf-fudbalera-japana/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 06. 2026. у 08:13",
       "slika": null
     },
     {
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fric savladao Zvereva i prošao u finale turnira u Haleu",
-      "url": "https://www.tanjug.rs/sport/fudbal/260676/fric-savladao-zvereva-i-prosao-u-finale-turnira-u-haleu/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 06. 2026. у 18:36",
-      "slika": null
-    },
-    {
-      "naslov": "Dejan Zukić: Puno mi je srce, znam koliko sam želeo da se vratim u Vojvodinu",
-      "url": "https://www.tanjug.rs/sport/fudbal/260653/dejan-zukic-puno-mi-je-srce-znam-koliko-sam-zeleo-da-se-vratim-u-vojvodinu/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 06. 2026. у 16:10",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Dejan Zukić posle dve godine ponovo u Vojvodini",
-      "url": "https://www.tanjug.rs/sport/fudbal/260638/srpski-fudbaler-dejan-zukic-posle-dve-godine-ponovo-u-vojvodini/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 06. 2026. у 14:33",
+      "naslov": "Srbija desetkovana za EP: Nižu se otkazi, Petrić ostao bez još jednog igrača",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243768/andrej-bacanin-ne-igra-za-srbiju-na-evropskom-prvenstvu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 06. 2026. у 10:43",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243632/srpski-fudbaler-dejan-zukic-posle-dve-godine-ponovo-u-vojvodini/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "20. 06. 2026. у 14:40",
-      "slika": null
-    },
-    {
-      "naslov": "Železničar doveo bivšeg igrača Čelsija!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/243597/bili-dzi-potpisao-za-zeleznicar-pancevo/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "20. 06. 2026. у 12:17",
       "slika": null
     }
   ]
