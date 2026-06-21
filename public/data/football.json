@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-20T23:01:51.065486+00:00",
-  "azurirano_sr": "21. 06. 2026. у 01:01",
+  "azurirano": "2026-06-21T00:16:33.539663+00:00",
+  "azurirano_sr": "21. 06. 2026. у 02:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Za Šloterbeka Mundijal gotov",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/za-sloterbeka-mundijal-gotov/546932",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 06. 2026. у 03:56",
+      "slika": null
+    },
     {
       "naslov": "Advokat: Kako do pobede nad Ekvadorom? Da im isključe četvoricu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/advokat-kako-do-pobede-nad-ekvadorom-da-im-iskljuce-cetvoricu/546899",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/fudbal-za-nebeske-aplauze-krojfa-i-mihelsa-narandzasti-autobus-pregazio-isaka-i-ekeresa/546920",
       "izvor": "Мозарт Спорт",
       "datum": "20. 06. 2026. у 22:58",
-      "slika": null
-    },
-    {
-      "naslov": "Bez dobrih vesti za Brazil: Rafinja upitan za nastavak SP",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bez-dobrih-vesti-za-brazil-rafinja-upitan-za-nastavak-sp/546918",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 06. 2026. у 22:35",
       "slika": null
     },
     {
