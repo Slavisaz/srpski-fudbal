@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-22T07:41:54.033637+00:00",
-  "azurirano_sr": "22. 06. 2026. у 09:41",
+  "azurirano": "2026-06-22T13:17:29.672863+00:00",
+  "azurirano_sr": "22. 06. 2026. у 15:17",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Magnetna rezonanca potvrdila: Šloterbek pokidao ligament skočnog zgloba",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/magnetna-rezonanca-potvrdila-sloterbek-pokidao-ligament-skocnog-zgloba/547058",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 06. 2026. у 16:18",
+      "slika": null
+    },
     {
       "naslov": "Verder našao zamenu za Miloševića u drugoj ligi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/verder-nasao-zamenu-za-milosevica-u-drugoj-ligi/547014",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Bojan Kovačević najtraženiji igrač španskog drugoligaša",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bojan-kovacevic-najtrazeniji-igrac-spanskog-drugoligasa/546990",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 06. 2026. у 21:27",
+      "naslov": "Nemački fudbaler Niko Šloterbek zbog povrede završio Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/261060/nemacki-fudbaler-niko-sloterbek-zbog-povrede-zavrsio-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 06. 2026. у 14:11",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "FIFA: Hesus Valensuela iz Venecuele sudi meč između BiH i Katara na Svetskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/260856/fifa-hesus-valensuela-iz-venecuele-sudi-mec-izmedu-bih-i-katara-na-svetskom-prvenstvu/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 06. 2026. у 15:30",
+      "naslov": "Najveće Vošino pojačanje: &quot;Zaigralo mi je srce kada je stigao poziv&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244040/zukic-posle-povratka-u-vojvodinu-srce-mi-je-zaigralo/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 06. 2026. у 14:30",
       "slika": null
     },
     {
