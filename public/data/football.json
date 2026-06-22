@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-22T02:15:07.459943+00:00",
-  "azurirano_sr": "22. 06. 2026. у 04:15",
+  "azurirano": "2026-06-22T07:41:54.033637+00:00",
+  "azurirano_sr": "22. 06. 2026. у 09:41",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Verder našao zamenu za Miloševića u drugoj ligi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/verder-nasao-zamenu-za-milosevica-u-drugoj-ligi/547014",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 06. 2026. у 11:09",
+      "slika": null
+    },
     {
       "naslov": "Rijerina frustracija posle otkaza: Nivo fudbala u Bundesligi je razočaravajuć",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rijerina-frustracija-posle-otkaza-nivo-fudbala-u-bundesligi-je-razocaravajuc/547004",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/bojan-kovacevic-najtrazeniji-igrac-spanskog-drugoligasa/546990",
       "izvor": "Мозарт Спорт",
       "datum": "21. 06. 2026. у 21:27",
-      "slika": null
-    },
-    {
-      "naslov": "Bijelsa nije za \"četvrtine\" u fudbalu, Bubista sanja plasman u nokaut fazu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bijelsa-nije-za-cetvrtine-u-fudbalu-bubista-sanja-plasman-u-nokaut-fazu/546956",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 06. 2026. у 19:09",
       "slika": null
     },
     {
