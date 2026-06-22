@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-22T17:54:11.538075+00:00",
-  "azurirano_sr": "22. 06. 2026. у 19:54",
+  "azurirano": "2026-06-22T20:27:13.392852+00:00",
+  "azurirano_sr": "22. 06. 2026. у 22:27",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Petrić okupio Orliće i šeretski poručio: Nismo oslabljeni, jer je ovo najbolje što trenutno imamo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/petric-okupio-orlice-i-seretski-porucio-nismo-oslabljeni-jer-je-ovo-najbolje-sto-trenutno-imamo/547092",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 06. 2026. у 23:44",
+      "slika": null
+    },
     {
       "naslov": "Zemljište kupljeno, projekat na stolu - Nju Traford će biti vidljiv iz Liverpula?!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zemljiste-kupljeno-projekat-na-stolu-nju-traford-ce-biti-vidljiv-iz-liverpula/547074",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Verder našao zamenu za Miloševića u drugoj ligi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/verder-nasao-zamenu-za-milosevica-u-drugoj-ligi/547014",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 06. 2026. у 11:09",
+      "naslov": "Argentina pobedila Austriju, Mesi promašio penal pa sa dva gola ušao u istoriju Svetskih prvenstava",
+      "url": "https://www.tanjug.rs/sport/fudbal/261185/argentina-pobedila-austriju-mesi-promasio-penal-pa-sa-dva-gola-usao-u-istoriju-svetskih-prvenstava/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 06. 2026. у 21:09",
+      "slika": null
+    },
+    {
+      "naslov": "Omladinska fudbalska reprezentacija Srbije započela pripreme za Evropsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/261179/omladinska-fudbalska-reprezentacija-srbije-zapocela-pripreme-za-evropsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 06. 2026. у 20:48",
+      "slika": null
+    },
+    {
+      "naslov": "Mesi golom protiv Austrije postao najbolji strelac u istoriji svetskih prvenstava",
+      "url": "https://www.tanjug.rs/sport/fudbal/261162/mesi-golom-protiv-austrije-postao-najbolji-strelac-u-istoriji-svetskih-prvenstava/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 06. 2026. у 19:43",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/261143/predsednik-fudbalskog-saveza-turske-montela-i-igraci-imaju-nasu-podrsku-hocemo-da-imamo-kontinuitet/vest",
       "izvor": "Танјуг",
       "datum": "22. 06. 2026. у 18:18",
-      "slika": null
-    },
-    {
-      "naslov": "FK Zvezda: Premijum sezonska karta najisplativija opcija, dostupna po starim cenama",
-      "url": "https://www.tanjug.rs/sport/fudbal/261106/fk-zvezda-premijum-sezonska-karta-najisplativija-opcija-dostupna-po-starim-cenama/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 06. 2026. у 16:17",
-      "slika": null
-    },
-    {
-      "naslov": "Nemački fudbaler Niko Šloterbek zbog povrede završio Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/261060/nemacki-fudbaler-niko-sloterbek-zbog-povrede-zavrsio-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 06. 2026. у 14:11",
-      "slika": null
-    },
-    {
-      "naslov": "Remi fudbalera Belgije i Irana u Los Anđelesu",
-      "url": "https://www.tanjug.rs/sport/fudbal/260929/remi-fudbalera-belgije-i-irana-u-los-andelesu/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 06. 2026. у 23:02",
       "slika": null
     },
     {
