@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-23T21:57:05.482457+00:00",
-  "azurirano_sr": "23. 06. 2026. у 23:57",
+  "azurirano": "2026-06-23T23:03:40.146756+00:00",
+  "azurirano_sr": "24. 06. 2026. у 01:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Štoperi Gane kao stubovi Bakingemske palate: Englezi će morati mnogo bolje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stoperi-gane-kao-stubovi-bakingemske-palate-englezi-ce-morati-mnogo-bolje/547186",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 06. 2026. у 01:00",
+      "slika": null
+    },
     {
       "naslov": "Vesti sa prvoligaške pijace: Već drugi trener ovog leta u Boru, trio novajlija na Krovu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vesti-sa-prvoligaske-pijace-vec-drugi-trener-ovog-leta-u-boru-trio-novajlija-na-krovu/547179",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/adams-hamadu-iz-uba-u-sabac-macva-pronasla-napadaca-u-jedinstvu/547169",
       "izvor": "Мозарт Спорт",
       "datum": "23. 06. 2026. у 19:59",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan kompletira napadački korpus: Stiže Že",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/partizan-kompletira-napadacki-korpus-stize-ze/547167",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 06. 2026. у 18:56",
       "slika": null
     },
     {
