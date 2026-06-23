@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-23T11:47:00.249495+00:00",
-  "azurirano_sr": "23. 06. 2026. у 13:47",
+  "azurirano": "2026-06-23T14:07:39.830250+00:00",
+  "azurirano_sr": "23. 06. 2026. у 16:07",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Đenaro Gatuzo novi trener fudbalera Lacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/261361/denaro-gatuzo-novi-trener-fudbalera-lacija/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 06. 2026. у 15:35",
+      "slika": null
+    },
+    {
       "naslov": "Alimpijević: Nikola Jokić je kapiten Srbije, reprezentacija ga čini srećnim",
       "url": "https://www.tanjug.rs/sport/fudbal/261285/alimpijevic-nikola-jokic-je-kapiten-srbije-reprezentacija-ga-cini-srecnim/vest",
       "izvor": "Танјуг",
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Martinez: Nisam još obavestio igrače o startnoj postavi protiv Uzbekistana",
-      "url": "https://www.tanjug.rs/sport/fudbal/261240/martinez-nisam-jos-obavestio-igrace-o-startnoj-postavi-protiv-uzbekistana/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 06. 2026. у 10:01",
-      "slika": null
-    },
-    {
       "naslov": "Petrić naknadno menjao spisak: Dvojac Crvene zvezde ide na Evropsko prvenstvo",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244168/petric-pozvao-vuka-roganovica-i-vasilija-subotica-za-evropsko-prvenstvo-u-velsu/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,6 +71,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244079/nemanja-miletic-produzio-ugovor-andrej-bajovic-dosao-u-cukaricki/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 06. 2026. у 16:15",
+      "slika": null
+    },
+    {
+      "naslov": "Najveće Vošino pojačanje: &quot;Zaigralo mi je srce kada je stigao poziv&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244040/zukic-posle-povratka-u-vojvodinu-srce-mi-je-zaigralo/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 06. 2026. у 14:30",
       "slika": null
     }
   ]
