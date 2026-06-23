@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-23T01:47:47.650856+00:00",
-  "azurirano_sr": "23. 06. 2026. у 03:47",
+  "azurirano": "2026-06-23T05:52:43.736708+00:00",
+  "azurirano_sr": "23. 06. 2026. у 07:52",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Evo šta ste propustili 12. dana Mundijala: Sve bilo u znaku čudesnih golgetera",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/evo-sta-ste-propustili-12-dana-mundijala-sve-bilo-u-znaku-cudesnih-golgetera/547099",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 06. 2026. у 09:20",
+      "slika": null
+    },
     {
       "naslov": "Petrić okupio Orliće i šeretski poručio: Nismo oslabljeni, jer je ovo najbolje što trenutno imamo",
       "url": "https://www.mozzartsport.com/fudbal/vesti/petric-okupio-orlice-i-seretski-porucio-nismo-oslabljeni-jer-je-ovo-najbolje-sto-trenutno-imamo/547092",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/poluavo-poluaneo-cetiri-decenije-od-bozje-ruke-dresom-maradone-ne-bih-ni-sudove-prao/547071",
       "izvor": "Мозарт Спорт",
       "datum": "22. 06. 2026. у 18:21",
-      "slika": null
-    },
-    {
-      "naslov": "Magnetna rezonanca potvrdila: Šloterbek pokidao ligament skočnog zgloba",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/magnetna-rezonanca-potvrdila-sloterbek-pokidao-ligament-skocnog-zgloba/547058",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 06. 2026. у 16:18",
       "slika": null
     },
     {
