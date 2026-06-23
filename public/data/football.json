@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-23T16:37:08.746022+00:00",
-  "azurirano_sr": "23. 06. 2026. у 18:37",
+  "azurirano": "2026-06-23T18:26:33.002465+00:00",
+  "azurirano_sr": "23. 06. 2026. у 20:26",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Skinite mu se sa grbače: Ipak je CR7 pojam fudbala! (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/skinite-mu-se-sa-grbace-ipak-je-cr7-pojam-fudbala-video/547171",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 06. 2026. у 21:10",
+      "slika": null
+    },
     {
       "naslov": "Adams Hamadu iz Uba u Šabac:  Mačva pronašla napadača u Jedinstvu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/adams-hamadu-iz-uba-u-sabac-macva-pronasla-napadaca-u-jedinstvu/547169",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/buka-buka-je-u-modi-i-ronaldo-spreman-da-zapusi-usta-nevernim-tomama/547114",
       "izvor": "Мозарт Спорт",
       "datum": "23. 06. 2026. у 11:31",
-      "slika": null
-    },
-    {
-      "naslov": "Evo šta ste propustili 12. dana Mundijala: Sve bilo u znaku čudesnih golgetera",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/evo-sta-ste-propustili-12-dana-mundijala-sve-bilo-u-znaku-cudesnih-golgetera/547099",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 06. 2026. у 09:17",
       "slika": null
     },
     {
@@ -64,6 +64,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244462/ze-dolazi-u-partizan-na-pozajmicu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "23. 06. 2026. у 17:25",
+      "slika": null
+    },
+    {
+      "naslov": "Portugal ne staje! VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/244447/uzivo-mundijal-portugal-uzbekistan-live-gde-gledati-tv-prenos/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "23. 06. 2026. у 20:24",
       "slika": null
     },
     {
