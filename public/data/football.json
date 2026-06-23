@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-23T08:50:26.425148+00:00",
-  "azurirano_sr": "23. 06. 2026. у 10:50",
+  "azurirano": "2026-06-23T11:47:00.249495+00:00",
+  "azurirano_sr": "23. 06. 2026. у 13:47",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Alimpijević: Nikola Jokić je kapiten Srbije, reprezentacija ga čini srećnim",
+      "url": "https://www.tanjug.rs/sport/fudbal/261285/alimpijevic-nikola-jokic-je-kapiten-srbije-reprezentacija-ga-cini-srecnim/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 06. 2026. у 12:01",
+      "slika": null
+    },
+    {
+      "naslov": "Tuhel: Pauze za hidrataciju menjaju identitet fudbalske utakmice",
+      "url": "https://www.tanjug.rs/sport/fudbal/261275/tuhel-pauze-za-hidrataciju-menjaju-identitet-fudbalske-utakmice/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 06. 2026. у 11:36",
+      "slika": null
+    },
+    {
       "naslov": "Petković: Zasluženo smo pobedili, to nam daje mnogo samopouzdanja i vere",
       "url": "https://www.tanjug.rs/sport/fudbal/261246/petkovic-zasluzeno-smo-pobedili-to-nam-daje-mnogo-samopouzdanja-i-vere/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/261240/martinez-nisam-jos-obavestio-igrace-o-startnoj-postavi-protiv-uzbekistana/vest",
       "izvor": "Танјуг",
       "datum": "23. 06. 2026. у 10:01",
-      "slika": null
-    },
-    {
-      "naslov": "Haland: Moja specijalnost je da postižem golove",
-      "url": "https://www.tanjug.rs/sport/fudbal/261234/haland-moja-specijalnost-je-da-postizem-golove/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 06. 2026. у 09:42",
-      "slika": null
-    },
-    {
-      "naslov": "Alvarez: Smatram da je transfer najbolja stvar za sve, želim da ostvarim svoj san",
-      "url": "https://www.tanjug.rs/sport/fudbal/261229/alvarez-smatram-da-je-transfer-najbolja-stvar-za-sve-zelim-da-ostvarim-svoj-san/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 06. 2026. у 09:25",
       "slika": null
     },
     {
