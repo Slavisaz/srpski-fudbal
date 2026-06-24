@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-24T20:52:43.259272+00:00",
-  "azurirano_sr": "24. 06. 2026. у 22:52",
+  "azurirano": "2026-06-24T22:03:00.884768+00:00",
+  "azurirano_sr": "25. 06. 2026. у 00:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Bosno i Hercegovino, imaš grumen zlata! I nalaziš se u predvorju nokaut faze Mundijala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bosno-i-hercegovino-imas-grumen-zlata-i-nalazis-se-u-predvorju-nokaut-faze-mundijala/547269",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 06. 2026. у 00:58",
+      "slika": null
+    },
     {
       "naslov": "Mesi - SRJ, SCG, Srbija 18:16, i gde smo u odnosu na svetsku elitu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mesi-srj-scg-srbija-1816-i-gde-smo-u-odnosu-na-svetsku-elitu/547181",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Ispadanje iz Superlige je donelo Javoru višemilionski deficit",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ispadanje-iz-superlige-je-donelo-javoru-visemilionski-deficit/547217",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 06. 2026. у 14:06",
+      "naslov": "Fudbaleri BiH pobedili Katar za nokaut fazu Svetskog prvenstva, Švajcarska završila kao prva u grupi",
+      "url": "https://www.tanjug.rs/sport/fudbal/261702/fudbaleri-bih-pobedili-katar-za-nokaut-fazu-svetskog-prvenstva-svajcarska-zavrsila-kao-prva-u-grupi/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 06. 2026. у 23:04",
       "slika": null
     },
     {
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "FK Zvezda: Kupovina premijum sezonske ulaznice uz mogućnost plaćanja i na rate",
-      "url": "https://www.tanjug.rs/sport/fudbal/261617/fk-zvezda-kupovina-premijum-sezonske-ulaznice-uz-mogucnost-placanja-i-na-rate/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 06. 2026. у 16:12",
-      "slika": null
-    },
-    {
       "naslov": "Vojvodina izgubila",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244821/vojvodina-izgubila/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,10 +67,10 @@
       "slika": null
     },
     {
-      "naslov": "BiH razbila monotoniju – opet ima +2! VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/244747/uzivo-bih-katar-svajcarska-kanada-live-gde-gledati-tv-prenos/vest",
+      "naslov": "Ni pobeda ne garantuje prvo mesto",
+      "url": "https://www.b92.net/sport/fudbal/vesti/244736/uzivo-prenos-mundijal-3-kolo-grupe-c-skotska-brazil-maroko-haiti/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "24. 06. 2026. у 22:47",
+      "datum": "25. 06. 2026. у 00:01",
       "slika": null
     },
     {
