@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-24T12:35:14.924536+00:00",
-  "azurirano_sr": "24. 06. 2026. у 14:35",
+  "azurirano": "2026-06-24T15:20:54.323760+00:00",
+  "azurirano_sr": "24. 06. 2026. у 17:20",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Mesi - SRJ, SCG, Srbija 18:16 - i gde smo u odnosu na svetsku elitu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mesi-srj-scg-srbija-1816-i-gde-smo-u-odnosu-na-svetsku-elitu/547181",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 06. 2026. у 18:30",
+      "slika": null
+    },
+    {
+      "naslov": "Što južnije, to tužnije: Uprava vranjskog Dinama podnela kolektivnu ostavku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sto-juznije-to-tuznije-uprava-vranjskog-dinama-podnela-kolektivnu-ostavku/547244",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 06. 2026. у 18:03",
+      "slika": null
+    },
     {
       "naslov": "Radnički prodaje, ali i kupuje: Kvaku Bonsu Osei iz Spartaka za oko 200.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/radnicki-prodaje-ali-i-kupuje-kvaku-bonsu-osei-iz-spartaka-za-oko-200000-evra/547229",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Buongiorno Italia: Inter novac za Palestru preusmerava ka Madridu! Vanja ne želi da bude drugi golman",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-inter-novac-za-palestru-preusmerava-ka-madridu-vanja-ne-zeli-da-bude-drugi-golman/547220",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 06. 2026. у 14:06",
-      "slika": null
-    },
-    {
-      "naslov": "Podrhtavanje tla u Americi: Njujork Siti ponudio Pulišiću 10.000.000 dolara godišnje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/podrhtavanje-tla-u-americi-njujork-siti-ponudio-pulisicu-10000000-dolara-godisnje/547210",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 06. 2026. у 12:14",
+      "naslov": "FIFA: Kanađanin Dru Fišer sudi meč između Gane i Hrvatske na Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/261587/fifa-kanadanin-dru-fiser-sudi-mec-izmedu-gane-i-hrvatske-na-svetskom-prvenstvu/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 06. 2026. у 15:20",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/261502/selektor-kolumbije-nestor-lorenco-bilo-je-napeto-ali-smo-zasluzeno-pobedili/vest",
       "izvor": "Танјуг",
       "datum": "24. 06. 2026. у 10:48",
-      "slika": null
-    },
-    {
-      "naslov": "Anćeloti: Nejmar je spreman za meč sa Škotskom",
-      "url": "https://www.tanjug.rs/sport/fudbal/261493/anceloti-nejmar-je-spreman-za-mec-sa-skotskom/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 06. 2026. у 10:21",
       "slika": null
     },
     {
