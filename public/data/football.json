@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-24T10:38:45.743439+00:00",
-  "azurirano_sr": "24. 06. 2026. у 12:38",
+  "azurirano": "2026-06-24T12:35:14.924536+00:00",
+  "azurirano_sr": "24. 06. 2026. у 14:35",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Radnički prodaje, ali i kupuje: Kvaku Bonsu Osei iz Spartaka za oko 200.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/radnicki-prodaje-ali-i-kupuje-kvaku-bonsu-osei-iz-spartaka-za-oko-200000-evra/547229",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 06. 2026. у 15:22",
+      "slika": null
+    },
     {
       "naslov": "Ispadanje iz Superlige je donelo Javoru višemilionski deficit",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ispadanje-iz-superlige-je-donelo-javoru-visemilionski-deficit/547217",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Keiroš bljuje vatru: Sudija otišao da popije kafu, fudbal nije balska dvorana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/keiros-bljuje-vatru-sudija-otisao-da-popije-kafu-fudbal-nije-balska-dvorana/547206",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 06. 2026. у 11:46",
+      "naslov": "Koubek: Imamo ogroman respekt prema Meksiku, ali verujemo u našu pobedu",
+      "url": "https://www.tanjug.rs/sport/fudbal/261537/koubek-imamo-ogroman-respekt-prema-meksiku-ali-verujemo-u-nasu-pobedu/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 06. 2026. у 12:48",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/261493/anceloti-nejmar-je-spreman-za-mec-sa-skotskom/vest",
       "izvor": "Танјуг",
       "datum": "24. 06. 2026. у 10:21",
-      "slika": null
-    },
-    {
-      "naslov": "Keiroš: Prvi cilj je ostvaren, veoma sam ponosan na igrače",
-      "url": "https://www.tanjug.rs/sport/fudbal/261490/keiros-prvi-cilj-je-ostvaren-veoma-sam-ponosan-na-igrace/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 06. 2026. у 10:04",
       "slika": null
     },
     {
