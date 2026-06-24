@@ -1,10 +1,10 @@
 {
-  "azurirano": "2026-06-24T15:20:54.323760+00:00",
-  "azurirano_sr": "24. 06. 2026. у 17:20",
+  "azurirano": "2026-06-24T17:22:24.531366+00:00",
+  "azurirano_sr": "24. 06. 2026. у 19:22",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Mesi - SRJ, SCG, Srbija 18:16 - i gde smo u odnosu na svetsku elitu",
+      "naslov": "Mesi - SRJ, SCG, Srbija 18:16, i gde smo u odnosu na svetsku elitu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mesi-srj-scg-srbija-1816-i-gde-smo-u-odnosu-na-svetsku-elitu/547181",
       "izvor": "Мозарт Спорт",
       "datum": "24. 06. 2026. у 18:30",
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Laslo Đere poražen u drugom kolu kvalifikacija za Vimbldon",
+      "url": "https://www.tanjug.rs/sport/fudbal/261647/laslo-dere-porazen-u-drugom-kolu-kvalifikacija-za-vimbldon/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 06. 2026. у 18:08",
+      "slika": null
+    },
+    {
       "naslov": "FIFA: Kanađanin Dru Fišer sudi meč između Gane i Hrvatske na Svetskom prvenstvu",
       "url": "https://www.tanjug.rs/sport/fudbal/261587/fifa-kanadanin-dru-fiser-sudi-mec-izmedu-gane-i-hrvatske-na-svetskom-prvenstvu/vest",
       "izvor": "Танјуг",
@@ -53,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Selektor Kolumbije Nestor Lorenco: Bilo je napeto, ali smo zasluženo pobedili",
-      "url": "https://www.tanjug.rs/sport/fudbal/261502/selektor-kolumbije-nestor-lorenco-bilo-je-napeto-ali-smo-zasluzeno-pobedili/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 06. 2026. у 10:48",
-      "slika": null
-    },
-    {
       "naslov": "Novi hladan tuš za Srbiju? Bogati arapi zovu selektora!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244514/veljko-paunovic-napusta-srbiju-i-preuzima-al-itihad/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "23. 06. 2026. у 22:05",
+      "slika": null
+    },
+    {
+      "naslov": "Vrač iz Gane: &quot;Skinuo sam kletvu sa Kejna, sad opet može da daje golove&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/244771/vrac-iz-gane-skinuo-sam-kletvu-sa-kejna-sad-opet-moze-da-daje-golove/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "24. 06. 2026. у 19:18",
       "slika": null
     },
     {
