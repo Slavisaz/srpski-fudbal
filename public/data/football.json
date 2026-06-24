@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-24T04:20:02.634018+00:00",
-  "azurirano_sr": "24. 06. 2026. у 06:20",
+  "azurirano": "2026-06-24T07:54:51.544614+00:00",
+  "azurirano_sr": "24. 06. 2026. у 09:54",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kad zaboraviš češki",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kad-zaboravis-ceski/547199",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 06. 2026. у 10:40",
+      "slika": null
+    },
+    {
+      "naslov": "INTERVJU – Marko Mitrović: Želim u Americi ono što smo imali kod Čika Tome i Pižona",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/intervju-marko-mitrovic-zelim-u-americi-ono-sto-smo-imali-kod-cika-tome-i-pizona/547162",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 06. 2026. у 10:12",
+      "slika": null
+    },
     {
       "naslov": "Štoperi Gane kao stubovi Bakingemske palate: Englezi će morati mnogo bolje",
       "url": "https://www.mozzartsport.com/fudbal/vesti/stoperi-gane-kao-stubovi-bakingemske-palate-englezi-ce-morati-mnogo-bolje/547186",
@@ -18,45 +32,31 @@
       "slika": null
     },
     {
-      "naslov": "Skinite mu se sa grbače: Ipak je CR7 pojam fudbala! (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/skinite-mu-se-sa-grbace-ipak-je-cr7-pojam-fudbala-video/547171",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 06. 2026. у 21:10",
-      "slika": null
-    },
-    {
-      "naslov": "Adams Hamadu iz Uba u Šabac:  Mačva pronašla napadača u Jedinstvu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/adams-hamadu-iz-uba-u-sabac-macva-pronasla-napadaca-u-jedinstvu/547169",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 06. 2026. у 19:59",
-      "slika": null
-    },
-    {
-      "naslov": "Navaro: Zvezda najbolji izbor, košarka u Srbiji je nešto posebno",
-      "url": "https://www.tanjug.rs/sport/fudbal/261440/navaro-zvezda-najbolji-izbor-kosarka-u-srbiji-je-nesto-posebno/vest",
+      "naslov": "Kejn posle remija sa Ganom: Želeli smo pobedu, ali osvojili smo bod",
+      "url": "https://www.tanjug.rs/sport/fudbal/261474/kejn-posle-remija-sa-ganom-zeleli-smo-pobedu-ali-osvojili-smo-bod/vest",
       "izvor": "Танјуг",
-      "datum": "23. 06. 2026. у 21:45",
+      "datum": "24. 06. 2026. у 09:06",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Portugala ubedljivi protiv Uzbekistana, Ronaldo sa dva gola ušao u istoriju",
-      "url": "https://www.tanjug.rs/sport/fudbal/261432/fudbaleri-portugala-ubedljivi-protiv-uzbekistana-ronaldo-sa-dva-gola-usao-u-istoriju/vest",
+      "naslov": "Fudbaleri Kolumbije savladali DR Kongo i obezbedili nokaut fazu na Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/261454/fudbaleri-kolumbije-savladali-dr-kongo-i-obezbedili-nokaut-fazu-na-svetskom-prvenstvu/vest",
       "izvor": "Танјуг",
-      "datum": "23. 06. 2026. у 21:00",
+      "datum": "24. 06. 2026. у 07:38",
       "slika": null
     },
     {
-      "naslov": "Đenaro Gatuzo novi trener fudbalera Lacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/261361/denaro-gatuzo-novi-trener-fudbalera-lacija/vest",
+      "naslov": "Budimir za pobedu fudbalera Hrvatske protiv Paname",
+      "url": "https://www.tanjug.rs/sport/fudbal/261461/budimir-za-pobedu-fudbalera-hrvatske-protiv-paname/vest",
       "izvor": "Танјуг",
-      "datum": "23. 06. 2026. у 15:35",
+      "datum": "24. 06. 2026. у 03:18",
       "slika": null
     },
     {
-      "naslov": "Alimpijević: Nikola Jokić je kapiten Srbije, reprezentacija ga čini srećnim",
-      "url": "https://www.tanjug.rs/sport/fudbal/261285/alimpijevic-nikola-jokic-je-kapiten-srbije-reprezentacija-ga-cini-srecnim/vest",
+      "naslov": "Englezi zaustavljeni u Bostonu, fudbaleri Gane osvojili bod u meču bez golova",
+      "url": "https://www.tanjug.rs/sport/fudbal/261462/englezi-zaustavljeni-u-bostonu-fudbaleri-gane-osvojili-bod-u-mecu-bez-golova/vest",
       "izvor": "Танјуг",
-      "datum": "23. 06. 2026. у 12:01",
+      "datum": "24. 06. 2026. у 00:00",
       "slika": null
     },
     {
