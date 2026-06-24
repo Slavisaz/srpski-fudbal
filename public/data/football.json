@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-24T17:22:24.531366+00:00",
-  "azurirano_sr": "24. 06. 2026. у 19:22",
+  "azurirano": "2026-06-24T19:03:55.370667+00:00",
+  "azurirano_sr": "24. 06. 2026. у 21:03",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,10 +32,24 @@
       "slika": null
     },
     {
+      "naslov": "Danijel Heket produžio ugovor sa Virtusom na još jednu sezonu",
+      "url": "https://www.tanjug.rs/sport/fudbal/261662/danijel-heket-produzio-ugovor-sa-virtusom-na-jos-jednu-sezonu/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 06. 2026. у 19:03",
+      "slika": null
+    },
+    {
       "naslov": "Laslo Đere poražen u drugom kolu kvalifikacija za Vimbldon",
       "url": "https://www.tanjug.rs/sport/fudbal/261647/laslo-dere-porazen-u-drugom-kolu-kvalifikacija-za-vimbldon/vest",
       "izvor": "Танјуг",
       "datum": "24. 06. 2026. у 18:08",
+      "slika": null
+    },
+    {
+      "naslov": "FK Zvezda: Kupovina premijum sezonske ulaznice uz mogućnost plaćanja i na rate",
+      "url": "https://www.tanjug.rs/sport/fudbal/261617/fk-zvezda-kupovina-premijum-sezonske-ulaznice-uz-mogucnost-placanja-i-na-rate/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 06. 2026. у 16:12",
       "slika": null
     },
     {
@@ -46,20 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Koubek: Imamo ogroman respekt prema Meksiku, ali verujemo u našu pobedu",
-      "url": "https://www.tanjug.rs/sport/fudbal/261537/koubek-imamo-ogroman-respekt-prema-meksiku-ali-verujemo-u-nasu-pobedu/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 06. 2026. у 12:48",
-      "slika": null
-    },
-    {
-      "naslov": "Crnomarković: Zadovoljstvo je biti deo velikog kluba kao što je Vojvodina",
-      "url": "https://www.tanjug.rs/sport/fudbal/261520/crnomarkovic-zadovoljstvo-je-biti-deo-velikog-kluba-kao-sto-je-vojvodina/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 06. 2026. у 11:49",
-      "slika": null
-    },
-    {
       "naslov": "Novi hladan tuš za Srbiju? Bogati arapi zovu selektora!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244514/veljko-paunovic-napusta-srbiju-i-preuzima-al-itihad/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,10 +67,10 @@
       "slika": null
     },
     {
-      "naslov": "Vrač iz Gane: &quot;Skinuo sam kletvu sa Kejna, sad opet može da daje golove&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/244771/vrac-iz-gane-skinuo-sam-kletvu-sa-kejna-sad-opet-moze-da-daje-golove/vest",
+      "naslov": "BiH mora da pobedi, Švajcarska i Kanada za prvo mesto",
+      "url": "https://www.b92.net/sport/fudbal/vesti/244747/uzivo-bih-katar-svajcarska-kanada-live-gde-gledati-tv-prenos/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "24. 06. 2026. у 19:18",
+      "datum": "24. 06. 2026. у 20:56",
       "slika": null
     },
     {
