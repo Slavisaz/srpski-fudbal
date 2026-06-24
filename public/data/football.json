@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-24T19:03:55.370667+00:00",
-  "azurirano_sr": "24. 06. 2026. у 21:03",
+  "azurirano": "2026-06-24T20:52:43.259272+00:00",
+  "azurirano_sr": "24. 06. 2026. у 22:52",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Vojvodine poraženi od Đera u prijateljskoj utakmici",
+      "url": "https://www.tanjug.rs/sport/fudbal/261686/fudbaleri-vojvodine-porazeni-od-dera-u-prijateljskoj-utakmici/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 06. 2026. у 20:58",
+      "slika": null
+    },
+    {
       "naslov": "Danijel Heket produžio ugovor sa Virtusom na još jednu sezonu",
       "url": "https://www.tanjug.rs/sport/fudbal/261662/danijel-heket-produzio-ugovor-sa-virtusom-na-jos-jednu-sezonu/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "FIFA: Kanađanin Dru Fišer sudi meč između Gane i Hrvatske na Svetskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/261587/fifa-kanadanin-dru-fiser-sudi-mec-izmedu-gane-i-hrvatske-na-svetskom-prvenstvu/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 06. 2026. у 15:20",
+      "naslov": "Vojvodina izgubila",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244821/vojvodina-izgubila/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 06. 2026. у 21:15",
+      "slika": null
+    },
+    {
+      "naslov": "BiH razbila monotoniju – opet ima +2! VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/244747/uzivo-bih-katar-svajcarska-kanada-live-gde-gledati-tv-prenos/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "24. 06. 2026. у 22:47",
       "slika": null
     },
     {
@@ -67,24 +81,10 @@
       "slika": null
     },
     {
-      "naslov": "BiH mora da pobedi, Švajcarska i Kanada za prvo mesto",
-      "url": "https://www.b92.net/sport/fudbal/vesti/244747/uzivo-bih-katar-svajcarska-kanada-live-gde-gledati-tv-prenos/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "24. 06. 2026. у 20:56",
-      "slika": null
-    },
-    {
       "naslov": "Sti(Že) u Partizan",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244462/ze-dolazi-u-partizan-na-pozajmicu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "23. 06. 2026. у 17:25",
-      "slika": null
-    },
-    {
-      "naslov": "Petrić naknadno menjao spisak: Dvojac Crvene zvezde ide na Evropsko prvenstvo",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244168/petric-pozvao-vuka-roganovica-i-vasilija-subotica-za-evropsko-prvenstvo-u-velsu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 06. 2026. у 19:00",
       "slika": null
     }
   ]
