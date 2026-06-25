@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-25T11:18:11.904975+00:00",
-  "azurirano_sr": "25. 06. 2026. у 13:18",
+  "azurirano": "2026-06-25T13:28:46.206304+00:00",
+  "azurirano_sr": "25. 06. 2026. у 15:28",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Panatinaikosu ne treba Pantović, ali neće ni da ga proda",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/panatinaikosu-ne-treba-pantovic-ali-nece-ni-da-ga-proda/547326",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 06. 2026. у 16:16",
+      "slika": null
+    },
+    {
+      "naslov": "Saša Ilić: Potrebna su nam još četiri pojačanja, moramo da poradimo na odbrani",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sasa-ilic-potrebna-su-nam-jos-cetiri-pojacanja-moramo-da-poradimo-na-odbrani/547320",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 06. 2026. у 15:12",
+      "slika": null
+    },
     {
       "naslov": "Imaš upaljač? Imam i fudbalski klub zajedno sa Novakom Đokovićem",
       "url": "https://www.mozzartsport.com/fudbal/vesti/imas-upaljac-imam-i-fudbalski-klub-zajedno-sa-novakom-okovicem/547287",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/skupi-noge-gde-si-posao-bafana-bafana-u-andale-andale-modu-za-agoniju-sona-i-istoriju-na-mundijalu/547283",
       "izvor": "Мозарт Спорт",
       "datum": "25. 06. 2026. у 06:58",
-      "slika": null
-    },
-    {
-      "naslov": "Škoti slabo znaju fudbala za nešto više, liči ovo na „američki” Brazil",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/skoti-slabo-znaju-fudbala-za-nesto-vise-lici-ovo-na-americki-brazil/547280",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 06. 2026. у 04:01",
-      "slika": null
-    },
-    {
-      "naslov": "Bosno i Hercegovino, imaš grumen zlata! I nalaziš se u predvorju nokaut faze Mundijala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bosno-i-hercegovino-imas-grumen-zlata-i-nalazis-se-u-predvorju-nokaut-faze-mundijala/547269",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 06. 2026. у 00:58",
       "slika": null
     },
     {
@@ -60,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Ilić &quot;zagreva&quot; crno-bele na 30 stepeni u Zemunu FOTO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244937/partizan-trenira-na-vise-od-30-stepeni-pred-odlazak-u-sloveniju/vest",
+      "naslov": "Novajlija u Humskoj: &quot;Čuo sam da me porede sa Halandom&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244984/erik-kojzek-nemanja-rnic-mi-je-mnogo-pomogao-porede-me-sa-halandom/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "25. 06. 2026. у 12:02",
+      "datum": "25. 06. 2026. у 14:43",
       "slika": null
     },
     {
-      "naslov": "Vojvodina izgubila",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244821/vojvodina-izgubila/vest",
+      "naslov": "Ilić: &quot;Ambicije su iste, a koliko su realne...&quot;; &quot;Treba da poradimo na pojačanjima&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244967/sasa-ilic-izjava-pred-put-u-sloveniju-sa-partizanom/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "24. 06. 2026. у 21:15",
-      "slika": null
-    },
-    {
-      "naslov": "Novi hladan tuš za Srbiju? Bogati arapi zovu selektora!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244514/veljko-paunovic-napusta-srbiju-i-preuzima-al-itihad/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 06. 2026. у 22:05",
+      "datum": "25. 06. 2026. у 13:50",
       "slika": null
     }
   ]
