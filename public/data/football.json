@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-25T05:36:35.987670+00:00",
-  "azurirano_sr": "25. 06. 2026. у 07:36",
+  "azurirano": "2026-06-25T08:36:57.277504+00:00",
+  "azurirano_sr": "25. 06. 2026. у 10:36",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Imaš upaljač? Imam i fudbalski klub zajedno sa Novakom Đokovićem",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/imas-upaljac-imam-i-fudbalski-klub-zajedno-sa-novakom-okovicem/547287",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 06. 2026. у 10:30",
+      "slika": null
+    },
     {
       "naslov": "Skupi noge, gde si pošao?! Bafana Bafana u „Andale, andale“ modu za agoniju Sona i istoriju na Mundijalu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/skupi-noge-gde-si-posao-bafana-bafana-u-andale-andale-modu-za-agoniju-sona-i-istoriju-na-mundijalu/547283",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Mesi - SRJ, SCG, Srbija 18:16, i gde smo u odnosu na svetsku elitu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mesi-srj-scg-srbija-1816-i-gde-smo-u-odnosu-na-svetsku-elitu/547181",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 06. 2026. у 18:30",
+      "naslov": "Uahbi: Maroko je ušao u novu dimenziju, moramo da verujemo da možemo do titule",
+      "url": "https://www.tanjug.rs/sport/fudbal/261735/uahbi-maroko-je-usao-u-novu-dimenziju-moramo-da-verujemo-da-mozemo-do-titule/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 06. 2026. у 10:00",
+      "slika": null
+    },
+    {
+      "naslov": "Nejmar: Plakao sam u svlačionici, zahvalan sam Bogu što mogu da pomognem Brazilu",
+      "url": "https://www.tanjug.rs/sport/fudbal/261732/nejmar-plakao-sam-u-svlacionici-zahvalan-sam-bogu-sto-mogu-da-pomognem-brazilu/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 06. 2026. у 09:41",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Brazila savladali Škotsku, Južna Afrika i Bosna i Hercegovina prošli dalje",
+      "url": "https://www.tanjug.rs/sport/fudbal/261706/fudbaleri-brazila-savladali-skotsku-juzna-afrika-i-bosna-i-hercegovina-prosli-dalje/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 06. 2026. у 07:12",
       "slika": null
     },
     {
@@ -39,27 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Vojvodine poraženi od Đera u prijateljskoj utakmici",
-      "url": "https://www.tanjug.rs/sport/fudbal/261686/fudbaleri-vojvodine-porazeni-od-dera-u-prijateljskoj-utakmici/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 06. 2026. у 20:58",
-      "slika": null
-    },
-    {
-      "naslov": "Danijel Heket produžio ugovor sa Virtusom na još jednu sezonu",
-      "url": "https://www.tanjug.rs/sport/fudbal/261662/danijel-heket-produzio-ugovor-sa-virtusom-na-jos-jednu-sezonu/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 06. 2026. у 19:03",
-      "slika": null
-    },
-    {
-      "naslov": "Laslo Đere poražen u drugom kolu kvalifikacija za Vimbldon",
-      "url": "https://www.tanjug.rs/sport/fudbal/261647/laslo-dere-porazen-u-drugom-kolu-kvalifikacija-za-vimbldon/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 06. 2026. у 18:08",
-      "slika": null
-    },
-    {
       "naslov": "Vojvodina izgubila",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244821/vojvodina-izgubila/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,10 +67,10 @@
       "slika": null
     },
     {
-      "naslov": "Ibrine reči odzvanjaju: &quot;Mundijal je mesto gde se rađaju Zvezde, Alajbegović je nova&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/244844/zlatan-ibrahimovic-nahvalio-kerima-alajbegovica/vest",
+      "naslov": "Od pozajmice na Kipru do junaka nacije VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/244873/heroj-juzne-afrike-tapelo-maseko-srusio-juznu-koreju-i-izborio-plasman-u-osminu-finala-sp/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "25. 06. 2026. у 07:00",
+      "datum": "25. 06. 2026. у 08:50",
       "slika": null
     },
     {
