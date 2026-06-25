@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-24T23:15:06.594717+00:00",
-  "azurirano_sr": "25. 06. 2026. у 01:15",
+  "azurirano": "2026-06-25T01:26:49.193366+00:00",
+  "azurirano_sr": "25. 06. 2026. у 03:26",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Škoti slabo znaju fudbala za nešto više, liči ovo na „američki” Brazil",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/skoti-slabo-znaju-fudbala-za-nesto-vise-lici-ovo-na-americki-brazil/547280",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 06. 2026. у 04:01",
+      "slika": null
+    },
     {
       "naslov": "Bosno i Hercegovino, imaš grumen zlata! I nalaziš se u predvorju nokaut faze Mundijala",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bosno-i-hercegovino-imas-grumen-zlata-i-nalazis-se-u-predvorju-nokaut-faze-mundijala/547269",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/sto-juznije-to-tuznije-uprava-vranjskog-dinama-podnela-kolektivnu-ostavku/547244",
       "izvor": "Мозарт Спорт",
       "datum": "24. 06. 2026. у 18:03",
-      "slika": null
-    },
-    {
-      "naslov": "Radnički prodaje, ali i kupuje: Kvaku Bonsu Osei iz Spartaka za oko 200.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/radnicki-prodaje-ali-i-kupuje-kvaku-bonsu-osei-iz-spartaka-za-oko-200000-evra/547229",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 06. 2026. у 15:22",
       "slika": null
     },
     {
@@ -67,10 +67,10 @@
       "slika": null
     },
     {
-      "naslov": "Brazil razigran, Maroko se muči protiv prežaljenih",
-      "url": "https://www.b92.net/sport/fudbal/vesti/244736/uzivo-prenos-mundijal-3-kolo-grupe-c-skotska-brazil-maroko-haiti/vest",
+      "naslov": "Na sve strane prilike, ali golova nema",
+      "url": "https://www.b92.net/sport/fudbal/vesti/244843/uzivo-prenos-mundijal-3-kolo-grupe-a-meksiko-ceska/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "25. 06. 2026. у 01:14",
+      "datum": "25. 06. 2026. у 03:20",
       "slika": null
     },
     {
