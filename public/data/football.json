@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-25T18:12:23.281150+00:00",
-  "azurirano_sr": "25. 06. 2026. у 20:12",
+  "azurirano": "2026-06-25T20:21:22.545463+00:00",
+  "azurirano_sr": "25. 06. 2026. у 22:21",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Frustirani Patrik Šik šokirao Češku: Završio reprezentativnu karijeru sa 30 godina, kritikovao savez",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/frustirani-patrik-sik-sokirao-cesku-zavrsio-reprezentativnu-karijeru-sa-30-godina-kritikovao-savez/547356",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 06. 2026. у 22:01",
+      "slika": null
+    },
     {
       "naslov": "Crvenka Majami: Nekad u špicu Marko Jarić, sutra juriš na Srbijadi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/crvenka-majami-nekad-u-spicu-marko-jaric-sutra-juris-na-srbijadi/547288",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Imaš upaljač? Imam i fudbalski klub zajedno sa Novakom Đokovićem",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/imas-upaljac-imam-i-fudbalski-klub-zajedno-sa-novakom-okovicem/547287",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 06. 2026. у 10:30",
+      "naslov": "Patrik Šik se povukao iz fudbalske reprezentacije Češke",
+      "url": "https://www.tanjug.rs/sport/fudbal/261888/patrik-sik-se-povukao-iz-fudbalske-reprezentacije-ceske/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 06. 2026. у 21:21",
+      "slika": null
+    },
+    {
+      "naslov": "Stanković: Moramo da poradimo na taktičkim i tehničkim sitnicama",
+      "url": "https://www.tanjug.rs/sport/fudbal/261877/stankovic-moramo-da-poradimo-na-taktickim-i-tehnickim-sitnicama/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 06. 2026. у 19:57",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/261870/fudbaleri-crvene-zvezde-pobedili-amsteten-u-prijateljskoj-utakmici/vest",
       "izvor": "Танјуг",
       "datum": "25. 06. 2026. у 19:27",
-      "slika": null
-    },
-    {
-      "naslov": "Engleski golman Frejzer Forster produžio ugovor sa Bornmutom",
-      "url": "https://www.tanjug.rs/sport/fudbal/261865/engleski-golman-frejzer-forster-produzio-ugovor-sa-bornmutom/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 06. 2026. у 18:58",
-      "slika": null
-    },
-    {
-      "naslov": "Dragan Simović ponovo izabran za predsednika Fudbalskog saveza Vojvodine",
-      "url": "https://www.tanjug.rs/sport/fudbal/261854/dragan-simovic-ponovo-izabran-za-predsednika-fudbalskog-saveza-vojvodine/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 06. 2026. у 18:21",
       "slika": null
     },
     {
