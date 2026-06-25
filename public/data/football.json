@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-25T20:21:22.545463+00:00",
-  "azurirano_sr": "25. 06. 2026. у 22:21",
+  "azurirano": "2026-06-25T21:55:28.199223+00:00",
+  "azurirano_sr": "25. 06. 2026. у 23:55",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Portugalac Žoao Pinjeiro sudi meč između Južne Afrike i Kanade na Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/261897/portugalac-zoao-pinjeiro-sudi-mec-izmedu-juzne-afrike-i-kanade-na-svetskom-prvenstvu/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 06. 2026. у 22:53",
+      "slika": null
+    },
+    {
       "naslov": "Patrik Šik se povukao iz fudbalske reprezentacije Češke",
       "url": "https://www.tanjug.rs/sport/fudbal/261888/patrik-sik-se-povukao-iz-fudbalske-reprezentacije-ceske/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/261873/kosarkasi-spartaka-iz-subotice-igrace-u-fiba-ligi-sampiona/vest",
       "izvor": "Танјуг",
       "datum": "25. 06. 2026. у 19:49",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Crvene zvezde pobedili Amšteten u prijateljskoj utakmici",
-      "url": "https://www.tanjug.rs/sport/fudbal/261870/fudbaleri-crvene-zvezde-pobedili-amsteten-u-prijateljskoj-utakmici/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 06. 2026. у 19:27",
       "slika": null
     },
     {
