@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-25T13:28:46.206304+00:00",
-  "azurirano_sr": "25. 06. 2026. у 15:28",
+  "azurirano": "2026-06-25T16:00:23.756398+00:00",
+  "azurirano_sr": "25. 06. 2026. у 18:00",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Lajović ostao bez plasmana u glavni žreb Vimbldona",
+      "url": "https://www.tanjug.rs/sport/fudbal/261847/lajovic-ostao-bez-plasmana-u-glavni-zreb-vimbldona/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 06. 2026. у 17:46",
+      "slika": null
+    },
+    {
+      "naslov": "Zlatan Šehović novi fudbaler Čukaričkog",
+      "url": "https://www.tanjug.rs/sport/fudbal/261834/zlatan-sehovic-novi-fudbaler-cukarickog/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 06. 2026. у 16:55",
+      "slika": null
+    },
+    {
       "naslov": "Meksikanci šesta selekcija u istoriji Svetskog prvenstva sa tri pobede bez primljenog gola u grupi",
       "url": "https://www.tanjug.rs/sport/fudbal/261742/meksikanci-sesta-selekcija-u-istoriji-svetskog-prvenstva-sa-tri-pobede-bez-primljenog-gola-u-grupi/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Nejmar: Plakao sam u svlačionici, zahvalan sam Bogu što mogu da pomognem Brazilu",
-      "url": "https://www.tanjug.rs/sport/fudbal/261732/nejmar-plakao-sam-u-svlacionici-zahvalan-sam-bogu-sto-mogu-da-pomognem-brazilu/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 06. 2026. у 09:41",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Brazila savladali Škotsku, Južna Afrika i Bosna i Hercegovina prošli dalje",
-      "url": "https://www.tanjug.rs/sport/fudbal/261706/fudbaleri-brazila-savladali-skotsku-juzna-afrika-i-bosna-i-hercegovina-prosli-dalje/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 06. 2026. у 07:12",
+      "naslov": "Čuka predstavila novo pojačanje: &quot;Vraćam se u srpski fudbal, prvi put van Partizana&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245016/zlatan-sehovic-pojacao-fk-cukaricki/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 06. 2026. у 15:47",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244984/erik-kojzek-nemanja-rnic-mi-je-mnogo-pomogao-porede-me-sa-halandom/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 06. 2026. у 14:43",
-      "slika": null
-    },
-    {
-      "naslov": "Ilić: &quot;Ambicije su iste, a koliko su realne...&quot;; &quot;Treba da poradimo na pojačanjima&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244967/sasa-ilic-izjava-pred-put-u-sloveniju-sa-partizanom/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 06. 2026. у 13:50",
       "slika": null
     }
   ]
