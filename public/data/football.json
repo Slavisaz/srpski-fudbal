@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-25T08:36:57.277504+00:00",
-  "azurirano_sr": "25. 06. 2026. у 10:36",
+  "azurirano": "2026-06-25T11:18:11.904975+00:00",
+  "azurirano_sr": "25. 06. 2026. у 13:18",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Meksikanci šesta selekcija u istoriji Svetskog prvenstva sa tri pobede bez primljenog gola u grupi",
+      "url": "https://www.tanjug.rs/sport/fudbal/261742/meksikanci-sesta-selekcija-u-istoriji-svetskog-prvenstva-sa-tri-pobede-bez-primljenog-gola-u-grupi/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 06. 2026. у 10:26",
+      "slika": null
+    },
+    {
       "naslov": "Uahbi: Maroko je ušao u novu dimenziju, moramo da verujemo da možemo do titule",
       "url": "https://www.tanjug.rs/sport/fudbal/261735/uahbi-maroko-je-usao-u-novu-dimenziju-moramo-da-verujemo-da-mozemo-do-titule/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri BiH pobedili Katar za nokaut fazu Svetskog prvenstva, Švajcarska završila kao prva u grupi",
-      "url": "https://www.tanjug.rs/sport/fudbal/261702/fudbaleri-bih-pobedili-katar-za-nokaut-fazu-svetskog-prvenstva-svajcarska-zavrsila-kao-prva-u-grupi/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 06. 2026. у 23:04",
+      "naslov": "Ilić &quot;zagreva&quot; crno-bele na 30 stepeni u Zemunu FOTO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244937/partizan-trenira-na-vise-od-30-stepeni-pred-odlazak-u-sloveniju/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 06. 2026. у 12:02",
       "slika": null
     },
     {
@@ -67,24 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "Od pozajmice na Kipru do junaka nacije VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/244873/heroj-juzne-afrike-tapelo-maseko-srusio-juznu-koreju-i-izborio-plasman-u-osminu-finala-sp/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "25. 06. 2026. у 08:50",
-      "slika": null
-    },
-    {
       "naslov": "Novi hladan tuš za Srbiju? Bogati arapi zovu selektora!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244514/veljko-paunovic-napusta-srbiju-i-preuzima-al-itihad/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "23. 06. 2026. у 22:05",
-      "slika": null
-    },
-    {
-      "naslov": "Sti(Že) u Partizan",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244462/ze-dolazi-u-partizan-na-pozajmicu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 06. 2026. у 17:25",
       "slika": null
     }
   ]
