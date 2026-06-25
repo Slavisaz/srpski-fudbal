@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-25T01:26:49.193366+00:00",
-  "azurirano_sr": "25. 06. 2026. у 03:26",
+  "azurirano": "2026-06-25T05:36:35.987670+00:00",
+  "azurirano_sr": "25. 06. 2026. у 07:36",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Skupi noge, gde si pošao?! Bafana Bafana u „Andale, andale“ modu za agoniju Sona i istoriju na Mundijalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/skupi-noge-gde-si-posao-bafana-bafana-u-andale-andale-modu-za-agoniju-sona-i-istoriju-na-mundijalu/547283",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 06. 2026. у 06:58",
+      "slika": null
+    },
     {
       "naslov": "Škoti slabo znaju fudbala za nešto više, liči ovo na „američki” Brazil",
       "url": "https://www.mozzartsport.com/fudbal/vesti/skoti-slabo-znaju-fudbala-za-nesto-vise-lici-ovo-na-americki-brazil/547280",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/mesi-srj-scg-srbija-1816-i-gde-smo-u-odnosu-na-svetsku-elitu/547181",
       "izvor": "Мозарт Спорт",
       "datum": "24. 06. 2026. у 18:30",
-      "slika": null
-    },
-    {
-      "naslov": "Što južnije, to tužnije: Uprava vranjskog Dinama podnela kolektivnu ostavku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sto-juznije-to-tuznije-uprava-vranjskog-dinama-podnela-kolektivnu-ostavku/547244",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 06. 2026. у 18:03",
       "slika": null
     },
     {
@@ -67,10 +67,10 @@
       "slika": null
     },
     {
-      "naslov": "Na sve strane prilike, ali golova nema",
-      "url": "https://www.b92.net/sport/fudbal/vesti/244843/uzivo-prenos-mundijal-3-kolo-grupe-a-meksiko-ceska/vest",
+      "naslov": "Ibrine reči odzvanjaju: &quot;Mundijal je mesto gde se rađaju Zvezde, Alajbegović je nova&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/244844/zlatan-ibrahimovic-nahvalio-kerima-alajbegovica/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "25. 06. 2026. у 03:20",
+      "datum": "25. 06. 2026. у 07:00",
       "slika": null
     },
     {
