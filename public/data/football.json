@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-25T16:00:23.756398+00:00",
-  "azurirano_sr": "25. 06. 2026. у 18:00",
+  "azurirano": "2026-06-25T18:12:23.281150+00:00",
+  "azurirano_sr": "25. 06. 2026. у 20:12",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Crvenka Majami: Nekad u špicu Marko Jarić, sutra juriš na Srbijadi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/crvenka-majami-nekad-u-spicu-marko-jaric-sutra-juris-na-srbijadi/547288",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 06. 2026. у 19:57",
+      "slika": null
+    },
     {
       "naslov": "Panatinaikosu ne treba Pantović, ali neće ni da ga proda",
       "url": "https://www.mozzartsport.com/fudbal/vesti/panatinaikosu-ne-treba-pantovic-ali-nece-ni-da-ga-proda/547326",
@@ -25,52 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Skupi noge, gde si pošao?! Bafana Bafana u „Andale, andale“ modu za agoniju Sona i istoriju na Mundijalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/skupi-noge-gde-si-posao-bafana-bafana-u-andale-andale-modu-za-agoniju-sona-i-istoriju-na-mundijalu/547283",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 06. 2026. у 06:58",
-      "slika": null
-    },
-    {
-      "naslov": "Lajović ostao bez plasmana u glavni žreb Vimbldona",
-      "url": "https://www.tanjug.rs/sport/fudbal/261847/lajovic-ostao-bez-plasmana-u-glavni-zreb-vimbldona/vest",
+      "naslov": "Košarkaši Spartaka iz Subotice igraće u FIBA Ligi šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/261873/kosarkasi-spartaka-iz-subotice-igrace-u-fiba-ligi-sampiona/vest",
       "izvor": "Танјуг",
-      "datum": "25. 06. 2026. у 17:46",
+      "datum": "25. 06. 2026. у 19:49",
       "slika": null
     },
     {
-      "naslov": "Zlatan Šehović novi fudbaler Čukaričkog",
-      "url": "https://www.tanjug.rs/sport/fudbal/261834/zlatan-sehovic-novi-fudbaler-cukarickog/vest",
+      "naslov": "Fudbaleri Crvene zvezde pobedili Amšteten u prijateljskoj utakmici",
+      "url": "https://www.tanjug.rs/sport/fudbal/261870/fudbaleri-crvene-zvezde-pobedili-amsteten-u-prijateljskoj-utakmici/vest",
       "izvor": "Танјуг",
-      "datum": "25. 06. 2026. у 16:55",
+      "datum": "25. 06. 2026. у 19:27",
       "slika": null
     },
     {
-      "naslov": "Meksikanci šesta selekcija u istoriji Svetskog prvenstva sa tri pobede bez primljenog gola u grupi",
-      "url": "https://www.tanjug.rs/sport/fudbal/261742/meksikanci-sesta-selekcija-u-istoriji-svetskog-prvenstva-sa-tri-pobede-bez-primljenog-gola-u-grupi/vest",
+      "naslov": "Engleski golman Frejzer Forster produžio ugovor sa Bornmutom",
+      "url": "https://www.tanjug.rs/sport/fudbal/261865/engleski-golman-frejzer-forster-produzio-ugovor-sa-bornmutom/vest",
       "izvor": "Танјуг",
-      "datum": "25. 06. 2026. у 10:26",
+      "datum": "25. 06. 2026. у 18:58",
       "slika": null
     },
     {
-      "naslov": "Uahbi: Maroko je ušao u novu dimenziju, moramo da verujemo da možemo do titule",
-      "url": "https://www.tanjug.rs/sport/fudbal/261735/uahbi-maroko-je-usao-u-novu-dimenziju-moramo-da-verujemo-da-mozemo-do-titule/vest",
+      "naslov": "Dragan Simović ponovo izabran za predsednika Fudbalskog saveza Vojvodine",
+      "url": "https://www.tanjug.rs/sport/fudbal/261854/dragan-simovic-ponovo-izabran-za-predsednika-fudbalskog-saveza-vojvodine/vest",
       "izvor": "Танјуг",
-      "datum": "25. 06. 2026. у 10:00",
+      "datum": "25. 06. 2026. у 18:21",
       "slika": null
     },
     {
-      "naslov": "Čuka predstavila novo pojačanje: &quot;Vraćam se u srpski fudbal, prvi put van Partizana&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245016/zlatan-sehovic-pojacao-fk-cukaricki/vest",
+      "naslov": "Stanković: &quot;Moglo je bolje, moglo je i gore&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245086/dejan-stankovic-posle-crvena-zvezda-amsteten/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "25. 06. 2026. у 15:47",
+      "datum": "25. 06. 2026. у 20:12",
       "slika": null
     },
     {
-      "naslov": "Novajlija u Humskoj: &quot;Čuo sam da me porede sa Halandom&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/244984/erik-kojzek-nemanja-rnic-mi-je-mnogo-pomogao-porede-me-sa-halandom/vest",
+      "naslov": "Ivanić se vratio golom, asistencija Abu Fanija – Enem doneo pobedu Zvezdi VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245074/prijateljska-utakmica-crvena-zvezda-amsteten-21-10/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "25. 06. 2026. у 14:43",
+      "datum": "25. 06. 2026. у 19:20",
       "slika": null
     }
   ]
