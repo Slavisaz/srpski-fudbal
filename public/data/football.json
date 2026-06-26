@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-26T15:33:35.837778+00:00",
-  "azurirano_sr": "26. 06. 2026. у 17:33",
+  "azurirano": "2026-06-26T17:17:40.626756+00:00",
+  "azurirano_sr": "26. 06. 2026. у 19:17",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvezda spremna na rizik: Bez prodaje do kraja kvalifikacija, kraći odmor za Seola",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-spremna-na-rizik-bez-prodaje-do-kraja-kvalifikacija-kraci-odmor-za-seola/547431",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 06. 2026. у 20:32",
+      "slika": null
+    },
+    {
+      "naslov": "Štoper otišao iz Pazara: Filip Bačkulja u Sloveniji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stoper-otisao-iz-pazara-filip-backulja-u-sloveniji/547429",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 06. 2026. у 20:14",
+      "slika": null
+    },
     {
       "naslov": "Komova 'preteća' poruka Interu - dalje ruke od Nika! Pas ostaje, Realu 60.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/komova-preteca-poruka-interu-dalje-ruke-od-nika-pas-ostaje-realu-60000000-evra/547419",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/uros-kabic-ide-u-dac-ofk-beogradu-oko-400000-evra/547406",
       "izvor": "Мозарт Спорт",
       "datum": "26. 06. 2026. у 15:03",
-      "slika": null
-    },
-    {
-      "naslov": "Prvoligaška pijaca: Japanac sleteo na krov da osvaja trofeje, novi vezista i u Gornjem Milanovcu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prvoligaska-pijaca-japanac-sleteo-na-krov-da-osvaja-trofeje-novi-vezista-i-u-gornjem-milanovcu/547402",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 06. 2026. у 14:34",
-      "slika": null
-    },
-    {
-      "naslov": "Ispunjeno obećanje: Demba Sek otkupljen od Torina za 1.400.000 evra!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ispunjeno-obecanje-demba-sek-otkupljen-od-torina-za-1400000-evra/547394",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 06. 2026. у 13:52",
       "slika": null
     },
     {
