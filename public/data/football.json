@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-26T13:23:25.642045+00:00",
-  "azurirano_sr": "26. 06. 2026. у 15:23",
+  "azurirano": "2026-06-26T15:33:35.837778+00:00",
+  "azurirano_sr": "26. 06. 2026. у 17:33",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Komova 'preteća' poruka Interu - dalje ruke od Nika! Pas ostaje, Realu 60.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/komova-preteca-poruka-interu-dalje-ruke-od-nika-pas-ostaje-realu-60000000-evra/547419",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 06. 2026. у 17:38",
+      "slika": null
+    },
     {
       "naslov": "Uroš Kabić ide u DAC, OFK Beogradu oko 400.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/uros-kabic-ide-u-dac-ofk-beogradu-oko-400000-evra/547406",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/ispunjeno-obecanje-demba-sek-otkupljen-od-torina-za-1400000-evra/547394",
       "izvor": "Мозарт Спорт",
       "datum": "26. 06. 2026. у 13:52",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezdi od Olimpijakosa 1.500.000 evra i 20 posto za Balšu Popovića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdi-od-olimpijakosa-1500000-evra-i-20-posto-za-balsu-popovica/547391",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 06. 2026. у 13:28",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Saša Ilić u Azerbejdžanu ima rešenje za problem Partizana VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245294/sasa-ilic-ima-pojacanje-za-partizan-u-azerbejdzanu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 06. 2026. у 15:35",
+      "slika": null
+    },
+    {
       "naslov": "Stanković: &quot;Moglo je bolje, moglo je i gore&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245086/dejan-stankovic-posle-crvena-zvezda-amsteten/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 06. 2026. у 20:12",
-      "slika": null
-    },
-    {
-      "naslov": "Ivanić se vratio golom, asistencija Abu Fanija – Enem doneo pobedu Zvezdi VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245074/prijateljska-utakmica-crvena-zvezda-amsteten-21-10/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 06. 2026. у 19:20",
       "slika": null
     }
   ]
