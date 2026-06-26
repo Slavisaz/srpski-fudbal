@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-26T19:07:19.504643+00:00",
-  "azurirano_sr": "26. 06. 2026. у 21:07",
+  "azurirano": "2026-06-26T20:51:46.511960+00:00",
+  "azurirano_sr": "26. 06. 2026. у 22:51",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Bonsu juče došao, danas dao gol! Novajlije efikasne protiv Bora",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bonsu-juce-dosao-danas-dao-gol-novajlije-efikasne-protiv-bora/547440",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 06. 2026. у 23:02",
+      "slika": null
+    },
+    {
+      "naslov": "Posle devet godina adiós Madrid! Sebaljos otišao, Betis će imati tim za fudbalske sladokusce",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/posle-devet-godina-adios-madrid-sebaljos-otisao-betis-ce-imati-tim-za-fudbalske-sladokusce/547439",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 06. 2026. у 22:50",
+      "slika": null
+    },
     {
       "naslov": "Zvezda spremna na rizik: Bez prodaje do kraja kvalifikacija, kraći odmor za Seola",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-spremna-na-rizik-bez-prodaje-do-kraja-kvalifikacija-kraci-odmor-za-seola/547431",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/stoper-otisao-iz-pazara-filip-backulja-u-sloveniji/547429",
       "izvor": "Мозарт Спорт",
       "datum": "26. 06. 2026. у 20:14",
-      "slika": null
-    },
-    {
-      "naslov": "Komova 'preteća' poruka Interu - dalje ruke od Nika! Pas ostaje, Realu 60.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/komova-preteca-poruka-interu-dalje-ruke-od-nika-pas-ostaje-realu-60000000-evra/547419",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 06. 2026. у 17:38",
-      "slika": null
-    },
-    {
-      "naslov": "Uroš Kabić ide u DAC, OFK Beogradu oko 400.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uros-kabic-ide-u-dac-ofk-beogradu-oko-400000-evra/547406",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 06. 2026. у 15:03",
       "slika": null
     },
     {
@@ -60,6 +60,13 @@
       "slika": null
     },
     {
+      "naslov": "Ko preuzima FSS – Jugović i Mijatović ističu kandidaturu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245398/ko-preuzima-fss-jugovic-i-mijatovic-isticu-kandidaturu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 06. 2026. у 21:32",
+      "slika": null
+    },
+    {
       "naslov": "Saša Ilić u Azerbejdžanu ima rešenje za problem Partizana VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245294/sasa-ilic-ima-pojacanje-za-partizan-u-azerbejdzanu/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,24 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "Prečka se zatresla posle 20 sekundi!",
-      "url": "https://www.b92.net/sport/fudbal/vesti/245310/uzivo-prenos-mundijal-3-kolo-francuska-norveska/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "26. 06. 2026. у 21:02",
-      "slika": null
-    },
-    {
       "naslov": "Stanković: &quot;Moglo je bolje, moglo je i gore&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245086/dejan-stankovic-posle-crvena-zvezda-amsteten/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 06. 2026. у 20:12",
-      "slika": null
-    },
-    {
-      "naslov": "Ivanić se vratio golom, asistencija Abu Fanija – Enem doneo pobedu Zvezdi VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245074/prijateljska-utakmica-crvena-zvezda-amsteten-21-10/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 06. 2026. у 19:20",
       "slika": null
     }
   ]
