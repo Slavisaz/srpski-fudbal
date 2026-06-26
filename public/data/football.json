@@ -1,11 +1,18 @@
 {
-  "azurirano": "2026-06-26T04:44:25.939851+00:00",
-  "azurirano_sr": "26. 06. 2026. у 06:44",
+  "azurirano": "2026-06-26T08:20:32.436418+00:00",
+  "azurirano_sr": "26. 06. 2026. у 10:20",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Puče britanski rekord! Notingem Forest opelješio Siti, Andersonov transfer treći svih vremena",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/puce-britanski-rekord-notingem-forest-opeljesio-siti-andersonov-transfer-treci-svih-vremena/547365",
+      "naslov": "Malo fudbala, mnogo više biznisa: Sa Nemanjom Vučićevićem o „američkom snu“ u Majamiju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/malo-fudbala-mnogo-vise-biznisa-sa-nemanjom-vucicevicem-o-americkom-snu-u-majamiju/547369",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 06. 2026. у 10:57",
+      "slika": null
+    },
+    {
+      "naslov": "Sklopljen posao leta! Notingem Forest opelješio Siti, Andersonov transfer peti svih vremena",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sklopljen-posao-leta-notingem-forest-opeljesio-siti-andersonov-transfer-peti-svih-vremena/547365",
       "izvor": "Мозарт Спорт",
       "datum": "26. 06. 2026. у 02:24",
       "slika": null
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Panatinaikosu ne treba Pantović, ali neće ni da ga proda",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/panatinaikosu-ne-treba-pantovic-ali-nece-ni-da-ga-proda/547326",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 06. 2026. у 16:16",
+      "naslov": "Fudbaleri Australije remijem protiv Paragvaja prošli u šesnaestinu finala Svetskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/261908/fudbaleri-australije-remijem-protiv-paragvaja-prosli-u-sesnaestinu-finala-svetskog-prvenstva/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 06. 2026. у 06:31",
+      "slika": null
+    },
+    {
+      "naslov": "Holandija bolja od Tunisa za prvo mesto, remi Japana i Švedske za nokaut fazu",
+      "url": "https://www.tanjug.rs/sport/fudbal/261909/holandija-bolja-od-tunisa-za-prvo-mesto-remi-japana-i-svedske-za-nokaut-fazu/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 06. 2026. у 02:59",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Ekvadora pobedili Nemačku za nokaut fazu Svetskog prvenstva, Obala Slonovače nadigrala Kurasao",
+      "url": "https://www.tanjug.rs/sport/fudbal/261910/fudbaleri-ekvadora-pobedili-nemacku-za-nokaut-fazu-svetskog-prvenstva-obala-slonovace-nadigrala-kurasao/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 06. 2026. у 00:09",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/261897/portugalac-zoao-pinjeiro-sudi-mec-izmedu-juzne-afrike-i-kanade-na-svetskom-prvenstvu/vest",
       "izvor": "Танјуг",
       "datum": "25. 06. 2026. у 22:53",
-      "slika": null
-    },
-    {
-      "naslov": "Patrik Šik se povukao iz fudbalske reprezentacije Češke",
-      "url": "https://www.tanjug.rs/sport/fudbal/261888/patrik-sik-se-povukao-iz-fudbalske-reprezentacije-ceske/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 06. 2026. у 21:21",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: Moramo da poradimo na taktičkim i tehničkim sitnicama",
-      "url": "https://www.tanjug.rs/sport/fudbal/261877/stankovic-moramo-da-poradimo-na-taktickim-i-tehnickim-sitnicama/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 06. 2026. у 19:57",
-      "slika": null
-    },
-    {
-      "naslov": "Košarkaši Spartaka iz Subotice igraće u FIBA Ligi šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/261873/kosarkasi-spartaka-iz-subotice-igrace-u-fiba-ligi-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 06. 2026. у 19:49",
       "slika": null
     },
     {
