@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-26T17:17:40.626756+00:00",
-  "azurirano_sr": "26. 06. 2026. у 19:17",
+  "azurirano": "2026-06-26T19:07:19.504643+00:00",
+  "azurirano_sr": "26. 06. 2026. у 21:07",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Ivana Španović osvojila četvrto mesto na mitingu u Zagrebu",
+      "url": "https://www.tanjug.rs/sport/fudbal/262043/ivana-spanovic-osvojila-cetvrto-mesto-na-mitingu-u-zagrebu/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 06. 2026. у 19:25",
+      "slika": null
+    },
+    {
       "naslov": "Senegalski fudbaler Demba Sek potpisao ugovor sa Partizanom do juna 2029. godine",
       "url": "https://www.tanjug.rs/sport/fudbal/261943/senegalski-fudbaler-demba-sek-potpisao-ugovor-sa-partizanom-do-juna-2029-godine/vest",
       "izvor": "Танјуг",
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Holandija bolja od Tunisa za prvo mesto, remi Japana i Švedske za nokaut fazu",
-      "url": "https://www.tanjug.rs/sport/fudbal/261909/holandija-bolja-od-tunisa-za-prvo-mesto-remi-japana-i-svedske-za-nokaut-fazu/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 06. 2026. у 02:59",
-      "slika": null
-    },
-    {
       "naslov": "Saša Ilić u Azerbejdžanu ima rešenje za problem Partizana VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245294/sasa-ilic-ima-pojacanje-za-partizan-u-azerbejdzanu/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,10 +67,24 @@
       "slika": null
     },
     {
+      "naslov": "Prečka se zatresla posle 20 sekundi!",
+      "url": "https://www.b92.net/sport/fudbal/vesti/245310/uzivo-prenos-mundijal-3-kolo-francuska-norveska/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "26. 06. 2026. у 21:02",
+      "slika": null
+    },
+    {
       "naslov": "Stanković: &quot;Moglo je bolje, moglo je i gore&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245086/dejan-stankovic-posle-crvena-zvezda-amsteten/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 06. 2026. у 20:12",
+      "slika": null
+    },
+    {
+      "naslov": "Ivanić se vratio golom, asistencija Abu Fanija – Enem doneo pobedu Zvezdi VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245074/prijateljska-utakmica-crvena-zvezda-amsteten-21-10/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 06. 2026. у 19:20",
       "slika": null
     }
   ]
