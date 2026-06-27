@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-27T15:35:47.232293+00:00",
-  "azurirano_sr": "27. 06. 2026. у 17:35",
+  "azurirano": "2026-06-27T16:42:14.863062+00:00",
+  "azurirano_sr": "27. 06. 2026. у 18:42",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Morijacu: Brazil je jedan od najboljih timova na svetu, ali imamo šansu da pobedimo",
+      "url": "https://www.tanjug.rs/sport/fudbal/262207/morijacu-brazil-je-jedan-od-najboljih-timova-na-svetu-ali-imamo-sansu-da-pobedimo/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 06. 2026. у 17:32",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Australije Italijano i Leki završili učešće na Mundijalu zbog povreda",
       "url": "https://www.tanjug.rs/sport/fudbal/262205/fudbaleri-australije-italijano-i-leki-zavrsili-ucesce-na-mundijalu-zbog-povreda/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Partizana otputovali u Sloveniju na pripreme",
-      "url": "https://www.tanjug.rs/sport/fudbal/262139/fudbaleri-partizana-otputovali-u-sloveniju-na-pripreme/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 06. 2026. у 11:41",
+      "naslov": "Neizvesnost u Engleskoj",
+      "url": "https://www.b92.net/sport/fudbal/vesti/245461/neizvesnost-u-engleskoj/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "27. 06. 2026. у 18:17",
       "slika": null
     },
     {
-      "naslov": "Partizan otputovao u Sloveniju – Saša Ilić poveo 26 igrača na pripreme",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245482/partizan-otputovao-na-pripreme-u-sloveniju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 06. 2026. у 15:48",
-      "slika": null
-    },
-    {
-      "naslov": "Ararat testirao Vojvodinu – bez pobednika u Austriji",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245540/prijateljska-utakmica-vojvodina-ararat/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 06. 2026. у 15:20",
+      "naslov": "Đoković: &quot;Naravno – navijam za Hrvatsku i BiH na Mundijalu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/245573/novak-djokovic-navija-za-bih-i-hrvatsku-na-mundijalu-2026/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "27. 06. 2026. у 18:01",
       "slika": null
     }
   ]
