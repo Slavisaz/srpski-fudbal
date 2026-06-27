@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-27T17:44:02.289201+00:00",
-  "azurirano_sr": "27. 06. 2026. у 19:44",
+  "azurirano": "2026-06-27T18:50:25.593527+00:00",
+  "azurirano_sr": "27. 06. 2026. у 20:50",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Tanjga: &quot;Očekujem više od pojačanja&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245557/tanjga-ocekujem-vise-od-pojacanja/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 06. 2026. у 20:15",
+      "slika": null
+    },
+    {
       "naslov": "Zvezda ostala bez golmana!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245579/balsa-popovic-u-olimpijakosu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "27. 06. 2026. у 18:30",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan otputovao u Sloveniju – Saša Ilić poveo 26 igrača na pripreme",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245482/partizan-otputovao-na-pripreme-u-sloveniju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 06. 2026. у 15:48",
       "slika": null
     }
   ]
