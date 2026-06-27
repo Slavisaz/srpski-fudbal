@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-27T04:15:59.976265+00:00",
-  "azurirano_sr": "27. 06. 2026. у 06:15",
+  "azurirano": "2026-06-27T07:27:44.836264+00:00",
+  "azurirano_sr": "27. 06. 2026. у 09:27",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Mundijalski pretres sa Dejom: Nisam gledao gori Brazil, Francuzi i Embape najjači, Mesi još na znanje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mundijalski-pretres-sa-dejom-nisam-gledao-gori-brazil-francuzi-i-embape-najjaci-mesi-jos-na-znanje/547463",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 06. 2026. у 10:23",
+      "slika": null
+    },
     {
       "naslov": "Frka u Panami pred Engleze: Pumu čuvali od besnog saigrača",
       "url": "https://www.mozzartsport.com/fudbal/vesti/frka-u-panami-pred-engleze-pumu-cuvali-od-besnog-saigraca/547458",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Posle devet godina adiós Madrid! Sebaljos otišao, Betis će imati tim za fudbalske sladokusce",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/posle-devet-godina-adios-madrid-sebaljos-otisao-betis-ce-imati-tim-za-fudbalske-sladokusce/547439",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 06. 2026. у 22:50",
+      "naslov": "Fudbaleri Belgije pobedili Novi Zeland za prvo mesto u grupi, remi Egipta i Irana",
+      "url": "https://www.tanjug.rs/sport/fudbal/262083/fudbaleri-belgije-pobedili-novi-zeland-za-prvo-mesto-u-grupi-remi-egipta-i-irana/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 06. 2026. у 07:36",
+      "slika": null
+    },
+    {
+      "naslov": "Zelenortska Ostrva u nokaut fazi Svetskog prvenstva, Urugvaj porazom od Španije završio Mundijal",
+      "url": "https://www.tanjug.rs/sport/fudbal/262081/zelenortska-ostrva-u-nokaut-fazi-svetskog-prvenstva-urugvaj-porazom-od-spanije-zavrsio-mundijal/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 06. 2026. у 06:21",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/262071/engleski-fudbaler-ris-dzejms-neizvestan-za-mec-protiv-paname-na-sp/vest",
       "izvor": "Танјуг",
       "datum": "26. 06. 2026. у 22:37",
-      "slika": null
-    },
-    {
-      "naslov": "Ivana Španović osvojila četvrto mesto na mitingu u Zagrebu",
-      "url": "https://www.tanjug.rs/sport/fudbal/262043/ivana-spanovic-osvojila-cetvrto-mesto-na-mitingu-u-zagrebu/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 06. 2026. у 19:25",
-      "slika": null
-    },
-    {
-      "naslov": "Senegalski fudbaler Demba Sek potpisao ugovor sa Partizanom do juna 2029. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/261943/senegalski-fudbaler-demba-sek-potpisao-ugovor-sa-partizanom-do-juna-2029-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 06. 2026. у 12:05",
       "slika": null
     },
     {
