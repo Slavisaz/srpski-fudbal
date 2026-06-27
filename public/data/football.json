@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-27T09:37:02.286270+00:00",
-  "azurirano_sr": "27. 06. 2026. у 11:37",
+  "azurirano": "2026-06-27T11:12:34.833572+00:00",
+  "azurirano_sr": "27. 06. 2026. у 13:12",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Partizana otputovali u Sloveniju na pripreme",
+      "url": "https://www.tanjug.rs/sport/fudbal/262139/fudbaleri-partizana-otputovali-u-sloveniju-na-pripreme/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 06. 2026. у 11:41",
+      "slika": null
+    },
+    {
       "naslov": "Bijelsa: Preuzimam krivicu, za tri godine nisam ništa dao urugvajskom fudbalu",
       "url": "https://www.tanjug.rs/sport/fudbal/262129/bijelsa-preuzimam-krivicu-za-tri-godine-nisam-nista-dao-urugvajskom-fudbalu/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/262083/fudbaleri-belgije-pobedili-novi-zeland-za-prvo-mesto-u-grupi-remi-egipta-i-irana/vest",
       "izvor": "Танјуг",
       "datum": "27. 06. 2026. у 07:36",
-      "slika": null
-    },
-    {
-      "naslov": "Zelenortska Ostrva u nokaut fazi Svetskog prvenstva, Urugvaj porazom od Španije završio Mundijal",
-      "url": "https://www.tanjug.rs/sport/fudbal/262081/zelenortska-ostrva-u-nokaut-fazi-svetskog-prvenstva-urugvaj-porazom-od-spanije-zavrsio-mundijal/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 06. 2026. у 06:21",
       "slika": null
     },
     {
