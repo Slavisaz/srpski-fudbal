@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-27T12:17:33.717717+00:00",
-  "azurirano_sr": "27. 06. 2026. у 14:17",
+  "azurirano": "2026-06-27T14:08:36.209086+00:00",
+  "azurirano_sr": "27. 06. 2026. у 16:08",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Rijeka završava jedan od najvećih transfera: Fruk na pragu selidbe u Ligu 1",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rijeka-zavrsava-jedan-od-najvecih-transfera-fruk-na-pragu-selidbe-u-ligu-1/547494",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 06. 2026. у 17:23",
+      "slika": null
+    },
     {
       "naslov": "Mundijalski pretres sa Dejom: Nisam gledao gori Brazil, Francuzi i Embape najjači, Mesi još na znanje",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mundijalski-pretres-sa-dejom-nisam-gledao-gori-brazil-francuzi-i-embape-najjaci-mesi-jos-na-znanje/547463",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Bonsu juče došao, danas dao gol! Novajlije efikasne protiv Bora",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bonsu-juce-dosao-danas-dao-gol-novajlije-efikasne-protiv-bora/547440",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 06. 2026. у 23:02",
+      "naslov": "Holandski fudbaler Vut Veghorst potpisao ugovor sa Tventeom",
+      "url": "https://www.tanjug.rs/sport/fudbal/262182/holandski-fudbaler-vut-veghorst-potpisao-ugovor-sa-tventeom/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 06. 2026. у 15:03",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Vojvodine odigrali nerešeno protiv Ararata u prijateljskoj utakmici",
+      "url": "https://www.tanjug.rs/sport/fudbal/262176/fudbaleri-vojvodine-odigrali-nereseno-protiv-ararata-u-prijateljskoj-utakmici/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 06. 2026. у 14:42",
       "slika": null
     },
     {
@@ -46,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Selektor Zelenortskih Ostrva: Mi smo mala država, pokazali smo da ništa nije nemoguće",
-      "url": "https://www.tanjug.rs/sport/fudbal/262116/selektor-zelenortskih-ostrva-mi-smo-mala-drzava-pokazali-smo-da-nista-nije-nemoguce/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 06. 2026. у 10:11",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Belgije pobedili Novi Zeland za prvo mesto u grupi, remi Egipta i Irana",
-      "url": "https://www.tanjug.rs/sport/fudbal/262083/fudbaleri-belgije-pobedili-novi-zeland-za-prvo-mesto-u-grupi-remi-egipta-i-irana/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 06. 2026. у 07:36",
-      "slika": null
-    },
-    {
-      "naslov": "Ko preuzima FSS – Jugović i Mijatović ističu kandidaturu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245398/ko-preuzima-fss-jugovic-i-mijatovic-isticu-kandidaturu/vest",
+      "naslov": "Partizan otputovao u Sloveniju – Saša Ilić poveo 26 igrača na pripreme",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245482/partizan-otputovao-na-pripreme-u-sloveniju/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 06. 2026. у 21:32",
+      "datum": "27. 06. 2026. у 15:48",
       "slika": null
     },
     {
-      "naslov": "Saša Ilić u Azerbejdžanu ima rešenje za problem Partizana VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245294/sasa-ilic-ima-pojacanje-za-partizan-u-azerbejdzanu/vest",
+      "naslov": "Ararat testirao Vojvodinu – bez pobednika u Austriji",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245540/prijateljska-utakmica-vojvodina-ararat/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 06. 2026. у 15:35",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: &quot;Moglo je bolje, moglo je i gore&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245086/dejan-stankovic-posle-crvena-zvezda-amsteten/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 06. 2026. у 20:12",
+      "datum": "27. 06. 2026. у 15:20",
       "slika": null
     }
   ]
