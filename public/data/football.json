@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-28T14:09:04.652809+00:00",
-  "azurirano_sr": "28. 06. 2026. у 16:09",
+  "azurirano": "2026-06-28T15:37:55.231132+00:00",
+  "azurirano_sr": "28. 06. 2026. у 17:37",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Engleska šutirala glavom više nego Gana nogom; Rodri kralj dodavanja, PSŽ nije slučajno prvak Evrope",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/engleska-sutirala-glavom-vise-nego-gana-nogom-rodri-kralj-dodavanja-psz-nije-slucajno-prvak-evrope/547580",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 06. 2026. у 19:01",
+      "slika": null
+    },
+    {
+      "naslov": "Neveš između fudbalera i dostavljača: Evo jedno parče pice… (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/neves-izmeu-fudbalera-i-dostavljaca-evo-jedno-parce-pice-video/547578",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 06. 2026. у 18:31",
+      "slika": null
+    },
     {
       "naslov": "Statistika grupne faze Mundijala i koliko puta je jedan bilo jednako tri",
       "url": "https://www.mozzartsport.com/fudbal/vesti/statistika-grupne-faze-mundijala-i-koliko-puta-je-jedan-bilo-jednako-tri/547572",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Najgori fudbal se igra u Aziji!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najgori-fudbal-se-igra-u-aziji/547555",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 06. 2026. у 13:27",
-      "slika": null
-    },
-    {
-      "naslov": "Mančester Siti kupio Deturbea i izjednačio rekord Lige 2",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mancester-siti-kupio-deturbea-i-izjednacio-rekord-lige-2/547549",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 06. 2026. у 12:57",
+      "naslov": "Italijanski arbitar Maurisio Marijani sudiće meč Brazil - Japan na Mundijalu",
+      "url": "https://www.tanjug.rs/sport/fudbal/262373/italijanski-arbitar-maurisio-marijani-sudice-mec-brazil-japan-na-mundijalu/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 06. 2026. у 16:27",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Martinez: Ronaldo je navikao da bude na pravom mestu u pravo vreme",
-      "url": "https://www.tanjug.rs/sport/fudbal/262288/martinez-ronaldo-je-navikao-da-bude-na-pravom-mestu-u-pravo-vreme/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 06. 2026. у 10:27",
+      "naslov": "Petrić pred EP: &quot;Termin je čudan, moramo da se prilagodimo&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245761/petric-pred-ep-termin-je-cudan-moramo-da-se-prilagodimo/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 06. 2026. у 16:48",
       "slika": null
     },
     {
-      "naslov": "&quot;Bomba&quot; u futsalu – Crvena zvezda dovela jednog od najboljih u Srbiji",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245687/mladen-kocic-presao-u-crvenu-zvezdu/vest",
+      "naslov": "Nemci tvrde: &quot;Maksimović odbio Srbiju zbog Lajpciga&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245753/andrija-maksimovic-ne-igra-za-srbiju-na-ep/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "28. 06. 2026. у 13:00",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda propustila zvezdu: Terzić hteo Kalajdžića, ali Austrijanac završio u Bundesligi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245677/fk-crvena-zvezda-htela-sasu-kalajdzica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 06. 2026. у 10:30",
+      "datum": "28. 06. 2026. у 16:20",
       "slika": null
     }
   ]
