@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-28T15:37:55.231132+00:00",
-  "azurirano_sr": "28. 06. 2026. у 17:37",
+  "azurirano": "2026-06-28T16:45:50.614071+00:00",
+  "azurirano_sr": "28. 06. 2026. у 18:45",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Jeremić umesto Delevića na mestu predsednika sudijske organizacije FSS",
+      "url": "https://www.tanjug.rs/sport/fudbal/262390/jeremic-umesto-delevica-na-mestu-predsednika-sudijske-organizacije-fss/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 06. 2026. у 17:50",
+      "slika": null
+    },
+    {
       "naslov": "Italijanski arbitar Maurisio Marijani sudiće meč Brazil - Japan na Mundijalu",
       "url": "https://www.tanjug.rs/sport/fudbal/262373/italijanski-arbitar-maurisio-marijani-sudice-mec-brazil-japan-na-mundijalu/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Keiroš: Za Ganu tek sada počinje Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/262313/keiros-za-ganu-tek-sada-pocinje-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 06. 2026. у 12:10",
+      "naslov": "FSS postavio novog predsednika sudijske organizacije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245778/fss-postavio-novog-predsednika-sudijske-organizacije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 06. 2026. у 18:30",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245761/petric-pred-ep-termin-je-cudan-moramo-da-se-prilagodimo/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 06. 2026. у 16:48",
-      "slika": null
-    },
-    {
-      "naslov": "Nemci tvrde: &quot;Maksimović odbio Srbiju zbog Lajpciga&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245753/andrija-maksimovic-ne-igra-za-srbiju-na-ep/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 06. 2026. у 16:20",
       "slika": null
     }
   ]
