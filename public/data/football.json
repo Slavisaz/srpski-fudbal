@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-28T10:34:28.095338+00:00",
-  "azurirano_sr": "28. 06. 2026. у 12:34",
+  "azurirano": "2026-06-28T12:05:29.177209+00:00",
+  "azurirano_sr": "28. 06. 2026. у 14:05",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "&quot;Bomba&quot; u futsalu – Crvena zvezda dovela jednog od najboljih u Srbiji",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245687/mladen-kocic-presao-u-crvenu-zvezdu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 06. 2026. у 13:00",
+      "slika": null
+    },
+    {
       "naslov": "Zvezda propustila zvezdu: Terzić hteo Kalajdžića, ali Austrijanac završio u Bundesligi",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245677/fk-crvena-zvezda-htela-sasu-kalajdzica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 06. 2026. у 10:30",
-      "slika": null
-    },
-    {
-      "naslov": "Nenad Lalatović ponovo na jugu Srbije?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245654/nenad-lalatovic-preuzima-radnik-iz-surdulice/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 06. 2026. у 09:15",
       "slika": null
     }
   ]
