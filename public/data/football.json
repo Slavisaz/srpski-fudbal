@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-06-28T08:13:39.135590+00:00",
-  "azurirano_sr": "28. 06. 2026. у 10:13",
+  "azurirano": "2026-06-28T10:34:28.095338+00:00",
+  "azurirano_sr": "28. 06. 2026. у 12:34",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Petar Stanić na Petrovdan - zaključen jedan od najvećih transfera u istoriji Olimpijakosa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/petar-stanic-na-petrovdan-zakljucen-jedan-od-najvecih-transfera-u-istoriji-olimpijakosa/547556",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 06. 2026. у 14:03",
+      "slika": null
+    },
+    {
+      "naslov": "Najgori fudbal se igra u Aziji!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najgori-fudbal-se-igra-u-aziji/547555",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 06. 2026. у 13:27",
+      "slika": null
+    },
+    {
+      "naslov": "Mančester Siti kupio Deturbea i izjednačio rekord Lige 2",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mancester-siti-kupio-deturbea-i-izjednacio-rekord-lige-2/547549",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 06. 2026. у 12:57",
+      "slika": null
+    },
     {
       "naslov": "Pecina fudbalska katedra na kojoj su gostovali Čelsi, PSŽ, Argentina, Real, Engleska… Sada je tome kraj",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pecina-fudbalska-katedra-na-kojoj-su-gostovali-celsi-psz-argentina-real-engleska-sada-je-tome-kraj/547512",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Najluđa utakmica Mundijala ili paravan veka?! Posle 3:3 niko na svetu više ne zna šta da misli",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najlua-utakmica-mundijala-ili-paravan-veka-posle-33-niko-na-svetu-vise-ne-zna-sta-da-misli/547531",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 06. 2026. у 08:11",
+      "naslov": "Keiroš: Za Ganu tek sada počinje Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/262313/keiros-za-ganu-tek-sada-pocinje-svetsko-prvenstvo/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 06. 2026. у 12:10",
       "slika": null
     },
     {
-      "naslov": "Prokletsvo grupne faze ostaje, a odlazi čovek koji je vratio Škotsku na mapu svetskog fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prokletsvo-grupne-faze-ostaje-a-odlazi-covek-koji-je-vratio-skotsku-na-mapu-svetskog-fudbala/547528",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 06. 2026. у 04:27",
-      "slika": null
-    },
-    {
-      "naslov": "Rijeka završava jedan od najvećih transfera: Fruk na pragu selidbe u Ligu 1",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rijeka-zavrsava-jedan-od-najvecih-transfera-fruk-na-pragu-selidbe-u-ligu-1/547494",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 06. 2026. у 17:23",
+      "naslov": "Martinez: Ronaldo je navikao da bude na pravom mestu u pravo vreme",
+      "url": "https://www.tanjug.rs/sport/fudbal/262288/martinez-ronaldo-je-navikao-da-bude-na-pravom-mestu-u-pravo-vreme/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 06. 2026. у 10:27",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Desabr: Moji igrači su bili izuzetni, pokazali smo da znamo da postižemo golove",
-      "url": "https://www.tanjug.rs/sport/fudbal/262271/desabr-moji-igraci-su-bili-izuzetni-pokazali-smo-da-znamo-da-postizemo-golove/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 06. 2026. у 09:01",
-      "slika": null
-    },
-    {
-      "naslov": "Kapiten fudbalera Egipta Mohamed Salah povredio tetivu na meču sa Iranom",
-      "url": "https://www.tanjug.rs/sport/fudbal/262261/kapiten-fudbalera-egipta-mohamed-salah-povredio-tetivu-na-mecu-sa-iranom/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 06. 2026. у 08:07",
+      "naslov": "Zvezda propustila zvezdu: Terzić hteo Kalajdžića, ali Austrijanac završio u Bundesligi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245677/fk-crvena-zvezda-htela-sasu-kalajdzica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 06. 2026. у 10:30",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245654/nenad-lalatovic-preuzima-radnik-iz-surdulice/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 06. 2026. у 09:15",
-      "slika": null
-    },
-    {
-      "naslov": "Koković uneo novine pred Bragu – igrači bosi treniraju VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245578/kokovic-uneo-novine-pred-bragu-igraci-bosi-treniraju-video/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 06. 2026. у 23:25",
       "slika": null
     }
   ]
