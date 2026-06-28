@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-28T16:45:50.614071+00:00",
-  "azurirano_sr": "28. 06. 2026. у 18:45",
+  "azurirano": "2026-06-28T17:49:59.083458+00:00",
+  "azurirano_sr": "28. 06. 2026. у 19:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Tenzija u Južnoj Koreji, predsednik države pokrenuo istragu protiv Fudbalskog saveza",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tenzija-u-juznoj-koreji-predsednik-drzave-pokrenuo-istragu-protiv-fudbalskog-saveza/547587",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 06. 2026. у 20:52",
+      "slika": null
+    },
     {
       "naslov": "Engleska šutirala glavom više nego Gana nogom; Rodri kralj dodavanja, PSŽ nije slučajno prvak Evrope",
       "url": "https://www.mozzartsport.com/fudbal/vesti/engleska-sutirala-glavom-vise-nego-gana-nogom-rodri-kralj-dodavanja-psz-nije-slucajno-prvak-evrope/547580",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/statistika-grupne-faze-mundijala-i-koliko-puta-je-jedan-bilo-jednako-tri/547572",
       "izvor": "Мозарт Спорт",
       "datum": "28. 06. 2026. у 16:23",
-      "slika": null
-    },
-    {
-      "naslov": "Petar Stanić na Petrovdan - zaključen jedan od najvećih transfera u istoriji Olimpijakosa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/petar-stanic-na-petrovdan-zakljucen-jedan-od-najvecih-transfera-u-istoriji-olimpijakosa/547556",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 06. 2026. у 14:03",
       "slika": null
     },
     {
