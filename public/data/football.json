@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-28T04:51:51.455002+00:00",
-  "azurirano_sr": "28. 06. 2026. у 06:51",
+  "azurirano": "2026-06-28T08:13:39.135590+00:00",
+  "azurirano_sr": "28. 06. 2026. у 10:13",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Pecina fudbalska katedra na kojoj su gostovali Čelsi, PSŽ, Argentina, Real, Engleska… Sada je tome kraj",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pecina-fudbalska-katedra-na-kojoj-su-gostovali-celsi-psz-argentina-real-engleska-sada-je-tome-kraj/547512",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 06. 2026. у 10:27",
+      "slika": null
+    },
     {
       "naslov": "Najluđa utakmica Mundijala ili paravan veka?! Posle 3:3 niko na svetu više ne zna šta da misli",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najlua-utakmica-mundijala-ili-paravan-veka-posle-33-niko-na-svetu-vise-ne-zna-sta-da-misli/547531",
@@ -25,38 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Mundijalski pretres sa Dejom: Nisam gledao gori Brazil, Francuzi i Embape najjači, Mesi još na znanje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mundijalski-pretres-sa-dejom-nisam-gledao-gori-brazil-francuzi-i-embape-najjaci-mesi-jos-na-znanje/547463",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 06. 2026. у 10:23",
+      "naslov": "Skaloni: Dali smo šansu fudbalerima koji su malo igrali u dosadašnjem delu Svetskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/262280/skaloni-dali-smo-sansu-fudbalerima-koji-su-malo-igrali-u-dosadasnjem-delu-svetskog-prvenstva/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 06. 2026. у 09:50",
       "slika": null
     },
     {
-      "naslov": "Kapiten fudbalera Zelenortskih Ostrva Rajan Mendeš pod istragom, optužen za silovanje",
-      "url": "https://www.tanjug.rs/sport/fudbal/262240/kapiten-fudbalera-zelenortskih-ostrva-rajan-mendes-pod-istragom-optuzen-za-silovanje/vest",
+      "naslov": "Rangnik: Nemam reči za ono što se dogodilo, nikada nisam doživeo nešto slično",
+      "url": "https://www.tanjug.rs/sport/fudbal/262276/rangnik-nemam-reci-za-ono-sto-se-dogodilo-nikada-nisam-doziveo-nesto-slicno/vest",
       "izvor": "Танјуг",
-      "datum": "27. 06. 2026. у 22:07",
+      "datum": "28. 06. 2026. у 09:32",
       "slika": null
     },
     {
-      "naslov": "Morijacu: Brazil je jedan od najboljih timova na svetu, ali imamo šansu da pobedimo",
-      "url": "https://www.tanjug.rs/sport/fudbal/262207/morijacu-brazil-je-jedan-od-najboljih-timova-na-svetu-ali-imamo-sansu-da-pobedimo/vest",
+      "naslov": "Desabr: Moji igrači su bili izuzetni, pokazali smo da znamo da postižemo golove",
+      "url": "https://www.tanjug.rs/sport/fudbal/262271/desabr-moji-igraci-su-bili-izuzetni-pokazali-smo-da-znamo-da-postizemo-golove/vest",
       "izvor": "Танјуг",
-      "datum": "27. 06. 2026. у 17:32",
+      "datum": "28. 06. 2026. у 09:01",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Australije Italijano i Leki završili učešće na Mundijalu zbog povreda",
-      "url": "https://www.tanjug.rs/sport/fudbal/262205/fudbaleri-australije-italijano-i-leki-zavrsili-ucesce-na-mundijalu-zbog-povreda/vest",
+      "naslov": "Kapiten fudbalera Egipta Mohamed Salah povredio tetivu na meču sa Iranom",
+      "url": "https://www.tanjug.rs/sport/fudbal/262261/kapiten-fudbalera-egipta-mohamed-salah-povredio-tetivu-na-mecu-sa-iranom/vest",
       "izvor": "Танјуг",
-      "datum": "27. 06. 2026. у 17:15",
+      "datum": "28. 06. 2026. у 08:07",
       "slika": null
     },
     {
-      "naslov": "Holandski fudbaler Vut Veghorst potpisao ugovor sa Tventeom",
-      "url": "https://www.tanjug.rs/sport/fudbal/262182/holandski-fudbaler-vut-veghorst-potpisao-ugovor-sa-tventeom/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 06. 2026. у 15:03",
+      "naslov": "Nenad Lalatović ponovo na jugu Srbije?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245654/nenad-lalatovic-preuzima-radnik-iz-surdulice/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 06. 2026. у 09:15",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245578/kokovic-uneo-novine-pred-bragu-igraci-bosi-treniraju-video/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "27. 06. 2026. у 23:25",
-      "slika": null
-    },
-    {
-      "naslov": "Tanjga: &quot;Očekujem više od pojačanja&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245557/tanjga-ocekujem-vise-od-pojacanja/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 06. 2026. у 20:15",
       "slika": null
     }
   ]
