@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-28T12:05:29.177209+00:00",
-  "azurirano_sr": "28. 06. 2026. у 14:05",
+  "azurirano": "2026-06-28T14:09:04.652809+00:00",
+  "azurirano_sr": "28. 06. 2026. у 16:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Statistika grupne faze Mundijala i koliko puta je jedan bilo jednako tri",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/statistika-grupne-faze-mundijala-i-koliko-puta-je-jedan-bilo-jednako-tri/547572",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 06. 2026. у 16:23",
+      "slika": null
+    },
     {
       "naslov": "Petar Stanić na Petrovdan - zaključen jedan od najvećih transfera u istoriji Olimpijakosa",
       "url": "https://www.mozzartsport.com/fudbal/vesti/petar-stanic-na-petrovdan-zakljucen-jedan-od-najvecih-transfera-u-istoriji-olimpijakosa/547556",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Pecina fudbalska katedra na kojoj su gostovali Čelsi, PSŽ, Argentina, Real, Engleska… Sada je tome kraj",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pecina-fudbalska-katedra-na-kojoj-su-gostovali-celsi-psz-argentina-real-engleska-sada-je-tome-kraj/547512",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 06. 2026. у 10:27",
+      "naslov": "Gordan Petrić: Očekujem tešku utakmicu protiv Italije, Srbija spremna za utakmice na Evropskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/262362/gordan-petric-ocekujem-tesku-utakmicu-protiv-italije-srbija-spremna-za-utakmice-na-evropskom-prvenstvu/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 06. 2026. у 15:46",
+      "slika": null
+    },
+    {
+      "naslov": "Ilić čestitao Mačkoviću i Pimenovu: Potvrdili smo da pripadamo svetskom vrhu",
+      "url": "https://www.tanjug.rs/sport/fudbal/262334/ilic-cestitao-mackovicu-i-pimenovu-potvrdili-smo-da-pripadamo-svetskom-vrhu/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 06. 2026. у 13:50",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/262288/martinez-ronaldo-je-navikao-da-bude-na-pravom-mestu-u-pravo-vreme/vest",
       "izvor": "Танјуг",
       "datum": "28. 06. 2026. у 10:27",
-      "slika": null
-    },
-    {
-      "naslov": "Skaloni: Dali smo šansu fudbalerima koji su malo igrali u dosadašnjem delu Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/262280/skaloni-dali-smo-sansu-fudbalerima-koji-su-malo-igrali-u-dosadasnjem-delu-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 06. 2026. у 09:50",
-      "slika": null
-    },
-    {
-      "naslov": "Rangnik: Nemam reči za ono što se dogodilo, nikada nisam doživeo nešto slično",
-      "url": "https://www.tanjug.rs/sport/fudbal/262276/rangnik-nemam-reci-za-ono-sto-se-dogodilo-nikada-nisam-doziveo-nesto-slicno/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 06. 2026. у 09:32",
       "slika": null
     },
     {
