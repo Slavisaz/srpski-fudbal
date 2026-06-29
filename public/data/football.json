@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-29T17:28:28.392976+00:00",
-  "azurirano_sr": "29. 06. 2026. у 19:28",
+  "azurirano": "2026-06-29T19:20:23.450890+00:00",
+  "azurirano_sr": "29. 06. 2026. у 21:20",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "I Tomaš Hendel pred odlaskom iz Zvezde: Mame ga velikani iz Praga i Moskve",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/i-tomas-hendel-pred-odlaskom-iz-zvezde-mame-ga-velikani-iz-praga-i-moskve/547686",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 06. 2026. у 22:20",
+      "slika": null
+    },
     {
       "naslov": "Nismo skauti, ali volimo da pogledamo",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nismo-skauti-ali-volimo-da-pogledamo/547651",
@@ -25,52 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Nije Drim tim, ali ima šta da ponudi: Srbija kreće po vizu za Mundijalito",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nije-drim-tim-ali-ima-sta-da-ponudi-srbija-krece-po-vizu-za-mundijalito/547619",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 06. 2026. у 12:04",
-      "slika": null
-    },
-    {
-      "naslov": "Omladinci Srbije poraženi od Italije na startu Evropskog prvenstva u Velsu",
-      "url": "https://www.tanjug.rs/sport/fudbal/262628/omladinci-srbije-porazeni-od-italije-na-startu-evropskog-prvenstva-u-velsu/vest",
+      "naslov": "Saša Ilić: Dobro je što se ovakva igra desila na pripremama, pred nama je puno rada",
+      "url": "https://www.tanjug.rs/sport/fudbal/262659/sasa-ilic-dobro-je-sto-se-ovakva-igra-desila-na-pripremama-pred-nama-je-puno-rada/vest",
       "izvor": "Танјуг",
-      "datum": "29. 06. 2026. у 18:58",
+      "datum": "29. 06. 2026. у 20:51",
       "slika": null
     },
     {
-      "naslov": "Čelsi se oglasio saopštenjem: Promena na mestu trenera glavni razlog za lošu sezonu",
-      "url": "https://www.tanjug.rs/sport/fudbal/262614/celsi-se-oglasio-saopstenjem-promena-na-mestu-trenera-glavni-razlog-za-losu-sezonu/vest",
+      "naslov": "Dejan Stanković: Prava takmičarska utakmica, biće momci najbolji kada bude najpotrebnije",
+      "url": "https://www.tanjug.rs/sport/fudbal/262655/dejan-stankovic-prava-takmicarska-utakmica-bice-momci-najbolji-kada-bude-najpotrebnije/vest",
       "izvor": "Танјуг",
-      "datum": "29. 06. 2026. у 18:01",
+      "datum": "29. 06. 2026. у 20:40",
       "slika": null
     },
     {
-      "naslov": "Italijanski stručnjak Enco Mareska novi menadžer Mančester Sitija",
-      "url": "https://www.tanjug.rs/sport/fudbal/262587/italijanski-strucnjak-enco-mareska-novi-menadzer-mancester-sitija/vest",
+      "naslov": "Petrić posle poraza od Italije: Moji igrači su pružili maksimum",
+      "url": "https://www.tanjug.rs/sport/fudbal/262648/petric-posle-poraza-od-italije-moji-igraci-su-pruzili-maksimum/vest",
       "izvor": "Танјуг",
-      "datum": "29. 06. 2026. у 16:23",
+      "datum": "29. 06. 2026. у 20:13",
       "slika": null
     },
     {
-      "naslov": "Predsednik Fudbalskog saveza Saudijske Arabije podneo ostavku",
-      "url": "https://www.tanjug.rs/sport/fudbal/262504/predsednik-fudbalskog-saveza-saudijske-arabije-podneo-ostavku/vest",
+      "naslov": "Fudbaleri Partizana poraženi od bugarskog CSKA 1948 na pripremama u Sloveniji",
+      "url": "https://www.tanjug.rs/sport/fudbal/262647/fudbaleri-partizana-porazeni-od-bugarskog-cska-1948-na-pripremama-u-sloveniji/vest",
       "izvor": "Танјуг",
-      "datum": "29. 06. 2026. у 11:06",
+      "datum": "29. 06. 2026. у 20:06",
       "slika": null
     },
     {
-      "naslov": "Na Marakanu stiže 5 miliona evra!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246087/zvezda-prodala-milsona-za-4-i-po-miliona-evra/vest",
+      "naslov": "Stanković: &quot;Nismo dovoljno rizikovali&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246117/dejan-stankovic-izjava-posle-remija-zvezde-sa-slovanom/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "29. 06. 2026. у 19:01",
+      "datum": "29. 06. 2026. у 20:57",
       "slika": null
     },
     {
-      "naslov": "Poraz Srbije na startu EP – Italija ubedljiva",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246085/poraz-u19-reprezentacije-srbije-od-italije-na-startu-ep-u-fudbalu/vest",
+      "naslov": "Saša Ilić posle poraza: &quot;Vreme je jedino opravdanje&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246115/sasa-ilic-izjava-posle-poraza-partizana-od-cska/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "29. 06. 2026. у 18:50",
+      "datum": "29. 06. 2026. у 20:45",
       "slika": null
     }
   ]
