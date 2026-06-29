@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-06-29T06:19:50.961563+00:00",
-  "azurirano_sr": "29. 06. 2026. у 08:19",
+  "azurirano": "2026-06-29T11:26:23.270774+00:00",
+  "azurirano_sr": "29. 06. 2026. у 13:26",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Turčin demantovao: Ne dovodimo Jovana Miloševića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/turcin-demantovao-ne-dovodimo-jovana-milosevica/547637",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 06. 2026. у 14:58",
+      "slika": null
+    },
+    {
+      "naslov": "Nije Drim tim, ali ima šta da ponudi: Srbija kreće po vizu za Mundijalito",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nije-drim-tim-ali-ima-sta-da-ponudi-srbija-krece-po-vizu-za-mundijalito/547619",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 06. 2026. у 12:04",
+      "slika": null
+    },
+    {
+      "naslov": "Frka u Splitu: Livaja uz piće slavio pobedu Hrvata, pa oteran sa Hajdukovih priprema",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/frka-u-splitu-livaja-uz-pice-slavio-pobedu-hrvata-pa-oteran-sa-hajdukovih-priprema/547613",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 06. 2026. у 11:09",
+      "slika": null
+    },
     {
       "naslov": "Tenzija u Južnoj Koreji, predsednik države pokrenuo istragu protiv Fudbalskog saveza",
       "url": "https://www.mozzartsport.com/fudbal/vesti/tenzija-u-juznoj-koreji-predsednik-drzave-pokrenuo-istragu-protiv-fudbalskog-saveza/547587",
@@ -11,24 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Engleska šutirala glavom više nego Gana nogom; Rodri kralj dodavanja, PSŽ nije slučajno prvak Evrope",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/engleska-sutirala-glavom-vise-nego-gana-nogom-rodri-kralj-dodavanja-psz-nije-slucajno-prvak-evrope/547580",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 06. 2026. у 19:01",
+      "naslov": "Predsednik Fudbalskog saveza Saudijske Arabije podneo ostavku",
+      "url": "https://www.tanjug.rs/sport/fudbal/262504/predsednik-fudbalskog-saveza-saudijske-arabije-podneo-ostavku/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 06. 2026. у 11:06",
       "slika": null
     },
     {
-      "naslov": "Neveš između fudbalera i dostavljača: Evo jedno parče pice… (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/neves-izmeu-fudbalera-i-dostavljaca-evo-jedno-parce-pice-video/547578",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 06. 2026. у 18:31",
+      "naslov": "Utakmice grupne faze Mondijala gledalo uživo više od 4,5 miliona navijača",
+      "url": "https://www.tanjug.rs/sport/fudbal/262483/utakmice-grupne-faze-mondijala-gledalo-uzivo-vise-od-45-miliona-navijaca/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 06. 2026. у 09:44",
       "slika": null
     },
     {
-      "naslov": "Statistika grupne faze Mundijala i koliko puta je jedan bilo jednako tri",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/statistika-grupne-faze-mundijala-i-koliko-puta-je-jedan-bilo-jednako-tri/547572",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 06. 2026. у 16:23",
+      "naslov": "Saša Ilić: Nisam čudotvorac, već trener koji će izvući maksimum iz ove ekipe Partizana",
+      "url": "https://www.tanjug.rs/sport/fudbal/262474/sasa-ilic-nisam-cudotvorac-vec-trener-koji-ce-izvuci-maksimum-iz-ove-ekipe-partizana/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 06. 2026. у 09:24",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Srbije napredovali za tri mesta na najnovijoj FIFA rang listi",
-      "url": "https://www.tanjug.rs/sport/fudbal/262421/fudbaleri-srbije-napredovali-za-tri-mesta-na-najnovijoj-fifa-rang-listi/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 06. 2026. у 20:17",
-      "slika": null
-    },
-    {
-      "naslov": "Hong Mjung Bo nije više selektor fudbalera Južne Koreje",
-      "url": "https://www.tanjug.rs/sport/fudbal/262414/hong-mjung-bo-nije-vise-selektor-fudbalera-juzne-koreje/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 06. 2026. у 19:51",
-      "slika": null
-    },
-    {
-      "naslov": "Urugvajski fudbaler Manuel Ugarte doživeo tešku povredu kolena",
-      "url": "https://www.tanjug.rs/sport/fudbal/262409/urugvajski-fudbaler-manuel-ugarte-doziveo-tesku-povredu-kolena/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 06. 2026. у 19:12",
-      "slika": null
-    },
-    {
-      "naslov": "FSS postavio novog predsednika sudijske organizacije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245778/fss-postavio-novog-predsednika-sudijske-organizacije/vest",
+      "naslov": "Vojvodina ga imala &quot;na tacni&quot;, sada postiže golove za BiH na Mundijalu i vredi 5 miliona evra",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245961/vojvodina-bila-blizu-dovodjenja-ermina-mahmica-s-sada-vredi-5-miliona-evra-i-igra-za-bih/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "28. 06. 2026. у 18:30",
+      "datum": "29. 06. 2026. у 13:15",
       "slika": null
     },
     {
-      "naslov": "Petrić pred EP: &quot;Termin je čudan, moramo da se prilagodimo&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245761/petric-pred-ep-termin-je-cudan-moramo-da-se-prilagodimo/vest",
+      "naslov": "Saša Ilić: &quot;Ne vidim sebe kao čudotvorca&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245873/sasa-ilic-izjave-fk-partizan-pripreme-slovenija/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "28. 06. 2026. у 16:48",
+      "datum": "29. 06. 2026. у 10:14",
       "slika": null
     }
   ]
