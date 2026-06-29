@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-06-29T19:20:23.450890+00:00",
-  "azurirano_sr": "29. 06. 2026. у 21:20",
+  "azurirano": "2026-06-29T20:59:03.683578+00:00",
+  "azurirano_sr": "29. 06. 2026. у 22:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dobar “ulov” u Šapcu: Mačva predstavila sekstet novajlija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dobar-ulov-u-sapcu-macva-predstavila-sekstet-novajlija/547693",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 06. 2026. у 00:20",
+      "slika": null
+    },
+    {
+      "naslov": "Zvanično: Zrelost Pasa i moć Koma; iskeširali 60.000.000, a Real sprema novi napad za godinu dana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-zrelost-pasa-i-moc-koma-iskesirali-60000000-a-real-sprema-novi-napad-za-godinu-dana/547691",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 06. 2026. у 23:55",
+      "slika": null
+    },
+    {
+      "naslov": "Brobi tiho drobi, ali Maroko se ne plaši",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/brobi-tiho-drobi-ali-maroko-se-ne-plasi/547648",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 06. 2026. у 23:40",
+      "slika": null
+    },
     {
       "naslov": "I Tomaš Hendel pred odlaskom iz Zvezde: Mame ga velikani iz Praga i Moskve",
       "url": "https://www.mozzartsport.com/fudbal/vesti/i-tomas-hendel-pred-odlaskom-iz-zvezde-mame-ga-velikani-iz-praga-i-moskve/547686",
@@ -11,52 +32,31 @@
       "slika": null
     },
     {
-      "naslov": "Nismo skauti, ali volimo da pogledamo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nismo-skauti-ali-volimo-da-pogledamo/547651",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 06. 2026. у 17:05",
-      "slika": null
-    },
-    {
-      "naslov": "Šteta je što ove godine nema Bratskog kupa za Partizan i OFK Beograd",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/steta-je-sto-ove-godine-nema-bratskog-kupa-za-partizan-i-ofk-beograd/547642",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 06. 2026. у 15:35",
-      "slika": null
-    },
-    {
-      "naslov": "Turčin demantovao: Ne dovodimo Jovana Miloševića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/turcin-demantovao-ne-dovodimo-jovana-milosevica/547637",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 06. 2026. у 14:58",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić: Dobro je što se ovakva igra desila na pripremama, pred nama je puno rada",
-      "url": "https://www.tanjug.rs/sport/fudbal/262659/sasa-ilic-dobro-je-sto-se-ovakva-igra-desila-na-pripremama-pred-nama-je-puno-rada/vest",
+      "naslov": "Garbijel Martineli: Presrećan sam i ponosan, ova pobeda nam uliva dodatno samopouzdanje",
+      "url": "https://www.tanjug.rs/sport/fudbal/262676/garbijel-martineli-presrecan-sam-i-ponosan-ova-pobeda-nam-uliva-dodatno-samopouzdanje/vest",
       "izvor": "Танјуг",
-      "datum": "29. 06. 2026. у 20:51",
+      "datum": "29. 06. 2026. у 22:32",
       "slika": null
     },
     {
-      "naslov": "Dejan Stanković: Prava takmičarska utakmica, biće momci najbolji kada bude najpotrebnije",
-      "url": "https://www.tanjug.rs/sport/fudbal/262655/dejan-stankovic-prava-takmicarska-utakmica-bice-momci-najbolji-kada-bude-najpotrebnije/vest",
+      "naslov": "Argentinski fudbaler Niko Paz ostaje u Komu",
+      "url": "https://www.tanjug.rs/sport/fudbal/262677/argentinski-fudbaler-niko-paz-ostaje-u-komu/vest",
       "izvor": "Танјуг",
-      "datum": "29. 06. 2026. у 20:40",
+      "datum": "29. 06. 2026. у 22:25",
       "slika": null
     },
     {
-      "naslov": "Petrić posle poraza od Italije: Moji igrači su pružili maksimum",
-      "url": "https://www.tanjug.rs/sport/fudbal/262648/petric-posle-poraza-od-italije-moji-igraci-su-pruzili-maksimum/vest",
+      "naslov": "Brazilac Rafael Klaus sudi meč SAD - BiH na Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/262673/brazilac-rafael-klaus-sudi-mec-sad-bih-na-svetskom-prvenstvu/vest",
       "izvor": "Танјуг",
-      "datum": "29. 06. 2026. у 20:13",
+      "datum": "29. 06. 2026. у 22:09",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Partizana poraženi od bugarskog CSKA 1948 na pripremama u Sloveniji",
-      "url": "https://www.tanjug.rs/sport/fudbal/262647/fudbaleri-partizana-porazeni-od-bugarskog-cska-1948-na-pripremama-u-sloveniji/vest",
+      "naslov": "Fudbaleri Republike Irske i Izraela igraju u oktobru u Bačkoj Topoli utakmicu u Ligi nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/262664/fudbaleri-republike-irske-i-izraela-igraju-u-oktobru-u-backoj-topoli-utakmicu-u-ligi-nacija/vest",
       "izvor": "Танјуг",
-      "datum": "29. 06. 2026. у 20:06",
+      "datum": "29. 06. 2026. у 21:34",
       "slika": null
     },
     {
