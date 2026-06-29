@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-29T11:26:23.270774+00:00",
-  "azurirano_sr": "29. 06. 2026. у 13:26",
+  "azurirano": "2026-06-29T14:56:09.251733+00:00",
+  "azurirano_sr": "29. 06. 2026. у 16:56",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nismo skauti, ali volimo da pogledamo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nismo-skauti-ali-volimo-da-pogledamo/547651",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 06. 2026. у 17:05",
+      "slika": null
+    },
+    {
+      "naslov": "Šteta je što ove godine nema Bratskog kupa za Partizan i OFK Beograd",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/steta-je-sto-ove-godine-nema-bratskog-kupa-za-partizan-i-ofk-beograd/547642",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 06. 2026. у 15:35",
+      "slika": null
+    },
     {
       "naslov": "Turčin demantovao: Ne dovodimo Jovana Miloševića",
       "url": "https://www.mozzartsport.com/fudbal/vesti/turcin-demantovao-ne-dovodimo-jovana-milosevica/547637",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/nije-drim-tim-ali-ima-sta-da-ponudi-srbija-krece-po-vizu-za-mundijalito/547619",
       "izvor": "Мозарт Спорт",
       "datum": "29. 06. 2026. у 12:04",
-      "slika": null
-    },
-    {
-      "naslov": "Frka u Splitu: Livaja uz piće slavio pobedu Hrvata, pa oteran sa Hajdukovih priprema",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/frka-u-splitu-livaja-uz-pice-slavio-pobedu-hrvata-pa-oteran-sa-hajdukovih-priprema/547613",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 06. 2026. у 11:09",
-      "slika": null
-    },
-    {
-      "naslov": "Tenzija u Južnoj Koreji, predsednik države pokrenuo istragu protiv Fudbalskog saveza",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tenzija-u-juznoj-koreji-predsednik-drzave-pokrenuo-istragu-protiv-fudbalskog-saveza/547587",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 06. 2026. у 20:52",
       "slika": null
     },
     {
@@ -46,6 +46,13 @@
       "slika": null
     },
     {
+      "naslov": "Holandski arbitar Dani Makeli sudiće meč između fudbalera Francuske i Švedske",
+      "url": "https://www.tanjug.rs/sport/fudbal/262479/holandski-arbitar-dani-makeli-sudice-mec-izmedu-fudbalera-francuske-i-svedske/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 06. 2026. у 09:35",
+      "slika": null
+    },
+    {
       "naslov": "Saša Ilić: Nisam čudotvorac, već trener koji će izvući maksimum iz ove ekipe Partizana",
       "url": "https://www.tanjug.rs/sport/fudbal/262474/sasa-ilic-nisam-cudotvorac-vec-trener-koji-ce-izvuci-maksimum-iz-ove-ekipe-partizana/vest",
       "izvor": "Танјуг",
@@ -53,14 +60,7 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Kanade prvi učesnici osmine finala Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/262440/fudbaleri-kanade-prvi-ucesnici-osmine-finala-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 06. 2026. у 23:07",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina ga imala &quot;na tacni&quot;, sada postiže golove za BiH na Mundijalu i vredi 5 miliona evra",
+      "naslov": "Vojvodina ga imala &quot;na tacni&quot; – sada postiže golove za BiH na Mundijalu i vredi 5 miliona evra",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245961/vojvodina-bila-blizu-dovodjenja-ermina-mahmica-s-sada-vredi-5-miliona-evra-i-igra-za-bih/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "29. 06. 2026. у 13:15",
