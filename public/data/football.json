@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-29T14:56:09.251733+00:00",
-  "azurirano_sr": "29. 06. 2026. у 16:56",
+  "azurirano": "2026-06-29T17:28:28.392976+00:00",
+  "azurirano_sr": "29. 06. 2026. у 19:28",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Omladinci Srbije poraženi od Italije na startu Evropskog prvenstva u Velsu",
+      "url": "https://www.tanjug.rs/sport/fudbal/262628/omladinci-srbije-porazeni-od-italije-na-startu-evropskog-prvenstva-u-velsu/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 06. 2026. у 18:58",
+      "slika": null
+    },
+    {
+      "naslov": "Čelsi se oglasio saopštenjem: Promena na mestu trenera glavni razlog za lošu sezonu",
+      "url": "https://www.tanjug.rs/sport/fudbal/262614/celsi-se-oglasio-saopstenjem-promena-na-mestu-trenera-glavni-razlog-za-losu-sezonu/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 06. 2026. у 18:01",
+      "slika": null
+    },
+    {
+      "naslov": "Italijanski stručnjak Enco Mareska novi menadžer Mančester Sitija",
+      "url": "https://www.tanjug.rs/sport/fudbal/262587/italijanski-strucnjak-enco-mareska-novi-menadzer-mancester-sitija/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 06. 2026. у 16:23",
+      "slika": null
+    },
+    {
       "naslov": "Predsednik Fudbalskog saveza Saudijske Arabije podneo ostavku",
       "url": "https://www.tanjug.rs/sport/fudbal/262504/predsednik-fudbalskog-saveza-saudijske-arabije-podneo-ostavku/vest",
       "izvor": "Танјуг",
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Utakmice grupne faze Mondijala gledalo uživo više od 4,5 miliona navijača",
-      "url": "https://www.tanjug.rs/sport/fudbal/262483/utakmice-grupne-faze-mondijala-gledalo-uzivo-vise-od-45-miliona-navijaca/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 06. 2026. у 09:44",
-      "slika": null
-    },
-    {
-      "naslov": "Holandski arbitar Dani Makeli sudiće meč između fudbalera Francuske i Švedske",
-      "url": "https://www.tanjug.rs/sport/fudbal/262479/holandski-arbitar-dani-makeli-sudice-mec-izmedu-fudbalera-francuske-i-svedske/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 06. 2026. у 09:35",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić: Nisam čudotvorac, već trener koji će izvući maksimum iz ove ekipe Partizana",
-      "url": "https://www.tanjug.rs/sport/fudbal/262474/sasa-ilic-nisam-cudotvorac-vec-trener-koji-ce-izvuci-maksimum-iz-ove-ekipe-partizana/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 06. 2026. у 09:24",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina ga imala &quot;na tacni&quot; – sada postiže golove za BiH na Mundijalu i vredi 5 miliona evra",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245961/vojvodina-bila-blizu-dovodjenja-ermina-mahmica-s-sada-vredi-5-miliona-evra-i-igra-za-bih/vest",
+      "naslov": "Na Marakanu stiže 5 miliona evra!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246087/zvezda-prodala-milsona-za-4-i-po-miliona-evra/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "29. 06. 2026. у 13:15",
+      "datum": "29. 06. 2026. у 19:01",
       "slika": null
     },
     {
-      "naslov": "Saša Ilić: &quot;Ne vidim sebe kao čudotvorca&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/245873/sasa-ilic-izjave-fk-partizan-pripreme-slovenija/vest",
+      "naslov": "Poraz Srbije na startu EP – Italija ubedljiva",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246085/poraz-u19-reprezentacije-srbije-od-italije-na-startu-ep-u-fudbalu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "29. 06. 2026. у 10:14",
+      "datum": "29. 06. 2026. у 18:50",
       "slika": null
     }
   ]
