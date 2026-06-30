@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-30T13:17:54.557942+00:00",
-  "azurirano_sr": "30. 06. 2026. у 15:17",
+  "azurirano": "2026-06-30T15:42:16.009364+00:00",
+  "azurirano_sr": "30. 06. 2026. у 17:42",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Javor završio još jedan milionski transfer",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/javor-zavrsio-jos-jedan-milionski-transfer/547747",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 06. 2026. у 17:51",
+      "slika": null
+    },
     {
       "naslov": "Marko Milošević: Mora da nam se vrati za AEK i Hibernijan",
       "url": "https://www.mozzartsport.com/fudbal/vesti/marko-milosevic-mora-da-nam-se-vrati-za-aek-i-hibernijan/547666",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Zvanično: Zrelost Pasa i moć Koma; iskeširali 60.000.000, a Real sprema novi napad za godinu dana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-zrelost-pasa-i-moc-koma-iskesirali-60000000-a-real-sprema-novi-napad-za-godinu-dana/547691",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 06. 2026. у 23:55",
+      "naslov": "Portugalski fudbaler Gonsalo Ramos novo pojačanje Milana",
+      "url": "https://www.tanjug.rs/sport/fudbal/262868/portugalski-fudbaler-gonsalo-ramos-novo-pojacanje-milana/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 06. 2026. у 17:00",
+      "slika": null
+    },
+    {
+      "naslov": "Španski fudbaler Alehandro Grimaldo potpisao ugovor sa madridskim Atletikom",
+      "url": "https://www.tanjug.rs/sport/fudbal/262859/spanski-fudbaler-alehandro-grimaldo-potpisao-ugovor-sa-madridskim-atletikom/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 06. 2026. у 16:45",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/262748/kuman-nemam-sta-da-zamerim-igracima-sve-bih-ponovo-isto-uradio/vest",
       "izvor": "Танјуг",
       "datum": "30. 06. 2026. у 10:19",
-      "slika": null
-    },
-    {
-      "naslov": "Poljski fudbaler Robert Levandovski potpisao ugovor sa Čikagom",
-      "url": "https://www.tanjug.rs/sport/fudbal/262745/poljski-fudbaler-robert-levandovski-potpisao-ugovor-sa-cikagom/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 06. 2026. у 10:00",
-      "slika": null
-    },
-    {
-      "naslov": "Penja proglasio državni praznik zbog plasmana fudbalera Paragvaja u osminu finala SP",
-      "url": "https://www.tanjug.rs/sport/fudbal/262738/penja-proglasio-drzavni-praznik-zbog-plasmana-fudbalera-paragvaja-u-osminu-finala-sp/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 06. 2026. у 09:46",
       "slika": null
     },
     {
