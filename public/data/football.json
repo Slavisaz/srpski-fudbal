@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-06-30T15:42:16.009364+00:00",
-  "azurirano_sr": "30. 06. 2026. у 17:42",
+  "azurirano": "2026-06-30T17:27:57.511873+00:00",
+  "azurirano_sr": "30. 06. 2026. у 19:27",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Najskuplji Pevac u istoriji! Totenhem dao ono što Junajted nije hteo - 98.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najskuplji-pevac-u-istoriji-totenhem-dao-ono-sto-junajted-nije-hteo-98000000-evra/547767",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 06. 2026. у 20:59",
+      "slika": null
+    },
+    {
+      "naslov": "Aletiko rešio muku sa levim bekovima: Grimaldo došao za 20.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/aletiko-resio-muku-sa-levim-bekovima-grimaldo-dosao-za-20000000-evra/547762",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 06. 2026. у 19:41",
+      "slika": null
+    },
     {
       "naslov": "Javor završio još jedan milionski transfer",
       "url": "https://www.mozzartsport.com/fudbal/vesti/javor-zavrsio-jos-jedan-milionski-transfer/547747",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Diomande neće nigde ovog leta! Iz Lajpciga poručuju: Igraće za nas i sledeće sezone",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/diomande-nece-nigde-ovog-leta-iz-lajpciga-porucuju-igrace-za-nas-i-sledece-sezone/547703",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 06. 2026. у 01:34",
-      "slika": null
-    },
-    {
-      "naslov": "Dobar “ulov” u Šapcu: Mačva predstavila sekstet novajlija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dobar-ulov-u-sapcu-macva-predstavila-sekstet-novajlija/547693",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 06. 2026. у 00:20",
+      "naslov": "Senegalski stručnjak Habib Bej nije više trener Olimpika iz Marseja",
+      "url": "https://www.tanjug.rs/sport/fudbal/262887/senegalski-strucnjak-habib-bej-nije-vise-trener-olimpika-iz-marseja/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 06. 2026. у 18:59",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Kuman: Nemam šta da zamerim igračima, sve bih ponovo isto uradio",
-      "url": "https://www.tanjug.rs/sport/fudbal/262748/kuman-nemam-sta-da-zamerim-igracima-sve-bih-ponovo-isto-uradio/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 06. 2026. у 10:19",
+      "naslov": "Srpski napadač se rastao sa Tajlanđanima",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246353/marko-saric-ide-sa-tajlanda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "30. 06. 2026. у 19:23",
       "slika": null
     },
     {
-      "naslov": "Italijani &quot;love&quot; u Humskoj: Ugrešić na izlaznim vratima?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246219/bolonja-hoce-ognjena-ugresica/vest",
+      "naslov": "Navijači napali trenera Teleoptika – bivši kapiten Partizana u bolnici!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246380/marko-jovanovic-u-urgentnom-centru/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 06. 2026. у 10:58",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: &quot;Nismo dovoljno rizikovali&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246117/dejan-stankovic-izjava-posle-remija-zvezde-sa-slovanom/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 06. 2026. у 20:57",
+      "datum": "30. 06. 2026. у 19:13",
       "slika": null
     }
   ]
