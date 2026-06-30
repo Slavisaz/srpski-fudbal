@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-06-30T04:36:27.890063+00:00",
-  "azurirano_sr": "30. 06. 2026. у 06:36",
+  "azurirano": "2026-06-30T08:07:32.882983+00:00",
+  "azurirano_sr": "30. 06. 2026. у 10:07",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Marko Milošević: Mora da nam se vrati za AEK i Hibernijan",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/marko-milosevic-mora-da-nam-se-vrati-za-aek-i-hibernijan/547666",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 06. 2026. у 11:20",
+      "slika": null
+    },
     {
       "naslov": "Diomande neće nigde ovog leta! Iz Lajpciga poručuju: Igraće za nas i sledeće sezone",
       "url": "https://www.mozzartsport.com/fudbal/vesti/diomande-nece-nigde-ovog-leta-iz-lajpciga-porucuju-igrace-za-nas-i-sledece-sezone/547703",
@@ -25,38 +32,31 @@
       "slika": null
     },
     {
-      "naslov": "Brobi tiho drobi, ali Maroko se ne plaši",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/brobi-tiho-drobi-ali-maroko-se-ne-plasi/547648",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 06. 2026. у 23:40",
+      "naslov": "Penja proglasio državni praznik zbog plasmana fudbalera Paragvaja u osminu finala SP",
+      "url": "https://www.tanjug.rs/sport/fudbal/262738/penja-proglasio-drzavni-praznik-zbog-plasmana-fudbalera-paragvaja-u-osminu-finala-sp/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 06. 2026. у 09:46",
       "slika": null
     },
     {
-      "naslov": "Hadžime Morijasu: Veoma sam razočaran, ali dali smo sve od sebe na Svetskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/262688/hadzime-morijasu-veoma-sam-razocaran-ali-dali-smo-sve-od-sebe-na-svetskom-prvenstvu/vest",
+      "naslov": "Selektor Paragvaja Alfaro: Rekao sam igračima da stvore istoriju i postanu legende",
+      "url": "https://www.tanjug.rs/sport/fudbal/262732/selektor-paragvaja-alfaro-rekao-sam-igracima-da-stvore-istoriju-i-postanu-legende/vest",
       "izvor": "Танјуг",
-      "datum": "29. 06. 2026. у 23:38",
+      "datum": "30. 06. 2026. у 09:25",
       "slika": null
     },
     {
-      "naslov": "Anćeloti: Nikada ne smemo da budemo zadovoljni, želimo da igramo još bolje",
-      "url": "https://www.tanjug.rs/sport/fudbal/262684/anceloti-nikada-ne-smemo-da-budemo-zadovoljni-zelimo-da-igramo-jos-bolje/vest",
+      "naslov": "Manuel Nojer: Svi smo razočarani i tužni zbog eliminacije sa Svetskog prvenstva, nismo imali sreće",
+      "url": "https://www.tanjug.rs/sport/fudbal/262722/manuel-nojer-svi-smo-razocarani-i-tuzni-zbog-eliminacije-sa-svetskog-prvenstva-nismo-imali-srece/vest",
       "izvor": "Танјуг",
-      "datum": "29. 06. 2026. у 23:10",
+      "datum": "30. 06. 2026. у 08:57",
       "slika": null
     },
     {
-      "naslov": "Miroslav Koubek nije više selektor fudbalske reprezentacije Češke",
-      "url": "https://www.tanjug.rs/sport/fudbal/262681/miroslav-koubek-nije-vise-selektor-fudbalske-reprezentacije-ceske/vest",
+      "naslov": "Fudbaleri Maroka posle penala eliminisali Holandiju za mesto u osmini finala Svetskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/262696/fudbaleri-maroka-posle-penala-eliminisali-holandiju-za-mesto-u-osmini-finala-svetskog-prvenstva/vest",
       "izvor": "Танјуг",
-      "datum": "29. 06. 2026. у 22:58",
-      "slika": null
-    },
-    {
-      "naslov": "Gabrijel Martineli: Presrećan sam i ponosan, ova pobeda nam uliva dodatno samopouzdanje",
-      "url": "https://www.tanjug.rs/sport/fudbal/262676/gabrijel-martineli-presrecan-sam-i-ponosan-ova-pobeda-nam-uliva-dodatno-samopouzdanje/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 06. 2026. у 22:32",
+      "datum": "30. 06. 2026. у 06:00",
       "slika": null
     },
     {
