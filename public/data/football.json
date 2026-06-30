@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-30T08:07:32.882983+00:00",
-  "azurirano_sr": "30. 06. 2026. у 10:07",
+  "azurirano": "2026-06-30T11:18:37.500366+00:00",
+  "azurirano_sr": "30. 06. 2026. у 13:18",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Šejn Larkin posle osam godina napustio Efes",
+      "url": "https://www.tanjug.rs/sport/fudbal/262762/sejn-larkin-posle-osam-godina-napustio-efes/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 06. 2026. у 11:04",
+      "slika": null
+    },
+    {
+      "naslov": "Kuman: Nemam šta da zamerim igračima, sve bih ponovo isto uradio",
+      "url": "https://www.tanjug.rs/sport/fudbal/262748/kuman-nemam-sta-da-zamerim-igracima-sve-bih-ponovo-isto-uradio/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 06. 2026. у 10:19",
+      "slika": null
+    },
+    {
+      "naslov": "Poljski fudbaler Robert Levandovski potpisao ugovor sa Čikagom",
+      "url": "https://www.tanjug.rs/sport/fudbal/262745/poljski-fudbaler-robert-levandovski-potpisao-ugovor-sa-cikagom/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 06. 2026. у 10:00",
+      "slika": null
+    },
+    {
       "naslov": "Penja proglasio državni praznik zbog plasmana fudbalera Paragvaja u osminu finala SP",
       "url": "https://www.tanjug.rs/sport/fudbal/262738/penja-proglasio-drzavni-praznik-zbog-plasmana-fudbalera-paragvaja-u-osminu-finala-sp/vest",
       "izvor": "Танјуг",
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Selektor Paragvaja Alfaro: Rekao sam igračima da stvore istoriju i postanu legende",
-      "url": "https://www.tanjug.rs/sport/fudbal/262732/selektor-paragvaja-alfaro-rekao-sam-igracima-da-stvore-istoriju-i-postanu-legende/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 06. 2026. у 09:25",
-      "slika": null
-    },
-    {
-      "naslov": "Manuel Nojer: Svi smo razočarani i tužni zbog eliminacije sa Svetskog prvenstva, nismo imali sreće",
-      "url": "https://www.tanjug.rs/sport/fudbal/262722/manuel-nojer-svi-smo-razocarani-i-tuzni-zbog-eliminacije-sa-svetskog-prvenstva-nismo-imali-srece/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 06. 2026. у 08:57",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Maroka posle penala eliminisali Holandiju za mesto u osmini finala Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/262696/fudbaleri-maroka-posle-penala-eliminisali-holandiju-za-mesto-u-osmini-finala-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 06. 2026. у 06:00",
+      "naslov": "Italijani &quot;love&quot; u Humskoj: Ugrešić na izlaznim vratima?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246219/bolonja-hoce-ognjena-ugresica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "30. 06. 2026. у 10:58",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246117/dejan-stankovic-izjava-posle-remija-zvezde-sa-slovanom/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "29. 06. 2026. у 20:57",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić posle poraza: &quot;Vreme je jedino opravdanje&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246115/sasa-ilic-izjava-posle-poraza-partizana-od-cska/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 06. 2026. у 20:45",
       "slika": null
     }
   ]
