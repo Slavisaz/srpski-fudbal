@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-06-30T21:06:49.565406+00:00",
-  "azurirano_sr": "30. 06. 2026. у 23:06",
+  "azurirano": "2026-06-30T22:23:02.624412+00:00",
+  "azurirano_sr": "1. 07. 2026. у 00:23",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Novi milionski transfer u Ivanjici",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246369/javor-prodao-stopera-za-1500000-evra/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "30. 06. 2026. у 23:55",
+      "slika": null
+    },
+    {
       "naslov": "Bivši reprezentativac Srbije blizu Napretka",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246384/emil-rockov-pregovara-sa-napretkom/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "30. 06. 2026. у 20:50",
-      "slika": null
-    },
-    {
-      "naslov": "FKCZ: Iskoristi popust na grupnu kupovinu premijum sezonskih",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246401/fkcz-iskoristi-popust-na-grupnu-kupovinu-premijum-sezonskih/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "30. 06. 2026. у 19:30",
       "slika": null
     }
   ]
