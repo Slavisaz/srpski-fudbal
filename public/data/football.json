@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-01T17:29:11.667163+00:00",
-  "azurirano_sr": "1. 07. 2026. у 19:29",
+  "azurirano": "2026-07-01T19:17:42.584855+00:00",
+  "azurirano_sr": "1. 07. 2026. у 21:17",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Kanađanin Dru Fišer sudi meč Argentina - Zelenortska ostrva na Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/263209/kanadanin-dru-fiser-sudi-mec-argentina-zelenortska-ostrva-na-svetskom-prvenstvu/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 07. 2026. у 20:23",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Engleske preokretom do pobede protiv DR Konga i plasmana u osminu finala Svetskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/263205/fudbaleri-engleske-preokretom-do-pobede-protiv-dr-konga-i-plasmana-u-osminu-finala-svetskog-prvenstva/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 07. 2026. у 20:15",
+      "slika": null
+    },
+    {
       "naslov": "Medvedev i Fonseka u trećem kolu Vimbldona",
       "url": "https://www.tanjug.rs/sport/fudbal/263188/medvedev-i-fonseka-u-trecem-kolu-vimbldona/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/263181/marokanski-fudbaler-ismael-saibari-potpisao-ugovor-sa-bajernom/vest",
       "izvor": "Танјуг",
       "datum": "1. 07. 2026. у 18:18",
-      "slika": null
-    },
-    {
-      "naslov": "FK Crvena zvezda: Avdić se oporavlja brže od očekivanog",
-      "url": "https://www.tanjug.rs/sport/fudbal/263163/fk-crvena-zvezda-avdic-se-oporavlja-brze-od-ocekivanog/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 07. 2026. у 17:03",
-      "slika": null
-    },
-    {
-      "naslov": "Španski fudbaler Koke produžio ugovor sa Atletiko Madridom do 30. juna 2027.",
-      "url": "https://www.tanjug.rs/sport/fudbal/263145/spanski-fudbaler-koke-produzio-ugovor-sa-atletiko-madridom-do-30-juna-2027/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 07. 2026. у 16:24",
       "slika": null
     },
     {
