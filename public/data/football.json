@@ -1,13 +1,13 @@
 {
-  "azurirano": "2026-07-01T20:56:14.517541+00:00",
-  "azurirano_sr": "1. 07. 2026. у 22:56",
+  "azurirano": "2026-07-01T22:13:44.450755+00:00",
+  "azurirano_sr": "2. 07. 2026. у 00:13",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "TRANSFERI UŽIVO (sreda, 1. jul): Početak letnjeg prelaznog roka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-1-jul-pocetak-letnjeg-prelaznog-roka/547795",
+      "naslov": "TRANSFERI (sreda, 1. jul): Početak letnjeg prelaznog roka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-sreda-1-jul-pocetak-letnjeg-prelaznog-roka/547795",
       "izvor": "Мозарт Спорт",
-      "datum": "2. 07. 2026. у 00:13",
+      "datum": "2. 07. 2026. у 01:33",
       "slika": null
     },
     {
@@ -53,10 +53,17 @@
       "slika": null
     },
     {
-      "naslov": "Kanađanin Dru Fišer sudi meč Argentina - Zelenortska ostrva na Svetskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/263209/kanadanin-dru-fiser-sudi-mec-argentina-zelenortska-ostrva-na-svetskom-prvenstvu/vest",
+      "naslov": "Petrić: Očekuje nas odlučujuća utakmica, Ukrajina je kvalitetan protivnik",
+      "url": "https://www.tanjug.rs/sport/fudbal/263211/petric-ocekuje-nas-odlucujuca-utakmica-ukrajina-je-kvalitetan-protivnik/vest",
       "izvor": "Танјуг",
-      "datum": "1. 07. 2026. у 20:23",
+      "datum": "1. 07. 2026. у 20:36",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezda se oglasila oko oporavka Avdića",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246681/zvezda-se-oglasila-zbog-oporavka-adema-avdica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 07. 2026. у 23:28",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246695/crvena-zvezda-dovodi-dzaspera-iz-zeleznicara/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "1. 07. 2026. у 18:24",
-      "slika": null
-    },
-    {
-      "naslov": "Oglasilo se tužilaštvo zbog napada na Marka Jovanovića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246638/oglasilo-se-tuzilastvo-zbog-napada-na-marka-jovanovica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 07. 2026. у 15:13",
       "slika": null
     }
   ]
