@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-01T01:55:29.499044+00:00",
-  "azurirano_sr": "1. 07. 2026. у 03:55",
+  "azurirano": "2026-07-01T06:16:20.884469+00:00",
+  "azurirano_sr": "1. 07. 2026. у 08:16",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Meksika savladali Ekvador i plasirali se u osminu finala Mundijala",
+      "url": "https://www.tanjug.rs/sport/fudbal/262936/fudbaleri-meksika-savladali-ekvador-i-plasirali-se-u-osminu-finala-mundijala/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 07. 2026. у 06:02",
+      "slika": null
+    },
+    {
+      "naslov": "Francuska predvođena Mbapeom \"pregazila\" Švedsku za osminu finala Mundijala",
+      "url": "https://www.tanjug.rs/sport/fudbal/262940/francuska-predvodena-mbapeom-pregazila-svedsku-za-osminu-finala-mundijala/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 07. 2026. у 00:54",
+      "slika": null
+    },
+    {
       "naslov": "UEFA kaznila Partizan sa 200 hiljada evra zbog finansijskih nepravilnosti",
       "url": "https://www.tanjug.rs/sport/fudbal/262920/uefa-kaznila-partizan-sa-200-hiljada-evra-zbog-finansijskih-nepravilnosti/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/262917/fudbaler-intera-bastoni-osumnjicen-da-je-platio-maloletnici-za-intimne-odnose/vest",
       "izvor": "Танјуг",
       "datum": "30. 06. 2026. у 22:14",
-      "slika": null
-    },
-    {
-      "naslov": "UEFA kaznila fudbalski klub Juventus sa šest miliona evra",
-      "url": "https://www.tanjug.rs/sport/fudbal/262909/uefa-kaznila-fudbalski-klub-juventus-sa-sest-miliona-evra/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 06. 2026. у 21:12",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Norveške pobedili Obalu Slonovače i plasirali se u osminu finala Mondijala",
-      "url": "https://www.tanjug.rs/sport/fudbal/262908/fudbaleri-norveske-pobedili-obalu-slonovace-i-plasirali-se-u-osminu-finala-mondijala/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 06. 2026. у 21:01",
       "slika": null
     },
     {
