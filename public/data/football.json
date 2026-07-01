@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-01T10:15:47.112935+00:00",
-  "azurirano_sr": "1. 07. 2026. у 12:15",
+  "azurirano": "2026-07-01T12:48:33.788512+00:00",
+  "azurirano_sr": "1. 07. 2026. у 14:48",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Buongiorno Italia: Crna godina za Bastonija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-crna-godina-za-bastonija/547814",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 07. 2026. у 14:52",
+      "slika": null
+    },
+    {
+      "naslov": "Koventri kreće da troši: Štoper iz Bundeslige, najskuplji engleski golman svih vremena i Mejson Maunt",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/koventri-krece-da-trosi-stoper-iz-bundeslige-najskuplji-engleski-golman-svih-vremena-i-mejson-maunt/547806",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 07. 2026. у 14:17",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 1. jul): Početak letnjeg prelaznog roka",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-1-jul-pocetak-letnjeg-prelaznog-roka/547795",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Osvajač portugalskog kupa kupuje u Pazaru: Omoregbe za 100.000 i procente",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/osvajac-portugalskog-kupa-kupuje-u-pazaru-omoregbe-za-100000-i-procente/547797",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 07. 2026. у 11:43",
+      "naslov": "Žeremi Žake zvanično novi fudbaler Liverpula",
+      "url": "https://www.tanjug.rs/sport/fudbal/263104/zeremi-zake-zvanicno-novi-fudbaler-liverpula/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 07. 2026. у 14:21",
       "slika": null
     },
     {
-      "naslov": "Engleze samo Boginja zanima: Skols sumnja u Albion, Saka i Rašford “kupili” mesto u 11",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/engleze-samo-boginja-zanima-skols-sumnja-u-albion-saka-i-rasford-kupili-mesto-u-11/547794",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 07. 2026. у 11:24",
+      "naslov": "Srpski fudbaler Uroš Kabić prešao u Dunajsku Stredu",
+      "url": "https://www.tanjug.rs/sport/fudbal/263085/srpski-fudbaler-uros-kabic-presao-u-dunajsku-stredu/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 07. 2026. у 13:48",
+      "slika": null
+    },
+    {
+      "naslov": "Bekasese: Nismo napravili podvig koji smo obećali, neću više biti selektor Ekvadora",
+      "url": "https://www.tanjug.rs/sport/fudbal/263052/bekasese-nismo-napravili-podvig-koji-smo-obecali-necu-vise-biti-selektor-ekvadora/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 07. 2026. у 12:39",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Otvorena istraga zbog besplatnih ulaznica za Evropsko prvenstvo 2024. u Nemačkoj",
-      "url": "https://www.tanjug.rs/sport/fudbal/263030/otvorena-istraga-zbog-besplatnih-ulaznica-za-evropsko-prvenstvo-2024-u-nemackoj/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 07. 2026. у 11:56",
-      "slika": null
-    },
-    {
-      "naslov": "Barbarez: Protiv Sjedinjenih Američkih Država moramo da zadržimo pobednički mentalitet i dosadašnji pristup",
-      "url": "https://www.tanjug.rs/sport/fudbal/263015/barbarez-protiv-sjedinjenih-americkih-drzava-moramo-da-zadrzimo-pobednicki-mentalitet-i-dosadasnji-pristup/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 07. 2026. у 11:20",
-      "slika": null
-    },
-    {
-      "naslov": "Ronald Kuman podneo ostavku na mesto selektora reprezentacije Holandije",
-      "url": "https://www.tanjug.rs/sport/fudbal/262990/ronald-kuman-podneo-ostavku-na-mesto-selektora-reprezentacije-holandije/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 07. 2026. у 10:25",
-      "slika": null
-    },
-    {
-      "naslov": "Jovanović posle napada ide iz Teleoptika?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246523/marko-jovanovic-napusta-teleoptik/vest",
+      "naslov": "Zvanično: Raća Petrović se vratio u Partizan",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246629/radosav-petrovic-se-vratio-u-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 07. 2026. у 11:03",
+      "datum": "1. 07. 2026. у 14:46",
       "slika": null
     },
     {
-      "naslov": "Novi milionski transfer u Ivanjici",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246369/javor-prodao-stopera-za-1500000-evra/vest",
+      "naslov": "Železničar u Superligi pronašao pojačanje",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246614/mamadu-sabo-dolazi-u-zeleznicar/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 06. 2026. у 23:55",
+      "datum": "1. 07. 2026. у 14:24",
       "slika": null
     }
   ]
