@@ -1,20 +1,27 @@
 {
-  "azurirano": "2026-07-01T19:17:42.584855+00:00",
-  "azurirano_sr": "1. 07. 2026. у 21:17",
+  "azurirano": "2026-07-01T20:56:14.517541+00:00",
+  "azurirano_sr": "1. 07. 2026. у 22:56",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (sreda, 1. jul): Početak letnjeg prelaznog roka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-1-jul-pocetak-letnjeg-prelaznog-roka/547795",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 07. 2026. у 00:13",
+      "slika": null
+    },
+    {
+      "naslov": "Jelena Čanković se povukla iz reprezentacije: Nemam više ni snage, ni energije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jelena-cankovic-se-povukla-iz-reprezentacije-nemam-vise-ni-snage-ni-energije/547856",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 07. 2026. у 00:05",
+      "slika": null
+    },
     {
       "naslov": "Mozzart Bet Superliga ‘počela’ na Zlatiboru: Vauter je ‘VAU’, Silue ništa ne prašta",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mozzart-bet-superliga-pocela-na-zlatiboru-vauter-je-vau-silue-nista-ne-prasta/547844",
       "izvor": "Мозарт Спорт",
       "datum": "1. 07. 2026. у 20:30",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (sreda, 1. jul): Početak letnjeg prelaznog roka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-1-jul-pocetak-letnjeg-prelaznog-roka/547795",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 07. 2026. у 18:44",
       "slika": null
     },
     {
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Pao potpis od 60.000.000: Da li je Čelsi upravo kupio jednog od najboljih bekova naredne decenije?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pao-potpis-od-60000000-da-li-je-celsi-upravo-kupio-jednog-od-najboljih-bekova-naredne-decenije/547832",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 07. 2026. у 17:49",
+      "naslov": "Desabr: Razočarani smo zbog poraza, igrali smo dobro protiv Engleske",
+      "url": "https://www.tanjug.rs/sport/fudbal/263226/desabr-razocarani-smo-zbog-poraza-igrali-smo-dobro-protiv-engleske/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 07. 2026. у 21:45",
+      "slika": null
+    },
+    {
+      "naslov": "Tuhel: Zasluženo smo pobedili, nismo prestajali da verujemo",
+      "url": "https://www.tanjug.rs/sport/fudbal/263223/tuhel-zasluzeno-smo-pobedili-nismo-prestajali-da-verujemo/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 07. 2026. у 21:15",
+      "slika": null
+    },
+    {
+      "naslov": "Kejn: Ovo je neverovatan osećaj, rekao sam saigračima da uživaju posle pobede",
+      "url": "https://www.tanjug.rs/sport/fudbal/263216/kejn-ovo-je-neverovatan-osecaj-rekao-sam-saigracima-da-uzivaju-posle-pobede/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 07. 2026. у 21:06",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/263209/kanadanin-dru-fiser-sudi-mec-argentina-zelenortska-ostrva-na-svetskom-prvenstvu/vest",
       "izvor": "Танјуг",
       "datum": "1. 07. 2026. у 20:23",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Engleske preokretom do pobede protiv DR Konga i plasmana u osminu finala Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/263205/fudbaleri-engleske-preokretom-do-pobede-protiv-dr-konga-i-plasmana-u-osminu-finala-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 07. 2026. у 20:15",
-      "slika": null
-    },
-    {
-      "naslov": "Medvedev i Fonseka u trećem kolu Vimbldona",
-      "url": "https://www.tanjug.rs/sport/fudbal/263188/medvedev-i-fonseka-u-trecem-kolu-vimbldona/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 07. 2026. у 18:50",
-      "slika": null
-    },
-    {
-      "naslov": "Marokanski fudbaler Ismael Saibari potpisao ugovor sa Bajernom",
-      "url": "https://www.tanjug.rs/sport/fudbal/263181/marokanski-fudbaler-ismael-saibari-potpisao-ugovor-sa-bajernom/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 07. 2026. у 18:18",
       "slika": null
     },
     {
