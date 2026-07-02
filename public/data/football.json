@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-02T11:10:55.079558+00:00",
-  "azurirano_sr": "2. 07. 2026. у 13:10",
+  "azurirano": "2026-07-02T13:05:14.184069+00:00",
+  "azurirano_sr": "2. 07. 2026. у 15:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Levski bi da kupuje u Srbiji – 500.000 evra za Zvezdinog đaka iz TSC-a",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/levski-bi-da-kupuje-u-srbiji-500000-evra-za-zvezdinog-aka-iz-tsca/547907",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 07. 2026. у 15:09",
+      "slika": null
+    },
+    {
+      "naslov": "Mađioničar spustio čarobni štapić: Osmica ostaje zauvek",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/maionicar-spustio-carobni-stapic-osmica-ostaje-zauvek/547903",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 07. 2026. у 15:03",
+      "slika": null
+    },
     {
       "naslov": "Još jedan Amerikanac u srpskom fudbalu, predvodiće napad Zemuna",
       "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedan-amerikanac-u-srpskom-fudbalu-predvodice-napad-zemuna/547891",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Radnički ima novog štopera: Zečević je zamena za Pavlovića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/radnicki-ima-novog-stopera-zecevic-je-zamena-za-pavlovica/547868",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 07. 2026. у 11:50",
+      "naslov": "Fudbaleri OFK Beograda pobedili Radnički iz Kragujevca u pripremnom meču na Zlatiboru",
+      "url": "https://www.tanjug.rs/sport/fudbal/263385/fudbaleri-ofk-beograda-pobedili-radnicki-iz-kragujevca-u-pripremnom-mecu-na-zlatiboru/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 07. 2026. у 14:34",
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (četvrtak, 2. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-2-jul/547882",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 07. 2026. у 11:24",
+      "naslov": "Petrović: Biće pojačanja, ali i odlazaka, radi se u oba smera",
+      "url": "https://www.tanjug.rs/sport/fudbal/263368/petrovic-bice-pojacanja-ali-i-odlazaka-radi-se-u-oba-smera/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 07. 2026. у 13:52",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/263339/portugalski-fudbaler-fernandes-presao-iz-vest-hema-u-totenhem-za-100-miliona-evra/vest",
       "izvor": "Танјуг",
       "datum": "2. 07. 2026. у 12:29",
-      "slika": null
-    },
-    {
-      "naslov": "Bulut u Novom Sadu organizuje ovog leta seriju basket 3x3 turnira",
-      "url": "https://www.tanjug.rs/sport/fudbal/263321/bulut-u-novom-sadu-organizuje-ovog-leta-seriju-basket-3x3-turnira/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 07. 2026. у 12:06",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri BiH eliminisani sa Svetskog prvenstva, Amerikanci sa igračem manje prošli u osminu finala",
-      "url": "https://www.tanjug.rs/sport/fudbal/263255/fudbaleri-bih-eliminisani-sa-svetskog-prvenstva-amerikanci-sa-igracem-manje-prosli-u-osminu-finala/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 07. 2026. у 04:12",
       "slika": null
     },
     {
