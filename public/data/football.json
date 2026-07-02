@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-02T08:31:48.419608+00:00",
-  "azurirano_sr": "2. 07. 2026. у 10:31",
+  "azurirano": "2026-07-02T11:10:55.079558+00:00",
+  "azurirano_sr": "2. 07. 2026. у 13:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Još jedan Amerikanac u srpskom fudbalu, predvodiće napad Zemuna",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedan-amerikanac-u-srpskom-fudbalu-predvodice-napad-zemuna/547891",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 07. 2026. у 13:11",
+      "slika": null
+    },
     {
       "naslov": "Nove promocije u Grafičaru, Vršcu, Voždovcu, Smederevu, Napretku...",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nove-promocije-u-graficaru-vrscu-vozdovcu-smederevu-napretku/547887",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Da vidimo ko je pratio na času i uradio domaći zadatak",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/da-vidimo-ko-je-pratio-na-casu-i-uradio-domaci-zadatak/547866",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 07. 2026. у 10:36",
+      "naslov": "Zvezda: Za grupnu kupovinu premijum sezonskih ulaznica 10 posto popusta",
+      "url": "https://www.tanjug.rs/sport/fudbal/263341/zvezda-za-grupnu-kupovinu-premijum-sezonskih-ulaznica-10-posto-popusta/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 07. 2026. у 12:35",
+      "slika": null
+    },
+    {
+      "naslov": "Portugalski fudbaler Fernandeš prešao iz Vest Hema u Totenhem za 100 miliona evra",
+      "url": "https://www.tanjug.rs/sport/fudbal/263339/portugalski-fudbaler-fernandes-presao-iz-vest-hema-u-totenhem-za-100-miliona-evra/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 07. 2026. у 12:29",
+      "slika": null
+    },
+    {
+      "naslov": "Bulut u Novom Sadu organizuje ovog leta seriju basket 3x3 turnira",
+      "url": "https://www.tanjug.rs/sport/fudbal/263321/bulut-u-novom-sadu-organizuje-ovog-leta-seriju-basket-3x3-turnira/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 07. 2026. у 12:06",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Desabr: Razočarani smo zbog poraza, igrali smo dobro protiv Engleske",
-      "url": "https://www.tanjug.rs/sport/fudbal/263226/desabr-razocarani-smo-zbog-poraza-igrali-smo-dobro-protiv-engleske/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 07. 2026. у 21:45",
-      "slika": null
-    },
-    {
-      "naslov": "Tuhel: Zasluženo smo pobedili, nismo prestajali da verujemo",
-      "url": "https://www.tanjug.rs/sport/fudbal/263223/tuhel-zasluzeno-smo-pobedili-nismo-prestajali-da-verujemo/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 07. 2026. у 21:15",
-      "slika": null
-    },
-    {
-      "naslov": "Kejn: Ovo je neverovatan osećaj, rekao sam saigračima da uživaju posle pobede",
-      "url": "https://www.tanjug.rs/sport/fudbal/263216/kejn-ovo-je-neverovatan-osecaj-rekao-sam-saigracima-da-uzivaju-posle-pobede/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 07. 2026. у 21:06",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda se oglasila oko oporavka Avdića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246681/zvezda-se-oglasila-zbog-oporavka-adema-avdica/vest",
+      "naslov": "Radosav Petrović: &quot;Znamo kakav Partizan želimo, nisam sam u ovome!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246902/radosav-petrovic-znamo-kakav-partizan-zelimo-nisam-sam-u-ovome/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 07. 2026. у 23:28",
+      "datum": "2. 07. 2026. у 13:03",
       "slika": null
     },
     {
-      "naslov": "Zvezda spremila više od dva miliona evra za igrača iz Superlige?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246695/crvena-zvezda-dovodi-dzaspera-iz-zeleznicara/vest",
+      "naslov": "&quot;Dragojević i Ugrešić napuštaju Partizan&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246880/radosav-petrovic-o-prelaznom-roku-fk-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 07. 2026. у 18:24",
+      "datum": "2. 07. 2026. у 12:16",
       "slika": null
     }
   ]
