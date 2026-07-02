@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-02T20:07:57.293507+00:00",
-  "azurirano_sr": "2. 07. 2026. у 22:07",
+  "azurirano": "2026-07-02T21:20:54.467280+00:00",
+  "azurirano_sr": "2. 07. 2026. у 23:20",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Španije ubedljivo pobedili Austriju i plasirali se u osminu finala Mundijala",
+      "url": "https://www.tanjug.rs/sport/fudbal/263500/fudbaleri-spanije-ubedljivo-pobedili-austriju-i-plasirali-se-u-osminu-finala-mundijala/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 07. 2026. у 23:00",
+      "slika": null
+    },
+    {
       "naslov": "Omladinska fudbalska reprezentacija Srbije izgubila od Ukrajine, ne može u polufinale",
       "url": "https://www.tanjug.rs/sport/fudbal/263485/omladinska-fudbalska-reprezentacija-srbije-izgubila-od-ukrajine-ne-moze-u-polufinale/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Urugvajski fudbaler Edinson Kavani nije više član Boka juniorsa",
-      "url": "https://www.tanjug.rs/sport/fudbal/263430/urugvajski-fudbaler-edinson-kavani-nije-vise-clan-boka-juniorsa/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 07. 2026. у 16:09",
+      "naslov": "Radnik u Zvezdi našao novog trenera",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246985/zoran-rendulic-preuzima-radnik/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 07. 2026. у 22:50",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247041/ep-u19-srbija-ukrajina-izvestaj-utakmice/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "2. 07. 2026. у 20:50",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić nezadovoljan nakon pobede: &quot;Sporo napredujemo!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247038/sasa-ilic-izjava-posle-pripremne-utakmice-partizan-aluminij/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 07. 2026. у 20:07",
       "slika": null
     }
   ]
