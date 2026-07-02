@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-07-02T13:05:14.184069+00:00",
-  "azurirano_sr": "2. 07. 2026. у 15:05",
+  "azurirano": "2026-07-02T15:25:43.203087+00:00",
+  "azurirano_sr": "2. 07. 2026. у 17:25",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Levski bi da kupuje u Srbiji – 500.000 evra za Zvezdinog đaka iz TSC-a",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/levski-bi-da-kupuje-u-srbiji-500000-evra-za-zvezdinog-aka-iz-tsca/547907",
+      "naslov": "Ko je Zemunov Amerikanac? Stopalo broj 50 koje je Štutgart razmatrao kao zamenu za Girasija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ko-je-zemunov-amerikanac-stopalo-broj-50-koje-je-stutgart-razmatrao-kao-zamenu-za-girasija/547927",
       "izvor": "Мозарт Спорт",
-      "datum": "2. 07. 2026. у 15:09",
+      "datum": "2. 07. 2026. у 18:56",
       "slika": null
     },
     {
-      "naslov": "Mađioničar spustio čarobni štapić: Osmica ostaje zauvek",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/maionicar-spustio-carobni-stapic-osmica-ostaje-zauvek/547903",
+      "naslov": "Zvezdi od Zvezde 1.000.000 evra za Stefana Lekovića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdi-od-zvezde-1000000-evra-za-stefana-lekovica/547921",
       "izvor": "Мозарт Спорт",
-      "datum": "2. 07. 2026. у 15:03",
+      "datum": "2. 07. 2026. у 18:02",
       "slika": null
     },
     {
-      "naslov": "Još jedan Amerikanac u srpskom fudbalu, predvodiće napad Zemuna",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedan-amerikanac-u-srpskom-fudbalu-predvodice-napad-zemuna/547891",
+      "naslov": "Real zaradio 100.000.000 na fudbalerima koji ne igraju za njega! Bik u Premijer ligi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/real-zaradio-100000000-na-fudbalerima-koji-ne-igraju-za-njega-bik-u-premijer-ligi/547923",
       "izvor": "Мозарт Спорт",
-      "datum": "2. 07. 2026. у 13:11",
+      "datum": "2. 07. 2026. у 17:53",
       "slika": null
     },
     {
-      "naslov": "Nove promocije u Grafičaru, Vršcu, Voždovcu, Smederevu, Napretku...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nove-promocije-u-graficaru-vrscu-vozdovcu-smederevu-napretku/547887",
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 2. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-2-jul/547882",
       "izvor": "Мозарт Спорт",
-      "datum": "2. 07. 2026. у 12:13",
+      "datum": "2. 07. 2026. у 17:30",
+      "slika": null
+    },
+    {
+      "naslov": "Engleski fudbaler Eliot Anderson prešao iz Notingem Foresta u Mančester Siti",
+      "url": "https://www.tanjug.rs/sport/fudbal/263424/engleski-fudbaler-eliot-anderson-presao-iz-notingem-foresta-u-mancester-siti/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 07. 2026. у 16:00",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Portugalski fudbaler Fernandeš prešao iz Vest Hema u Totenhem za 100 miliona evra",
-      "url": "https://www.tanjug.rs/sport/fudbal/263339/portugalski-fudbaler-fernandes-presao-iz-vest-hema-u-totenhem-za-100-miliona-evra/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 07. 2026. у 12:29",
+      "naslov": "Zvezda spremila posedne pogodnosti pred start sezone",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246917/zvezda-spremila-pogodnosti-za-kupce-premijum-sezonskih-karata/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 07. 2026. у 16:15",
       "slika": null
     },
     {
-      "naslov": "Radosav Petrović: &quot;Znamo kakav Partizan želimo, nisam sam u ovome!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246902/radosav-petrovic-znamo-kakav-partizan-zelimo-nisam-sam-u-ovome/vest",
+      "naslov": "Železničar doveo novo pojačanje",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246860/amadu-sabo-novi-fudbaler-zeleznicara/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 07. 2026. у 13:03",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Dragojević i Ugrešić napuštaju Partizan&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246880/radosav-petrovic-o-prelaznom-roku-fk-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 07. 2026. у 12:16",
+      "datum": "2. 07. 2026. у 15:23",
       "slika": null
     }
   ]
