@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-02T17:08:31.417341+00:00",
-  "azurirano_sr": "2. 07. 2026. у 19:08",
+  "azurirano": "2026-07-02T18:44:52.007056+00:00",
+  "azurirano_sr": "2. 07. 2026. у 20:44",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Partizan poveo i prestao da igra fudbal, Lekić prekratio muke",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/partizan-poveo-i-prestao-da-igra-fudbal-lekic-prekratio-muke/547944",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 07. 2026. у 21:56",
+      "slika": null
+    },
     {
       "naslov": "Stravičan trend se širi Meksikom tokom fudbalskih slavlja: Čovek pretučen na smrt (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/stravican-trend-se-siri-meksikom-tokom-fudbalskih-slavlja-covek-pretucen-na-smrt-video/547936",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Zvezdi od Zvezde 1.000.000 evra za Stefana Lekovića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdi-od-zvezde-1000000-evra-za-stefana-lekovica/547921",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 07. 2026. у 18:02",
+      "naslov": "Fudbaleri Partizana pobedili Aluminij u prijateljskom meču",
+      "url": "https://www.tanjug.rs/sport/fudbal/263480/fudbaleri-partizana-pobedili-aluminij-u-prijateljskom-mecu/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 07. 2026. у 20:02",
+      "slika": null
+    },
+    {
+      "naslov": "Engleski arbitar Majkl Oliver sudiće meč između fudbalera Kanade i Maroka",
+      "url": "https://www.tanjug.rs/sport/fudbal/263471/engleski-arbitar-majkl-oliver-sudice-mec-izmedu-fudbalera-kanade-i-maroka/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 07. 2026. у 19:03",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri OFK Beograda pobedili Radnički iz Kragujevca u pripremnom meču na Zlatiboru",
-      "url": "https://www.tanjug.rs/sport/fudbal/263385/fudbaleri-ofk-beograda-pobedili-radnicki-iz-kragujevca-u-pripremnom-mecu-na-zlatiboru/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 07. 2026. у 14:34",
-      "slika": null
-    },
-    {
-      "naslov": "Petrović: Biće pojačanja, ali i odlazaka, radi se u oba smera",
-      "url": "https://www.tanjug.rs/sport/fudbal/263368/petrovic-bice-pojacanja-ali-i-odlazaka-radi-se-u-oba-smera/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 07. 2026. у 13:52",
-      "slika": null
-    },
-    {
-      "naslov": "Jokanović pružio podršku Orlićima na EURO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246977/jokanovic-pruzio-podrsku-orlicima-na-euro/vest",
+      "naslov": "Saša Ilić nezadovoljan nakon pobede: &quot;Sporo napredujemo!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247038/sasa-ilic-izjava-posle-pripremne-utakmice-partizan-aluminij/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 07. 2026. у 18:57",
+      "datum": "2. 07. 2026. у 20:07",
       "slika": null
     },
     {
-      "naslov": "Zvezda spremila posedne pogodnosti pred start sezone",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246917/zvezda-spremila-pogodnosti-za-kupce-premijum-sezonskih-karata/vest",
+      "naslov": "Partizan savladao osvajača Kupa Slovenije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247034/fk-partizan-nk-aluminij-kidricevo-21-pripremna-utakmica-u-sloveniji/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 07. 2026. у 16:15",
+      "datum": "2. 07. 2026. у 19:50",
       "slika": null
     }
   ]
