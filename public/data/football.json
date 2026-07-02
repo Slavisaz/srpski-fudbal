@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-02T18:44:52.007056+00:00",
-  "azurirano_sr": "2. 07. 2026. у 20:44",
+  "azurirano": "2026-07-02T20:07:57.293507+00:00",
+  "azurirano_sr": "2. 07. 2026. у 22:07",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 2. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-2-jul/547882",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 07. 2026. у 23:17",
+      "slika": null
+    },
     {
       "naslov": "Partizan poveo i prestao da igra fudbal, Lekić prekratio muke",
       "url": "https://www.mozzartsport.com/fudbal/vesti/partizan-poveo-i-prestao-da-igra-fudbal-lekic-prekratio-muke/547944",
@@ -18,17 +25,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (četvrtak, 2. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-2-jul/547882",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 07. 2026. у 19:57",
-      "slika": null
-    },
-    {
       "naslov": "Ko je Zemunov Amerikanac? Stopalo broj 50 koje je Štutgart razmatrao kao zamenu za Girasija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ko-je-zemunov-amerikanac-stopalo-broj-50-koje-je-stutgart-razmatrao-kao-zamenu-za-girasija/547927",
       "izvor": "Мозарт Спорт",
       "datum": "2. 07. 2026. у 18:56",
+      "slika": null
+    },
+    {
+      "naslov": "Omladinska fudbalska reprezentacija Srbije izgubila od Ukrajine, ne može u polufinale",
+      "url": "https://www.tanjug.rs/sport/fudbal/263485/omladinska-fudbalska-reprezentacija-srbije-izgubila-od-ukrajine-ne-moze-u-polufinale/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 07. 2026. у 20:55",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Engleski fudbaler Eliot Anderson prešao iz Notingem Foresta u Mančester Siti",
-      "url": "https://www.tanjug.rs/sport/fudbal/263424/engleski-fudbaler-eliot-anderson-presao-iz-notingem-foresta-u-mancester-siti/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 07. 2026. у 16:00",
+      "naslov": "Srbija povela, pa ispala sa EP – protiv Hrvatske za čast i Mundijalito",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247041/ep-u19-srbija-ukrajina-izvestaj-utakmice/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 07. 2026. у 20:50",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247038/sasa-ilic-izjava-posle-pripremne-utakmice-partizan-aluminij/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "2. 07. 2026. у 20:07",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan savladao osvajača Kupa Slovenije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247034/fk-partizan-nk-aluminij-kidricevo-21-pripremna-utakmica-u-sloveniji/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 07. 2026. у 19:50",
       "slika": null
     }
   ]
