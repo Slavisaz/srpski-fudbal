@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-02T15:25:43.203087+00:00",
-  "azurirano_sr": "2. 07. 2026. у 17:25",
+  "azurirano": "2026-07-02T17:08:31.417341+00:00",
+  "azurirano_sr": "2. 07. 2026. у 19:08",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Stravičan trend se širi Meksikom tokom fudbalskih slavlja: Čovek pretučen na smrt (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stravican-trend-se-siri-meksikom-tokom-fudbalskih-slavlja-covek-pretucen-na-smrt-video/547936",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 07. 2026. у 20:27",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 2. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-2-jul/547882",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 07. 2026. у 19:57",
+      "slika": null
+    },
     {
       "naslov": "Ko je Zemunov Amerikanac? Stopalo broj 50 koje je Štutgart razmatrao kao zamenu za Girasija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ko-je-zemunov-amerikanac-stopalo-broj-50-koje-je-stutgart-razmatrao-kao-zamenu-za-girasija/547927",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Real zaradio 100.000.000 na fudbalerima koji ne igraju za njega! Bik u Premijer ligi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/real-zaradio-100000000-na-fudbalerima-koji-ne-igraju-za-njega-bik-u-premijer-ligi/547923",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 07. 2026. у 17:53",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (četvrtak, 2. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-2-jul/547882",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 07. 2026. у 17:30",
+      "naslov": "Urugvajski fudbaler Edinson Kavani nije više član Boka juniorsa",
+      "url": "https://www.tanjug.rs/sport/fudbal/263430/urugvajski-fudbaler-edinson-kavani-nije-vise-clan-boka-juniorsa/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 07. 2026. у 16:09",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Zvezda: Za grupnu kupovinu premijum sezonskih ulaznica 10 posto popusta",
-      "url": "https://www.tanjug.rs/sport/fudbal/263341/zvezda-za-grupnu-kupovinu-premijum-sezonskih-ulaznica-10-posto-popusta/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 07. 2026. у 12:35",
+      "naslov": "Jokanović pružio podršku Orlićima na EURO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246977/jokanovic-pruzio-podrsku-orlicima-na-euro/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 07. 2026. у 18:57",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246917/zvezda-spremila-pogodnosti-za-kupce-premijum-sezonskih-karata/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "2. 07. 2026. у 16:15",
-      "slika": null
-    },
-    {
-      "naslov": "Železničar doveo novo pojačanje",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246860/amadu-sabo-novi-fudbaler-zeleznicara/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 07. 2026. у 15:23",
       "slika": null
     }
   ]
