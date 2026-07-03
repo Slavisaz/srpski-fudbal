@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-03T10:32:03.758408+00:00",
-  "azurirano_sr": "3. 07. 2026. у 12:32",
+  "azurirano": "2026-07-03T12:27:50.337245+00:00",
+  "azurirano_sr": "3. 07. 2026. у 14:27",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (petak, 3. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-3-jul/547980",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 07. 2026. у 16:03",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezdin rival u LŠ otvara sezonu, napadač iz sedme lige mu je najveća uzdanica",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdin-rival-u-ls-otvara-sezonu-napadac-iz-sedme-lige-mu-je-najveca-uzdanica/547996",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 07. 2026. у 14:52",
+      "slika": null
+    },
+    {
+      "naslov": "Badžu propao odlazak u Poljsku, OFK Beograd realna opcija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/badzu-propao-odlazak-u-poljsku-ofk-beograd-realna-opcija/547997",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 07. 2026. у 14:47",
+      "slika": null
+    },
     {
       "naslov": "Humanitarni tiket u podne: Nenad Vanić sa bele tačke, puca na dobitnih 260.500 dinara",
       "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-nenad-vanic-sa-bele-tacke-puca-na-dobitnih-260500-dinara/547994",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Stuparević se vratio u Srbiju, dva golgetera Omladinske lige ove sezone u Mozzart Bet Prvoj ligi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/stuparevic-se-vratio-u-srbiju-dva-golgetera-omladinske-lige-ove-sezone-u-mozzart-bet-prvoj-ligi/547979",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 07. 2026. у 12:08",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (petak, 3. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-3-jul/547980",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 07. 2026. у 11:58",
-      "slika": null
-    },
-    {
-      "naslov": "Llanfairpwllgwyng... yllgogerychwyrndrob... wllllantysilio... gogogoch?!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/llanfairpwllgwyng-yllgogerychwyrndrob-wllllantysilio-gogogoch/547967",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 07. 2026. у 10:18",
+      "naslov": "Julijan Nagelsman nije više selektor fudbalera Nemačke",
+      "url": "https://www.tanjug.rs/sport/fudbal/263585/julijan-nagelsman-nije-vise-selektor-fudbalera-nemacke/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 07. 2026. у 12:31",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Utakmice Vojvodine i Ferencvaroša u kvalifikacijama za Ligu Evrope sudiće Francuz i Letonac",
-      "url": "https://www.tanjug.rs/sport/fudbal/263553/utakmice-vojvodine-i-ferencvarosa-u-kvalifikacijama-za-ligu-evrope-sudice-francuz-i-letonac/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 07. 2026. у 10:34",
+      "naslov": "&quot;Niko ne sme i neće da ugrožava integritet i regularnost takmičenja&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247250/drasticne-kazne-za-klubove-i-pojedince-meca-fk-stanovo-1941-fk-buducnost-konarevo/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 07. 2026. у 13:55",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246985/zoran-rendulic-preuzima-radnik/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "2. 07. 2026. у 22:50",
-      "slika": null
-    },
-    {
-      "naslov": "Srbija povela, pa ispala sa EP – protiv Hrvatske za čast i Mundijalito",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247041/ep-u19-srbija-ukrajina-izvestaj-utakmice/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 07. 2026. у 20:50",
       "slika": null
     }
   ]
