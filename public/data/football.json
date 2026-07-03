@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-03T16:10:27.960787+00:00",
-  "azurirano_sr": "3. 07. 2026. у 18:10",
+  "azurirano": "2026-07-03T17:44:41.120995+00:00",
+  "azurirano_sr": "3. 07. 2026. у 19:44",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvezda i dalje vozi u leru, Ivanić kao nekada",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-i-dalje-vozi-u-leru-ivanic-kao-nekada/548034",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 07. 2026. у 20:48",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (petak, 3. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-3-jul/547980",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Humanitarni tiket u podne: Nenad Vanić sa bele tačke, puca na dobitnih 260.500 dinara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-nenad-vanic-sa-bele-tacke-puca-na-dobitnih-260500-dinara/547994",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 07. 2026. у 14:03",
+      "naslov": "Fudbaleri Crvene zvezde remizirali protiv Linca u prijateljskoj utakmici",
+      "url": "https://www.tanjug.rs/sport/fudbal/263671/fudbaleri-crvene-zvezde-remizirali-protiv-linca-u-prijateljskoj-utakmici/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 07. 2026. у 19:02",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Perišić: Nadam se da ću i na jesen biti na raspolaganju reprezentaciji Hrvatske",
-      "url": "https://www.tanjug.rs/sport/fudbal/263565/perisic-nadam-se-da-cu-i-na-jesen-biti-na-raspolaganju-reprezentaciji-hrvatske/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 07. 2026. у 11:16",
+      "naslov": "Stanković besan: &quot;Da sam znao, ne bih je ni igrao&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247339/izjava-dejana-stankovica-posle-pripremnog-meca-u-austriji/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 07. 2026. у 19:20",
       "slika": null
     },
     {
-      "naslov": "Čukarički posle spektakularnog preokreta savladao hrvatski Rudeš na pripremama",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247255/cukaricki-savladao-hrvatski-rudes-u-pripremnom-mecu/vest",
+      "naslov": "Zvezda remizirala sa drugoligašem",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247336/remi-zvezde-i-blu-vajsa-22-na-pripremama-u-austriji/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "3. 07. 2026. у 14:35",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Niko ne sme i neće da ugrožava integritet i regularnost takmičenja&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247250/drasticne-kazne-za-klubove-i-pojedince-meca-fk-stanovo-1941-fk-buducnost-konarevo/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 07. 2026. у 13:55",
+      "datum": "3. 07. 2026. у 19:05",
       "slika": null
     }
   ]
