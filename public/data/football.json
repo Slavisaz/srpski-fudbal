@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-03T12:27:50.337245+00:00",
-  "azurirano_sr": "3. 07. 2026. у 14:27",
+  "azurirano": "2026-07-03T14:39:54.528593+00:00",
+  "azurirano_sr": "3. 07. 2026. у 16:39",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Veliki dan za OFK Vršac: Dobili generalnog sponzora i najavili velike planove",
+      "url": "https://www.tanjug.rs/sport/fudbal/263613/veliki-dan-za-ofk-vrsac-dobili-generalnog-sponzora-i-najavili-velike-planove/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 07. 2026. у 14:34",
+      "slika": null
+    },
+    {
+      "naslov": "Nemački fudbaler Natanijel Braun prešao iz Ajntrahta u Bajern",
+      "url": "https://www.tanjug.rs/sport/fudbal/263612/nemacki-fudbaler-natanijel-braun-presao-iz-ajntrahta-u-bajern/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 07. 2026. у 14:32",
+      "slika": null
+    },
+    {
       "naslov": "Julijan Nagelsman nije više selektor fudbalera Nemačke",
       "url": "https://www.tanjug.rs/sport/fudbal/263585/julijan-nagelsman-nije-vise-selektor-fudbalera-nemacke/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Kapiten fudbalera Alžira Rijad Marez završio reprezentativnu karijeru",
-      "url": "https://www.tanjug.rs/sport/fudbal/263562/kapiten-fudbalera-alzira-rijad-marez-zavrsio-reprezentativnu-karijeru/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 07. 2026. у 11:08",
-      "slika": null
-    },
-    {
-      "naslov": "Italijanski stručnjak Masimilijano Alegri novi trener fudbalera Napolija",
-      "url": "https://www.tanjug.rs/sport/fudbal/263558/italijanski-strucnjak-masimilijano-alegri-novi-trener-fudbalera-napolija/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 07. 2026. у 10:56",
+      "naslov": "Čukarički posle spektakularnog preokreta savladao hrvatski Rudeš na pripremama",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247255/cukaricki-savladao-hrvatski-rudes-u-pripremnom-mecu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 07. 2026. у 14:35",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247250/drasticne-kazne-za-klubove-i-pojedince-meca-fk-stanovo-1941-fk-buducnost-konarevo/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "3. 07. 2026. у 13:55",
-      "slika": null
-    },
-    {
-      "naslov": "Radnik u Zvezdi našao novog trenera",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/246985/zoran-rendulic-preuzima-radnik/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 07. 2026. у 22:50",
       "slika": null
     }
   ]
