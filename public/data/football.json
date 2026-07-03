@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-03T04:57:14.504334+00:00",
-  "azurirano_sr": "3. 07. 2026. у 06:57",
+  "azurirano": "2026-07-03T07:57:51.153451+00:00",
+  "azurirano_sr": "3. 07. 2026. у 09:57",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Llanfairpwllgwyng... yllgogerychwyrndrob... wllllantysilio... gogogoch?!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/llanfairpwllgwyng-yllgogerychwyrndrob-wllllantysilio-gogogoch/547967",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 07. 2026. у 10:18",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (četvrtak, 2. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-cetvrtak-2-jul/547882",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Ko je Zemunov Amerikanac? Stopalo broj 50 koje je Štutgart razmatrao kao zamenu za Girasija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ko-je-zemunov-amerikanac-stopalo-broj-50-koje-je-stutgart-razmatrao-kao-zamenu-za-girasija/547927",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 07. 2026. у 18:56",
+      "naslov": "Fudbaleri Švajcarske pobedili Alžir i plasirali se u osminu finala Svetskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/263507/fudbaleri-svajcarske-pobedili-alzir-i-plasirali-se-u-osminu-finala-svetskog-prvenstva/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 07. 2026. у 07:08",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Portugala posle epske drame savladali Hrvatsku za osminu finala Mundijala",
+      "url": "https://www.tanjug.rs/sport/fudbal/263513/fudbaleri-portugala-posle-epske-drame-savladali-hrvatsku-za-osminu-finala-mundijala/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 07. 2026. у 03:23",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/263485/omladinska-fudbalska-reprezentacija-srbije-izgubila-od-ukrajine-ne-moze-u-polufinale/vest",
       "izvor": "Танјуг",
       "datum": "2. 07. 2026. у 20:55",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Partizana pobedili Aluminij u prijateljskom meču",
-      "url": "https://www.tanjug.rs/sport/fudbal/263480/fudbaleri-partizana-pobedili-aluminij-u-prijateljskom-mecu/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 07. 2026. у 20:02",
-      "slika": null
-    },
-    {
-      "naslov": "Engleski arbitar Majkl Oliver sudiće meč između fudbalera Kanade i Maroka",
-      "url": "https://www.tanjug.rs/sport/fudbal/263471/engleski-arbitar-majkl-oliver-sudice-mec-izmedu-fudbalera-kanade-i-maroka/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 07. 2026. у 19:03",
       "slika": null
     },
     {
