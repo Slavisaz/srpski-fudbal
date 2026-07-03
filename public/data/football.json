@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-07-03T21:19:23.699050+00:00",
-  "azurirano_sr": "3. 07. 2026. у 23:19",
+  "azurirano": "2026-07-03T22:27:42.829413+00:00",
+  "azurirano_sr": "4. 07. 2026. у 00:27",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (petak, 3. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-3-jul/547980",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 07. 2026. у 01:24",
+      "slika": null
+    },
     {
       "naslov": "Zvezda i dalje vozi u leru, Ivanić kao nekada",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-i-dalje-vozi-u-leru-ivanic-kao-nekada/548034",
       "izvor": "Мозарт Спорт",
       "datum": "3. 07. 2026. у 20:48",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (petak, 3. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-3-jul/547980",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 07. 2026. у 18:49",
       "slika": null
     },
     {
