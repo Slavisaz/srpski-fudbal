@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-04T01:10:11.154989+00:00",
-  "azurirano_sr": "4. 07. 2026. у 03:10",
-  "vesti_24h": 10,
+  "azurirano": "2026-07-04T04:48:20.692251+00:00",
+  "azurirano_sr": "4. 07. 2026. у 06:48",
+  "vesti_24h": 8,
   "vesti": [
+    {
+      "naslov": "Život je filmska priča: Martinez doneo pobedu, pa zaplakao zbog ćerke i povrede koja mu je umalo okončala karijeru",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zivot-je-filmska-prica-martinez-doneo-pobedu-pa-zaplakao-zbog-cerke-i-povrede-koja-mu-je-umalo-okoncala-karijeru/548055",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 07. 2026. у 07:47",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (petak, 3. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-3-jul/547980",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdin-rival-u-ls-otvara-sezonu-napadac-iz-sedme-lige-mu-je-najveca-uzdanica/547996",
       "izvor": "Мозарт Спорт",
       "datum": "3. 07. 2026. у 14:52",
-      "slika": null
-    },
-    {
-      "naslov": "Badžu propao odlazak u Poljsku, OFK Beograd Mozzart Bet realna opcija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/badzu-propao-odlazak-u-poljsku-ofk-beograd-mozzart-bet-realna-opcija/547997",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 07. 2026. у 14:47",
       "slika": null
     },
     {
@@ -57,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/263707/ismail-elfat-sudi-utakmicu-izmedu-fudbalera-brazila-i-norveske-na-svetskom-prvenstvu/vest",
       "izvor": "Танјуг",
       "datum": "3. 07. 2026. у 21:31",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković besan: &quot;Da sam znao, ne bih je ni igrao&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247339/izjava-dejana-stankovica-posle-pripremnog-meca-u-austriji/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 07. 2026. у 19:20",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda remizirala sa drugoligašem",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247336/remi-zvezde-i-blu-vajsa-22-na-pripremama-u-austriji/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 07. 2026. у 19:05",
       "slika": null
     }
   ]
