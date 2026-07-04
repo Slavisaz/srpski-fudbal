@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-04T18:14:02.536676+00:00",
-  "azurirano_sr": "4. 07. 2026. у 20:14",
+  "azurirano": "2026-07-04T19:36:25.875046+00:00",
+  "azurirano_sr": "4. 07. 2026. у 21:36",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Transfer od 50.000.000 i Fenerova \"lajt verzija Osimena\": Stigla poboljšana ponuda za Grinvuda",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transfer-od-50000000-i-fenerova-lajt-verzija-osimena-stigla-poboljsana-ponuda-za-grinvuda/548108",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 07. 2026. у 22:25",
+      "slika": null
+    },
     {
       "naslov": "Novi vatreni transfer u Turskoj: Arsenal prihvatio ponudu za Trosara, plata 9.000.000 po sezoni",
       "url": "https://www.mozzartsport.com/fudbal/vesti/novi-vatreni-transfer-u-turskoj-arsenal-prihvatio-ponudu-za-trosara-plata-9000000-po-sezoni/548096",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Srbin na klupi arapskog Juventusa: Sredojević skuplja pečate na pasošu kao sličice",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-na-klupi-arapskog-juventusa-sredojevic-skuplja-pecate-na-pasosu-kao-slicice/548086",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 07. 2026. у 16:33",
+      "naslov": "Gordan Petrić: Protiv Hrvatske moramo da budemo na istom voljnom momentu kao u prva dva meča",
+      "url": "https://www.tanjug.rs/sport/fudbal/263834/gordan-petric-protiv-hrvatske-moramo-da-budemo-na-istom-voljnom-momentu-kao-u-prva-dva-meca/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 07. 2026. у 19:57",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Skaj sport: Nema promene termina, fudbaleri Meksika i Engleske igraju prema planu",
-      "url": "https://www.tanjug.rs/sport/fudbal/263769/skaj-sport-nema-promene-termina-fudbaleri-meksika-i-engleske-igraju-prema-planu/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 07. 2026. у 11:22",
+      "naslov": "Iz Zvezde u PLS",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247455/dragan-bojat-u-vrscu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 07. 2026. у 20:43",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247472/brazilac-dolazi-u-partizan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 07. 2026. у 13:16",
-      "slika": null
-    },
-    {
-      "naslov": "Natho se vraća u Partizan?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247452/radosav-petrovic-vraca-bibarsa-natha-u-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 07. 2026. у 12:15",
       "slika": null
     }
   ]
