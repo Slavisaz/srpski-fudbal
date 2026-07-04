@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-04T07:30:44.645136+00:00",
-  "azurirano_sr": "4. 07. 2026. у 09:30",
+  "azurirano": "2026-07-04T09:37:08.655466+00:00",
+  "azurirano_sr": "4. 07. 2026. у 11:37",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Okupite se oko laptopa, sada ćemo pogledati penal Embapea i proći Australiju (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/okupite-se-oko-laptopa-sada-cemo-pogledati-penal-embapea-i-proci-australiju-video/548064",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 07. 2026. у 12:18",
+      "slika": null
+    },
+    {
+      "naslov": "Bojat promovisan u Vršcu: Imam mir i spokoj, sad mogu da se fokusiram na fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bojat-promovisan-u-vrscu-imam-mir-i-spokoj-sad-mogu-da-se-fokusiram-na-fudbal/548063",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 07. 2026. у 12:16",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 4. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-4-jul/548061",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 07. 2026. у 11:24",
+      "slika": null
+    },
     {
       "naslov": "Život je filmska priča: Martinez doneo pobedu, pa zaplakao zbog ćerke i povrede koja mu je umalo okončala karijeru",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zivot-je-filmska-prica-martinez-doneo-pobedu-pa-zaplakao-zbog-cerke-i-povrede-koja-mu-je-umalo-okoncala-karijeru/548055",
@@ -11,52 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (petak, 3. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-3-jul/547980",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 07. 2026. у 01:24",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda i dalje vozi u leru, Ivanić kao nekada",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-i-dalje-vozi-u-leru-ivanic-kao-nekada/548034",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 07. 2026. у 20:48",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezdin rival u LŠ otvara sezonu, napadač iz sedme lige mu je najveća uzdanica",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdin-rival-u-ls-otvara-sezonu-napadac-iz-sedme-lige-mu-je-najveca-uzdanica/547996",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 07. 2026. у 14:52",
-      "slika": null
-    },
-    {
-      "naslov": "Skaloni: Na Mundijalu nema lakih utakmica; Bubista: Ponosan sam na svoj tim",
-      "url": "https://www.tanjug.rs/sport/fudbal/263748/skaloni-na-mundijalu-nema-lakih-utakmica-bubista-ponosan-sam-na-svoj-tim/vest",
+      "naslov": "Skaj sport: Nema promene termina, fudbaleri Meksika i Engleske igraju prema planu",
+      "url": "https://www.tanjug.rs/sport/fudbal/263769/skaj-sport-nema-promene-termina-fudbaleri-meksika-i-engleske-igraju-prema-planu/vest",
       "izvor": "Танјуг",
-      "datum": "4. 07. 2026. у 08:57",
+      "datum": "4. 07. 2026. у 11:22",
       "slika": null
     },
     {
-      "naslov": "Mesi: Znali smo da će biti teško, važno je da se sada odmorimo",
-      "url": "https://www.tanjug.rs/sport/fudbal/263745/mesi-znali-smo-da-ce-biti-tesko-vazno-je-da-se-sada-odmorimo/vest",
+      "naslov": "Lorenco: Zadovoljan sam pobedom protiv Gane, čeka nas težak meč protiv Švajcarske",
+      "url": "https://www.tanjug.rs/sport/fudbal/263766/lorenco-zadovoljan-sam-pobedom-protiv-gane-ceka-nas-tezak-mec-protiv-svajcarske/vest",
       "izvor": "Танјуг",
-      "datum": "4. 07. 2026. у 08:40",
+      "datum": "4. 07. 2026. у 10:59",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Kolumbije pobedili Ganu i plasirali se u osminu finala Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/263737/fudbaleri-kolumbije-pobedili-ganu-i-plasirali-se-u-osminu-finala-svetskog-prvenstva/vest",
+      "naslov": "Lisandro Martinez: Ponosan sam na naš tim, borili smo se do kraja",
+      "url": "https://www.tanjug.rs/sport/fudbal/263760/lisandro-martinez-ponosan-sam-na-nas-tim-borili-smo-se-do-kraja/vest",
       "izvor": "Танјуг",
-      "datum": "4. 07. 2026. у 06:00",
+      "datum": "4. 07. 2026. у 10:28",
       "slika": null
     },
     {
-      "naslov": "Argentina posle drame i produžetaka savladala Zelenortska ostrva za osminu finala Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/263735/argentina-posle-drame-i-produzetaka-savladala-zelenortska-ostrva-za-osminu-finala-svetskog-prvenstva/vest",
+      "naslov": "Klop: Pregovaram sa Fudbalskim savezom Nemačke",
+      "url": "https://www.tanjug.rs/sport/fudbal/263754/klop-pregovaram-sa-fudbalskim-savezom-nemacke/vest",
       "izvor": "Танјуг",
-      "datum": "4. 07. 2026. у 02:51",
+      "datum": "4. 07. 2026. у 09:46",
+      "slika": null
+    },
+    {
+      "naslov": "Maribor doveo golmana iz Čukaričkog",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247402/ivan-lainovic-otisao-u-maribor/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 07. 2026. у 09:34",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247339/izjava-dejana-stankovica-posle-pripremnog-meca-u-austriji/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "3. 07. 2026. у 19:20",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda remizirala sa drugoligašem",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247336/remi-zvezde-i-blu-vajsa-22-na-pripremama-u-austriji/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 07. 2026. у 19:05",
       "slika": null
     }
   ]
