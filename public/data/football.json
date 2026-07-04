@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-04T09:37:08.655466+00:00",
-  "azurirano_sr": "4. 07. 2026. у 11:37",
+  "azurirano": "2026-07-04T11:08:23.190913+00:00",
+  "azurirano_sr": "4. 07. 2026. у 13:08",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Engleski fudbaleri dočekani zvižducima ispred hotela u Meksiko Sitiju",
+      "url": "https://www.tanjug.rs/sport/fudbal/263776/engleski-fudbaleri-docekani-zvizducima-ispred-hotela-u-meksiko-sitiju/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 07. 2026. у 12:07",
+      "slika": null
+    },
+    {
       "naslov": "Skaj sport: Nema promene termina, fudbaleri Meksika i Engleske igraju prema planu",
       "url": "https://www.tanjug.rs/sport/fudbal/263769/skaj-sport-nema-promene-termina-fudbaleri-meksika-i-engleske-igraju-prema-planu/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Klop: Pregovaram sa Fudbalskim savezom Nemačke",
-      "url": "https://www.tanjug.rs/sport/fudbal/263754/klop-pregovaram-sa-fudbalskim-savezom-nemacke/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 07. 2026. у 09:46",
+      "naslov": "Natho se vraća u Partizan?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247452/radosav-petrovic-vraca-bibarsa-natha-u-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 07. 2026. у 12:15",
       "slika": null
     },
     {
-      "naslov": "Maribor doveo golmana iz Čukaričkog",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247402/ivan-lainovic-otisao-u-maribor/vest",
+      "naslov": "Železničar se pojačao iz Đenove",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247442/zeleznicar-se-pojacao-iz-djenove/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 07. 2026. у 09:34",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković besan: &quot;Da sam znao, ne bih je ni igrao&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247339/izjava-dejana-stankovica-posle-pripremnog-meca-u-austriji/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 07. 2026. у 19:20",
+      "datum": "4. 07. 2026. у 12:01",
       "slika": null
     }
   ]
