@@ -1,13 +1,20 @@
 {
-  "azurirano": "2026-07-04T20:32:03.012537+00:00",
-  "azurirano_sr": "4. 07. 2026. у 22:32",
+  "azurirano": "2026-07-04T21:29:50.531672+00:00",
+  "azurirano_sr": "4. 07. 2026. у 23:29",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (subota, 4. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-4-jul/548061",
       "izvor": "Мозарт Спорт",
-      "datum": "5. 07. 2026. у 00:18",
+      "datum": "5. 07. 2026. у 01:22",
+      "slika": null
+    },
+    {
+      "naslov": "Savršena pozajmica postoji: Kaminski u Benfiki, Kelnu za godinu dana 14.500.000",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/savrsena-pozajmica-postoji-kaminski-u-benfiki-kelnu-za-godinu-dana-14500000/548115",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 07. 2026. у 00:47",
       "slika": null
     },
     {
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Gledaj trenera da bi znao kakva mu je ekipa! A, trener je Zemunac i zato se Mačva nikoga ne boji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gledaj-trenera-da-bi-znao-kakva-mu-je-ekipa-a-trener-je-zemunac-i-zato-se-macva-nikoga-ne-boji/548030",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 07. 2026. у 18:01",
+      "naslov": "Erve Renar više nije selektor fudbalera Tunisa",
+      "url": "https://www.tanjug.rs/sport/fudbal/263856/erve-renar-vise-nije-selektor-fudbalera-tunisa/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 07. 2026. у 22:40",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/263833/fudbaleri-zeleznicara-iz-panceva-remizirali-sa-mariborom-u-prijateljskoj-utakmici/vest",
       "izvor": "Танјуг",
       "datum": "4. 07. 2026. у 19:40",
-      "slika": null
-    },
-    {
-      "naslov": "Serena Vilijams zbog povrede kolena odustala od dubla sa Venus na Vimbldonu",
-      "url": "https://www.tanjug.rs/sport/fudbal/263824/serena-vilijams-zbog-povrede-kolena-odustala-od-dubla-sa-venus-na-vimbldonu/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 07. 2026. у 18:44",
       "slika": null
     },
     {
