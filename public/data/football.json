@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-07-05T22:10:56.532995+00:00",
-  "azurirano_sr": "6. 07. 2026. у 00:10",
+  "azurirano": "2026-07-05T23:15:54.309921+00:00",
+  "azurirano_sr": "6. 07. 2026. у 01:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (nedelja, 5. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-nedelja-5-jul/548127",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 07. 2026. у 02:09",
+      "slika": null
+    },
     {
       "naslov": "Odjeci burazerskog dogovora Trampa i Infantina: Nisam znao da je za FIFA 5. jul ustvari 1. april",
       "url": "https://www.mozzartsport.com/fudbal/vesti/odjeci-burazerskog-dogovora-trampa-i-infantina-nisam-znao-da-je-za-fifa-5-jul-ustvari-1-april/548195",
       "izvor": "Мозарт Спорт",
       "datum": "6. 07. 2026. у 01:42",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (nedelja, 5. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-5-jul/548127",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 07. 2026. у 00:25",
       "slika": null
     },
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Norveške sa dva gola Halanda pobedili Brazil za četvrtfinale SP",
+      "url": "https://www.tanjug.rs/sport/fudbal/264037/fudbaleri-norveske-sa-dva-gola-halanda-pobedili-brazil-za-cetvrtfinale-sp/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 07. 2026. у 00:10",
+      "slika": null
+    },
+    {
+      "naslov": "Fransoa Leteksje sudi utakmicu između fudbalera Argentine i Egipta na Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/264036/fransoa-leteksje-sudi-utakmicu-izmedu-fudbalera-argentine-i-egipta-na-svetskom-prvenstvu/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 07. 2026. у 23:24",
+      "slika": null
+    },
+    {
       "naslov": "Siner ubedljiv protiv Močizukija za plasman u četvrtfinale Vimbldona",
       "url": "https://www.tanjug.rs/sport/fudbal/264034/siner-ubedljiv-protiv-mocizukija-za-plasman-u-cetvrtfinale-vimbldona/vest",
       "izvor": "Танјуг",
@@ -46,20 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Bazumana Ture novi fudbaler Njukasla",
-      "url": "https://www.tanjug.rs/sport/fudbal/264016/bazumana-ture-novi-fudbaler-njukasla/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 07. 2026. у 20:27",
-      "slika": null
-    },
-    {
-      "naslov": "Omladinska fudbalska reprezentacija Srbije porazom od Hrvatske završila učešće na Evropskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/264011/omladinska-fudbalska-reprezentacija-srbije-porazom-od-hrvatske-zavrsila-ucesce-na-evropskom-prvenstvu/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 07. 2026. у 19:52",
-      "slika": null
-    },
-    {
       "naslov": "Petrić posle 0:3 protiv Hrvatske: &quot;Nema opravdanja&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247755/gordan-petric-izjava-posle-srbija-hrvatska/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,10 +67,10 @@
       "slika": null
     },
     {
-      "naslov": "&quot;Hobotnica&quot; Niland i &quot;kiborg&quot; Haland poslali kući Brazilce!",
-      "url": "https://www.b92.net/sport/fudbal/vesti/247744/mundijal-osmina-finala-brazil-norveska-12-izvestaj-utakmice/vest",
+      "naslov": "Poslednja vest – Meksiko i Engleska počinju po planu!",
+      "url": "https://www.b92.net/sport/fudbal/vesti/247762/mundijal-osmina-finala-meksiko-engleska-uzivo-prenos-gde-gledati/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "6. 07. 2026. у 00:04",
+      "datum": "6. 07. 2026. у 01:06",
       "slika": null
     },
     {
