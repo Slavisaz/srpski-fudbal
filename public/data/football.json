@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-05T10:26:29.837098+00:00",
-  "azurirano_sr": "5. 07. 2026. у 12:26",
+  "azurirano": "2026-07-05T11:52:24.879039+00:00",
+  "azurirano_sr": "5. 07. 2026. у 13:52",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Holandski fudbaler Denzel Damfris potpisao za Real",
+      "url": "https://www.tanjug.rs/sport/fudbal/263952/holandski-fudbaler-denzel-damfris-potpisao-za-real/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 07. 2026. у 13:31",
+      "slika": null
+    },
+    {
       "naslov": "Mbape: Pokazali smo da i mi znamo kako da igramo \"prljav\" fudbal",
       "url": "https://www.tanjug.rs/sport/fudbal/263910/mbape-pokazali-smo-da-i-mi-znamo-kako-da-igramo-prljav-fudbal/vest",
       "izvor": "Танјуг",
@@ -53,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Maroka ubedljivi protiv Kanade za plasman u četvrtfinale Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/263840/fudbaleri-maroka-ubedljivi-protiv-kanade-za-plasman-u-cetvrtfinale-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 07. 2026. у 21:12",
-      "slika": null
-    },
-    {
       "naslov": "Iz Zvezde u PLS",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247455/dragan-bojat-u-vrscu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 07. 2026. у 20:43",
+      "slika": null
+    },
+    {
+      "naslov": "Senegalcima presela Amerika",
+      "url": "https://www.b92.net/sport/fudbal/vesti/247652/senegalcima-presela-amerika/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "5. 07. 2026. у 11:47",
       "slika": null
     },
     {
