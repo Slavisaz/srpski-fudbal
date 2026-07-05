@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-05T17:47:15.780076+00:00",
-  "azurirano_sr": "5. 07. 2026. у 19:47",
+  "azurirano": "2026-07-05T18:48:04.766755+00:00",
+  "azurirano_sr": "5. 07. 2026. у 20:48",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Petrić kritikuje fudbalski sistem u Srbiji: Svetlo nam je davno ugašeno",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/petric-kritikuje-fudbalski-sistem-u-srbiji-svetlo-nam-je-davno-ugaseno/548180",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 07. 2026. у 21:46",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (nedelja, 5. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-5-jul/548127",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 07. 2026. у 21:32",
+      "slika": null
+    },
+    {
+      "naslov": "Pojačanje kakvo je i trebalo Zemunu: Stigao univerzalac sa više od 100 utakmica u Superligi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pojacanje-kakvo-je-i-trebalo-zemunu-stigao-univerzalac-sa-vise-od-100-utakmica-u-superligi/548179",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 07. 2026. у 21:23",
+      "slika": null
+    },
     {
       "naslov": "U danu kada je Damfris otišao, Inter mu dogovorio zamenu iz Brisela za 25.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/u-danu-kada-je-damfris-otisao-inter-mu-dogovorio-zamenu-iz-brisela-za-25000000-evra/548174",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (nedelja, 5. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-5-jul/548127",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 07. 2026. у 20:10",
-      "slika": null
-    },
-    {
-      "naslov": "Hibernacija romantike: Tonali i De Zerbi ne daju Breši da umre",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/hibernacija-romantike-tonali-i-de-zerbi-ne-daju-bresi-da-umre/548162",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 07. 2026. у 18:21",
-      "slika": null
-    },
-    {
-      "naslov": "Ovo je već ozbiljan kompleks Brazila",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ovo-je-vec-ozbiljan-kompleks-brazila/548156",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 07. 2026. у 17:03",
+      "naslov": "Omladinska fudbalska reprezentacija Srbije porazom od Hrvatske završila učešće na Evropskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/264011/omladinska-fudbalska-reprezentacija-srbije-porazom-od-hrvatske-zavrsila-ucesce-na-evropskom-prvenstvu/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 07. 2026. у 19:52",
       "slika": null
     },
     {
@@ -53,10 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Erve Renar više nije selektor fudbalera Tunisa",
-      "url": "https://www.tanjug.rs/sport/fudbal/263856/erve-renar-vise-nije-selektor-fudbalera-tunisa/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 07. 2026. у 22:40",
+      "naslov": "Novi spektakl u Njujorku – Haland izaziva veliki Brazil",
+      "url": "https://www.b92.net/sport/fudbal/vesti/247744/uzivo-mundijal-brazil-norveska-live-gde-gledati-tv-prenos/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "5. 07. 2026. у 20:40",
+      "slika": null
+    },
+    {
+      "naslov": "Katastrofalne greške sudije režirale poraz Srbije od Hrvatske",
+      "url": "https://www.b92.net/sport/fudbal/vesti/247712/uzivo-srbija-porazena-od-hrvatske/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "5. 07. 2026. у 19:20",
       "slika": null
     },
     {
@@ -64,13 +78,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247455/dragan-bojat-u-vrscu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 07. 2026. у 20:43",
-      "slika": null
-    },
-    {
-      "naslov": "Katastrofalne greške sudije i težak poraz Srbije od Hrvatske",
-      "url": "https://www.b92.net/sport/fudbal/vesti/247712/uzivo-srbija-porazena-od-hrvatske/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "5. 07. 2026. у 19:20",
       "slika": null
     },
     {
