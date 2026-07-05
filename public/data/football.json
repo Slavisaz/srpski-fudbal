@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-05T21:08:17.031580+00:00",
-  "azurirano_sr": "5. 07. 2026. у 23:08",
+  "azurirano": "2026-07-05T22:10:56.532995+00:00",
+  "azurirano_sr": "6. 07. 2026. у 00:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Odjeci burazerskog dogovora Trampa i Infantina: Nisam znao da je za FIFA 5. jul ustvari 1. april",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/odjeci-burazerskog-dogovora-trampa-i-infantina-nisam-znao-da-je-za-fifa-5-jul-ustvari-1-april/548195",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 07. 2026. у 01:42",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (nedelja, 5. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-5-jul/548127",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "U danu kada je Damfris otišao, Inter mu dogovorio zamenu iz Brisela za 25.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/u-danu-kada-je-damfris-otisao-inter-mu-dogovorio-zamenu-iz-brisela-za-25000000-evra/548174",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 07. 2026. у 20:34",
+      "naslov": "Siner ubedljiv protiv Močizukija za plasman u četvrtfinale Vimbldona",
+      "url": "https://www.tanjug.rs/sport/fudbal/264034/siner-ubedljiv-protiv-mocizukija-za-plasman-u-cetvrtfinale-vimbldona/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 07. 2026. у 23:03",
       "slika": null
     },
     {
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Holandski fudbaler Denzel Damfris potpisao za Real",
-      "url": "https://www.tanjug.rs/sport/fudbal/263952/holandski-fudbaler-denzel-damfris-potpisao-za-real/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 07. 2026. у 13:31",
-      "slika": null
-    },
-    {
       "naslov": "Petrić posle 0:3 protiv Hrvatske: &quot;Nema opravdanja&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247755/gordan-petric-izjava-posle-srbija-hrvatska/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,10 +67,10 @@
       "slika": null
     },
     {
-      "naslov": "Poništen gol, promašen penal i dva zicera – Brazil i Norveška &quot;na nuli&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/247744/uzivo-mundijal-brazil-norveska-live-gde-gledati-tv-prenos/vest",
+      "naslov": "&quot;Hobotnica&quot; Niland i &quot;kiborg&quot; Haland poslali kući Brazilce!",
+      "url": "https://www.b92.net/sport/fudbal/vesti/247744/mundijal-osmina-finala-brazil-norveska-12-izvestaj-utakmice/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "5. 07. 2026. у 22:50",
+      "datum": "6. 07. 2026. у 00:04",
       "slika": null
     },
     {
