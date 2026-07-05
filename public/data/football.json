@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-05T05:08:27.584279+00:00",
-  "azurirano_sr": "5. 07. 2026. у 07:08",
+  "azurirano": "2026-07-05T08:11:49.038358+00:00",
+  "azurirano_sr": "5. 07. 2026. у 10:11",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Premijer liga zove Vanju: Napoli na gubitku, ali već mu traži zamenu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/premijer-liga-zove-vanju-napoli-na-gubitku-ali-vec-mu-trazi-zamenu/548128",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 07. 2026. у 11:46",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (nedelja, 5. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-5-jul/548127",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 07. 2026. у 11:15",
+      "slika": null
+    },
     {
       "naslov": "Paragvaj hteo da ubije fudbal, Dezire Due predriblao smrt: Embape probio bunker do Maroka",
       "url": "https://www.mozzartsport.com/fudbal/vesti/paragvaj-hteo-da-ubije-fudbal-dezire-due-predriblao-smrt-embape-probio-bunker-do-maroka/548118",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Savršena pozajmica postoji: Kaminski u Benfiki, Kelnu za godinu dana 14.500.000",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/savrsena-pozajmica-postoji-kaminski-u-benfiki-kelnu-za-godinu-dana-14500000/548115",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 07. 2026. у 00:47",
-      "slika": null
-    },
-    {
-      "naslov": "Transfer od 50.000.000 i Fenerova \"lajt verzija Osimena\": Stigla poboljšana ponuda za Grinvuda",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transfer-od-50000000-i-fenerova-lajt-verzija-osimena-stigla-poboljsana-ponuda-za-grinvuda/548108",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 07. 2026. у 22:25",
+      "naslov": "Mbape iz penala \"slomio\" Paragvaj za plasman Francuske u četvrtfinale Mundijala",
+      "url": "https://www.tanjug.rs/sport/fudbal/263880/mbape-iz-penala-slomio-paragvaj-za-plasman-francuske-u-cetvrtfinale-mundijala/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 07. 2026. у 01:05",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/263834/gordan-petric-protiv-hrvatske-moramo-da-budemo-na-istom-voljnom-momentu-kao-u-prva-dva-meca/vest",
       "izvor": "Танјуг",
       "datum": "4. 07. 2026. у 19:57",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Železničara iz Pančeva remizirali sa Mariborom u prijateljskoj utakmici",
-      "url": "https://www.tanjug.rs/sport/fudbal/263833/fudbaleri-zeleznicara-iz-panceva-remizirali-sa-mariborom-u-prijateljskoj-utakmici/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 07. 2026. у 19:40",
       "slika": null
     },
     {
