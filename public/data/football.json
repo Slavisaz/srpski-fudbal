@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-05T18:48:04.766755+00:00",
-  "azurirano_sr": "5. 07. 2026. у 20:48",
+  "azurirano": "2026-07-05T20:01:11.248761+00:00",
+  "azurirano_sr": "5. 07. 2026. у 22:01",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "FIFA uslovno suspendovala Baloguna zbog crvenog kartona, može da igra protiv Belgije",
+      "url": "https://www.tanjug.rs/sport/fudbal/264018/fifa-uslovno-suspendovala-baloguna-zbog-crvenog-kartona-moze-da-igra-protiv-belgije/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 07. 2026. у 20:53",
+      "slika": null
+    },
+    {
+      "naslov": "Bazumana Ture novi fudbaler Njukasla",
+      "url": "https://www.tanjug.rs/sport/fudbal/264016/bazumana-ture-novi-fudbaler-njukasla/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 07. 2026. у 20:27",
+      "slika": null
+    },
+    {
       "naslov": "Omladinska fudbalska reprezentacija Srbije porazom od Hrvatske završila učešće na Evropskom prvenstvu",
       "url": "https://www.tanjug.rs/sport/fudbal/264011/omladinska-fudbalska-reprezentacija-srbije-porazom-od-hrvatske-zavrsila-ucesce-na-evropskom-prvenstvu/vest",
       "izvor": "Танјуг",
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Mbape: Pokazali smo da i mi znamo kako da igramo \"prljav\" fudbal",
-      "url": "https://www.tanjug.rs/sport/fudbal/263910/mbape-pokazali-smo-da-i-mi-znamo-kako-da-igramo-prljav-fudbal/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 07. 2026. у 10:36",
+      "naslov": "Petrić posle 0:3 protiv Hrvatske: &quot;Nema opravdanja&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247755/gordan-petric-izjava-posle-srbija-hrvatska/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "5. 07. 2026. у 20:55",
       "slika": null
     },
     {
-      "naslov": "Mbape iz penala \"slomio\" Paragvaj za plasman Francuske u četvrtfinale Mundijala",
-      "url": "https://www.tanjug.rs/sport/fudbal/263880/mbape-iz-penala-slomio-paragvaj-za-plasman-francuske-u-cetvrtfinale-mundijala/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 07. 2026. у 01:05",
-      "slika": null
-    },
-    {
-      "naslov": "Novi spektakl u Njujorku – Haland izaziva veliki Brazil",
+      "naslov": "Spektakl u Njujorku – Norveška udara na Brazil",
       "url": "https://www.b92.net/sport/fudbal/vesti/247744/uzivo-mundijal-brazil-norveska-live-gde-gledati-tv-prenos/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "5. 07. 2026. у 20:40",
-      "slika": null
-    },
-    {
-      "naslov": "Katastrofalne greške sudije režirale poraz Srbije od Hrvatske",
-      "url": "https://www.b92.net/sport/fudbal/vesti/247712/uzivo-srbija-porazena-od-hrvatske/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "5. 07. 2026. у 19:20",
+      "datum": "5. 07. 2026. у 21:49",
       "slika": null
     },
     {
@@ -85,13 +85,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247472/brazilac-dolazi-u-partizan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 07. 2026. у 13:16",
-      "slika": null
-    },
-    {
-      "naslov": "Natho se vraća u Partizan?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247452/radosav-petrovic-vraca-bibarsa-natha-u-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 07. 2026. у 12:15",
       "slika": null
     }
   ]
