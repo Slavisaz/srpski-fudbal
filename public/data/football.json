@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-06T16:00:26.711080+00:00",
-  "azurirano_sr": "6. 07. 2026. у 18:00",
+  "azurirano": "2026-07-06T18:12:37.087261+00:00",
+  "azurirano_sr": "6. 07. 2026. у 20:12",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (ponedeljak, 6. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-6-jul/548214",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 07. 2026. у 21:37",
+      "slika": null
+    },
     {
       "naslov": "Kako se IMT setio Zorana Popovića: Odem kao drugi sa Čukom i deset godina me nema ni na mapi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kako-se-imt-setio-zorana-popovica-odem-kao-drugi-sa-cukom-i-deset-godina-me-nema-ni-na-mapi/548220",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (ponedeljak, 6. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-6-jul/548214",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 07. 2026. у 15:17",
+      "naslov": "Paolini i Noskova u četvrtfinalu Vimbldona",
+      "url": "https://www.tanjug.rs/sport/fudbal/264277/paolini-i-noskova-u-cetvrtfinalu-vimbldona/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 07. 2026. у 18:56",
+      "slika": null
+    },
+    {
+      "naslov": "Infantino: Razgovarao sam sa Trampom, odluke Disciplinskog komisije FIFA nezavisne",
+      "url": "https://www.tanjug.rs/sport/fudbal/264279/infantino-razgovarao-sam-sa-trampom-odluke-disciplinskog-komisije-fifa-nezavisne/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 07. 2026. у 18:45",
+      "slika": null
+    },
+    {
+      "naslov": "Tramp: Zatražio sam od FIFA da preispita crveni karton dodeljen Balogunu",
+      "url": "https://www.tanjug.rs/sport/fudbal/264273/tramp-zatrazio-sam-od-fifa-da-preispita-crveni-karton-dodeljen-balogunu/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 07. 2026. у 18:22",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Brazilski stručnjak Filipe Luis novi trener fudbalera Monaka",
-      "url": "https://www.tanjug.rs/sport/fudbal/264221/brazilski-strucnjak-filipe-luis-novi-trener-fudbalera-monaka/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 07. 2026. у 15:17",
-      "slika": null
-    },
-    {
-      "naslov": "Italijanski fudbaler Sandro Tonali prešao iz Njukasla u Totenhem za 117 miliona evra",
-      "url": "https://www.tanjug.rs/sport/fudbal/264158/italijanski-fudbaler-sandro-tonali-presao-iz-njukasla-u-totenhem-za-117-miliona-evra/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 07. 2026. у 12:46",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler iz Obale Slonovače Asan Uedraogo potpisao za Čukarički",
-      "url": "https://www.tanjug.rs/sport/fudbal/264127/fudbaler-iz-obale-slonovace-asan-uedraogo-potpisao-za-cukaricki/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 07. 2026. у 11:50",
-      "slika": null
-    },
-    {
-      "naslov": "Zvanično: Zvezda prodala &quot;promašaj&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247925/felisio-milson-za-4500000-evra-u-al-dzaziri/vest",
+      "naslov": "Partizan predstavio Brazilca VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248070/ze-novi-fudbaler-partizana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "6. 07. 2026. у 17:52",
+      "datum": "6. 07. 2026. у 20:00",
       "slika": null
     },
     {
-      "naslov": "Čukarički u SAD našao štopera",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247899/asane-ouedraogo-pojacao-cukaricki/vest",
+      "naslov": "Više od prijateljske – Kojzek pogodio za minimalac Partizana VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248055/partizan-pobedio-nefci-u-prijateljskoj-utakmici/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "6. 07. 2026. у 16:30",
+      "datum": "6. 07. 2026. у 19:19",
       "slika": null
     }
   ]
