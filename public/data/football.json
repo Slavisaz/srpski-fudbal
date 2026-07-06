@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-06T08:49:15.122612+00:00",
-  "azurirano_sr": "6. 07. 2026. у 10:49",
+  "azurirano": "2026-07-06T12:29:58.077284+00:00",
+  "azurirano_sr": "6. 07. 2026. у 14:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (ponedeljak, 6. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-6-jul/548214",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 07. 2026. у 15:17",
+      "slika": null
+    },
+    {
+      "naslov": "Najskuplji Italijan i Totenhemovo ‘statement’ pojačanje: Sandro Tonali od 108.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najskuplji-italijan-i-totenhemovo-statement-pojacanje-sandro-tonali-od-108000000-evra/548230",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 07. 2026. у 15:10",
+      "slika": null
+    },
     {
       "naslov": "Šizofrena cepanja u Brazilu: Kukavica Ančeloti i kraj Nejmarove generacije… Bogu hvala",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sizofrena-cepanja-u-brazilu-kukavica-anceloti-i-kraj-nejmarove-generacije-bogu-hvala/548216",
@@ -18,45 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Tako se pumpa samopouzdanje: Ilić i drugovi na dva meča dali 28 golova",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tako-se-pumpa-samopouzdanje-ilic-i-drugovi-na-dva-meca-dali-28-golova/548209",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 07. 2026. у 12:05",
-      "slika": null
-    },
-    {
-      "naslov": "Svet je zgrožen i navija protiv Amera: Ova dvojica nemaju pojma o fudbalu!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/svet-je-zgrozen-i-navija-protiv-amera-ova-dvojica-nemaju-pojma-o-fudbalu/548210",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 07. 2026. у 12:05",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Brazila Nejmar završio reprezentativnu karijeru",
-      "url": "https://www.tanjug.rs/sport/fudbal/264067/fudbaler-brazila-nejmar-zavrsio-reprezentativnu-karijeru/vest",
+      "naslov": "Italijanski fudbaler Sandro Tonali prešao iz Njukasla u Totenhem za 117 miliona evra",
+      "url": "https://www.tanjug.rs/sport/fudbal/264158/italijanski-fudbaler-sandro-tonali-presao-iz-njukasla-u-totenhem-za-117-miliona-evra/vest",
       "izvor": "Танјуг",
-      "datum": "6. 07. 2026. у 09:03",
+      "datum": "6. 07. 2026. у 12:46",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Engleske pobedili Meksiko i plasirali se u četvrtfinale Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/264050/fudbaleri-engleske-pobedili-meksiko-i-plasirali-se-u-cetvrtfinale-svetskog-prvenstva/vest",
+      "naslov": "Fudbaler iz Obale Slonovače Asan Uedraogo potpisao za Čukarički",
+      "url": "https://www.tanjug.rs/sport/fudbal/264127/fudbaler-iz-obale-slonovace-asan-uedraogo-potpisao-za-cukaricki/vest",
       "izvor": "Танјуг",
-      "datum": "6. 07. 2026. у 06:16",
+      "datum": "6. 07. 2026. у 11:50",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Norveške sa dva gola Halanda pobedili Brazil za četvrtfinale SP",
-      "url": "https://www.tanjug.rs/sport/fudbal/264037/fudbaleri-norveske-sa-dva-gola-halanda-pobedili-brazil-za-cetvrtfinale-sp/vest",
+      "naslov": "UEFA: Odluka FIFA o ukidanju suspenzije Balogunu \"prešla crvenu liniju\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/264124/uefa-odluka-fifa-o-ukidanju-suspenzije-balogunu-presla-crvenu-liniju/vest",
       "izvor": "Танјуг",
-      "datum": "6. 07. 2026. у 00:10",
+      "datum": "6. 07. 2026. у 11:39",
       "slika": null
     },
     {
-      "naslov": "Fransoa Leteksje sudi utakmicu između fudbalera Argentine i Egipta na Svetskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/264036/fransoa-leteksje-sudi-utakmicu-izmedu-fudbalera-argentine-i-egipta-na-svetskom-prvenstvu/vest",
+      "naslov": "Austrijski stručnjak Oliver Glasner novi trener Notongem Foresta",
+      "url": "https://www.tanjug.rs/sport/fudbal/264116/austrijski-strucnjak-oliver-glasner-novi-trener-notongem-foresta/vest",
       "izvor": "Танјуг",
-      "datum": "5. 07. 2026. у 23:24",
+      "datum": "6. 07. 2026. у 11:27",
+      "slika": null
+    },
+    {
+      "naslov": "Objavljeni prvi detalji za novi Zvezdin stadion",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247936/objavljeni-prvi-detalji-za-novi-zvezdin-stadion/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "6. 07. 2026. у 14:11",
       "slika": null
     },
     {
@@ -67,24 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "Neverovatno – Englez se povredio prilikom proslave sa navijačima VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/247816/dzordan-henderson-povredio-ruku-tokom-proslave/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "6. 07. 2026. у 10:41",
-      "slika": null
-    },
-    {
       "naslov": "Iz Zvezde u PLS",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247455/dragan-bojat-u-vrscu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 07. 2026. у 20:43",
-      "slika": null
-    },
-    {
-      "naslov": "Petrović obradovao Grobare: Partizan dobija peto pojačanje ovog leta",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247472/brazilac-dolazi-u-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 07. 2026. у 13:16",
       "slika": null
     }
   ]
