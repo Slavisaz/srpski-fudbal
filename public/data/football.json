@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-07-06T21:46:37.442190+00:00",
-  "azurirano_sr": "6. 07. 2026. у 23:46",
+  "azurirano": "2026-07-06T22:48:10.185757+00:00",
+  "azurirano_sr": "7. 07. 2026. у 00:48",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (ponedeljak, 6. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-ponedeljak-6-jul/548214",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 07. 2026. у 01:56",
+      "slika": null
+    },
     {
       "naslov": "Brazilska zastava ponovo u Humskoj: Že zvanično u Partizanu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/brazilska-zastava-ponovo-u-humskoj-ze-zvanicno-u-partizanu/548265",
       "izvor": "Мозарт Спорт",
       "datum": "6. 07. 2026. у 22:10",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (ponedeljak, 6. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-6-jul/548214",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 07. 2026. у 21:37",
       "slika": null
     },
     {
