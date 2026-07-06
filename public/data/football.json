@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-06T12:29:58.077284+00:00",
-  "azurirano_sr": "6. 07. 2026. у 14:29",
+  "azurirano": "2026-07-06T16:00:26.711080+00:00",
+  "azurirano_sr": "6. 07. 2026. у 18:00",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kako se IMT setio Zorana Popovića: Odem kao drugi sa Čukom i deset godina me nema ni na mapi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-se-imt-setio-zorana-popovica-odem-kao-drugi-sa-cukom-i-deset-godina-me-nema-ni-na-mapi/548220",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 07. 2026. у 19:00",
+      "slika": null
+    },
+    {
+      "naslov": "Najskuplji defanzivac u istoriji Olimpijakosa! Smajlović u Pireju za 6.500.000",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najskuplji-defanzivac-u-istoriji-olimpijakosa-smajlovic-u-pireju-za-6500000/548136",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 07. 2026. у 18:35",
+      "slika": null
+    },
+    {
+      "naslov": "Hoće li Arne Slot i Jirgen Klop udariti na Srbiju u oktobru?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/hoce-li-arne-slot-i-jirgen-klop-udariti-na-srbiju-u-oktobru/548243",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 07. 2026. у 16:47",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (ponedeljak, 6. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-6-jul/548214",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Najskuplji Italijan i Totenhemovo ‘statement’ pojačanje: Sandro Tonali od 108.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najskuplji-italijan-i-totenhemovo-statement-pojacanje-sandro-tonali-od-108000000-evra/548230",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 07. 2026. у 15:10",
+      "naslov": "FS Belgije: Iz medija smo saznali da je FIFA uslovno suspendovala Baloguna",
+      "url": "https://www.tanjug.rs/sport/fudbal/264255/fs-belgije-iz-medija-smo-saznali-da-je-fifa-uslovno-suspendovala-baloguna/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 07. 2026. у 17:11",
       "slika": null
     },
     {
-      "naslov": "Šizofrena cepanja u Brazilu: Kukavica Ančeloti i kraj Nejmarove generacije… Bogu hvala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sizofrena-cepanja-u-brazilu-kukavica-anceloti-i-kraj-nejmarove-generacije-bogu-hvala/548216",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 07. 2026. у 12:42",
-      "slika": null
-    },
-    {
-      "naslov": "Nije ovo ta ekipa, niti su ova deca zaslužila da ih bacimo pod voz",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nije-ovo-ta-ekipa-niti-su-ova-deca-zasluzila-da-ih-bacimo-pod-voz/548212",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 07. 2026. у 12:11",
+      "naslov": "Brazilski stručnjak Filipe Luis novi trener fudbalera Monaka",
+      "url": "https://www.tanjug.rs/sport/fudbal/264221/brazilski-strucnjak-filipe-luis-novi-trener-fudbalera-monaka/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 07. 2026. у 15:17",
       "slika": null
     },
     {
@@ -46,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "UEFA: Odluka FIFA o ukidanju suspenzije Balogunu \"prešla crvenu liniju\"",
-      "url": "https://www.tanjug.rs/sport/fudbal/264124/uefa-odluka-fifa-o-ukidanju-suspenzije-balogunu-presla-crvenu-liniju/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 07. 2026. у 11:39",
-      "slika": null
-    },
-    {
-      "naslov": "Austrijski stručnjak Oliver Glasner novi trener Notongem Foresta",
-      "url": "https://www.tanjug.rs/sport/fudbal/264116/austrijski-strucnjak-oliver-glasner-novi-trener-notongem-foresta/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 07. 2026. у 11:27",
-      "slika": null
-    },
-    {
-      "naslov": "Objavljeni prvi detalji za novi Zvezdin stadion",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247936/objavljeni-prvi-detalji-za-novi-zvezdin-stadion/vest",
+      "naslov": "Zvanično: Zvezda prodala &quot;promašaj&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247925/felisio-milson-za-4500000-evra-u-al-dzaziri/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "6. 07. 2026. у 14:11",
+      "datum": "6. 07. 2026. у 17:52",
       "slika": null
     },
     {
-      "naslov": "Petrić posle 0:3 protiv Hrvatske: &quot;Nema opravdanja&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247755/gordan-petric-izjava-posle-srbija-hrvatska/vest",
+      "naslov": "Čukarički u SAD našao štopera",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247899/asane-ouedraogo-pojacao-cukaricki/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 07. 2026. у 20:55",
-      "slika": null
-    },
-    {
-      "naslov": "Iz Zvezde u PLS",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/247455/dragan-bojat-u-vrscu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 07. 2026. у 20:43",
+      "datum": "6. 07. 2026. у 16:30",
       "slika": null
     }
   ]
