@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-07T20:12:56.181103+00:00",
-  "azurirano_sr": "7. 07. 2026. у 22:12",
+  "azurirano": "2026-07-07T21:40:04.759405+00:00",
+  "azurirano_sr": "7. 07. 2026. у 23:40",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Remi fudbalera Borca iz Banjaluke i Levskog u kvalifikacijama za Ligu šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/264631/remi-fudbalera-borca-iz-banjaluke-i-levskog-u-kvalifikacijama-za-ligu-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 07. 2026. у 22:37",
+      "slika": null
+    },
+    {
+      "naslov": "Mustafa Ziko: Leteksje je bio pristrasan i neprevedan, sudio je tendenciozno",
+      "url": "https://www.tanjug.rs/sport/fudbal/264628/mustafa-ziko-leteksje-je-bio-pristrasan-i-neprevedan-sudio-je-tendenciozno/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 07. 2026. у 22:29",
+      "slika": null
+    },
+    {
       "naslov": "Enco Fernandez: Igramo do kraja i nikad ne odustajemo, imamo nesalomiv duh",
       "url": "https://www.tanjug.rs/sport/fudbal/264622/enco-fernandez-igramo-do-kraja-i-nikad-ne-odustajemo-imamo-nesalomiv-duh/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/264615/fudbaleri-argentine-od-02-do-32-protiv-egipta-za-prolazak-u-cetvrtfinale-svetskog-prvenstva/vest",
       "izvor": "Танјуг",
       "datum": "7. 07. 2026. у 20:08",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Nikola Jojić nije više član Stouka",
-      "url": "https://www.tanjug.rs/sport/fudbal/264610/srpski-fudbaler-nikola-jojic-nije-vise-clan-stouka/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 07. 2026. у 19:30",
-      "slika": null
-    },
-    {
-      "naslov": "Tanjga: Ferencvaroš zaslužuje respekt, ali verujemo u sebe",
-      "url": "https://www.tanjug.rs/sport/fudbal/264598/tanjga-ferencvaros-zasluzuje-respekt-ali-verujemo-u-sebe/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 07. 2026. у 18:13",
       "slika": null
     },
     {
