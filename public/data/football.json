@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-07T05:29:53.044692+00:00",
-  "azurirano_sr": "7. 07. 2026. у 07:29",
+  "azurirano": "2026-07-07T08:48:24.935713+00:00",
+  "azurirano_sr": "7. 07. 2026. у 10:48",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Još jedna generacija koja nije naučila nijednu važnu lekciju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedna-generacija-koja-nije-naucila-nijednu-vaznu-lekciju/548305",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 07. 2026. у 12:29",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (utorak, 7. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-7-jul/548297",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 07. 2026. у 11:16",
+      "slika": null
+    },
     {
       "naslov": "Ameri više neće trovati Mundijal! Pravednik De Ketelare pokazao “sokeru” šta je fudbal",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ameri-vise-nece-trovati-mundijal-pravednik-de-ketelare-pokazao-sokeru-sta-je-fudbal/548291",
@@ -18,17 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (ponedeljak, 6. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-ponedeljak-6-jul/548214",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 07. 2026. у 01:56",
+      "naslov": "Poketino: Nije bio naš dan, ja sam glavni krivac za poraz od Belgije",
+      "url": "https://www.tanjug.rs/sport/fudbal/264388/poketino-nije-bio-nas-dan-ja-sam-glavni-krivac-za-poraz-od-belgije/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 07. 2026. у 09:59",
       "slika": null
     },
     {
-      "naslov": "Brazilska zastava ponovo u Humskoj: Že zvanično u Partizanu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/brazilska-zastava-ponovo-u-humskoj-ze-zvanicno-u-partizanu/548265",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 07. 2026. у 22:10",
+      "naslov": "Garsija: Timskom igrom smo došli do pobede; Kurtoa: Jedva čekamo meč protiv Španije",
+      "url": "https://www.tanjug.rs/sport/fudbal/264379/garsija-timskom-igrom-smo-dosli-do-pobede-kurtoa-jedva-cekamo-mec-protiv-spanije/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 07. 2026. у 09:28",
+      "slika": null
+    },
+    {
+      "naslov": "De la Fuente: Fudbaleri sa klupe za rezervne igrače odlučili meč protiv Portugala",
+      "url": "https://www.tanjug.rs/sport/fudbal/264373/de-la-fuente-fudbaleri-sa-klupe-za-rezervne-igrace-odlucili-mec-protiv-portugala/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 07. 2026. у 08:50",
+      "slika": null
+    },
+    {
+      "naslov": "Ronaldo: Dao sam sve od sebe, pre mene, Portugal nije osvojio ništa",
+      "url": "https://www.tanjug.rs/sport/fudbal/264372/ronaldo-dao-sam-sve-od-sebe-pre-mene-portugal-nije-osvojio-nista/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 07. 2026. у 08:39",
+      "slika": null
+    },
+    {
+      "naslov": "Ilić: &quot;Naše najbolje izdanje&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248127/sasa-ilic-izjava-posle-partizan-nefci/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 07. 2026. у 08:48",
       "slika": null
     },
     {
@@ -36,41 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248070/ze-novi-fudbaler-partizana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "6. 07. 2026. у 20:00",
-      "slika": null
-    },
-    {
-      "naslov": "Više od prijateljske – Kojzek pogodio za minimalac Partizana VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248055/partizan-pobedio-nefci-u-prijateljskoj-utakmici/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 07. 2026. у 19:19",
-      "slika": null
-    },
-    {
-      "naslov": "Tuča na meču Partizana – rvački zahvat i crveni kartoni! VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248047/tuca-igraca-partizana-i-nefcija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 07. 2026. у 18:46",
-      "slika": null
-    },
-    {
-      "naslov": "Rodri slavio u lice Silvi, pa mu se izvinjavao: &quot;Nije bilo korektno&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/248112/rodri-i-bernardo-silva-u-sukobu-na-kraju-meca-portugalija-spanija/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "7. 07. 2026. у 07:00",
-      "slika": null
-    },
-    {
-      "naslov": "De la Fuente: &quot;Finale pre finala – fudbal je bio pravedan&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/248110/luis-de-la-fuente-izjava-posle-utakmice-portugalija-spanija/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "7. 07. 2026. у 06:00",
-      "slika": null
-    },
-    {
-      "naslov": "Belgijanci znaju šta je inat – deklasiranjem Amerike odgovorili FIFA!",
-      "url": "https://www.b92.net/sport/fudbal/vesti/248093/mundijal-osmina-finala-sad-belgija-14-izvestaj-utakmice/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "7. 07. 2026. у 04:30",
       "slika": null
     }
   ]
