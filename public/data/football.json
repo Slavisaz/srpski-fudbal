@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-07T11:32:29.481550+00:00",
-  "azurirano_sr": "7. 07. 2026. у 13:32",
+  "azurirano": "2026-07-07T13:36:57.652111+00:00",
+  "azurirano_sr": "7. 07. 2026. у 15:36",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Karlo Anćeloti ostaje selektor fudbalske reprezentacije Brazila",
+      "url": "https://www.tanjug.rs/sport/fudbal/264494/karlo-anceloti-ostaje-selektor-fudbalske-reprezentacije-brazila/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 07. 2026. у 13:47",
+      "slika": null
+    },
+    {
       "naslov": "Japanski fudbaler Rjunosuke Sato potpisao ugovor sa Valensijom",
       "url": "https://www.tanjug.rs/sport/fudbal/264476/japanski-fudbaler-rjunosuke-sato-potpisao-ugovor-sa-valensijom/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Rodri se izvinio Bernardu Silvi zbog incidenta na meču između Španije i Portugala",
-      "url": "https://www.tanjug.rs/sport/fudbal/264430/rodri-se-izvinio-bernardu-silvi-zbog-incidenta-na-mecu-izmedu-spanije-i-portugala/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 07. 2026. у 11:31",
+      "naslov": "Superliga počinje u petak – na &quot;Marakani&quot; i u Pančevu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248232/superliga-srbije-termini-1-kola/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 07. 2026. у 14:08",
       "slika": null
     },
     {
-      "naslov": "Barak Bahar želi poznato lice iz Zvezde",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248165/barak-bahar-odvodi-glazera-iz-zvezde/vest",
+      "naslov": "Omiljeni Brazilci u Humskoj poslali poruku novom napadaču Partizana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248245/partizanovi-brazilci-poslali-podrsku-zeu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "7. 07. 2026. у 12:50",
-      "slika": null
-    },
-    {
-      "naslov": "Ilić: &quot;Naše najbolje izdanje&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248127/sasa-ilic-izjava-posle-partizan-nefci/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 07. 2026. у 08:48",
+      "datum": "7. 07. 2026. у 13:29",
       "slika": null
     }
   ]
