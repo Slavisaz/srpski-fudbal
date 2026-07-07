@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-07T16:06:22.450763+00:00",
-  "azurirano_sr": "7. 07. 2026. у 18:06",
+  "azurirano": "2026-07-07T18:11:55.989486+00:00",
+  "azurirano_sr": "7. 07. 2026. у 20:11",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Srpski fudbaler Nikola Jojić nije više član Stouka",
+      "url": "https://www.tanjug.rs/sport/fudbal/264610/srpski-fudbaler-nikola-jojic-nije-vise-clan-stouka/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 07. 2026. у 19:30",
+      "slika": null
+    },
+    {
+      "naslov": "Tanjga: Ferencvaroš zaslužuje respekt, ali verujemo u sebe",
+      "url": "https://www.tanjug.rs/sport/fudbal/264598/tanjga-ferencvaros-zasluzuje-respekt-ali-verujemo-u-sebe/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 07. 2026. у 18:13",
+      "slika": null
+    },
+    {
       "naslov": "Karlo Anćeloti ostaje selektor fudbalske reprezentacije Brazila",
       "url": "https://www.tanjug.rs/sport/fudbal/264494/karlo-anceloti-ostaje-selektor-fudbalske-reprezentacije-brazila/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Ćavi Albert novi trener košarkaša Valensije",
-      "url": "https://www.tanjug.rs/sport/fudbal/264457/cavi-albert-novi-trener-kosarkasa-valensije/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 07. 2026. у 12:40",
-      "slika": null
-    },
-    {
-      "naslov": "FIFA: Sudija Klaus je tokom karijere pokazao najviše standarde profesionalizma",
-      "url": "https://www.tanjug.rs/sport/fudbal/264449/fifa-sudija-klaus-je-tokom-karijere-pokazao-najvise-standarde-profesionalizma/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 07. 2026. у 12:14",
+      "naslov": "Jedan brat na terenu, drugi na klupi – Šćepović trenira u Zemunelu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248349/stefan-scepovic-trenira-sa-teleoptikom/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 07. 2026. у 18:23",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248232/superliga-srbije-termini-1-kola/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "7. 07. 2026. у 14:08",
-      "slika": null
-    },
-    {
-      "naslov": "Omiljeni Brazilci u Humskoj poslali poruku novom napadaču Partizana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248245/partizanovi-brazilci-poslali-podrsku-zeu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 07. 2026. у 13:29",
       "slika": null
     }
   ]
