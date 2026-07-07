@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-07-07T21:40:04.759405+00:00",
-  "azurirano_sr": "7. 07. 2026. у 23:40",
+  "azurirano": "2026-07-07T22:42:13.757114+00:00",
+  "azurirano_sr": "8. 07. 2026. у 00:42",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (utorak, 7. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-utorak-7-jul/548297",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 07. 2026. у 01:50",
+      "slika": null
+    },
     {
       "naslov": "Puče Milanova stotka! Sad Lacio može da zgrabi štopera zagrebačkog Dinama",
       "url": "https://www.mozzartsport.com/fudbal/vesti/puce-milanova-stotka-sad-lacio-moze-da-zgrabi-stopera-zagrebackog-dinama/548356",
       "izvor": "Мозарт Спорт",
       "datum": "7. 07. 2026. у 22:38",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (utorak, 7. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-7-jul/548297",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 07. 2026. у 18:46",
       "slika": null
     },
     {
@@ -29,6 +29,13 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/lazetic-izabrao-jermeniju-pre-cukarickog/548313",
       "izvor": "Мозарт Спорт",
       "datum": "7. 07. 2026. у 14:07",
+      "slika": null
+    },
+    {
+      "naslov": "FIFA će razmatrati ukidanje zabrane ruskim timovima nakon odluke MOK-a",
+      "url": "https://www.tanjug.rs/sport/fudbal/264635/fifa-ce-razmatrati-ukidanje-zabrane-ruskim-timovima-nakon-odluke-mok-a/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 07. 2026. у 23:49",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/264622/enco-fernandez-igramo-do-kraja-i-nikad-ne-odustajemo-imamo-nesalomiv-duh/vest",
       "izvor": "Танјуг",
       "datum": "7. 07. 2026. у 21:36",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Argentine od 0:2 do 3:2 protiv Egipta za prolazak u četvrtfinale Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/264615/fudbaleri-argentine-od-02-do-32-protiv-egipta-za-prolazak-u-cetvrtfinale-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 07. 2026. у 20:08",
       "slika": null
     },
     {
