@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-07T01:26:02.080823+00:00",
-  "azurirano_sr": "7. 07. 2026. у 03:26",
+  "azurirano": "2026-07-07T05:29:53.044692+00:00",
+  "azurirano_sr": "7. 07. 2026. у 07:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ameri više neće trovati Mundijal! Pravednik De Ketelare pokazao “sokeru” šta je fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ameri-vise-nece-trovati-mundijal-pravednik-de-ketelare-pokazao-sokeru-sta-je-fudbal/548291",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 07. 2026. у 06:18",
+      "slika": null
+    },
     {
       "naslov": "Podrhtava Argentina: River ima zeleno svetlo za 20.000.000 evra težak transfer svetskog prvaka",
       "url": "https://www.mozzartsport.com/fudbal/vesti/podrhtava-argentina-river-ima-zeleno-svetlo-za-20000000-evra-tezak-transfer-svetskog-prvaka/548289",
@@ -25,41 +32,6 @@
       "slika": null
     },
     {
-      "naslov": "Kako se IMT setio Zorana Popovića: Odem kao drugi sa Čukom i deset godina me nema ni na mapi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-se-imt-setio-zorana-popovica-odem-kao-drugi-sa-cukom-i-deset-godina-me-nema-ni-na-mapi/548220",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 07. 2026. у 19:00",
-      "slika": null
-    },
-    {
-      "naslov": "Alimpijević: Igrali smo dobro od prve sekunde, znali smo šta želimo",
-      "url": "https://www.tanjug.rs/sport/fudbal/264328/alimpijevic-igrali-smo-dobro-od-prve-sekunde-znali-smo-sta-zelimo/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 07. 2026. у 23:20",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Španije pobedili Portugal i plasirali se u četvrtfinale Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/264324/fudbaleri-spanije-pobedili-portugal-i-plasirali-se-u-cetvrtfinale-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 07. 2026. у 23:03",
-      "slika": null
-    },
-    {
-      "naslov": "Engleski fudbaler Džordan Henderson zbog povrede završio Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/264319/engleski-fudbaler-dzordan-henderson-zbog-povrede-zavrsio-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 07. 2026. у 22:36",
-      "slika": null
-    },
-    {
-      "naslov": "FS Belgije: FIFA potvrdila da Balogun može da igra meč osmine finala Svetskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/264301/fs-belgije-fifa-potvrdila-da-balogun-moze-da-igra-mec-osmine-finala-svetskom-prvenstvu/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 07. 2026. у 20:43",
-      "slika": null
-    },
-    {
       "naslov": "Partizan predstavio Brazilca VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248070/ze-novi-fudbaler-partizana/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,6 +43,34 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248055/partizan-pobedio-nefci-u-prijateljskoj-utakmici/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "6. 07. 2026. у 19:19",
+      "slika": null
+    },
+    {
+      "naslov": "Tuča na meču Partizana – rvački zahvat i crveni kartoni! VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248047/tuca-igraca-partizana-i-nefcija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "6. 07. 2026. у 18:46",
+      "slika": null
+    },
+    {
+      "naslov": "Rodri slavio u lice Silvi, pa mu se izvinjavao: &quot;Nije bilo korektno&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/248112/rodri-i-bernardo-silva-u-sukobu-na-kraju-meca-portugalija-spanija/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "7. 07. 2026. у 07:00",
+      "slika": null
+    },
+    {
+      "naslov": "De la Fuente: &quot;Finale pre finala – fudbal je bio pravedan&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/248110/luis-de-la-fuente-izjava-posle-utakmice-portugalija-spanija/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "7. 07. 2026. у 06:00",
+      "slika": null
+    },
+    {
+      "naslov": "Belgijanci znaju šta je inat – deklasiranjem Amerike odgovorili FIFA!",
+      "url": "https://www.b92.net/sport/fudbal/vesti/248093/mundijal-osmina-finala-sad-belgija-14-izvestaj-utakmice/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "7. 07. 2026. у 04:30",
       "slika": null
     }
   ]
