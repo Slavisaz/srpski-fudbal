@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-08T19:50:13.497263+00:00",
-  "azurirano_sr": "8. 07. 2026. у 21:50",
+  "azurirano": "2026-07-08T20:48:40.625830+00:00",
+  "azurirano_sr": "8. 07. 2026. у 22:48",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Real nastavlja da čisti i seje procente, drugi put prodao 'pola' Frana Garsije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/real-nastavlja-da-cisti-i-seje-procente-drugi-put-prodao-pola-frana-garsije/548448",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 07. 2026. у 00:12",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 8. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-8-jul/548391",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "U Pazaru je bilo kratko i vrlo učinkovito, naredna stanica Dritona Camaja je druga liga Turske",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/u-pazaru-je-bilo-kratko-i-vrlo-ucinkovito-naredna-stanica-dritona-camaja-je-druga-liga-turske/548423",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 07. 2026. у 16:39",
+      "naslov": "Francuska policija priprema posebne mere pred fudbalsku utakmicu Francuska-Maroko",
+      "url": "https://www.tanjug.rs/sport/fudbal/264855/francuska-policija-priprema-posebne-mere-pred-fudbalsku-utakmicu-francuska-maroko/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 07. 2026. у 22:06",
       "slika": null
     },
     {
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Zlatko Dalić nije više selektor fudbalera Hrvatske",
-      "url": "https://www.tanjug.rs/sport/fudbal/264763/zlatko-dalic-nije-vise-selektor-fudbalera-hrvatske/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 07. 2026. у 13:51",
-      "slika": null
-    },
-    {
       "naslov": "Partizan odbio milione iz Glazgova",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248482/crno-beli-traze-6500000-evra-za-dragojevica/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,10 +67,10 @@
       "slika": null
     },
     {
-      "naslov": "Ko god da pobedi Pariz će da &quot;gori&quot;? Policija već proglasila vanredne mere",
-      "url": "https://www.b92.net/sport/fudbal/vesti/248679/policija-pariza-u-pripravnosti-pred-mec-francuske-i-maroka/vest",
+      "naslov": "Francuzi digli glas zbog sudija, Dešan presekao: &quot;Nisu nam oni protivnik&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/248658/didije-desan-izjava-pred-maroko/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "8. 07. 2026. у 21:07",
+      "datum": "8. 07. 2026. у 22:15",
       "slika": null
     },
     {
