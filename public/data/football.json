@@ -1,20 +1,27 @@
 {
-  "azurirano": "2026-07-08T18:07:15.847027+00:00",
-  "azurirano_sr": "8. 07. 2026. у 20:07",
+  "azurirano": "2026-07-08T19:50:13.497263+00:00",
+  "azurirano_sr": "8. 07. 2026. у 21:50",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (sreda, 8. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-8-jul/548391",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 07. 2026. у 22:14",
+      "slika": null
+    },
+    {
+      "naslov": "Kad Paratići pozove, Dragušin ne odbija! Od Torina preko Londona do Firence",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kad-paratici-pozove-dragusin-ne-odbija-od-torina-preko-londona-do-firence/548322",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 07. 2026. у 22:01",
+      "slika": null
+    },
     {
       "naslov": "Puče kasica prasica: Hofenhajm iskeširao 17.000.000 evra za belgijsko čudo od deteta",
       "url": "https://www.mozzartsport.com/fudbal/vesti/puce-kasica-prasica-hofenhajm-iskesirao-17000000-evra-za-belgijsko-cudo-od-deteta/548431",
       "izvor": "Мозарт Спорт",
       "datum": "8. 07. 2026. у 19:40",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (sreda, 8. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-8-jul/548391",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 07. 2026. у 17:47",
       "slika": null
     },
     {
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "U Bajernu prezadovoljni kako je potrošeno prvih 100.000.000, a sad - da se prodaje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/u-bajernu-prezadovoljni-kako-je-potroseno-prvih-100000000-a-sad-da-se-prodaje/548385",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 07. 2026. у 11:25",
+      "naslov": "Žeovani Kenda novi fudbaler Čelsija",
+      "url": "https://www.tanjug.rs/sport/fudbal/264851/zeovani-kenda-novi-fudbaler-celsija/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 07. 2026. у 21:12",
       "slika": null
     },
     {
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Holandski fudbaler Dejli Blind se vratio u Ajaks",
-      "url": "https://www.tanjug.rs/sport/fudbal/264724/holandski-fudbaler-dejli-blind-se-vratio-u-ajaks/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 07. 2026. у 11:56",
-      "slika": null
-    },
-    {
       "naslov": "Partizan odbio milione iz Glazgova",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248482/crno-beli-traze-6500000-evra-za-dragojevica/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,10 +67,10 @@
       "slika": null
     },
     {
-      "naslov": "Amerikancu da, Francuzu ne – FIFA donela novu spornu odluku",
-      "url": "https://www.b92.net/sport/fudbal/vesti/248643/fifa-odbila-da-ponisti-zuti-karton-oliseu/vest",
+      "naslov": "Ko god da pobedi Pariz će da &quot;gori&quot;? Policija već proglasila vanredne mere",
+      "url": "https://www.b92.net/sport/fudbal/vesti/248679/policija-pariza-u-pripravnosti-pred-mec-francuske-i-maroka/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "8. 07. 2026. у 18:25",
+      "datum": "8. 07. 2026. у 21:07",
       "slika": null
     },
     {
