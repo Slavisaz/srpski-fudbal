@@ -1,13 +1,13 @@
 {
-  "azurirano": "2026-07-08T09:13:30.328401+00:00",
-  "azurirano_sr": "8. 07. 2026. у 11:13",
+  "azurirano": "2026-07-08T11:16:49.944622+00:00",
+  "azurirano_sr": "8. 07. 2026. у 13:16",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 8. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-8-jul/548391",
       "izvor": "Мозарт Спорт",
-      "datum": "8. 07. 2026. у 12:49",
+      "datum": "8. 07. 2026. у 14:15",
       "slika": null
     },
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Holandski fudbaler Dejli Blind se vratio u Ajaks",
+      "url": "https://www.tanjug.rs/sport/fudbal/264724/holandski-fudbaler-dejli-blind-se-vratio-u-ajaks/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 07. 2026. у 11:56",
+      "slika": null
+    },
+    {
+      "naslov": "Roberto Martinez nije više selektor fudbalske reprezentacije Portugala",
+      "url": "https://www.tanjug.rs/sport/fudbal/264718/roberto-martinez-nije-vise-selektor-fudbalske-reprezentacije-portugala/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 07. 2026. у 11:43",
+      "slika": null
+    },
+    {
+      "naslov": "Lorenco: Nemam šta da zamerim igračima, nedostajao nam je samo gol",
+      "url": "https://www.tanjug.rs/sport/fudbal/264707/lorenco-nemam-sta-da-zamerim-igracima-nedostajao-nam-je-samo-gol/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 07. 2026. у 11:10",
+      "slika": null
+    },
+    {
       "naslov": "Belgijski fudbaler Amadu Onana zbog povrede kolena ne igra do kraja Svetskog prvenstva",
       "url": "https://www.tanjug.rs/sport/fudbal/264691/belgijski-fudbaler-amadu-onana-zbog-povrede-kolena-ne-igra-do-kraja-svetskog-prvenstva/vest",
       "izvor": "Танјуг",
@@ -39,28 +60,7 @@
       "slika": null
     },
     {
-      "naslov": "Englez Majkl Oliver sudi meč između fudbalera Španije i Belgije na Svetskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/264686/englez-majkl-oliver-sudi-mec-izmedu-fudbalera-spanije-i-belgije-na-svetskom-prvenstvu/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 07. 2026. у 10:14",
-      "slika": null
-    },
-    {
-      "naslov": "Alvaro Arbeloa novi menadžer Fulama",
-      "url": "https://www.tanjug.rs/sport/fudbal/264676/alvaro-arbeloa-novi-menadzer-fulama/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 07. 2026. у 09:44",
-      "slika": null
-    },
-    {
-      "naslov": "Selektor Švajcarske Murat Jakin: Ispunili smo cilj plasmanom u četvrtfinale Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/264666/selektor-svajcarske-murat-jakin-ispunili-smo-cilj-plasmanom-u-cetvrtfinale-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 07. 2026. у 09:05",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan odbio milione iz Glazgova – Dragojević i dalje u Humskoj",
+      "naslov": "Partizan odbio milione iz Glazgova",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248482/crno-beli-traze-6500000-evra-za-dragojevica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "8. 07. 2026. у 10:28",
