@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-08T06:43:16.349656+00:00",
-  "azurirano_sr": "8. 07. 2026. у 08:43",
+  "azurirano": "2026-07-08T09:13:30.328401+00:00",
+  "azurirano_sr": "8. 07. 2026. у 11:13",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (sreda, 8. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-8-jul/548391",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 07. 2026. у 12:49",
+      "slika": null
+    },
+    {
+      "naslov": "U Bajernu prezadovoljni kako je potrošeno prvih 100.000.000, a sad - da se prodaje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/u-bajernu-prezadovoljni-kako-je-potroseno-prvih-100000000-a-sad-da-se-prodaje/548385",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 07. 2026. у 11:25",
+      "slika": null
+    },
+    {
+      "naslov": "Inteligentan, moderan, igra napadački fudbal... Crveni tepih u zapadnom Londonu za Arbelou",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/inteligentan-moderan-igra-napadacki-fudbal-crveni-tepih-u-zapadnom-londonu-za-arbelou/548386",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 07. 2026. у 11:18",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (utorak, 7. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-utorak-7-jul/548297",
@@ -11,52 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Puče Milanova stotka! Sad Lacio može da zgrabi štopera zagrebačkog Dinama",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/puce-milanova-stotka-sad-lacio-moze-da-zgrabi-stopera-zagrebackog-dinama/548356",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 07. 2026. у 22:38",
-      "slika": null
-    },
-    {
-      "naslov": "Kad Paratići pozove, Dragušin ne odbija! Od Torina preko Londona do Firence",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kad-paratici-pozove-dragusin-ne-odbija-od-torina-preko-londona-do-firence/548322",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 07. 2026. у 15:06",
-      "slika": null
-    },
-    {
-      "naslov": "Lazetić izabrao Jermeniju pre Čukaričkog",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lazetic-izabrao-jermeniju-pre-cukarickog/548313",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 07. 2026. у 14:07",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Švajcarske posle penala savladali Kolumbiju za četvrtfinale Mundijala",
-      "url": "https://www.tanjug.rs/sport/fudbal/264648/fudbaleri-svajcarske-posle-penala-savladali-kolumbiju-za-cetvrtfinale-mundijala/vest",
+      "naslov": "Belgijski fudbaler Amadu Onana zbog povrede kolena ne igra do kraja Svetskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/264691/belgijski-fudbaler-amadu-onana-zbog-povrede-kolena-ne-igra-do-kraja-svetskog-prvenstva/vest",
       "izvor": "Танјуг",
-      "datum": "8. 07. 2026. у 00:57",
+      "datum": "8. 07. 2026. у 10:32",
       "slika": null
     },
     {
-      "naslov": "FIFA će razmatrati ukidanje zabrane ruskim timovima nakon odluke MOK-a",
-      "url": "https://www.tanjug.rs/sport/fudbal/264635/fifa-ce-razmatrati-ukidanje-zabrane-ruskim-timovima-nakon-odluke-mok-a/vest",
+      "naslov": "Englez Majkl Oliver sudi meč između fudbalera Španije i Belgije na Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/264686/englez-majkl-oliver-sudi-mec-izmedu-fudbalera-spanije-i-belgije-na-svetskom-prvenstvu/vest",
       "izvor": "Танјуг",
-      "datum": "7. 07. 2026. у 23:49",
+      "datum": "8. 07. 2026. у 10:14",
       "slika": null
     },
     {
-      "naslov": "Remi fudbalera Borca iz Banjaluke i Levskog u kvalifikacijama za Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/264631/remi-fudbalera-borca-iz-banjaluke-i-levskog-u-kvalifikacijama-za-ligu-sampiona/vest",
+      "naslov": "Alvaro Arbeloa novi menadžer Fulama",
+      "url": "https://www.tanjug.rs/sport/fudbal/264676/alvaro-arbeloa-novi-menadzer-fulama/vest",
       "izvor": "Танјуг",
-      "datum": "7. 07. 2026. у 22:37",
+      "datum": "8. 07. 2026. у 09:44",
       "slika": null
     },
     {
-      "naslov": "Mustafa Ziko: Leteksje je bio pristrasan i neprevedan, sudio je tendenciozno",
-      "url": "https://www.tanjug.rs/sport/fudbal/264628/mustafa-ziko-leteksje-je-bio-pristrasan-i-neprevedan-sudio-je-tendenciozno/vest",
+      "naslov": "Selektor Švajcarske Murat Jakin: Ispunili smo cilj plasmanom u četvrtfinale Svetskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/264666/selektor-svajcarske-murat-jakin-ispunili-smo-cilj-plasmanom-u-cetvrtfinale-svetskog-prvenstva/vest",
       "izvor": "Танјуг",
-      "datum": "7. 07. 2026. у 22:29",
+      "datum": "8. 07. 2026. у 09:05",
+      "slika": null
+    },
+    {
+      "naslov": "Partizan odbio milione iz Glazgova – Dragojević i dalje u Humskoj",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248482/crno-beli-traze-6500000-evra-za-dragojevica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "8. 07. 2026. у 10:28",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248349/stefan-scepovic-trenira-sa-teleoptikom/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "7. 07. 2026. у 18:23",
-      "slika": null
-    },
-    {
-      "naslov": "Superliga počinje u petak – na &quot;Marakani&quot; i u Pančevu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248232/superliga-srbije-termini-1-kola/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 07. 2026. у 14:08",
       "slika": null
     }
   ]
