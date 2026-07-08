@@ -1,13 +1,20 @@
 {
-  "azurirano": "2026-07-08T12:53:12.114464+00:00",
-  "azurirano_sr": "8. 07. 2026. у 14:53",
+  "azurirano": "2026-07-08T15:03:17.701468+00:00",
+  "azurirano_sr": "8. 07. 2026. у 17:03",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 8. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-8-jul/548391",
       "izvor": "Мозарт Спорт",
-      "datum": "8. 07. 2026. у 15:38",
+      "datum": "8. 07. 2026. у 17:47",
+      "slika": null
+    },
+    {
+      "naslov": "U Pazaru je bilo kratko i vrlo učinkovito, naredna stanica Dritona Camaja je druga liga Turske",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/u-pazaru-je-bilo-kratko-i-vrlo-ucinkovito-naredna-stanica-dritona-camaja-je-druga-liga-turske/548423",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 07. 2026. у 16:39",
       "slika": null
     },
     {
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (utorak, 7. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-utorak-7-jul/548297",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 07. 2026. у 01:50",
+      "naslov": "Japanski fudbaler Daiči Kamada produžio ugovor sa Kristal Palasom",
+      "url": "https://www.tanjug.rs/sport/fudbal/264796/japanski-fudbaler-daici-kamada-produzio-ugovor-sa-kristal-palasom/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 07. 2026. у 15:22",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbalski savez Egipta podneo žalbu FIFA zbog suđenja na meču protiv Argentine",
+      "url": "https://www.tanjug.rs/sport/fudbal/264790/fudbalski-savez-egipta-podneo-zalbu-fifa-zbog-sudenja-na-mecu-protiv-argentine/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 07. 2026. у 15:05",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/264724/holandski-fudbaler-dejli-blind-se-vratio-u-ajaks/vest",
       "izvor": "Танјуг",
       "datum": "8. 07. 2026. у 11:56",
-      "slika": null
-    },
-    {
-      "naslov": "Roberto Martinez nije više selektor fudbalske reprezentacije Portugala",
-      "url": "https://www.tanjug.rs/sport/fudbal/264718/roberto-martinez-nije-vise-selektor-fudbalske-reprezentacije-portugala/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 07. 2026. у 11:43",
-      "slika": null
-    },
-    {
-      "naslov": "Lorenco: Nemam šta da zamerim igračima, nedostajao nam je samo gol",
-      "url": "https://www.tanjug.rs/sport/fudbal/264707/lorenco-nemam-sta-da-zamerim-igracima-nedostajao-nam-je-samo-gol/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 07. 2026. у 11:10",
       "slika": null
     },
     {
