@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-08T15:03:17.701468+00:00",
-  "azurirano_sr": "8. 07. 2026. у 17:03",
+  "azurirano": "2026-07-08T16:45:19.886205+00:00",
+  "azurirano_sr": "8. 07. 2026. у 18:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Puče kasica prasica: Hofenhajm iskeširao 17.000.000 evra za belgijsko čudo od deteta",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/puce-kasica-prasica-hofenhajm-iskesirao-17000000-evra-za-belgijsko-cudo-od-deteta/548431",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 07. 2026. у 19:40",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 8. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-8-jul/548391",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/u-bajernu-prezadovoljni-kako-je-potroseno-prvih-100000000-a-sad-da-se-prodaje/548385",
       "izvor": "Мозарт Спорт",
       "datum": "8. 07. 2026. у 11:25",
-      "slika": null
-    },
-    {
-      "naslov": "Inteligentan, moderan, igra napadački fudbal... Crveni tepih u zapadnom Londonu za Arbelou",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/inteligentan-moderan-igra-napadacki-fudbal-crveni-tepih-u-zapadnom-londonu-za-arbelou/548386",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 07. 2026. у 11:18",
       "slika": null
     },
     {
@@ -64,6 +64,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248482/crno-beli-traze-6500000-evra-za-dragojevica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "8. 07. 2026. у 10:28",
+      "slika": null
+    },
+    {
+      "naslov": "Amerikancu da, Francuzu ne – FIFA donela novu spornu odluku",
+      "url": "https://www.b92.net/sport/fudbal/vesti/248643/fifa-odbila-da-ponisti-zuti-karton-oliseu/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "8. 07. 2026. у 18:25",
       "slika": null
     },
     {
