@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-09T20:11:27.662292+00:00",
-  "azurirano_sr": "9. 07. 2026. у 22:11",
+  "azurirano": "2026-07-09T21:41:39.662949+00:00",
+  "azurirano_sr": "9. 07. 2026. у 23:41",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Težak dan za regionalni fudbal: Crnogorci izgubile sve, Ljajićevo Sarajevo se izvuklo...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tezak-dan-za-regionalni-fudbal-crnogorci-izgubile-sve-ljajicevo-sarajevo-se-izvuklo/548538",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 07. 2026. у 01:01",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 9. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-9-jul/548464",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 07. 2026. у 00:49",
+      "slika": null
+    },
     {
       "naslov": "Velež remizirao, velika pobeda malog makedonskog kluba nad beloruskim velikanom",
       "url": "https://www.mozzartsport.com/fudbal/vesti/velez-remizirao-velika-pobeda-malog-makedonskog-kluba-nad-beloruskim-velikanom/548530",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Konačno probijen belgijski zid: Najskuplji Izraelac u istoriji igraće za Inter",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/konacno-probijen-belgijski-zid-najskuplji-izraelac-u-istoriji-igrace-za-inter/548508",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 07. 2026. у 20:02",
+      "naslov": "Tanjga: Dvomeč sa Ferencvarošem je i dalje otvoren",
+      "url": "https://www.tanjug.rs/sport/fudbal/265144/tanjga-dvomec-sa-ferencvarosem-je-i-dalje-otvoren/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 07. 2026. у 23:09",
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (četvrtak, 9. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-9-jul/548464",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 07. 2026. у 18:25",
+      "naslov": "Fudbaleri Vojvodine poraženi kod kuće od Ferencvaroša u kvalifikacijama za Ligu Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/265138/fudbaleri-vojvodine-porazeni-kod-kuce-od-ferencvarosa-u-kvalifikacijama-za-ligu-evrope/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 07. 2026. у 22:19",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Engleski fudbaler Džarel Kvansa suspendovan sa dve naredne utakmice",
-      "url": "https://www.tanjug.rs/sport/fudbal/265112/engleski-fudbaler-dzarel-kvansa-suspendovan-sa-dve-naredne-utakmice/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 07. 2026. у 18:44",
-      "slika": null
-    },
-    {
-      "naslov": "Danski fudbaler Kristijan Eriksen uskoro počinje individualni program rehabilitacije",
-      "url": "https://www.tanjug.rs/sport/fudbal/265087/danski-fudbaler-kristijan-eriksen-uskoro-pocinje-individualni-program-rehabilitacije/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 07. 2026. у 16:28",
+      "naslov": "Tanjga: &quot;Malo smo manje verovali nego što je trebalo&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248986/sinisa-tanjga-izjava-posle-vojvodina-ferencvaros/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 07. 2026. у 23:07",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248930/gasprom-zvezdin-sponzor-za-5-miliona-evra-godisnje/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "9. 07. 2026. у 17:31",
-      "slika": null
-    },
-    {
-      "naslov": "Bolonja vodi Ugrešića – milioni stižu u Partizan?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248917/bolonja-kupuje-ognjena-ugresica-od-partizana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "9. 07. 2026. у 16:46",
       "slika": null
     }
   ]
