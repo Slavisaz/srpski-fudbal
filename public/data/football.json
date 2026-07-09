@@ -1,62 +1,62 @@
 {
-  "azurirano": "2026-07-09T08:41:58.929102+00:00",
-  "azurirano_sr": "9. 07. 2026. у 10:41",
+  "azurirano": "2026-07-09T11:38:28.303216+00:00",
+  "azurirano_sr": "9. 07. 2026. у 13:38",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Barsin novi, supersonični napad: Posle Gordona stiže Adejemi! Čeka se još klasična devetka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/barsin-novi-supersonicni-napad-posle-gordona-stize-adejemi-ceka-se-jos-klasicna-devetka/548466",
+      "naslov": "Francuzi se pokajali što su kupili Anana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/francuzi-se-pokajali-sto-su-kupili-anana/548486",
       "izvor": "Мозарт Спорт",
-      "datum": "9. 07. 2026. у 12:10",
+      "datum": "9. 07. 2026. у 15:13",
+      "slika": null
+    },
+    {
+      "naslov": "Nije to taj Šerif koga se nerado sećaju navijači Zvezde, Dinama, pa i Reala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nije-to-taj-serif-koga-se-nerado-secaju-navijaci-zvezde-dinama-pa-i-reala/548479",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 07. 2026. у 14:16",
       "slika": null
     },
     {
       "naslov": "TRANSFERI UŽIVO (četvrtak, 9. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-9-jul/548464",
       "izvor": "Мозарт Спорт",
-      "datum": "9. 07. 2026. у 11:51",
+      "datum": "9. 07. 2026. у 14:11",
       "slika": null
     },
     {
-      "naslov": "Sve o novom Proleteru iz Zrenjanina: Znamo, biće negativnih emocija, ali tog kluba nema već 20 godina",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sve-o-novom-proleteru-iz-zrenjanina-znamo-bice-negativnih-emocija-ali-tog-kluba-nema-vec-20-godina/548232",
+      "naslov": "Srpski napadač neće dobiti šansu u Lećeu, traži mu se novi klub",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-napadac-nece-dobiti-sansu-u-leceu-trazi-mu-se-novi-klub/548468",
       "izvor": "Мозарт Спорт",
-      "datum": "9. 07. 2026. у 10:18",
+      "datum": "9. 07. 2026. у 12:37",
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (sreda, 8. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-sreda-8-jul/548391",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 07. 2026. у 01:18",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Dušan Tadić napustio Al Vahdu",
-      "url": "https://www.tanjug.rs/sport/fudbal/264908/srpski-fudbaler-dusan-tadic-napustio-al-vahdu/vest",
+      "naslov": "Kojzek: Cilj mi je da me klub zapamti kao igrača koji je dao sve za grb",
+      "url": "https://www.tanjug.rs/sport/fudbal/265007/kojzek-cilj-mi-je-da-me-klub-zapamti-kao-igraca-koji-je-dao-sve-za-grb/vest",
       "izvor": "Танјуг",
-      "datum": "9. 07. 2026. у 09:40",
+      "datum": "9. 07. 2026. у 13:15",
       "slika": null
     },
     {
-      "naslov": "Vojvodina večeras dočekuje Ferencvaroš u prvom meču prvog kola kvalifikacija za Ligu Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/264903/vojvodina-veceras-docekuje-ferencvaros-u-prvom-mecu-prvog-kola-kvalifikacija-za-ligu-evrope/vest",
+      "naslov": "Kurtoa: Španija je favorit, ali verujem u pobedu Belgije",
+      "url": "https://www.tanjug.rs/sport/fudbal/264975/kurtoa-spanija-je-favorit-ali-verujem-u-pobedu-belgije/vest",
       "izvor": "Танјуг",
-      "datum": "9. 07. 2026. у 09:20",
+      "datum": "9. 07. 2026. у 12:13",
       "slika": null
     },
     {
-      "naslov": "Marokanski fudbaler Ismael Saibari zbog povrede propušta meč sa Francuskom",
-      "url": "https://www.tanjug.rs/sport/fudbal/264899/marokanski-fudbaler-ismael-saibari-zbog-povrede-propusta-mec-sa-francuskom/vest",
+      "naslov": "Kolina: Niko ne može da sumnja u integritet sudija na Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/264955/kolina-niko-ne-moze-da-sumnja-u-integritet-sudija-na-svetskom-prvenstvu/vest",
       "izvor": "Танјуг",
-      "datum": "9. 07. 2026. у 09:12",
+      "datum": "9. 07. 2026. у 11:34",
       "slika": null
     },
     {
-      "naslov": "Ivan Provedel novi golman Intera",
-      "url": "https://www.tanjug.rs/sport/fudbal/264862/ivan-provedel-novi-golman-intera/vest",
+      "naslov": "Američki košarkaš Džered Batler produžio ugovor sa Crvenom zvezdom",
+      "url": "https://www.tanjug.rs/sport/fudbal/264932/americki-kosarkas-dzered-batler-produzio-ugovor-sa-crvenom-zvezdom/vest",
       "izvor": "Танјуг",
-      "datum": "8. 07. 2026. у 23:19",
+      "datum": "9. 07. 2026. у 10:50",
       "slika": null
     },
     {
@@ -67,10 +67,10 @@
       "slika": null
     },
     {
-      "naslov": "Fantasy rok za četvrtfinale je u 21.45",
-      "url": "https://www.b92.net/sport/fudbal/vesti/248414/cevtrtfinale-mundijala-u-b92-games-fantasy-igri-i-dalje-vodi-tim-sofija/vest",
+      "naslov": "Henderson operisan posle neverovatnog preloma ruke VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/248742/dzordan-henderson-operisan-nakon-preloma-ruke-tokom-slavlja-engleske/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "9. 07. 2026. у 10:20",
+      "datum": "9. 07. 2026. у 13:20",
       "slika": null
     },
     {
