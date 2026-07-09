@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-07-09T21:41:39.662949+00:00",
-  "azurirano_sr": "9. 07. 2026. у 23:41",
+  "azurirano": "2026-07-09T22:54:15.709859+00:00",
+  "azurirano_sr": "10. 07. 2026. у 00:54",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (četvrtak, 9. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-cetvrtak-9-jul/548464",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 07. 2026. у 01:38",
+      "slika": null
+    },
     {
       "naslov": "Težak dan za regionalni fudbal: Crnogorci izgubile sve, Ljajićevo Sarajevo se izvuklo...",
       "url": "https://www.mozzartsport.com/fudbal/vesti/tezak-dan-za-regionalni-fudbal-crnogorci-izgubile-sve-ljajicevo-sarajevo-se-izvuklo/548538",
       "izvor": "Мозарт Спорт",
       "datum": "10. 07. 2026. у 01:01",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (četvrtak, 9. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-9-jul/548464",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 07. 2026. у 00:49",
       "slika": null
     },
     {
