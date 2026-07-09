@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-09T05:11:09.755498+00:00",
-  "azurirano_sr": "9. 07. 2026. у 07:11",
+  "azurirano": "2026-07-09T08:41:58.929102+00:00",
+  "azurirano_sr": "9. 07. 2026. у 10:41",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Barsin novi, supersonični napad: Posle Gordona stiže Adejemi! Čeka se još klasična devetka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/barsin-novi-supersonicni-napad-posle-gordona-stize-adejemi-ceka-se-jos-klasicna-devetka/548466",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 07. 2026. у 12:10",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 9. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-9-jul/548464",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 07. 2026. у 11:51",
+      "slika": null
+    },
+    {
+      "naslov": "Sve o novom Proleteru iz Zrenjanina: Znamo, biće negativnih emocija, ali tog kluba nema već 20 godina",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sve-o-novom-proleteru-iz-zrenjanina-znamo-bice-negativnih-emocija-ali-tog-kluba-nema-vec-20-godina/548232",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 07. 2026. у 10:18",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (sreda, 8. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-sreda-8-jul/548391",
@@ -11,24 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Real nastavlja da čisti i seje procente, drugi put prodao 'pola' Frana Garsije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/real-nastavlja-da-cisti-i-seje-procente-drugi-put-prodao-pola-frana-garsije/548448",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 07. 2026. у 00:12",
+      "naslov": "Srpski fudbaler Dušan Tadić napustio Al Vahdu",
+      "url": "https://www.tanjug.rs/sport/fudbal/264908/srpski-fudbaler-dusan-tadic-napustio-al-vahdu/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 07. 2026. у 09:40",
       "slika": null
     },
     {
-      "naslov": "Kad Paratići pozove, Dragušin ne odbija! Od Torina preko Londona do Firence",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kad-paratici-pozove-dragusin-ne-odbija-od-torina-preko-londona-do-firence/548322",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 07. 2026. у 22:01",
+      "naslov": "Vojvodina večeras dočekuje Ferencvaroš u prvom meču prvog kola kvalifikacija za Ligu Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/264903/vojvodina-veceras-docekuje-ferencvaros-u-prvom-mecu-prvog-kola-kvalifikacija-za-ligu-evrope/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 07. 2026. у 09:20",
       "slika": null
     },
     {
-      "naslov": "Puče kasica prasica: Hofenhajm iskeširao 17.000.000 evra za belgijsko čudo od deteta",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/puce-kasica-prasica-hofenhajm-iskesirao-17000000-evra-za-belgijsko-cudo-od-deteta/548431",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 07. 2026. у 19:40",
+      "naslov": "Marokanski fudbaler Ismael Saibari zbog povrede propušta meč sa Francuskom",
+      "url": "https://www.tanjug.rs/sport/fudbal/264899/marokanski-fudbaler-ismael-saibari-zbog-povrede-propusta-mec-sa-francuskom/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 07. 2026. у 09:12",
       "slika": null
     },
     {
@@ -39,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Džastin Biber uz Šakiru, Madonu i grupu BTS nastupa na poluvremenu finala Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/264859/dzastin-biber-uz-sakiru-madonu-i-grupu-bts-nastupa-na-poluvremenu-finala-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 07. 2026. у 22:41",
+      "naslov": "Nikad jača Voša – i nikad teži put",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248572/vojvodina-ferencvaros-najava-meca-1-kola-kvalifikacija-za-ligu-evrope/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 07. 2026. у 08:00",
       "slika": null
     },
     {
-      "naslov": "Francuska policija priprema posebne mere pred fudbalsku utakmicu Francuska-Maroko",
-      "url": "https://www.tanjug.rs/sport/fudbal/264855/francuska-policija-priprema-posebne-mere-pred-fudbalsku-utakmicu-francuska-maroko/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 07. 2026. у 22:06",
-      "slika": null
-    },
-    {
-      "naslov": "Žeovani Kenda novi fudbaler Čelsija",
-      "url": "https://www.tanjug.rs/sport/fudbal/264851/zeovani-kenda-novi-fudbaler-celsija/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 07. 2026. у 21:12",
+      "naslov": "Fantasy rok za četvrtfinale je u 21.45",
+      "url": "https://www.b92.net/sport/fudbal/vesti/248414/cevtrtfinale-mundijala-u-b92-games-fantasy-igri-i-dalje-vodi-tim-sofija/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "9. 07. 2026. у 10:20",
       "slika": null
     },
     {
@@ -67,24 +81,10 @@
       "slika": null
     },
     {
-      "naslov": "Meksikanci već imenovali novog selektora",
-      "url": "https://www.b92.net/sport/fudbal/vesti/248698/meksikanci-vec-imenovali-novog-selektora/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "8. 07. 2026. у 23:59",
-      "slika": null
-    },
-    {
       "naslov": "Jedan brat na terenu, drugi na klupi – Šćepović trenira u Zemunelu",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248349/stefan-scepovic-trenira-sa-teleoptikom/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "7. 07. 2026. у 18:23",
-      "slika": null
-    },
-    {
-      "naslov": "Superliga počinje u petak – na &quot;Marakani&quot; i u Pančevu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248232/superliga-srbije-termini-1-kola/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 07. 2026. у 14:08",
       "slika": null
     }
   ]
