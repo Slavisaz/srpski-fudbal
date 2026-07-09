@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-09T18:21:50.937567+00:00",
-  "azurirano_sr": "9. 07. 2026. у 20:21",
+  "azurirano": "2026-07-09T20:11:27.662292+00:00",
+  "azurirano_sr": "9. 07. 2026. у 22:11",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Velež remizirao, velika pobeda malog makedonskog kluba nad beloruskim velikanom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/velez-remizirao-velika-pobeda-malog-makedonskog-kluba-nad-beloruskim-velikanom/548530",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 07. 2026. у 23:40",
+      "slika": null
+    },
     {
       "naslov": "Među najboljim besplatnim transferima leta: Palasov potpis (za) Oskara",
       "url": "https://www.mozzartsport.com/fudbal/vesti/meu-najboljim-besplatnim-transferima-leta-palasov-potpis-za-oskara/548518",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-9-jul/548464",
       "izvor": "Мозарт Спорт",
       "datum": "9. 07. 2026. у 18:25",
-      "slika": null
-    },
-    {
-      "naslov": "Fiorentina u naletu: Kaparisala možda i najskuplje pojačanje u istoriji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fiorentina-u-naletu-kaparisala-mozda-i-najskuplje-pojacanje-u-istoriji/548502",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 07. 2026. у 17:58",
       "slika": null
     },
     {
