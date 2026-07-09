@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-09T16:35:56.507630+00:00",
-  "azurirano_sr": "9. 07. 2026. у 18:35",
+  "azurirano": "2026-07-09T18:21:50.937567+00:00",
+  "azurirano_sr": "9. 07. 2026. у 20:21",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Među najboljim besplatnim transferima leta: Palasov potpis (za) Oskara",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/meu-najboljim-besplatnim-transferima-leta-palasov-potpis-za-oskara/548518",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 07. 2026. у 21:27",
+      "slika": null
+    },
     {
       "naslov": "Konačno probijen belgijski zid: Najskuplji Izraelac u istoriji igraće za Inter",
       "url": "https://www.mozzartsport.com/fudbal/vesti/konacno-probijen-belgijski-zid-najskuplji-izraelac-u-istoriji-igrace-za-inter/548508",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Bolje nam je bilo kad smo bili pijanci i ženskaroši: Da li je religija ubila brazilski fudbal?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bolje-nam-je-bilo-kad-smo-bili-pijanci-i-zenskarosi-da-li-je-religija-ubila-brazilski-fudbal/548500",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 07. 2026. у 17:42",
+      "naslov": "Portugalski arbitar Žoao Pinjeiro sudiće meč između fudbalera Argentine i Švajcarske",
+      "url": "https://www.tanjug.rs/sport/fudbal/265115/portugalski-arbitar-zoao-pinjeiro-sudice-mec-izmedu-fudbalera-argentine-i-svajcarske/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 07. 2026. у 19:13",
+      "slika": null
+    },
+    {
+      "naslov": "Španski fudbaler Oskar Mingeza prešao iz Selte u Kristal Palas",
+      "url": "https://www.tanjug.rs/sport/fudbal/265113/spanski-fudbaler-oskar-mingeza-presao-iz-selte-u-kristal-palas/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 07. 2026. у 18:52",
+      "slika": null
+    },
+    {
+      "naslov": "Engleski fudbaler Džarel Kvansa suspendovan sa dve naredne utakmice",
+      "url": "https://www.tanjug.rs/sport/fudbal/265112/engleski-fudbaler-dzarel-kvansa-suspendovan-sa-dve-naredne-utakmice/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 07. 2026. у 18:44",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/265087/danski-fudbaler-kristijan-eriksen-uskoro-pocinje-individualni-program-rehabilitacije/vest",
       "izvor": "Танјуг",
       "datum": "9. 07. 2026. у 16:28",
-      "slika": null
-    },
-    {
-      "naslov": "Francuski golman Ilan Meslije potpisao ugovor sa Arsenalom",
-      "url": "https://www.tanjug.rs/sport/fudbal/265080/francuski-golman-ilan-meslije-potpisao-ugovor-sa-arsenalom/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 07. 2026. у 16:05",
-      "slika": null
-    },
-    {
-      "naslov": "Jamal: Srećan sam zbog Mesija, niko nije očekivao da će da igra na visokom nivou",
-      "url": "https://www.tanjug.rs/sport/fudbal/265054/jamal-srecan-sam-zbog-mesija-niko-nije-ocekivao-da-ce-da-igra-na-visokom-nivou/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 07. 2026. у 14:59",
-      "slika": null
-    },
-    {
-      "naslov": "Holandski fudbaler Šon Šter novo pojačanje Njukasla",
-      "url": "https://www.tanjug.rs/sport/fudbal/265043/holandski-fudbaler-son-ster-novo-pojacanje-njukasla/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 07. 2026. у 14:31",
       "slika": null
     },
     {
