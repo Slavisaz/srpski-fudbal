@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-10T01:46:30.078131+00:00",
-  "azurirano_sr": "10. 07. 2026. у 03:46",
+  "azurirano": "2026-07-10T05:46:17.634309+00:00",
+  "azurirano_sr": "10. 07. 2026. у 07:46",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Francuske prvi polufinalisti Svetskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/265160/fudbaleri-francuske-prvi-polufinalisti-svetskog-prvenstva/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 07. 2026. у 00:04",
+      "slika": null
+    },
+    {
       "naslov": "Tanjga: Dvomeč sa Ferencvarošem je i dalje otvoren",
       "url": "https://www.tanjug.rs/sport/fudbal/265144/tanjga-dvomec-sa-ferencvarosem-je-i-dalje-otvoren/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/265115/portugalski-arbitar-zoao-pinjeiro-sudice-mec-izmedu-fudbalera-argentine-i-svajcarske/vest",
       "izvor": "Танјуг",
       "datum": "9. 07. 2026. у 19:13",
-      "slika": null
-    },
-    {
-      "naslov": "Španski fudbaler Oskar Mingeza prešao iz Selte u Kristal Palas",
-      "url": "https://www.tanjug.rs/sport/fudbal/265113/spanski-fudbaler-oskar-mingeza-presao-iz-selte-u-kristal-palas/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 07. 2026. у 18:52",
       "slika": null
     },
     {
