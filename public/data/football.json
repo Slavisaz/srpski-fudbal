@@ -1,13 +1,13 @@
 {
-  "azurirano": "2026-07-10T17:42:41.710505+00:00",
-  "azurirano_sr": "10. 07. 2026. у 19:42",
+  "azurirano": "2026-07-10T19:08:04.868312+00:00",
+  "azurirano_sr": "10. 07. 2026. у 21:08",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (petak, 10. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-10-jul/548558",
       "izvor": "Мозарт Спорт",
-      "datum": "10. 07. 2026. у 19:12",
+      "datum": "10. 07. 2026. у 22:30",
       "slika": null
     },
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Partizana remizirali sa Lokomotivom iz Zagreba na pripremama u Sloveniji",
+      "url": "https://www.tanjug.rs/sport/fudbal/265310/fudbaleri-partizana-remizirali-sa-lokomotivom-iz-zagreba-na-pripremama-u-sloveniji/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 07. 2026. у 20:10",
+      "slika": null
+    },
+    {
       "naslov": "Vinisijus: Izvinjavam se, boriću se za naš san o povratku u svetski vrh",
       "url": "https://www.tanjug.rs/sport/fudbal/265301/vinisijus-izvinjavam-se-boricu-se-za-nas-san-o-povratku-u-svetski-vrh/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Elšnik: Pozivam sve zvezdaše da dođu na prvu superligašku utakmicu u što većem broju",
-      "url": "https://www.tanjug.rs/sport/fudbal/265263/elsnik-pozivam-sve-zvezdase-da-dodu-na-prvu-superligasku-utakmicu-u-sto-vecem-broju/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 07. 2026. у 15:43",
+      "naslov": "Saša Ilić: &quot;Ovakve golove ne smemo da dozvolimo&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249264/sasa-ilic-izjava-posle-utakmice-partizan-lokomotiva/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 07. 2026. у 20:40",
       "slika": null
     },
     {
-      "naslov": "Partizan izjednačio sjajnom akcijom, pa primio gol iz penala!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249240/fk-partizan-lokomotiva-zagreb-pripremna-utakmica-u-sloveniji/vest",
+      "naslov": "Partizan pogađao stative i prečku, pa u nadoknadi izbegao poraz!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249240/fk-partizan-lokomotiva-zagreb-22-pripremna-utakmica-u-sloveniji/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 07. 2026. у 19:38",
-      "slika": null
-    },
-    {
-      "naslov": "Elšnik: &quot;Cilj je dupla kruna, ubeđen sam da će ove sezone opet biti tako&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249217/fudbaler-crvene-zvezde-timi-maks-elsnik-pozvano-navijace-na-premijeru-superlige/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 07. 2026. у 18:45",
+      "datum": "10. 07. 2026. у 19:48",
       "slika": null
     }
   ]
