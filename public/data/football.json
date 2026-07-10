@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-10T15:56:48.217025+00:00",
-  "azurirano_sr": "10. 07. 2026. у 17:56",
+  "azurirano": "2026-07-10T17:42:41.710505+00:00",
+  "azurirano_sr": "10. 07. 2026. у 19:42",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Vinisijus: Izvinjavam se, boriću se za naš san o povratku u svetski vrh",
+      "url": "https://www.tanjug.rs/sport/fudbal/265301/vinisijus-izvinjavam-se-boricu-se-za-nas-san-o-povratku-u-svetski-vrh/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 07. 2026. у 18:34",
+      "slika": null
+    },
+    {
+      "naslov": "Senegalski fudbaler Sadio Mane završio reprezentativnu karijeru",
+      "url": "https://www.tanjug.rs/sport/fudbal/265295/senegalski-fudbaler-sadio-mane-zavrsio-reprezentativnu-karijeru/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 07. 2026. у 18:08",
+      "slika": null
+    },
+    {
       "naslov": "Žorž Žezus novi selektor fudbalske reprezentacije Portugala",
       "url": "https://www.tanjug.rs/sport/fudbal/265277/zorz-zezus-novi-selektor-fudbalske-reprezentacije-portugala/vest",
       "izvor": "Танјуг",
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Kolumbijski fudbaler Kamilo Duran potpisao za Seltik",
-      "url": "https://www.tanjug.rs/sport/fudbal/265193/kolumbijski-fudbaler-kamilo-duran-potpisao-za-seltik/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 07. 2026. у 10:37",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Francuske prvi polufinalisti Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/265160/fudbaleri-francuske-prvi-polufinalisti-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 07. 2026. у 00:04",
-      "slika": null
-    },
-    {
-      "naslov": "Železničar pustio sezonske karte u prodaju: Popust za stare vlasnike i poklon za najbrže",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249209/prodaja-sezonskih-ulaznica-za-meceve-fk-zeleznicar-pancevo/vest",
+      "naslov": "Partizan izjednačio sjajnom akcijom, pa primio gol iz penala!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249240/fk-partizan-lokomotiva-zagreb-pripremna-utakmica-u-sloveniji/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 07. 2026. у 16:20",
+      "datum": "10. 07. 2026. у 19:38",
       "slika": null
     },
     {
-      "naslov": "Partizan pronašao pojačanje",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249199/timoti-ouma-stize-u-partizan/vest",
+      "naslov": "Elšnik: &quot;Cilj je dupla kruna, ubeđen sam da će ove sezone opet biti tako&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249217/fudbaler-crvene-zvezde-timi-maks-elsnik-pozvano-navijace-na-premijeru-superlige/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 07. 2026. у 15:35",
+      "datum": "10. 07. 2026. у 18:45",
       "slika": null
     }
   ]
