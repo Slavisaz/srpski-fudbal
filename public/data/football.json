@@ -1,34 +1,34 @@
 {
-  "azurirano": "2026-07-10T11:37:05.330146+00:00",
-  "azurirano_sr": "10. 07. 2026. у 13:37",
+  "azurirano": "2026-07-10T13:31:15.254367+00:00",
+  "azurirano_sr": "10. 07. 2026. у 15:31",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (petak, 10. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-10-jul/548558",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 07. 2026. у 17:17",
+      "slika": null
+    },
+    {
+      "naslov": "Partizan ima novog zadnjeg veznog: Stiže iz Praga, igrao protiv Zvezde, menja Dragojevića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/partizan-ima-novog-zadnjeg-veznog-stize-iz-praga-igrao-protiv-zvezde-menja-dragojevica/548593",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 07. 2026. у 17:05",
+      "slika": null
+    },
+    {
+      "naslov": "Čak 14 reprezentativaca Srbije bez ugovora ili na transfer listi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cak-14-reprezentativaca-srbije-bez-ugovora-ili-na-transfer-listi/548582",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 07. 2026. у 15:26",
+      "slika": null
+    },
     {
       "naslov": "Fradi možda nije bauk, ali 38.000 minuta u Evropi ne mogu tek tako da se izbrišu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/fradi-mozda-nije-bauk-ali-38000-minuta-u-evropi-ne-mogu-tek-tako-da-se-izbrisu/548572",
       "izvor": "Мозарт Спорт",
       "datum": "10. 07. 2026. у 14:31",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (petak, 10. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-10-jul/548558",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 07. 2026. у 12:40",
-      "slika": null
-    },
-    {
-      "naslov": "Dnjepar se počastio srpskim fudbalerom pred prvenstvenu utakmicu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dnjepar-se-pocastio-srpskim-fudbalerom-pred-prvenstvenu-utakmicu/548562",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 07. 2026. у 12:26",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI (četvrtak, 9. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-cetvrtak-9-jul/548464",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 07. 2026. у 01:38",
       "slika": null
     },
     {
