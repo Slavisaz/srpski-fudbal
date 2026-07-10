@@ -1,13 +1,13 @@
 {
-  "azurirano": "2026-07-10T20:39:49.378337+00:00",
-  "azurirano_sr": "10. 07. 2026. у 22:39",
+  "azurirano": "2026-07-10T21:39:18.079987+00:00",
+  "azurirano_sr": "10. 07. 2026. у 23:39",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "TRANSFERI UŽIVO (petak, 10. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-10-jul/548558",
+      "naslov": "TRANSFERI (petak, 10. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-10-jul/548558",
       "izvor": "Мозарт Спорт",
-      "datum": "10. 07. 2026. у 22:30",
+      "datum": "11. 07. 2026. у 01:25",
       "slika": null
     },
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Španije pobedili Belgiju i plasirali se u polufinale Svetskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/265330/fudbaleri-spanije-pobedili-belgiju-i-plasirali-se-u-polufinale-svetskog-prvenstva/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 07. 2026. у 23:02",
+      "slika": null
+    },
+    {
       "naslov": "Austrijski golman Aleksandar Šlager potpisao ugovor sa Verderom",
       "url": "https://www.tanjug.rs/sport/fudbal/265327/austrijski-golman-aleksandar-slager-potpisao-ugovor-sa-verderom/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/265314/ilic-pokusacemo-da-tokom-naredne-nedelje-popravimo-greske/vest",
       "izvor": "Танјуг",
       "datum": "10. 07. 2026. у 20:30",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Partizana remizirali sa Lokomotivom iz Zagreba na pripremama u Sloveniji",
-      "url": "https://www.tanjug.rs/sport/fudbal/265310/fudbaleri-partizana-remizirali-sa-lokomotivom-iz-zagreba-na-pripremama-u-sloveniji/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 07. 2026. у 20:10",
       "slika": null
     },
     {
