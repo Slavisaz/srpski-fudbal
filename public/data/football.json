@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-10T05:46:17.634309+00:00",
-  "azurirano_sr": "10. 07. 2026. у 07:46",
+  "azurirano": "2026-07-10T08:51:29.485534+00:00",
+  "azurirano_sr": "10. 07. 2026. у 10:51",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (petak, 10. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-10-jul/548558",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 07. 2026. у 12:40",
+      "slika": null
+    },
+    {
+      "naslov": "Dnjepar se počastio srpskim fudbalerom pred prvenstvenu utakmicu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dnjepar-se-pocastio-srpskim-fudbalerom-pred-prvenstvenu-utakmicu/548562",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 07. 2026. у 12:26",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (četvrtak, 9. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-cetvrtak-9-jul/548464",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Velež remizirao, velika pobeda malog makedonskog kluba nad beloruskim velikanom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/velez-remizirao-velika-pobeda-malog-makedonskog-kluba-nad-beloruskim-velikanom/548530",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 07. 2026. у 23:40",
-      "slika": null
-    },
-    {
-      "naslov": "Među najboljim besplatnim transferima leta: Palasov potpis (za) Oskara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/meu-najboljim-besplatnim-transferima-leta-palasov-potpis-za-oskara/548518",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 07. 2026. у 21:27",
+      "naslov": "Kolumbijski fudbaler Kamilo Duran potpisao za Seltik",
+      "url": "https://www.tanjug.rs/sport/fudbal/265193/kolumbijski-fudbaler-kamilo-duran-potpisao-za-seltik/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 07. 2026. у 10:37",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Portugalski arbitar Žoao Pinjeiro sudiće meč između fudbalera Argentine i Švajcarske",
-      "url": "https://www.tanjug.rs/sport/fudbal/265115/portugalski-arbitar-zoao-pinjeiro-sudice-mec-izmedu-fudbalera-argentine-i-svajcarske/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 07. 2026. у 19:13",
+      "naslov": "Ako se po jutru dan poznaje...",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248999/vojvodina-ferencvaros-analiza-meca-kvalifikacija-za-ligu-evrope/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 07. 2026. у 08:45",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248986/sinisa-tanjga-izjava-posle-vojvodina-ferencvaros/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "9. 07. 2026. у 23:07",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda dobija 5 miliona evra!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248930/gasprom-zvezdin-sponzor-za-5-miliona-evra-godisnje/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "9. 07. 2026. у 17:31",
       "slika": null
     }
   ]
