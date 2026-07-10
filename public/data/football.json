@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-07-10T13:31:15.254367+00:00",
-  "azurirano_sr": "10. 07. 2026. у 15:31",
+  "azurirano": "2026-07-10T15:56:48.217025+00:00",
+  "azurirano_sr": "10. 07. 2026. у 17:56",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (petak, 10. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-10-jul/548558",
       "izvor": "Мозарт Спорт",
-      "datum": "10. 07. 2026. у 17:17",
+      "datum": "10. 07. 2026. у 19:12",
       "slika": null
     },
     {
-      "naslov": "Partizan ima novog zadnjeg veznog: Stiže iz Praga, igrao protiv Zvezde, menja Dragojevića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/partizan-ima-novog-zadnjeg-veznog-stize-iz-praga-igrao-protiv-zvezde-menja-dragojevica/548593",
+      "naslov": "General za domaći Mundijal: Portugal dao ključeve projekta \"2030\" selektorskom debitantu u 72. godini",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/general-za-domaci-mundijal-portugal-dao-kljuceve-projekta-2030-selektorskom-debitantu-u-72-godini/548600",
       "izvor": "Мозарт Спорт",
-      "datum": "10. 07. 2026. у 17:05",
+      "datum": "10. 07. 2026. у 19:01",
       "slika": null
     },
     {
-      "naslov": "Čak 14 reprezentativaca Srbije bez ugovora ili na transfer listi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cak-14-reprezentativaca-srbije-bez-ugovora-ili-na-transfer-listi/548582",
+      "naslov": "Pogled na Mundijal sa Starog kontinenta: Evropa dominira uprkos Infantinu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pogled-na-mundijal-sa-starog-kontinenta-evropa-dominira-uprkos-infantinu/548597",
       "izvor": "Мозарт Спорт",
-      "datum": "10. 07. 2026. у 15:26",
+      "datum": "10. 07. 2026. у 17:35",
       "slika": null
     },
     {
-      "naslov": "Fradi možda nije bauk, ali 38.000 minuta u Evropi ne mogu tek tako da se izbrišu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fradi-mozda-nije-bauk-ali-38000-minuta-u-evropi-ne-mogu-tek-tako-da-se-izbrisu/548572",
+      "naslov": "Superagent naljutio Atletiko: Zbog 'driblinga' sa Bernardom Silvom propao transfer od 45.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/superagent-naljutio-atletiko-zbog-driblinga-sa-bernardom-silvom-propao-transfer-od-45000000-evra/548595",
       "izvor": "Мозарт Спорт",
-      "datum": "10. 07. 2026. у 14:31",
+      "datum": "10. 07. 2026. у 17:22",
+      "slika": null
+    },
+    {
+      "naslov": "Žorž Žezus novi selektor fudbalske reprezentacije Portugala",
+      "url": "https://www.tanjug.rs/sport/fudbal/265277/zorz-zezus-novi-selektor-fudbalske-reprezentacije-portugala/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 07. 2026. у 16:25",
+      "slika": null
+    },
+    {
+      "naslov": "Elšnik: Pozivam sve zvezdaše da dođu na prvu superligašku utakmicu u što većem broju",
+      "url": "https://www.tanjug.rs/sport/fudbal/265263/elsnik-pozivam-sve-zvezdase-da-dodu-na-prvu-superligasku-utakmicu-u-sto-vecem-broju/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 07. 2026. у 15:43",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Tanjga: Dvomeč sa Ferencvarošem je i dalje otvoren",
-      "url": "https://www.tanjug.rs/sport/fudbal/265144/tanjga-dvomec-sa-ferencvarosem-je-i-dalje-otvoren/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 07. 2026. у 23:09",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Vojvodine poraženi kod kuće od Ferencvaroša u kvalifikacijama za Ligu Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/265138/fudbaleri-vojvodine-porazeni-kod-kuce-od-ferencvarosa-u-kvalifikacijama-za-ligu-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 07. 2026. у 22:19",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina sprema &quot;bombu&quot; – 1.800.000 evra za Željinu munju",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248941/vojvodina-spremila-1800000-evra-za-silvestera-dzaspera/vest",
+      "naslov": "Železničar pustio sezonske karte u prodaju: Popust za stare vlasnike i poklon za najbrže",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249209/prodaja-sezonskih-ulaznica-za-meceve-fk-zeleznicar-pancevo/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 07. 2026. у 11:20",
+      "datum": "10. 07. 2026. у 16:20",
       "slika": null
     },
     {
-      "naslov": "Ako se po jutru dan poznaje...",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/248999/vojvodina-ferencvaros-analiza-meca-kvalifikacija-za-ligu-evrope/vest",
+      "naslov": "Partizan pronašao pojačanje",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249199/timoti-ouma-stize-u-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 07. 2026. у 08:45",
+      "datum": "10. 07. 2026. у 15:35",
       "slika": null
     }
   ]
