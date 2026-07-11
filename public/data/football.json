@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-11T08:18:52.056756+00:00",
-  "azurirano_sr": "11. 07. 2026. у 10:18",
+  "azurirano": "2026-07-11T09:50:39.749256+00:00",
+  "azurirano_sr": "11. 07. 2026. у 11:50",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ole Gunar Mićić Merino!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ole-gunar-micic-merino/548643",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 07. 2026. у 13:05",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 11. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-11-jul/548638",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 07. 2026. у 13:03",
+      "slika": null
+    },
     {
       "naslov": "Menja se poredak u Kazahstanu: Novi investitori preporodili Ordabasi, Antić napada tron",
       "url": "https://www.mozzartsport.com/fudbal/vesti/menja-se-poredak-u-kazahstanu-novi-investitori-preporodili-ordabasi-antic-napada-tron/548591",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (petak, 10. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-10-jul/548558",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 07. 2026. у 01:25",
-      "slika": null
-    },
-    {
-      "naslov": "General za domaći Mundijal: Portugal dao ključeve projekta \"2030\" selektorskom debitantu u 72. godini",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/general-za-domaci-mundijal-portugal-dao-kljuceve-projekta-2030-selektorskom-debitantu-u-72-godini/548600",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 07. 2026. у 19:01",
+      "naslov": "Kurtoa: Želeo sam da ostanem na terenu, selektor je odlučio da me zameni",
+      "url": "https://www.tanjug.rs/sport/fudbal/265370/kurtoa-zeleo-sam-da-ostanem-na-terenu-selektor-je-odlucio-da-me-zameni/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 07. 2026. у 11:08",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/265327/austrijski-golman-aleksandar-slager-potpisao-ugovor-sa-verderom/vest",
       "izvor": "Танјуг",
       "datum": "10. 07. 2026. у 22:12",
-      "slika": null
-    },
-    {
-      "naslov": "Nigerijski fudbaler Bendžamin Fredrik produžio ugovor sa Brentfordom",
-      "url": "https://www.tanjug.rs/sport/fudbal/265320/nigerijski-fudbaler-bendzamin-fredrik-produzio-ugovor-sa-brentfordom/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 07. 2026. у 21:15",
       "slika": null
     },
     {
