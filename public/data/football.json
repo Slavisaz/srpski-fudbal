@@ -1,20 +1,27 @@
 {
-  "azurirano": "2026-07-11T09:50:39.749256+00:00",
-  "azurirano_sr": "11. 07. 2026. у 11:50",
+  "azurirano": "2026-07-11T10:46:43.059086+00:00",
+  "azurirano_sr": "11. 07. 2026. у 12:46",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 11. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-11-jul/548638",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 07. 2026. у 14:17",
+      "slika": null
+    },
+    {
+      "naslov": "Siti nastavlja da dovodi klince: Za krilo Lestera 12.500.000",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/siti-nastavlja-da-dovodi-klince-za-krilo-lestera-12500000/548648",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 07. 2026. у 14:05",
+      "slika": null
+    },
     {
       "naslov": "Ole Gunar Mićić Merino!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ole-gunar-micic-merino/548643",
       "izvor": "Мозарт Спорт",
       "datum": "11. 07. 2026. у 13:05",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (subota, 11. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-11-jul/548638",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 07. 2026. у 13:03",
       "slika": null
     },
     {
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Partizan ne mora da traži još jednu desetku, tu je – Bogdan Kostić",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/partizan-ne-mora-da-trazi-jos-jednu-desetku-tu-je-bogdan-kostic/548628",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 07. 2026. у 10:01",
+      "naslov": "Danski fudbaler Morten Julman prešao u Atletiko Madrid",
+      "url": "https://www.tanjug.rs/sport/fudbal/265374/danski-fudbaler-morten-julman-presao-u-atletiko-madrid/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 07. 2026. у 11:44",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/265330/fudbaleri-spanije-pobedili-belgiju-i-plasirali-se-u-polufinale-svetskog-prvenstva/vest",
       "izvor": "Танјуг",
       "datum": "10. 07. 2026. у 23:13",
-      "slika": null
-    },
-    {
-      "naslov": "Austrijski golman Aleksandar Šlager potpisao ugovor sa Verderom",
-      "url": "https://www.tanjug.rs/sport/fudbal/265327/austrijski-golman-aleksandar-slager-potpisao-ugovor-sa-verderom/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 07. 2026. у 22:12",
       "slika": null
     },
     {
