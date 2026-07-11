@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-11T20:11:20.054915+00:00",
-  "azurirano_sr": "11. 07. 2026. у 22:11",
+  "azurirano": "2026-07-11T21:02:31.408697+00:00",
+  "azurirano_sr": "11. 07. 2026. у 23:02",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Paolo Maldini imenovan za tehničkog direktora Fudbalskog saveza Italije",
+      "url": "https://www.tanjug.rs/sport/fudbal/265468/paolo-maldini-imenovan-za-tehnickog-direktora-fudbalskog-saveza-italije/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 07. 2026. у 22:42",
+      "slika": null
+    },
+    {
+      "naslov": "Omladinska fudbalska reprezentacija Španije osvojila titulu prvaka Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/265462/omladinska-fudbalska-reprezentacija-spanije-osvojila-titulu-prvaka-evrope/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 07. 2026. у 22:06",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Partizana deklasirali slovenačku Naftu u generalnoj probi za novu sezonu",
       "url": "https://www.tanjug.rs/sport/fudbal/265438/fudbaleri-partizana-deklasirali-slovenacku-naftu-u-generalnoj-probi-za-novu-sezonu/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/265429/duel-sad-belgija-najgledanija-fudbalska-utakmica-na-televiziji-u-istoriji-amerike/vest",
       "izvor": "Танјуг",
       "datum": "11. 07. 2026. у 18:06",
-      "slika": null
-    },
-    {
-      "naslov": "Preminuo Ken Bejts, dugogodišnji vlasnik i predsednik Čelsija i Lidsa",
-      "url": "https://www.tanjug.rs/sport/fudbal/265422/preminuo-ken-bejts-dugogodisnji-vlasnik-i-predsednik-celsija-i-lidsa/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 07. 2026. у 16:30",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda otputovala u Rusiju, Stanković poveo 23 igrača za utakmicu protiv Zenita",
-      "url": "https://www.tanjug.rs/sport/fudbal/265406/zvezda-otputovala-u-rusiju-stankovic-poveo-23-igraca-za-utakmicu-protiv-zenita/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 07. 2026. у 14:36",
       "slika": null
     },
     {
