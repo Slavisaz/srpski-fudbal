@@ -1,34 +1,34 @@
 {
-  "azurirano": "2026-07-11T18:03:07.297682+00:00",
-  "azurirano_sr": "11. 07. 2026. у 20:03",
+  "azurirano": "2026-07-11T19:17:48.605819+00:00",
+  "azurirano_sr": "11. 07. 2026. у 21:17",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Garnaćo već pakuje kofere za selidbu iz Londona: Čelsi ga stavio na transfer listu i nada se profitu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/garnaco-vec-pakuje-kofere-za-selidbu-iz-londona-celsi-ga-stavio-na-transfer-listu-i-nada-se-profitu/548676",
+      "naslov": "Ajaks bi da kupuje na veliko: Unahi želja Kopljanika, Đirona traži 25.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ajaks-bi-da-kupuje-na-veliko-unahi-zelja-kopljanika-irona-trazi-25000000-evra/548686",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 07. 2026. у 20:14",
-      "slika": null
-    },
-    {
-      "naslov": "Kuva se transfer Ferana Toresa: Ako Barsa neće, ima ko hoće",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kuva-se-transfer-ferana-toresa-ako-barsa-nece-ima-ko-hoce/548670",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 07. 2026. у 19:15",
-      "slika": null
-    },
-    {
-      "naslov": "Dogovor u načelu: Klop sve bliži klupi Nemačke i mečevima sa Srbijom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dogovor-u-nacelu-klop-sve-blizi-klupi-nemacke-i-mecevima-sa-srbijom/548667",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 07. 2026. у 17:29",
+      "datum": "11. 07. 2026. у 22:51",
       "slika": null
     },
     {
       "naslov": "TRANSFERI UŽIVO (subota, 11. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-11-jul/548638",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 07. 2026. у 17:28",
+      "datum": "11. 07. 2026. у 22:37",
+      "slika": null
+    },
+    {
+      "naslov": "IMT porazom od Ahmata završio pripreme",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/imt-porazom-od-ahmata-zavrsio-pripreme/548684",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 07. 2026. у 22:24",
+      "slika": null
+    },
+    {
+      "naslov": "Voša dobija 230.000 evra: Seid Korać ušao u Seriju A, ali igraće Seriju B",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vosa-dobija-230000-evra-seid-korac-usao-u-seriju-a-ali-igrace-seriju-b/548682",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 07. 2026. у 22:07",
       "slika": null
     },
     {
@@ -60,6 +60,13 @@
       "slika": null
     },
     {
+      "naslov": "Ljajić otkrio istinu o transferu Ugrešića: &quot;Voleli bismo da je tačno...&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249474/predsednik-partizana-o-transferu-ognjena-ugresica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "11. 07. 2026. у 21:15",
+      "slika": null
+    },
+    {
       "naslov": "Crno-beli spremni za Superligu i Evropu – četiri gola za kraj priprema",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249454/partizan-pobedio-naftu-b/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,13 +78,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249264/sasa-ilic-izjava-posle-utakmice-partizan-lokomotiva/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 07. 2026. у 20:40",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan pogađao stative i prečku, pa u nadoknadi izbegao poraz!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249240/fk-partizan-lokomotiva-zagreb-22-pripremna-utakmica-u-sloveniji/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 07. 2026. у 19:48",
       "slika": null
     }
   ]
