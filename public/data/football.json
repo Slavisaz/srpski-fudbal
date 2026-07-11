@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-11T04:18:23.707127+00:00",
-  "azurirano_sr": "11. 07. 2026. у 06:18",
+  "azurirano": "2026-07-11T06:28:12.282269+00:00",
+  "azurirano_sr": "11. 07. 2026. у 08:28",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Partizan ne mora da traži još jednu desetku, tu je – Bogdan Kostić",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/partizan-ne-mora-da-trazi-jos-jednu-desetku-tu-je-bogdan-kostic/548628",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 07. 2026. у 10:01",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (petak, 10. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-10-jul/548558",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/pogled-na-mundijal-sa-starog-kontinenta-evropa-dominira-uprkos-infantinu/548597",
       "izvor": "Мозарт Спорт",
       "datum": "10. 07. 2026. у 17:35",
-      "slika": null
-    },
-    {
-      "naslov": "Superagent naljutio Atletiko: Zbog 'driblinga' sa Bernardom Silvom propao transfer od 45.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/superagent-naljutio-atletiko-zbog-driblinga-sa-bernardom-silvom-propao-transfer-od-45000000-evra/548595",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 07. 2026. у 17:22",
       "slika": null
     },
     {
