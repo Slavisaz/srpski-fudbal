@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-11T17:09:17.944374+00:00",
-  "azurirano_sr": "11. 07. 2026. у 19:09",
+  "azurirano": "2026-07-11T18:03:07.297682+00:00",
+  "azurirano_sr": "11. 07. 2026. у 20:03",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Partizana deklasirali slovenačku Naftu u generalnoj probi za novu sezonu",
+      "url": "https://www.tanjug.rs/sport/fudbal/265438/fudbaleri-partizana-deklasirali-slovenacku-naftu-u-generalnoj-probi-za-novu-sezonu/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 07. 2026. у 19:29",
+      "slika": null
+    },
+    {
+      "naslov": "Duel SAD - Belgija najgledanija fudbalska utakmica na televiziji u istoriji Amerike",
+      "url": "https://www.tanjug.rs/sport/fudbal/265429/duel-sad-belgija-najgledanija-fudbalska-utakmica-na-televiziji-u-istoriji-amerike/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 07. 2026. у 18:06",
+      "slika": null
+    },
+    {
       "naslov": "Preminuo Ken Bejts, dugogodišnji vlasnik i predsednik Čelsija i Lidsa",
       "url": "https://www.tanjug.rs/sport/fudbal/265422/preminuo-ken-bejts-dugogodisnji-vlasnik-i-predsednik-celsija-i-lidsa/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Džeremi Monga novi fudbaler Mančester sitija",
-      "url": "https://www.tanjug.rs/sport/fudbal/265384/dzeremi-monga-novi-fudbaler-mancester-sitija/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 07. 2026. у 12:31",
-      "slika": null
-    },
-    {
-      "naslov": "Danski fudbaler Morten Julman prešao u Atletiko Madrid",
-      "url": "https://www.tanjug.rs/sport/fudbal/265374/danski-fudbaler-morten-julman-presao-u-atletiko-madrid/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 07. 2026. у 11:44",
+      "naslov": "Crno-beli spremni za Superligu i Evropu – četiri gola za kraj priprema",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249454/partizan-pobedio-naftu-b/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "11. 07. 2026. у 19:18",
       "slika": null
     },
     {
@@ -71,13 +78,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249240/fk-partizan-lokomotiva-zagreb-22-pripremna-utakmica-u-sloveniji/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 07. 2026. у 19:48",
-      "slika": null
-    },
-    {
-      "naslov": "Elšnik: &quot;Cilj je dupla kruna, ubeđen sam da će ove sezone opet biti tako&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249217/fudbaler-crvene-zvezde-timi-maks-elsnik-pozvano-navijace-na-premijeru-superlige/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 07. 2026. у 18:45",
       "slika": null
     }
   ]
