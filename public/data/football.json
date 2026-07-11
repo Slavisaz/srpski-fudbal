@@ -1,13 +1,27 @@
 {
-  "azurirano": "2026-07-11T12:34:38.923144+00:00",
-  "azurirano_sr": "11. 07. 2026. у 14:34",
+  "azurirano": "2026-07-11T14:04:25.296447+00:00",
+  "azurirano_sr": "11. 07. 2026. у 16:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dogovor u načelu: Klop sve bliži klupi Nemačke i mečevima sa Srbijom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dogovor-u-nacelu-klop-sve-blizi-klupi-nemacke-i-mecevima-sa-srbijom/548667",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 07. 2026. у 17:29",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (subota, 11. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-11-jul/548638",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 07. 2026. у 15:17",
+      "datum": "11. 07. 2026. у 17:28",
+      "slika": null
+    },
+    {
+      "naslov": "Preminuo fudbaler Južne Afrike nekoliko dana po povratku sa Mundijala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/preminuo-fudbaler-juzne-afrike-nekoliko-dana-po-povratku-sa-mundijala/548659",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 07. 2026. у 16:22",
       "slika": null
     },
     {
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Siti nastavlja da dovodi klince: Za krilo Lestera 12.500.000",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/siti-nastavlja-da-dovodi-klince-za-krilo-lestera-12500000/548648",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 07. 2026. у 14:05",
-      "slika": null
-    },
-    {
-      "naslov": "Ole Gunar Mićić Merino!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ole-gunar-micic-merino/548643",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 07. 2026. у 13:05",
+      "naslov": "Zvezda otputovala u Rusiju, Stanković poveo 23 igrača za utakmicu protiv Zenita",
+      "url": "https://www.tanjug.rs/sport/fudbal/265406/zvezda-otputovala-u-rusiju-stankovic-poveo-23-igraca-za-utakmicu-protiv-zenita/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 07. 2026. у 14:36",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/265370/kurtoa-zeleo-sam-da-ostanem-na-terenu-selektor-je-odlucio-da-me-zameni/vest",
       "izvor": "Танјуг",
       "datum": "11. 07. 2026. у 11:08",
-      "slika": null
-    },
-    {
-      "naslov": "Mikel Merino: Veoma sam srećan zbog plasmana u polufinale Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/265335/mikel-merino-veoma-sam-srecan-zbog-plasmana-u-polufinale-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 07. 2026. у 23:38",
       "slika": null
     },
     {
