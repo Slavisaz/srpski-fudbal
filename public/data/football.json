@@ -1,13 +1,20 @@
 {
-  "azurirano": "2026-07-11T10:46:43.059086+00:00",
-  "azurirano_sr": "11. 07. 2026. у 12:46",
+  "azurirano": "2026-07-11T11:36:31.879965+00:00",
+  "azurirano_sr": "11. 07. 2026. у 13:36",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (subota, 11. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-11-jul/548638",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 07. 2026. у 14:17",
+      "datum": "11. 07. 2026. у 15:17",
+      "slika": null
+    },
+    {
+      "naslov": "TSC u lovu na bivšeg špica Genta: Halo, Letonija, dajte nam Lemajića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tsc-u-lovu-na-bivseg-spica-genta-halo-letonija-dajte-nam-lemajica/548655",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 07. 2026. у 15:09",
       "slika": null
     },
     {
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Menja se poredak u Kazahstanu: Novi investitori preporodili Ordabasi, Antić napada tron",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/menja-se-poredak-u-kazahstanu-novi-investitori-preporodili-ordabasi-antic-napada-tron/548591",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 07. 2026. у 10:05",
+      "naslov": "Džeremi Monga novi fudbaler Mančester sitija",
+      "url": "https://www.tanjug.rs/sport/fudbal/265384/dzeremi-monga-novi-fudbaler-mancester-sitija/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 07. 2026. у 12:31",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/265335/mikel-merino-veoma-sam-srecan-zbog-plasmana-u-polufinale-svetskog-prvenstva/vest",
       "izvor": "Танјуг",
       "datum": "10. 07. 2026. у 23:38",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Španije pobedili Belgiju i plasirali se u polufinale Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/265330/fudbaleri-spanije-pobedili-belgiju-i-plasirali-se-u-polufinale-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 07. 2026. у 23:13",
       "slika": null
     },
     {
