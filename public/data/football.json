@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-07-11T21:02:31.408697+00:00",
-  "azurirano_sr": "11. 07. 2026. у 23:02",
+  "azurirano": "2026-07-11T21:57:13.945180+00:00",
+  "azurirano_sr": "11. 07. 2026. у 23:57",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (subota, 11. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-subota-11-jul/548638",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 07. 2026. у 01:07",
+      "slika": null
+    },
     {
       "naslov": "Ajaks bi da kupuje na veliko: Unahi želja Kopljanika, Đirona traži 25.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ajaks-bi-da-kupuje-na-veliko-unahi-zelja-kopljanika-irona-trazi-25000000-evra/548686",
       "izvor": "Мозарт Спорт",
       "datum": "11. 07. 2026. у 22:51",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (subota, 11. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-11-jul/548638",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 07. 2026. у 22:37",
       "slika": null
     },
     {
@@ -29,6 +29,13 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/vosa-dobija-230000-evra-seid-korac-usao-u-seriju-a-ali-igrace-seriju-b/548682",
       "izvor": "Мозарт Спорт",
       "datum": "11. 07. 2026. у 22:07",
+      "slika": null
+    },
+    {
+      "naslov": "Golman Džordan Pikford postao Englez sa najviše utakmica na Svetskim prvenstvima",
+      "url": "https://www.tanjug.rs/sport/fudbal/265473/golman-dzordan-pikford-postao-englez-sa-najvise-utakmica-na-svetskim-prvenstvima/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 07. 2026. у 23:05",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Duel SAD - Belgija najgledanija fudbalska utakmica na televiziji u istoriji Amerike",
-      "url": "https://www.tanjug.rs/sport/fudbal/265429/duel-sad-belgija-najgledanija-fudbalska-utakmica-na-televiziji-u-istoriji-amerike/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 07. 2026. у 18:06",
+      "naslov": "Bjeković evocirao uspomene na Ljubljanu: &quot;To će se ponovo desiti&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249492/partizan-proslavio-50-godina-od-osvajanja-cuvene-titule/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "11. 07. 2026. у 23:03",
       "slika": null
     },
     {
@@ -64,20 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249474/predsednik-partizana-o-transferu-ognjena-ugresica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "11. 07. 2026. у 21:15",
-      "slika": null
-    },
-    {
-      "naslov": "Crno-beli spremni za Superligu i Evropu – četiri gola za kraj priprema",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249454/partizan-pobedio-naftu-b/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "11. 07. 2026. у 19:18",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić: &quot;Ovakve golove ne smemo da dozvolimo&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249264/sasa-ilic-izjava-posle-utakmice-partizan-lokomotiva/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 07. 2026. у 20:40",
       "slika": null
     }
   ]
