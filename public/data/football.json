@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-11T16:05:08.171547+00:00",
-  "azurirano_sr": "11. 07. 2026. у 18:05",
+  "azurirano": "2026-07-11T17:09:17.944374+00:00",
+  "azurirano_sr": "11. 07. 2026. у 19:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Garnaćo već pakuje kofere za selidbu iz Londona: Čelsi ga stavio na transfer listu i nada se profitu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/garnaco-vec-pakuje-kofere-za-selidbu-iz-londona-celsi-ga-stavio-na-transfer-listu-i-nada-se-profitu/548676",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 07. 2026. у 20:14",
+      "slika": null
+    },
     {
       "naslov": "Kuva se transfer Ferana Toresa: Ako Barsa neće, ima ko hoće",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kuva-se-transfer-ferana-toresa-ako-barsa-nece-ima-ko-hoce/548670",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-11-jul/548638",
       "izvor": "Мозарт Спорт",
       "datum": "11. 07. 2026. у 17:28",
-      "slika": null
-    },
-    {
-      "naslov": "Preminuo fudbaler Južne Afrike nekoliko dana po povratku sa Mundijala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/preminuo-fudbaler-juzne-afrike-nekoliko-dana-po-povratku-sa-mundijala/548659",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 07. 2026. у 16:22",
       "slika": null
     },
     {
@@ -71,6 +71,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249240/fk-partizan-lokomotiva-zagreb-22-pripremna-utakmica-u-sloveniji/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 07. 2026. у 19:48",
+      "slika": null
+    },
+    {
+      "naslov": "Elšnik: &quot;Cilj je dupla kruna, ubeđen sam da će ove sezone opet biti tako&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249217/fudbaler-crvene-zvezde-timi-maks-elsnik-pozvano-navijace-na-premijeru-superlige/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 07. 2026. у 18:45",
       "slika": null
     }
   ]
