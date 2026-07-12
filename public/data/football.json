@@ -1,13 +1,13 @@
 {
-  "azurirano": "2026-07-12T10:41:17.150266+00:00",
-  "azurirano_sr": "12. 07. 2026. у 12:41",
+  "azurirano": "2026-07-12T11:42:19.641882+00:00",
+  "azurirano_sr": "12. 07. 2026. у 13:42",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (nedelja, 12. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-12-jul/548714",
       "izvor": "Мозарт Спорт",
-      "datum": "12. 07. 2026. у 13:13",
+      "datum": "12. 07. 2026. у 15:09",
       "slika": null
     },
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Pap Tjav nije više selektor fudbalera Senegala",
+      "url": "https://www.tanjug.rs/sport/fudbal/265550/pap-tjav-nije-vise-selektor-fudbalera-senegala/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 07. 2026. у 13:04",
+      "slika": null
+    },
+    {
       "naslov": "Jakin: Naterali smo svetske šampione da se brane, boli nas ovakva eliminacija",
       "url": "https://www.tanjug.rs/sport/fudbal/265537/jakin-naterali-smo-svetske-sampione-da-se-brane-boli-nas-ovakva-eliminacija/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Haland: Svetsko prvenstvo mi je promenilo život, ucrtali smo Norvešku na fudbalsku mapu",
-      "url": "https://www.tanjug.rs/sport/fudbal/265517/haland-svetsko-prvenstvo-mi-je-promenilo-zivot-ucrtali-smo-norvesku-na-fudbalsku-mapu/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 07. 2026. у 10:14",
+      "naslov": "Markinjos zatvorio vrata Zvezdi: &quot;Nemam nameru da napustim Spartak&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249589/markinjos-o-zvezdi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 07. 2026. у 13:20",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249547/vladimir-lucic-ide-u-dinamo-drezden/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 07. 2026. у 11:15",
-      "slika": null
-    },
-    {
-      "naslov": "Bjeković evocirao uspomene na Ljubljanu: &quot;To će se ponovo desiti&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249492/partizan-proslavio-50-godina-od-osvajanja-cuvene-titule/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "11. 07. 2026. у 23:03",
       "slika": null
     }
   ]
