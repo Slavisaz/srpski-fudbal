@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-07-12T21:04:09.404243+00:00",
-  "azurirano_sr": "12. 07. 2026. у 23:04",
+  "azurirano": "2026-07-12T22:00:34.709599+00:00",
+  "azurirano_sr": "13. 07. 2026. у 00:00",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (nedelja, 12. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-nedelja-12-jul/548714",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 07. 2026. у 01:00",
+      "slika": null
+    },
     {
       "naslov": "Nikola Vasiljević dočekao da se oproba van Srbije",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nikola-vasiljevic-docekao-da-se-oproba-van-srbije/548757",
       "izvor": "Мозарт Спорт",
       "datum": "12. 07. 2026. у 22:56",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (nedelja, 12. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-12-jul/548714",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 07. 2026. у 21:59",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Stanković: &quot;Bolje izgubiti sad, nego u utakmici za bodove&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249680/dejan-stankovic-posle-zenit-crvena-zvezda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 07. 2026. у 23:08",
+      "slika": null
+    },
+    {
       "naslov": "Zvezda nemoćna protiv Zenita – Abu Fani &quot;lepoticom&quot; ublažio poraz VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249619/prijateljska-utakmica-zenit-crvena-zvezda-31-10/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 07. 2026. у 19:59",
-      "slika": null
-    },
-    {
-      "naslov": "Markinjos zatvorio vrata Zvezdi: &quot;Nemam nameru da napustim Spartak&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249589/markinjos-o-zvezdi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 07. 2026. у 13:20",
       "slika": null
     }
   ]
