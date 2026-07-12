@@ -1,34 +1,55 @@
 {
-  "azurirano": "2026-07-12T07:09:08.783127+00:00",
-  "azurirano_sr": "12. 07. 2026. у 09:09",
+  "azurirano": "2026-07-12T09:11:44.947708+00:00",
+  "azurirano_sr": "12. 07. 2026. у 11:11",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "NAJAVA DANA (nedelja, 12. jul): U pauzi Mundijala tu su Šveđani, Norvežani, Superkup Rumunije, Vimbldon...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-nedelja-12-jul-u-pauzi-mundijala-tu-su-sveani-norvezani-superkup-rumunije-vimbldon/548700",
+      "naslov": "Stevanović na Stanojeva: Krajova za triplu krunu, Bergodi se čuva za Kijevljane",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stevanovic-na-stanojeva-krajova-za-triplu-krunu-bergodi-se-cuva-za-kijevljane/548715",
       "izvor": "Мозарт Спорт",
-      "datum": "12. 07. 2026. у 10:22",
+      "datum": "12. 07. 2026. у 12:36",
       "slika": null
     },
     {
-      "naslov": "Hulijanov projektil u produžecima i VAR slom Emboloa: Gore duhovi 1986, stiže repriza sa Englezima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/hulijanov-projektil-u-produzecima-i-var-slom-emboloa-gore-duhovi-1986-stize-repriza-sa-englezima/548698",
+      "naslov": "Interu propada transfer od 25.000.000: Ako neko rizikuje život izlazeći na teren - zaustaviću ga",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/interu-propada-transfer-od-25000000-ako-neko-rizikuje-zivot-izlazeci-na-teren-zaustavicu-ga/548709",
       "izvor": "Мозарт Спорт",
-      "datum": "12. 07. 2026. у 07:51",
+      "datum": "12. 07. 2026. у 12:18",
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (subota, 11. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-subota-11-jul/548638",
+      "naslov": "TRANSFERI UŽIVO (nedelja, 12. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-12-jul/548714",
       "izvor": "Мозарт Спорт",
-      "datum": "12. 07. 2026. у 01:07",
+      "datum": "12. 07. 2026. у 11:57",
       "slika": null
     },
     {
-      "naslov": "Ajaks bi da kupuje na veliko: Unahi želja Kopljanika, Đirona traži 25.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ajaks-bi-da-kupuje-na-veliko-unahi-zelja-kopljanika-irona-trazi-25000000-evra/548686",
+      "naslov": "Suze Emboloa i bes Švajcaraca: Ko je izmislio ovo pravilo?! Uništavaju igru, ne ide se ovako u polufinale",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/suze-emboloa-i-bes-svajcaraca-ko-je-izmislio-ovo-pravilo-unistavaju-igru-ne-ide-se-ovako-u-polufinale/548702",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 07. 2026. у 22:51",
+      "datum": "12. 07. 2026. у 11:52",
+      "slika": null
+    },
+    {
+      "naslov": "FIFA: Gol Engleske regularan, senzor u lopti nije detektovao kontakt sa žicom",
+      "url": "https://www.tanjug.rs/sport/fudbal/265523/fifa-gol-engleske-regularan-senzor-u-lopti-nije-detektovao-kontakt-sa-zicom/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 07. 2026. у 10:48",
+      "slika": null
+    },
+    {
+      "naslov": "Haland: Svetsko prvenstvo mi je promenilo život, ucrtali smo Norvešku na fudbalsku mapu",
+      "url": "https://www.tanjug.rs/sport/fudbal/265517/haland-svetsko-prvenstvo-mi-je-promenilo-zivot-ucrtali-smo-norvesku-na-fudbalsku-mapu/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 07. 2026. у 10:14",
+      "slika": null
+    },
+    {
+      "naslov": "Tuhel: Zadovoljan zbog prolaska, iako nismo igrali dovoljno dobro",
+      "url": "https://www.tanjug.rs/sport/fudbal/265513/tuhel-zadovoljan-zbog-prolaska-iako-nismo-igrali-dovoljno-dobro/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 07. 2026. у 09:59",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/265491/argentina-sa-igracem-vise-pobedila-svajcarsku-posle-produzetaka-slede-englezi/vest",
       "izvor": "Танјуг",
       "datum": "12. 07. 2026. у 05:46",
-      "slika": null
-    },
-    {
-      "naslov": "Kraj bajke Norvežana, fudbaleri Engleske posle produžetaka do polufinala Mundijala",
-      "url": "https://www.tanjug.rs/sport/fudbal/265488/kraj-bajke-norvezana-fudbaleri-engleske-posle-produzetaka-do-polufinala-mundijala/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 07. 2026. у 01:50",
-      "slika": null
-    },
-    {
-      "naslov": "Golman Džordan Pikford postao Englez sa najviše utakmica na Svetskim prvenstvima",
-      "url": "https://www.tanjug.rs/sport/fudbal/265473/golman-dzordan-pikford-postao-englez-sa-najvise-utakmica-na-svetskim-prvenstvima/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 07. 2026. у 23:05",
-      "slika": null
-    },
-    {
-      "naslov": "Paolo Maldini imenovan za tehničkog direktora Fudbalskog saveza Italije",
-      "url": "https://www.tanjug.rs/sport/fudbal/265468/paolo-maldini-imenovan-za-tehnickog-direktora-fudbalskog-saveza-italije/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 07. 2026. у 22:42",
       "slika": null
     },
     {
