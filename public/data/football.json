@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-12T19:20:23.742301+00:00",
-  "azurirano_sr": "12. 07. 2026. у 21:20",
+  "azurirano": "2026-07-12T20:10:54.173031+00:00",
+  "azurirano_sr": "12. 07. 2026. у 22:10",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Stanković: Izgubili smo utakmicu na tehničke stvari",
+      "url": "https://www.tanjug.rs/sport/fudbal/265634/stankovic-izgubili-smo-utakmicu-na-tehnicke-stvari/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 07. 2026. у 21:56",
+      "slika": null
+    },
+    {
+      "naslov": "FIFA: Utakmice tekućeg Mondijala gledalo više navijača nego prethodna dva zajedno",
+      "url": "https://www.tanjug.rs/sport/fudbal/265630/fifa-utakmice-tekuceg-mondijala-gledalo-vise-navijaca-nego-prethodna-dva-zajedno/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 07. 2026. у 21:28",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Crvene zvezde poraženi od Zenita u generalnoj probi za sezonu",
       "url": "https://www.tanjug.rs/sport/fudbal/265619/fudbaleri-crvene-zvezde-porazeni-od-zenita-u-generalnoj-probi-za-sezonu/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/265584/kristina-mladenovic-i-hanju-guo-osvojile-vimbldon-u-dublu/vest",
       "izvor": "Танјуг",
       "datum": "12. 07. 2026. у 15:52",
-      "slika": null
-    },
-    {
-      "naslov": "Pap Tjav nije više selektor fudbalera Senegala",
-      "url": "https://www.tanjug.rs/sport/fudbal/265550/pap-tjav-nije-vise-selektor-fudbalera-senegala/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 07. 2026. у 13:04",
-      "slika": null
-    },
-    {
-      "naslov": "Jakin: Naterali smo svetske šampione da se brane, boli nas ovakva eliminacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/265537/jakin-naterali-smo-svetske-sampione-da-se-brane-boli-nas-ovakva-eliminacija/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 07. 2026. у 11:55",
       "slika": null
     },
     {
