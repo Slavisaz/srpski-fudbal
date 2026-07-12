@@ -1,13 +1,20 @@
 {
-  "azurirano": "2026-07-12T18:08:12.419738+00:00",
-  "azurirano_sr": "12. 07. 2026. у 20:08",
+  "azurirano": "2026-07-12T19:20:23.742301+00:00",
+  "azurirano_sr": "12. 07. 2026. у 21:20",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nikola Vasiljević dočekao da se oproba van Srbije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nikola-vasiljevic-docekao-da-se-oproba-van-srbije/548757",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 07. 2026. у 22:56",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (nedelja, 12. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-12-jul/548714",
       "izvor": "Мозарт Спорт",
-      "datum": "12. 07. 2026. у 20:09",
+      "datum": "12. 07. 2026. у 21:59",
       "slika": null
     },
     {
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Interu propada transfer od 25.000.000: Ako neko rizikuje život izlazeći na teren - zaustaviću ga",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/interu-propada-transfer-od-25000000-ako-neko-rizikuje-zivot-izlazeci-na-teren-zaustavicu-ga/548709",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 07. 2026. у 12:18",
+      "naslov": "Fudbaleri Crvene zvezde poraženi od Zenita u generalnoj probi za sezonu",
+      "url": "https://www.tanjug.rs/sport/fudbal/265619/fudbaleri-crvene-zvezde-porazeni-od-zenita-u-generalnoj-probi-za-sezonu/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 07. 2026. у 20:01",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/265537/jakin-naterali-smo-svetske-sampione-da-se-brane-boli-nas-ovakva-eliminacija/vest",
       "izvor": "Танјуг",
       "datum": "12. 07. 2026. у 11:55",
-      "slika": null
-    },
-    {
-      "naslov": "Skaloni: Švajcarska nam je zadala probleme, teško je doći do polufinala Svetskog prvenstva bez muke",
-      "url": "https://www.tanjug.rs/sport/fudbal/265532/skaloni-svajcarska-nam-je-zadala-probleme-tesko-je-doci-do-polufinala-svetskog-prvenstva-bez-muke/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 07. 2026. у 11:36",
       "slika": null
     },
     {
