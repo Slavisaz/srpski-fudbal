@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-12T09:11:44.947708+00:00",
-  "azurirano_sr": "12. 07. 2026. у 11:11",
+  "azurirano": "2026-07-12T10:41:17.150266+00:00",
+  "azurirano_sr": "12. 07. 2026. у 12:41",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (nedelja, 12. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-12-jul/548714",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 07. 2026. у 13:13",
+      "slika": null
+    },
     {
       "naslov": "Stevanović na Stanojeva: Krajova za triplu krunu, Bergodi se čuva za Kijevljane",
       "url": "https://www.mozzartsport.com/fudbal/vesti/stevanovic-na-stanojeva-krajova-za-triplu-krunu-bergodi-se-cuva-za-kijevljane/548715",
@@ -18,17 +25,24 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (nedelja, 12. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-12-jul/548714",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 07. 2026. у 11:57",
-      "slika": null
-    },
-    {
       "naslov": "Suze Emboloa i bes Švajcaraca: Ko je izmislio ovo pravilo?! Uništavaju igru, ne ide se ovako u polufinale",
       "url": "https://www.mozzartsport.com/fudbal/vesti/suze-emboloa-i-bes-svajcaraca-ko-je-izmislio-ovo-pravilo-unistavaju-igru-ne-ide-se-ovako-u-polufinale/548702",
       "izvor": "Мозарт Спорт",
       "datum": "12. 07. 2026. у 11:52",
+      "slika": null
+    },
+    {
+      "naslov": "Jakin: Naterali smo svetske šampione da se brane, boli nas ovakva eliminacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/265537/jakin-naterali-smo-svetske-sampione-da-se-brane-boli-nas-ovakva-eliminacija/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 07. 2026. у 11:55",
+      "slika": null
+    },
+    {
+      "naslov": "Skaloni: Švajcarska nam je zadala probleme, teško je doći do polufinala Svetskog prvenstva bez muke",
+      "url": "https://www.tanjug.rs/sport/fudbal/265532/skaloni-svajcarska-nam-je-zadala-probleme-tesko-je-doci-do-polufinala-svetskog-prvenstva-bez-muke/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 07. 2026. у 11:36",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Tuhel: Zadovoljan zbog prolaska, iako nismo igrali dovoljno dobro",
-      "url": "https://www.tanjug.rs/sport/fudbal/265513/tuhel-zadovoljan-zbog-prolaska-iako-nismo-igrali-dovoljno-dobro/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 07. 2026. у 09:59",
-      "slika": null
-    },
-    {
-      "naslov": "Argentina sa igračem više pobedila Švajcarsku posle produžetaka, slede Englezi",
-      "url": "https://www.tanjug.rs/sport/fudbal/265491/argentina-sa-igracem-vise-pobedila-svajcarsku-posle-produzetaka-slede-englezi/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 07. 2026. у 05:46",
+      "naslov": "Lučić čeka zeleno svetlo za transfer u Dinamo Drezden",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249547/vladimir-lucic-ide-u-dinamo-drezden/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 07. 2026. у 11:15",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249492/partizan-proslavio-50-godina-od-osvajanja-cuvene-titule/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "11. 07. 2026. у 23:03",
-      "slika": null
-    },
-    {
-      "naslov": "Ljajić otkrio istinu o transferu Ugrešića: &quot;Voleli bismo da je tačno...&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249474/predsednik-partizana-o-transferu-ognjena-ugresica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "11. 07. 2026. у 21:15",
       "slika": null
     }
   ]
