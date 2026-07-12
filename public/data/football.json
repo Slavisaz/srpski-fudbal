@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-12T01:08:21.125278+00:00",
-  "azurirano_sr": "12. 07. 2026. у 03:08",
+  "azurirano": "2026-07-12T04:34:14.920737+00:00",
+  "azurirano_sr": "12. 07. 2026. у 06:34",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Hulijanov projektil u produžecima i VAR slom Emboloa: Gore duhovi 1986, stiže repriza sa Englezima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/hulijanov-projektil-u-produzecima-i-var-slom-emboloa-gore-duhovi-1986-stize-repriza-sa-englezima/548698",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 07. 2026. у 07:51",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (subota, 11. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-subota-11-jul/548638",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/imt-porazom-od-ahmata-zavrsio-pripreme/548684",
       "izvor": "Мозарт Спорт",
       "datum": "11. 07. 2026. у 22:24",
-      "slika": null
-    },
-    {
-      "naslov": "Voša dobija 230.000 evra: Seid Korać ušao u Seriju A, ali igraće Seriju B",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vosa-dobija-230000-evra-seid-korac-usao-u-seriju-a-ali-igrace-seriju-b/548682",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 07. 2026. у 22:07",
       "slika": null
     },
     {
