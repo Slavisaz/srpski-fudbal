@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-12T04:34:14.920737+00:00",
-  "azurirano_sr": "12. 07. 2026. у 06:34",
+  "azurirano": "2026-07-12T07:09:08.783127+00:00",
+  "azurirano_sr": "12. 07. 2026. у 09:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (nedelja, 12. jul): U pauzi Mundijala tu su Šveđani, Norvežani, Superkup Rumunije, Vimbldon...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-nedelja-12-jul-u-pauzi-mundijala-tu-su-sveani-norvezani-superkup-rumunije-vimbldon/548700",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 07. 2026. у 10:22",
+      "slika": null
+    },
     {
       "naslov": "Hulijanov projektil u produžecima i VAR slom Emboloa: Gore duhovi 1986, stiže repriza sa Englezima",
       "url": "https://www.mozzartsport.com/fudbal/vesti/hulijanov-projektil-u-produzecima-i-var-slom-emboloa-gore-duhovi-1986-stize-repriza-sa-englezima/548698",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "IMT porazom od Ahmata završio pripreme",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/imt-porazom-od-ahmata-zavrsio-pripreme/548684",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 07. 2026. у 22:24",
+      "naslov": "Argentina sa igračem više pobedila Švajcarsku posle produžetaka, slede Englezi",
+      "url": "https://www.tanjug.rs/sport/fudbal/265491/argentina-sa-igracem-vise-pobedila-svajcarsku-posle-produzetaka-slede-englezi/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 07. 2026. у 05:46",
+      "slika": null
+    },
+    {
+      "naslov": "Kraj bajke Norvežana, fudbaleri Engleske posle produžetaka do polufinala Mundijala",
+      "url": "https://www.tanjug.rs/sport/fudbal/265488/kraj-bajke-norvezana-fudbaleri-engleske-posle-produzetaka-do-polufinala-mundijala/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 07. 2026. у 01:50",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/265468/paolo-maldini-imenovan-za-tehnickog-direktora-fudbalskog-saveza-italije/vest",
       "izvor": "Танјуг",
       "datum": "11. 07. 2026. у 22:42",
-      "slika": null
-    },
-    {
-      "naslov": "Omladinska fudbalska reprezentacija Španije osvojila titulu prvaka Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/265462/omladinska-fudbalska-reprezentacija-spanije-osvojila-titulu-prvaka-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 07. 2026. у 22:06",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Partizana deklasirali slovenačku Naftu u generalnoj probi za novu sezonu",
-      "url": "https://www.tanjug.rs/sport/fudbal/265438/fudbaleri-partizana-deklasirali-slovenacku-naftu-u-generalnoj-probi-za-novu-sezonu/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 07. 2026. у 19:29",
       "slika": null
     },
     {
