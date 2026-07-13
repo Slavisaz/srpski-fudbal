@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-13T20:21:18.251268+00:00",
-  "azurirano_sr": "13. 07. 2026. у 22:21",
+  "azurirano": "2026-07-13T21:16:01.317347+00:00",
+  "azurirano_sr": "13. 07. 2026. у 23:16",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "&quot;Zvezda je za Premijer ligu, Partizan i Vojvodina za donji deo Čempionšipa&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250013/izjava-silvestera-dzaspera-o-crvenoj-zvezdi-partizanu-i-vojvodini/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 07. 2026. у 22:45",
+      "slika": null
+    },
+    {
       "naslov": "Preokret u Zvezdi: Stanković se predomislio za Babiku",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249994/savi-babika-dobija-drugu-sansu-u-crvenoj-zvezdi/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "13. 07. 2026. у 21:15",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan počeo prodaju sezonskih ulaznica",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249830/fk-partizan-poceo-sa-prodajom-sezonskih-ulaznica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 07. 2026. у 18:18",
       "slika": null
     }
   ]
