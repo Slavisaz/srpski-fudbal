@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-13T19:04:19.259807+00:00",
-  "azurirano_sr": "13. 07. 2026. у 21:04",
+  "azurirano": "2026-07-13T20:21:18.251268+00:00",
+  "azurirano_sr": "13. 07. 2026. у 22:21",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Preokret u Zvezdi: Stanković se predomislio za Babiku",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249994/savi-babika-dobija-drugu-sansu-u-crvenoj-zvezdi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 07. 2026. у 21:15",
+      "slika": null
+    },
+    {
       "naslov": "Partizan počeo prodaju sezonskih ulaznica",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249830/fk-partizan-poceo-sa-prodajom-sezonskih-ulaznica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "13. 07. 2026. у 18:18",
-      "slika": null
-    },
-    {
-      "naslov": "FSS izabrao novog šefa sudijske komisije – opet stranac",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249863/frenk-de-bleker-novi-sef-sudijske-komisije-fss/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 07. 2026. у 14:40",
       "slika": null
     }
   ]
