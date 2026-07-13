@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-13T15:47:55.621658+00:00",
-  "azurirano_sr": "13. 07. 2026. у 17:47",
+  "azurirano": "2026-07-13T17:43:32.211955+00:00",
+  "azurirano_sr": "13. 07. 2026. у 19:43",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Silvester Džasper: Zvezda i Koković su za Premijer ligu, a ja za „lige petice“",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/silvester-dzasper-zvezda-i-kokovic-su-za-premijer-ligu-a-ja-za-lige-petice/548825",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 07. 2026. у 20:37",
+      "slika": null
+    },
+    {
+      "naslov": "Otvorio se Rodri: Lud sam za fudbalom, kod Jamala vidim anksioznost",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/otvorio-se-rodri-lud-sam-za-fudbalom-kod-jamala-vidim-anksioznost/548829",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 07. 2026. у 20:17",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (ponedeljak, 13. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-13-jul/548778",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/putem-aleksandra-stankovica-jos-jedan-srbin-u-brizu-za-7500000-evra/548823",
       "izvor": "Мозарт Спорт",
       "datum": "13. 07. 2026. у 17:44",
-      "slika": null
-    },
-    {
-      "naslov": "Kostov: Prioritet Liga šampiona, ali naravno da želimo da potvrdimo dominaciju u Srbiji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kostov-prioritet-liga-sampiona-ali-naravno-da-zelimo-da-potvrdimo-dominaciju-u-srbiji/548812",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 07. 2026. у 16:01",
-      "slika": null
-    },
-    {
-      "naslov": "Doskorašnji vezista Radničkog preskup za Kazahstance",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/doskorasnji-vezista-radnickog-preskup-za-kazahstance/548805",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 07. 2026. у 15:20",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Partizan počeo prodaju sezonskih ulaznica",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249830/fk-partizan-poceo-sa-prodajom-sezonskih-ulaznica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 07. 2026. у 18:18",
+      "slika": null
+    },
+    {
       "naslov": "FSS izabrao novog šefa sudijske komisije – opet stranac",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249863/frenk-de-bleker-novi-sef-sudijske-komisije-fss/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "13. 07. 2026. у 14:40",
-      "slika": null
-    },
-    {
-      "naslov": "Tiknizjan: &quot;Imamo mnogo prostora za napredak&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249773/nair-tiknizjan-izjava-posle-zenit-crvena-zvezda/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 07. 2026. у 14:30",
       "slika": null
     }
   ]
