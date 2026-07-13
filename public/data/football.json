@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-13T22:11:09.086359+00:00",
-  "azurirano_sr": "14. 07. 2026. у 00:11",
+  "azurirano": "2026-07-13T23:10:48.699409+00:00",
+  "azurirano_sr": "14. 07. 2026. у 01:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Milosavljević dobija konkurenciju: Bornmut pretiče Milan i za 20.000.000 kupuje štopera Benfike",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/milosavljevic-dobija-konkurenciju-bornmut-pretice-milan-i-za-20000000-kupuje-stopera-benfike/548848",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 07. 2026. у 02:11",
+      "slika": null
+    },
     {
       "naslov": "Grinvudova rampa - Trinkaova sreća: Portuglac u Al Ahliju za 45.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/grinvudova-rampa-trinkaova-sreca-portuglac-u-al-ahliju-za-45000000-evra/548843",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/por-malvinas-por-el-diego-por-la-ultima-de-leo/548837",
       "izvor": "Мозарт Спорт",
       "datum": "13. 07. 2026. у 22:23",
-      "slika": null
-    },
-    {
-      "naslov": "Silvester Džasper: Zvezda i Koković su za Premijer ligu, a ja za „lige petice“",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/silvester-dzasper-zvezda-i-kokovic-su-za-premijer-ligu-a-ja-za-lige-petice/548825",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 07. 2026. у 20:37",
       "slika": null
     },
     {
