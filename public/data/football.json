@@ -1,13 +1,20 @@
 {
-  "azurirano": "2026-07-13T21:16:01.317347+00:00",
-  "azurirano_sr": "13. 07. 2026. у 23:16",
+  "azurirano": "2026-07-13T22:11:09.086359+00:00",
+  "azurirano_sr": "14. 07. 2026. у 00:11",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "TRANSFERI UŽIVO (ponedeljak, 13. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-13-jul/548778",
+      "naslov": "Grinvudova rampa - Trinkaova sreća: Portuglac u Al Ahliju za 45.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/grinvudova-rampa-trinkaova-sreca-portuglac-u-al-ahliju-za-45000000-evra/548843",
       "izvor": "Мозарт Спорт",
-      "datum": "13. 07. 2026. у 22:39",
+      "datum": "14. 07. 2026. у 01:38",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI (ponedeljak, 13. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-ponedeljak-13-jul/548778",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 07. 2026. у 01:13",
       "slika": null
     },
     {
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/silvester-dzasper-zvezda-i-kokovic-su-za-premijer-ligu-a-ja-za-lige-petice/548825",
       "izvor": "Мозарт Спорт",
       "datum": "13. 07. 2026. у 20:37",
-      "slika": null
-    },
-    {
-      "naslov": "Otvorio se Rodri: Lud sam za fudbalom, kod Jamala vidim anksioznost",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/otvorio-se-rodri-lud-sam-za-fudbalom-kod-jamala-vidim-anksioznost/548829",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 07. 2026. у 20:17",
       "slika": null
     },
     {
