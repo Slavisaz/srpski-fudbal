@@ -1,13 +1,20 @@
 {
-  "azurirano": "2026-07-13T07:53:39.928625+00:00",
-  "azurirano_sr": "13. 07. 2026. у 09:53",
+  "azurirano": "2026-07-13T10:45:09.330757+00:00",
+  "azurirano_sr": "13. 07. 2026. у 12:45",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "NAJAVA DANA (ponedeljak, 13. jul): Niželigaški fudbal na repertoaru",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-ponedeljak-13-jul-nizeligaski-fudbal-na-repertoaru/548730",
+      "naslov": "Fudbal je tamo gde srce lupa jače: Ander Erera ulazi u još jednu ljubavnu vezu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbal-je-tamo-gde-srce-lupa-jace-ander-erera-ulazi-u-jos-jednu-ljubavnu-vezu/548787",
       "izvor": "Мозарт Спорт",
-      "datum": "13. 07. 2026. у 11:59",
+      "datum": "13. 07. 2026. у 12:40",
+      "slika": null
+    },
+    {
+      "naslov": "Najkvarnije “zbogom”: Brazilski klub se pozdravio od igrača snimkom njegovih – grešaka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najkvarnije-zbogom-brazilski-klub-se-pozdravio-od-igraca-snimkom-njegovih-gresaka/548782",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 07. 2026. у 11:58",
       "slika": null
     },
     {
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (nedelja, 12. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-nedelja-12-jul/548714",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 07. 2026. у 01:00",
+      "naslov": "FK Partizan počeo prodaju sezonskih ulaznica",
+      "url": "https://www.tanjug.rs/sport/fudbal/265740/fk-partizan-poceo-prodaju-sezonskih-ulaznica/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 07. 2026. у 11:50",
+      "slika": null
+    },
+    {
+      "naslov": "Ivan Barton sudi polufinale Svetskog prvenstva između Francuske i Španije",
+      "url": "https://www.tanjug.rs/sport/fudbal/265712/ivan-barton-sudi-polufinale-svetskog-prvenstva-izmedu-francuske-i-spanije/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 07. 2026. у 10:40",
       "slika": null
     },
     {
@@ -46,21 +60,7 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Crvene zvezde poraženi od Zenita u generalnoj probi za sezonu",
-      "url": "https://www.tanjug.rs/sport/fudbal/265619/fudbaleri-crvene-zvezde-porazeni-od-zenita-u-generalnoj-probi-za-sezonu/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 07. 2026. у 20:01",
-      "slika": null
-    },
-    {
-      "naslov": "Kristina Mladenović i Hanju Guo osvojile Vimbldon u dublu",
-      "url": "https://www.tanjug.rs/sport/fudbal/265584/kristina-mladenovic-i-hanju-guo-osvojile-vimbldon-u-dublu/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 07. 2026. у 15:52",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda neubedljiva, ali setimo se Bahara",
+      "naslov": "Zvezdini rezultati zabrinuli navijače, ali...",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249747/analiza-priprema-fk-crvena-zvezda-202627/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "13. 07. 2026. у 09:38",
