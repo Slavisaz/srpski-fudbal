@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-13T13:05:03.950918+00:00",
-  "azurirano_sr": "13. 07. 2026. у 15:05",
+  "azurirano": "2026-07-13T15:47:55.621658+00:00",
+  "azurirano_sr": "13. 07. 2026. у 17:47",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (ponedeljak, 13. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-13-jul/548778",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 07. 2026. у 18:17",
+      "slika": null
+    },
+    {
+      "naslov": "Putem Aleksandra Stankovića: Još jedan Srbin u Brižu za 7.500.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/putem-aleksandra-stankovica-jos-jedan-srbin-u-brizu-za-7500000-evra/548823",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 07. 2026. у 17:44",
+      "slika": null
+    },
     {
       "naslov": "Kostov: Prioritet Liga šampiona, ali naravno da želimo da potvrdimo dominaciju u Srbiji",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kostov-prioritet-liga-sampiona-ali-naravno-da-zelimo-da-potvrdimo-dominaciju-u-srbiji/548812",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Otvoreni poziv udvaračima, Luka Ilić je preskup za Segundu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/otvoreni-poziv-udvaracima-luka-ilic-je-preskup-za-segundu/548804",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 07. 2026. у 15:17",
+      "naslov": "Paulo Dibala produžio ugovor sa Romom na još godinu dana",
+      "url": "https://www.tanjug.rs/sport/fudbal/265844/paulo-dibala-produzio-ugovor-sa-romom-na-jos-godinu-dana/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 07. 2026. у 15:42",
       "slika": null
     },
     {
-      "naslov": "Matić dočekao Akvilanija u Sasuolu i poručio: Zajedno napadamo Evropu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/matic-docekao-akvilanija-u-sasuolu-i-porucio-zajedno-napadamo-evropu/548801",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 07. 2026. у 14:37",
+      "naslov": "Andrej Santos prešao iz Čelsija u Mančester junajted",
+      "url": "https://www.tanjug.rs/sport/fudbal/265831/andrej-santos-presao-iz-celsija-u-mancester-junajted/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 07. 2026. у 15:24",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/265740/fk-partizan-poceo-prodaju-sezonskih-ulaznica/vest",
       "izvor": "Танјуг",
       "datum": "13. 07. 2026. у 11:50",
-      "slika": null
-    },
-    {
-      "naslov": "Ivan Barton sudi polufinale Svetskog prvenstva između Francuske i Španije",
-      "url": "https://www.tanjug.rs/sport/fudbal/265712/ivan-barton-sudi-polufinale-svetskog-prvenstva-izmedu-francuske-i-spanije/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 07. 2026. у 10:40",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: Izgubili smo utakmicu na tehničke stvari",
-      "url": "https://www.tanjug.rs/sport/fudbal/265634/stankovic-izgubili-smo-utakmicu-na-tehnicke-stvari/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 07. 2026. у 21:56",
       "slika": null
     },
     {
