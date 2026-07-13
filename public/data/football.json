@@ -1,34 +1,34 @@
 {
-  "azurirano": "2026-07-13T04:43:53.878407+00:00",
-  "azurirano_sr": "13. 07. 2026. у 06:43",
+  "azurirano": "2026-07-13T07:53:39.928625+00:00",
+  "azurirano_sr": "13. 07. 2026. у 09:53",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (ponedeljak, 13. jul): Niželigaški fudbal na repertoaru",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-ponedeljak-13-jul-nizeligaski-fudbal-na-repertoaru/548730",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 07. 2026. у 11:59",
+      "slika": null
+    },
+    {
+      "naslov": "Laporta iz Dalasa poslao poruku Atletiku, potvrdio transfer Adejemija i ostanak Rafinje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/laporta-iz-dalasa-poslao-poruku-atletiku-potvrdio-transfer-adejemija-i-ostanak-rafinje/548769",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 07. 2026. у 11:17",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (ponedeljak, 13. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-13-jul/548778",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 07. 2026. у 11:10",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (nedelja, 12. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-nedelja-12-jul/548714",
       "izvor": "Мозарт Спорт",
       "datum": "13. 07. 2026. у 01:00",
-      "slika": null
-    },
-    {
-      "naslov": "Nikola Vasiljević dočekao da se oproba van Srbije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nikola-vasiljevic-docekao-da-se-oproba-van-srbije/548757",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 07. 2026. у 22:56",
-      "slika": null
-    },
-    {
-      "naslov": "Almerija baš voli Srbe: Stigao bivši omladinac Partizana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/almerija-bas-voli-srbe-stigao-bivsi-omladinac-partizana/548735",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 07. 2026. у 17:12",
-      "slika": null
-    },
-    {
-      "naslov": "Stevanović na Stanojeva: Krajova za triplu krunu, Bergodi se čuva za Kijevljane",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/stevanovic-na-stanojeva-krajova-za-triplu-krunu-bergodi-se-cuva-za-kijevljane/548715",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 07. 2026. у 12:36",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Zvezda neubedljiva, ali setimo se Bahara",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249747/analiza-priprema-fk-crvena-zvezda-202627/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 07. 2026. у 09:38",
+      "slika": null
+    },
+    {
       "naslov": "Stanković: &quot;Bolje izgubiti sad, nego u utakmici za bodove&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249680/dejan-stankovic-posle-zenit-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 07. 2026. у 23:08",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda nemoćna protiv Zenita – Abu Fani &quot;lepoticom&quot; ublažio poraz VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/249619/prijateljska-utakmica-zenit-crvena-zvezda-31-10/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 07. 2026. у 19:59",
       "slika": null
     }
   ]
