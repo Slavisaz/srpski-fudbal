@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-13T17:43:32.211955+00:00",
-  "azurirano_sr": "13. 07. 2026. у 19:43",
+  "azurirano": "2026-07-13T19:04:19.259807+00:00",
+  "azurirano_sr": "13. 07. 2026. у 21:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (ponedeljak, 13. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-13-jul/548778",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 07. 2026. у 22:39",
+      "slika": null
+    },
+    {
+      "naslov": "Por Malvinas, por el Diego, por la última de Leo…",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/por-malvinas-por-el-diego-por-la-ultima-de-leo/548837",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 07. 2026. у 22:23",
+      "slika": null
+    },
     {
       "naslov": "Silvester Džasper: Zvezda i Koković su za Premijer ligu, a ja za „lige petice“",
       "url": "https://www.mozzartsport.com/fudbal/vesti/silvester-dzasper-zvezda-i-kokovic-su-za-premijer-ligu-a-ja-za-lige-petice/548825",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/otvorio-se-rodri-lud-sam-za-fudbalom-kod-jamala-vidim-anksioznost/548829",
       "izvor": "Мозарт Спорт",
       "datum": "13. 07. 2026. у 20:17",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (ponedeljak, 13. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-13-jul/548778",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 07. 2026. у 18:17",
-      "slika": null
-    },
-    {
-      "naslov": "Putem Aleksandra Stankovića: Još jedan Srbin u Brižu za 7.500.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/putem-aleksandra-stankovica-jos-jedan-srbin-u-brizu-za-7500000-evra/548823",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 07. 2026. у 17:44",
       "slika": null
     },
     {
