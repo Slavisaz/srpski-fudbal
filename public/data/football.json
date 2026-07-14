@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-14T21:04:05.605117+00:00",
-  "azurirano_sr": "14. 07. 2026. у 23:04",
+  "azurirano": "2026-07-14T22:06:52.218814+00:00",
+  "azurirano_sr": "15. 07. 2026. у 00:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (utorak, 14. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-utorak-14-jul/548865",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 07. 2026. у 01:29",
+      "slika": null
+    },
+    {
+      "naslov": "Ne može Francuska fudbala sa Španijom… Ide Furija po sve!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ne-moze-francuska-fudbala-sa-spanijom-ide-furija-po-sve/548937",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 07. 2026. у 00:59",
+      "slika": null
+    },
     {
       "naslov": "Osimene, dobio si ljutog megdandžiju: Engleski izgnanik stigao u Kadikoj da vrati davno izgubljenu krunu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/osimene-dobio-si-ljutog-megdandziju-engleski-izgnanik-stigao-u-kadikoj-da-vrati-davno-izgubljenu-krunu/548938",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Gotovo! Muharemović skuplji i od Džeka, ide u Premijer ligu za 40.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gotovo-muharemovic-skuplji-i-od-dzeka-ide-u-premijer-ligu-za-40000000-evra/548932",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 07. 2026. у 22:48",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (utorak, 14. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-14-jul/548865",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 07. 2026. у 20:24",
+      "naslov": "Fudbaleri Španije prvi finalisti Svetskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/266157/fudbaleri-spanije-prvi-finalisti-svetskog-prvenstva/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 07. 2026. у 23:07",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/266146/kilijan-mbape-postao-francuz-sa-najvise-utakmica-na-svetskim-prvenstvima/vest",
       "izvor": "Танјуг",
       "datum": "14. 07. 2026. у 21:01",
-      "slika": null
-    },
-    {
-      "naslov": "Belgijski fudbaler Juri Tilemans novi član Mančester Junajteda",
-      "url": "https://www.tanjug.rs/sport/fudbal/266136/belgijski-fudbaler-juri-tilemans-novi-clan-mancester-junajteda/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 07. 2026. у 19:49",
       "slika": null
     },
     {
