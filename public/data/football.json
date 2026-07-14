@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-14T05:42:45.167401+00:00",
-  "azurirano_sr": "14. 07. 2026. у 07:42",
+  "azurirano": "2026-07-14T07:27:37.338026+00:00",
+  "azurirano_sr": "14. 07. 2026. у 09:27",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Francuske i Španije večeras u Dalasu igraju prvo polufinale Mundijala",
+      "url": "https://www.tanjug.rs/sport/fudbal/265930/fudbaleri-francuske-i-spanije-veceras-u-dalasu-igraju-prvo-polufinale-mundijala/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 07. 2026. у 08:44",
+      "slika": null
+    },
+    {
       "naslov": "Paulo Dibala produžio ugovor sa Romom na još godinu dana",
       "url": "https://www.tanjug.rs/sport/fudbal/265844/paulo-dibala-produzio-ugovor-sa-romom-na-jos-godinu-dana/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/265816/slaven-bilic-novi-selektor-fudbalera-hrvatske/vest",
       "izvor": "Танјуг",
       "datum": "13. 07. 2026. у 14:44",
-      "slika": null
-    },
-    {
-      "naslov": "FK Partizan počeo prodaju sezonskih ulaznica",
-      "url": "https://www.tanjug.rs/sport/fudbal/265740/fk-partizan-poceo-prodaju-sezonskih-ulaznica/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 07. 2026. у 11:50",
       "slika": null
     },
     {
