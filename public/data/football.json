@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-14T15:42:02.964009+00:00",
-  "azurirano_sr": "14. 07. 2026. у 17:42",
+  "azurirano": "2026-07-14T16:49:43.046869+00:00",
+  "azurirano_sr": "14. 07. 2026. у 18:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (utorak, 14. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-14-jul/548865",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 07. 2026. у 20:24",
+      "slika": null
+    },
+    {
+      "naslov": "Stanković pred početak sezone: Katai i Ivanić \"plave krvi\", kao da su sišli sa nekog dvora",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-pred-pocetak-sezone-katai-i-ivanic-plave-krvi-kao-da-su-sisli-sa-nekog-dvora/548918",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 07. 2026. у 20:04",
+      "slika": null
+    },
     {
       "naslov": "Brunčević u Uzbekistanu, društvo mu pravi Tošeski",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bruncevic-u-uzbekistanu-drustvo-mu-pravi-toseski/548910",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Makelele: Embape je Fenomeno svoje generacije! Olise nas vratio u detinjstvo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/makelele-embape-je-fenomeno-svoje-generacije-olise-nas-vratio-u-detinjstvo/548890",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 07. 2026. у 14:46",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (utorak, 14. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-14-jul/548865",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 07. 2026. у 14:14",
+      "naslov": "Stanković: Idemo na sve trofeje, prelazni rok još nije gotov",
+      "url": "https://www.tanjug.rs/sport/fudbal/266116/stankovic-idemo-na-sve-trofeje-prelazni-rok-jos-nije-gotov/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 07. 2026. у 17:55",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Deklan Rajs spreman za polufinale Mundijala protiv Argentine",
-      "url": "https://www.tanjug.rs/sport/fudbal/266017/deklan-rajs-spreman-za-polufinale-mundijala-protiv-argentine/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 07. 2026. у 12:44",
+      "naslov": "Stanković: &quot;Ne krijem se rečenicom da svi igraju fudbal – navijači neka ne brinu&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250235/dejan-stankovic-pred-pocetak-sezone-202627/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 07. 2026. у 17:48",
       "slika": null
     },
     {
-      "naslov": "Predsednik Brazila: &quot;Sramota! Samo jedan igrač se vratio u domovinu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/250218/predsednik-brazila-sramota-samo-jedan-igrac-se-vratio-u-domovinu/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "14. 07. 2026. у 16:49",
-      "slika": null
-    },
-    {
-      "naslov": "Kako je Veljko Paunović otkrio magičnog Olisea?",
-      "url": "https://www.b92.net/sport/fudbal/vesti/250130/veljko-paunovic-o-majklu-oliseu-iz-perioda-u-redingu/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "14. 07. 2026. у 14:12",
+      "naslov": "Neobičan slučaj Lanetovog sina",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250228/neobican-slucaj-lanetovog-sina/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 07. 2026. у 17:34",
       "slika": null
     }
   ]
