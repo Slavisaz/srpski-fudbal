@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-14T20:01:00.439453+00:00",
-  "azurirano_sr": "14. 07. 2026. у 22:01",
+  "azurirano": "2026-07-14T21:04:05.605117+00:00",
+  "azurirano_sr": "14. 07. 2026. у 23:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Osimene, dobio si ljutog megdandžiju: Engleski izgnanik stigao u Kadikoj da vrati davno izgubljenu krunu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/osimene-dobio-si-ljutog-megdandziju-engleski-izgnanik-stigao-u-kadikoj-da-vrati-davno-izgubljenu-krunu/548938",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 07. 2026. у 00:41",
+      "slika": null
+    },
     {
       "naslov": "Surova istina mađarskog fudbala: Bez Fradija koeficijent bi otišao u ambis, Islanđani izbacili Đer",
       "url": "https://www.mozzartsport.com/fudbal/vesti/surova-istina-maarskog-fudbala-bez-fradija-koeficijent-bi-otisao-u-ambis-islanani-izbacili-er/548935",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Stanković pred početak sezone: Katai i Ivanić \"plave krvi\", kao da su sišli sa nekog dvora",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-pred-pocetak-sezone-katai-i-ivanic-plave-krvi-kao-da-su-sisli-sa-nekog-dvora/548918",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 07. 2026. у 20:04",
+      "naslov": "Fudbaleri banjalučkog Borca eliminisani iz kvalifikacija za Ligu šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/266149/fudbaleri-banjaluckog-borca-eliminisani-iz-kvalifikacija-za-ligu-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 07. 2026. у 21:24",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/266136/belgijski-fudbaler-juri-tilemans-novi-clan-mancester-junajteda/vest",
       "izvor": "Танјуг",
       "datum": "14. 07. 2026. у 19:49",
-      "slika": null
-    },
-    {
-      "naslov": "FIFA će posle Svetskog prvenstva kazniti igrače i trenere zbog kritika sudija",
-      "url": "https://www.tanjug.rs/sport/fudbal/266132/fifa-ce-posle-svetskog-prvenstva-kazniti-igrace-i-trenere-zbog-kritika-sudija/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 07. 2026. у 19:20",
       "slika": null
     },
     {
