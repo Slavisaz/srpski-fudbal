@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-14T14:10:05.433634+00:00",
-  "azurirano_sr": "14. 07. 2026. у 16:10",
+  "azurirano": "2026-07-14T15:42:02.964009+00:00",
+  "azurirano_sr": "14. 07. 2026. у 17:42",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Brunčević u Uzbekistanu, društvo mu pravi Tošeski",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bruncevic-u-uzbekistanu-drustvo-mu-pravi-toseski/548910",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 07. 2026. у 18:22",
+      "slika": null
+    },
     {
       "naslov": "Tamna strana fudbala: Mitovi i istine o legendarnoj tuči engleskih huligana i argentinskih bravasa",
       "url": "https://www.mozzartsport.com/fudbal/vesti/tamna-strana-fudbala-mitovi-i-istine-o-legendarnoj-tuci-engleskih-huligana-i-argentinskih-bravasa/548904",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "ZVANIČNO: Luka Vušković drugi najskuplji Hrvat u istoriji fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-luka-vuskovic-drugi-najskuplji-hrvat-u-istoriji-fudbala/548879",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 07. 2026. у 13:28",
+      "naslov": "Holandski fudbaler Danilo Duhi potpisao za Lacio",
+      "url": "https://www.tanjug.rs/sport/fudbal/266106/holandski-fudbaler-danilo-duhi-potpisao-za-lacio/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 07. 2026. у 17:16",
+      "slika": null
+    },
+    {
+      "naslov": "Španski fudbaler Ander Erera vratio se u domovinu i potpisao za trećeligaša Saragosu",
+      "url": "https://www.tanjug.rs/sport/fudbal/266105/spanski-fudbaler-ander-erera-vratio-se-u-domovinu-i-potpisao-za-treceligasa-saragosu/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 07. 2026. у 17:07",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Amerikanac Ismail Elfat sudija polufinala Svetskog prvenstva između fudbalera Engleske i Argentine",
-      "url": "https://www.tanjug.rs/sport/fudbal/265988/amerikanac-ismail-elfat-sudija-polufinala-svetskog-prvenstva-izmedu-fudbalera-engleske-i-argentine/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 07. 2026. у 11:26",
+      "naslov": "Predsednik Brazila: &quot;Sramota! Samo jedan igrač se vratio u domovinu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/250218/predsednik-brazila-sramota-samo-jedan-igrac-se-vratio-u-domovinu/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "14. 07. 2026. у 16:49",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Francuske i Španije večeras u Dalasu igraju prvo polufinale Mundijala",
-      "url": "https://www.tanjug.rs/sport/fudbal/265930/fudbaleri-francuske-i-spanije-veceras-u-dalasu-igraju-prvo-polufinale-mundijala/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 07. 2026. у 08:44",
-      "slika": null
-    },
-    {
-      "naslov": "Železničar ima novog golmana – sebe poredi sa Nojerom",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250115/zeleznicar-promovisao-novog-golmana-jovan-miladinovic-u-pancevu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 07. 2026. у 12:10",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Zvezda je za Premijer ligu, Partizan i Vojvodina za donji deo Čempionšipa&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250013/izjava-silvestera-dzaspera-o-crvenoj-zvezdi-partizanu-i-vojvodini/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 07. 2026. у 22:45",
+      "naslov": "Kako je Veljko Paunović otkrio magičnog Olisea?",
+      "url": "https://www.b92.net/sport/fudbal/vesti/250130/veljko-paunovic-o-majklu-oliseu-iz-perioda-u-redingu/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "14. 07. 2026. у 14:12",
       "slika": null
     }
   ]
