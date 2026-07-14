@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-14T12:11:19.825298+00:00",
-  "azurirano_sr": "14. 07. 2026. у 14:11",
+  "azurirano": "2026-07-14T14:10:05.433634+00:00",
+  "azurirano_sr": "14. 07. 2026. у 16:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Tamna strana fudbala: Mitovi i istine o legendarnoj tuči engleskih huligana i argentinskih bravasa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tamna-strana-fudbala-mitovi-i-istine-o-legendarnoj-tuci-engleskih-huligana-i-argentinskih-bravasa/548904",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 07. 2026. у 17:31",
+      "slika": null
+    },
     {
       "naslov": "Makelele: Embape je Fenomeno svoje generacije! Olise nas vratio u detinjstvo",
       "url": "https://www.mozzartsport.com/fudbal/vesti/makelele-embape-je-fenomeno-svoje-generacije-olise-nas-vratio-u-detinjstvo/548890",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbalski pijanista došao da svira lake note u Brižu: Zomer dobio trogodišnji ugovor",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalski-pijanista-dosao-da-svira-lake-note-u-brizu-zomer-dobio-trogodisnji-ugovor/548869",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 07. 2026. у 12:52",
+      "naslov": "Švajcarski golman Jan Zomer potpisao za Briž",
+      "url": "https://www.tanjug.rs/sport/fudbal/266055/svajcarski-golman-jan-zomer-potpisao-za-briz/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 07. 2026. у 14:03",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/265930/fudbaleri-francuske-i-spanije-veceras-u-dalasu-igraju-prvo-polufinale-mundijala/vest",
       "izvor": "Танјуг",
       "datum": "14. 07. 2026. у 08:44",
-      "slika": null
-    },
-    {
-      "naslov": "Paulo Dibala produžio ugovor sa Romom na još godinu dana",
-      "url": "https://www.tanjug.rs/sport/fudbal/265844/paulo-dibala-produzio-ugovor-sa-romom-na-jos-godinu-dana/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 07. 2026. у 15:42",
       "slika": null
     },
     {
