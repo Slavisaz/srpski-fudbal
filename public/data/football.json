@@ -1,11 +1,18 @@
 {
-  "azurirano": "2026-07-15T14:15:27.963291+00:00",
-  "azurirano_sr": "15. 07. 2026. у 16:15",
+  "azurirano": "2026-07-15T15:51:20.627184+00:00",
+  "azurirano_sr": "15. 07. 2026. у 17:51",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Buongorno Italia: Pobuna protiv Pirla",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/buongorno-italia-pobuna-protiv-pirla/548982",
+      "naslov": "TRANSFERI UŽIVO (sreda, 15. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-15-jul/548952",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 07. 2026. у 18:17",
+      "slika": null
+    },
+    {
+      "naslov": "Buongiorno Italia: Pobuna protiv Pirla",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-pobuna-protiv-pirla/548982",
       "izvor": "Мозарт Спорт",
       "datum": "15. 07. 2026. у 15:43",
       "slika": null
@@ -15,13 +22,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/decic-mora-da-pobedi-letonce-stimulans-za-crnogorski-fudbal-ili-veliki-neuspeh/548978",
       "izvor": "Мозарт Спорт",
       "datum": "15. 07. 2026. у 15:08",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (sreda, 15. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-15-jul/548952",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 07. 2026. у 14:52",
       "slika": null
     },
     {
