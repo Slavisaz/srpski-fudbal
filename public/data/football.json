@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-15T11:08:55.966974+00:00",
-  "azurirano_sr": "15. 07. 2026. у 13:08",
+  "azurirano": "2026-07-15T12:23:12.459787+00:00",
+  "azurirano_sr": "15. 07. 2026. у 14:23",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Buongorno Italia: Pobuna protiv Pirla",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/buongorno-italia-pobuna-protiv-pirla/548982",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 07. 2026. у 15:43",
+      "slika": null
+    },
+    {
+      "naslov": "Dečić mora da pobedi Letonce: Stimulans za crnogorski fudbal ili veliki neuspeh",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/decic-mora-da-pobedi-letonce-stimulans-za-crnogorski-fudbal-ili-veliki-neuspeh/548978",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 07. 2026. у 15:08",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (sreda, 15. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-15-jul/548952",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 07. 2026. у 14:52",
+      "slika": null
+    },
     {
       "naslov": "Peva Lester, peva Sardinija: Hari Vinks ponovo u Seriji A",
       "url": "https://www.mozzartsport.com/fudbal/vesti/peva-lester-peva-sardinija-hari-vinks-ponovo-u-seriji-a/548976",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "SPECIJAL! Engleska - Argentina: Mesi strelac i asistent - 11,0, Kejn dva puta u metu važi ista kvota",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/specijal-engleska-argentina-mesi-strelac-i-asistent-110-kejn-dva-puta-u-metu-vazi-ista-kvota/548974",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 07. 2026. у 14:42",
-      "slika": null
-    },
-    {
-      "naslov": "Marko Neđić postavio dva cilja: Napadački fudbal i plasman u plej-of",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/marko-neic-postavio-dva-cilja-napadacki-fudbal-i-plasman-u-plejof/548963",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 07. 2026. у 14:33",
-      "slika": null
-    },
-    {
-      "naslov": "Zvanično: Vasović potpisao za Briž, transfer ide i do 8.500.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-vasovic-potpisao-za-briz-transfer-ide-i-do-8500000-evra/548961",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 07. 2026. у 12:42",
+      "naslov": "FK Crvena zvezda: Fan zona za najmlađe navijače pred utakmicu protiv Mačve",
+      "url": "https://www.tanjug.rs/sport/fudbal/266283/fk-crvena-zvezda-fan-zona-za-najmlade-navijace-pred-utakmicu-protiv-macve/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 07. 2026. у 13:25",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/266219/pedro-poro-ovo-je-ostvarenje-sna-imali-smo-stav-od-pocetka-do-kraja/vest",
       "izvor": "Танјуг",
       "datum": "15. 07. 2026. у 10:46",
-      "slika": null
-    },
-    {
-      "naslov": "Didije Dešan: Razočaranje je veliko, Španija je pokazala nešto posebno",
-      "url": "https://www.tanjug.rs/sport/fudbal/266211/didije-desan-razocaranje-je-veliko-spanija-je-pokazala-nesto-posebno/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 07. 2026. у 10:26",
       "slika": null
     },
     {
