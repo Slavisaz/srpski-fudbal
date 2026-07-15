@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-15T09:29:53.445734+00:00",
-  "azurirano_sr": "15. 07. 2026. у 11:29",
+  "azurirano": "2026-07-15T11:08:55.966974+00:00",
+  "azurirano_sr": "15. 07. 2026. у 13:08",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Peva Lester, peva Sardinija: Hari Vinks ponovo u Seriji A",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/peva-lester-peva-sardinija-hari-vinks-ponovo-u-seriji-a/548976",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 07. 2026. у 14:46",
+      "slika": null
+    },
+    {
+      "naslov": "SPECIJAL! Engleska - Argentina: Mesi strelac i asistent - 11,0, Kejn dva puta u metu važi ista kvota",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/specijal-engleska-argentina-mesi-strelac-i-asistent-110-kejn-dva-puta-u-metu-vazi-ista-kvota/548974",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 07. 2026. у 14:42",
+      "slika": null
+    },
+    {
+      "naslov": "Marko Neđić postavio dva cilja: Napadački fudbal i plasman u plej-of",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/marko-neic-postavio-dva-cilja-napadacki-fudbal-i-plasman-u-plejof/548963",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 07. 2026. у 14:33",
+      "slika": null
+    },
     {
       "naslov": "Zvanično: Vasović potpisao za Briž, transfer ide i do 8.500.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-vasovic-potpisao-za-briz-transfer-ide-i-do-8500000-evra/548961",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Mozzart Bet Prva liga Srbije u Humskoj",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mozzart-bet-prva-liga-srbije-u-humskoj/548958",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 07. 2026. у 12:37",
+      "naslov": "Engleski fudbaler Mejson Grinvud prešao u Fenerbahče",
+      "url": "https://www.tanjug.rs/sport/fudbal/266268/engleski-fudbaler-mejson-grinvud-presao-u-fenerbahce/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 07. 2026. у 12:40",
       "slika": null
     },
     {
-      "naslov": "Zvezda padalica i mala trojka Embape: Fudbal nikoga ne čeka... Kao da smo igrali „dva na tri“",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-padalica-i-mala-trojka-embape-fudbal-nikoga-ne-ceka-kao-da-smo-igrali-dva-na-tri/548956",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 07. 2026. у 12:13",
-      "slika": null
-    },
-    {
-      "naslov": "Sportski direktor RB Lajpciga: Imamo Maksimovića, ne dovodimo zamenu za Baumgartnera",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sportski-direktor-rb-lajpciga-imamo-maksimovica-ne-dovodimo-zamenu-za-baumgartnera/548947",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 07. 2026. у 11:09",
+      "naslov": "Mbape: Preuzimam odgovornost, bili smo ispod našeg nivoa",
+      "url": "https://www.tanjug.rs/sport/fudbal/266252/mbape-preuzimam-odgovornost-bili-smo-ispod-naseg-nivoa/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 07. 2026. у 12:11",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/266211/didije-desan-razocaranje-je-veliko-spanija-je-pokazala-nesto-posebno/vest",
       "izvor": "Танјуг",
       "datum": "15. 07. 2026. у 10:26",
-      "slika": null
-    },
-    {
-      "naslov": "De la Fuente: Osećam olakšanje, bilo je uživanje gledati šta momci rade",
-      "url": "https://www.tanjug.rs/sport/fudbal/266204/de-la-fuente-osecam-olaksanje-bilo-je-uzivanje-gledati-sta-momci-rade/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 07. 2026. у 10:05",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Argentine i Engleske večeras igraju drugo polufinale Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/266195/fudbaleri-argentine-i-engleske-veceras-igraju-drugo-polufinale-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 07. 2026. у 09:35",
       "slika": null
     },
     {
