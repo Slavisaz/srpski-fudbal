@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-15T18:05:12.889410+00:00",
-  "azurirano_sr": "15. 07. 2026. у 20:05",
+  "azurirano": "2026-07-15T19:32:15.431774+00:00",
+  "azurirano_sr": "15. 07. 2026. у 21:32",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "UŽIVO: Engleska - Argentina 0:0; pravi fudbalski rat, varniči na sve strane",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-engleska-argentina-00-pravi-fudbalski-rat-varnici-na-sve-strane/549002",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 07. 2026. у 23:05",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 15. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-15-jul/548952",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Dečić mora da pobedi Letonce: Stimulans za crnogorski fudbal ili veliki neuspeh",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/decic-mora-da-pobedi-letonce-stimulans-za-crnogorski-fudbal-ili-veliki-neuspeh/548978",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 07. 2026. у 15:08",
+      "naslov": "Belgijski fudbaler Leandro Trosar novi član Bešiktaša",
+      "url": "https://www.tanjug.rs/sport/fudbal/266377/belgijski-fudbaler-leandro-trosar-novi-clan-besiktasa/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 07. 2026. у 20:11",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "FK Crvena zvezda: Fan zona za najmlađe navijače pred utakmicu protiv Mačve",
-      "url": "https://www.tanjug.rs/sport/fudbal/266283/fk-crvena-zvezda-fan-zona-za-najmlade-navijace-pred-utakmicu-protiv-macve/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 07. 2026. у 13:25",
+      "naslov": "Zvezda sprema posebnu fan zonu na otvaranju prvenstva",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250469/crvena-zvezda-sprema-fan-zonu-za-najmladje-navijace/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 07. 2026. у 21:17",
       "slika": null
     },
     {
-      "naslov": "Partizan prodao Mujakića i oslobodio se ogromne plate",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250479/partizan-prodao-nihada-mujakica/vest",
+      "naslov": "Zemun dovodi napadača pred Partizan",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250594/marko-saric-dolazi-u-zemun/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "15. 07. 2026. у 14:50",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan odahnuo: Crno-beli prošli UEFA monitoring",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250477/partizan-uplatio-na-racun-uefa-za-monitoring/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 07. 2026. у 14:24",
+      "datum": "15. 07. 2026. у 20:25",
       "slika": null
     }
   ]
