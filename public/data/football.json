@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-15T12:23:12.459787+00:00",
-  "azurirano_sr": "15. 07. 2026. у 14:23",
+  "azurirano": "2026-07-15T14:15:27.963291+00:00",
+  "azurirano_sr": "15. 07. 2026. у 16:15",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Toma Menije novi fudbaler Sanderlenda",
+      "url": "https://www.tanjug.rs/sport/fudbal/266320/toma-menije-novi-fudbaler-sanderlenda/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 07. 2026. у 15:28",
+      "slika": null
+    },
+    {
       "naslov": "FK Crvena zvezda: Fan zona za najmlađe navijače pred utakmicu protiv Mačve",
       "url": "https://www.tanjug.rs/sport/fudbal/266283/fk-crvena-zvezda-fan-zona-za-najmlade-navijace-pred-utakmicu-protiv-macve/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Pedro Poro: Ovo je ostvarenje sna, imali smo stav od početka do kraja",
-      "url": "https://www.tanjug.rs/sport/fudbal/266219/pedro-poro-ovo-je-ostvarenje-sna-imali-smo-stav-od-pocetka-do-kraja/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 07. 2026. у 10:46",
+      "naslov": "Partizan prodao Mujakića i oslobodio se ogromne plate",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250479/partizan-prodao-nihada-mujakica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 07. 2026. у 14:50",
       "slika": null
     },
     {
-      "naslov": "Teleoptik domaćin u Humskoj",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250317/teleoptik-domacin-na-stadionu-partizana/vest",
+      "naslov": "Partizan odahnuo: Crno-beli prošli UEFA monitoring",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250477/partizan-uplatio-na-racun-uefa-za-monitoring/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "15. 07. 2026. у 09:15",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: &quot;Ne krijem se rečenicom da svi igraju fudbal – navijači neka ne brinu&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250235/dejan-stankovic-pred-pocetak-sezone-202627/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 07. 2026. у 17:48",
+      "datum": "15. 07. 2026. у 14:24",
       "slika": null
     }
   ]
