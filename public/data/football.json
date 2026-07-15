@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-07-15T16:58:28.757055+00:00",
-  "azurirano_sr": "15. 07. 2026. у 18:58",
+  "azurirano": "2026-07-15T18:05:12.889410+00:00",
+  "azurirano_sr": "15. 07. 2026. у 20:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (sreda, 15. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-15-jul/548952",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 07. 2026. у 21:01",
+      "slika": null
+    },
     {
       "naslov": "Čista glava, mir sa sobom i imunost na Milan koji mu nije verovao: Komo kao jedini pravi izbor",
       "url": "https://www.mozzartsport.com/fudbal/vesti/cista-glava-mir-sa-sobom-i-imunost-na-milan-koji-mu-nije-verovao-komo-kao-jedini-pravi-izbor/548997",
       "izvor": "Мозарт Спорт",
       "datum": "15. 07. 2026. у 20:06",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (sreda, 15. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-15-jul/548952",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 07. 2026. у 18:17",
       "slika": null
     },
     {
@@ -29,6 +29,13 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/decic-mora-da-pobedi-letonce-stimulans-za-crnogorski-fudbal-ili-veliki-neuspeh/548978",
       "izvor": "Мозарт Спорт",
       "datum": "15. 07. 2026. у 15:08",
+      "slika": null
+    },
+    {
+      "naslov": "Tanjga: Da nismo optimisti ne bismo ni dolazili u Budimpeštu",
+      "url": "https://www.tanjug.rs/sport/fudbal/266362/tanjga-da-nismo-optimisti-ne-bismo-ni-dolazili-u-budimpestu/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 07. 2026. у 18:31",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/266283/fk-crvena-zvezda-fan-zona-za-najmlade-navijace-pred-utakmicu-protiv-macve/vest",
       "izvor": "Танјуг",
       "datum": "15. 07. 2026. у 13:25",
-      "slika": null
-    },
-    {
-      "naslov": "Engleski fudbaler Mejson Grinvud prešao u Fenerbahče",
-      "url": "https://www.tanjug.rs/sport/fudbal/266268/engleski-fudbaler-mejson-grinvud-presao-u-fenerbahce/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 07. 2026. у 12:40",
       "slika": null
     },
     {
