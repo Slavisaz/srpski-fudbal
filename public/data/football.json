@@ -1,15 +1,8 @@
 {
-  "azurirano": "2026-07-15T19:32:15.431774+00:00",
-  "azurirano_sr": "15. 07. 2026. у 21:32",
+  "azurirano": "2026-07-15T20:35:51.338033+00:00",
+  "azurirano_sr": "15. 07. 2026. у 22:35",
   "vesti_24h": 10,
   "vesti": [
-    {
-      "naslov": "UŽIVO: Engleska - Argentina 0:0; pravi fudbalski rat, varniči na sve strane",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-engleska-argentina-00-pravi-fudbalski-rat-varnici-na-sve-strane/549002",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 07. 2026. у 23:05",
-      "slika": null
-    },
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 15. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-15-jul/548952",
@@ -29,6 +22,13 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-pobuna-protiv-pirla/548982",
       "izvor": "Мозарт Спорт",
       "datum": "15. 07. 2026. у 15:43",
+      "slika": null
+    },
+    {
+      "naslov": "Dečić mora da pobedi Letonce: Stimulans za crnogorski fudbal ili veliki neuspeh",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/decic-mora-da-pobedi-letonce-stimulans-za-crnogorski-fudbal-ili-veliki-neuspeh/548978",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 07. 2026. у 15:08",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Zvezda sprema posebnu fan zonu na otvaranju prvenstva",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250469/crvena-zvezda-sprema-fan-zonu-za-najmladje-navijace/vest",
+      "naslov": "Urošević ponovo u borbi za opstanak?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250519/slobodan-urosevic-blizu-kazahstana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "15. 07. 2026. у 21:17",
+      "datum": "15. 07. 2026. у 22:28",
       "slika": null
     },
     {
-      "naslov": "Zemun dovodi napadača pred Partizan",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250594/marko-saric-dolazi-u-zemun/vest",
+      "naslov": "Zvezda sprema posebnu fan zonu na otvaranju prvenstva",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250469/crvena-zvezda-sprema-fan-zonu-za-najmladje-navijace/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "15. 07. 2026. у 20:25",
+      "datum": "15. 07. 2026. у 21:46",
       "slika": null
     }
   ]
