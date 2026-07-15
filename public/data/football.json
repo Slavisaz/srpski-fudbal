@@ -1,11 +1,18 @@
 {
-  "azurirano": "2026-07-15T21:32:50.315525+00:00",
-  "azurirano_sr": "15. 07. 2026. у 23:32",
+  "azurirano": "2026-07-15T22:32:18.135265+00:00",
+  "azurirano_sr": "16. 07. 2026. у 00:32",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "TRANSFERI UŽIVO (sreda, 15. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-15-jul/548952",
+      "naslov": "Još jedno tužno veče za crnogorski fudbal...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedno-tuzno-vece-za-crnogorski-fudbal/549010",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 07. 2026. у 01:12",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI (sreda, 15. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-sreda-15-jul/548952",
       "izvor": "Мозарт Спорт",
       "datum": "15. 07. 2026. у 21:01",
       "slika": null
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-pobuna-protiv-pirla/548982",
       "izvor": "Мозарт Спорт",
       "datum": "15. 07. 2026. у 15:43",
-      "slika": null
-    },
-    {
-      "naslov": "Dečić mora da pobedi Letonce: Stimulans za crnogorski fudbal ili veliki neuspeh",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/decic-mora-da-pobedi-letonce-stimulans-za-crnogorski-fudbal-ili-veliki-neuspeh/548978",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 07. 2026. у 15:08",
       "slika": null
     },
     {
