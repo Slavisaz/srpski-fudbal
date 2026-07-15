@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-15T07:31:27.202699+00:00",
-  "azurirano_sr": "15. 07. 2026. у 09:31",
+  "azurirano": "2026-07-15T09:29:53.445734+00:00",
+  "azurirano_sr": "15. 07. 2026. у 11:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvanično: Vasović potpisao za Briž, transfer ide i do 8.500.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-vasovic-potpisao-za-briz-transfer-ide-i-do-8500000-evra/548961",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 07. 2026. у 12:42",
+      "slika": null
+    },
+    {
+      "naslov": "Mozzart Bet Prva liga Srbije u Humskoj",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mozzart-bet-prva-liga-srbije-u-humskoj/548958",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 07. 2026. у 12:37",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezda padalica i mala trojka Embape: Fudbal nikoga ne čeka... Kao da smo igrali „dva na tri“",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-padalica-i-mala-trojka-embape-fudbal-nikoga-ne-ceka-kao-da-smo-igrali-dva-na-tri/548956",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 07. 2026. у 12:13",
+      "slika": null
+    },
     {
       "naslov": "Sportski direktor RB Lajpciga: Imamo Maksimovića, ne dovodimo zamenu za Baumgartnera",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sportski-direktor-rb-lajpciga-imamo-maksimovica-ne-dovodimo-zamenu-za-baumgartnera/548947",
@@ -11,52 +32,31 @@
       "slika": null
     },
     {
-      "naslov": "PRELAZZI: Oceubistvo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-oceubistvo/548948",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 07. 2026. у 11:04",
-      "slika": null
-    },
-    {
-      "naslov": "De la Fuente ponosan: Francuzi videli kako igraju najbolji na svetu; Vratili smo duh 2010. godine",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/de-la-fuente-ponosan-francuzi-videli-kako-igraju-najbolji-na-svetu-vratili-smo-duh-2010-godine/548944",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 07. 2026. у 10:56",
-      "slika": null
-    },
-    {
-      "naslov": "Samouvereni Rade Koković: Bolji smo nego pre godinu dana, niko nas više ne gleda kao autsajdere",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/samouvereni-rade-kokovic-bolji-smo-nego-pre-godinu-dana-niko-nas-vise-ne-gleda-kao-autsajdere/548941",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 07. 2026. у 10:51",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Španije prvi finalisti Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/266157/fudbaleri-spanije-prvi-finalisti-svetskog-prvenstva/vest",
+      "naslov": "Pedro Poro: Ovo je ostvarenje sna, imali smo stav od početka do kraja",
+      "url": "https://www.tanjug.rs/sport/fudbal/266219/pedro-poro-ovo-je-ostvarenje-sna-imali-smo-stav-od-pocetka-do-kraja/vest",
       "izvor": "Танјуг",
-      "datum": "14. 07. 2026. у 23:07",
+      "datum": "15. 07. 2026. у 10:46",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri banjalučkog Borca eliminisani iz kvalifikacija za Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/266149/fudbaleri-banjaluckog-borca-eliminisani-iz-kvalifikacija-za-ligu-sampiona/vest",
+      "naslov": "Didije Dešan: Razočaranje je veliko, Španija je pokazala nešto posebno",
+      "url": "https://www.tanjug.rs/sport/fudbal/266211/didije-desan-razocaranje-je-veliko-spanija-je-pokazala-nesto-posebno/vest",
       "izvor": "Танјуг",
-      "datum": "14. 07. 2026. у 21:24",
+      "datum": "15. 07. 2026. у 10:26",
       "slika": null
     },
     {
-      "naslov": "Selektor fudbalera Francuske Didije Dešan postao selektor sa najviše utakmica na SP",
-      "url": "https://www.tanjug.rs/sport/fudbal/266148/selektor-fudbalera-francuske-didije-desan-postao-selektor-sa-najvise-utakmica-na-sp/vest",
+      "naslov": "De la Fuente: Osećam olakšanje, bilo je uživanje gledati šta momci rade",
+      "url": "https://www.tanjug.rs/sport/fudbal/266204/de-la-fuente-osecam-olaksanje-bilo-je-uzivanje-gledati-sta-momci-rade/vest",
       "izvor": "Танјуг",
-      "datum": "14. 07. 2026. у 21:11",
+      "datum": "15. 07. 2026. у 10:05",
       "slika": null
     },
     {
-      "naslov": "Kilijan Mbape postao Francuz sa najviše utakmica na Svetskim prvenstvima",
-      "url": "https://www.tanjug.rs/sport/fudbal/266146/kilijan-mbape-postao-francuz-sa-najvise-utakmica-na-svetskim-prvenstvima/vest",
+      "naslov": "Fudbaleri Argentine i Engleske večeras igraju drugo polufinale Svetskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/266195/fudbaleri-argentine-i-engleske-veceras-igraju-drugo-polufinale-svetskog-prvenstva/vest",
       "izvor": "Танјуг",
-      "datum": "14. 07. 2026. у 21:01",
+      "datum": "15. 07. 2026. у 09:35",
       "slika": null
     },
     {
