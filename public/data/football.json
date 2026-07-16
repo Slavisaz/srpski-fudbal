@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-16T08:40:04.584388+00:00",
-  "azurirano_sr": "16. 07. 2026. у 10:40",
+  "azurirano": "2026-07-16T10:32:33.353552+00:00",
+  "azurirano_sr": "16. 07. 2026. у 12:32",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Roma ruši klupski rekord za Samervila: Limit na zaradu ostaje, imao bi platu kao Malen",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/roma-rusi-klupski-rekord-za-samervila-limit-na-zaradu-ostaje-imao-bi-platu-kao-malen/549047",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 07. 2026. у 14:15",
+      "slika": null
+    },
     {
       "naslov": "Oni su, pre svega, navijači Argentine i telohranitelji Lionela Mesija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/oni-su-pre-svega-navijaci-argentine-i-telohranitelji-lionela-mesija/549030",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Barrio Belgrado: Argentinska tvrđava „Kod konja”",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/barrio-belgrado-argentinska-tvrava-kod-konja/549026",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 07. 2026. у 11:03",
+      "naslov": "Jasin Sbai novi fudbaler Železničara iz Pančeva",
+      "url": "https://www.tanjug.rs/sport/fudbal/266466/jasin-sbai-novi-fudbaler-zeleznicara-iz-panceva/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 07. 2026. у 11:53",
+      "slika": null
+    },
+    {
+      "naslov": "Tuhel: Razočarani smo jer smo bili blizu, posle gola nismo zadržali nivo igre",
+      "url": "https://www.tanjug.rs/sport/fudbal/266451/tuhel-razocarani-smo-jer-smo-bili-blizu-posle-gola-nismo-zadrzali-nivo-igre/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 07. 2026. у 11:10",
+      "slika": null
+    },
+    {
+      "naslov": "Mesi: Do kraja nismo prestali da verujemo, ovo nije samo fudbalska pobeda",
+      "url": "https://www.tanjug.rs/sport/fudbal/266447/mesi-do-kraja-nismo-prestali-da-verujemo-ovo-nije-samo-fudbalska-pobeda/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 07. 2026. у 10:45",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/266430/fudbaleri-vojvodine-veceras-gostuju-ferencvarosu-u-revans-mecu-kvalifikacija-za-ligu-evrope/vest",
       "izvor": "Танјуг",
       "datum": "16. 07. 2026. у 09:46",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Argentine pobedili Englesku i plasirali se u sedmo finale Mondijala",
-      "url": "https://www.tanjug.rs/sport/fudbal/266418/fudbaleri-argentine-pobedili-englesku-i-plasirali-se-u-sedmo-finale-mondijala/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 07. 2026. у 23:09",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Zvezde saznali imena potencijalnih rivala u trećem kolu kvalifikacija za Ligu Šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/266388/fudbaleri-zvezde-saznali-imena-potencijalnih-rivala-u-trecem-kolu-kvalifikacija-za-ligu-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 07. 2026. у 22:17",
-      "slika": null
-    },
-    {
-      "naslov": "Belgijski fudbaler Leandro Trosar novi član Bešiktaša",
-      "url": "https://www.tanjug.rs/sport/fudbal/266377/belgijski-fudbaler-leandro-trosar-novi-clan-besiktasa/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 07. 2026. у 20:11",
       "slika": null
     },
     {
