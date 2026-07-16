@@ -1,11 +1,11 @@
 {
-  "azurirano": "2026-07-16T17:57:09.431287+00:00",
-  "azurirano_sr": "16. 07. 2026. у 19:57",
+  "azurirano": "2026-07-16T19:01:41.774620+00:00",
+  "azurirano_sr": "16. 07. 2026. у 21:01",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Puca od velikana, punih stadiona, liga bez favorita i u rangu sa MLS-om i Argentinom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/puca-od-velikana-punih-stadiona-liga-bez-favorita-i-u-rangu-sa-mlsom-i-argentinom/549054",
+      "naslov": "Puca od velikana i punih stadiona: Liga bez favorita i u rangu sa MLS-om i Argentinom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/puca-od-velikana-i-punih-stadiona-liga-bez-favorita-i-u-rangu-sa-mlsom-i-argentinom/549054",
       "izvor": "Мозарт Спорт",
       "datum": "16. 07. 2026. у 21:27",
       "slika": null
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Slavoljub Đorđević ponovo u Crvenoj zvezdi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250890/crvena-zvezda-imenovala-novog-glavnog-trenera-omladinske-skole/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "16. 07. 2026. у 20:40",
+      "slika": null
+    },
+    {
       "naslov": "Stanković: &quot;Nema više &#039;spremni smo ili nismo spremni&#039;&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250874/dejan-stankovic-izjava-pred-pocetak-sls-202627/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "16. 07. 2026. у 19:48",
-      "slika": null
-    },
-    {
-      "naslov": "Železničar potpisao levog beka: &quot;Idol mi je Mesi, a volim Nuna Mendeša&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250762/zeleznicar-potpisao-levog-beka-pred-bragu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 07. 2026. у 15:05",
       "slika": null
     }
   ]
