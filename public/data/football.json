@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-07-16T06:28:34.677161+00:00",
-  "azurirano_sr": "16. 07. 2026. у 08:28",
+  "azurirano": "2026-07-16T08:40:04.584388+00:00",
+  "azurirano_sr": "16. 07. 2026. у 10:40",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Partizan i Rendžers se dogovorili: Za Dragojevića 5.500.000 i 10 odsto",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/partizan-i-rendzers-se-dogovorili-za-dragojevica-5500000-i-10-odsto/549020",
+      "naslov": "Oni su, pre svega, navijači Argentine i telohranitelji Lionela Mesija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/oni-su-pre-svega-navijaci-argentine-i-telohranitelji-lionela-mesija/549030",
       "izvor": "Мозарт Спорт",
-      "datum": "16. 07. 2026. у 03:34",
+      "datum": "16. 07. 2026. у 11:54",
       "slika": null
     },
     {
-      "naslov": "Lautaro predosetio gol odluke: Kunem se, rekao sam Aleksisu i Fakuu da će biti ovako",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lautaro-predosetio-gol-odluke-kunem-se-rekao-sam-aleksisu-i-fakuu-da-ce-biti-ovako/549018",
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 16. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-16-jul/549031",
       "izvor": "Мозарт Спорт",
-      "datum": "16. 07. 2026. у 02:57",
+      "datum": "16. 07. 2026. у 11:49",
       "slika": null
     },
     {
-      "naslov": "Još jedno tužno veče za crnogorski fudbal...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedno-tuzno-vece-za-crnogorski-fudbal/549010",
+      "naslov": "Jovan Damjanović: Debar nije bljesnuo samo protiv Zvezde, biće teško zameniti Balšu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jovan-damjanovic-debar-nije-bljesnuo-samo-protiv-zvezde-bice-tesko-zameniti-balsu/549019",
       "izvor": "Мозарт Спорт",
-      "datum": "16. 07. 2026. у 01:12",
+      "datum": "16. 07. 2026. у 11:07",
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (sreda, 15. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-sreda-15-jul/548952",
+      "naslov": "Barrio Belgrado: Argentinska tvrđava „Kod konja”",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/barrio-belgrado-argentinska-tvrava-kod-konja/549026",
       "izvor": "Мозарт Спорт",
-      "datum": "15. 07. 2026. у 21:01",
+      "datum": "16. 07. 2026. у 11:03",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Vojvodine večeras gostuju Ferencvarošu u revanš meču kvalifikacija za Ligu Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/266430/fudbaleri-vojvodine-veceras-gostuju-ferencvarosu-u-revans-mecu-kvalifikacija-za-ligu-evrope/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 07. 2026. у 09:46",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Argentine pobedili Englesku i plasirali se u sedmo finale Mondijala",
+      "url": "https://www.tanjug.rs/sport/fudbal/266418/fudbaleri-argentine-pobedili-englesku-i-plasirali-se-u-sedmo-finale-mondijala/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 07. 2026. у 23:09",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Tanjga: Da nismo optimisti ne bismo ni dolazili u Budimpeštu",
-      "url": "https://www.tanjug.rs/sport/fudbal/266362/tanjga-da-nismo-optimisti-ne-bismo-ni-dolazili-u-budimpestu/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 07. 2026. у 18:31",
-      "slika": null
-    },
-    {
-      "naslov": "Italijanski fudbaler Matija Liberali potpisao za Komo",
-      "url": "https://www.tanjug.rs/sport/fudbal/266360/italijanski-fudbaler-matija-liberali-potpisao-za-komo/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 07. 2026. у 17:54",
+      "naslov": "Partizan prodaje kapitena – poznati detalji",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250653/vanja-dragojevic-ide-u-rendzers/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "16. 07. 2026. у 09:19",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250519/slobodan-urosevic-blizu-kazahstana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "15. 07. 2026. у 22:28",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda sprema posebnu fan zonu na otvaranju prvenstva",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250469/crvena-zvezda-sprema-fan-zonu-za-najmladje-navijace/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 07. 2026. у 21:46",
       "slika": null
     }
   ]
