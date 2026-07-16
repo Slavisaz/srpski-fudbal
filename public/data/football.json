@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-16T12:03:38.193961+00:00",
-  "azurirano_sr": "16. 07. 2026. у 14:03",
+  "azurirano": "2026-07-16T14:13:24.296311+00:00",
+  "azurirano_sr": "16. 07. 2026. у 16:13",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Umesto Leandra Trosara: Hristos Colis najskuplji Grk, Arsenal i Briž pružili ruku za 40.000.000",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/umesto-leandra-trosara-hristos-colis-najskuplji-grk-arsenal-i-briz-pruzili-ruku-za-40000000/549060",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 07. 2026. у 16:32",
+      "slika": null
+    },
     {
       "naslov": "Prepolovio se broj Belorusa u Nišu: Nikiforenko otišao u Rusiju",
       "url": "https://www.mozzartsport.com/fudbal/vesti/prepolovio-se-broj-belorusa-u-nisu-nikiforenko-otisao-u-rusiju/549051",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/oni-su-pre-svega-navijaci-argentine-i-telohranitelji-lionela-mesija/549030",
       "izvor": "Мозарт Спорт",
       "datum": "16. 07. 2026. у 11:54",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (četvrtak, 16. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-16-jul/549031",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 07. 2026. у 11:49",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Veliki problem za Zemun pred Partizan",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250740/zemun-bez-vaznog-igraca-docekuje-partizan/vest",
+      "naslov": "Železničar potpisao levog beka: &quot;Idol mi je Mesi, a volim Nuna Mendeša&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250762/zeleznicar-potpisao-levog-beka-pred-bragu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 07. 2026. у 12:39",
+      "datum": "16. 07. 2026. у 15:05",
       "slika": null
     },
     {
-      "naslov": "Partizan prodaje kapitena – poznati detalji",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250653/vanja-dragojevic-ide-u-rendzers/vest",
+      "naslov": "Zvezda zove navijače na premijeru – &quot;delije&quot; spremile nove pesme VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250782/fk-crvena-zvezda-zove-na-utakmicu-protiv-fk-macva-delije-imaju-nove-pesme/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 07. 2026. у 09:19",
+      "datum": "16. 07. 2026. у 14:31",
       "slika": null
     }
   ]
