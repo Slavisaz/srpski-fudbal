@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-16T15:46:41.419299+00:00",
-  "azurirano_sr": "16. 07. 2026. у 17:46",
+  "azurirano": "2026-07-16T16:54:03.593345+00:00",
+  "azurirano_sr": "16. 07. 2026. у 18:54",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Spartakov omladinac ide na pozajmicu u Gent, mogući otkup za 1.600.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/spartakov-omladinac-ide-na-pozajmicu-u-gent-moguci-otkup-za-1600000-evra/549079",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 07. 2026. у 20:32",
+      "slika": null
+    },
     {
       "naslov": "Liga nacija: Grčka čeka Srbiju u Volosu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/liga-nacija-grcka-ceka-srbiju-u-volosu/549072",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-16-jul/549031",
       "izvor": "Мозарт Спорт",
       "datum": "16. 07. 2026. у 18:07",
-      "slika": null
-    },
-    {
-      "naslov": "Umesto Leandra Trosara: Hristos Colis najskuplji Grk, Arsenal i Briž pružili ruku za 40.000.000",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/umesto-leandra-trosara-hristos-colis-najskuplji-grk-arsenal-i-briz-pruzili-ruku-za-40000000/549060",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 07. 2026. у 16:32",
       "slika": null
     },
     {
