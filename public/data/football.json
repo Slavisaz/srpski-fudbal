@@ -1,11 +1,18 @@
 {
-  "azurirano": "2026-07-16T20:05:54.468046+00:00",
-  "azurirano_sr": "16. 07. 2026. у 22:05",
+  "azurirano": "2026-07-16T21:12:05.566450+00:00",
+  "azurirano_sr": "16. 07. 2026. у 23:12",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Colis je samo početak, Arsenalova letnja bomba je Rodžers",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/colis-je-samo-pocetak-arsenalova-letnja-bomba-je-rodzers/549089",
+      "naslov": "Grom iz vedra neba: Bukari ponovo u Zvezdi, otkup 3.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/grom-iz-vedra-neba-bukari-ponovo-u-zvezdi-otkup-3000000-evra/549093",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 07. 2026. у 00:05",
+      "slika": null
+    },
+    {
+      "naslov": "Colis za početak, Arsenalova letnja bomba je Rodžers",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/colis-za-pocetak-arsenalova-letnja-bomba-je-rodzers/549089",
       "izvor": "Мозарт Спорт",
       "datum": "16. 07. 2026. у 23:24",
       "slika": null
@@ -25,52 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Spartakov omladinac na pozajmici u Gentu, mogući otkup za 1.600.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/spartakov-omladinac-na-pozajmici-u-gentu-moguci-otkup-za-1600000-evra/549079",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 07. 2026. у 20:32",
-      "slika": null
-    },
-    {
-      "naslov": "Počinje Superliga Srbije, Zvezda za 10. uzastopnu titulu, Partizan želi da prekine negativan niz",
-      "url": "https://www.tanjug.rs/sport/fudbal/266502/pocinje-superliga-srbije-zvezda-za-10-uzastopnu-titulu-partizan-zeli-da-prekine-negativan-niz/vest",
+      "naslov": "Odbojkaši Srbije pobedili Ukrajinu u Ligi nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/266592/odbojkasi-srbije-pobedili-ukrajinu-u-ligi-nacija/vest",
       "izvor": "Танјуг",
-      "datum": "16. 07. 2026. у 13:54",
+      "datum": "16. 07. 2026. у 22:37",
       "slika": null
     },
     {
-      "naslov": "Nihad Mujakić prešao iz Partizana u Erzurum",
-      "url": "https://www.tanjug.rs/sport/fudbal/266491/nihad-mujakic-presao-iz-partizana-u-erzurum/vest",
+      "naslov": "Tanjga: Za nas je sve završeno u osmom minutu, dobili smo lekciju i idemo dalje",
+      "url": "https://www.tanjug.rs/sport/fudbal/266593/tanjga-za-nas-je-sve-zavrseno-u-osmom-minutu-dobili-smo-lekciju-i-idemo-dalje/vest",
       "izvor": "Танјуг",
-      "datum": "16. 07. 2026. у 13:18",
+      "datum": "16. 07. 2026. у 22:36",
       "slika": null
     },
     {
-      "naslov": "Jasin Sbai novi fudbaler Železničara iz Pančeva",
-      "url": "https://www.tanjug.rs/sport/fudbal/266466/jasin-sbai-novi-fudbaler-zeleznicara-iz-panceva/vest",
+      "naslov": "Osman Bukari se vratio u Zvezdu na jednogodišnju pozajmicu",
+      "url": "https://www.tanjug.rs/sport/fudbal/266589/osman-bukari-se-vratio-u-zvezdu-na-jednogodisnju-pozajmicu/vest",
       "izvor": "Танјуг",
-      "datum": "16. 07. 2026. у 11:53",
+      "datum": "16. 07. 2026. у 22:16",
       "slika": null
     },
     {
-      "naslov": "Tuhel: Razočarani smo jer smo bili blizu, posle gola nismo zadržali nivo igre",
-      "url": "https://www.tanjug.rs/sport/fudbal/266451/tuhel-razocarani-smo-jer-smo-bili-blizu-posle-gola-nismo-zadrzali-nivo-igre/vest",
+      "naslov": "Fudbaleri Vojvodine sa igračem manje poraženi od Ferencvaroša u Budimpešti",
+      "url": "https://www.tanjug.rs/sport/fudbal/266587/fudbaleri-vojvodine-sa-igracem-manje-porazeni-od-ferencvarosa-u-budimpesti/vest",
       "izvor": "Танјуг",
-      "datum": "16. 07. 2026. у 11:10",
+      "datum": "16. 07. 2026. у 22:06",
       "slika": null
     },
     {
-      "naslov": "Grčka iznenadila izborom stadiona za Srbiju",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250839/grcka-i-srbija-se-sastaju-u-volosu-u-ligi-nacija/vest",
+      "naslov": "Koković pred start Superlige: &quot;Zadovoljan sam pojačanjima&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250866/trener-zeleznicara-radomir-kokovic-izjava-pred-pocetak-superlige-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 07. 2026. у 21:10",
+      "datum": "16. 07. 2026. у 22:32",
       "slika": null
     },
     {
-      "naslov": "Slavoljub Đorđević ponovo u Crvenoj zvezdi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250890/crvena-zvezda-imenovala-novog-glavnog-trenera-omladinske-skole/vest",
+      "naslov": "Bomba na Marakani – Osman Bukari se vratio u Crvenu zvezdu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250906/bukari-se-vratio-u-crvenu-zvezdu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 07. 2026. у 20:40",
+      "datum": "16. 07. 2026. у 22:14",
       "slika": null
     }
   ]
