@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-16T16:54:03.593345+00:00",
-  "azurirano_sr": "16. 07. 2026. у 18:54",
+  "azurirano": "2026-07-16T17:57:09.431287+00:00",
+  "azurirano_sr": "16. 07. 2026. у 19:57",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Puca od velikana, punih stadiona, liga bez favorita i u rangu sa MLS-om i Argentinom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/puca-od-velikana-punih-stadiona-liga-bez-favorita-i-u-rangu-sa-mlsom-i-argentinom/549054",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 07. 2026. у 21:27",
+      "slika": null
+    },
+    {
+      "naslov": "Možda nije samo do dekadentne kukavice... Šta ako nisu majstori, nego kalfe?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mozda-nije-samo-do-dekadentne-kukavice-sta-ako-nisu-majstori-nego-kalfe/549073",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 07. 2026. у 21:16",
+      "slika": null
+    },
     {
       "naslov": "Spartakov omladinac ide na pozajmicu u Gent, mogući otkup za 1.600.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/spartakov-omladinac-ide-na-pozajmicu-u-gent-moguci-otkup-za-1600000-evra/549079",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/liga-nacija-grcka-ceka-srbiju-u-volosu/549072",
       "izvor": "Мозарт Спорт",
       "datum": "16. 07. 2026. у 19:02",
-      "slika": null
-    },
-    {
-      "naslov": "Ilić od transfer liste do Abateovog čoveka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ilic-od-transfer-liste-do-abateovog-coveka/549071",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 07. 2026. у 18:46",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (četvrtak, 16. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-16-jul/549031",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 07. 2026. у 18:07",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Stanković: &quot;Nema više &#039;spremni smo ili nismo spremni&#039;&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250874/dejan-stankovic-izjava-pred-pocetak-sls-202627/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "16. 07. 2026. у 19:48",
+      "slika": null
+    },
+    {
       "naslov": "Železničar potpisao levog beka: &quot;Idol mi je Mesi, a volim Nuna Mendeša&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250762/zeleznicar-potpisao-levog-beka-pred-bragu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "16. 07. 2026. у 15:05",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda zove navijače na premijeru – &quot;delije&quot; spremile nove pesme VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250782/fk-crvena-zvezda-zove-na-utakmicu-protiv-fk-macva-delije-imaju-nove-pesme/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 07. 2026. у 14:31",
       "slika": null
     }
   ]
