@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-16T19:01:41.774620+00:00",
-  "azurirano_sr": "16. 07. 2026. у 21:01",
+  "azurirano": "2026-07-16T20:05:54.468046+00:00",
+  "azurirano_sr": "16. 07. 2026. у 22:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Colis je samo početak, Arsenalova letnja bomba je Rodžers",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/colis-je-samo-pocetak-arsenalova-letnja-bomba-je-rodzers/549089",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 07. 2026. у 23:24",
+      "slika": null
+    },
     {
       "naslov": "Puca od velikana i punih stadiona: Liga bez favorita i u rangu sa MLS-om i Argentinom",
       "url": "https://www.mozzartsport.com/fudbal/vesti/puca-od-velikana-i-punih-stadiona-liga-bez-favorita-i-u-rangu-sa-mlsom-i-argentinom/549054",
@@ -18,17 +25,10 @@
       "slika": null
     },
     {
-      "naslov": "Spartakov omladinac ide na pozajmicu u Gent, mogući otkup za 1.600.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/spartakov-omladinac-ide-na-pozajmicu-u-gent-moguci-otkup-za-1600000-evra/549079",
+      "naslov": "Spartakov omladinac na pozajmici u Gentu, mogući otkup za 1.600.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/spartakov-omladinac-na-pozajmici-u-gentu-moguci-otkup-za-1600000-evra/549079",
       "izvor": "Мозарт Спорт",
       "datum": "16. 07. 2026. у 20:32",
-      "slika": null
-    },
-    {
-      "naslov": "Liga nacija: Grčka čeka Srbiju u Volosu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/liga-nacija-grcka-ceka-srbiju-u-volosu/549072",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 07. 2026. у 19:02",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Grčka iznenadila izborom stadiona za Srbiju",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250839/grcka-i-srbija-se-sastaju-u-volosu-u-ligi-nacija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "16. 07. 2026. у 21:10",
+      "slika": null
+    },
+    {
       "naslov": "Slavoljub Đorđević ponovo u Crvenoj zvezdi",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250890/crvena-zvezda-imenovala-novog-glavnog-trenera-omladinske-skole/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "16. 07. 2026. у 20:40",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: &quot;Nema više &#039;spremni smo ili nismo spremni&#039;&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250874/dejan-stankovic-izjava-pred-pocetak-sls-202627/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 07. 2026. у 19:48",
       "slika": null
     }
   ]
