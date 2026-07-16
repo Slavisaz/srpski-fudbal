@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-16T10:32:33.353552+00:00",
-  "azurirano_sr": "16. 07. 2026. у 12:32",
+  "azurirano": "2026-07-16T12:03:38.193961+00:00",
+  "azurirano_sr": "16. 07. 2026. у 14:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Prepolovio se broj Belorusa u Nišu: Nikiforenko otišao u Rusiju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prepolovio-se-broj-belorusa-u-nisu-nikiforenko-otisao-u-rusiju/549051",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 07. 2026. у 15:05",
+      "slika": null
+    },
     {
       "naslov": "Roma ruši klupski rekord za Samervila: Limit na zaradu ostaje, imao bi platu kao Malen",
       "url": "https://www.mozzartsport.com/fudbal/vesti/roma-rusi-klupski-rekord-za-samervila-limit-na-zaradu-ostaje-imao-bi-platu-kao-malen/549047",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Jovan Damjanović: Debar nije bljesnuo samo protiv Zvezde, biće teško zameniti Balšu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jovan-damjanovic-debar-nije-bljesnuo-samo-protiv-zvezde-bice-tesko-zameniti-balsu/549019",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 07. 2026. у 11:07",
+      "naslov": "Počinje Superliga Srbije, Zvezda za 10. uzastopnu titulu, Partizan želi da prekine negativan niz",
+      "url": "https://www.tanjug.rs/sport/fudbal/266502/pocinje-superliga-srbije-zvezda-za-10-uzastopnu-titulu-partizan-zeli-da-prekine-negativan-niz/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 07. 2026. у 13:54",
+      "slika": null
+    },
+    {
+      "naslov": "Nihad Mujakić prešao iz Partizana u Erzurum",
+      "url": "https://www.tanjug.rs/sport/fudbal/266491/nihad-mujakic-presao-iz-partizana-u-erzurum/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 07. 2026. у 13:18",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Mesi: Do kraja nismo prestali da verujemo, ovo nije samo fudbalska pobeda",
-      "url": "https://www.tanjug.rs/sport/fudbal/266447/mesi-do-kraja-nismo-prestali-da-verujemo-ovo-nije-samo-fudbalska-pobeda/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 07. 2026. у 10:45",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Vojvodine večeras gostuju Ferencvarošu u revanš meču kvalifikacija za Ligu Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/266430/fudbaleri-vojvodine-veceras-gostuju-ferencvarosu-u-revans-mecu-kvalifikacija-za-ligu-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 07. 2026. у 09:46",
+      "naslov": "Veliki problem za Zemun pred Partizan",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250740/zemun-bez-vaznog-igraca-docekuje-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "16. 07. 2026. у 12:39",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250653/vanja-dragojevic-ide-u-rendzers/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "16. 07. 2026. у 09:19",
-      "slika": null
-    },
-    {
-      "naslov": "Urošević ponovo u borbi za opstanak?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250519/slobodan-urosevic-blizu-kazahstana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 07. 2026. у 22:28",
       "slika": null
     }
   ]
