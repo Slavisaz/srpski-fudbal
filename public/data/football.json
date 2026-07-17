@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-07-17T06:00:54.274588+00:00",
-  "azurirano_sr": "17. 07. 2026. у 08:00",
+  "azurirano": "2026-07-17T08:15:46.993862+00:00",
+  "azurirano_sr": "17. 07. 2026. у 10:15",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "TRANSFERI (četvrtak, 16. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-cetvrtak-16-jul/549031",
+      "naslov": "Kvalitet sporan, neizvesnost zagarantovana: Krajova uzela sve, Điđi Bekali puca ćorcima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kvalitet-sporan-neizvesnost-zagarantovana-krajova-uzela-sve-ii-bekali-puca-corcima/549122",
       "izvor": "Мозарт Спорт",
-      "datum": "17. 07. 2026. у 01:20",
+      "datum": "17. 07. 2026. у 12:07",
       "slika": null
     },
     {
-      "naslov": "Grom iz vedra neba: Bukari ponovo u Zvezdi, otkup 3.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/grom-iz-vedra-neba-bukari-ponovo-u-zvezdi-otkup-3000000-evra/549093",
+      "naslov": "Rašforda više ne možete da uzmete za 47.000.000 evra, sad Junajted diktira uslove",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rasforda-vise-ne-mozete-da-uzmete-za-47000000-evra-sad-junajted-diktira-uslove/549118",
       "izvor": "Мозарт Спорт",
-      "datum": "17. 07. 2026. у 00:05",
+      "datum": "17. 07. 2026. у 11:39",
       "slika": null
     },
     {
-      "naslov": "Colis za početak, Arsenalova letnja bomba je Rodžers",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/colis-za-pocetak-arsenalova-letnja-bomba-je-rodzers/549089",
+      "naslov": "Rašović: Blagojević bio u Partizanu u preteško vreme, Zvezda neće pustiti Tiknizjana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rasovic-blagojevic-bio-u-partizanu-u-pretesko-vreme-zvezda-nece-pustiti-tiknizjana/549116",
       "izvor": "Мозарт Спорт",
-      "datum": "16. 07. 2026. у 23:24",
+      "datum": "17. 07. 2026. у 11:35",
       "slika": null
     },
     {
-      "naslov": "Puca od velikana i punih stadiona: Liga bez favorita i u rangu sa MLS-om i Argentinom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/puca-od-velikana-i-punih-stadiona-liga-bez-favorita-i-u-rangu-sa-mlsom-i-argentinom/549054",
+      "naslov": "TRANSFERI UŽIVO (petak, 17. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-17-jul/549114",
       "izvor": "Мозарт Спорт",
-      "datum": "16. 07. 2026. у 21:27",
+      "datum": "17. 07. 2026. у 11:13",
+      "slika": null
+    },
+    {
+      "naslov": "Slovenački arbitar Slavko Vinčić sudiće finale Svetskog fudbalskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/266620/slovenacki-arbitar-slavko-vincic-sudice-finale-svetskog-fudbalskog-prvenstva/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 07. 2026. у 08:53",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Vojvodine sa igračem manje poraženi od Ferencvaroša u Budimpešti",
-      "url": "https://www.tanjug.rs/sport/fudbal/266587/fudbaleri-vojvodine-sa-igracem-manje-porazeni-od-ferencvarosa-u-budimpesti/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 07. 2026. у 22:06",
+      "naslov": "Zvezda i dalje koplje iznad svih – da li joj je bliži Partizan ili Vojvodina? Ko će biti novi hit Superlige?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250898/superliga-sezona-20262027-najava/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 07. 2026. у 08:58",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250832/vuk-rasovic-o-nairu-tiknizjanu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "16. 07. 2026. у 23:57",
-      "slika": null
-    },
-    {
-      "naslov": "Koković pred start Superlige: &quot;Zadovoljan sam pojačanjima&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250866/trener-zeleznicara-radomir-kokovic-izjava-pred-pocetak-superlige-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 07. 2026. у 22:32",
       "slika": null
     }
   ]
