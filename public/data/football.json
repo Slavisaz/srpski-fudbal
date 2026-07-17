@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-17T11:38:57.077133+00:00",
-  "azurirano_sr": "17. 07. 2026. у 13:38",
+  "azurirano": "2026-07-17T12:45:36.588954+00:00",
+  "azurirano_sr": "17. 07. 2026. у 14:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zašto kada kažete “Bugarska” pomislite na Srbiju?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zasto-kada-kazete-bugarska-pomislite-na-srbiju/549143",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 07. 2026. у 16:06",
+      "slika": null
+    },
     {
       "naslov": "Najskuplje pojačanje Lajpciga ovog leta: Naravno, francuski štoper",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najskuplje-pojacanje-lajpciga-ovog-leta-naravno-francuski-stoper/549148",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Amerikanci prizivaju kišu, požari u Kanadi zamaglili finale Mundijala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/amerikanci-prizivaju-kisu-pozari-u-kanadi-zamaglili-finale-mundijala/549135",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 07. 2026. у 13:33",
+      "naslov": "Srpski arbitar Danilo Nikolić sudiće meč između fudbalera Anderlehta i Hamarbija",
+      "url": "https://www.tanjug.rs/sport/fudbal/266706/srpski-arbitar-danilo-nikolic-sudice-mec-izmedu-fudbalera-anderlehta-i-hamarbija/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 07. 2026. у 13:38",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/266640/utakmice-izmedu-fudbalera-crvene-zvezde-i-larna-sude-rumun-i-azerbejdzanac/vest",
       "izvor": "Танјуг",
       "datum": "17. 07. 2026. у 10:37",
-      "slika": null
-    },
-    {
-      "naslov": "Slovenački arbitar Slavko Vinčić sudiće finale Svetskog fudbalskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/266620/slovenacki-arbitar-slavko-vincic-sudice-finale-svetskog-fudbalskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 07. 2026. у 08:53",
       "slika": null
     },
     {
