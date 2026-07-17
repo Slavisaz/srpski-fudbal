@@ -1,13 +1,13 @@
 {
-  "azurirano": "2026-07-17T14:16:35.379155+00:00",
-  "azurirano_sr": "17. 07. 2026. у 16:16",
+  "azurirano": "2026-07-17T15:42:29.460642+00:00",
+  "azurirano_sr": "17. 07. 2026. у 17:42",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (petak, 17. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-17-jul/549114",
       "izvor": "Мозарт Спорт",
-      "datum": "17. 07. 2026. у 16:40",
+      "datum": "17. 07. 2026. у 18:27",
       "slika": null
     },
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Turski arbitar Mehmet Turkmen sudi meč između fudbalera Železničara i Brage",
+      "url": "https://www.tanjug.rs/sport/fudbal/266753/turski-arbitar-mehmet-turkmen-sudi-mec-izmedu-fudbalera-zeleznicara-i-brage/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 07. 2026. у 16:11",
+      "slika": null
+    },
+    {
       "naslov": "Srpski arbitar Danilo Nikolić sudiće meč između fudbalera Anderlehta i Hamarbija",
       "url": "https://www.tanjug.rs/sport/fudbal/266706/srpski-arbitar-danilo-nikolic-sudice-mec-izmedu-fudbalera-anderlehta-i-hamarbija/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/266669/ilic-uz-duzno-postovanje-zemunu-zelimo-da-zabelezimo-pobedu-na-startu-prvenstva/vest",
       "izvor": "Танјуг",
       "datum": "17. 07. 2026. у 12:06",
-      "slika": null
-    },
-    {
-      "naslov": "Utakmice između fudbalera Crvene zvezde i Larna sude Rumun i Azerbejdžanac",
-      "url": "https://www.tanjug.rs/sport/fudbal/266640/utakmice-izmedu-fudbalera-crvene-zvezde-i-larna-sude-rumun-i-azerbejdzanac/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 07. 2026. у 10:37",
       "slika": null
     },
     {
