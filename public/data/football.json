@@ -1,13 +1,20 @@
 {
-  "azurirano": "2026-07-17T17:46:44.219260+00:00",
-  "azurirano_sr": "17. 07. 2026. у 19:46",
+  "azurirano": "2026-07-17T18:41:31.636969+00:00",
+  "azurirano_sr": "17. 07. 2026. у 20:41",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Šta je u tvojoj glavi? Manzambi, Manzambi... Vila za 60.000.000 evra prizvala taktove \"Zombija\"",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sta-je-u-tvojoj-glavi-manzambi-manzambi-vila-za-60000000-evra-prizvala-taktove-zombija/549179",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 07. 2026. у 21:40",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (petak, 17. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-17-jul/549114",
       "izvor": "Мозарт Спорт",
-      "datum": "17. 07. 2026. у 20:58",
+      "datum": "17. 07. 2026. у 21:39",
       "slika": null
     },
     {
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Humanitarni tiket u podne: Uz Darka Anića, finalni mečevi Mundijala mirišu na dobitnih 276.000 dinara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/humanitarni-tiket-u-podne-uz-darka-anica-finalni-mecevi-mundijala-mirisu-na-dobitnih-276000-dinara/549137",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 07. 2026. у 13:41",
+      "naslov": "Švajcarski fudbaler Johan Manzambi pojačao Aston Vilu",
+      "url": "https://www.tanjug.rs/sport/fudbal/266789/svajcarski-fudbaler-johan-manzambi-pojacao-aston-vilu/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 07. 2026. у 19:58",
       "slika": null
     },
     {
@@ -53,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Srpski arbitar Danilo Nikolić sudiće meč između fudbalera Anderlehta i Hamarbija",
-      "url": "https://www.tanjug.rs/sport/fudbal/266706/srpski-arbitar-danilo-nikolic-sudice-mec-izmedu-fudbalera-anderlehta-i-hamarbija/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 07. 2026. у 13:38",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda sa klincem na golu otvara Superligu – &quot;Marakana&quot; prazna",
+      "naslov": "Sada i autogol na Marakani! VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251147/uzivo-crvena-zvezda-macva-live-gde-gledati-tv-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 07. 2026. у 19:39",
+      "datum": "17. 07. 2026. у 20:35",
       "slika": null
     },
     {
