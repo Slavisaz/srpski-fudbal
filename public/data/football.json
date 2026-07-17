@@ -1,20 +1,27 @@
 {
-  "azurirano": "2026-07-17T19:44:59.335136+00:00",
-  "azurirano_sr": "17. 07. 2026. у 21:44",
+  "azurirano": "2026-07-17T20:33:57.791334+00:00",
+  "azurirano_sr": "17. 07. 2026. у 22:33",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Šta je u tvojoj glavi? Manzambi, Manzambi... Vila za 60.000.000 evra prizvala taktove \"Zombija\"",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sta-je-u-tvojoj-glavi-manzambi-manzambi-vila-za-60000000-evra-prizvala-taktove-zombija/549179",
+      "naslov": "Run’n gun fudbal u Pančevu: Silvester Džasper u epizodi – niko ne može da me čuva",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/runn-gun-fudbal-u-pancevu-silvester-dzasper-u-epizodi-niko-ne-moze-da-me-cuva/549185",
       "izvor": "Мозарт Спорт",
-      "datum": "17. 07. 2026. у 21:40",
+      "datum": "18. 07. 2026. у 00:05",
       "slika": null
     },
     {
       "naslov": "TRANSFERI UŽIVO (petak, 17. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-17-jul/549114",
       "izvor": "Мозарт Спорт",
-      "datum": "17. 07. 2026. у 21:39",
+      "datum": "17. 07. 2026. у 22:53",
+      "slika": null
+    },
+    {
+      "naslov": "Šta je u tvojoj glavi? Manzambi, Manzambi... Vila za 60.000.000 evra prizvala taktove \"Zombija\"",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sta-je-u-tvojoj-glavi-manzambi-manzambi-vila-za-60000000-evra-prizvala-taktove-zombija/549179",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 07. 2026. у 21:40",
       "slika": null
     },
     {
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Najskuplje pojačanje Lajpciga ovog leta: Naravno, francuski štoper",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najskuplje-pojacanje-lajpciga-ovog-leta-naravno-francuski-stoper/549148",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 07. 2026. у 15:11",
+      "naslov": "Fudbaleri Crvene zvezde ubedljivo pobedili Mačvu na startu nove sezone u Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/266804/fudbaleri-crvene-zvezde-ubedljivo-pobedili-macvu-na-startu-nove-sezone-u-superlige-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 07. 2026. у 21:58",
+      "slika": null
+    },
+    {
+      "naslov": "Brazilski fudbaler Ederson ostaje u Atalanti do 2031. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/266800/brazilski-fudbaler-ederson-ostaje-u-atalanti-do-2031-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 07. 2026. у 21:35",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Švajcarski fudbaler Johan Manzambi pojačao Aston Vilu",
-      "url": "https://www.tanjug.rs/sport/fudbal/266789/svajcarski-fudbaler-johan-manzambi-pojacao-aston-vilu/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 07. 2026. у 19:58",
-      "slika": null
-    },
-    {
-      "naslov": "Tarik Muharemović novi fudbaler Lidsa",
-      "url": "https://www.tanjug.rs/sport/fudbal/266777/tarik-muharemovic-novi-fudbaler-lidsa/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 07. 2026. у 18:37",
-      "slika": null
-    },
-    {
-      "naslov": "Duarte režirao poker Zvezde – Stanković ubacio Arnautovića i Kataija VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251147/uzivo-crvena-zvezda-macva-live-gde-gledati-tv-prenos/vest",
+      "naslov": "Duarte i Kostov &quot;dirigovali&quot; na premijeri – Zvezda lako sa novajlijom VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251147/crvena-zvezda-macva-50-30-1-kolo-superlige-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 07. 2026. у 21:39",
+      "datum": "17. 07. 2026. у 22:21",
       "slika": null
     },
     {
-      "naslov": "Partizan blokiran zbog bizarnog slučaja",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251208/bizaran-slucaj-u-humskoj/vest",
+      "naslov": "&quot;Dizelka&quot; startovala pobedom – sledi istorijski meč",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251214/dizelka-startovala-pobedom-sledi-istorijski-mec/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 07. 2026. у 21:07",
+      "datum": "17. 07. 2026. у 22:08",
       "slika": null
     }
   ]
