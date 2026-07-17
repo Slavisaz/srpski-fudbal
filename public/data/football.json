@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-17T12:45:36.588954+00:00",
-  "azurirano_sr": "17. 07. 2026. у 14:45",
+  "azurirano": "2026-07-17T14:16:35.379155+00:00",
+  "azurirano_sr": "17. 07. 2026. у 16:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (petak, 17. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-17-jul/549114",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 07. 2026. у 16:40",
+      "slika": null
+    },
     {
       "naslov": "Zašto kada kažete “Bugarska” pomislite na Srbiju?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zasto-kada-kazete-bugarska-pomislite-na-srbiju/549143",
@@ -15,13 +22,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/najskuplje-pojacanje-lajpciga-ovog-leta-naravno-francuski-stoper/549148",
       "izvor": "Мозарт Спорт",
       "datum": "17. 07. 2026. у 15:11",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (petak, 17. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-17-jul/549114",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 07. 2026. у 14:03",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Zoran Popović za B92.sport: &quot;Ne pamtim ovakvu Superligu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250860/b92sport-intervju-zoran-popovic-golman-zeleznicara-iz-panceva/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 07. 2026. у 16:00",
+      "slika": null
+    },
+    {
       "naslov": "B92.sport intervju: Alfa i omega Železničara – put od šeste lige do Evrope",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250846/b92sport-intervju-zoran-naunkovic-predsednik-fk-zeleznicar-pancevo/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "17. 07. 2026. у 12:07",
-      "slika": null
-    },
-    {
-      "naslov": "Nasleđe iz Humske ulice – Partizan predstavio nove dresove FOTO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250992/nasledje-iz-humske-ulice-partizan-predstavio-nove-dresove-foto/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 07. 2026. у 10:49",
       "slika": null
     }
   ]
