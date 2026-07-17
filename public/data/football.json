@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-17T10:11:41.976720+00:00",
-  "azurirano_sr": "17. 07. 2026. у 12:11",
+  "azurirano": "2026-07-17T11:38:57.077133+00:00",
+  "azurirano_sr": "17. 07. 2026. у 13:38",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Najskuplje pojačanje Lajpciga ovog leta: Naravno, francuski štoper",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najskuplje-pojacanje-lajpciga-ovog-leta-naravno-francuski-stoper/549148",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 07. 2026. у 15:11",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (petak, 17. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-17-jul/549114",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Tuhelu krivi DNK engleskog fudbala i nadmorska visina?! I tvrdi da im nikakva taktika ne bi pomogla…",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tuhelu-krivi-dnk-engleskog-fudbala-i-nadmorska-visina-i-tvrdi-da-im-nikakva-taktika-ne-bi-pomogla/549132",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 07. 2026. у 13:00",
+      "naslov": "Kazahstanski sudija Danijar Sahi sudiće meč između fudbalera Partizana i Una Štrasena",
+      "url": "https://www.tanjug.rs/sport/fudbal/266690/kazahstanski-sudija-danijar-sahi-sudice-mec-izmedu-fudbalera-partizana-i-una-strasena/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 07. 2026. у 12:50",
+      "slika": null
+    },
+    {
+      "naslov": "Ilić: Uz dužno poštovanje Zemunu, želimo da zabeležimo pobedu na startu prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/266669/ilic-uz-duzno-postovanje-zemunu-zelimo-da-zabelezimo-pobedu-na-startu-prvenstva/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 07. 2026. у 12:06",
       "slika": null
     },
     {
@@ -46,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Odbojkaši Srbije pobedili Ukrajinu u Ligi nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/266592/odbojkasi-srbije-pobedili-ukrajinu-u-ligi-nacija/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 07. 2026. у 22:37",
-      "slika": null
-    },
-    {
-      "naslov": "Tanjga: Za nas je sve završeno u osmom minutu, dobili smo lekciju i idemo dalje",
-      "url": "https://www.tanjug.rs/sport/fudbal/266593/tanjga-za-nas-je-sve-zavrseno-u-osmom-minutu-dobili-smo-lekciju-i-idemo-dalje/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 07. 2026. у 22:36",
-      "slika": null
-    },
-    {
       "naslov": "B92.sport intervju: Alfa i omega Železničara – put od šeste lige do Evrope",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250846/b92sport-intervju-zoran-naunkovic-predsednik-fk-zeleznicar-pancevo/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 07. 2026. у 12:04",
+      "datum": "17. 07. 2026. у 12:07",
       "slika": null
     },
     {
