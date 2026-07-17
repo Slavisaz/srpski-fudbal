@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-17T18:41:31.636969+00:00",
-  "azurirano_sr": "17. 07. 2026. у 20:41",
+  "azurirano": "2026-07-17T19:44:59.335136+00:00",
+  "azurirano_sr": "17. 07. 2026. у 21:44",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Robin Gosens prešao iz Fiorentine na pozajmicu u Šalke",
+      "url": "https://www.tanjug.rs/sport/fudbal/266798/robin-gosens-presao-iz-fiorentine-na-pozajmicu-u-salke/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 07. 2026. у 21:08",
+      "slika": null
+    },
+    {
+      "naslov": "Brazilski fudbaler Markos Leonardo prešao u Ajaks",
+      "url": "https://www.tanjug.rs/sport/fudbal/266795/brazilski-fudbaler-markos-leonardo-presao-u-ajaks/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 07. 2026. у 20:36",
+      "slika": null
+    },
+    {
       "naslov": "Švajcarski fudbaler Johan Manzambi pojačao Aston Vilu",
       "url": "https://www.tanjug.rs/sport/fudbal/266789/svajcarski-fudbaler-johan-manzambi-pojacao-aston-vilu/vest",
       "izvor": "Танјуг",
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Gardijan: Više od 200 članica podržalo Infantina za četvrti mandat na čelu FIFA",
-      "url": "https://www.tanjug.rs/sport/fudbal/266768/gardijan-vise-od-200-clanica-podrzalo-infantina-za-cetvrti-mandat-na-celu-fifa/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 07. 2026. у 17:34",
-      "slika": null
-    },
-    {
-      "naslov": "Turski arbitar Mehmet Turkmen sudi meč između fudbalera Železničara i Brage",
-      "url": "https://www.tanjug.rs/sport/fudbal/266753/turski-arbitar-mehmet-turkmen-sudi-mec-izmedu-fudbalera-zeleznicara-i-brage/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 07. 2026. у 16:11",
-      "slika": null
-    },
-    {
-      "naslov": "Sada i autogol na Marakani! VIDEO",
+      "naslov": "Duarte režirao poker Zvezde – Stanković ubacio Arnautovića i Kataija VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251147/uzivo-crvena-zvezda-macva-live-gde-gledati-tv-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 07. 2026. у 20:35",
+      "datum": "17. 07. 2026. у 21:39",
       "slika": null
     },
     {
-      "naslov": "Zoran Popović za B92.sport: &quot;Ne pamtim ovakvu Superligu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/250860/b92sport-intervju-zoran-popovic-golman-zeleznicara-iz-panceva/vest",
+      "naslov": "Partizan blokiran zbog bizarnog slučaja",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251208/bizaran-slucaj-u-humskoj/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 07. 2026. у 16:00",
+      "datum": "17. 07. 2026. у 21:07",
       "slika": null
     }
   ]
