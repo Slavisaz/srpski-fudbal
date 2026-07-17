@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-17T21:25:09.018079+00:00",
-  "azurirano_sr": "17. 07. 2026. у 23:25",
+  "azurirano": "2026-07-17T22:10:48.131083+00:00",
+  "azurirano_sr": "18. 07. 2026. у 00:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (petak, 17. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-17-jul/549114",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 07. 2026. у 01:31",
+      "slika": null
+    },
+    {
+      "naslov": "Iz Saudijske Arabije pravo na Vojvodinu: Ajaks predstavio brazilskog golgetera od 20.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/iz-saudijske-arabije-pravo-na-vojvodinu-ajaks-predstavio-brazilskog-golgetera-od-20000000-evra/549188",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 07. 2026. у 01:30",
+      "slika": null
+    },
     {
       "naslov": "Run 'n' gun fudbal u Pančevu: Silvester Džasper u epizodi – niko ne može da me čuva",
       "url": "https://www.mozzartsport.com/fudbal/vesti/run-n-gun-fudbal-u-pancevu-silvester-dzasper-u-epizodi-niko-ne-moze-da-me-cuva/549185",
@@ -11,24 +25,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (petak, 17. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-17-jul/549114",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 07. 2026. у 22:53",
-      "slika": null
-    },
-    {
       "naslov": "Šta je u tvojoj glavi? Manzambi, Manzambi... Vila za 60.000.000 evra prizvala taktove \"Zombija\"",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sta-je-u-tvojoj-glavi-manzambi-manzambi-vila-za-60000000-evra-prizvala-taktove-zombija/549179",
       "izvor": "Мозарт Спорт",
       "datum": "17. 07. 2026. у 21:40",
-      "slika": null
-    },
-    {
-      "naslov": "Zašto kada kažete “Bugarska” pomislite na Srbiju?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zasto-kada-kazete-bugarska-pomislite-na-srbiju/549143",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 07. 2026. у 16:06",
       "slika": null
     },
     {
