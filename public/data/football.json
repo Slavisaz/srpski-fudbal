@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-18T19:40:27.596413+00:00",
-  "azurirano_sr": "18. 07. 2026. у 21:40",
+  "azurirano": "2026-07-18T20:25:54.463765+00:00",
+  "azurirano_sr": "18. 07. 2026. у 22:25",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Novog Pazara savladali Radnički iz Kragujevca u Superligi Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/266973/fudbaleri-novog-pazara-savladali-radnicki-iz-kragujevca-u-superligi-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 07. 2026. у 22:06",
+      "slika": null
+    },
+    {
       "naslov": "BBC: Aston Vila prihvatila Čelsijevu ponudu za Morgana Rodžersa",
       "url": "https://www.tanjug.rs/sport/fudbal/266962/bbc-aston-vila-prihvatila-celsijevu-ponudu-za-morgana-rodzersa/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "De la Fuente: Učešće u finalu je privilegija, važno je da se nametnemo",
-      "url": "https://www.tanjug.rs/sport/fudbal/266928/de-la-fuente-ucesce-u-finalu-je-privilegija-vazno-je-da-se-nametnemo/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 07. 2026. у 15:57",
+      "naslov": "Minimalac Novog Pazara na otvaranju sezone",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251408/novi-pazar-bolji-od-kragujevcana/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 07. 2026. у 22:12",
       "slika": null
     },
     {
-      "naslov": "Ugrešić &quot;matirao&quot; Zemun – vodi Partizan, ponovo!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251370/uzivo-prenos-fk-zemun-fk-partizan-1-kolo-superlige-srbije/vest",
+      "naslov": "Ilić kritikovao igrače: &quot;Počeli su da rade ono što ne treba&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251406/izjava-sase-ilica-posle-remija-sa-zemunom/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 07. 2026. у 21:32",
-      "slika": null
-    },
-    {
-      "naslov": "Čukarički dovodi Albanca VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251381/albanac-stize-na-banovo-brdo/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 07. 2026. у 20:12",
+      "datum": "18. 07. 2026. у 22:05",
       "slika": null
     }
   ]
