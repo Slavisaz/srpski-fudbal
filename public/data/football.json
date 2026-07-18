@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-18T13:43:11.368978+00:00",
-  "azurirano_sr": "18. 07. 2026. у 15:43",
+  "azurirano": "2026-07-18T14:38:48.898391+00:00",
+  "azurirano_sr": "18. 07. 2026. у 16:38",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "De la Fuente: Učešće u finalu je privilegija, važno je da se nametnemo",
+      "url": "https://www.tanjug.rs/sport/fudbal/266928/de-la-fuente-ucesce-u-finalu-je-privilegija-vazno-je-da-se-nametnemo/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 07. 2026. у 15:57",
+      "slika": null
+    },
+    {
       "naslov": "Mesi: Jamal je jedan od najboljih na svetu, moramo da ga zaustavimo ako hoćemo pobedu",
       "url": "https://www.tanjug.rs/sport/fudbal/266915/mesi-jamal-je-jedan-od-najboljih-na-svetu-moramo-da-ga-zaustavimo-ako-hocemo-pobedu/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Zvaničnik Bele kuće: SAD će biti domaćin Svetskog prvenstva u fudbalu za žene 2031.",
-      "url": "https://www.tanjug.rs/sport/fudbal/266868/zvanicnik-bele-kuce-sad-ce-biti-domacin-svetskog-prvenstva-u-fudbalu-za-zene-2031/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 07. 2026. у 11:19",
+      "naslov": "Nemanja Nikolić novo pojačanje TSC-a",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251339/nemanja-nikolic-novi-igrac-tsc-a/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 07. 2026. у 16:05",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251295/trener-macve-nemanja-glusica-o-dusanu-jovanovicu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 07. 2026. у 12:50",
-      "slika": null
-    },
-    {
-      "naslov": "Serhio Penja stigao na Karaburmu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251272/serhio-penja-novi-igrac-ofk-beograd/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 07. 2026. у 10:55",
       "slika": null
     }
   ]
