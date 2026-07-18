@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-18T05:34:39.462791+00:00",
-  "azurirano_sr": "18. 07. 2026. у 07:34",
+  "azurirano": "2026-07-18T07:14:50.366624+00:00",
+  "azurirano_sr": "18. 07. 2026. у 09:14",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zemun nije pobedio Partizan 11.420 dana, otkad je Radović odbranio penal Ćiriću",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zemun-nije-pobedio-partizan-11420-dana-otkad-je-radovic-odbranio-penal-ciricu/549164",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 07. 2026. у 10:34",
+      "slika": null
+    },
     {
       "naslov": "Rodri: Mesi je bez ikakve nedoumice najbolji fudbaler svih vremena",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rodri-mesi-je-bez-ikakve-nedoumice-najbolji-fudbaler-svih-vremena/549190",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Run 'n' gun fudbal u Pančevu: Silvester Džasper u epizodi – niko ne može da me čuva",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/run-n-gun-fudbal-u-pancevu-silvester-dzasper-u-epizodi-niko-ne-moze-da-me-cuva/549185",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 07. 2026. у 00:05",
+      "naslov": "Tramp i Infantino razgovarali o Mundijalu, američki predsednik pohvalio odluku FIFA",
+      "url": "https://www.tanjug.rs/sport/fudbal/266826/tramp-i-infantino-razgovarali-o-mundijalu-americki-predsednik-pohvalio-odluku-fifa/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 07. 2026. у 07:57",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Crvene zvezde ubedljivo pobedili Mačvu na startu nove sezone u Superligi Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/266804/fudbaleri-crvene-zvezde-ubedljivo-pobedili-macvu-na-startu-nove-sezone-u-superligi-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 07. 2026. у 21:58",
+      "naslov": "Deseta u nizu na vidiku, ako je ovo konkurencija – i to sa decom",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251195/zvezdina-premijera-u-superligi-202526-ocenee/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 07. 2026. у 08:15",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251147/crvena-zvezda-macva-50-30-1-kolo-superlige-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "17. 07. 2026. у 22:21",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Dizelka&quot; startovala pobedom – sledi istorijski meč",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251214/dizelka-startovala-pobedom-sledi-istorijski-mec/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 07. 2026. у 22:08",
       "slika": null
     }
   ]
