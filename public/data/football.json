@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-18T10:17:02.189246+00:00",
-  "azurirano_sr": "18. 07. 2026. у 12:17",
+  "azurirano": "2026-07-18T11:18:46.241023+00:00",
+  "azurirano_sr": "18. 07. 2026. у 13:18",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Cene karata za finale Mundijala kreću se od 7.125 evra do 83.639 evra",
+      "url": "https://www.tanjug.rs/sport/fudbal/266890/cene-karata-za-finale-mundijala-krecu-se-od-7125-evra-do-83639-evra/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 07. 2026. у 12:51",
+      "slika": null
+    },
+    {
+      "naslov": "Zbiljić: Idemo svi kao jedan ka najvišim ciljevima",
+      "url": "https://www.tanjug.rs/sport/fudbal/266885/zbiljic-idemo-svi-kao-jedan-ka-najvisim-ciljevima/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 07. 2026. у 12:19",
+      "slika": null
+    },
+    {
       "naslov": "Zvaničnik Bele kuće: SAD će biti domaćin Svetskog prvenstva u fudbalu za žene 2031.",
       "url": "https://www.tanjug.rs/sport/fudbal/266868/zvanicnik-bele-kuce-sad-ce-biti-domacin-svetskog-prvenstva-u-fudbalu-za-zene-2031/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Portugalac Nogeira i Grk Vergetis sudiće utakmice između fudbalera Vojvodine i Ajaksa",
-      "url": "https://www.tanjug.rs/sport/fudbal/266859/portugalac-nogeira-i-grk-vergetis-sudice-utakmice-izmedu-fudbalera-vojvodine-i-ajaksa/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 07. 2026. у 10:35",
-      "slika": null
-    },
-    {
-      "naslov": "Arbitar iz Severne Irske MekMaster sudiće revanš meč između fudbalera Une i Partizana",
-      "url": "https://www.tanjug.rs/sport/fudbal/266856/arbitar-iz-severne-irske-mekmaster-sudice-revans-mec-izmedu-fudbalera-une-i-partizana/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 07. 2026. у 10:26",
+      "naslov": "Trener Mačve o Lanetovom sinu: &quot;Otišao je bez da se javi – degutantno&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251295/trener-macve-nemanja-glusica-o-dusanu-jovanovicu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 07. 2026. у 12:50",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251272/serhio-penja-novi-igrac-ofk-beograd/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 07. 2026. у 10:55",
-      "slika": null
-    },
-    {
-      "naslov": "Deseta u nizu na vidiku, ako je ovo konkurencija – i to sa decom",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251195/zvezdina-premijera-u-superligi-202526-ocenee/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 07. 2026. у 08:15",
       "slika": null
     }
   ]
