@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-18T17:31:49.810994+00:00",
-  "azurirano_sr": "18. 07. 2026. у 19:31",
+  "azurirano": "2026-07-18T18:28:07.413814+00:00",
+  "azurirano_sr": "18. 07. 2026. у 20:28",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Đanluka Manćini i Brajan Kristante produžili ugovore sa Romom",
+      "url": "https://www.tanjug.rs/sport/fudbal/266958/danluka-mancini-i-brajan-kristante-produzili-ugovore-sa-romom/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 07. 2026. у 19:11",
+      "slika": null
+    },
+    {
+      "naslov": "Skaloni: Igramo za naš narod i zemlju, analizirali smo Španiju još od decembra",
+      "url": "https://www.tanjug.rs/sport/fudbal/266951/skaloni-igramo-za-nas-narod-i-zemlju-analizirali-smo-spaniju-jos-od-decembra/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 07. 2026. у 18:33",
+      "slika": null
+    },
+    {
       "naslov": "De la Fuente: Učešće u finalu je privilegija, važno je da se nametnemo",
       "url": "https://www.tanjug.rs/sport/fudbal/266928/de-la-fuente-ucesce-u-finalu-je-privilegija-vazno-je-da-se-nametnemo/vest",
       "izvor": "Танјуг",
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Cene karata za finale Mundijala kreću se od 7.125 evra do 83.639 evra",
-      "url": "https://www.tanjug.rs/sport/fudbal/266890/cene-karata-za-finale-mundijala-krecu-se-od-7125-evra-do-83639-evra/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 07. 2026. у 12:51",
-      "slika": null
-    },
-    {
-      "naslov": "Zbiljić: Idemo svi kao jedan ka najvišim ciljevima",
-      "url": "https://www.tanjug.rs/sport/fudbal/266885/zbiljic-idemo-svi-kao-jedan-ka-najvisim-ciljevima/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 07. 2026. у 12:19",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan protiv povratnika koji trijumf čeka čak tri decenije – poznati sastavi",
+      "naslov": "&quot;Uzburkalo&quot; se na Ubu: Partizan &quot;načeo&quot; Zemun – prvi gol u novoj sezoni!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251370/uzivo-prenos-fk-zemun-fk-partizan-1-kolo-superlige-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 07. 2026. у 19:06",
+      "datum": "18. 07. 2026. у 20:17",
       "slika": null
     },
     {
-      "naslov": "Zbiljić: &quot;Idemo svi kao jedan u napad na najviše ciljeve&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251297/dragoljub-zbiljic-najavio-sezonu-vojvodine-u-sls/vest",
+      "naslov": "Čukarički dovodi Albanca VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251381/albanac-stize-na-banovo-brdo/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 07. 2026. у 18:48",
+      "datum": "18. 07. 2026. у 20:12",
       "slika": null
     }
   ]
