@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-18T08:58:41.304872+00:00",
-  "azurirano_sr": "18. 07. 2026. у 10:58",
+  "azurirano": "2026-07-18T10:17:02.189246+00:00",
+  "azurirano_sr": "18. 07. 2026. у 12:17",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Šampanjac na otvaranju sezone: Zenitu deseti pehar ili Spartak po drugi put?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sampanjac-na-otvaranju-sezone-zenitu-deseti-pehar-ili-spartak-po-drugi-put/549212",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 07. 2026. у 13:53",
+      "slika": null
+    },
+    {
+      "naslov": "Sine, ostavljam ti fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sine-ostavljam-ti-fudbal/549210",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 07. 2026. у 13:44",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (subota, 18. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-18-jul/549201",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Foto-finiš samo za Zlatnu kopačku SP: Mesi i Simon pred promocijom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fotofinis-samo-za-zlatnu-kopacku-sp-mesi-i-simon-pred-promocijom/549195",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 07. 2026. у 11:13",
+      "naslov": "Zvaničnik Bele kuće: SAD će biti domaćin Svetskog prvenstva u fudbalu za žene 2031.",
+      "url": "https://www.tanjug.rs/sport/fudbal/266868/zvanicnik-bele-kuce-sad-ce-biti-domacin-svetskog-prvenstva-u-fudbalu-za-zene-2031/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 07. 2026. у 11:19",
       "slika": null
     },
     {
-      "naslov": "Zemun nije pobedio Partizan 11.420 dana, otkad je Radović odbranio penal Ćiriću",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zemun-nije-pobedio-partizan-11420-dana-otkad-je-radovic-odbranio-penal-ciricu/549164",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 07. 2026. у 10:34",
+      "naslov": "Srpski arbitar Novak Simović sudiće meč Helsinki - Kolrejn u kvalifikacijama za Ligu konferencija",
+      "url": "https://www.tanjug.rs/sport/fudbal/266866/srpski-arbitar-novak-simovic-sudice-mec-helsinki-kolrejn-u-kvalifikacijama-za-ligu-konferencija/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 07. 2026. у 11:15",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/266856/arbitar-iz-severne-irske-mekmaster-sudice-revans-mec-izmedu-fudbalera-une-i-partizana/vest",
       "izvor": "Танјуг",
       "datum": "18. 07. 2026. у 10:26",
-      "slika": null
-    },
-    {
-      "naslov": "Španski fudbaler Žoel Roka potpisao za Olimpijakos",
-      "url": "https://www.tanjug.rs/sport/fudbal/266851/spanski-fudbaler-zoel-roka-potpisao-za-olimpijakos/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 07. 2026. у 10:17",
-      "slika": null
-    },
-    {
-      "naslov": "Tramp i Infantino razgovarali o Mundijalu, američki predsednik pohvalio odluku FIFA",
-      "url": "https://www.tanjug.rs/sport/fudbal/266826/tramp-i-infantino-razgovarali-o-mundijalu-americki-predsednik-pohvalio-odluku-fifa/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 07. 2026. у 07:57",
       "slika": null
     },
     {
