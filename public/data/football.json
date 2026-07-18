@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-07-18T18:28:07.413814+00:00",
-  "azurirano_sr": "18. 07. 2026. у 20:28",
+  "azurirano": "2026-07-18T19:40:27.596413+00:00",
+  "azurirano_sr": "18. 07. 2026. у 21:40",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Embapeova poruka Dešanu: Zaslužio si bolji ispraćaj, ljudi nisu cenili tvoju veličinu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/embapeova-poruka-desanu-zasluzio-si-bolji-ispracaj-ljudi-nisu-cenili-tvoju-velicinu/549248",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 07. 2026. у 23:09",
+      "slika": null
+    },
+    {
+      "naslov": "Komo mora nešto i da proda da bi kupovao skuplje…",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/komo-mora-nesto-i-da-proda-da-bi-kupovao-skuplje/549246",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 07. 2026. у 22:38",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (subota, 18. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-18-jul/549201",
       "izvor": "Мозарт Спорт",
-      "datum": "18. 07. 2026. у 20:09",
+      "datum": "18. 07. 2026. у 22:36",
       "slika": null
     },
     {
-      "naslov": "Konačno neki veliki transfer u Saudijskoj Arabiji: Još jedan Portugalac nije odoleo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/konacno-neki-veliki-transfer-u-saudijskoj-arabiji-jos-jedan-portugalac-nije-odoleo/549234",
+      "naslov": "Arsenal prvi hteo, Čelsi aktivirao bombu: Morgan Rodžers najskuplji Englez u istoriji!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/arsenal-prvi-hteo-celsi-aktivirao-bombu-morgan-rodzers-najskuplji-englez-u-istoriji/549245",
       "izvor": "Мозарт Спорт",
-      "datum": "18. 07. 2026. у 20:01",
+      "datum": "18. 07. 2026. у 22:18",
       "slika": null
     },
     {
-      "naslov": "Šampanjac na otvaranju sezone: Zenitu deseti pehar ili Spartak po drugi put?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sampanjac-na-otvaranju-sezone-zenitu-deseti-pehar-ili-spartak-po-drugi-put/549212",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 07. 2026. у 13:53",
-      "slika": null
-    },
-    {
-      "naslov": "Sine, ostavljam ti fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sine-ostavljam-ti-fudbal/549210",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 07. 2026. у 13:44",
+      "naslov": "BBC: Aston Vila prihvatila Čelsijevu ponudu za Morgana Rodžersa",
+      "url": "https://www.tanjug.rs/sport/fudbal/266962/bbc-aston-vila-prihvatila-celsijevu-ponudu-za-morgana-rodzersa/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 07. 2026. у 20:31",
       "slika": null
     },
     {
@@ -53,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Mesi: Jamal je jedan od najboljih na svetu, moramo da ga zaustavimo ako hoćemo pobedu",
-      "url": "https://www.tanjug.rs/sport/fudbal/266915/mesi-jamal-je-jedan-od-najboljih-na-svetu-moramo-da-ga-zaustavimo-ako-hocemo-pobedu/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 07. 2026. у 14:57",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Uzburkalo&quot; se na Ubu: Partizan &quot;načeo&quot; Zemun – prvi gol u novoj sezoni!",
+      "naslov": "Ugrešić &quot;matirao&quot; Zemun – vodi Partizan, ponovo!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251370/uzivo-prenos-fk-zemun-fk-partizan-1-kolo-superlige-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 07. 2026. у 20:17",
+      "datum": "18. 07. 2026. у 21:32",
       "slika": null
     },
     {
