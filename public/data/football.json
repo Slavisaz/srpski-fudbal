@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-18T12:07:32.434233+00:00",
-  "azurirano_sr": "18. 07. 2026. у 14:07",
+  "azurirano": "2026-07-18T13:43:11.368978+00:00",
+  "azurirano_sr": "18. 07. 2026. у 15:43",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Mesi: Jamal je jedan od najboljih na svetu, moramo da ga zaustavimo ako hoćemo pobedu",
+      "url": "https://www.tanjug.rs/sport/fudbal/266915/mesi-jamal-je-jedan-od-najboljih-na-svetu-moramo-da-ga-zaustavimo-ako-hocemo-pobedu/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 07. 2026. у 14:57",
+      "slika": null
+    },
+    {
       "naslov": "Cene karata za finale Mundijala kreću se od 7.125 evra do 83.639 evra",
       "url": "https://www.tanjug.rs/sport/fudbal/266890/cene-karata-za-finale-mundijala-krecu-se-od-7125-evra-do-83639-evra/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/266868/zvanicnik-bele-kuce-sad-ce-biti-domacin-svetskog-prvenstva-u-fudbalu-za-zene-2031/vest",
       "izvor": "Танјуг",
       "datum": "18. 07. 2026. у 11:19",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski arbitar Novak Simović sudiće meč Helsinki - Kolrejn u kvalifikacijama za Ligu konferencija",
-      "url": "https://www.tanjug.rs/sport/fudbal/266866/srpski-arbitar-novak-simovic-sudice-mec-helsinki-kolrejn-u-kvalifikacijama-za-ligu-konferencija/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 07. 2026. у 11:15",
       "slika": null
     },
     {
