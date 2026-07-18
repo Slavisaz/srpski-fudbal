@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-18T15:37:54.766177+00:00",
-  "azurirano_sr": "18. 07. 2026. у 17:37",
+  "azurirano": "2026-07-18T16:29:50.523630+00:00",
+  "azurirano_sr": "18. 07. 2026. у 18:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 18. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-18-jul/549201",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 07. 2026. у 20:09",
+      "slika": null
+    },
+    {
+      "naslov": "Konačno neki veliki transfer u Saudijskoj Arabiji: Još jedan Portugalac nije odoleo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/konacno-neki-veliki-transfer-u-saudijskoj-arabiji-jos-jedan-portugalac-nije-odoleo/549234",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 07. 2026. у 20:01",
+      "slika": null
+    },
     {
       "naslov": "Šampanjac na otvaranju sezone: Zenitu deseti pehar ili Spartak po drugi put?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sampanjac-na-otvaranju-sezone-zenitu-deseti-pehar-ili-spartak-po-drugi-put/549212",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/sine-ostavljam-ti-fudbal/549210",
       "izvor": "Мозарт Спорт",
       "datum": "18. 07. 2026. у 13:44",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (subota, 18. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-18-jul/549201",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 07. 2026. у 12:11",
-      "slika": null
-    },
-    {
-      "naslov": "Ako Rodri sutra osvoji, imaćemo sedmoricu veličanstvenih",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ako-rodri-sutra-osvoji-imacemo-sedmoricu-velicanstvenih/549197",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 07. 2026. у 11:41",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Iz Voše &quot;zapretili&quot; OFK Beogradu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251357/petar-sukacevi-izjava-pred-vojvodina-ofk-beograd-202627/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 07. 2026. у 18:05",
+      "slika": null
+    },
+    {
       "naslov": "Nemanja Nikolić novo pojačanje TSC-a",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251339/nemanja-nikolic-novi-igrac-tsc-a/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 07. 2026. у 16:05",
-      "slika": null
-    },
-    {
-      "naslov": "Trener Mačve o Lanetovom sinu: &quot;Otišao je bez da se javi – degutantno&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251295/trener-macve-nemanja-glusica-o-dusanu-jovanovicu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 07. 2026. у 12:50",
       "slika": null
     }
   ]
