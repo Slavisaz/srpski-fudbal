@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-18T21:10:46.156331+00:00",
-  "azurirano_sr": "18. 07. 2026. у 23:10",
+  "azurirano": "2026-07-18T22:04:58.620426+00:00",
+  "azurirano_sr": "19. 07. 2026. у 00:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (subota, 18. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-subota-18-jul/549201",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 07. 2026. у 01:32",
+      "slika": null
+    },
     {
       "naslov": "Embapeova poruka Dešanu: Zaslužio si bolji ispraćaj, ljudi nisu cenili tvoju veličinu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/embapeova-poruka-desanu-zasluzio-si-bolji-ispracaj-ljudi-nisu-cenili-tvoju-velicinu/549248",
@@ -15,13 +22,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/komo-mora-nesto-i-da-proda-da-bi-kupovao-skuplje/549246",
       "izvor": "Мозарт Спорт",
       "datum": "18. 07. 2026. у 22:38",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (subota, 18. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-18-jul/549201",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 07. 2026. у 22:36",
       "slika": null
     },
     {
