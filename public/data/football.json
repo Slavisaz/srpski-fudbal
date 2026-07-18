@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-18T07:14:50.366624+00:00",
-  "azurirano_sr": "18. 07. 2026. у 09:14",
+  "azurirano": "2026-07-18T08:58:41.304872+00:00",
+  "azurirano_sr": "18. 07. 2026. у 10:58",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 18. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-18-jul/549201",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 07. 2026. у 12:11",
+      "slika": null
+    },
+    {
+      "naslov": "Ako Rodri sutra osvoji, imaćemo sedmoricu veličanstvenih",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ako-rodri-sutra-osvoji-imacemo-sedmoricu-velicanstvenih/549197",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 07. 2026. у 11:41",
+      "slika": null
+    },
+    {
+      "naslov": "Foto-finiš samo za Zlatnu kopačku SP: Mesi i Simon pred promocijom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fotofinis-samo-za-zlatnu-kopacku-sp-mesi-i-simon-pred-promocijom/549195",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 07. 2026. у 11:13",
+      "slika": null
+    },
     {
       "naslov": "Zemun nije pobedio Partizan 11.420 dana, otkad je Radović odbranio penal Ćiriću",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zemun-nije-pobedio-partizan-11420-dana-otkad-je-radovic-odbranio-penal-ciricu/549164",
@@ -11,24 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Rodri: Mesi je bez ikakve nedoumice najbolji fudbaler svih vremena",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rodri-mesi-je-bez-ikakve-nedoumice-najbolji-fudbaler-svih-vremena/549190",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 07. 2026. у 03:25",
+      "naslov": "Portugalac Nogeira i Grk Vergetis sudiće utakmice između fudbalera Vojvodine i Ajaksa",
+      "url": "https://www.tanjug.rs/sport/fudbal/266859/portugalac-nogeira-i-grk-vergetis-sudice-utakmice-izmedu-fudbalera-vojvodine-i-ajaksa/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 07. 2026. у 10:35",
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (petak, 17. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-17-jul/549114",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 07. 2026. у 01:31",
+      "naslov": "Arbitar iz Severne Irske MekMaster sudiće revanš meč između fudbalera Une i Partizana",
+      "url": "https://www.tanjug.rs/sport/fudbal/266856/arbitar-iz-severne-irske-mekmaster-sudice-revans-mec-izmedu-fudbalera-une-i-partizana/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 07. 2026. у 10:26",
       "slika": null
     },
     {
-      "naslov": "Iz Saudijske Arabije pravo na Vojvodinu: Ajaks predstavio brazilskog golgetera od 20.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/iz-saudijske-arabije-pravo-na-vojvodinu-ajaks-predstavio-brazilskog-golgetera-od-20000000-evra/549188",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 07. 2026. у 01:30",
+      "naslov": "Španski fudbaler Žoel Roka potpisao za Olimpijakos",
+      "url": "https://www.tanjug.rs/sport/fudbal/266851/spanski-fudbaler-zoel-roka-potpisao-za-olimpijakos/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 07. 2026. у 10:17",
       "slika": null
     },
     {
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Stanković: Zadovoljan sam, od prvog do poslednjeg minuta smo držali intenzitet igre",
-      "url": "https://www.tanjug.rs/sport/fudbal/266812/stankovic-zadovoljan-sam-od-prvog-do-poslednjeg-minuta-smo-drzali-intenzitet-igre/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 07. 2026. у 22:50",
-      "slika": null
-    },
-    {
-      "naslov": "Reprezentativac Perua Serhio Penja novi fudbaler OFK Beograda",
-      "url": "https://www.tanjug.rs/sport/fudbal/266813/reprezentativac-perua-serhio-penja-novi-fudbaler-ofk-beograda/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 07. 2026. у 22:20",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Železničara savladali Radnički iz Niša u prvom kolu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/266808/fudbaleri-zeleznicara-savladali-radnicki-iz-nisa-u-prvom-kolu-superlige-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 07. 2026. у 22:16",
+      "naslov": "Serhio Penja stigao na Karaburmu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251272/serhio-penja-novi-igrac-ofk-beograd/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 07. 2026. у 10:55",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251195/zvezdina-premijera-u-superligi-202526-ocenee/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 07. 2026. у 08:15",
-      "slika": null
-    },
-    {
-      "naslov": "Duarte i Kostov &quot;dirigovali&quot; na premijeri – Zvezda lako sa novajlijom VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251147/crvena-zvezda-macva-50-30-1-kolo-superlige-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 07. 2026. у 22:21",
       "slika": null
     }
   ]
