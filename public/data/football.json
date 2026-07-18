@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-18T20:25:54.463765+00:00",
-  "azurirano_sr": "18. 07. 2026. у 22:25",
+  "azurirano": "2026-07-18T21:10:46.156331+00:00",
+  "azurirano_sr": "18. 07. 2026. у 23:10",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Ilić: Zadovoljan sam sa prvih 25 minuta, u određenim trenucima je nastala anarhija",
+      "url": "https://www.tanjug.rs/sport/fudbal/266976/ilic-zadovoljan-sam-sa-prvih-25-minuta-u-odredenim-trenucima-je-nastala-anarhija/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 07. 2026. у 22:17",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Zemuna u 90+3. minutu došli do remija protiv Partizana u prvom kolu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/266974/fudbaleri-zemuna-u-903-minutu-dosli-do-remija-protiv-partizana-u-prvom-kolu-superlige-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 07. 2026. у 22:06",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Novog Pazara savladali Radnički iz Kragujevca u Superligi Srbije",
       "url": "https://www.tanjug.rs/sport/fudbal/266973/fudbaleri-novog-pazara-savladali-radnicki-iz-kragujevca-u-superligi-srbije/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Đanluka Manćini i Brajan Kristante produžili ugovore sa Romom",
-      "url": "https://www.tanjug.rs/sport/fudbal/266958/danluka-mancini-i-brajan-kristante-produzili-ugovore-sa-romom/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 07. 2026. у 19:11",
-      "slika": null
-    },
-    {
-      "naslov": "Skaloni: Igramo za naš narod i zemlju, analizirali smo Španiju još od decembra",
-      "url": "https://www.tanjug.rs/sport/fudbal/266951/skaloni-igramo-za-nas-narod-i-zemlju-analizirali-smo-spaniju-jos-od-decembra/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 07. 2026. у 18:33",
+      "naslov": "Zemun &quot;šokirao&quot; Partizan u 90+3 i izvukao bod – bruka crno-belih; Ilić: &quot;Anarhija&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251370/partizan-remizirao-sa-zemunom-22-u-1-kolu-superlige-srbije-202627/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 07. 2026. у 22:30",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251408/novi-pazar-bolji-od-kragujevcana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 07. 2026. у 22:12",
-      "slika": null
-    },
-    {
-      "naslov": "Ilić kritikovao igrače: &quot;Počeli su da rade ono što ne treba&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251406/izjava-sase-ilica-posle-remija-sa-zemunom/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 07. 2026. у 22:05",
       "slika": null
     }
   ]
