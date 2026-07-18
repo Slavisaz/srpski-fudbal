@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-17T23:05:27.044164+00:00",
-  "azurirano_sr": "18. 07. 2026. у 01:05",
+  "azurirano": "2026-07-18T00:01:33.915069+00:00",
+  "azurirano_sr": "18. 07. 2026. у 02:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Rodri: Mesi je bez ikakve nedoumice najbolji fudbaler svih vremena",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rodri-mesi-je-bez-ikakve-nedoumice-najbolji-fudbaler-svih-vremena/549190",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 07. 2026. у 03:25",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (petak, 17. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-17-jul/549114",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/run-n-gun-fudbal-u-pancevu-silvester-dzasper-u-epizodi-niko-ne-moze-da-me-cuva/549185",
       "izvor": "Мозарт Спорт",
       "datum": "18. 07. 2026. у 00:05",
-      "slika": null
-    },
-    {
-      "naslov": "Šta je u tvojoj glavi? Manzambi, Manzambi... Vila za 60.000.000 evra prizvala taktove \"Zombija\"",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sta-je-u-tvojoj-glavi-manzambi-manzambi-vila-za-60000000-evra-prizvala-taktove-zombija/549179",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 07. 2026. у 21:40",
       "slika": null
     },
     {
