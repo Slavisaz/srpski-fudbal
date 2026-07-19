@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-19T05:35:26.973944+00:00",
-  "azurirano_sr": "19. 07. 2026. у 07:35",
+  "azurirano": "2026-07-19T07:46:31.085790+00:00",
+  "azurirano_sr": "19. 07. 2026. у 09:46",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Spektakl koji će \"zaustaviti\" planetu: Španija i Argentina za titulu prvaka sveta",
+      "url": "https://www.tanjug.rs/sport/fudbal/266986/spektakl-koji-ce-zaustaviti-planetu-spanija-i-argentina-za-titulu-prvaka-sveta/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 07. 2026. у 06:00",
+      "slika": null
+    },
+    {
+      "naslov": "Deset golova u Majamiju, Englezima bronza na Svetskom prvenstvu, Mbape i Olise rušili rekorde",
+      "url": "https://www.tanjug.rs/sport/fudbal/266983/deset-golova-u-majamiju-englezima-bronza-na-svetskom-prvenstvu-mbape-i-olise-rusili-rekorde/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 07. 2026. у 01:18",
+      "slika": null
+    },
+    {
       "naslov": "Ilić: Zadovoljan sam sa prvih 25 minuta, u određenim trenucima je nastala anarhija",
       "url": "https://www.tanjug.rs/sport/fudbal/266976/ilic-zadovoljan-sam-sa-prvih-25-minuta-u-odredenim-trenucima-je-nastala-anarhija/vest",
       "izvor": "Танјуг",
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Novog Pazara savladali Radnički iz Kragujevca u Superligi Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/266973/fudbaleri-novog-pazara-savladali-radnicki-iz-kragujevca-u-superligi-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 07. 2026. у 22:06",
-      "slika": null
-    },
-    {
-      "naslov": "BBC: Aston Vila prihvatila Čelsijevu ponudu za Morgana Rodžersa",
-      "url": "https://www.tanjug.rs/sport/fudbal/266962/bbc-aston-vila-prihvatila-celsijevu-ponudu-za-morgana-rodzersa/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 07. 2026. у 20:31",
-      "slika": null
-    },
-    {
-      "naslov": "Zemun &quot;šokirao&quot; Partizan u 90+3 i izvukao bod – bruka crno-belih; Ilić: &quot;Anarhija&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251370/partizan-remizirao-sa-zemunom-22-u-1-kolu-superlige-srbije-202627/vest",
+      "naslov": "Heroj Zemuna za B92.sport: &quot;Neki ljudi u Partizanu me nisu videli na velikoj sceni&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251422/novak-petrusic-za-b92sport-fk-zemun-partizan-gol-intervju/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 07. 2026. у 22:30",
+      "datum": "19. 07. 2026. у 09:00",
       "slika": null
     },
     {
-      "naslov": "Minimalac Novog Pazara na otvaranju sezone",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251408/novi-pazar-bolji-od-kragujevcana/vest",
+      "naslov": "Saša Ilić oštro: &quot;Tako jednostavno ne sme da se ponaša igrač Partizana&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251436/sasa-ilic-konferencija-za-medije-posle-remija-sa-zemunom-1-kolo-sls/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 07. 2026. у 22:12",
+      "datum": "19. 07. 2026. у 08:45",
       "slika": null
     }
   ]
