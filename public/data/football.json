@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-19T18:06:08.696996+00:00",
-  "azurirano_sr": "19. 07. 2026. у 20:06",
+  "azurirano": "2026-07-19T19:20:58.319976+00:00",
+  "azurirano_sr": "19. 07. 2026. у 21:20",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Mozzart Bet Superliga ili festival lepih golova? Mladost u Surdulici vodila 90 sekundi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mozzart-bet-superliga-ili-festival-lepih-golova-mladost-u-surdulici-vodila-90-sekundi/549322",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 07. 2026. у 22:55",
+      "slika": null
+    },
     {
       "naslov": "Milošević postao specijalista za makazice: Joca i mali Lane dali po dva gola za Štutgart",
       "url": "https://www.mozzartsport.com/fudbal/vesti/milosevic-postao-specijalista-za-makazice-joca-i-mali-lane-dali-po-dva-gola-za-stutgart/549315",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Ovaj tim Vojvodine pravljen je da puni mreže: Da vidimo može li protiv OFK Beograda",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ovaj-tim-vojvodine-pravljen-je-da-puni-mreze-da-vidimo-moze-li-protiv-ofk-beograda/549288",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 07. 2026. у 14:39",
+      "naslov": "Sastavi Španije i Argentine: Del la Fuente bez izmena, Skaloni napravio tri promene",
+      "url": "https://www.tanjug.rs/sport/fudbal/267108/sastavi-spanije-i-argentine-del-la-fuente-bez-izmena-skaloni-napravio-tri-promene/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 07. 2026. у 19:52",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Spektakl koji će \"zaustaviti\" planetu: Španija i Argentina za titulu prvaka sveta",
-      "url": "https://www.tanjug.rs/sport/fudbal/266986/spektakl-koji-ce-zaustaviti-planetu-spanija-i-argentina-za-titulu-prvaka-sveta/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 07. 2026. у 06:00",
+      "naslov": "Voša razbila OFK na &quot;Karađorđu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251579/superliga-vojvodina-ofk-beograd-40/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 07. 2026. у 21:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251481/bozinov-dolazak-sase-ilica-u-klub-je-ogromna-stvar-za-partizan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 07. 2026. у 15:00",
-      "slika": null
-    },
-    {
-      "naslov": "Veliki peh za Zvezdu – Stanković bez bitnog igrača u Severnoj Irskoj",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251487/rade-krunic-propusta-drugo-kolo-kvalifikacija-za-ligu-sampiona/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 07. 2026. у 12:30",
       "slika": null
     }
   ]
