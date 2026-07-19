@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-19T17:11:28.350010+00:00",
-  "azurirano_sr": "19. 07. 2026. у 19:11",
+  "azurirano": "2026-07-19T18:06:08.696996+00:00",
+  "azurirano_sr": "19. 07. 2026. у 20:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Milošević postao specijalista za makazice: Joca i mali Lane dali po dva gola za Štutgart",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/milosevic-postao-specijalista-za-makazice-joca-i-mali-lane-dali-po-dva-gola-za-stutgart/549315",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 07. 2026. у 21:04",
+      "slika": null
+    },
     {
       "naslov": "Hoće li još jedan bivši fudbaler Zvezde kod Marka Nikolića? Kangva za 4.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/hoce-li-jos-jedan-bivsi-fudbaler-zvezde-kod-marka-nikolica-kangva-za-4000000-evra/549305",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/ovaj-tim-vojvodine-pravljen-je-da-puni-mreze-da-vidimo-moze-li-protiv-ofk-beograda/549288",
       "izvor": "Мозарт Спорт",
       "datum": "19. 07. 2026. у 14:39",
-      "slika": null
-    },
-    {
-      "naslov": "Inter na afrički pogon juri drugu titulu u istoriji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/inter-na-africki-pogon-juri-drugu-titulu-u-istoriji/549273",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 07. 2026. у 12:18",
       "slika": null
     },
     {
