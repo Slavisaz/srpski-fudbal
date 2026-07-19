@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-19T21:06:08.991201+00:00",
-  "azurirano_sr": "19. 07. 2026. у 23:06",
+  "azurirano": "2026-07-19T22:03:43.413803+00:00",
+  "azurirano_sr": "20. 07. 2026. у 00:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI  (nedelja, 19. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-nedelja-19-jul/549271",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 07. 2026. у 01:47",
+      "slika": null
+    },
     {
       "naslov": "Mozzart Bet Superliga ili festival lepih golova? Mladost u Surdulici vodila 90 sekundi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mozzart-bet-superliga-ili-festival-lepih-golova-mladost-u-surdulici-vodila-90-sekundi/549322",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/hoce-li-jos-jedan-bivsi-fudbaler-zvezde-kod-marka-nikolica-kangva-za-4000000-evra/549305",
       "izvor": "Мозарт Спорт",
       "datum": "19. 07. 2026. у 20:35",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (nedelja, 19. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-19-jul/549271",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 07. 2026. у 18:30",
       "slika": null
     },
     {
