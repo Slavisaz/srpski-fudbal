@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-19T12:37:44.051553+00:00",
-  "azurirano_sr": "19. 07. 2026. у 14:37",
+  "azurirano": "2026-07-19T14:08:20.498369+00:00",
+  "azurirano_sr": "19. 07. 2026. у 16:08",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "&quot;Sale, biće teško protiv Zvezde, ali brate – imaš vojsku iza sebe&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251481/bozinov-dolazak-sase-ilica-u-klub-je-ogromna-stvar-za-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 07. 2026. у 15:00",
+      "slika": null
+    },
+    {
       "naslov": "Veliki peh za Zvezdu – Stanković bez bitnog igrača u Severnoj Irskoj",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251487/rade-krunic-propusta-drugo-kolo-kvalifikacija-za-ligu-sampiona/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 07. 2026. у 12:30",
-      "slika": null
-    },
-    {
-      "naslov": "Matić žestoko udario na &quot;grobare&quot;, pa se pokajao: &quot;Dođe beogradska stoka&quot; FOTO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251466/nemanja-matic-o-grobarima-posle-zemun-partizan-beogradska-stoka/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 07. 2026. у 11:00",
       "slika": null
     }
   ]
