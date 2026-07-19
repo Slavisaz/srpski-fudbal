@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-07-19T07:46:31.085790+00:00",
-  "azurirano_sr": "19. 07. 2026. у 09:46",
+  "azurirano": "2026-07-19T09:31:57.412120+00:00",
+  "azurirano_sr": "19. 07. 2026. у 11:31",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "TRANSFERI (subota, 18. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-subota-18-jul/549201",
+      "naslov": "Inter na afrički pogon juri drugu titulu u istoriji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/inter-na-africki-pogon-juri-drugu-titulu-u-istoriji/549273",
       "izvor": "Мозарт Спорт",
-      "datum": "19. 07. 2026. у 01:32",
+      "datum": "19. 07. 2026. у 12:18",
       "slika": null
     },
     {
-      "naslov": "Embapeova poruka Dešanu: Zaslužio si bolji ispraćaj, ljudi nisu cenili tvoju veličinu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/embapeova-poruka-desanu-zasluzio-si-bolji-ispracaj-ljudi-nisu-cenili-tvoju-velicinu/549248",
+      "naslov": "Vasić: Hamarbi je prošlost, želim samo da igram fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vasic-hamarbi-je-proslost-zelim-samo-da-igram-fudbal/549272",
       "izvor": "Мозарт Спорт",
-      "datum": "18. 07. 2026. у 23:09",
+      "datum": "19. 07. 2026. у 12:15",
       "slika": null
     },
     {
-      "naslov": "Komo mora nešto i da proda da bi kupovao skuplje…",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/komo-mora-nesto-i-da-proda-da-bi-kupovao-skuplje/549246",
+      "naslov": "TRANSFERI UŽIVO (nedelja, 19. jun)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-19-jun/549271",
       "izvor": "Мозарт Спорт",
-      "datum": "18. 07. 2026. у 22:38",
+      "datum": "19. 07. 2026. у 12:02",
       "slika": null
     },
     {
-      "naslov": "Arsenal prvi hteo, Čelsi aktivirao bombu: Morgan Rodžers najskuplji Englez u istoriji!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/arsenal-prvi-hteo-celsi-aktivirao-bombu-morgan-rodzers-najskuplji-englez-u-istoriji/549245",
+      "naslov": "Jedanaest utakmica u klupskom fudbalu, pa šta? Ovo je neki potpuno drugačiji svet",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jedanaest-utakmica-u-klupskom-fudbalu-pa-sta-ovo-je-neki-potpuno-drugaciji-svet/549257",
       "izvor": "Мозарт Спорт",
-      "datum": "18. 07. 2026. у 22:18",
+      "datum": "19. 07. 2026. у 11:55",
+      "slika": null
+    },
+    {
+      "naslov": "Dijalo: Naslednik Dešama na klupi Francuske znaće se do kraja jula",
+      "url": "https://www.tanjug.rs/sport/fudbal/267011/dijalo-naslednik-desama-na-klupi-francuske-znace-se-do-kraja-jula/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 07. 2026. у 10:30",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Zemuna u 90+3. minutu došli do remija protiv Partizana u prvom kolu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/266974/fudbaleri-zemuna-u-903-minutu-dosli-do-remija-protiv-partizana-u-prvom-kolu-superlige-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 07. 2026. у 22:06",
+      "naslov": "Matić žestoko udario na &quot;grobare&quot;, pa se pokajao: &quot;Dođe beogradska stoka&quot; FOTO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251466/nemanja-matic-o-grobarima-posle-zemun-partizan-beogradska-stoka/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 07. 2026. у 11:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251422/novak-petrusic-za-b92sport-fk-zemun-partizan-gol-intervju/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 07. 2026. у 09:00",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić oštro: &quot;Tako jednostavno ne sme da se ponaša igrač Partizana&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251436/sasa-ilic-konferencija-za-medije-posle-remija-sa-zemunom-1-kolo-sls/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 07. 2026. у 08:45",
       "slika": null
     }
   ]
