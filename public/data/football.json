@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-19T09:31:57.412120+00:00",
-  "azurirano_sr": "19. 07. 2026. у 11:31",
+  "azurirano": "2026-07-19T10:55:57.438410+00:00",
+  "azurirano_sr": "19. 07. 2026. у 12:55",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (nedelja, 19. jun)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-19-jun/549271",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 07. 2026. у 14:18",
+      "slika": null
+    },
     {
       "naslov": "Inter na afrički pogon juri drugu titulu u istoriji",
       "url": "https://www.mozzartsport.com/fudbal/vesti/inter-na-africki-pogon-juri-drugu-titulu-u-istoriji/549273",
@@ -18,17 +25,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (nedelja, 19. jun)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-19-jun/549271",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 07. 2026. у 12:02",
-      "slika": null
-    },
-    {
       "naslov": "Jedanaest utakmica u klupskom fudbalu, pa šta? Ovo je neki potpuno drugačiji svet",
       "url": "https://www.mozzartsport.com/fudbal/vesti/jedanaest-utakmica-u-klupskom-fudbalu-pa-sta-ovo-je-neki-potpuno-drugaciji-svet/549257",
       "izvor": "Мозарт Спорт",
       "datum": "19. 07. 2026. у 11:55",
+      "slika": null
+    },
+    {
+      "naslov": "Božinov: Dolazak Saše Ilića u klub je ogromna stvar za Partizan",
+      "url": "https://www.tanjug.rs/sport/fudbal/267022/bozinov-dolazak-sase-ilica-u-klub-je-ogromna-stvar-za-partizan/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 07. 2026. у 11:34",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Ilić: Zadovoljan sam sa prvih 25 minuta, u određenim trenucima je nastala anarhija",
-      "url": "https://www.tanjug.rs/sport/fudbal/266976/ilic-zadovoljan-sam-sa-prvih-25-minuta-u-odredenim-trenucima-je-nastala-anarhija/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 07. 2026. у 22:17",
+      "naslov": "Veliki peh za Zvezdu – Stanković bez bitnog igrača u Severnoj Irskoj",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251487/rade-krunic-propusta-drugo-kolo-kvalifikacija-za-ligu-sampiona/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 07. 2026. у 12:30",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251466/nemanja-matic-o-grobarima-posle-zemun-partizan-beogradska-stoka/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 07. 2026. у 11:00",
-      "slika": null
-    },
-    {
-      "naslov": "Heroj Zemuna za B92.sport: &quot;Neki ljudi u Partizanu me nisu videli na velikoj sceni&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251422/novak-petrusic-za-b92sport-fk-zemun-partizan-gol-intervju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 07. 2026. у 09:00",
       "slika": null
     }
   ]
