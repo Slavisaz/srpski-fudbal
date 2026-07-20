@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-20T06:34:26.886803+00:00",
-  "azurirano_sr": "20. 07. 2026. у 08:34",
+  "azurirano": "2026-07-20T09:43:08.578110+00:00",
+  "azurirano_sr": "20. 07. 2026. у 11:43",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dete Partizana Ivanjicu zamenilo Loznicom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dete-partizana-ivanjicu-zamenilo-loznicom/549363",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 07. 2026. у 12:51",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (ponedeljak, 20. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-20-jul/549353",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 07. 2026. у 11:36",
+      "slika": null
+    },
     {
       "naslov": "Španci pokupili skoro sve individualne nagrade, jedini uljez Embapeova Zlatna kopačka",
       "url": "https://www.mozzartsport.com/fudbal/vesti/spanci-pokupili-skoro-sve-individualne-nagrade-jedini-uljez-embapeova-zlatna-kopacka/549335",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Mozzart Bet Superliga ili festival lepih golova? Mladost u Surdulici vodila 90 sekundi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mozzart-bet-superliga-ili-festival-lepih-golova-mladost-u-surdulici-vodila-90-sekundi/549322",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 07. 2026. у 22:55",
+      "naslov": "Utakmice Svetskog fudbalskog prvenstva uživo posmatralo skoro sedam miliona ljudi",
+      "url": "https://www.tanjug.rs/sport/fudbal/267159/utakmice-svetskog-fudbalskog-prvenstva-uzivo-posmatralo-skoro-sedam-miliona-ljudi/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 07. 2026. у 09:27",
       "slika": null
     },
     {
-      "naslov": "Milošević postao specijalista za makazice: Joca i mali Lane dali po dva gola za Štutgart",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/milosevic-postao-specijalista-za-makazice-joca-i-mali-lane-dali-po-dva-gola-za-stutgart/549315",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 07. 2026. у 21:04",
+      "naslov": "UEFA skratila spisak potencijalnih rivala Partizana u trećem kolu kvalifikacija za Ligu konferencija",
+      "url": "https://www.tanjug.rs/sport/fudbal/267154/uefa-skratila-spisak-potencijalnih-rivala-partizana-u-trecem-kolu-kvalifikacija-za-ligu-konferencija/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 07. 2026. у 09:10",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Španije prvaci sveta, Feran Tores \"slomio\" Argentince u 106. minutu",
-      "url": "https://www.tanjug.rs/sport/fudbal/267126/fudbaleri-spanije-prvaci-sveta-feran-tores-slomio-argentince-u-106-minutu/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 07. 2026. у 00:21",
-      "slika": null
-    },
-    {
-      "naslov": "Madona, Šakira i drugi izvođači na šouu između dva poluvremena na finalu Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/267121/madona-sakira-i-drugi-izvodaci-na-souu-izmedu-dva-poluvremena-na-finalu-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 07. 2026. у 22:27",
+      "naslov": "Zvezda promovisala gostujući dres FOTO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251713/zvezda-promovisala-gostujuci-dres-foto/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "20. 07. 2026. у 11:40",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251579/superliga-vojvodina-ofk-beograd-40/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 07. 2026. у 21:00",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Sale, biće teško protiv Zvezde, ali brate – imaš vojsku iza sebe&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251481/bozinov-dolazak-sase-ilica-u-klub-je-ogromna-stvar-za-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 07. 2026. у 15:00",
       "slika": null
     }
   ]
