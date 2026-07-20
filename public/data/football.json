@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-20T16:06:59.681223+00:00",
-  "azurirano_sr": "20. 07. 2026. у 18:06",
+  "azurirano": "2026-07-20T18:13:54.407255+00:00",
+  "azurirano_sr": "20. 07. 2026. у 20:13",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Žule Stojković: Da nije bilo bolničkih kreveta na Zlatiboru ne bi bilo Zvezde u Evropi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zule-stojkovic-da-nije-bilo-bolnickih-kreveta-na-zlatiboru-ne-bi-bilo-zvezde-u-evropi/549404",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 07. 2026. у 21:28",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (ponedeljak, 20. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-20-jul/549353",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Region u Liga konferencije: Borac čeka Sutjesku, Hajduku preti put na istok",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/region-u-liga-konferencije-borac-ceka-sutjesku-hajduku-preti-put-na-istok/549385",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 07. 2026. у 16:48",
+      "naslov": "Tramp: Svetsko prvenstvo 2026. bilo je spektakularan uspeh",
+      "url": "https://www.tanjug.rs/sport/fudbal/267300/tramp-svetsko-prvenstvo-2026-bilo-je-spektakularan-uspeh/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 07. 2026. у 19:13",
+      "slika": null
+    },
+    {
+      "naslov": "Šampionski doček za Špance u Madridu, svetska titula slavi se na \"Sibelesu\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/267294/sampionski-docek-za-spance-u-madridu-svetska-titula-slavi-se-na-sibelesu/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 07. 2026. у 18:46",
+      "slika": null
+    },
+    {
+      "naslov": "Meksiko tokom SP posetilo oko tri miliona stranih turista",
+      "url": "https://www.tanjug.rs/sport/fudbal/267289/meksiko-tokom-sp-posetilo-oko-tri-miliona-stranih-turista/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 07. 2026. у 17:58",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/267281/stankovic-pred-duel-protiv-larna-ulogu-favorita-moramo-da-opravdamo-na-terenu/vest",
       "izvor": "Танјуг",
       "datum": "20. 07. 2026. у 16:59",
-      "slika": null
-    },
-    {
-      "naslov": "Preminuo čuveni engleski fudbaler Kevin Kigen",
-      "url": "https://www.tanjug.rs/sport/fudbal/267275/preminuo-cuveni-engleski-fudbaler-kevin-kigen/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 07. 2026. у 16:37",
-      "slika": null
-    },
-    {
-      "naslov": "Krstić: Nije slučajno da uspesi dolaze, mlađe selekcije imaju najbolje uslove",
-      "url": "https://www.tanjug.rs/sport/fudbal/267259/krstic-nije-slucajno-da-uspesi-dolaze-mlade-selekcije-imaju-najbolje-uslove/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 07. 2026. у 15:55",
-      "slika": null
-    },
-    {
-      "naslov": "Potencijalni rivali fudbalerima Železničara u LK Nefči ili beloruski Dinamo",
-      "url": "https://www.tanjug.rs/sport/fudbal/267247/potencijalni-rivali-fudbalerima-zeleznicara-u-lk-nefci-ili-beloruski-dinamo/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 07. 2026. у 14:56",
       "slika": null
     },
     {
