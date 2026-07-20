@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-19T23:01:58.520781+00:00",
-  "azurirano_sr": "20. 07. 2026. у 01:01",
+  "azurirano": "2026-07-20T00:01:21.771361+00:00",
+  "azurirano_sr": "20. 07. 2026. у 02:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Španci pokupili skoro sve individualne nagrade, jedini uljez Embapeova Zlatna kopačka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/spanci-pokupili-skoro-sve-individualne-nagrade-jedini-uljez-embapeova-zlatna-kopacka/549335",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 07. 2026. у 03:00",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI  (nedelja, 19. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-nedelja-19-jul/549271",
@@ -25,13 +32,6 @@
       "slika": null
     },
     {
-      "naslov": "Hoće li još jedan bivši fudbaler Zvezde kod Marka Nikolića? Kangva za 4.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/hoce-li-jos-jedan-bivsi-fudbaler-zvezde-kod-marka-nikolica-kangva-za-4000000-evra/549305",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 07. 2026. у 20:35",
-      "slika": null
-    },
-    {
       "naslov": "Fudbaleri Španije prvaci sveta, Feran Tores \"slomio\" Argentince u 106. minutu",
       "url": "https://www.tanjug.rs/sport/fudbal/267126/fudbaleri-spanije-prvaci-sveta-feran-tores-slomio-argentince-u-106-minutu/vest",
       "izvor": "Танјуг",
@@ -39,8 +39,8 @@
       "slika": null
     },
     {
-      "naslov": "Madona, Šakira i drugi izvođači na šouu između dva poluvremena na finalu SP",
-      "url": "https://www.tanjug.rs/sport/fudbal/267121/madona-sakira-i-drugi-izvodaci-na-souu-izmedu-dva-poluvremena-na-finalu-sp/vest",
+      "naslov": "Madona, Šakira i drugi izvođači na šouu između dva poluvremena na finalu Svetskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/267121/madona-sakira-i-drugi-izvodaci-na-souu-izmedu-dva-poluvremena-na-finalu-svetskog-prvenstva/vest",
       "izvor": "Танјуг",
       "datum": "19. 07. 2026. у 22:27",
       "slika": null
