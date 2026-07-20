@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-20T21:00:34.369959+00:00",
-  "azurirano_sr": "20. 07. 2026. у 23:00",
+  "azurirano": "2026-07-20T22:03:16.417391+00:00",
+  "azurirano_sr": "21. 07. 2026. у 00:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (ponedeljak, 20. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-ponedeljak-20-jul/549353",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 07. 2026. у 01:30",
+      "slika": null
+    },
     {
       "naslov": "Zvanično: Džon Duran za ukupnih 6.100.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-dzon-duran-za-ukupnih-6100000-evra/549418",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/infantino-ima-podrsku-prvog-coveka-conmebola-stogodisnjica-mundijala-sa-64-ekipe/549410",
       "izvor": "Мозарт Спорт",
       "datum": "20. 07. 2026. у 22:53",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (ponedeljak, 20. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-20-jul/549353",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 07. 2026. у 22:23",
       "slika": null
     },
     {
