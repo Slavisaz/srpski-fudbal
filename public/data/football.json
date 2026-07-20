@@ -1,13 +1,27 @@
 {
-  "azurirano": "2026-07-20T14:26:21.063431+00:00",
-  "azurirano_sr": "20. 07. 2026. у 16:26",
+  "azurirano": "2026-07-20T16:06:59.681223+00:00",
+  "azurirano_sr": "20. 07. 2026. у 18:06",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (ponedeljak, 20. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-20-jul/549353",
       "izvor": "Мозарт Спорт",
-      "datum": "20. 07. 2026. у 17:42",
+      "datum": "20. 07. 2026. у 19:30",
+      "slika": null
+    },
+    {
+      "naslov": "PREMOTAVANJE: Kako je beogradska policija isprebijala Kevina Kigena...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/premotavanje-kako-je-beogradska-policija-isprebijala-kevina-kigena/152383",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 07. 2026. у 18:31",
+      "slika": null
+    },
+    {
+      "naslov": "Čovek koji je odrastao zajedno sa reprezentacijom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/covek-koji-je-odrastao-zajedno-sa-reprezentacijom/549392",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 07. 2026. у 18:23",
       "slika": null
     },
     {
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "U Štutgartu zadovoljni zbog Miloševićevih golova: Jovanov kvalitet nije sporan",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/u-stutgartu-zadovoljni-zbog-milosevicevih-golova-jovanov-kvalitet-nije-sporan/549377",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 07. 2026. у 15:25",
+      "naslov": "Stanković pred duel protiv Larna: Ulogu favorita moramo da opravdamo na terenu",
+      "url": "https://www.tanjug.rs/sport/fudbal/267281/stankovic-pred-duel-protiv-larna-ulogu-favorita-moramo-da-opravdamo-na-terenu/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 07. 2026. у 16:59",
       "slika": null
     },
     {
-      "naslov": "Jedinstven slučaj u istoriji fudbala: Het-trik Aleksa Baene",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jedinstven-slucaj-u-istoriji-fudbala-hettrik-aleksa-baene/549374",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 07. 2026. у 14:54",
+      "naslov": "Preminuo čuveni engleski fudbaler Kevin Kigen",
+      "url": "https://www.tanjug.rs/sport/fudbal/267275/preminuo-cuveni-engleski-fudbaler-kevin-kigen/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 07. 2026. у 16:37",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/267247/potencijalni-rivali-fudbalerima-zeleznicara-u-lk-nefci-ili-beloruski-dinamo/vest",
       "izvor": "Танјуг",
       "datum": "20. 07. 2026. у 14:56",
-      "slika": null
-    },
-    {
-      "naslov": "Potencijalni rivali Vojvodine u Ligi konferencija irski Šelburn i Kalju Nome iz Estonije",
-      "url": "https://www.tanjug.rs/sport/fudbal/267242/potencijalni-rivali-vojvodine-u-ligi-konferencija-irski-selburn-i-kalju-nome-iz-estonije/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 07. 2026. у 14:38",
-      "slika": null
-    },
-    {
-      "naslov": "Panevežis ili Tobol potencijalni rivali Partizana u kvalifikacijama za Ligu konferencija",
-      "url": "https://www.tanjug.rs/sport/fudbal/267238/panevezis-ili-tobol-potencijalni-rivali-partizana-u-kvalifikacijama-za-ligu-konferencija/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 07. 2026. у 14:23",
       "slika": null
     },
     {
