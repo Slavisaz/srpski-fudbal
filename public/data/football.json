@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-20T03:41:00.583504+00:00",
-  "azurirano_sr": "20. 07. 2026. у 05:41",
+  "azurirano": "2026-07-20T06:34:26.886803+00:00",
+  "azurirano_sr": "20. 07. 2026. у 08:34",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Mesi se oprostio u suzama - iza njega ostaju brojni rekordi",
+      "url": "https://www.tanjug.rs/sport/fudbal/267139/mesi-se-oprostio-u-suzama-iza-njega-ostaju-brojni-rekordi/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 07. 2026. у 01:01",
+      "slika": null
+    },
+    {
+      "naslov": "Rodriju \"Zlatna lopta\", Simon najbolji golman, Kubarsi najbolji mladi fudbaler",
+      "url": "https://www.tanjug.rs/sport/fudbal/267140/rodriju-zlatna-lopta-simon-najbolji-golman-kubarsi-najbolji-mladi-fudbaler/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 07. 2026. у 00:38",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Španije prvaci sveta, Feran Tores \"slomio\" Argentince u 106. minutu",
       "url": "https://www.tanjug.rs/sport/fudbal/267126/fudbaleri-spanije-prvaci-sveta-feran-tores-slomio-argentince-u-106-minutu/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/267121/madona-sakira-i-drugi-izvodaci-na-souu-izmedu-dva-poluvremena-na-finalu-svetskog-prvenstva/vest",
       "izvor": "Танјуг",
       "datum": "19. 07. 2026. у 22:27",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Vojvodine ubedljivi protiv OFK Beograda, IMT bolji od Čukaričkog",
-      "url": "https://www.tanjug.rs/sport/fudbal/267114/fudbaleri-vojvodine-ubedljivi-protiv-ofk-beograda-imt-bolji-od-cukarickog/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 07. 2026. у 21:02",
-      "slika": null
-    },
-    {
-      "naslov": "Sastavi Španije i Argentine: Del la Fuente bez izmena, Skaloni napravio tri promene",
-      "url": "https://www.tanjug.rs/sport/fudbal/267108/sastavi-spanije-i-argentine-del-la-fuente-bez-izmena-skaloni-napravio-tri-promene/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 07. 2026. у 19:52",
       "slika": null
     },
     {
