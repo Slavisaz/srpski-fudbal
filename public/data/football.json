@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-20T12:02:47.802002+00:00",
-  "azurirano_sr": "20. 07. 2026. у 14:02",
+  "azurirano": "2026-07-20T14:26:21.063431+00:00",
+  "azurirano_sr": "20. 07. 2026. у 16:26",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (ponedeljak, 20. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-20-jul/549353",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 07. 2026. у 17:42",
+      "slika": null
+    },
+    {
+      "naslov": "Region u Liga konferencije: Borac čeka Sutjesku, Hajduku preti put na istok",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/region-u-liga-konferencije-borac-ceka-sutjesku-hajduku-preti-put-na-istok/549385",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 07. 2026. у 16:48",
+      "slika": null
+    },
     {
       "naslov": "U Štutgartu zadovoljni zbog Miloševićevih golova: Jovanov kvalitet nije sporan",
       "url": "https://www.mozzartsport.com/fudbal/vesti/u-stutgartu-zadovoljni-zbog-milosevicevih-golova-jovanov-kvalitet-nije-sporan/549377",
@@ -18,52 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Švedska ove godine nije obećana zemlja za srpske fudbalere",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/svedska-ove-godine-nije-obecana-zemlja-za-srpske-fudbalere/549370",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 07. 2026. у 14:33",
-      "slika": null
-    },
-    {
-      "naslov": "FIFA rang lista: Španija smenila Argentinu, Srbija na 40. mestu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fifa-rang-lista-spanija-smenila-argentinu-srbija-na-40-mestu/549369",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 07. 2026. у 13:48",
-      "slika": null
-    },
-    {
-      "naslov": "Utakmice Svetskog fudbalskog prvenstva uživo posmatralo skoro sedam miliona ljudi",
-      "url": "https://www.tanjug.rs/sport/fudbal/267159/utakmice-svetskog-fudbalskog-prvenstva-uzivo-posmatralo-skoro-sedam-miliona-ljudi/vest",
+      "naslov": "Krstić: Nije slučajno da uspesi dolaze, mlađe selekcije imaju najbolje uslove",
+      "url": "https://www.tanjug.rs/sport/fudbal/267259/krstic-nije-slucajno-da-uspesi-dolaze-mlade-selekcije-imaju-najbolje-uslove/vest",
       "izvor": "Танјуг",
-      "datum": "20. 07. 2026. у 09:27",
+      "datum": "20. 07. 2026. у 15:55",
       "slika": null
     },
     {
-      "naslov": "UEFA skratila spisak potencijalnih rivala Partizana u trećem kolu kvalifikacija za Ligu konferencija",
-      "url": "https://www.tanjug.rs/sport/fudbal/267154/uefa-skratila-spisak-potencijalnih-rivala-partizana-u-trecem-kolu-kvalifikacija-za-ligu-konferencija/vest",
+      "naslov": "Potencijalni rivali fudbalerima Železničara u LK Nefči ili beloruski Dinamo",
+      "url": "https://www.tanjug.rs/sport/fudbal/267247/potencijalni-rivali-fudbalerima-zeleznicara-u-lk-nefci-ili-beloruski-dinamo/vest",
       "izvor": "Танјуг",
-      "datum": "20. 07. 2026. у 09:10",
+      "datum": "20. 07. 2026. у 14:56",
       "slika": null
     },
     {
-      "naslov": "Mesi se oprostio u suzama - iza njega ostaju brojni rekordi",
-      "url": "https://www.tanjug.rs/sport/fudbal/267139/mesi-se-oprostio-u-suzama-iza-njega-ostaju-brojni-rekordi/vest",
+      "naslov": "Potencijalni rivali Vojvodine u Ligi konferencija irski Šelburn i Kalju Nome iz Estonije",
+      "url": "https://www.tanjug.rs/sport/fudbal/267242/potencijalni-rivali-vojvodine-u-ligi-konferencija-irski-selburn-i-kalju-nome-iz-estonije/vest",
       "izvor": "Танјуг",
-      "datum": "20. 07. 2026. у 01:01",
+      "datum": "20. 07. 2026. у 14:38",
       "slika": null
     },
     {
-      "naslov": "Rodriju \"Zlatna lopta\", Simon najbolji golman, Kubarsi najbolji mladi fudbaler",
-      "url": "https://www.tanjug.rs/sport/fudbal/267140/rodriju-zlatna-lopta-simon-najbolji-golman-kubarsi-najbolji-mladi-fudbaler/vest",
+      "naslov": "Panevežis ili Tobol potencijalni rivali Partizana u kvalifikacijama za Ligu konferencija",
+      "url": "https://www.tanjug.rs/sport/fudbal/267238/panevezis-ili-tobol-potencijalni-rivali-partizana-u-kvalifikacijama-za-ligu-konferencija/vest",
       "izvor": "Танјуг",
-      "datum": "20. 07. 2026. у 00:38",
+      "datum": "20. 07. 2026. у 14:23",
       "slika": null
     },
     {
       "naslov": "Partizan odbio 500.000 evra za levog beka",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251665/sturm-poslao-500000-evra-za-stefana-petrovica-partizan-odbio/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "20. 07. 2026. у 13:17",
+      "datum": "20. 07. 2026. у 14:15",
       "slika": null
     },
     {
