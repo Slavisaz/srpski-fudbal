@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-20T19:55:32.015666+00:00",
-  "azurirano_sr": "20. 07. 2026. у 21:55",
+  "azurirano": "2026-07-20T21:00:34.369959+00:00",
+  "azurirano_sr": "20. 07. 2026. у 23:00",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvanično: Džon Duran za ukupnih 6.100.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-dzon-duran-za-ukupnih-6100000-evra/549418",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 07. 2026. у 00:33",
+      "slika": null
+    },
+    {
+      "naslov": "Čudna glava srpskog fudbala pronašla novu sredinu: Trivante Stjuart u Turskoj, otkup 1.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cudna-glava-srpskog-fudbala-pronasla-novu-sredinu-trivante-stjuart-u-turskoj-otkup-1000000-evra/549413",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 07. 2026. у 23:49",
+      "slika": null
+    },
     {
       "naslov": "Infantino ima podršku prvog čoveka CONMEBOL-a: Stogodišnjica Mundijala sa 64 ekipe",
       "url": "https://www.mozzartsport.com/fudbal/vesti/infantino-ima-podrsku-prvog-coveka-conmebola-stogodisnjica-mundijala-sa-64-ekipe/549410",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-20-jul/549353",
       "izvor": "Мозарт Спорт",
       "datum": "20. 07. 2026. у 22:23",
-      "slika": null
-    },
-    {
-      "naslov": "Žule Stojković: Da nije bilo bolničkih kreveta na Zlatiboru ne bi bilo Zvezde u Evropi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zule-stojkovic-da-nije-bilo-bolnickih-kreveta-na-zlatiboru-ne-bi-bilo-zvezde-u-evropi/549404",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 07. 2026. у 21:28",
-      "slika": null
-    },
-    {
-      "naslov": "PREMOTAVANJE: Kako je beogradska policija isprebijala Kevina Kigena...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/premotavanje-kako-je-beogradska-policija-isprebijala-kevina-kigena/152383",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 07. 2026. у 18:31",
       "slika": null
     },
     {
