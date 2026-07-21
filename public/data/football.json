@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-21T17:06:37.144351+00:00",
-  "azurirano_sr": "21. 07. 2026. у 19:06",
+  "azurirano": "2026-07-21T18:22:55.215824+00:00",
+  "azurirano_sr": "21. 07. 2026. у 20:22",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Remont Ipsviča: Krilo Lestera za 27.000.000, Japanac kom bi Seltik mogao da podigne bistu i golman",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/remont-ipsvica-krilo-lestera-za-27000000-japanac-kom-bi-seltik-mogao-da-podigne-bistu-i-golman/549481",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 07. 2026. у 21:15",
+      "slika": null
+    },
     {
       "naslov": "Štoper Radnika pred transferom, može da bira između Nemačke, Belgije i Austrije",
       "url": "https://www.mozzartsport.com/fudbal/vesti/stoper-radnika-pred-transferom-moze-da-bira-izmeu-nemacke-belgije-i-austrije/549477",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Silvester Džasper hoće u Zulte Varegem, oprašta se protiv Brage",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/silvester-dzasper-hoce-u-zulte-varegem-oprasta-se-protiv-brage/549472",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 07. 2026. у 19:45",
+      "naslov": "Koković pred Bragu: Da ostanemo privrženi svom stilu i dostojno predstavimo Srbiju",
+      "url": "https://www.tanjug.rs/sport/fudbal/267606/kokovic-pred-bragu-da-ostanemo-privrzeni-svom-stilu-i-dostojno-predstavimo-srbiju/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 07. 2026. у 18:52",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/267479/san-svetsko-fudbalsko-prvenstvo-2034-igrace-se-2035-godine/vest",
       "izvor": "Танјуг",
       "datum": "21. 07. 2026. у 13:13",
-      "slika": null
-    },
-    {
-      "naslov": "BBC: Argentina će se suočiti sa istragom zbog scena po okončanju finala Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/267450/bbc-argentina-ce-se-suociti-sa-istragom-zbog-scena-po-okoncanju-finala-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 07. 2026. у 12:27",
       "slika": null
     },
     {
