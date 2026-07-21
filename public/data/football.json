@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-21T12:12:16.349885+00:00",
-  "azurirano_sr": "21. 07. 2026. у 14:12",
+  "azurirano": "2026-07-21T14:19:33.774096+00:00",
+  "azurirano_sr": "21. 07. 2026. у 16:19",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaler Aston Vile Amadu Onana uspešno operisan, pauziraće devet meseci",
+      "url": "https://www.tanjug.rs/sport/fudbal/267529/fudbaler-aston-vile-amadu-onana-uspesno-operisan-pauzirace-devet-meseci/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 07. 2026. у 14:59",
+      "slika": null
+    },
+    {
       "naslov": "San: Svetsko fudbalsko prvenstvo 2034. igraće se 2035. godine",
       "url": "https://www.tanjug.rs/sport/fudbal/267479/san-svetsko-fudbalsko-prvenstvo-2034-igrace-se-2035-godine/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Domingez: Odlična prilika da se 2030. proslavi 100 godina Svetskog prvenstva takmičenjem sa 64 ekipe",
-      "url": "https://www.tanjug.rs/sport/fudbal/267370/domingez-odlicna-prilika-da-se-2030-proslavi-100-godina-svetskog-prvenstva-takmicenjem-sa-64-ekipe/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 07. 2026. у 09:24",
+      "naslov": "Milioni stižu u Humsku!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252067/vanja-dragojevic-prelazi-u-rendzers-partizan-zaradjuje-55-miliona-evra/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 07. 2026. у 14:30",
       "slika": null
     },
     {
@@ -71,13 +78,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251665/sturm-poslao-500000-evra-za-stefana-petrovica-partizan-odbio/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "20. 07. 2026. у 14:15",
-      "slika": null
-    },
-    {
-      "naslov": "Kamerunac za jači bedem ispred gola Železničara",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251701/kristijan-cuante-novi-igrac-zeleznicara-iz-panceva/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "20. 07. 2026. у 12:38",
       "slika": null
     }
   ]
