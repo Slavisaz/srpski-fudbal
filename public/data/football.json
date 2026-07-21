@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-21T08:43:34.909159+00:00",
-  "azurirano_sr": "21. 07. 2026. у 10:43",
+  "azurirano": "2026-07-21T10:48:43.467916+00:00",
+  "azurirano_sr": "21. 07. 2026. у 12:48",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Gudelj blizu potpisa za drugoligaša",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gudelj-blizu-potpisa-za-drugoligasa/549447",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 07. 2026. у 14:16",
+      "slika": null
+    },
+    {
+      "naslov": "Radnički nastavlja da štancuje novajlije: Potpisao bivši igrač Partizana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/radnicki-nastavlja-da-stancuje-novajlije-potpisao-bivsi-igrac-partizana/549438",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 07. 2026. у 13:18",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (utorak, 21. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-21-jul/549428",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 07. 2026. у 12:45",
+      "slika": null
+    },
     {
       "naslov": "FIFA uništava fudbal, pauze za hidrataciju su laž; Infantino mora da ode, njegovo vreme je prošlo",
       "url": "https://www.mozzartsport.com/fudbal/vesti/fifa-unistava-fudbal-pauze-za-hidrataciju-su-laz-infantino-mora-da-ode-njegovo-vreme-je-proslo/549432",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Hvan promovisan na Dragau: Dolazak u Porto je samo 40 odsto bio moja odluka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/hvan-promovisan-na-dragau-dolazak-u-porto-je-samo-40-odsto-bio-moja-odluka/549430",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 07. 2026. у 11:48",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (utorak, 21. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-21-jul/549428",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 07. 2026. у 11:04",
-      "slika": null
-    },
-    {
-      "naslov": "LUDI TIKET (-), utorak, 710.488 dinara: Prelaz iz Libana ga udario kao grom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-utorak-710488-dinara-prelaz-iz-libana-ga-udario-kao-grom/549427",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 07. 2026. у 10:36",
+      "naslov": "Fudbaleri Srbije 40. na najnovijoj rang listi FIFA",
+      "url": "https://www.tanjug.rs/sport/fudbal/267423/fudbaleri-srbije-40-na-najnovijoj-rang-listi-fifa/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 07. 2026. у 11:29",
       "slika": null
     },
     {
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Šampionski doček za Špance u Madridu, svetska titula slavi se na \"Sibelesu\"",
-      "url": "https://www.tanjug.rs/sport/fudbal/267294/sampionski-docek-za-spance-u-madridu-svetska-titula-slavi-se-na-sibelesu/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 07. 2026. у 18:46",
-      "slika": null
-    },
-    {
       "naslov": "Partizan odbio 500.000 evra za levog beka",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251665/sturm-poslao-500000-evra-za-stefana-petrovica-partizan-odbio/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,10 +67,24 @@
       "slika": null
     },
     {
+      "naslov": "Modrić odredio poslednju utakmicu u dresu Hrvatske",
+      "url": "https://www.b92.net/sport/fudbal/vesti/252029/luka-modric-protiv-spanije-se-oprasta-od-dresa-reprezentacije/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "21. 07. 2026. у 12:40",
+      "slika": null
+    },
+    {
       "naslov": "Kamerunac za jači bedem ispred gola Železničara",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251701/kristijan-cuante-novi-igrac-zeleznicara-iz-panceva/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "20. 07. 2026. у 12:38",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezda promovisala gostujući dres FOTO/VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251713/zvezda-promovisala-gostujuci-dres-fotovideo/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "20. 07. 2026. у 11:40",
       "slika": null
     }
   ]
