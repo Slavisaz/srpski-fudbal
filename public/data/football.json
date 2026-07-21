@@ -1,34 +1,34 @@
 {
-  "azurirano": "2026-07-21T15:55:48.284143+00:00",
-  "azurirano_sr": "21. 07. 2026. у 17:55",
+  "azurirano": "2026-07-21T17:06:37.144351+00:00",
+  "azurirano_sr": "21. 07. 2026. у 19:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Štoper Radnika pred transferom, može da bira između Nemačke, Belgije i Austrije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stoper-radnika-pred-transferom-moze-da-bira-izmeu-nemacke-belgije-i-austrije/549477",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 07. 2026. у 20:17",
+      "slika": null
+    },
+    {
+      "naslov": "Posle tri godine u Ivanjici Bajere otišao u Azerbejdžan",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/posle-tri-godine-u-ivanjici-bajere-otisao-u-azerbejdzan/549475",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 07. 2026. у 20:12",
+      "slika": null
+    },
+    {
+      "naslov": "Saudijci kupuju iz Čempionšipa – za 80.000.000 evra! Obogatio se Vest Hem",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/saudijci-kupuju-iz-cempionsipa-za-80000000-evra-obogatio-se-vest-hem/549474",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 07. 2026. у 20:08",
+      "slika": null
+    },
     {
       "naslov": "Silvester Džasper hoće u Zulte Varegem, oprašta se protiv Brage",
       "url": "https://www.mozzartsport.com/fudbal/vesti/silvester-dzasper-hoce-u-zulte-varegem-oprasta-se-protiv-brage/549472",
       "izvor": "Мозарт Спорт",
       "datum": "21. 07. 2026. у 19:45",
-      "slika": null
-    },
-    {
-      "naslov": "IO FSS odlučio: Dubočica ostaje prvoligaš",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/io-fss-odlucio-dubocica-ostaje-prvoligas/549469",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 07. 2026. у 18:47",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (utorak, 21. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-21-jul/549428",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 07. 2026. у 18:28",
-      "slika": null
-    },
-    {
-      "naslov": "Gudelj blizu potpisa za drugoligaša",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gudelj-blizu-potpisa-za-drugoligasa/549447",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 07. 2026. у 14:16",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Najveći transfer leta iz Superlige? Belgijanci krenuli po zvezdu Železničara",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252150/zulte-varegem-krenuo-po-silvestera-dzaspera/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 07. 2026. у 18:31",
+      "slika": null
+    },
+    {
       "naslov": "Zvezda potvrdila: Golman napustio crveno-bele FOTO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252119/omri-glazer-napustio-fk-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "21. 07. 2026. у 16:52",
-      "slika": null
-    },
-    {
-      "naslov": "Milioni stižu u Humsku!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252067/vanja-dragojevic-prelazi-u-rendzers-partizan-zaradjuje-55-miliona-evra/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 07. 2026. у 14:30",
       "slika": null
     }
   ]
