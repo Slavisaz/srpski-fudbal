@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-21T14:19:33.774096+00:00",
-  "azurirano_sr": "21. 07. 2026. у 16:19",
+  "azurirano": "2026-07-21T15:55:48.284143+00:00",
+  "azurirano_sr": "21. 07. 2026. у 17:55",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Silvester Džasper hoće u Zulte Varegem, oprašta se protiv Brage",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/silvester-dzasper-hoce-u-zulte-varegem-oprasta-se-protiv-brage/549472",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 07. 2026. у 19:45",
+      "slika": null
+    },
+    {
+      "naslov": "IO FSS odlučio: Dubočica ostaje prvoligaš",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/io-fss-odlucio-dubocica-ostaje-prvoligas/549469",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 07. 2026. у 18:47",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (utorak, 21. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-21-jul/549428",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 07. 2026. у 18:28",
+      "slika": null
+    },
     {
       "naslov": "Gudelj blizu potpisa za drugoligaša",
       "url": "https://www.mozzartsport.com/fudbal/vesti/gudelj-blizu-potpisa-za-drugoligasa/549447",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Radnički nastavlja da štancuje novajlije: Potpisao bivši igrač Partizana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/radnicki-nastavlja-da-stancuje-novajlije-potpisao-bivsi-igrac-partizana/549438",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 07. 2026. у 13:18",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (utorak, 21. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-21-jul/549428",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 07. 2026. у 12:45",
-      "slika": null
-    },
-    {
-      "naslov": "FIFA uništava fudbal, pauze za hidrataciju su laž; Infantino mora da ode, njegovo vreme je prošlo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fifa-unistava-fudbal-pauze-za-hidrataciju-su-laz-infantino-mora-da-ode-njegovo-vreme-je-proslo/549432",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 07. 2026. у 12:19",
+      "naslov": "Izraelski golman Omri Glazer napustio Zvezdu i vratio se u Makabi iz Haife",
+      "url": "https://www.tanjug.rs/sport/fudbal/267577/izraelski-golman-omri-glazer-napustio-zvezdu-i-vratio-se-u-makabi-iz-haife/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 07. 2026. у 16:53",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Srbije 40. na najnovijoj rang listi FIFA",
-      "url": "https://www.tanjug.rs/sport/fudbal/267423/fudbaleri-srbije-40-na-najnovijoj-rang-listi-fifa/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 07. 2026. у 11:29",
+      "naslov": "Zvezda potvrdila: Golman napustio crveno-bele FOTO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252119/omri-glazer-napustio-fk-crvena-zvezda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 07. 2026. у 16:52",
       "slika": null
     },
     {
@@ -64,20 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252067/vanja-dragojevic-prelazi-u-rendzers-partizan-zaradjuje-55-miliona-evra/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "21. 07. 2026. у 14:30",
-      "slika": null
-    },
-    {
-      "naslov": "Partizanov transfer na ivici propasti",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252036/partizan-zeli-timotija-oumu-ali-pregovori-zapeli/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 07. 2026. у 13:25",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan odbio 500.000 evra za levog beka",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/251665/sturm-poslao-500000-evra-za-stefana-petrovica-partizan-odbio/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "20. 07. 2026. у 14:15",
       "slika": null
     }
   ]
