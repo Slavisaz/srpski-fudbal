@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-22T20:46:21.844227+00:00",
-  "azurirano_sr": "22. 07. 2026. у 22:46",
+  "azurirano": "2026-07-22T21:54:20.416528+00:00",
+  "azurirano_sr": "22. 07. 2026. у 23:54",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (sreda, 22. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-22-jul/549512",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 07. 2026. у 01:28",
+      "slika": null
+    },
+    {
+      "naslov": "Biće Venecija konkurentna: Adams za preko 20.000.000 i novi klupski rekord",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bice-venecija-konkurentna-adams-za-preko-20000000-i-novi-klupski-rekord/549583",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 07. 2026. у 01:02",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbalska surovost u Pančevu: Železničar lavljeg srca poklekao iz penala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalska-surovost-u-pancevu-zeleznicar-lavljeg-srca-poklekao-iz-penala/549582",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 07. 2026. у 00:51",
+      "slika": null
+    },
     {
       "naslov": "Jake reči Vošinog bivšeg igrača: Superliga na nivou Farskih Ostrva i Malte, Ajaks nema čega da se plaši",
       "url": "https://www.mozzartsport.com/fudbal/vesti/jake-reci-vosinog-bivseg-igraca-superliga-na-nivou-farskih-ostrva-i-malte-ajaks-nema-cega-da-se-plasi/549577",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (sreda, 22. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-22-jul/549512",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 07. 2026. у 22:43",
-      "slika": null
-    },
-    {
-      "naslov": "Blekiju stiže štoper od 40.000.000! Njegova zamena odbila Benfiku, pala preglede u Strazburu i završila u Sportingu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/blekiju-stize-stoper-od-40000000-njegova-zamena-odbila-benfiku-pala-preglede-u-strazburu-i-zavrsila-u-sportingu/549565",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 07. 2026. у 19:42",
-      "slika": null
-    },
-    {
-      "naslov": "Čudan transfer u Francuskoj: Monako daje 30.000.000 evra za špica koji je dao šest golova i ispao iz lige",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cudan-transfer-u-francuskoj-monako-daje-30000000-evra-za-spica-koji-je-dao-sest-golova-i-ispao-iz-lige/549562",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 07. 2026. у 19:28",
+      "naslov": "Fudbaleri Brage golom iz penala savladali Železničar u Pančevu",
+      "url": "https://www.tanjug.rs/sport/fudbal/267886/fudbaleri-brage-golom-iz-penala-savladali-zeleznicar-u-pancevu/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 07. 2026. у 22:59",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fil Foden produžio ugovor sa Mančester sitijem do 2030. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/267771/fil-foden-produzio-ugovor-sa-mancester-sitijem-do-2030-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 07. 2026. у 14:50",
+      "naslov": "Samo u Srbiji – besplatan ulaz čitave sezone osim u dva slučaja",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252500/samo-u-srbiji-besplatan-ulaz-citave-sezone-osim-u-dva-slucaja/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 07. 2026. у 20:16",
       "slika": null
     },
     {
@@ -64,20 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252386/fk-crvena-zvezda-u-prodaji-karte-za-utakmicu-protiv-vojvodine/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 07. 2026. у 16:00",
-      "slika": null
-    },
-    {
-      "naslov": "Evropa odložila meč Superlige",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252397/odlozena-utakmica-radnickog-iz-kragujevca-i-zeleznicara-u-sls/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 07. 2026. у 15:32",
-      "slika": null
-    },
-    {
-      "naslov": "Najveći transfer leta iz Superlige? Belgijanci krenuli po zvezdu Železničara",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252150/zulte-varegem-krenuo-po-silvestera-dzaspera/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 07. 2026. у 18:31",
       "slika": null
     }
   ]
