@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-22T10:49:59.517533+00:00",
-  "azurirano_sr": "22. 07. 2026. у 12:49",
+  "azurirano": "2026-07-22T12:16:19.145248+00:00",
+  "azurirano_sr": "22. 07. 2026. у 14:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (22. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-22-jul/549512",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 07. 2026. у 15:56",
+      "slika": null
+    },
+    {
+      "naslov": "Predlog kazne za nasilne reakcije Argentinaca: Suspendovati Paredesa i Molinu na godinu dana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/predlog-kazne-za-nasilne-reakcije-argentinaca-suspendovati-paredesa-i-molinu-na-godinu-dana/549543",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 07. 2026. у 14:57",
+      "slika": null
+    },
+    {
+      "naslov": "Posle oca doveo i sina: Zemun rešio problem sa napadom - potpisao Šarić",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/posle-oca-doveo-i-sina-zemun-resio-problem-sa-napadom-potpisao-saric/549542",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 07. 2026. у 14:46",
+      "slika": null
+    },
     {
       "naslov": "Šahinova misija – Liga konferencije: Nije uspeo u Dortmundu, ali dobro gura u Bašakšehiru",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sahinova-misija-liga-konferencije-nije-uspeo-u-dortmundu-ali-dobro-gura-u-basaksehiru/549537",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Sujeta mundijalskog heroja: Beli labud svetskog fudbala osvetoljubivo ostavlja Barsu bez špica",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sujeta-mundijalskog-heroja-beli-labud-svetskog-fudbala-osvetoljubivo-ostavlja-barsu-bez-spica/549534",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 07. 2026. у 13:35",
+      "naslov": "FK Crvena zvezda: U prodaji karte za utakmicu protiv Vojvodine",
+      "url": "https://www.tanjug.rs/sport/fudbal/267736/fk-crvena-zvezda-u-prodaji-karte-za-utakmicu-protiv-vojvodine/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 07. 2026. у 13:33",
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (22. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-22-jul/549512",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 07. 2026. у 13:32",
-      "slika": null
-    },
-    {
-      "naslov": "Kada je otišao Marko Nikolić, počeo je Videotonov pad",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kada-je-otisao-marko-nikolic-poceo-je-videotonov-pad/549525",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 07. 2026. у 12:35",
+      "naslov": "Saša Ilić pred Unu Štrasen: Igrači znaju da je ovo ozbiljna takmičarska utakmica",
+      "url": "https://www.tanjug.rs/sport/fudbal/267727/sasa-ilic-pred-unu-strasen-igraci-znaju-da-je-ovo-ozbiljna-takmicarska-utakmica/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 07. 2026. у 13:11",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/267679/meksicki-fudbalski-golman-giljermo-ocoa-zavrsio-igracku-karijeru/vest",
       "izvor": "Танјуг",
       "datum": "22. 07. 2026. у 10:22",
-      "slika": null
-    },
-    {
-      "naslov": "Morgan Rodžers zvanično prešao u Čelsi",
-      "url": "https://www.tanjug.rs/sport/fudbal/267672/morgan-rodzers-zvanicno-presao-u-celsi/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 07. 2026. у 10:12",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Železničara večeras dočekuju Bragu u kvalifikacijama za Ligu konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/267671/fudbaleri-zeleznicara-veceras-docekuju-bragu-u-kvalifikacijama-za-ligu-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 07. 2026. у 10:12",
       "slika": null
     },
     {
