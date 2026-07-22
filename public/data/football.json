@@ -1,34 +1,55 @@
 {
-  "azurirano": "2026-07-22T06:05:35.794903+00:00",
-  "azurirano_sr": "22. 07. 2026. у 08:05",
+  "azurirano": "2026-07-22T08:41:00.770059+00:00",
+  "azurirano_sr": "22. 07. 2026. у 10:41",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Širi se američki uticaj, osnivač Amazona u pregovorima oko kupovine udela u Liverpulu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/siri-se-americki-uticaj-osnivac-amazona-u-pregovorima-oko-kupovine-udela-u-liverpulu/549501",
+      "naslov": "Ronaldo: Žoga bonito je prevaziđena, Argentina uopšte nije igrala fudbal!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ronaldo-zoga-bonito-je-prevaziena-argentina-uopste-nije-igrala-fudbal/549521",
       "izvor": "Мозарт Спорт",
-      "datum": "22. 07. 2026. у 04:40",
+      "datum": "22. 07. 2026. у 11:54",
       "slika": null
     },
     {
-      "naslov": "Zvao Alonso, 'dosađivao' Palmer... I upalilo je! Čelsi ozvaničio drugi najveći transfer u istoriji Premijer lige",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvao-alonso-dosaivao-palmer-i-upalilo-je-celsi-ozvanicio-drugi-najveci-transfer-u-istoriji-premijer-lige/549494",
+      "naslov": "Fudbal na 40 stepeni: Omonija bez najboljeg igrača, otišao i Jovetić, stigao bivši špic Zvezde",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbal-na-40-stepeni-omonija-bez-najboljeg-igraca-otisao-i-jovetic-stigao-bivsi-spic-zvezde/549515",
       "izvor": "Мозарт Спорт",
-      "datum": "22. 07. 2026. у 01:23",
+      "datum": "22. 07. 2026. у 11:27",
       "slika": null
     },
     {
-      "naslov": "Lepinjica za Veljka Simića, Hrvat i Srbin pojeli Fince: Sabah na utakmicu do evropske jeseni",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lepinjica-za-veljka-simica-hrvat-i-srbin-pojeli-fince-sabah-na-utakmicu-do-evropske-jeseni/549484",
+      "naslov": "Potvrda iz Italije sa najvišeg nivoa: Pregovaramo sa Gvardiolom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/potvrda-iz-italije-sa-najviseg-nivoa-pregovaramo-sa-gvardiolom/549514",
       "izvor": "Мозарт Спорт",
-      "datum": "21. 07. 2026. у 22:17",
+      "datum": "22. 07. 2026. у 11:23",
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (utorak, 21. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-utorak-21-jul/549428",
+      "naslov": "TRANSFERI UŽIVO (22. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-22-jul/549512",
       "izvor": "Мозарт Спорт",
-      "datum": "21. 07. 2026. у 22:12",
+      "datum": "22. 07. 2026. у 11:14",
+      "slika": null
+    },
+    {
+      "naslov": "Meksički fudbalski golman Giljermo Očoa završio igračku karijeru",
+      "url": "https://www.tanjug.rs/sport/fudbal/267679/meksicki-fudbalski-golman-giljermo-ocoa-zavrsio-igracku-karijeru/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 07. 2026. у 10:22",
+      "slika": null
+    },
+    {
+      "naslov": "Morgan Rodžers zvanično prešao u Čelsi",
+      "url": "https://www.tanjug.rs/sport/fudbal/267672/morgan-rodzers-zvanicno-presao-u-celsi/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 07. 2026. у 10:12",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Železničara večeras dočekuju Bragu u kvalifikacijama za Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/267671/fudbaleri-zeleznicara-veceras-docekuju-bragu-u-kvalifikacijama-za-ligu-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 07. 2026. у 10:12",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Koković pred Bragu: Da ostanemo privrženi svom stilu i dostojno predstavimo Srbiju",
-      "url": "https://www.tanjug.rs/sport/fudbal/267606/kokovic-pred-bragu-da-ostanemo-privrzeni-svom-stilu-i-dostojno-predstavimo-srbiju/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 07. 2026. у 18:52",
+      "naslov": "Najveći transfer leta iz Superlige? Belgijanci krenuli po zvezdu Železničara",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252150/zulte-varegem-krenuo-po-silvestera-dzaspera/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 07. 2026. у 18:31",
       "slika": null
     },
     {
-      "naslov": "Izraelski golman Omri Glazer napustio Zvezdu i vratio se u Makabi iz Haife",
-      "url": "https://www.tanjug.rs/sport/fudbal/267577/izraelski-golman-omri-glazer-napustio-zvezdu-i-vratio-se-u-makabi-iz-haife/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 07. 2026. у 16:53",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Aston Vile Amadu Onana uspešno operisan, pauziraće devet meseci",
-      "url": "https://www.tanjug.rs/sport/fudbal/267529/fudbaler-aston-vile-amadu-onana-uspesno-operisan-pauzirace-devet-meseci/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 07. 2026. у 14:59",
-      "slika": null
-    },
-    {
-      "naslov": "Mundijal sa 64 reprezentacije već 2030. godine?!",
-      "url": "https://www.b92.net/sport/fudbal/vesti/252108/mundijal-sa-64-reprezentacije-vec-2030-godine/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "21. 07. 2026. у 23:42",
-      "slika": null
-    },
-    {
-      "naslov": "Legenda kluba osvojila VIP putovanje na finale Mundijala – borba za opstanak bila bitnija",
-      "url": "https://www.b92.net/sport/fudbal/vesti/252128/osvojio-vip-put-na-finale-svetskog-prvenstva-vredno-41000-evra-klub-mu-nije-dozvolio-da-ode-na-kraju-ostao-i-bez-utakmice-i-bez-nagrade/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "21. 07. 2026. у 22:37",
+      "naslov": "Zvezda potvrdila: Golman napustio crveno-bele FOTO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252119/omri-glazer-napustio-fk-crvena-zvezda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 07. 2026. у 16:52",
       "slika": null
     }
   ]
