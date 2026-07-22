@@ -1,13 +1,20 @@
 {
-  "azurirano": "2026-07-22T14:23:43.058741+00:00",
-  "azurirano_sr": "22. 07. 2026. у 16:23",
+  "azurirano": "2026-07-22T15:54:48.361296+00:00",
+  "azurirano_sr": "22. 07. 2026. у 17:54",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "TRANSFERI UŽIVO (22. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-22-jul/549512",
+      "naslov": "Čudan transfer u Francuskoj: Monako daje 30.000.000 evra za napadača koji je dao šest golova i ispao iz lige",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cudan-transfer-u-francuskoj-monako-daje-30000000-evra-za-napadaca-koji-je-dao-sest-golova-i-ispao-iz-lige/549562",
       "izvor": "Мозарт Спорт",
-      "datum": "22. 07. 2026. у 15:56",
+      "datum": "22. 07. 2026. у 19:28",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (sreda, 22. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-22-jul/549512",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 07. 2026. у 19:01",
       "slika": null
     },
     {
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Šahinova misija – Liga konferencije: Nije uspeo u Dortmundu, ali dobro gura u Bašakšehiru",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sahinova-misija-liga-konferencije-nije-uspeo-u-dortmundu-ali-dobro-gura-u-basaksehiru/549537",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 07. 2026. у 14:10",
+      "naslov": "Fudbaler iz Maroka Isa Diop novo pojačanje Ipsviča",
+      "url": "https://www.tanjug.rs/sport/fudbal/267809/fudbaler-iz-maroka-isa-diop-novo-pojacanje-ipsvica/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 07. 2026. у 16:26",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/267736/fk-crvena-zvezda-u-prodaji-karte-za-utakmicu-protiv-vojvodine/vest",
       "izvor": "Танјуг",
       "datum": "22. 07. 2026. у 13:33",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić pred Unu Štrasen: Igrači znaju da je ovo ozbiljna takmičarska utakmica",
-      "url": "https://www.tanjug.rs/sport/fudbal/267727/sasa-ilic-pred-unu-strasen-igraci-znaju-da-je-ovo-ozbiljna-takmicarska-utakmica/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 07. 2026. у 13:11",
       "slika": null
     },
     {
