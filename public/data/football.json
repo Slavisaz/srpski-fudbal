@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-22T12:16:19.145248+00:00",
-  "azurirano_sr": "22. 07. 2026. у 14:16",
+  "azurirano": "2026-07-22T14:23:43.058741+00:00",
+  "azurirano_sr": "22. 07. 2026. у 16:23",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fil Foden produžio ugovor sa Mančester sitijem do 2030. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/267771/fil-foden-produzio-ugovor-sa-mancester-sitijem-do-2030-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 07. 2026. у 14:50",
+      "slika": null
+    },
+    {
+      "naslov": "Odložena utakmica između fudbalera Radničkog iz Kragujevca i Železničara",
+      "url": "https://www.tanjug.rs/sport/fudbal/267745/odlozena-utakmica-izmedu-fudbalera-radnickog-iz-kragujevca-i-zeleznicara/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 07. 2026. у 14:04",
+      "slika": null
+    },
+    {
       "naslov": "FK Crvena zvezda: U prodaji karte za utakmicu protiv Vojvodine",
       "url": "https://www.tanjug.rs/sport/fudbal/267736/fk-crvena-zvezda-u-prodaji-karte-za-utakmicu-protiv-vojvodine/vest",
       "izvor": "Танјуг",
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Patson Daka novi fudbaler Hamburga",
-      "url": "https://www.tanjug.rs/sport/fudbal/267698/patson-daka-novi-fudbaler-hamburga/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 07. 2026. у 11:30",
-      "slika": null
-    },
-    {
-      "naslov": "Meksički fudbalski golman Giljermo Očoa završio igračku karijeru",
-      "url": "https://www.tanjug.rs/sport/fudbal/267679/meksicki-fudbalski-golman-giljermo-ocoa-zavrsio-igracku-karijeru/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 07. 2026. у 10:22",
-      "slika": null
-    },
-    {
-      "naslov": "Najveći transfer leta iz Superlige? Belgijanci krenuli po zvezdu Železničara",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252150/zulte-varegem-krenuo-po-silvestera-dzaspera/vest",
+      "naslov": "Zvezda zove na Vojvodinu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252386/fk-crvena-zvezda-u-prodaji-karte-za-utakmicu-protiv-vojvodine/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "21. 07. 2026. у 18:31",
+      "datum": "22. 07. 2026. у 16:00",
       "slika": null
     },
     {
-      "naslov": "Zvezda potvrdila: Golman napustio crveno-bele FOTO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252119/omri-glazer-napustio-fk-crvena-zvezda/vest",
+      "naslov": "Evropa odložila meč Superlige",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252397/odlozena-utakmica-radnickog-iz-kragujevca-i-zeleznicara-u-sls/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "21. 07. 2026. у 16:52",
+      "datum": "22. 07. 2026. у 15:32",
       "slika": null
     }
   ]
