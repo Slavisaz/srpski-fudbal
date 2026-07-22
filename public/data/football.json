@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-22T00:01:11.905397+00:00",
-  "azurirano_sr": "22. 07. 2026. у 02:01",
+  "azurirano": "2026-07-22T03:17:09.731835+00:00",
+  "azurirano_sr": "22. 07. 2026. у 05:17",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Širi se američki uticaj, osnivač Amazona u pregovorima oko kupovine udela u Liverpulu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/siri-se-americki-uticaj-osnivac-amazona-u-pregovorima-oko-kupovine-udela-u-liverpulu/549501",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 07. 2026. у 04:40",
+      "slika": null
+    },
     {
       "naslov": "Zvao Alonso, 'dosađivao' Palmer... I upalilo je! Čelsi ozvaničio drugi najveći transfer u istoriji Premijer lige",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvao-alonso-dosaivao-palmer-i-upalilo-je-celsi-ozvanicio-drugi-najveci-transfer-u-istoriji-premijer-lige/549494",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-utorak-21-jul/549428",
       "izvor": "Мозарт Спорт",
       "datum": "21. 07. 2026. у 22:12",
-      "slika": null
-    },
-    {
-      "naslov": "Remont Ipsviča: Krilo Lestera za 27.000.000, Japanac kojem bi Seltik mogao da podigne bistu i golman",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/remont-ipsvica-krilo-lestera-za-27000000-japanac-kojem-bi-seltik-mogao-da-podigne-bistu-i-golman/549481",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 07. 2026. у 21:15",
       "slika": null
     },
     {
