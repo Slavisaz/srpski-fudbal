@@ -1,11 +1,18 @@
 {
-  "azurirano": "2026-07-22T15:54:48.361296+00:00",
-  "azurirano_sr": "22. 07. 2026. у 17:54",
+  "azurirano": "2026-07-22T17:05:04.228343+00:00",
+  "azurirano_sr": "22. 07. 2026. у 19:05",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Čudan transfer u Francuskoj: Monako daje 30.000.000 evra za napadača koji je dao šest golova i ispao iz lige",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cudan-transfer-u-francuskoj-monako-daje-30000000-evra-za-napadaca-koji-je-dao-sest-golova-i-ispao-iz-lige/549562",
+      "naslov": "Blekiju stiže štoper od 40.000.000! Njegova zamena odbila Benfiku, pala preglede u Strazburu i završila u Sportingu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/blekiju-stize-stoper-od-40000000-njegova-zamena-odbila-benfiku-pala-preglede-u-strazburu-i-zavrsila-u-sportingu/549565",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 07. 2026. у 19:42",
+      "slika": null
+    },
+    {
+      "naslov": "Čudan transfer u Francuskoj: Monako daje 30.000.000 evra za špica koji je dao šest golova i ispao iz lige",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cudan-transfer-u-francuskoj-monako-daje-30000000-evra-za-spica-koji-je-dao-sest-golova-i-ispao-iz-lige/549562",
       "izvor": "Мозарт Спорт",
       "datum": "22. 07. 2026. у 19:28",
       "slika": null
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Posle oca doveo i sina: Zemun rešio problem sa napadom - potpisao Šarić",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/posle-oca-doveo-i-sina-zemun-resio-problem-sa-napadom-potpisao-saric/549542",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 07. 2026. у 14:46",
+      "naslov": "Tanjga: Protiv Ajaksa bez potcenjivanja rivala, ali ni sebe; Rosić: Bićemo hrabri",
+      "url": "https://www.tanjug.rs/sport/fudbal/267849/tanjga-protiv-ajaksa-bez-potcenjivanja-rivala-ali-ni-sebe-rosic-bicemo-hrabri/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 07. 2026. у 18:32",
       "slika": null
     },
     {
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "FK Crvena zvezda: U prodaji karte za utakmicu protiv Vojvodine",
-      "url": "https://www.tanjug.rs/sport/fudbal/267736/fk-crvena-zvezda-u-prodaji-karte-za-utakmicu-protiv-vojvodine/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 07. 2026. у 13:33",
-      "slika": null
-    },
-    {
       "naslov": "Zvezda zove na Vojvodinu",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252386/fk-crvena-zvezda-u-prodaji-karte-za-utakmicu-protiv-vojvodine/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,6 +71,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252397/odlozena-utakmica-radnickog-iz-kragujevca-i-zeleznicara-u-sls/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 07. 2026. у 15:32",
+      "slika": null
+    },
+    {
+      "naslov": "Najveći transfer leta iz Superlige? Belgijanci krenuli po zvezdu Železničara",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252150/zulte-varegem-krenuo-po-silvestera-dzaspera/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 07. 2026. у 18:31",
       "slika": null
     }
   ]
