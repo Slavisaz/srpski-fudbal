@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-23T22:15:03.313815+00:00",
-  "azurirano_sr": "24. 07. 2026. у 00:15",
+  "azurirano": "2026-07-23T23:11:49.410386+00:00",
+  "azurirano_sr": "24. 07. 2026. у 01:11",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Saša Ilić: Igrači moraju da budu odgovorniji, neke stvari sa treninga ne radimo na terenu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sasa-ilic-igraci-moraju-da-budu-odgovorniji-neke-stvari-sa-treninga-ne-radimo-na-terenu/549689",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 07. 2026. у 01:54",
+      "slika": null
+    },
     {
       "naslov": "Srbija bez kapitena na startu Lige nacija: Mitrović barem dva meseca van terena",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-bez-kapitena-na-startu-lige-nacija-mitrovic-barem-dva-meseca-van-terena/549686",
@@ -18,17 +25,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (četvrtak, 23. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-23-jul/549605",
+      "naslov": "TRANSFERI (četvrtak, 23. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-cetvrtak-23-jul/549605",
       "izvor": "Мозарт Спорт",
       "datum": "23. 07. 2026. у 20:03",
-      "slika": null
-    },
-    {
-      "naslov": "Tad sam bio dete, sad sam opasna zver: Colis Arsenalov za 40.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tad-sam-bio-dete-sad-sam-opasna-zver-colis-arsenalov-za-40000000-evra/549640",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 07. 2026. у 16:45",
       "slika": null
     },
     {
