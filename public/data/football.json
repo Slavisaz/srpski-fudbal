@@ -1,13 +1,20 @@
 {
-  "azurirano": "2026-07-23T16:20:10.020364+00:00",
-  "azurirano_sr": "23. 07. 2026. у 18:20",
+  "azurirano": "2026-07-23T17:49:53.805558+00:00",
+  "azurirano_sr": "23. 07. 2026. у 19:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Slikar odbio da odloži četkicu: Dajte još malo najfinijeg platna, dok se gigant ne stabilizuje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/slikar-odbio-da-odlozi-cetkicu-dajte-jos-malo-najfinijeg-platna-dok-se-gigant-ne-stabilizuje/549661",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 07. 2026. у 20:35",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (četvrtak, 23. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-23-jul/549605",
       "izvor": "Мозарт Спорт",
-      "datum": "23. 07. 2026. у 18:26",
+      "datum": "23. 07. 2026. у 20:03",
       "slika": null
     },
     {
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Vreme je da se zatvori knjiga utisaka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vreme-je-da-se-zatvori-knjiga-utisaka/549613",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 07. 2026. у 14:26",
+      "naslov": "Potencijalni rivali Partizana Panevežis i Tobol remizirali u prvoj utakmici",
+      "url": "https://www.tanjug.rs/sport/fudbal/268134/potencijalni-rivali-partizana-panevezis-i-tobol-remizirali-u-prvoj-utakmici/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 07. 2026. у 19:26",
+      "slika": null
+    },
+    {
+      "naslov": "Srpski fudbaler Vanja Dragojević prešao iz Partizana u škotski Rendžers",
+      "url": "https://www.tanjug.rs/sport/fudbal/268116/srpski-fudbaler-vanja-dragojevic-presao-iz-partizana-u-skotski-rendzers/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 07. 2026. у 18:19",
       "slika": null
     },
     {
@@ -46,21 +60,7 @@
       "slika": null
     },
     {
-      "naslov": "Odložena utakmica između fudbalera Radnika i Crvene zvezde",
-      "url": "https://www.tanjug.rs/sport/fudbal/268071/odlozena-utakmica-izmedu-fudbalera-radnika-i-crvene-zvezde/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 07. 2026. у 15:54",
-      "slika": null
-    },
-    {
-      "naslov": "Grčki fudbaler Hristos Colis prešao iz Klub Briža u Arsenal",
-      "url": "https://www.tanjug.rs/sport/fudbal/268056/grcki-fudbaler-hristos-colis-presao-iz-klub-briza-u-arsenal/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 07. 2026. у 15:31",
-      "slika": null
-    },
-    {
-      "naslov": "Zvanično: Otišao kapiten Partizana!",
+      "naslov": "Zvanično: Otišao kapiten Partizana na dan utakmice!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252775/vanja-dragojevic-zvanicno-otisao-iz-partizana-u-rendzers/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "23. 07. 2026. у 18:16",
