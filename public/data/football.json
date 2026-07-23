@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-23T07:03:49.225770+00:00",
-  "azurirano_sr": "23. 07. 2026. у 09:03",
+  "azurirano": "2026-07-23T09:29:52.426990+00:00",
+  "azurirano_sr": "23. 07. 2026. у 11:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 23. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-23-jul/549605",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 07. 2026. у 11:12",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (sreda, 22. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-sreda-22-jul/549512",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Jake reči Vošinog bivšeg igrača: Superliga na nivou Farskih Ostrva i Malte, Ajaks nema čega da se plaši",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jake-reci-vosinog-bivseg-igraca-superliga-na-nivou-farskih-ostrva-i-malte-ajaks-nema-cega-da-se-plasi/549577",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 07. 2026. у 23:26",
+      "naslov": "Joveljić strelac u pobedi Sporting Kanzas Sitija protiv Minesote",
+      "url": "https://www.tanjug.rs/sport/fudbal/267931/joveljic-strelac-u-pobedi-sporting-kanzas-sitija-protiv-minesote/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 07. 2026. у 10:15",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Partizana večeras dočekuju Unu Štrasen u kvalifikacijama za Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/267919/fudbaleri-partizana-veceras-docekuju-unu-strasen-u-kvalifikacijama-za-ligu-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 07. 2026. у 09:40",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Vojvodine večeras igraju protiv Ajaksa u kvalifikacijama za Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/267917/fudbaleri-vojvodine-veceras-igraju-protiv-ajaksa-u-kvalifikacijama-za-ligu-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 07. 2026. у 09:31",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/267886/fudbaleri-brage-golom-iz-penala-savladali-zeleznicar-u-pancevu/vest",
       "izvor": "Танјуг",
       "datum": "22. 07. 2026. у 22:59",
-      "slika": null
-    },
-    {
-      "naslov": "FIFA izabrala idealni tim Mundijala: Vozinja na golu, trojica Španaca, Mesi, Haland..",
-      "url": "https://www.tanjug.rs/sport/fudbal/267879/fifa-izabrala-idealni-tim-mundijala-vozinja-na-golu-trojica-spanaca-mesi-haland/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 07. 2026. у 22:05",
-      "slika": null
-    },
-    {
-      "naslov": "Tanjga: Protiv Ajaksa bez potcenjivanja rivala, ali ni sebe; Rosić: Bićemo hrabri",
-      "url": "https://www.tanjug.rs/sport/fudbal/267849/tanjga-protiv-ajaksa-bez-potcenjivanja-rivala-ali-ni-sebe-rosic-bicemo-hrabri/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 07. 2026. у 18:32",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler iz Maroka Isa Diop novo pojačanje Ipsviča",
-      "url": "https://www.tanjug.rs/sport/fudbal/267809/fudbaler-iz-maroka-isa-diop-novo-pojacanje-ipsvica/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 07. 2026. у 16:26",
       "slika": null
     },
     {
