@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-23T17:49:53.805558+00:00",
-  "azurirano_sr": "23. 07. 2026. у 19:49",
+  "azurirano": "2026-07-23T18:52:23.832165+00:00",
+  "azurirano_sr": "23. 07. 2026. у 20:52",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Hrvatski fudbaler Luka Modrić potpisao novi ugovor sa Milanom",
+      "url": "https://www.tanjug.rs/sport/fudbal/268136/hrvatski-fudbaler-luka-modric-potpisao-novi-ugovor-sa-milanom/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 07. 2026. у 19:38",
+      "slika": null
+    },
+    {
       "naslov": "Potencijalni rivali Partizana Panevežis i Tobol remizirali u prvoj utakmici",
       "url": "https://www.tanjug.rs/sport/fudbal/268134/potencijalni-rivali-partizana-panevezis-i-tobol-remizirali-u-prvoj-utakmici/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/268089/argentinski-fudbaler-alehandro-garnaco-presao-iz-celsija-u-aston-vilu/vest",
       "izvor": "Танјуг",
       "datum": "23. 07. 2026. у 16:43",
-      "slika": null
-    },
-    {
-      "naslov": "FK Crvena zvezda: Fan zona za najmlađe navijače pred utakmicu protiv Vojvodine",
-      "url": "https://www.tanjug.rs/sport/fudbal/268083/fk-crvena-zvezda-fan-zona-za-najmlade-navijace-pred-utakmicu-protiv-vojvodine/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 07. 2026. у 16:17",
       "slika": null
     },
     {
