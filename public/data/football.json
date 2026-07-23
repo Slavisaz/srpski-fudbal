@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-23T09:29:52.426990+00:00",
-  "azurirano_sr": "23. 07. 2026. у 11:29",
+  "azurirano": "2026-07-23T11:24:33.221180+00:00",
+  "azurirano_sr": "23. 07. 2026. у 13:24",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Radomir Koković, novi član uskog kruga srpske fudbalske moderne",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/radomir-kokovic-novi-clan-uskog-kruga-srpske-fudbalske-moderne/549633",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 07. 2026. у 14:59",
+      "slika": null
+    },
+    {
+      "naslov": "Vreme je da se zatvori knjiga utisaka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vreme-je-da-se-zatvori-knjiga-utisaka/549613",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 07. 2026. у 14:26",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (četvrtak, 23. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-23-jul/549605",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Biće Venecija konkurentna: Adams za preko 20.000.000 i novi klupski rekord",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bice-venecija-konkurentna-adams-za-preko-20000000-i-novi-klupski-rekord/549583",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 07. 2026. у 01:02",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalska surovost u Pančevu: Železničar lavljeg srca poklekao iz penala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalska-surovost-u-pancevu-zeleznicar-lavljeg-srca-poklekao-iz-penala/549582",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 07. 2026. у 00:51",
+      "naslov": "FK Partizan: Navijači podržite klub, nemojte da mu nanosite štetu",
+      "url": "https://www.tanjug.rs/sport/fudbal/267966/fk-partizan-navijaci-podrzite-klub-nemojte-da-mu-nanosite-stetu/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 07. 2026. у 11:38",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/267917/fudbaleri-vojvodine-veceras-igraju-protiv-ajaksa-u-kvalifikacijama-za-ligu-konferencije/vest",
       "izvor": "Танјуг",
       "datum": "23. 07. 2026. у 09:31",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Brage golom iz penala savladali Železničar u Pančevu",
-      "url": "https://www.tanjug.rs/sport/fudbal/267886/fudbaleri-brage-golom-iz-penala-savladali-zeleznicar-u-pancevu/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 07. 2026. у 22:59",
       "slika": null
     },
     {
