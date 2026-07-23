@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-23T14:56:07.386480+00:00",
-  "azurirano_sr": "23. 07. 2026. у 16:56",
+  "azurirano": "2026-07-23T16:20:10.020364+00:00",
+  "azurirano_sr": "23. 07. 2026. у 18:20",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Argentinski fudbaler Alehandro Garnačo prešao iz Čelsija u Aston Vilu",
+      "url": "https://www.tanjug.rs/sport/fudbal/268089/argentinski-fudbaler-alehandro-garnaco-presao-iz-celsija-u-aston-vilu/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 07. 2026. у 16:43",
+      "slika": null
+    },
+    {
       "naslov": "FK Crvena zvezda: Fan zona za najmlađe navijače pred utakmicu protiv Vojvodine",
       "url": "https://www.tanjug.rs/sport/fudbal/268083/fk-crvena-zvezda-fan-zona-za-najmlade-navijace-pred-utakmicu-protiv-vojvodine/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Nemački fudbaler Karim Adejemi potpisao za Barselonu",
-      "url": "https://www.tanjug.rs/sport/fudbal/268050/nemacki-fudbaler-karim-adejemi-potpisao-za-barselonu/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 07. 2026. у 15:22",
+      "naslov": "Zvanično: Otišao kapiten Partizana!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252775/vanja-dragojevic-zvanicno-otisao-iz-partizana-u-rendzers/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "23. 07. 2026. у 18:16",
       "slika": null
     },
     {
-      "naslov": "Na Zvezdin zahtev – odložen superligaški okršaj",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252738/odlozena-utakmica-izmedju-fudbalera-radnika-i-crvene-zvezde/vest",
+      "naslov": "Lukasen u Zvezdi – poznati i detalji",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252757/lukasenu-od-zvezde-1000000-evra-godisnje-plus-bonusi/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 07. 2026. у 16:46",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda zove na derbi: &quot;Želim da uradim još više kako bih učinio navijače srećnim&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252721/crvena-zvezda-pozvala-navijace-pred-derbi-sa-vojvodinom-bukari-i-kostov-poslali-jasnu-poruku/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 07. 2026. у 16:04",
+      "datum": "23. 07. 2026. у 17:26",
       "slika": null
     }
   ]
