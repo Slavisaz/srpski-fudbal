@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-23T11:24:33.221180+00:00",
-  "azurirano_sr": "23. 07. 2026. у 13:24",
+  "azurirano": "2026-07-23T12:53:27.340483+00:00",
+  "azurirano_sr": "23. 07. 2026. у 14:53",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 23. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-23-jul/549605",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 07. 2026. у 16:24",
+      "slika": null
+    },
     {
       "naslov": "Radomir Koković, novi član uskog kruga srpske fudbalske moderne",
       "url": "https://www.mozzartsport.com/fudbal/vesti/radomir-kokovic-novi-clan-uskog-kruga-srpske-fudbalske-moderne/549633",
@@ -15,13 +22,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/vreme-je-da-se-zatvori-knjiga-utisaka/549613",
       "izvor": "Мозарт Спорт",
       "datum": "23. 07. 2026. у 14:26",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (četvrtak, 23. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-23-jul/549605",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 07. 2026. у 11:12",
       "slika": null
     },
     {
