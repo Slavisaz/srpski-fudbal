@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-23T21:15:27.965150+00:00",
-  "azurirano_sr": "23. 07. 2026. у 23:15",
+  "azurirano": "2026-07-23T22:15:03.313815+00:00",
+  "azurirano_sr": "24. 07. 2026. у 00:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbija bez kapitena na startu Lige nacija: Mitrović barem dva meseca van terena",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-bez-kapitena-na-startu-lige-nacija-mitrovic-barem-dva-meseca-van-terena/549686",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 07. 2026. у 01:10",
+      "slika": null
+    },
     {
       "naslov": "Slikar odbio da odloži četkicu: Dajte još malo najfinijeg platna, dok se gigant ne stabilizuje",
       "url": "https://www.mozzartsport.com/fudbal/vesti/slikar-odbio-da-odlozi-cetkicu-dajte-jos-malo-najfinijeg-platna-dok-se-gigant-ne-stabilizuje/549661",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/tad-sam-bio-dete-sad-sam-opasna-zver-colis-arsenalov-za-40000000-evra/549640",
       "izvor": "Мозарт Спорт",
       "datum": "23. 07. 2026. у 16:45",
-      "slika": null
-    },
-    {
-      "naslov": "Radomir Koković, novi član uskog kruga srpske fudbalske moderne",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/radomir-kokovic-novi-clan-uskog-kruga-srpske-fudbalske-moderne/549633",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 07. 2026. у 14:59",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Nije dobro – povedio se Mitrović i čeka ga duža pauza!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252847/aleksandar-mitrovic-povredio-koleno-pauza-do-tri-meseca/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "23. 07. 2026. у 23:37",
+      "slika": null
+    },
+    {
       "naslov": "Zvanično: Otišao kapiten Partizana na dan utakmice!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252775/vanja-dragojevic-zvanicno-otisao-iz-partizana-u-rendzers/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "23. 07. 2026. у 18:16",
-      "slika": null
-    },
-    {
-      "naslov": "Lukasen u Zvezdi – poznati i detalji",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252757/lukasenu-od-zvezde-1000000-evra-godisnje-plus-bonusi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 07. 2026. у 17:26",
       "slika": null
     }
   ]
