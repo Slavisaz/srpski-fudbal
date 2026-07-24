@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-24T20:01:31.808145+00:00",
-  "azurirano_sr": "24. 07. 2026. у 22:01",
+  "azurirano": "2026-07-24T21:10:59.895178+00:00",
+  "azurirano_sr": "24. 07. 2026. у 23:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Rezzime dana (petak): Razigrala se fudbalska Evropa, a sa njom i tiketi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-petak-razigrala-se-fudbalska-evropa-a-sa-njom-i-tiketi/549769",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 07. 2026. у 00:26",
+      "slika": null
+    },
     {
       "naslov": "Treći najskuplji transfer u istoriji Arabije: Al Hilal za 76.000.000 dobio \"onog koji se razvija\"",
       "url": "https://www.mozzartsport.com/fudbal/vesti/treci-najskuplji-transfer-u-istoriji-arabije-al-hilal-za-76000000-dobio-onog-koji-se-razvija/549741",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/matija-popovic-kao-munja-video/549764",
       "izvor": "Мозарт Спорт",
       "datum": "24. 07. 2026. у 23:01",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (petak, 24. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-24-jul/549704",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 07. 2026. у 22:01",
       "slika": null
     },
     {
