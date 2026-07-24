@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-24T14:04:15.314230+00:00",
-  "azurirano_sr": "24. 07. 2026. у 16:04",
+  "azurirano": "2026-07-24T15:37:11.304589+00:00",
+  "azurirano_sr": "24. 07. 2026. у 17:37",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (petak, 24. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-24-jul/549704",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 07. 2026. у 17:47",
+      "slika": null
+    },
     {
       "naslov": "Paredes: Ne znam da li ću nastaviti, Španija je zaslužila titulu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/paredes-ne-znam-da-li-cu-nastaviti-spanija-je-zasluzila-titulu/549739",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Treneri, pokažite se! Kreće Fantazi Mozzart Bet Superliga",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/treneri-pokazite-se-krece-fantazi-mozzart-bet-superliga/549718",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 07. 2026. у 14:59",
+      "naslov": "Tanjga: Nedostaje nam agresivnost iz prošle sezone, hoćemo dobar rezultat protiv Zvezde",
+      "url": "https://www.tanjug.rs/sport/fudbal/268411/tanjga-nedostaje-nam-agresivnost-iz-prosle-sezone-hocemo-dobar-rezultat-protiv-zvezde/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 07. 2026. у 16:22",
+      "slika": null
+    },
+    {
+      "naslov": "Mark van Bomel novi selektor fudbalske reprezentacije Belgije",
+      "url": "https://www.tanjug.rs/sport/fudbal/268405/mark-van-bomel-novi-selektor-fudbalske-reprezentacije-belgije/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 07. 2026. у 16:08",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Jirgen Klop novi selektor fudbalske reprezentacije Nemačke",
-      "url": "https://www.tanjug.rs/sport/fudbal/268277/jirgen-klop-novi-selektor-fudbalske-reprezentacije-nemacke/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 07. 2026. у 11:44",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalska Superliga Srbije predstavila zvaničnu mobilnu aplikaciju",
-      "url": "https://www.tanjug.rs/sport/fudbal/268268/fudbalska-superliga-srbije-predstavila-zvanicnu-mobilnu-aplikaciju/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 07. 2026. у 11:23",
+      "naslov": "Tanjga zagrmeo posle Ajaksa: &quot;Ko zviždi posle 15 minuta nije navijač Vojvodine&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253062/miroslav-tanjga-pred-crvenu-zvezdu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 07. 2026. у 17:15",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252952/kahim-dikson-stize-u-novi-pazar/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "24. 07. 2026. у 12:00",
-      "slika": null
-    },
-    {
-      "naslov": "Nije dobro – povedio se Mitrović i čeka ga duža pauza!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252847/aleksandar-mitrovic-povredio-koleno-pauza-do-tri-meseca/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 07. 2026. у 23:37",
       "slika": null
     }
   ]
