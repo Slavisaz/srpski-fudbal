@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-24T18:43:02.660679+00:00",
-  "azurirano_sr": "24. 07. 2026. у 20:43",
+  "azurirano": "2026-07-24T20:01:31.808145+00:00",
+  "azurirano_sr": "24. 07. 2026. у 22:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Treći najskuplji transfer u istoriji Arabije: Al Hilal za 76.000.000 dobio \"onog koji se razvija\"",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/treci-najskuplji-transfer-u-istoriji-arabije-al-hilal-za-76000000-dobio-onog-koji-se-razvija/549741",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 07. 2026. у 23:45",
+      "slika": null
+    },
+    {
+      "naslov": "Lukasen zadužio crveno-beli dres: Nadam se da zajedno možemo da budemo još uspešniji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lukasen-zaduzio-crvenobeli-dres-nadam-se-da-zajedno-mozemo-da-budemo-jos-uspesniji/549766",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 07. 2026. у 23:03",
+      "slika": null
+    },
+    {
+      "naslov": "Matija Popović kao munja (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/matija-popovic-kao-munja-video/549764",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 07. 2026. у 23:01",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (petak, 24. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-24-jul/549704",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Zvezda uspela da udomi Babiku: Ide na pozajmicu, Emiraćani pokrivaju celu platu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-uspela-da-udomi-babiku-ide-na-pozajmicu-emiracani-pokrivaju-celu-platu/549752",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 07. 2026. у 20:32",
-      "slika": null
-    },
-    {
-      "naslov": "Paredes: Ne znam da li ću nastaviti, Španija je zaslužila titulu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/paredes-ne-znam-da-li-cu-nastaviti-spanija-je-zasluzila-titulu/549739",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 07. 2026. у 17:33",
-      "slika": null
-    },
-    {
-      "naslov": "Baždarovog kupca ni na vidiku, i AIK digao ruke…",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bazdarovog-kupca-ni-na-vidiku-i-aik-digao-ruke/549740",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 07. 2026. у 17:30",
+      "naslov": "Derik Lukasen novi fudbaler Crvene zvezde",
+      "url": "https://www.tanjug.rs/sport/fudbal/268483/derik-lukasen-novi-fudbaler-crvene-zvezde/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 07. 2026. у 21:23",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Francuski fudbaler Alađi Bamba prešao u Njukasl",
-      "url": "https://www.tanjug.rs/sport/fudbal/268381/francuski-fudbaler-aladi-bamba-presao-u-njukasl/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 07. 2026. у 14:52",
+      "naslov": "Zvezda objavila novo pojačanje – i to kakvo! FOTO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253119/derik-lukasen-u-fk-crvena-zvezda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 07. 2026. у 21:04",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253096/savi-babika-ide-na-pozajmicu-u-dubai/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "24. 07. 2026. у 19:28",
-      "slika": null
-    },
-    {
-      "naslov": "Tanjga bez dlake na jeziku: &quot;To nisu navijači Vojvodine!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253062/miroslav-tanjga-pred-crvenu-zvezdu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "24. 07. 2026. у 17:15",
       "slika": null
     }
   ]
