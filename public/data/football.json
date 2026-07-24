@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-24T15:37:11.304589+00:00",
-  "azurirano_sr": "24. 07. 2026. у 17:37",
+  "azurirano": "2026-07-24T17:09:12.839672+00:00",
+  "azurirano_sr": "24. 07. 2026. у 19:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvezda uspela da udomi Babiku: Ide na pozajmicu, Emiraćani pokrivaju celu platu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-uspela-da-udomi-babiku-ide-na-pozajmicu-emiracani-pokrivaju-celu-platu/549752",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 07. 2026. у 20:32",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (petak, 24. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-24-jul/549704",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Hapoel možda dođe u Beograd, Kangva neće definitivno: Panatinaikos ga kupio za 4.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/hapoel-mozda-doe-u-beograd-kangva-nece-definitivno-panatinaikos-ga-kupio-za-4000000-evra/549731",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 07. 2026. у 15:53",
+      "naslov": "Zvezda: Besplatan ulaz protiv Vojvodine za \"Super zvezdaše\" i decu do 14 godina",
+      "url": "https://www.tanjug.rs/sport/fudbal/268433/zvezda-besplatan-ulaz-protiv-vojvodine-za-super-zvezdase-i-decu-do-14-godina/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 07. 2026. у 17:22",
       "slika": null
     },
     {
@@ -53,14 +60,7 @@
       "slika": null
     },
     {
-      "naslov": "Klop: Reprezentacija može da ujedini Nemce kao ništa drugo, zbog toga sam ovde",
-      "url": "https://www.tanjug.rs/sport/fudbal/268322/klop-reprezentacija-moze-da-ujedini-nemce-kao-nista-drugo-zbog-toga-sam-ovde/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 07. 2026. у 12:58",
-      "slika": null
-    },
-    {
-      "naslov": "Tanjga zagrmeo posle Ajaksa: &quot;Ko zviždi posle 15 minuta nije navijač Vojvodine&quot;",
+      "naslov": "Tanjga bez dlake na jeziku: &quot;To nisu navijači Vojvodine!&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253062/miroslav-tanjga-pred-crvenu-zvezdu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "24. 07. 2026. у 17:15",
