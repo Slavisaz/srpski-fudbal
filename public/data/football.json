@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-24T03:37:56.815361+00:00",
-  "azurirano_sr": "24. 07. 2026. у 05:37",
+  "azurirano": "2026-07-24T06:11:38.706602+00:00",
+  "azurirano_sr": "24. 07. 2026. у 08:11",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Mitrović zbog povrede pauzira između dva i tri meseca, Srbija bez kapitena u Ligi nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/268165/mitrovic-zbog-povrede-pauzira-izmedu-dva-i-tri-meseca-srbija-bez-kapitena-u-ligi-nacija/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 07. 2026. у 00:56",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Partizana deklasirali luksemburški Una Štrasen u kvalifikacijama za Ligu konferencije",
       "url": "https://www.tanjug.rs/sport/fudbal/268163/fudbaleri-partizana-deklasirali-luksemburski-una-strasen-u-kvalifikacijama-za-ligu-konferencije/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/268158/fudbaleri-banjaluckog-borca-ubedljivo-pobedili-moldavski-petrokub/vest",
       "izvor": "Танјуг",
       "datum": "23. 07. 2026. у 22:28",
-      "slika": null
-    },
-    {
-      "naslov": "Težak poraz fudbalera Vojvodine od Ajaksa u Novom Sadu",
-      "url": "https://www.tanjug.rs/sport/fudbal/268154/tezak-poraz-fudbalera-vojvodine-od-ajaksa-u-novom-sadu/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 07. 2026. у 21:55",
       "slika": null
     },
     {
