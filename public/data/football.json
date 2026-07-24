@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-24T10:36:37.455655+00:00",
-  "azurirano_sr": "24. 07. 2026. у 12:36",
+  "azurirano": "2026-07-24T12:04:46.102200+00:00",
+  "azurirano_sr": "24. 07. 2026. у 14:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Treneri, pokažite se! Kreće Fantazi Mozzart Bet Superliga",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/treneri-pokazite-se-krece-fantazi-mozzart-bet-superliga/549718",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 07. 2026. у 14:59",
+      "slika": null
+    },
     {
       "naslov": "Počinje nova era nemačkog fudbala: Klop do 2030. u ulozi mnogo većoj od selektorske",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pocinje-nova-era-nemackog-fudbala-klop-do-2030-u-ulozi-mnogo-vecoj-od-selektorske/549720",
@@ -18,17 +25,17 @@
       "slika": null
     },
     {
-      "naslov": "Evropski specijal \"2x45\": Kokomanija u srpskom fudbalu, već se priča o Tanjginom odlasku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/evropski-specijal-2x45-kokomanija-u-srpskom-fudbalu-vec-se-prica-o-tanjginom-odlasku/549705",
+      "naslov": "PREDLOZZI I TIPOVANJA (petak): Vikingur nam se iskupljuje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/predlozzi-i-tipovanja-petak-vikingur-nam-se-iskupljuje/549723",
       "izvor": "Мозарт Спорт",
-      "datum": "24. 07. 2026. у 13:04",
+      "datum": "24. 07. 2026. у 13:45",
       "slika": null
     },
     {
-      "naslov": "Počinje \"fudbal nakon Orbana\"",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pocinje-fudbal-nakon-orbana/549695",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 07. 2026. у 13:01",
+      "naslov": "Klop: Reprezentacija može da ujedini Nemce kao ništa drugo, zbog toga sam ovde",
+      "url": "https://www.tanjug.rs/sport/fudbal/268322/klop-reprezentacija-moze-da-ujedini-nemce-kao-nista-drugo-zbog-toga-sam-ovde/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 07. 2026. у 12:58",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/268253/srpski-fudbaler-marko-milovanovic-presao-u-portsmut/vest",
       "izvor": "Танјуг",
       "datum": "24. 07. 2026. у 10:55",
-      "slika": null
-    },
-    {
-      "naslov": "Argentinski fubaler Nikolas Otamendi završio reprezentativnu karijeru",
-      "url": "https://www.tanjug.rs/sport/fudbal/268206/argentinski-fubaler-nikolas-otamendi-zavrsio-reprezentativnu-karijeru/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 07. 2026. у 09:03",
       "slika": null
     },
     {
