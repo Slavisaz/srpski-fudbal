@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-07-24T17:09:12.839672+00:00",
-  "azurirano_sr": "24. 07. 2026. у 19:09",
+  "azurirano": "2026-07-24T18:43:02.660679+00:00",
+  "azurirano_sr": "24. 07. 2026. у 20:43",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (petak, 24. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-24-jul/549704",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 07. 2026. у 22:01",
+      "slika": null
+    },
     {
       "naslov": "Zvezda uspela da udomi Babiku: Ide na pozajmicu, Emiraćani pokrivaju celu platu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-uspela-da-udomi-babiku-ide-na-pozajmicu-emiracani-pokrivaju-celu-platu/549752",
       "izvor": "Мозарт Спорт",
       "datum": "24. 07. 2026. у 20:32",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (petak, 24. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-24-jul/549704",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 07. 2026. у 17:47",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Babika u Junajtedu!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253096/savi-babika-ide-na-pozajmicu-u-dubai/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 07. 2026. у 19:28",
+      "slika": null
+    },
+    {
       "naslov": "Tanjga bez dlake na jeziku: &quot;To nisu navijači Vojvodine!&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253062/miroslav-tanjga-pred-crvenu-zvezdu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "24. 07. 2026. у 17:15",
-      "slika": null
-    },
-    {
-      "naslov": "Novi Pazar dovodi krilo iz Čempionšipa",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/252952/kahim-dikson-stize-u-novi-pazar/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "24. 07. 2026. у 12:00",
       "slika": null
     }
   ]
