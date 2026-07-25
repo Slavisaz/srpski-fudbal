@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-25T12:10:48.439196+00:00",
-  "azurirano_sr": "25. 07. 2026. у 14:10",
+  "azurirano": "2026-07-25T13:58:56.352254+00:00",
+  "azurirano_sr": "25. 07. 2026. у 15:58",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Sprema se nešto veliko: Arsenal krenuo po Vinisijusa! Realova poslednja šansa za prodaju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sprema-se-nesto-veliko-arsenal-krenuo-po-vinisijusa-realova-poslednja-sansa-za-prodaju/549809",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 07. 2026. у 17:11",
+      "slika": null
+    },
     {
       "naslov": "Liga u kojoj bi bila senzacija kada titulu ne bi uzeli Popović i Svetozar Marković",
       "url": "https://www.mozzartsport.com/fudbal/vesti/liga-u-kojoj-bi-bila-senzacija-kada-titulu-ne-bi-uzeli-popovic-i-svetozar-markovic/549777",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Rezzime dana (petak): Razigrala se fudbalska Evropa, a sa njom i tiketi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-petak-razigrala-se-fudbalska-evropa-a-sa-njom-i-tiketi/549769",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 07. 2026. у 00:26",
+      "naslov": "Abdukodir Husanov produžio ugovor sa Mančester sitijem do 2031. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/268595/abdukodir-husanov-produzio-ugovor-sa-mancester-sitijem-do-2031-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 07. 2026. у 14:47",
+      "slika": null
+    },
+    {
+      "naslov": "Japanski fudbaler Daizen Maeda prešao iz Seltika u Ipsvič",
+      "url": "https://www.tanjug.rs/sport/fudbal/268592/japanski-fudbaler-daizen-maeda-presao-iz-seltika-u-ipsvic/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 07. 2026. у 14:32",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/268572/li-kang-in-novo-pojacanje-atletiko-madrida/vest",
       "izvor": "Танјуг",
       "datum": "25. 07. 2026. у 12:55",
-      "slika": null
-    },
-    {
-      "naslov": "Filip Đuričić novi fudbaler APOEL-a",
-      "url": "https://www.tanjug.rs/sport/fudbal/268555/filip-duricic-novi-fudbaler-apoel-a/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 07. 2026. у 11:59",
-      "slika": null
-    },
-    {
-      "naslov": "Milivojević: Zvezdu vidim u gornjem delu tabele Lige šampiona, mnogo je moćna u Superligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/268549/milivojevic-zvezdu-vidim-u-gornjem-delu-tabele-lige-sampiona-mnogo-je-mocna-u-superligi/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 07. 2026. у 11:30",
       "slika": null
     },
     {
