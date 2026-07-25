@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-25T15:01:38.679622+00:00",
-  "azurirano_sr": "25. 07. 2026. у 17:01",
+  "azurirano": "2026-07-25T16:08:35.128639+00:00",
+  "azurirano_sr": "25. 07. 2026. у 18:08",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Došao u Bode za 700.000, odlazi u Seltik za 19 puta veću sumu! Maltretirao Siti, Atletiko, Inter...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dosao-u-bode-za-700000-odlazi-u-seltik-za-19-puta-vecu-sumu-maltretirao-siti-atletiko-inter/549822",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 07. 2026. у 19:48",
+      "slika": null
+    },
+    {
+      "naslov": "Openda u Lionu za 3.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/openda-u-lionu-za-3000000-evra/549815",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 07. 2026. у 19:26",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (subota, 25. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-25-jul/549780",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/sprema-se-nesto-veliko-arsenal-krenuo-po-vinisijusa-realova-poslednja-sansa-za-prodaju/549809",
       "izvor": "Мозарт Спорт",
       "datum": "25. 07. 2026. у 17:11",
-      "slika": null
-    },
-    {
-      "naslov": "Liga u kojoj bi bila senzacija kada titulu ne bi uzeli Popović i Svetozar Marković",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/liga-u-kojoj-bi-bila-senzacija-kada-titulu-ne-bi-uzeli-popovic-i-svetozar-markovic/549777",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 07. 2026. у 12:42",
-      "slika": null
-    },
-    {
-      "naslov": "Nastavlja li se “Cinderella story” evropskog fudbala ili Švajcarska dobija novog vladara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nastavlja-li-se-cinderella-story-evropskog-fudbala-ili-svajcarska-dobija-novog-vladara/549779",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 07. 2026. у 11:20",
       "slika": null
     },
     {
