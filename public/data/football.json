@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-25T08:19:25.532575+00:00",
-  "azurirano_sr": "25. 07. 2026. у 10:19",
+  "azurirano": "2026-07-25T10:02:12.452528+00:00",
+  "azurirano_sr": "25. 07. 2026. у 12:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Liga u kojoj bi bila senzacija kada titulu ne bi uzeli Popović i Svetozar Marković",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/liga-u-kojoj-bi-bila-senzacija-kada-titulu-ne-bi-uzeli-popovic-i-svetozar-markovic/549777",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 07. 2026. у 12:42",
+      "slika": null
+    },
     {
       "naslov": "Nastavlja li se “Cinderella story” evropskog fudbala ili Švajcarska dobija novog vladara",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nastavlja-li-se-cinderella-story-evropskog-fudbala-ili-svajcarska-dobija-novog-vladara/549779",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Treći najskuplji transfer u istoriji Arabije: Al Hilal za 76.000.000 dobio \"onog koji se razvija\"",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/treci-najskuplji-transfer-u-istoriji-arabije-al-hilal-za-76000000-dobio-onog-koji-se-razvija/549741",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 07. 2026. у 23:45",
+      "naslov": "Milivojević: Zvezdu vidim u gornjem delu tabele Lige šampiona, mnogo je moćna u Superligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/268549/milivojevic-zvezdu-vidim-u-gornjem-delu-tabele-lige-sampiona-mnogo-je-mocna-u-superligi/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 07. 2026. у 11:30",
+      "slika": null
+    },
+    {
+      "naslov": "Ilić pred Mačvu: Neće biti lako, Partizan mora ritmom da gazi protivnike u Superligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/268545/ilic-pred-macvu-nece-biti-lako-partizan-mora-ritmom-da-gazi-protivnike-u-superligi/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 07. 2026. у 11:09",
+      "slika": null
+    },
+    {
+      "naslov": "Reprezentativac Zelenortskih Ostrva Vozinja prelazi u Kolo-Kolo",
+      "url": "https://www.tanjug.rs/sport/fudbal/268533/reprezentativac-zelenortskih-ostrva-vozinja-prelazi-u-kolo-kolo/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 07. 2026. у 10:21",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Derik Lukasen novi fudbaler Crvene zvezde",
-      "url": "https://www.tanjug.rs/sport/fudbal/268483/derik-lukasen-novi-fudbaler-crvene-zvezde/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 07. 2026. у 21:23",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda: Besplatan ulaz protiv Vojvodine za \"Super zvezdaše\" i decu do 14 godina",
-      "url": "https://www.tanjug.rs/sport/fudbal/268433/zvezda-besplatan-ulaz-protiv-vojvodine-za-super-zvezdase-i-decu-do-14-godina/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 07. 2026. у 17:22",
-      "slika": null
-    },
-    {
-      "naslov": "Tanjga: Nedostaje nam agresivnost iz prošle sezone, hoćemo dobar rezultat protiv Zvezde",
-      "url": "https://www.tanjug.rs/sport/fudbal/268411/tanjga-nedostaje-nam-agresivnost-iz-prosle-sezone-hocemo-dobar-rezultat-protiv-zvezde/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 07. 2026. у 16:22",
-      "slika": null
-    },
-    {
-      "naslov": "Derbi je u Ljutice Bogdana, Partizan ide u Šabac",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253173/derbi-je-u-ljutice-bogdana-partizan-ide-u-sabac/vest",
+      "naslov": "&quot;Zveda je premoćna – imamo nju, pa veliku prazninu i onda Partizan&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253194/luka-milivojevic-crvena-zvezda-ima-kvalitet-za-ligu-sampiona-ali-je-prejaka-za-superligu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "25. 07. 2026. у 10:00",
+      "datum": "25. 07. 2026. у 11:57",
       "slika": null
     },
     {
-      "naslov": "Zvezda objavila novo pojačanje – i to kakvo! FOTO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253119/derik-lukasen-u-fk-crvena-zvezda/vest",
+      "naslov": "Ilić: &quot;Partizan mora da gazi protivnike u Superligi&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253191/konferencija-za-medije-sase-ilica-pred-partizan-macva/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "24. 07. 2026. у 21:04",
+      "datum": "25. 07. 2026. у 11:42",
       "slika": null
     }
   ]
