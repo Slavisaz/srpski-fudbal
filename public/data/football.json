@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-25T06:04:13.345402+00:00",
-  "azurirano_sr": "25. 07. 2026. у 08:04",
+  "azurirano": "2026-07-25T08:19:25.532575+00:00",
+  "azurirano_sr": "25. 07. 2026. у 10:19",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nastavlja li se “Cinderella story” evropskog fudbala ili Švajcarska dobija novog vladara",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nastavlja-li-se-cinderella-story-evropskog-fudbala-ili-svajcarska-dobija-novog-vladara/549779",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 07. 2026. у 11:20",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 25. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-25-jul/549780",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 07. 2026. у 11:20",
+      "slika": null
+    },
     {
       "naslov": "Rezzime dana (petak): Razigrala se fudbalska Evropa, a sa njom i tiketi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-petak-razigrala-se-fudbalska-evropa-a-sa-njom-i-tiketi/549769",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Lukasen zadužio crveno-beli dres: Nadam se da zajedno možemo da budemo još uspešniji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lukasen-zaduzio-crvenobeli-dres-nadam-se-da-zajedno-mozemo-da-budemo-jos-uspesniji/549766",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 07. 2026. у 23:03",
-      "slika": null
-    },
-    {
-      "naslov": "Matija Popović kao munja (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/matija-popovic-kao-munja-video/549764",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 07. 2026. у 23:01",
+      "naslov": "Nastavlja se Superliga Srbije, Zvezda dočekuje Vojvodinu, Partizan gostuje Mačvi",
+      "url": "https://www.tanjug.rs/sport/fudbal/268527/nastavlja-se-superliga-srbije-zvezda-docekuje-vojvodinu-partizan-gostuje-macvi/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 07. 2026. у 09:41",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Mark van Bomel novi selektor fudbalske reprezentacije Belgije",
-      "url": "https://www.tanjug.rs/sport/fudbal/268405/mark-van-bomel-novi-selektor-fudbalske-reprezentacije-belgije/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 07. 2026. у 16:08",
+      "naslov": "Derbi je u Ljutice Bogdana, Partizan ide u Šabac",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253173/derbi-je-u-ljutice-bogdana-partizan-ide-u-sabac/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 07. 2026. у 10:00",
       "slika": null
     },
     {
-      "naslov": "&quot;Velika je čast postati selektor Belgije&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/253052/velika-je-cast-postati-selektor-belgije/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "24. 07. 2026. у 23:55",
-      "slika": null
-    },
-    {
-      "naslov": "Mesi odlučio da je kraj?",
-      "url": "https://www.b92.net/sport/fudbal/vesti/253103/paredes-najavio-da-mesi-ide-u-penziju/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "24. 07. 2026. у 22:48",
+      "naslov": "Zvezda objavila novo pojačanje – i to kakvo! FOTO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253119/derik-lukasen-u-fk-crvena-zvezda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 07. 2026. у 21:04",
       "slika": null
     }
   ]
