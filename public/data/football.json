@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-25T17:11:38.435520+00:00",
-  "azurirano_sr": "25. 07. 2026. у 19:11",
+  "azurirano": "2026-07-25T18:06:00.920883+00:00",
+  "azurirano_sr": "25. 07. 2026. у 20:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 25. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-25-jul/549780",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 07. 2026. у 20:53",
+      "slika": null
+    },
     {
       "naslov": "Milošević opet strelac za Štutgart, Jovanović asistent",
       "url": "https://www.mozzartsport.com/fudbal/vesti/milosevic-opet-strelac-za-stutgart-jovanovic-asistent/549826",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (subota, 25. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-25-jul/549780",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 07. 2026. у 18:16",
+      "naslov": "Fudbaleri Čukaričkog pobedili Radnički u Nišu",
+      "url": "https://www.tanjug.rs/sport/fudbal/268649/fudbaleri-cukarickog-pobedili-radnicki-u-nisu/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 07. 2026. у 19:32",
+      "slika": null
+    },
+    {
+      "naslov": "Tanjga: Hvala Zbiljiću i svima u klubu, podigli smo Vojvodinu na mnogo veći nivo",
+      "url": "https://www.tanjug.rs/sport/fudbal/268641/tanjga-hvala-zbiljicu-i-svima-u-klubu-podigli-smo-vojvodinu-na-mnogo-veci-nivo/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 07. 2026. у 19:01",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Abdukodir Husanov produžio ugovor sa Mančester sitijem do 2031. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/268595/abdukodir-husanov-produzio-ugovor-sa-mancester-sitijem-do-2031-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 07. 2026. у 14:47",
-      "slika": null
-    },
-    {
-      "naslov": "Japanski fudbaler Daizen Maeda prešao iz Seltika u Ipsvič",
-      "url": "https://www.tanjug.rs/sport/fudbal/268592/japanski-fudbaler-daizen-maeda-presao-iz-seltika-u-ipsvic/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 07. 2026. у 14:32",
+      "naslov": "Čukarički za tri minuta &quot;osvojio&quot; Niš – diskutovaće se o nepriznatom golu Radničkog VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253308/cukaricki-odneo-sva-tri-boda-iz-nisa/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 07. 2026. у 19:32",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253295/dejan-stankovic-konferencija-pred-zvezda-vojvodina/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 07. 2026. у 18:41",
-      "slika": null
-    },
-    {
-      "naslov": "Rastali se Tanjga i Vojvodina!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253290/miroslav-tanjga-otisao-iz-vojvodine/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 07. 2026. у 18:21",
       "slika": null
     }
   ]
