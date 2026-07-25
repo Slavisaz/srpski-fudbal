@@ -1,13 +1,20 @@
 {
-  "azurirano": "2026-07-25T19:22:18.407950+00:00",
-  "azurirano_sr": "25. 07. 2026. у 21:22",
+  "azurirano": "2026-07-25T20:16:18.570485+00:00",
+  "azurirano_sr": "25. 07. 2026. у 22:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nova gorka pilula Milionera, iskupljenje na Monumentalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nova-gorka-pilula-milionera-iskupljenje-na-monumentalu/549811",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 07. 2026. у 00:00",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (subota, 25. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-25-jul/549780",
       "izvor": "Мозарт Спорт",
-      "datum": "25. 07. 2026. у 20:53",
+      "datum": "25. 07. 2026. у 23:28",
       "slika": null
     },
     {
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Openda u Lionu za 3.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/openda-u-lionu-za-3000000-evra/549815",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 07. 2026. у 19:26",
+      "naslov": "Fudbaleri OFK Beograda i Radnika odigrali bez golova",
+      "url": "https://www.tanjug.rs/sport/fudbal/268673/fudbaleri-ofk-beograda-i-radnika-odigrali-bez-golova/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 07. 2026. у 21:59",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Dejan Stanković: Vojvodina će stići oporavljena sa mnogo strasti i želje za pobedom",
-      "url": "https://www.tanjug.rs/sport/fudbal/268631/dejan-stankovic-vojvodina-ce-stici-oporavljena-sa-mnogo-strasti-i-zelje-za-pobedom/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 07. 2026. у 18:19",
+      "naslov": "IMT bez milosti protiv Zemuna",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253330/imt-rutinski-savladao-zemun/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 07. 2026. у 22:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253314/izjava-marka-jaksica-posle-emotivne-proslave-milana-djokovica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 07. 2026. у 20:14",
-      "slika": null
-    },
-    {
-      "naslov": "Čukarički za tri minuta &quot;osvojio&quot; Niš – diskutovaće se o nepriznatom golu Radničkog VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253308/cukaricki-odneo-sva-tri-boda-iz-nisa/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 07. 2026. у 19:32",
       "slika": null
     }
   ]
