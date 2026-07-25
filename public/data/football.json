@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-25T10:02:12.452528+00:00",
-  "azurirano_sr": "25. 07. 2026. у 12:02",
+  "azurirano": "2026-07-25T11:17:50.981114+00:00",
+  "azurirano_sr": "25. 07. 2026. у 13:17",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Li Kang In novo pojačanje Atletiko Madrida",
+      "url": "https://www.tanjug.rs/sport/fudbal/268572/li-kang-in-novo-pojacanje-atletiko-madrida/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 07. 2026. у 12:55",
+      "slika": null
+    },
+    {
+      "naslov": "Filip Đuričić novi fudbaler APOEL-a",
+      "url": "https://www.tanjug.rs/sport/fudbal/268555/filip-duricic-novi-fudbaler-apoel-a/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 07. 2026. у 11:59",
+      "slika": null
+    },
+    {
       "naslov": "Milivojević: Zvezdu vidim u gornjem delu tabele Lige šampiona, mnogo je moćna u Superligi",
       "url": "https://www.tanjug.rs/sport/fudbal/268549/milivojevic-zvezdu-vidim-u-gornjem-delu-tabele-lige-sampiona-mnogo-je-mocna-u-superligi/vest",
       "izvor": "Танјуг",
@@ -46,21 +60,7 @@
       "slika": null
     },
     {
-      "naslov": "Reprezentativac Zelenortskih Ostrva Vozinja prelazi u Kolo-Kolo",
-      "url": "https://www.tanjug.rs/sport/fudbal/268533/reprezentativac-zelenortskih-ostrva-vozinja-prelazi-u-kolo-kolo/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 07. 2026. у 10:21",
-      "slika": null
-    },
-    {
-      "naslov": "Nastavlja se Superliga Srbije, Zvezda dočekuje Vojvodinu, Partizan gostuje Mačvi",
-      "url": "https://www.tanjug.rs/sport/fudbal/268527/nastavlja-se-superliga-srbije-zvezda-docekuje-vojvodinu-partizan-gostuje-macvi/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 07. 2026. у 09:41",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Zveda je premoćna – imamo nju, pa veliku prazninu i onda Partizan&quot;",
+      "naslov": "&quot;Zvezda je premoćna – imamo nju, pa veliku prazninu i onda Partizan&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253194/luka-milivojevic-crvena-zvezda-ima-kvalitet-za-ligu-sampiona-ali-je-prejaka-za-superligu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 07. 2026. у 11:57",
