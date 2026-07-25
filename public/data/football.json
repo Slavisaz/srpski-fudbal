@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-25T21:09:43.437398+00:00",
-  "azurirano_sr": "25. 07. 2026. у 23:09",
+  "azurirano": "2026-07-25T22:06:56.577337+00:00",
+  "azurirano_sr": "26. 07. 2026. у 00:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Gotovo: Zvezdi 670.000 evra od Kingsa Kangve",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gotovo-zvezdi-670000-evra-od-kingsa-kangve/549850",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 07. 2026. у 01:15",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 25. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-25-jul/549780",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 07. 2026. у 01:01",
+      "slika": null
+    },
     {
       "naslov": "Trideset miliona za godinu dana? Vreme za napad na titulu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/trideset-miliona-za-godinu-dana-vreme-za-napad-na-titulu/549810",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/nova-gorka-pilula-milionera-iskupljenje-na-monumentalu/549811",
       "izvor": "Мозарт Спорт",
       "datum": "26. 07. 2026. у 00:00",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (subota, 25. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-25-jul/549780",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 07. 2026. у 23:28",
-      "slika": null
-    },
-    {
-      "naslov": "Milošević opet strelac za Štutgart, Jovanović asistent",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/milosevic-opet-strelac-za-stutgart-jovanovic-asistent/549826",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 07. 2026. у 20:23",
       "slika": null
     },
     {
