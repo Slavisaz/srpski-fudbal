@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-25T18:06:00.920883+00:00",
-  "azurirano_sr": "25. 07. 2026. у 20:06",
+  "azurirano": "2026-07-25T19:22:18.407950+00:00",
+  "azurirano_sr": "25. 07. 2026. у 21:22",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Trener Čukaričkog objasnio proslavu svog igrača: &quot;Preminula mu je majka...&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253314/izjava-marka-jaksica-posle-emotivne-proslave-milana-djokovica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 07. 2026. у 20:14",
+      "slika": null
+    },
+    {
       "naslov": "Čukarički za tri minuta &quot;osvojio&quot; Niš – diskutovaće se o nepriznatom golu Radničkog VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253308/cukaricki-odneo-sva-tri-boda-iz-nisa/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 07. 2026. у 19:32",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković pred Vojvodinu &quot;zagrmeo&quot;: &quot;Ne gledam tako fudbal!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253295/dejan-stankovic-konferencija-pred-zvezda-vojvodina/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 07. 2026. у 18:41",
       "slika": null
     }
   ]
