@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-25T13:58:56.352254+00:00",
-  "azurirano_sr": "25. 07. 2026. у 15:58",
+  "azurirano": "2026-07-25T15:01:38.679622+00:00",
+  "azurirano_sr": "25. 07. 2026. у 17:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 25. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-25-jul/549780",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 07. 2026. у 18:16",
+      "slika": null
+    },
     {
       "naslov": "Sprema se nešto veliko: Arsenal krenuo po Vinisijusa! Realova poslednja šansa za prodaju",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sprema-se-nesto-veliko-arsenal-krenuo-po-vinisijusa-realova-poslednja-sansa-za-prodaju/549809",
@@ -20,13 +27,6 @@
     {
       "naslov": "Nastavlja li se “Cinderella story” evropskog fudbala ili Švajcarska dobija novog vladara",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nastavlja-li-se-cinderella-story-evropskog-fudbala-ili-svajcarska-dobija-novog-vladara/549779",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 07. 2026. у 11:20",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (subota, 25. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-25-jul/549780",
       "izvor": "Мозарт Спорт",
       "datum": "25. 07. 2026. у 11:20",
       "slika": null
