@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-25T16:08:35.128639+00:00",
-  "azurirano_sr": "25. 07. 2026. у 18:08",
+  "azurirano": "2026-07-25T17:11:38.435520+00:00",
+  "azurirano_sr": "25. 07. 2026. у 19:11",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Milošević opet strelac za Štutgart, Jovanović asistent",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/milosevic-opet-strelac-za-stutgart-jovanovic-asistent/549826",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 07. 2026. у 20:23",
+      "slika": null
+    },
     {
       "naslov": "Došao u Bode za 700.000, odlazi u Seltik za 19 puta veću sumu! Maltretirao Siti, Atletiko, Inter...",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dosao-u-bode-za-700000-odlazi-u-seltik-za-19-puta-vecu-sumu-maltretirao-siti-atletiko-inter/549822",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Sprema se nešto veliko: Arsenal krenuo po Vinisijusa! Realova poslednja šansa za prodaju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sprema-se-nesto-veliko-arsenal-krenuo-po-vinisijusa-realova-poslednja-sansa-za-prodaju/549809",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 07. 2026. у 17:11",
+      "naslov": "Miroslav Tanjga nije više trener fudbalera Vojvodine",
+      "url": "https://www.tanjug.rs/sport/fudbal/268638/miroslav-tanjga-nije-vise-trener-fudbalera-vojvodine/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 07. 2026. у 18:37",
+      "slika": null
+    },
+    {
+      "naslov": "Dejan Stanković: Vojvodina će stići oporavljena sa mnogo strasti i želje za pobedom",
+      "url": "https://www.tanjug.rs/sport/fudbal/268631/dejan-stankovic-vojvodina-ce-stici-oporavljena-sa-mnogo-strasti-i-zelje-za-pobedom/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 07. 2026. у 18:19",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "FK Crvena zvezda: Dođite na utakmicu protiv Vojvodine i kupite kartu za Larn",
-      "url": "https://www.tanjug.rs/sport/fudbal/268582/fk-crvena-zvezda-dodite-na-utakmicu-protiv-vojvodine-i-kupite-kartu-za-larn/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 07. 2026. у 13:48",
-      "slika": null
-    },
-    {
-      "naslov": "Li Kang In novo pojačanje Atletiko Madrida",
-      "url": "https://www.tanjug.rs/sport/fudbal/268572/li-kang-in-novo-pojacanje-atletiko-madrida/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 07. 2026. у 12:55",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Zvezda je premoćna – imamo nju, pa veliku prazninu i onda Partizan&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253194/luka-milivojevic-crvena-zvezda-ima-kvalitet-za-ligu-sampiona-ali-je-prejaka-za-superligu/vest",
+      "naslov": "Stanković pred Vojvodinu &quot;zagrmeo&quot;: &quot;Ne gledam tako fudbal!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253295/dejan-stankovic-konferencija-pred-zvezda-vojvodina/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "25. 07. 2026. у 11:57",
+      "datum": "25. 07. 2026. у 18:41",
       "slika": null
     },
     {
-      "naslov": "Ilić: &quot;Partizan mora da gazi protivnike u Superligi&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253191/konferencija-za-medije-sase-ilica-pred-partizan-macva/vest",
+      "naslov": "Rastali se Tanjga i Vojvodina!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253290/miroslav-tanjga-otisao-iz-vojvodine/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "25. 07. 2026. у 11:42",
+      "datum": "25. 07. 2026. у 18:21",
       "slika": null
     }
   ]
