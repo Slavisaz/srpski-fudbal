@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-07-26T20:37:44.819263+00:00",
-  "azurirano_sr": "26. 07. 2026. у 22:37",
+  "azurirano": "2026-07-26T21:33:02.477035+00:00",
+  "azurirano_sr": "26. 07. 2026. у 23:33",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (nedelja, 26. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-nedelja-26-jul/549861",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 07. 2026. у 00:36",
+      "slika": null
+    },
     {
       "naslov": "Sent Etjen nije poveo Miladinovića i Anana na pripreme, rastanak neminovan",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sent-etjen-nije-poveo-miladinovica-i-anana-na-pripreme-rastanak-neminovan/549909",
       "izvor": "Мозарт Спорт",
       "datum": "26. 07. 2026. у 20:57",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (nedelja, 26. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-26-jul/549861",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 07. 2026. у 18:27",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Stanković izdvojio jednog nakon pobede: &quot;Svaka mu čast&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253535/stankovic-nahvalio-gudelja-posle-pobede-nad-vojvodinom-31/vest",
+      "naslov": "Dva crvena, 10 žutih i ludilo – Partizan protiv Mačve upisao prvu pobedu u SLS VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253508/partizan-pobedio-macvu-31-u-2-kolu-superlige-srbije-202627/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 07. 2026. у 22:33",
+      "datum": "26. 07. 2026. у 23:15",
       "slika": null
     },
     {
-      "naslov": "Stamenković &quot;zaključao&quot; mrežu u Lučanima",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253533/remi-bez-golova-mladosti-i-novog-pazara/vest",
+      "naslov": "Ilić tvrdi da je Partizan zasluženo slavio u Šapcu, kolega nije saglasan",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253534/izjava-sase-ilica-nakon-trijumfa-partizana-protiv-macve/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 07. 2026. у 22:20",
+      "datum": "26. 07. 2026. у 23:01",
       "slika": null
     }
   ]
