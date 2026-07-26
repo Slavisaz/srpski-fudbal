@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-26T16:28:55.776123+00:00",
-  "azurirano_sr": "26. 07. 2026. у 18:28",
+  "azurirano": "2026-07-26T17:31:51.446255+00:00",
+  "azurirano_sr": "26. 07. 2026. у 19:31",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Sent Etjen nije poveo Miladinovića i Anana na pripreme, rastanak neminovan",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sent-etjen-nije-poveo-miladinovica-i-anana-na-pripreme-rastanak-neminovan/549909",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 07. 2026. у 20:57",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (nedelja, 26. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-26-jul/549861",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Da li je Bolonja potrošila novac za Ugrešića? Stiže Argentinac za 12.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/da-li-je-bolonja-potrosila-novac-za-ugresica-stize-argentinac-za-12000000-evra/549874",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 07. 2026. у 12:55",
+      "naslov": "Ester Sokler prešao iz Radničkog u Makabi iz Tel Aviva",
+      "url": "https://www.tanjug.rs/sport/fudbal/268786/ester-sokler-presao-iz-radnickog-u-makabi-iz-tel-aviva/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 07. 2026. у 18:28",
       "slika": null
     },
     {
@@ -53,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Čukaričkog pobedili Radnički u Nišu",
-      "url": "https://www.tanjug.rs/sport/fudbal/268649/fudbaleri-cukarickog-pobedili-radnicki-u-nisu/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 07. 2026. у 19:32",
-      "slika": null
-    },
-    {
-      "naslov": "Derbi je u Ljutice Bogdana – treneri izabrali startne postave",
+      "naslov": "Zvezda rešila Vošu za četiri minuta",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253489/uzivo-superliga-srbije-2-kolo-crvena-zvezda-vojvodina/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 07. 2026. у 18:09",
+      "datum": "26. 07. 2026. у 19:25",
       "slika": null
     },
     {
