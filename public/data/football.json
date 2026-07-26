@@ -1,13 +1,27 @@
 {
-  "azurirano": "2026-07-26T08:42:23.656947+00:00",
-  "azurirano_sr": "26. 07. 2026. у 10:42",
+  "azurirano": "2026-07-26T10:21:55.937415+00:00",
+  "azurirano_sr": "26. 07. 2026. у 12:21",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (nedelja, 26. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-26-jul/549861",
       "izvor": "Мозарт Спорт",
-      "datum": "26. 07. 2026. у 11:27",
+      "datum": "26. 07. 2026. у 13:12",
+      "slika": null
+    },
+    {
+      "naslov": "Da li je Bolonja potrošila novac za Ugrešića? Stiže Argentinac za 12.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/da-li-je-bolonja-potrosila-novac-za-ugresica-stize-argentinac-za-12000000-evra/549874",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 07. 2026. у 12:55",
+      "slika": null
+    },
+    {
+      "naslov": "Potpisala dvojica, blizu i Dadić, ali Pazar u Lučanima slabiji nego na premijeri",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/potpisala-dvojica-blizu-i-dadic-ali-pazar-u-lucanima-slabiji-nego-na-premijeri/549870",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 07. 2026. у 12:40",
       "slika": null
     },
     {
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/u-sapcu-se-lani-sve-okrenulo-naglavacke/549858",
       "izvor": "Мозарт Спорт",
       "datum": "26. 07. 2026. у 10:50",
-      "slika": null
-    },
-    {
-      "naslov": "Gotovo: Zvezdi 670.000 evra od Kingsa Kangve",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gotovo-zvezdi-670000-evra-od-kingsa-kangve/549850",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 07. 2026. у 01:15",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI (subota, 25. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-subota-25-jul/549780",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 07. 2026. у 01:01",
       "slika": null
     },
     {
