@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-26T19:45:57.738032+00:00",
-  "azurirano_sr": "26. 07. 2026. у 21:45",
+  "azurirano": "2026-07-26T20:37:44.819263+00:00",
+  "azurirano_sr": "26. 07. 2026. у 22:37",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Stanković: Lep rezultat i zaslužena pobeda, rastemo iz utakmice u utakmicu",
+      "url": "https://www.tanjug.rs/sport/fudbal/268810/stankovic-lep-rezultat-i-zasluzena-pobeda-rastemo-iz-utakmice-u-utakmicu/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 07. 2026. у 21:40",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Crvene zvezde pobedili Vojvodinu u drugom kolu Superlige Srbije",
       "url": "https://www.tanjug.rs/sport/fudbal/268807/fudbaleri-crvene-zvezde-pobedili-vojvodinu-u-drugom-kolu-superlige-srbije/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Srpski košarkaš Aleksa Novaković potpisao za Beč",
-      "url": "https://www.tanjug.rs/sport/fudbal/268737/srpski-kosarkas-aleksa-novakovic-potpisao-za-bec/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 07. 2026. у 13:42",
+      "naslov": "Stanković izdvojio jednog nakon pobede: &quot;Svaka mu čast&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253535/stankovic-nahvalio-gudelja-posle-pobede-nad-vojvodinom-31/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 07. 2026. у 22:33",
       "slika": null
     },
     {
-      "naslov": "POLUVREME &quot;Kiša&quot; žutih kartona u Šapcu – Partizan poveo posle samo 10 minuta",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253508/uzivo-fk-macva-fk-partizan-2-kolo-superlige-srbije/vest",
+      "naslov": "Stamenković &quot;zaključao&quot; mrežu u Lučanima",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253533/remi-bez-golova-mladosti-i-novog-pazara/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 07. 2026. у 21:45",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: &quot;Biće bolje&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253524/dejan-stankovic-izjava-posle-pobede-nad-vojvodinom/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 07. 2026. у 21:16",
+      "datum": "26. 07. 2026. у 22:20",
       "slika": null
     }
   ]
