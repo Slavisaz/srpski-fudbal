@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-26T10:21:55.937415+00:00",
-  "azurirano_sr": "26. 07. 2026. у 12:21",
+  "azurirano": "2026-07-26T11:39:52.642957+00:00",
+  "azurirano_sr": "26. 07. 2026. у 13:39",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Tajna uspeha Španije: Potrebni su vam dobri ljudi, koji će biti 52 dana u kampu i neće se žaliti što ne igraju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tajna-uspeha-spanije-potrebni-su-vam-dobri-ljudi-koji-ce-biti-52-dana-u-kampu-i-nece-se-zaliti-sto-ne-igraju/549885",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 07. 2026. у 15:20",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (nedelja, 26. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-26-jul/549861",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/potpisala-dvojica-blizu-i-dadic-ali-pazar-u-lucanima-slabiji-nego-na-premijeri/549870",
       "izvor": "Мозарт Спорт",
       "datum": "26. 07. 2026. у 12:40",
-      "slika": null
-    },
-    {
-      "naslov": "U Šapcu se lani sve okrenulo naglavačke",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/u-sapcu-se-lani-sve-okrenulo-naglavacke/549858",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 07. 2026. у 10:50",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Veliki gest Marka Nikolića prema bivšem klubu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253417/veliki-gest-marka-nikolica-prema-bivsem-klubu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 07. 2026. у 12:22",
+      "slika": null
+    },
+    {
       "naslov": "IMT bez milosti protiv Zemuna",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253330/imt-rutinski-savladao-zemun/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 07. 2026. у 22:00",
-      "slika": null
-    },
-    {
-      "naslov": "Trener Čukaričkog objasnio proslavu svog igrača: &quot;Preminula mu je majka...&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253314/izjava-marka-jaksica-posle-emotivne-proslave-milana-djokovica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 07. 2026. у 20:14",
       "slika": null
     }
   ]
