@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-26T15:28:36.343463+00:00",
-  "azurirano_sr": "26. 07. 2026. у 17:28",
+  "azurirano": "2026-07-26T16:28:55.776123+00:00",
+  "azurirano_sr": "26. 07. 2026. у 18:28",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Derbi je u Ljutice Bogdana – treneri izabrali startne postave",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253489/uzivo-superliga-srbije-2-kolo-crvena-zvezda-vojvodina/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 07. 2026. у 18:09",
+      "slika": null
+    },
+    {
       "naslov": "Radnički ostaje bez bitnog igrača, ali puni kasu za milion evra",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253461/ester-sokler-prelazi-u-redove-makabija/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "26. 07. 2026. у 15:50",
-      "slika": null
-    },
-    {
-      "naslov": "Veliki gest Marka Nikolića prema bivšem klubu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253417/veliki-gest-marka-nikolica-prema-bivsem-klubu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 07. 2026. у 12:22",
       "slika": null
     }
   ]
