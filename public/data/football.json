@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-26T11:39:52.642957+00:00",
-  "azurirano_sr": "26. 07. 2026. у 13:39",
+  "azurirano": "2026-07-26T12:43:02.859551+00:00",
+  "azurirano_sr": "26. 07. 2026. у 14:43",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Srpski košarkaš Aleksa Novaković potpisao za Beč",
+      "url": "https://www.tanjug.rs/sport/fudbal/268737/srpski-kosarkas-aleksa-novakovic-potpisao-za-bec/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 07. 2026. у 13:42",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri OFK Beograda i Radnika odigrali bez golova",
       "url": "https://www.tanjug.rs/sport/fudbal/268673/fudbaleri-ofk-beograda-i-radnika-odigrali-bez-golova/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/268641/tanjga-hvala-zbiljicu-i-svima-u-klubu-podigli-smo-vojvodinu-na-mnogo-veci-nivo/vest",
       "izvor": "Танјуг",
       "datum": "25. 07. 2026. у 19:01",
-      "slika": null
-    },
-    {
-      "naslov": "Miroslav Tanjga nije više trener fudbalera Vojvodine",
-      "url": "https://www.tanjug.rs/sport/fudbal/268638/miroslav-tanjga-nije-vise-trener-fudbalera-vojvodine/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 07. 2026. у 18:37",
       "slika": null
     },
     {
