@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-26T06:25:49.787273+00:00",
-  "azurirano_sr": "26. 07. 2026. у 08:25",
+  "azurirano": "2026-07-26T08:42:23.656947+00:00",
+  "azurirano_sr": "26. 07. 2026. у 10:42",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (nedelja, 26. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-26-jul/549861",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 07. 2026. у 11:27",
+      "slika": null
+    },
+    {
+      "naslov": "U Šapcu se lani sve okrenulo naglavačke",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/u-sapcu-se-lani-sve-okrenulo-naglavacke/549858",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 07. 2026. у 10:50",
+      "slika": null
+    },
     {
       "naslov": "Gotovo: Zvezdi 670.000 evra od Kingsa Kangve",
       "url": "https://www.mozzartsport.com/fudbal/vesti/gotovo-zvezdi-670000-evra-od-kingsa-kangve/549850",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-subota-25-jul/549780",
       "izvor": "Мозарт Спорт",
       "datum": "26. 07. 2026. у 01:01",
-      "slika": null
-    },
-    {
-      "naslov": "Trideset miliona za godinu dana? Vreme za napad na titulu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/trideset-miliona-za-godinu-dana-vreme-za-napad-na-titulu/549810",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 07. 2026. у 00:40",
-      "slika": null
-    },
-    {
-      "naslov": "Nova gorka pilula Milionera, iskupljenje na Monumentalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nova-gorka-pilula-milionera-iskupljenje-na-monumentalu/549811",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 07. 2026. у 00:00",
       "slika": null
     },
     {
