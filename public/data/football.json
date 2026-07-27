@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-27T19:03:28.981554+00:00",
-  "azurirano_sr": "27. 07. 2026. у 21:03",
-  "vesti_24h": 8,
+  "azurirano": "2026-07-27T20:38:14.312875+00:00",
+  "azurirano_sr": "27. 07. 2026. у 22:38",
+  "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nikolić razbio kasu za Lovra Majera: Dogovoren najskuplji transfer u istoriji AEK-a",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nikolic-razbio-kasu-za-lovra-majera-dogovoren-najskuplji-transfer-u-istoriji-aeka/549998",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 07. 2026. у 23:57",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (ponedeljak, 27. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-27-jul/549938",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Sjajan posao Železničara: Vratio se Karikari za 600.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sjajan-posao-zeleznicara-vratio-se-karikari-za-600000-evra/549954",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 07. 2026. у 16:50",
+      "naslov": "Skaj sport: Ipsvič zainteresovan da dovede Sašu Lukića",
+      "url": "https://www.tanjug.rs/sport/fudbal/269090/skaj-sport-ipsvic-zainteresovan-da-dovede-sasu-lukica/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 07. 2026. у 21:55",
+      "slika": null
+    },
+    {
+      "naslov": "Pogodak Lopeza Kabrala protiv Argentine proglašen za najbolji gol Svetskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/269085/pogodak-lopeza-kabrala-protiv-argentine-proglasen-za-najbolji-gol-svetskog-prvenstva/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 07. 2026. у 21:09",
       "slika": null
     },
     {
@@ -46,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Kit Mardžetson novi golman Mančester junajteda",
-      "url": "https://www.tanjug.rs/sport/fudbal/268961/kit-mardzetson-novi-golman-mancester-junajteda/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 07. 2026. у 12:56",
+      "naslov": "Partizan se oglasio zbog crvenog kartona Seka: &quot;Uložićemo žalbu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253769/partizan-se-oglasio-zbog-crvenog-kartona-za-dembu-seka/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 07. 2026. у 17:07",
       "slika": null
     },
     {
-      "naslov": "Alonso: Palmer i Rodžers mogu da igraju zajedno",
-      "url": "https://www.tanjug.rs/sport/fudbal/268924/alonso-palmer-i-rodzers-mogu-da-igraju-zajedno/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 07. 2026. у 11:41",
+      "naslov": "Svi ostali u čudu: Ovo je novo pravilo koje je &quot;poguralo&quot; Partizan – 99% ga niste znali VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253567/novo-pravilo-zbog-kojeg-je-partizan-pobedo-macvu-sigurno-ne-znate/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 07. 2026. у 09:00",
       "slika": null
     }
   ]
