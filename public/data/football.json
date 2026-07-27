@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-27T13:56:41.296682+00:00",
-  "azurirano_sr": "27. 07. 2026. у 15:56",
+  "azurirano": "2026-07-27T16:10:01.540653+00:00",
+  "azurirano_sr": "27. 07. 2026. у 18:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Rus u Zrenjaninu: Proleter doveo bivšeg golmana Zvezde",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rus-u-zrenjaninu-proleter-doveo-bivseg-golmana-zvezde/549980",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 07. 2026. у 18:34",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (ponedeljak, 27. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-27-jul/549938",
@@ -18,17 +25,24 @@
       "slika": null
     },
     {
-      "naslov": "Sjajan posao Železničara: Vratio se Karikari i to za stalno",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sjajan-posao-zeleznicara-vratio-se-karikari-i-to-za-stalno/549954",
+      "naslov": "Sjajan posao Železničara: Vratio se Karikari za 600.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sjajan-posao-zeleznicara-vratio-se-karikari-za-600000-evra/549954",
       "izvor": "Мозарт Спорт",
       "datum": "27. 07. 2026. у 16:50",
       "slika": null
     },
     {
-      "naslov": "Špic mora da bude Argentinac! Roma u cugu plaća 35.000.000, može da bude skuplji od Batistute",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/spic-mora-da-bude-argentinac-roma-u-cugu-placa-35000000-moze-da-bude-skuplji-od-batistute/549958",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 07. 2026. у 15:01",
+      "naslov": "FK Partizan: Uložićemo žalbu, nije bilo elemenata za isključenje Dembe Seka",
+      "url": "https://www.tanjug.rs/sport/fudbal/269051/fk-partizan-ulozicemo-zalbu-nije-bilo-elemenata-za-iskljucenje-dembe-seka/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 07. 2026. у 17:30",
+      "slika": null
+    },
+    {
+      "naslov": "Srpski fudbaler Dušan Tadić novi član holandskog NEC-a",
+      "url": "https://www.tanjug.rs/sport/fudbal/269027/srpski-fudbaler-dusan-tadic-novi-clan-holandskog-nec-a/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 07. 2026. у 16:06",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Infantino poručio kritičarima da se mole, meditiraju ili gledaju fudbal",
-      "url": "https://www.tanjug.rs/sport/fudbal/268915/infantino-porucio-kriticarima-da-se-mole-meditiraju-ili-gledaju-fudbal/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 07. 2026. у 11:27",
+      "naslov": "Nejmar šokirao ponašanjem prema mlađim saigračima",
+      "url": "https://www.b92.net/sport/fudbal/vesti/253617/nejmar-u-sukobu-sa-saigracima-u-santosu-brazilski-mediji-izneli-ozbiljne-tvrdnje/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "27. 07. 2026. у 16:40",
       "slika": null
     },
     {
-      "naslov": "Slovenački fudbalski sudija Slavko Vinčić završio karijeru",
-      "url": "https://www.tanjug.rs/sport/fudbal/268888/slovenacki-fudbalski-sudija-slavko-vincic-zavrsio-karijeru/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 07. 2026. у 10:37",
-      "slika": null
-    },
-    {
-      "naslov": "Svi ostali u čudu: Ovo je novo pravilo koje je &quot;poguralo&quot; Partizan – 99% ga niste znali VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253567/novo-pravilo-zbog-kojeg-je-partizan-pobedo-macvu-sigurno-ne-znate/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 07. 2026. у 09:00",
-      "slika": null
-    },
-    {
-      "naslov": "Dva crvena, 10 žutih i ludilo – Partizan protiv Mačve upisao prvu pobedu u SLS VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253508/partizan-pobedio-macvu-31-u-2-kolu-superlige-srbije-202627/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 07. 2026. у 23:39",
+      "naslov": "Zvanično: Tadić se vratio!",
+      "url": "https://www.b92.net/sport/fudbal/vesti/253738/dusan-tadic-novi-fudbaler-nec-a/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "27. 07. 2026. у 15:42",
       "slika": null
     }
   ]
