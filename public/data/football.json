@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-27T04:49:23.168408+00:00",
-  "azurirano_sr": "27. 07. 2026. у 06:49",
+  "azurirano": "2026-07-27T08:16:25.600606+00:00",
+  "azurirano_sr": "27. 07. 2026. у 10:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (ponedeljak, 27. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-27-jul/549938",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 07. 2026. у 11:29",
+      "slika": null
+    },
+    {
+      "naslov": "Politički problem za italijanski fudbal: Pirlo neće biti selektor zbog reklame u Rusiji?! Ide i Maldini",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/politicki-problem-za-italijanski-fudbal-pirlo-nece-biti-selektor-zbog-reklame-u-rusiji-ide-i-maldini/549934",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 07. 2026. у 10:58",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET, ponedeljak, 177.753 dinara: Južnoamerička Mozzart turneja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-ponedeljak-177753-dinara-juznoamericka-mozzart-turneja/549932",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 07. 2026. у 10:13",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (nedelja, 26. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-nedelja-26-jul/549861",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Sent Etjen nije poveo Miladinovića i Anana na pripreme, rastanak neminovan",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sent-etjen-nije-poveo-miladinovica-i-anana-na-pripreme-rastanak-neminovan/549909",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 07. 2026. у 20:57",
+      "naslov": "WTA lista: Najbolji plasman u karijeri Kostović i Ristić, Sabalenka drži prvo mesto",
+      "url": "https://www.tanjug.rs/sport/fudbal/268868/wta-lista-najbolji-plasman-u-karijeri-kostovic-i-ristic-sabalenka-drzi-prvo-mesto/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 07. 2026. у 10:01",
       "slika": null
     },
     {
-      "naslov": "Gde je promašila skretanje karijera Džejdona Sanča? U 26. godini se sprema put Katara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gde-je-promasila-skretanje-karijera-dzejdona-sanca-u-26-godini-se-sprema-put-katara/549895",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 07. 2026. у 16:50",
-      "slika": null
-    },
-    {
-      "naslov": "Tajna uspeha Španije: Potrebni su vam dobri ljudi, koji će biti 52 dana u kampu i neće se žaliti što ne igraju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tajna-uspeha-spanije-potrebni-su-vam-dobri-ljudi-koji-ce-biti-52-dana-u-kampu-i-nece-se-zaliti-sto-ne-igraju/549885",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 07. 2026. у 15:20",
+      "naslov": "Mbape se obratio Francuzima: Nikada nas niste napustili, čak i kada to nismo zaslužili",
+      "url": "https://www.tanjug.rs/sport/fudbal/268867/mbape-se-obratio-francuzima-nikada-nas-niste-napustili-cak-i-kada-to-nismo-zasluzili/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 07. 2026. у 09:58",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Ester Sokler prešao iz Radničkog u Makabi iz Tel Aviva",
-      "url": "https://www.tanjug.rs/sport/fudbal/268786/ester-sokler-presao-iz-radnickog-u-makabi-iz-tel-aviva/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 07. 2026. у 18:28",
-      "slika": null
-    },
-    {
-      "naslov": "Kajakaš Strahinja Dragosavljević odbranio titulu šampiona Evrope za mlađe seniore",
-      "url": "https://www.tanjug.rs/sport/fudbal/268772/kajakas-strahinja-dragosavljevic-odbranio-titulu-sampiona-evrope-za-mlade-seniore/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 07. 2026. у 16:43",
+      "naslov": "Svi ostali u čudu: Ovo je novo pravilo koje je &quot;poguralo&quot; Partizan – 99% ga niste znali VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253567/novo-pravilo-zbog-kojeg-je-partizan-pobedo-macvu-sigurno-ne-znate/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 07. 2026. у 09:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253508/partizan-pobedio-macvu-31-u-2-kolu-superlige-srbije-202627/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "26. 07. 2026. у 23:39",
-      "slika": null
-    },
-    {
-      "naslov": "Ilić tvrdi da je Partizan zasluženo slavio u Šapcu, kolega nije saglasan",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253534/izjava-sase-ilica-nakon-trijumfa-partizana-protiv-macve/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 07. 2026. у 23:01",
       "slika": null
     }
   ]
