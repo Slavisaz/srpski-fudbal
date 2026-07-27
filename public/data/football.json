@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-07-27T20:38:14.312875+00:00",
-  "azurirano_sr": "27. 07. 2026. у 22:38",
+  "azurirano": "2026-07-27T21:44:57.031291+00:00",
+  "azurirano_sr": "27. 07. 2026. у 23:44",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (ponedeljak, 27. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-ponedeljak-27-jul/549938",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 07. 2026. у 01:23",
+      "slika": null
+    },
     {
       "naslov": "Nikolić razbio kasu za Lovra Majera: Dogovoren najskuplji transfer u istoriji AEK-a",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nikolic-razbio-kasu-za-lovra-majera-dogovoren-najskuplji-transfer-u-istoriji-aeka/549998",
       "izvor": "Мозарт Спорт",
       "datum": "27. 07. 2026. у 23:57",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (ponedeljak, 27. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-27-jul/549938",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 07. 2026. у 22:41",
       "slika": null
     },
     {
@@ -29,6 +29,13 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/izdejstvovao-transfer-prekidom-treninga-ajaks-uzima-razbijaca-od-vulvsa-otkup-moguc-za-22000000-evra/549971",
       "izvor": "Мозарт Спорт",
       "datum": "27. 07. 2026. у 16:55",
+      "slika": null
+    },
+    {
+      "naslov": "Harvi Barns potpisao novi dugoročni ugovor sa Njukaslom",
+      "url": "https://www.tanjug.rs/sport/fudbal/269100/harvi-barns-potpisao-novi-dugorocni-ugovor-sa-njukaslom/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 07. 2026. у 22:59",
       "slika": null
     },
     {
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Srpski fudbaler Dušan Tadić novi član holandskog NEC-a",
-      "url": "https://www.tanjug.rs/sport/fudbal/269027/srpski-fudbaler-dusan-tadic-novi-clan-holandskog-nec-a/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 07. 2026. у 16:06",
-      "slika": null
-    },
-    {
       "naslov": "Partizan se oglasio zbog crvenog kartona Seka: &quot;Uložićemo žalbu&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253769/partizan-se-oglasio-zbog-crvenog-kartona-za-dembu-seka/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,6 +71,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253567/novo-pravilo-zbog-kojeg-je-partizan-pobedo-macvu-sigurno-ne-znate/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "27. 07. 2026. у 09:00",
+      "slika": null
+    },
+    {
+      "naslov": "Dva crvena, 10 žutih i ludilo – Partizan protiv Mačve upisao prvu pobedu u SLS VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253508/partizan-pobedio-macvu-31-u-2-kolu-superlige-srbije-202627/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 07. 2026. у 23:39",
       "slika": null
     }
   ]
