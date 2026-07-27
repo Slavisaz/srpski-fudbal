@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-07-27T17:53:06.815870+00:00",
-  "azurirano_sr": "27. 07. 2026. у 19:53",
-  "vesti_24h": 10,
+  "azurirano": "2026-07-27T19:03:28.981554+00:00",
+  "azurirano_sr": "27. 07. 2026. у 21:03",
+  "vesti_24h": 8,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (ponedeljak, 27. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-27-jul/549938",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 07. 2026. у 22:41",
+      "slika": null
+    },
     {
       "naslov": "Rus u Zrenjaninu: Proleter doveo bivšeg golmana Zvezde",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rus-u-zrenjaninu-proleter-doveo-bivseg-golmana-zvezde/549980",
       "izvor": "Мозарт Спорт",
       "datum": "27. 07. 2026. у 18:34",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (ponedeljak, 27. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-27-jul/549938",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 07. 2026. у 17:41",
       "slika": null
     },
     {
@@ -57,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/268924/alonso-palmer-i-rodzers-mogu-da-igraju-zajedno/vest",
       "izvor": "Танјуг",
       "datum": "27. 07. 2026. у 11:41",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan se oglasio zbog crvenog kartona Seka: &quot;Uložićemo žalbu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253769/partizan-se-oglasio-zbog-crvenog-kartona-za-dembu-seka/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 07. 2026. у 17:07",
-      "slika": null
-    },
-    {
-      "naslov": "Svi ostali u čudu: Ovo je novo pravilo koje je &quot;poguralo&quot; Partizan – 99% ga niste znali VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253567/novo-pravilo-zbog-kojeg-je-partizan-pobedo-macvu-sigurno-ne-znate/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 07. 2026. у 09:00",
       "slika": null
     }
   ]
