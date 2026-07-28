@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-28T09:22:33.238273+00:00",
-  "azurirano_sr": "28. 07. 2026. у 11:22",
+  "azurirano": "2026-07-28T11:31:32.014389+00:00",
+  "azurirano_sr": "28. 07. 2026. у 13:31",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ne živimo više Dane Mrmota: Trenerski bejbi bum zapljusnuo Mozzart Bet Superligu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ne-zivimo-vise-dane-mrmota-trenerski-bejbi-bum-zapljusnuo-mozzart-bet-superligu/550035",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 07. 2026. у 14:53",
+      "slika": null
+    },
+    {
+      "naslov": "Ratkov na transfer-listi, traži kupca u Nemačkoj; Lacio merka Filkruga i Himeneza",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ratkov-na-transferlisti-trazi-kupca-u-nemackoj-lacio-merka-filkruga-i-himeneza/550027",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 07. 2026. у 13:28",
+      "slika": null
+    },
     {
       "naslov": "Bojkot ili treći najskuplji transfer u istoriji: PSŽ traži 170.000.000, Barkoli preti odstranjivanje",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bojkot-ili-treci-najskuplji-transfer-u-istoriji-psz-trazi-170000000-barkoli-preti-odstranjivanje/550024",
@@ -18,45 +32,31 @@
       "slika": null
     },
     {
-      "naslov": "Železničar drugi put u mesec dana oborio rekord! Karikari otkupljen za 600.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zeleznicar-drugi-put-u-mesec-dana-oborio-rekord-karikari-otkupljen-za-600000-evra/550023",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 07. 2026. у 12:43",
-      "slika": null
-    },
-    {
-      "naslov": "Zvanična promocija Zidana praznik francuskog fudbala: Jednoglasna podrška, nacija slavi \"ZZ day\"",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicna-promocija-zidana-praznik-francuskog-fudbala-jednoglasna-podrska-nacija-slavi-zz-day/550017",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 07. 2026. у 11:53",
-      "slika": null
-    },
-    {
-      "naslov": "Belgijanac Frank De Bleker novi predsednik Sudijske komisije FSS",
-      "url": "https://www.tanjug.rs/sport/fudbal/269151/belgijanac-frank-de-bleker-novi-predsednik-sudijske-komisije-fss/vest",
+      "naslov": "Crvena zvezda apelovala na navijače: Bez pirotehnike na meču sa Larnom",
+      "url": "https://www.tanjug.rs/sport/fudbal/269226/crvena-zvezda-apelovala-na-navijace-bez-pirotehnike-na-mecu-sa-larnom/vest",
       "izvor": "Танјуг",
-      "datum": "28. 07. 2026. у 10:08",
+      "datum": "28. 07. 2026. у 13:02",
       "slika": null
     },
     {
-      "naslov": "Havijer Ernandez Čičarito novi fudbaler Atletika iz Dalasa",
-      "url": "https://www.tanjug.rs/sport/fudbal/269133/havijer-ernandez-cicarito-novi-fudbaler-atletika-iz-dalasa/vest",
+      "naslov": "Železničar iz Pančeva izdvojio 600.000 evra za transfer Karikarija",
+      "url": "https://www.tanjug.rs/sport/fudbal/269217/zeleznicar-iz-panceva-izdvojio-600000-evra-za-transfer-karikarija/vest",
       "izvor": "Танјуг",
-      "datum": "28. 07. 2026. у 09:31",
+      "datum": "28. 07. 2026. у 12:39",
       "slika": null
     },
     {
-      "naslov": "Eriksen se još nije vratio u Volfsburg, oporavak nastavlja u Danskoj",
-      "url": "https://www.tanjug.rs/sport/fudbal/269122/eriksen-se-jos-nije-vratio-u-volfsburg-oporavak-nastavlja-u-danskoj/vest",
+      "naslov": "Zidan: Daću sve od sebe kako bi reprezentacija Francuske nastavila da pobeđuje",
+      "url": "https://www.tanjug.rs/sport/fudbal/269208/zidan-dacu-sve-od-sebe-kako-bi-reprezentacija-francuske-nastavila-da-pobeduje/vest",
       "izvor": "Танјуг",
-      "datum": "28. 07. 2026. у 09:00",
+      "datum": "28. 07. 2026. у 12:26",
       "slika": null
     },
     {
-      "naslov": "Harvi Barns potpisao novi dugoročni ugovor sa Njukaslom",
-      "url": "https://www.tanjug.rs/sport/fudbal/269100/harvi-barns-potpisao-novi-dugorocni-ugovor-sa-njukaslom/vest",
+      "naslov": "Brazilski fudbaler Otavio potpisao ugovor sa Ajntrahtom iz Frankfurta",
+      "url": "https://www.tanjug.rs/sport/fudbal/269190/brazilski-fudbaler-otavio-potpisao-ugovor-sa-ajntrahtom-iz-frankfurta/vest",
       "izvor": "Танјуг",
-      "datum": "27. 07. 2026. у 22:59",
+      "datum": "28. 07. 2026. у 11:43",
       "slika": null
     },
     {
