@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-28T19:54:32.980003+00:00",
-  "azurirano_sr": "28. 07. 2026. у 21:54",
+  "azurirano": "2026-07-28T20:55:21.697665+00:00",
+  "azurirano_sr": "28. 07. 2026. у 22:55",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kraj evropske priče za nesrećni Vardar: Makedonci ponovo bili pred prolazom, Taivo doneo radost Rigi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-evropske-price-za-nesrecni-vardar-makedonci-ponovo-bili-pred-prolazom-taivo-doneo-radost-rigi/550077",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 07. 2026. у 00:03",
+      "slika": null
+    },
     {
       "naslov": "Ide Totenhem preko 300.000.000! Savinjo zatražio transfer",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ide-totenhem-preko-300000000-savinjo-zatrazio-transfer/550075",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (utorak, 28. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-28-jul/550014",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 07. 2026. у 20:37",
+      "naslov": "FK Partizan: Sergej Mladenović i Stefan Đurović potpisali profesionalne ugovore",
+      "url": "https://www.tanjug.rs/sport/fudbal/269362/fk-partizan-sergej-mladenovic-i-stefan-durovic-potpisali-profesionalne-ugovore/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 07. 2026. у 22:41",
       "slika": null
     },
     {
@@ -46,17 +53,17 @@
       "slika": null
     },
     {
-      "naslov": "UEFA kritikovala Infantina zbog plana da Svetska prvenstva finansiraju privatni investitori",
-      "url": "https://www.tanjug.rs/sport/fudbal/269333/uefa-kritikovala-infantina-zbog-plana-da-svetska-prvenstva-finansiraju-privatni-investitori/vest",
+      "naslov": "Srpski fudbaler Veljko Simić strelac za Sabah u kvalifikacijama za Ligu šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/269345/srpski-fudbaler-veljko-simic-strelac-za-sabah-u-kvalifikacijama-za-ligu-sampiona/vest",
       "izvor": "Танјуг",
-      "datum": "28. 07. 2026. у 19:40",
+      "datum": "28. 07. 2026. у 20:24",
       "slika": null
     },
     {
-      "naslov": "Dejan Stanković pred Larn: Za mene je svaka utakmica bitna, hoću da budemo koncentrisani",
-      "url": "https://www.tanjug.rs/sport/fudbal/269326/dejan-stankovic-pred-larn-za-mene-je-svaka-utakmica-bitna-hocu-da-budemo-koncentrisani/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 07. 2026. у 18:50",
+      "naslov": "&quot;Nije sigurno da će Srbija biti na sledećem Mundijalu iako bude 64 reprezentacije&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254113/nije-sigurno-da-ce-srbija-biti-na-sledecem-mundijalu-iako-bude-64-reprezentacije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 07. 2026. у 22:09",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254128/dimitrije-jankovic-u-novom-pazaru/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 07. 2026. у 20:25",
-      "slika": null
-    },
-    {
-      "naslov": "Srbin iz Beča pojačao Radnički",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254081/jovan-zivkovic-pojacao-radnicki-1923/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 07. 2026. у 19:00",
       "slika": null
     }
   ]
