@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-28T17:01:02.729327+00:00",
-  "azurirano_sr": "28. 07. 2026. у 19:01",
+  "azurirano": "2026-07-28T18:18:11.593477+00:00",
+  "azurirano_sr": "28. 07. 2026. у 20:18",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "E, tako se pumpa koeficijent! Prekinuli teror Karabaga i sad seju strah, a Veljko Simić rešeta (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/e-tako-se-pumpa-koeficijent-prekinuli-teror-karabaga-i-sad-seju-strah-a-veljko-simic-reseta-video/550065",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 07. 2026. у 21:37",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (utorak, 28. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-28-jul/550014",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Došao u Bode za 700.000, otišao u Seltik za 19 puta veću sumu! Maltretirao Siti, Atletiko, Inter...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dosao-u-bode-za-700000-otisao-u-seltik-za-19-puta-vecu-sumu-maltretirao-siti-atletiko-inter/549822",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 07. 2026. у 18:59",
+      "naslov": "UEFA kritikovala Infantina zbog plana da Svetska prvenstva finansiraju privatni investitori",
+      "url": "https://www.tanjug.rs/sport/fudbal/269333/uefa-kritikovala-infantina-zbog-plana-da-svetska-prvenstva-finansiraju-privatni-investitori/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 07. 2026. у 19:40",
+      "slika": null
+    },
+    {
+      "naslov": "Dejan Stanković pred Larn: Za mene je svaka utakmica bitna, hoću da budemo koncentrisani",
+      "url": "https://www.tanjug.rs/sport/fudbal/269326/dejan-stankovic-pred-larn-za-mene-je-svaka-utakmica-bitna-hocu-da-budemo-koncentrisani/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 07. 2026. у 18:50",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/269269/marko-savic-novi-trener-fudbalera-vojvodine/vest",
       "izvor": "Танјуг",
       "datum": "28. 07. 2026. у 15:07",
-      "slika": null
-    },
-    {
-      "naslov": "Vili Ernangomez novi košarkaš Unikahe",
-      "url": "https://www.tanjug.rs/sport/fudbal/269261/vili-ernangomez-novi-kosarkas-unikahe/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 07. 2026. у 14:41",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Mančester sitija Rodri uspešno operisan",
-      "url": "https://www.tanjug.rs/sport/fudbal/269258/fudbaler-mancester-sitija-rodri-uspesno-operisan/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 07. 2026. у 14:28",
       "slika": null
     },
     {
