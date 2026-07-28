@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-28T20:55:21.697665+00:00",
-  "azurirano_sr": "28. 07. 2026. у 22:55",
+  "azurirano": "2026-07-28T21:54:30.721911+00:00",
+  "azurirano_sr": "28. 07. 2026. у 23:54",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (utorak, 28. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-utorak-28-jul/550014",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 07. 2026. у 01:26",
+      "slika": null
+    },
     {
       "naslov": "Kraj evropske priče za nesrećni Vardar: Makedonci ponovo bili pred prolazom, Taivo doneo radost Rigi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-evropske-price-za-nesrecni-vardar-makedonci-ponovo-bili-pred-prolazom-taivo-doneo-radost-rigi/550077",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "E, tako se pumpa koeficijent! Prekinuli teror Karabaga i sad seju strah, a Veljko Simić rešeta (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/e-tako-se-pumpa-koeficijent-prekinuli-teror-karabaga-i-sad-seju-strah-a-veljko-simic-reseta-video/550065",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 07. 2026. у 21:37",
+      "naslov": "Fudbaleri Dinama iz Zagreba izborili plasman u treće kolo kvalifikacija za Ligu šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/269367/fudbaleri-dinama-iz-zagreba-izborili-plasman-u-trece-kolo-kvalifikacija-za-ligu-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 07. 2026. у 22:51",
+      "slika": null
+    },
+    {
+      "naslov": "Ibrahim Sangare produžio ugovor sa Notingem Forestom do 2029. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/269365/ibrahim-sangare-produzio-ugovor-sa-notingem-forestom-do-2029-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 07. 2026. у 22:41",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/269350/danski-fudbaler-kasper-heg-novo-pojacanje-seltika/vest",
       "izvor": "Танјуг",
       "datum": "28. 07. 2026. у 21:12",
-      "slika": null
-    },
-    {
-      "naslov": "Lois Openda prešao iz Juventusa na pozajmicu u Lion",
-      "url": "https://www.tanjug.rs/sport/fudbal/269342/lois-openda-presao-iz-juventusa-na-pozajmicu-u-lion/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 07. 2026. у 20:42",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Veljko Simić strelac za Sabah u kvalifikacijama za Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/269345/srpski-fudbaler-veljko-simic-strelac-za-sabah-u-kvalifikacijama-za-ligu-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 07. 2026. у 20:24",
       "slika": null
     },
     {
