@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-28T22:47:15.249921+00:00",
-  "azurirano_sr": "29. 07. 2026. у 00:47",
+  "azurirano": "2026-07-28T23:42:47.520574+00:00",
+  "azurirano_sr": "29. 07. 2026. у 01:42",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Istorijska kazna u svetskom fudbalu: Dok se on ne oporavi, ti ne igraš (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/istorijska-kazna-u-svetskom-fudbalu-dok-se-on-ne-oporavi-ti-ne-igras-video/550085",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 07. 2026. у 02:53",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (utorak, 28. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-utorak-28-jul/550014",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/ide-totenhem-preko-300000000-savinjo-zatrazio-transfer/550075",
       "izvor": "Мозарт Спорт",
       "datum": "28. 07. 2026. у 23:23",
-      "slika": null
-    },
-    {
-      "naslov": "Stvoren kao projekat bolivudskog glumca, svojevremeno doveo osvajača Mundijala, a sada je tu Ninković",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/stvoren-kao-projekat-bolivudskog-glumca-svojevremeno-doveo-osvajaca-mundijala-a-sada-je-tu-ninkovic/550074",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 07. 2026. у 23:21",
       "slika": null
     },
     {
