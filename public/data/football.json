@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-07-28T13:11:28.440470+00:00",
-  "azurirano_sr": "28. 07. 2026. у 15:11",
+  "azurirano": "2026-07-28T15:31:54.614073+00:00",
+  "azurirano_sr": "28. 07. 2026. у 17:31",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Ne živimo više Dane Mrmota: Trenerski bejbi bum zapljusnuo Mozzart Bet Superligu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ne-zivimo-vise-dane-mrmota-trenerski-bejbi-bum-zapljusnuo-mozzart-bet-superligu/550035",
+      "naslov": "Došao u Bode za 700.000, otišao u Seltik za 19 puta veću sumu! Maltretirao Siti, Atletiko, Inter...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dosao-u-bode-za-700000-otisao-u-seltik-za-19-puta-vecu-sumu-maltretirao-siti-atletiko-inter/549822",
       "izvor": "Мозарт Спорт",
-      "datum": "28. 07. 2026. у 14:53",
+      "datum": "28. 07. 2026. у 18:59",
       "slika": null
     },
     {
-      "naslov": "Ratkov na transfer-listi, traži kupca u Nemačkoj; Lacio merka Filkruga i Himeneza",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ratkov-na-transferlisti-trazi-kupca-u-nemackoj-lacio-merka-filkruga-i-himeneza/550027",
+      "naslov": "Zbiljić gledao Kokovića, pa doveo Savića: Takav fudbal želim u Voši",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zbiljic-gledao-kokovica-pa-doveo-savica-takav-fudbal-zelim-u-vosi/550057",
       "izvor": "Мозарт Спорт",
-      "datum": "28. 07. 2026. у 13:28",
+      "datum": "28. 07. 2026. у 18:33",
       "slika": null
     },
     {
-      "naslov": "Bojkot ili treći najskuplji transfer u istoriji: PSŽ traži 170.000.000, Barkoli preti odstranjivanje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bojkot-ili-treci-najskuplji-transfer-u-istoriji-psz-trazi-170000000-barkoli-preti-odstranjivanje/550024",
+      "naslov": "Brajton i kad promaši – zaradi! Momčina od 206 se vratila u Premijer ligu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/brajton-i-kad-promasi-zaradi-momcina-od-206-se-vratila-u-premijer-ligu/550056",
       "izvor": "Мозарт Спорт",
-      "datum": "28. 07. 2026. у 12:54",
+      "datum": "28. 07. 2026. у 18:32",
       "slika": null
     },
     {
-      "naslov": "Kako Alonso menja Čelsijevo poslovanje: Od dve milijarde za talente, do insistiranja na iskustvu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-alonso-menja-celsijevo-poslovanje-od-dve-milijarde-za-talente-do-insistiranja-na-iskustvu/550021",
+      "naslov": "Marko Savić: Vojvodina je od prvog dana bila u mojoj trenerskoj viziji, volim organizovan fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/marko-savic-vojvodina-je-od-prvog-dana-bila-u-mojoj-trenerskoj-viziji-volim-organizovan-fudbal/550052",
       "izvor": "Мозарт Спорт",
-      "datum": "28. 07. 2026. у 12:46",
+      "datum": "28. 07. 2026. у 17:51",
+      "slika": null
+    },
+    {
+      "naslov": "Manćini novi selektor fudbalera Italije, Ranijeri tehnički direktor Saveza",
+      "url": "https://www.tanjug.rs/sport/fudbal/269292/mancini-novi-selektor-fudbalera-italije-ranijeri-tehnicki-direktor-saveza/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 07. 2026. у 16:35",
+      "slika": null
+    },
+    {
+      "naslov": "Marko Savić novi trener fudbalera Vojvodine",
+      "url": "https://www.tanjug.rs/sport/fudbal/269269/marko-savic-novi-trener-fudbalera-vojvodine/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 07. 2026. у 15:07",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Het-trik Pedra u pobedi fudbalera Čelsija protiv Vonderersa",
-      "url": "https://www.tanjug.rs/sport/fudbal/269245/het-trik-pedra-u-pobedi-fudbalera-celsija-protiv-vonderersa/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 07. 2026. у 13:59",
-      "slika": null
-    },
-    {
-      "naslov": "Holandski golman Kjel Šerpen novo pojačanje Ipsviča",
-      "url": "https://www.tanjug.rs/sport/fudbal/269240/holandski-golman-kjel-serpen-novo-pojacanje-ipsvica/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 07. 2026. у 13:47",
+      "naslov": "Vojvodina predstavila novog trenera VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254062/marko-savic-novi-trener-vojvodine/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 07. 2026. у 15:35",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253956/zeleznicar-iz-panceva-otkupio-kvaku-karikarija-za-600000-evra/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 07. 2026. у 11:20",
-      "slika": null
-    },
-    {
-      "naslov": "Belgijanac novi &quot;šef&quot; srpskih sudija",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253925/frank-de-bleker-novi-predsednik-sudijske-komisije-fss-stize-i-var-ekspert-kristof-dirik/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 07. 2026. у 09:58",
       "slika": null
     }
   ]
