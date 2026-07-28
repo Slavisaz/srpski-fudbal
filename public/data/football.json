@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-28T18:18:11.593477+00:00",
-  "azurirano_sr": "28. 07. 2026. у 20:18",
+  "azurirano": "2026-07-28T19:54:32.980003+00:00",
+  "azurirano_sr": "28. 07. 2026. у 21:54",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ide Totenhem preko 300.000.000! Savinjo zatražio transfer",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ide-totenhem-preko-300000000-savinjo-zatrazio-transfer/550075",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 07. 2026. у 23:23",
+      "slika": null
+    },
+    {
+      "naslov": "Stvoren kao projekat bolivudskog glumca, svojevremeno doveo osvajača Mundijala, a sada je tu Ninković",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stvoren-kao-projekat-bolivudskog-glumca-svojevremeno-doveo-osvajaca-mundijala-a-sada-je-tu-ninkovic/550074",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 07. 2026. у 23:21",
+      "slika": null
+    },
     {
       "naslov": "E, tako se pumpa koeficijent! Prekinuli teror Karabaga i sad seju strah, a Veljko Simić rešeta (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/e-tako-se-pumpa-koeficijent-prekinuli-teror-karabaga-i-sad-seju-strah-a-veljko-simic-reseta-video/550065",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbalska nuklearna bomba: Infantino želi da proda Svetsko prvenstvo za 15 milijardi!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalska-nuklearna-bomba-infantino-zeli-da-proda-svetsko-prvenstvo-za-15-milijardi/550060",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 07. 2026. у 19:44",
+      "naslov": "Danski fudbaler Kasper Heg novo pojačanje Seltika",
+      "url": "https://www.tanjug.rs/sport/fudbal/269350/danski-fudbaler-kasper-heg-novo-pojacanje-seltika/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 07. 2026. у 21:12",
       "slika": null
     },
     {
-      "naslov": "Svrgnut Andre Pjer Žinjak: Imamo najskupljeg autohtonog francuskog centarfora svih vremena",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/svrgnut-andre-pjer-zinjak-imamo-najskupljeg-autohtonog-francuskog-centarfora-svih-vremena/550058",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 07. 2026. у 19:31",
+      "naslov": "Lois Openda prešao iz Juventusa na pozajmicu u Lion",
+      "url": "https://www.tanjug.rs/sport/fudbal/269342/lois-openda-presao-iz-juventusa-na-pozajmicu-u-lion/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 07. 2026. у 20:42",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Manćini novi selektor fudbalera Italije, Ranijeri tehnički direktor Saveza",
-      "url": "https://www.tanjug.rs/sport/fudbal/269292/mancini-novi-selektor-fudbalera-italije-ranijeri-tehnicki-direktor-saveza/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 07. 2026. у 16:35",
-      "slika": null
-    },
-    {
-      "naslov": "Marko Savić novi trener fudbalera Vojvodine",
-      "url": "https://www.tanjug.rs/sport/fudbal/269269/marko-savic-novi-trener-fudbalera-vojvodine/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 07. 2026. у 15:07",
+      "naslov": "Novi Pazar doveo vezistu Partizana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254128/dimitrije-jankovic-u-novom-pazaru/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 07. 2026. у 20:25",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254081/jovan-zivkovic-pojacao-radnicki-1923/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 07. 2026. у 19:00",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina predstavila novog trenera VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254062/marko-savic-novi-trener-vojvodine/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 07. 2026. у 15:35",
       "slika": null
     }
   ]
