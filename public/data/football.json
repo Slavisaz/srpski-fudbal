@@ -1,34 +1,34 @@
 {
-  "azurirano": "2026-07-28T15:31:54.614073+00:00",
-  "azurirano_sr": "28. 07. 2026. у 17:31",
+  "azurirano": "2026-07-28T17:01:02.729327+00:00",
+  "azurirano_sr": "28. 07. 2026. у 19:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (utorak, 28. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-28-jul/550014",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 07. 2026. у 20:37",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbalska nuklearna bomba: Infantino želi da proda Svetsko prvenstvo za 15 milijardi!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalska-nuklearna-bomba-infantino-zeli-da-proda-svetsko-prvenstvo-za-15-milijardi/550060",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 07. 2026. у 19:44",
+      "slika": null
+    },
+    {
+      "naslov": "Svrgnut Andre Pjer Žinjak: Imamo najskupljeg autohtonog francuskog centarfora svih vremena",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/svrgnut-andre-pjer-zinjak-imamo-najskupljeg-autohtonog-francuskog-centarfora-svih-vremena/550058",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 07. 2026. у 19:31",
+      "slika": null
+    },
     {
       "naslov": "Došao u Bode za 700.000, otišao u Seltik za 19 puta veću sumu! Maltretirao Siti, Atletiko, Inter...",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dosao-u-bode-za-700000-otisao-u-seltik-za-19-puta-vecu-sumu-maltretirao-siti-atletiko-inter/549822",
       "izvor": "Мозарт Спорт",
       "datum": "28. 07. 2026. у 18:59",
-      "slika": null
-    },
-    {
-      "naslov": "Zbiljić gledao Kokovića, pa doveo Savića: Takav fudbal želim u Voši",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zbiljic-gledao-kokovica-pa-doveo-savica-takav-fudbal-zelim-u-vosi/550057",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 07. 2026. у 18:33",
-      "slika": null
-    },
-    {
-      "naslov": "Brajton i kad promaši – zaradi! Momčina od 206 se vratila u Premijer ligu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/brajton-i-kad-promasi-zaradi-momcina-od-206-se-vratila-u-premijer-ligu/550056",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 07. 2026. у 18:32",
-      "slika": null
-    },
-    {
-      "naslov": "Marko Savić: Vojvodina je od prvog dana bila u mojoj trenerskoj viziji, volim organizovan fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/marko-savic-vojvodina-je-od-prvog-dana-bila-u-mojoj-trenerskoj-viziji-volim-organizovan-fudbal/550052",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 07. 2026. у 17:51",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Srbin iz Beča pojačao Radnički",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254081/jovan-zivkovic-pojacao-radnicki-1923/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 07. 2026. у 19:00",
+      "slika": null
+    },
+    {
       "naslov": "Vojvodina predstavila novog trenera VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254062/marko-savic-novi-trener-vojvodine/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 07. 2026. у 15:35",
-      "slika": null
-    },
-    {
-      "naslov": "Rekordan transfer u Pančevu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/253956/zeleznicar-iz-panceva-otkupio-kvaku-karikarija-za-600000-evra/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 07. 2026. у 11:20",
       "slika": null
     }
   ]
