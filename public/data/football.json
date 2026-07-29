@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-29T13:26:40.502272+00:00",
-  "azurirano_sr": "29. 07. 2026. у 15:26",
+  "azurirano": "2026-07-29T15:29:26.707503+00:00",
+  "azurirano_sr": "29. 07. 2026. у 17:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (sreda, 29. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-29-jul/550096",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 07. 2026. у 17:23",
+      "slika": null
+    },
     {
       "naslov": "Poslednji bundesligaški ples: Edin Džeko ostaje da pomogne Šalkeu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/poslednji-bundesligaski-ples-edin-dzeko-ostaje-da-pomogne-salkeu/550113",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Koković pred put u Bragu: Džasperov transfer u završnoj fazi, moramo da se naviknemo na život bez njega",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kokovic-pred-put-u-bragu-dzasperov-transfer-u-zavrsnoj-fazi-moramo-da-se-naviknemo-na-zivot-bez-njega/550099",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 07. 2026. у 11:30",
+      "naslov": "Slovački fudbaler Leo Sauer novo pojačanje Štutgarta",
+      "url": "https://www.tanjug.rs/sport/fudbal/269624/slovacki-fudbaler-leo-sauer-novo-pojacanje-stutgarta/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 07. 2026. у 16:32",
+      "slika": null
+    },
+    {
+      "naslov": "Engleski fudbaler Džordan Henderson raskinuo ugovor sa Brentfordom",
+      "url": "https://www.tanjug.rs/sport/fudbal/269597/engleski-fudbaler-dzordan-henderson-raskinuo-ugovor-sa-brentfordom/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 07. 2026. у 15:30",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Infantino odredio rok članicama FIFA da prihvate ponudu od po 20 miliona dolara",
-      "url": "https://www.tanjug.rs/sport/fudbal/269564/infantino-odredio-rok-clanicama-fifa-da-prihvate-ponudu-od-po-20-miliona-dolara/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 07. 2026. у 14:21",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Šalkea i Reala igraju 16. avgusta prijateljski meč u Gelzenkirhenu",
-      "url": "https://www.tanjug.rs/sport/fudbal/269550/fudbaleri-salkea-i-reala-igraju-16-avgusta-prijateljski-mec-u-gelzenkirhenu/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 07. 2026. у 13:49",
+      "naslov": "Nekadašnji kapiten Dinama stiže u Superligu Srbije?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254417/stefan-ristovski-blizu-novog-pazara/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 07. 2026. у 17:22",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254113/nije-sigurno-da-ce-srbija-biti-na-sledecem-mundijalu-iako-bude-64-reprezentacije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 07. 2026. у 22:09",
-      "slika": null
-    },
-    {
-      "naslov": "Novi Pazar doveo vezistu Partizana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254128/dimitrije-jankovic-u-novom-pazaru/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 07. 2026. у 20:25",
       "slika": null
     }
   ]
