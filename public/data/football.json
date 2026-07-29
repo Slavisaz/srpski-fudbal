@@ -1,13 +1,20 @@
 {
-  "azurirano": "2026-07-29T15:29:26.707503+00:00",
-  "azurirano_sr": "29. 07. 2026. у 17:29",
+  "azurirano": "2026-07-29T16:45:50.858346+00:00",
+  "azurirano_sr": "29. 07. 2026. у 18:45",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 29. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-29-jul/550096",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 07. 2026. у 17:23",
+      "datum": "29. 07. 2026. у 20:23",
+      "slika": null
+    },
+    {
+      "naslov": "Pirejsko transfer ludilo! Olimpijakos najaktivniji klub Evrope",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pirejsko-transfer-ludilo-olimpijakos-najaktivniji-klub-evrope/550142",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 07. 2026. у 19:30",
       "slika": null
     },
     {
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/junajted-se-povukao-ali-je-lansovom-vezisti-premijer-liga-suena-brentford-daje-skoro-50000000-evra/550112",
       "izvor": "Мозарт Спорт",
       "datum": "29. 07. 2026. у 13:18",
-      "slika": null
-    },
-    {
-      "naslov": "Partizanova mlađarija u Luksemburgu: Otvara se put za Ninića, Marinkovića, Lekića...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/partizanova-mlaarija-u-luksemburgu-otvara-se-put-za-ninica-marinkovica-lekica/550102",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 07. 2026. у 11:46",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Oglasio se FSS: Crveni za Mačvu ispravan, ništa od žalbe Partizana zbog Seka",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254429/oglasio-se-fss-o-spornim-momentima-nista-od-zalbe-partizana/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 07. 2026. у 17:51",
+      "slika": null
+    },
+    {
       "naslov": "Nekadašnji kapiten Dinama stiže u Superligu Srbije?",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254417/stefan-ristovski-blizu-novog-pazara/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "29. 07. 2026. у 17:22",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Nije sigurno da će Srbija biti na sledećem Mundijalu iako bude 64 reprezentacije&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254113/nije-sigurno-da-ce-srbija-biti-na-sledecem-mundijalu-iako-bude-64-reprezentacije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 07. 2026. у 22:09",
       "slika": null
     }
   ]
