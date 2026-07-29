@@ -1,34 +1,55 @@
 {
-  "azurirano": "2026-07-29T07:14:49.667079+00:00",
-  "azurirano_sr": "29. 07. 2026. у 09:14",
+  "azurirano": "2026-07-29T09:48:42.025405+00:00",
+  "azurirano_sr": "29. 07. 2026. у 11:48",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Istorijska kazna u svetskom fudbalu: Dok se on ne oporavi, ti ne igraš (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/istorijska-kazna-u-svetskom-fudbalu-dok-se-on-ne-oporavi-ti-ne-igras-video/550085",
+      "naslov": "Poslednji bundesligaški ples: Edin Džeko ostaje da pomogne Šalkeu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/poslednji-bundesligaski-ples-edin-dzeko-ostaje-da-pomogne-salkeu/550113",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 07. 2026. у 02:53",
+      "datum": "29. 07. 2026. у 13:25",
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (utorak, 28. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-utorak-28-jul/550014",
+      "naslov": "Junajted se povukao, ali je Lansovom vezisti Premijer liga suđena: Brentford daje skoro 50.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/junajted-se-povukao-ali-je-lansovom-vezisti-premijer-liga-suena-brentford-daje-skoro-50000000-evra/550112",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 07. 2026. у 01:26",
+      "datum": "29. 07. 2026. у 13:18",
       "slika": null
     },
     {
-      "naslov": "Kraj evropske priče za nesrećni Vardar: Makedonci ponovo bili pred prolazom, Taivo doneo radost Rigi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-evropske-price-za-nesrecni-vardar-makedonci-ponovo-bili-pred-prolazom-taivo-doneo-radost-rigi/550077",
+      "naslov": "Partizanova mlađarija u Luksemburgu: Otvara se put za Ninića, Marinkovića, Lekića...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/partizanova-mlaarija-u-luksemburgu-otvara-se-put-za-ninica-marinkovica-lekica/550102",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 07. 2026. у 00:03",
+      "datum": "29. 07. 2026. у 11:46",
       "slika": null
     },
     {
-      "naslov": "Ide Totenhem preko 300.000.000! Savinjo zatražio transfer",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ide-totenhem-preko-300000000-savinjo-zatrazio-transfer/550075",
+      "naslov": "Koković pred put u Bragu: Džasperov transfer u završnoj fazi, moramo da se naviknemo na život bez njega",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kokovic-pred-put-u-bragu-dzasperov-transfer-u-zavrsnoj-fazi-moramo-da-se-naviknemo-na-zivot-bez-njega/550099",
       "izvor": "Мозарт Спорт",
-      "datum": "28. 07. 2026. у 23:23",
+      "datum": "29. 07. 2026. у 11:30",
+      "slika": null
+    },
+    {
+      "naslov": "Trener Partizana Saša Ilić poveo 24 fudbalera u Luksemburg",
+      "url": "https://www.tanjug.rs/sport/fudbal/269469/trener-partizana-sasa-ilic-poveo-24-fudbalera-u-luksemburg/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 07. 2026. у 11:32",
+      "slika": null
+    },
+    {
+      "naslov": "Nejmar potvrdio da se povukao iz reprezentacije Brazila",
+      "url": "https://www.tanjug.rs/sport/fudbal/269456/nejmar-potvrdio-da-se-povukao-iz-reprezentacije-brazila/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 07. 2026. у 11:04",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaler Brajtona Deni Velbek dogovorio prelazak u Čelsi",
+      "url": "https://www.tanjug.rs/sport/fudbal/269408/fudbaler-brajtona-deni-velbek-dogovorio-prelazak-u-celsi/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 07. 2026. у 09:24",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/269399/fudbaleri-zvezde-veceras-docekuju-larn-u-revans-mecu-drugog-kola-kvalifikacija-za-ligu-sampiona/vest",
       "izvor": "Танјуг",
       "datum": "29. 07. 2026. у 08:59",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Dinama iz Zagreba izborili plasman u treće kolo kvalifikacija za Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/269367/fudbaleri-dinama-iz-zagreba-izborili-plasman-u-trece-kolo-kvalifikacija-za-ligu-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 07. 2026. у 22:51",
-      "slika": null
-    },
-    {
-      "naslov": "Ibrahim Sangare produžio ugovor sa Notingem Forestom do 2029. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/269365/ibrahim-sangare-produzio-ugovor-sa-notingem-forestom-do-2029-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 07. 2026. у 22:41",
-      "slika": null
-    },
-    {
-      "naslov": "FK Partizan: Sergej Mladenović i Stefan Đurović potpisali profesionalne ugovore",
-      "url": "https://www.tanjug.rs/sport/fudbal/269362/fk-partizan-sergej-mladenovic-i-stefan-durovic-potpisali-profesionalne-ugovore/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 07. 2026. у 22:41",
       "slika": null
     },
     {
