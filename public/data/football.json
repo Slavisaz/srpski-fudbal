@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-29T19:01:03.809535+00:00",
-  "azurirano_sr": "29. 07. 2026. у 21:01",
+  "azurirano": "2026-07-29T20:14:39.639707+00:00",
+  "azurirano_sr": "29. 07. 2026. у 22:14",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (sreda, 29. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-29-jul/550096",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 07. 2026. у 23:05",
+      "slika": null
+    },
     {
       "naslov": "Da li je Bolonja potrošila novac za Ugrešića? Stigao Argentinac od 12.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/da-li-je-bolonja-potrosila-novac-za-ugresica-stigao-argentinac-od-12000000-evra/549874",
@@ -18,17 +25,24 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (sreda, 29. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-29-jul/550096",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 07. 2026. у 20:23",
-      "slika": null
-    },
-    {
       "naslov": "Pirejsko transfer ludilo! Olimpijakos najaktivniji klub Evrope",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pirejsko-transfer-ludilo-olimpijakos-najaktivniji-klub-evrope/550142",
       "izvor": "Мозарт Спорт",
       "datum": "29. 07. 2026. у 19:30",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Zvezde ponovo ubedljivi protiv Larna, naredni rival Hapoel Ber Ševa",
+      "url": "https://www.tanjug.rs/sport/fudbal/269690/fudbaleri-zvezde-ponovo-ubedljivi-protiv-larna-naredni-rival-hapoel-ber-seva/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 07. 2026. у 21:54",
+      "slika": null
+    },
+    {
+      "naslov": "UEFA kaznila FK Partizan sa ukupno 34.000 evra",
+      "url": "https://www.tanjug.rs/sport/fudbal/269686/uefa-kaznila-fk-partizan-sa-ukupno-34000-evra/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 07. 2026. у 21:24",
       "slika": null
     },
     {
@@ -46,20 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Engleski fudbaler Džordan Henderson raskinuo ugovor sa Brentfordom",
-      "url": "https://www.tanjug.rs/sport/fudbal/269597/engleski-fudbaler-dzordan-henderson-raskinuo-ugovor-sa-brentfordom/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 07. 2026. у 15:30",
-      "slika": null
-    },
-    {
-      "naslov": "Nigerijski fudbaler Tolu Arokodare novo pojačanje Ajaksa",
-      "url": "https://www.tanjug.rs/sport/fudbal/269581/nigerijski-fudbaler-tolu-arokodare-novo-pojacanje-ajaksa/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 07. 2026. у 15:00",
-      "slika": null
-    },
-    {
       "naslov": "Oglasio se FSS: Ništa od žalbe Partizana zbog Seka",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254429/oglasio-se-fss-o-spornim-momentima-nista-od-zalbe-partizana/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,6 +71,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254417/stefan-ristovski-blizu-novog-pazara/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "29. 07. 2026. у 17:22",
+      "slika": null
+    },
+    {
+      "naslov": "&quot;Nije sigurno da će Srbija biti na sledećem Mundijalu iako bude 64 reprezentacije&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254113/nije-sigurno-da-ce-srbija-biti-na-sledecem-mundijalu-iako-bude-64-reprezentacije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 07. 2026. у 22:09",
       "slika": null
     }
   ]
