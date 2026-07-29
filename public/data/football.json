@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-29T16:45:50.858346+00:00",
-  "azurirano_sr": "29. 07. 2026. у 18:45",
+  "azurirano": "2026-07-29T17:56:31.330233+00:00",
+  "azurirano_sr": "29. 07. 2026. у 19:56",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Da li je Bolonja potrošila novac za Ugrešića? Stigao Argentinac od 12.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/da-li-je-bolonja-potrosila-novac-za-ugresica-stigao-argentinac-od-12000000-evra/549874",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 07. 2026. у 20:50",
+      "slika": null
+    },
+    {
+      "naslov": "Oštar odgovor UEFA: FIFA ne može da koristi fudbal za bogaćenje sebe i svojih prijatelja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ostar-odgovor-uefa-fifa-ne-moze-da-koristi-fudbal-za-bogacenje-sebe-i-svojih-prijatelja/550150",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 07. 2026. у 20:47",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 29. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-29-jul/550096",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/pirejsko-transfer-ludilo-olimpijakos-najaktivniji-klub-evrope/550142",
       "izvor": "Мозарт Спорт",
       "datum": "29. 07. 2026. у 19:30",
-      "slika": null
-    },
-    {
-      "naslov": "Poslednji bundesligaški ples: Edin Džeko ostaje da pomogne Šalkeu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/poslednji-bundesligaski-ples-edin-dzeko-ostaje-da-pomogne-salkeu/550113",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 07. 2026. у 13:25",
-      "slika": null
-    },
-    {
-      "naslov": "Junajted se povukao, ali je Lansovom vezisti Premijer liga suđena: Brentford daje skoro 50.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/junajted-se-povukao-ali-je-lansovom-vezisti-premijer-liga-suena-brentford-daje-skoro-50000000-evra/550112",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 07. 2026. у 13:18",
       "slika": null
     },
     {
@@ -60,7 +60,7 @@
       "slika": null
     },
     {
-      "naslov": "Oglasio se FSS: Crveni za Mačvu ispravan, ništa od žalbe Partizana zbog Seka",
+      "naslov": "Oglasio se FSS: Ništa od žalbe Partizana zbog Seka",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254429/oglasio-se-fss-o-spornim-momentima-nista-od-zalbe-partizana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "29. 07. 2026. у 17:51",
