@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-29T17:56:31.330233+00:00",
-  "azurirano_sr": "29. 07. 2026. у 19:56",
+  "azurirano": "2026-07-29T19:01:03.809535+00:00",
+  "azurirano_sr": "29. 07. 2026. у 21:01",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "UEFA: FIFA ne može da koristi naš sport kako bi obogatila sebe i svoje partnere",
+      "url": "https://www.tanjug.rs/sport/fudbal/269638/uefa-fifa-ne-moze-da-koristi-nas-sport-kako-bi-obogatila-sebe-i-svoje-partnere/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 07. 2026. у 16:58",
+      "slika": null
+    },
+    {
       "naslov": "Slovački fudbaler Leo Sauer novo pojačanje Štutgarta",
       "url": "https://www.tanjug.rs/sport/fudbal/269624/slovacki-fudbaler-leo-sauer-novo-pojacanje-stutgarta/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/269581/nigerijski-fudbaler-tolu-arokodare-novo-pojacanje-ajaksa/vest",
       "izvor": "Танјуг",
       "datum": "29. 07. 2026. у 15:00",
-      "slika": null
-    },
-    {
-      "naslov": "Francuski fudbaler Sankun Dijavara potpisao ugovor sa Milanom",
-      "url": "https://www.tanjug.rs/sport/fudbal/269574/francuski-fudbaler-sankun-dijavara-potpisao-ugovor-sa-milanom/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 07. 2026. у 14:37",
       "slika": null
     },
     {
