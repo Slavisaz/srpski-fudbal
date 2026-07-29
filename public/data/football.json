@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-29T21:12:07.318050+00:00",
-  "azurirano_sr": "29. 07. 2026. у 23:12",
+  "azurirano": "2026-07-29T22:11:14.852482+00:00",
+  "azurirano_sr": "30. 07. 2026. у 00:11",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -11,8 +11,8 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (sreda, 29. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-29-jul/550096",
+      "naslov": "TRANSFERI (sreda, 29. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-sreda-29-jul/550096",
       "izvor": "Мозарт Спорт",
       "datum": "29. 07. 2026. у 23:05",
       "slika": null
@@ -29,6 +29,13 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/ostar-odgovor-uefa-fifa-ne-moze-da-koristi-fudbal-za-bogacenje-sebe-i-svojih-prijatelja/550150",
       "izvor": "Мозарт Спорт",
       "datum": "29. 07. 2026. у 20:47",
+      "slika": null
+    },
+    {
+      "naslov": "Stanković: Sjajan odnos ekipe na terenu, posebno hvala navijačima",
+      "url": "https://www.tanjug.rs/sport/fudbal/269700/stankovic-sjajan-odnos-ekipe-na-terenu-posebno-hvala-navijacima/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 07. 2026. у 22:56",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/269638/uefa-fifa-ne-moze-da-koristi-nas-sport-kako-bi-obogatila-sebe-i-svoje-partnere/vest",
       "izvor": "Танјуг",
       "datum": "29. 07. 2026. у 16:58",
-      "slika": null
-    },
-    {
-      "naslov": "Slovački fudbaler Leo Sauer novo pojačanje Štutgarta",
-      "url": "https://www.tanjug.rs/sport/fudbal/269624/slovacki-fudbaler-leo-sauer-novo-pojacanje-stutgarta/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 07. 2026. у 16:32",
       "slika": null
     },
     {
