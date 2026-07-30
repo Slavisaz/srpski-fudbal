@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-30T06:02:09.980822+00:00",
-  "azurirano_sr": "30. 07. 2026. у 08:02",
+  "azurirano": "2026-07-30T08:42:02.323509+00:00",
+  "azurirano_sr": "30. 07. 2026. у 10:42",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Crnogorcima preti najveća blamaža u evropskom fudbalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/crnogorcima-preti-najveca-blamaza-u-evropskom-fudbalu/550191",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 07. 2026. у 11:56",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 30. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-30-jul/550188",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 07. 2026. у 11:30",
+      "slika": null
+    },
     {
       "naslov": "Fenerova strepnja protiv 13 puta jeftinijeg tima, moraće mnogo bolje za prvu Ligu šampiona od 2008.",
       "url": "https://www.mozzartsport.com/fudbal/vesti/fenerova-strepnja-protiv-13-puta-jeftinijeg-tima-morace-mnogo-bolje-za-prvu-ligu-sampiona-od-2008/550170",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Da li je Bolonja potrošila novac za Ugrešića? Stigao Argentinac od 12.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/da-li-je-bolonja-potrosila-novac-za-ugresica-stigao-argentinac-od-12000000-evra/549874",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 07. 2026. у 20:50",
+      "naslov": "Nenad Lalović se sastao sa predsednikom Azerbejdžana Ilhamom Alijevom",
+      "url": "https://www.tanjug.rs/sport/fudbal/269754/nenad-lalovic-se-sastao-sa-predsednikom-azerbejdzana-ilhamom-alijevom/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 07. 2026. у 10:20",
       "slika": null
     },
     {
-      "naslov": "Oštar odgovor UEFA: FIFA ne može da koristi fudbal za bogaćenje sebe i svojih prijatelja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ostar-odgovor-uefa-fifa-ne-moze-da-koristi-fudbal-za-bogacenje-sebe-i-svojih-prijatelja/550150",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 07. 2026. у 20:47",
+      "naslov": "Fudbaleri Železničara večeras igraju protiv Brage u kvalifikacijama za Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/269739/fudbaleri-zeleznicara-veceras-igraju-protiv-brage-u-kvalifikacijama-za-ligu-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 07. 2026. у 09:29",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Partizana večeras gostuju Uni Štrasen u kvalifikacijama za Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/269732/fudbaleri-partizana-veceras-gostuju-uni-strasen-u-kvalifikacijama-za-ligu-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 07. 2026. у 09:11",
       "slika": null
     },
     {
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Zvezde ponovo ubedljivi protiv Larna, naredni rival Hapoel Ber Ševa",
-      "url": "https://www.tanjug.rs/sport/fudbal/269690/fudbaleri-zvezde-ponovo-ubedljivi-protiv-larna-naredni-rival-hapoel-ber-seva/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 07. 2026. у 21:54",
-      "slika": null
-    },
-    {
-      "naslov": "UEFA kaznila FK Partizan sa ukupno 34.000 evra",
-      "url": "https://www.tanjug.rs/sport/fudbal/269686/uefa-kaznila-fk-partizan-sa-ukupno-34000-evra/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 07. 2026. у 21:24",
-      "slika": null
-    },
-    {
-      "naslov": "UEFA: FIFA ne može da koristi naš sport kako bi obogatila sebe i svoje partnere",
-      "url": "https://www.tanjug.rs/sport/fudbal/269638/uefa-fifa-ne-moze-da-koristi-nas-sport-kako-bi-obogatila-sebe-i-svoje-partnere/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 07. 2026. у 16:58",
+      "naslov": "Traore se prisetio epizode u Milanu: &quot;Pioli mi je mnogo pomogao&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254545/caka-traore-je-govorio-o-milanu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "30. 07. 2026. у 09:15",
       "slika": null
     },
     {
@@ -64,20 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254429/oglasio-se-fss-o-spornim-momentima-nista-od-zalbe-partizana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "29. 07. 2026. у 17:51",
-      "slika": null
-    },
-    {
-      "naslov": "Nekadašnji kapiten Dinama stiže u Superligu Srbije?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254417/stefan-ristovski-blizu-novog-pazara/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 07. 2026. у 17:22",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Nije sigurno da će Srbija biti na sledećem Mundijalu iako bude 64 reprezentacije&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254113/nije-sigurno-da-ce-srbija-biti-na-sledecem-mundijalu-iako-bude-64-reprezentacije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 07. 2026. у 22:09",
       "slika": null
     }
   ]
