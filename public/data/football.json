@@ -1,34 +1,55 @@
 {
-  "azurirano": "2026-07-30T08:42:02.323509+00:00",
-  "azurirano_sr": "30. 07. 2026. у 10:42",
+  "azurirano": "2026-07-30T10:49:47.686448+00:00",
+  "azurirano_sr": "30. 07. 2026. у 12:49",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Crnogorcima preti najveća blamaža u evropskom fudbalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/crnogorcima-preti-najveca-blamaza-u-evropskom-fudbalu/550191",
+      "naslov": "Dinamovac je i ne može u Hajduk… Tako je bilo pre dve godine, a sada – iz Bazela na Poljud",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dinamovac-je-i-ne-moze-u-hajduk-tako-je-bilo-pre-dve-godine-a-sada-iz-bazela-na-poljud/550207",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 07. 2026. у 11:56",
+      "datum": "30. 07. 2026. у 14:33",
       "slika": null
     },
     {
       "naslov": "TRANSFERI UŽIVO (četvrtak, 30. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-30-jul/550188",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 07. 2026. у 11:30",
+      "datum": "30. 07. 2026. у 14:17",
       "slika": null
     },
     {
-      "naslov": "Fenerova strepnja protiv 13 puta jeftinijeg tima, moraće mnogo bolje za prvu Ligu šampiona od 2008.",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fenerova-strepnja-protiv-13-puta-jeftinijeg-tima-morace-mnogo-bolje-za-prvu-ligu-sampiona-od-2008/550170",
+      "naslov": "Svrgnut Andre Pjer Žinjak: Imamo najskupljeg autohtonog francuskog centarfora svih vremena",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/svrgnut-andre-pjer-zinjak-imamo-najskupljeg-autohtonog-francuskog-centarfora-svih-vremena/550058",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 07. 2026. у 00:41",
+      "datum": "30. 07. 2026. у 13:33",
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (sreda, 29. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-sreda-29-jul/550096",
+      "naslov": "Nova era PAOK-a, Dinamo je sada samo bleda senka nekada velikog kluba",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nova-era-paoka-dinamo-je-sada-samo-bleda-senka-nekada-velikog-kluba/550198",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 07. 2026. у 23:05",
+      "datum": "30. 07. 2026. у 12:49",
+      "slika": null
+    },
+    {
+      "naslov": "Francuski fudbaler Matis Ablin prešao iz Nanta u Monako",
+      "url": "https://www.tanjug.rs/sport/fudbal/269805/francuski-fudbaler-matis-ablin-presao-iz-nanta-u-monako/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 07. 2026. у 12:02",
+      "slika": null
+    },
+    {
+      "naslov": "Skaj sport: Edi Hau napustio mesto trenera fudbalera Njukasla",
+      "url": "https://www.tanjug.rs/sport/fudbal/269780/skaj-sport-edi-hau-napustio-mesto-trenera-fudbalera-njukasla/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 07. 2026. у 11:13",
+      "slika": null
+    },
+    {
+      "naslov": "Anćeloti: Ne moramo da kopiramo Španiju ili Francusku da bismo bili šampioni sveta",
+      "url": "https://www.tanjug.rs/sport/fudbal/269767/anceloti-ne-moramo-da-kopiramo-spaniju-ili-francusku-da-bismo-bili-sampioni-sveta/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 07. 2026. у 10:51",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/269754/nenad-lalovic-se-sastao-sa-predsednikom-azerbejdzana-ilhamom-alijevom/vest",
       "izvor": "Танјуг",
       "datum": "30. 07. 2026. у 10:20",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Železničara večeras igraju protiv Brage u kvalifikacijama za Ligu konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/269739/fudbaleri-zeleznicara-veceras-igraju-protiv-brage-u-kvalifikacijama-za-ligu-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 09:29",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Partizana večeras gostuju Uni Štrasen u kvalifikacijama za Ligu konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/269732/fudbaleri-partizana-veceras-gostuju-uni-strasen-u-kvalifikacijama-za-ligu-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 09:11",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: Sjajan odnos ekipe na terenu, posebno hvala navijačima",
-      "url": "https://www.tanjug.rs/sport/fudbal/269700/stankovic-sjajan-odnos-ekipe-na-terenu-posebno-hvala-navijacima/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 07. 2026. у 22:56",
       "slika": null
     },
     {
