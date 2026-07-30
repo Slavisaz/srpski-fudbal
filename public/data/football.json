@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-30T19:00:40.110306+00:00",
-  "azurirano_sr": "30. 07. 2026. у 21:00",
+  "azurirano": "2026-07-30T20:16:20.515146+00:00",
+  "azurirano_sr": "30. 07. 2026. у 22:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Evropski fudbal predaleko od Vošinih mogućnosti: Oskarove majstorije za Oskara",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/evropski-fudbal-predaleko-od-vosinih-mogucnosti-oskarove-majstorije-za-oskara/550255",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 07. 2026. у 23:48",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (četvrtak, 30. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-30-jul/550188",
@@ -25,38 +32,31 @@
       "slika": null
     },
     {
-      "naslov": "Bajernovski potez Pari Sen Žermena: Za 50.000.000 dogovoren najbolji igrač Monaka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bajernovski-potez-pari-sen-zermena-za-50000000-dogovoren-najbolji-igrac-monaka/550236",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 07. 2026. у 20:13",
+      "naslov": "Fudbaleri Vojvodine eliminisani iz kvalifikacija za Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/270015/fudbaleri-vojvodine-eliminisani-iz-kvalifikacija-za-ligu-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 07. 2026. у 21:52",
       "slika": null
     },
     {
-      "naslov": "FSS uz UEFA: Zajedno u odbrani vrednosti svetskog fudbala",
-      "url": "https://www.tanjug.rs/sport/fudbal/269986/fss-uz-uefa-zajedno-u-odbrani-vrednosti-svetskog-fudbala/vest",
+      "naslov": "Fudbaleri Borca remijem protiv Petrokuba stigao do trećeg kola kvalifikacija za Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/270011/fudbaleri-borca-remijem-protiv-petrokuba-stigao-do-treceg-kola-kvalifikacija-za-ligu-konferencije/vest",
       "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 19:33",
+      "datum": "30. 07. 2026. у 21:24",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Tobola posle penala stigli do trećeg kola kvalifikacija za Ligu konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/269982/fudbaleri-tobola-posle-penala-stigli-do-treceg-kola-kvalifikacija-za-ligu-konferencije/vest",
+      "naslov": "Fudbalski savez Španije pokrenuo postupak protiv Barselone zbog vrbovanja Hulijana Alvareza",
+      "url": "https://www.tanjug.rs/sport/fudbal/270010/fudbalski-savez-spanije-pokrenuo-postupak-protiv-barselone-zbog-vrbovanja-hulijana-alvareza/vest",
       "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 19:09",
+      "datum": "30. 07. 2026. у 21:14",
       "slika": null
     },
     {
-      "naslov": "Oglasila se UEFA: Nećemo učestvovati u FIFA takmičenjima, Svetsko prvenstvo nije na prodaju",
-      "url": "https://www.tanjug.rs/sport/fudbal/269964/oglasila-se-uefa-necemo-ucestvovati-u-fifa-takmicenjima-svetsko-prvenstvo-nije-na-prodaju/vest",
+      "naslov": "Engleski fudbaler Džon Stons potpisao ugovor sa Interom iz Milana",
+      "url": "https://www.tanjug.rs/sport/fudbal/270003/engleski-fudbaler-dzon-stons-potpisao-ugovor-sa-interom-iz-milana/vest",
       "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 17:51",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda treća po gledanosti u revanš mečevima drugog kola kvalifikacija za Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/269977/zvezda-treca-po-gledanosti-u-revans-mecevima-drugog-kola-kvalifikacija-za-ligu-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 16:52",
+      "datum": "30. 07. 2026. у 20:32",
       "slika": null
     },
     {
