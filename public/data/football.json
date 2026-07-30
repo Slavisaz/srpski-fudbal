@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-30T17:44:38.464216+00:00",
-  "azurirano_sr": "30. 07. 2026. у 19:44",
+  "azurirano": "2026-07-30T19:00:40.110306+00:00",
+  "azurirano_sr": "30. 07. 2026. у 21:00",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 30. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-30-jul/550188",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 07. 2026. у 22:21",
+      "slika": null
+    },
+    {
+      "naslov": "Blamaža 17 puta skupljih Turaka u Turkuu, Steaua nije platila na mostu i zato je uništena na ćupriji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/blamaza-17-puta-skupljih-turaka-u-turkuu-steaua-nije-platila-na-mostu-i-zato-je-unistena-na-cupriji/550245",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 07. 2026. у 22:11",
+      "slika": null
+    },
     {
       "naslov": "Šaka Traore: Nije tačno da Milan ne veruje mladim fudbalerima",
       "url": "https://www.mozzartsport.com/fudbal/vesti/saka-traore-nije-tacno-da-milan-ne-veruje-mladim-fudbalerima/550238",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Članice UEFA jednoglasne: Bojkotujemo takmičenja FIFA dok god je Mundijal na prodaju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/clanice-uefa-jednoglasne-bojkotujemo-takmicenja-fifa-dok-god-je-mundijal-na-prodaju/550235",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 07. 2026. у 19:36",
-      "slika": null
-    },
-    {
-      "naslov": "Barsina podvala ili legalan manevar? Atletikova tužba zbog Hulijana, sporna izjava od 22. juna",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/barsina-podvala-ili-legalan-manevar-atletikova-tuzba-zbog-hulijana-sporna-izjava-od-22-juna/550233",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 07. 2026. у 19:11",
+      "naslov": "FSS uz UEFA: Zajedno u odbrani vrednosti svetskog fudbala",
+      "url": "https://www.tanjug.rs/sport/fudbal/269986/fss-uz-uefa-zajedno-u-odbrani-vrednosti-svetskog-fudbala/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 07. 2026. у 19:33",
       "slika": null
     },
     {
@@ -53,14 +60,7 @@
       "slika": null
     },
     {
-      "naslov": "Tradicionalna akcija Zvezde \"Crveno-bela krv\" biće održana 7. i 8. avgusta",
-      "url": "https://www.tanjug.rs/sport/fudbal/269947/tradicionalna-akcija-zvezde-crveno-bela-krv-bice-odrzana-7-i-8-avgusta/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 16:37",
-      "slika": null
-    },
-    {
-      "naslov": "FSS stao uz UEFA!",
+      "naslov": "FSS se oglasio o Infantinovom skandalu – ovo je zvanični stav",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254751/branko-radujko-fss-uz-uefa-protiv-fifa/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "30. 07. 2026. у 19:30",
