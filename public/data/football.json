@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-30T20:16:20.515146+00:00",
-  "azurirano_sr": "30. 07. 2026. у 22:16",
+  "azurirano": "2026-07-30T21:33:11.055636+00:00",
+  "azurirano_sr": "30. 07. 2026. у 23:33",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Novi talas grčkog fudbala prelazi u cunami: PAOK ima čudo od igrača (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/novi-talas-grckog-fudbala-prelazi-u-cunami-paok-ima-cudo-od-igraca-video/550257",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 07. 2026. у 00:20",
+      "slika": null
+    },
     {
       "naslov": "Evropski fudbal predaleko od Vošinih mogućnosti: Oskarove majstorije za Oskara",
       "url": "https://www.mozzartsport.com/fudbal/vesti/evropski-fudbal-predaleko-od-vosinih-mogucnosti-oskarove-majstorije-za-oskara/550255",
@@ -25,38 +32,31 @@
       "slika": null
     },
     {
-      "naslov": "Šaka Traore: Nije tačno da Milan ne veruje mladim fudbalerima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/saka-traore-nije-tacno-da-milan-ne-veruje-mladim-fudbalerima/550238",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 07. 2026. у 20:37",
+      "naslov": "Fudbaleri PAOK-a, Pafosa i Ferencvaroša u trećem kolu kvalifikacija za Ligu Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/270029/fudbaleri-paok-a-pafosa-i-ferencvarosa-u-trecem-kolu-kvalifikacija-za-ligu-evrope/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 07. 2026. у 23:08",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Vojvodine eliminisani iz kvalifikacija za Ligu konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/270015/fudbaleri-vojvodine-eliminisani-iz-kvalifikacija-za-ligu-konferencije/vest",
+      "naslov": "Fudbaleri Železničara porazom od Brage eliminisani iz kvalifikacija za Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/270028/fudbaleri-zeleznicara-porazom-od-brage-eliminisani-iz-kvalifikacija-za-ligu-konferencije/vest",
       "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 21:52",
+      "datum": "30. 07. 2026. у 22:58",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Borca remijem protiv Petrokuba stigao do trećeg kola kvalifikacija za Ligu konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/270011/fudbaleri-borca-remijem-protiv-petrokuba-stigao-do-treceg-kola-kvalifikacija-za-ligu-konferencije/vest",
+      "naslov": "Nemački golman Stefan Ortega potpisao ugovor sa Olimpijakosom",
+      "url": "https://www.tanjug.rs/sport/fudbal/270025/nemacki-golman-stefan-ortega-potpisao-ugovor-sa-olimpijakosom/vest",
       "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 21:24",
+      "datum": "30. 07. 2026. у 22:35",
       "slika": null
     },
     {
-      "naslov": "Fudbalski savez Španije pokrenuo postupak protiv Barselone zbog vrbovanja Hulijana Alvareza",
-      "url": "https://www.tanjug.rs/sport/fudbal/270010/fudbalski-savez-spanije-pokrenuo-postupak-protiv-barselone-zbog-vrbovanja-hulijana-alvareza/vest",
+      "naslov": "Saša Ilić: Bitna pobeda za nas i naše samopouzdanje",
+      "url": "https://www.tanjug.rs/sport/fudbal/270020/sasa-ilic-bitna-pobeda-za-nas-i-nase-samopouzdanje/vest",
       "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 21:14",
-      "slika": null
-    },
-    {
-      "naslov": "Engleski fudbaler Džon Stons potpisao ugovor sa Interom iz Milana",
-      "url": "https://www.tanjug.rs/sport/fudbal/270003/engleski-fudbaler-dzon-stons-potpisao-ugovor-sa-interom-iz-milana/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 20:32",
+      "datum": "30. 07. 2026. у 22:22",
       "slika": null
     },
     {
