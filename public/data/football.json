@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-30T14:34:04.284957+00:00",
-  "azurirano_sr": "30. 07. 2026. у 16:34",
+  "azurirano": "2026-07-30T16:09:18.809688+00:00",
+  "azurirano_sr": "30. 07. 2026. у 18:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Članice UEFA jednoglasne: Bojkotujemo takmičenja FIFA dok god je Mundijal na prodaju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/clanice-uefa-jednoglasne-bojkotujemo-takmicenja-fifa-dok-god-je-mundijal-na-prodaju/550235",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 07. 2026. у 19:36",
+      "slika": null
+    },
+    {
+      "naslov": "Barsina podvala ili legalan manevar? Atletikova tužba zbog Hulijana, sporna izjava od 22. juna",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/barsina-podvala-ili-legalan-manevar-atletikova-tuzba-zbog-hulijana-sporna-izjava-od-22-juna/550233",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 07. 2026. у 19:11",
+      "slika": null
+    },
+    {
+      "naslov": "Dembi Seku dve utakmice suspenzije, Partizan meč bez Grobara u gostima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dembi-seku-dve-utakmice-suspenzije-partizan-mec-bez-grobara-u-gostima/550229",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 07. 2026. у 18:17",
+      "slika": null
+    },
     {
       "naslov": "Srbin u Premijer ligi na kojeg su mnogi zaboravili",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-u-premijer-ligi-na-kojeg-su-mnogi-zaboravili/550228",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Tadić o odluci da izabere NEC: Izuzetno cenim što su zbog mene došli u Srbiju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tadic-o-odluci-da-izabere-nec-izuzetno-cenim-sto-su-zbog-mene-dosli-u-srbiju/550227",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 07. 2026. у 17:31",
-      "slika": null
-    },
-    {
-      "naslov": "Trener Larna postao Zvezdin navijač: Stanković veliki gospodin, Arnautović veoma fin",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/trener-larna-postao-zvezdin-navijac-stankovic-veliki-gospodin-arnautovic-veoma-fin/550217",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 07. 2026. у 15:53",
-      "slika": null
-    },
-    {
-      "naslov": "Čelsi troši i ne misli na sutra: Za Lakrou 60.700.000 evra, ukupan ceh narastao na 343.400.000",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/celsi-trosi-i-ne-misli-na-sutra-za-lakrou-60700000-evra-ukupan-ceh-narastao-na-343400000/550214",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 07. 2026. у 15:25",
+      "naslov": "Tradicionalna akcija Zvezde \"Crveno-bela krv\" biće održana 7. i 8. avgusta",
+      "url": "https://www.tanjug.rs/sport/fudbal/269947/tradicionalna-akcija-zvezde-crveno-bela-krv-bice-odrzana-7-i-8-avgusta/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 07. 2026. у 16:37",
       "slika": null
     },
     {
@@ -53,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Argentinski fudbaler Santijago Kastro novo pojačanje Rome",
-      "url": "https://www.tanjug.rs/sport/fudbal/269850/argentinski-fudbaler-santijago-kastro-novo-pojacanje-rome/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 13:33",
-      "slika": null
-    },
-    {
       "naslov": "Nije samo Sek, kažnjen i Partizan",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254695/partizan-i-radnicki-iz-kragujevca-bez-navijaca-u-gostima/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 07. 2026. у 16:31",
+      "datum": "30. 07. 2026. у 16:36",
       "slika": null
     },
     {
