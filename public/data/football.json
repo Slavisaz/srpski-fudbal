@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-30T12:16:43.507845+00:00",
-  "azurirano_sr": "30. 07. 2026. у 14:16",
+  "azurirano": "2026-07-30T14:34:04.284957+00:00",
+  "azurirano_sr": "30. 07. 2026. у 16:34",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbin u Premijer ligi na kojeg su mnogi zaboravili",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-u-premijer-ligi-na-kojeg-su-mnogi-zaboravili/550228",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 07. 2026. у 18:03",
+      "slika": null
+    },
+    {
+      "naslov": "Tadić o odluci da izabere NEC: Izuzetno cenim što su zbog mene došli u Srbiju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tadic-o-odluci-da-izabere-nec-izuzetno-cenim-sto-su-zbog-mene-dosli-u-srbiju/550227",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 07. 2026. у 17:31",
+      "slika": null
+    },
     {
       "naslov": "Trener Larna postao Zvezdin navijač: Stanković veliki gospodin, Arnautović veoma fin",
       "url": "https://www.mozzartsport.com/fudbal/vesti/trener-larna-postao-zvezdin-navijac-stankovic-veliki-gospodin-arnautovic-veoma-fin/550217",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Bruno veruje u Cvetkovića i Salibu na duže staze",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bruno-veruje-u-cvetkovica-i-salibu-na-duze-staze/550213",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 07. 2026. у 15:11",
+      "naslov": "Fudbalski savez Srbije kaznio Partizan i Radnički iz Kragujevca sa po jednim mečom zabrane navijača na gostovanjima",
+      "url": "https://www.tanjug.rs/sport/fudbal/269933/fudbalski-savez-srbije-kaznio-partizan-i-radnicki-iz-kragujevca-sa-po-jednim-mecom-zabrane-navijaca-na-gostovanjima/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 07. 2026. у 15:55",
       "slika": null
     },
     {
-      "naslov": "Dinamovac je i ne može u Hajduk… Tako je bilo pre dve godine, a sada – iz Bazela na Poljud",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dinamovac-je-i-ne-moze-u-hajduk-tako-je-bilo-pre-dve-godine-a-sada-iz-bazela-na-poljud/550207",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 07. 2026. у 14:33",
+      "naslov": "Ukrajinski fudbaler Artjom Dovbik igraće na pozajmici u Bolonji",
+      "url": "https://www.tanjug.rs/sport/fudbal/269913/ukrajinski-fudbaler-artjom-dovbik-igrace-na-pozajmici-u-bolonji/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 07. 2026. у 15:25",
+      "slika": null
+    },
+    {
+      "naslov": "Portugalski fudbaler Gustavo Sa prešao na pozajmicu u Olimpijakos",
+      "url": "https://www.tanjug.rs/sport/fudbal/269890/portugalski-fudbaler-gustavo-sa-presao-na-pozajmicu-u-olimpijakos/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 07. 2026. у 14:34",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Tomašević na otvaranju multisportske manifestacije Games of the Future u Astani",
-      "url": "https://www.tanjug.rs/sport/fudbal/269839/tomasevic-na-otvaranju-multisportske-manifestacije-games-of-the-future-u-astani/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 13:08",
-      "slika": null
-    },
-    {
-      "naslov": "Maksans Lakroa novi fudbaler Čelsija",
-      "url": "https://www.tanjug.rs/sport/fudbal/269823/maksans-lakroa-novi-fudbaler-celsija/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 12:32",
-      "slika": null
-    },
-    {
-      "naslov": "Francuski fudbaler Matis Ablin prešao iz Nanta u Monako",
-      "url": "https://www.tanjug.rs/sport/fudbal/269805/francuski-fudbaler-matis-ablin-presao-iz-nanta-u-monako/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 12:02",
-      "slika": null
-    },
-    {
-      "naslov": "Traore se prisetio epizode u Milanu: &quot;Pioli mi je mnogo pomogao&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254545/caka-traore-je-govorio-o-milanu/vest",
+      "naslov": "Nije samo Sek, kažnjen i Partizan",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254695/partizan-i-radnicki-iz-kragujevca-bez-navijaca-u-gostima/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 07. 2026. у 09:15",
+      "datum": "30. 07. 2026. у 16:31",
       "slika": null
     },
     {
-      "naslov": "Oglasio se FSS: Ništa od žalbe Partizana zbog Seka",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254429/oglasio-se-fss-o-spornim-momentima-nista-od-zalbe-partizana/vest",
+      "naslov": "Odbijena žalba Partizana!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254692/odbijena-zalba-fk-partizan-zbog-crvenog-kartona-demba-seka/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "29. 07. 2026. у 17:51",
+      "datum": "30. 07. 2026. у 16:08",
       "slika": null
     }
   ]
