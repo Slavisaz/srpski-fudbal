@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-07-31T07:25:59.643688+00:00",
-  "azurirano_sr": "31. 07. 2026. у 09:25",
+  "azurirano": "2026-07-31T10:02:54.282184+00:00",
+  "azurirano_sr": "31. 07. 2026. у 12:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (petak, 31. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-31-jul/550294",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 07. 2026. у 12:21",
+      "slika": null
+    },
+    {
+      "naslov": "Veliki Mališa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/veliki-malisa/129010",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 07. 2026. у 12:19",
+      "slika": null
+    },
+    {
+      "naslov": "FIFA se batrga: Niko ne prodaje fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fifa-se-batrga-niko-ne-prodaje-fudbal/550289",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 07. 2026. у 11:56",
+      "slika": null
+    },
     {
       "naslov": "Ratne godine uzimaju danak u Kijevu, nema krize u Rinatovom čedu iz Donjecka",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ratne-godine-uzimaju-danak-u-kijevu-nema-krize-u-rinatovom-cedu-iz-donjecka/550131",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Novi talas grčkog fudbala prelazi u cunami: PAOK ima čudo od igrača (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/novi-talas-grckog-fudbala-prelazi-u-cunami-paok-ima-cudo-od-igraca-video/550257",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 07. 2026. у 00:20",
+      "naslov": "Hesus Hil Manzano i Glen Niberg sudiće u dvomeču između Crvene zvezde i Hapoela",
+      "url": "https://www.tanjug.rs/sport/fudbal/270086/hesus-hil-manzano-i-glen-niberg-sudice-u-dvomecu-izmedu-crvene-zvezde-i-hapoela/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 07. 2026. у 11:03",
       "slika": null
     },
     {
-      "naslov": "Evropski fudbal predaleko od Vošinih mogućnosti: Oskarove majstorije za Oskara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/evropski-fudbal-predaleko-od-vosinih-mogucnosti-oskarove-majstorije-za-oskara/550255",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 07. 2026. у 23:48",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI (četvrtak, 30. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-cetvrtak-30-jul/550188",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 07. 2026. у 22:21",
+      "naslov": "Preminuo legendarni italijanski fudbaler i kapiten Milana Franko Barezi",
+      "url": "https://www.tanjug.rs/sport/fudbal/270058/preminuo-legendarni-italijanski-fudbaler-i-kapiten-milana-franko-barezi/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 07. 2026. у 09:37",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Nemački golman Stefan Ortega potpisao ugovor sa Olimpijakosom",
-      "url": "https://www.tanjug.rs/sport/fudbal/270025/nemacki-golman-stefan-ortega-potpisao-ugovor-sa-olimpijakosom/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 22:35",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić: Bitna pobeda za nas i naše samopouzdanje",
-      "url": "https://www.tanjug.rs/sport/fudbal/270020/sasa-ilic-bitna-pobeda-za-nas-i-nase-samopouzdanje/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 22:22",
+      "naslov": "Gde je i šta radi Džej Enem? Sada je sve malo jasnije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254842/frozinone-hoce-dzeja-enema-zvezda-trazi-8-miliona-evra/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "31. 07. 2026. у 11:22",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254751/branko-radujko-fss-uz-uefa-protiv-fifa/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "30. 07. 2026. у 19:30",
-      "slika": null
-    },
-    {
-      "naslov": "Nije samo Sek, kažnjen i Partizan",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254695/partizan-i-radnicki-iz-kragujevca-bez-navijaca-u-gostima/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "30. 07. 2026. у 16:36",
       "slika": null
     }
   ]
