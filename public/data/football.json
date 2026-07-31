@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-07-31T16:16:20.453750+00:00",
-  "azurirano_sr": "31. 07. 2026. у 18:16",
+  "azurirano": "2026-07-31T17:53:58.704381+00:00",
+  "azurirano_sr": "31. 07. 2026. у 19:53",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,6 +60,13 @@
       "slika": null
     },
     {
+      "naslov": "Partizan traži odlaganje meča sa Radničkim",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255084/partizan-odlaze-mec-superlige-protiv-radnickog-u-nisu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "31. 07. 2026. у 19:48",
+      "slika": null
+    },
+    {
       "naslov": "Gde je i šta radi Džej Enem? Sada je sve malo jasnije",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254842/frozinone-hoce-dzeja-enema-zvezda-trazi-8-miliona-evra/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,13 +78,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254751/branko-radujko-fss-uz-uefa-protiv-fifa/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "30. 07. 2026. у 19:30",
-      "slika": null
-    },
-    {
-      "naslov": "Nije samo Sek, kažnjen i Partizan",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254695/partizan-i-radnicki-iz-kragujevca-bez-navijaca-u-gostima/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "30. 07. 2026. у 16:36",
       "slika": null
     }
   ]
