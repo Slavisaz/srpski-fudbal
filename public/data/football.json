@@ -1,20 +1,27 @@
 {
-  "azurirano": "2026-07-31T18:59:30.977475+00:00",
-  "azurirano_sr": "31. 07. 2026. у 20:59",
+  "azurirano": "2026-07-31T20:20:33.984549+00:00",
+  "azurirano_sr": "31. 07. 2026. у 22:20",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (petak, 31. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-31-jul/550294",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 07. 2026. у 23:38",
+      "slika": null
+    },
+    {
+      "naslov": "Čekajući klubove da se oglase... Džasper se oprostio od Železničara",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cekajuci-klubove-da-se-oglase-dzasper-se-oprostio-od-zeleznicara/550343",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 07. 2026. у 22:54",
+      "slika": null
+    },
     {
       "naslov": "Agoniji došao kraj: Mudrik posle 20 meseci može ponovo da igra fudbal",
       "url": "https://www.mozzartsport.com/fudbal/vesti/agoniji-dosao-kraj-mudrik-posle-20-meseci-moze-ponovo-da-igra-fudbal/550332",
       "izvor": "Мозарт Спорт",
       "datum": "31. 07. 2026. у 19:37",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (petak, 31. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-31-jul/550294",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 07. 2026. у 18:15",
       "slika": null
     },
     {
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Pazarci dobro poznaju Damjanovića: Spremni smo za obe formacije Romantičara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pazarci-dobro-poznaju-damjanovica-spremni-smo-za-obe-formacije-romanticara/550325",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 07. 2026. у 17:32",
+      "naslov": "Nekadašnji reprezentativac BiH Muhamed Bešić novi fudbaler OFK Beograda",
+      "url": "https://www.tanjug.rs/sport/fudbal/270261/nekadasnji-reprezentativac-bih-muhamed-besic-novi-fudbaler-ofk-beograda/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 07. 2026. у 21:02",
       "slika": null
     },
     {
@@ -39,6 +46,13 @@
       "slika": null
     },
     {
+      "naslov": "Santi Denija novi selektor fudbalske reprezentacije Češke",
+      "url": "https://www.tanjug.rs/sport/fudbal/270192/santi-denija-novi-selektor-fudbalske-reprezentacije-ceske/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 07. 2026. у 15:39",
+      "slika": null
+    },
+    {
       "naslov": "Antonio Nobre i Danijele Kifi sudiće dvomeču između Partizana i Tobola",
       "url": "https://www.tanjug.rs/sport/fudbal/270178/antonio-nobre-i-danijele-kifi-sudice-dvomecu-izmedu-partizana-i-tobola/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Azijska fudbalska konfederacija protiv prodaje FIFA takmičenja",
-      "url": "https://www.tanjug.rs/sport/fudbal/270126/azijska-fudbalska-konfederacija-protiv-prodaje-fifa-takmicenja/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 07. 2026. у 12:22",
-      "slika": null
-    },
-    {
-      "naslov": "Hesus Hil Manzano i Glen Niberg sudiće u dvomeču između Crvene zvezde i Hapoela",
-      "url": "https://www.tanjug.rs/sport/fudbal/270086/hesus-hil-manzano-i-glen-niberg-sudice-u-dvomecu-izmedu-crvene-zvezde-i-hapoela/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 07. 2026. у 11:03",
+      "naslov": "Bešić se iz Subotice preselio u Beograd",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255103/muhamed-besic-novi-igrac-ofk-beograda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "31. 07. 2026. у 21:15",
       "slika": null
     },
     {
@@ -64,20 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255084/partizan-odlaze-mec-superlige-protiv-radnickog-u-nisu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "31. 07. 2026. у 19:48",
-      "slika": null
-    },
-    {
-      "naslov": "Gde je i šta radi Džej Enem? Sada je sve malo jasnije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254842/frozinone-hoce-dzeja-enema-zvezda-trazi-8-miliona-evra/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "31. 07. 2026. у 11:22",
-      "slika": null
-    },
-    {
-      "naslov": "FSS se oglasio o Infantinovom skandalu – ovo je zvanični stav",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254751/branko-radujko-fss-uz-uefa-protiv-fifa/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "30. 07. 2026. у 19:30",
       "slika": null
     }
   ]
