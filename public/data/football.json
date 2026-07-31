@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-31T21:31:50.369500+00:00",
-  "azurirano_sr": "31. 07. 2026. у 23:31",
+  "azurirano": "2026-07-31T22:33:51.663887+00:00",
+  "azurirano_sr": "1. 08. 2026. у 00:33",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Školovao fudbalere Vojvodine u kvalifikacijama, sad bi mogao u Pari Sen Žermen",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/skolovao-fudbalere-vojvodine-u-kvalifikacijama-sad-bi-mogao-u-pari-sen-zermen/550352",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 08. 2026. у 01:39",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI (petak, 31. jul)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-31-jul/550294",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 08. 2026. у 01:19",
+      "slika": null
+    },
     {
       "naslov": "Prvi trofej u evropskom fudbalu 2026/27: Precizno 9 od 10 penaldžija, Cava jedini promašio",
       "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-trofej-u-evropskom-fudbalu-202627-precizno-9-od-10-penaldzija-cava-jedini-promasio/550349",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-pancevacka-haubica-dosla-na-jedno-od-najvrelijih-mesta-u-evropskom-fudbalu/550347",
       "izvor": "Мозарт Спорт",
       "datum": "1. 08. 2026. у 00:27",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (petak, 31. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-31-jul/550294",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 07. 2026. у 23:38",
-      "slika": null
-    },
-    {
-      "naslov": "Čekajući klubove da se oglase... Džasper se oprostio od Železničara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cekajuci-klubove-da-se-oglase-dzasper-se-oprostio-od-zeleznicara/550343",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 07. 2026. у 22:54",
       "slika": null
     },
     {
