@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-07-31T10:02:54.282184+00:00",
-  "azurirano_sr": "31. 07. 2026. у 12:02",
+  "azurirano": "2026-07-31T12:07:10.871257+00:00",
+  "azurirano_sr": "31. 07. 2026. у 14:07",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (petak, 31. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-31-jul/550294",
       "izvor": "Мозарт Спорт",
-      "datum": "31. 07. 2026. у 12:21",
+      "datum": "31. 07. 2026. у 15:05",
       "slika": null
     },
     {
-      "naslov": "Veliki Mališa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/veliki-malisa/129010",
+      "naslov": "Vasović debituje za Klub Briž u borbi za trofej Superkupa Belgije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vasovic-debituje-za-klub-briz-u-borbi-za-trofej-superkupa-belgije/550311",
       "izvor": "Мозарт Спорт",
-      "datum": "31. 07. 2026. у 12:19",
+      "datum": "31. 07. 2026. у 14:58",
       "slika": null
     },
     {
-      "naslov": "FIFA se batrga: Niko ne prodaje fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fifa-se-batrga-niko-ne-prodaje-fudbal/550289",
+      "naslov": "Došao kao dete, odlazi kao čovek i skoro rekorder: Golman Brage u Njukaslu za 30.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dosao-kao-dete-odlazi-kao-covek-i-skoro-rekorder-golman-brage-u-njukaslu-za-30000000-evra/550305",
       "izvor": "Мозарт Спорт",
-      "datum": "31. 07. 2026. у 11:56",
+      "datum": "31. 07. 2026. у 14:22",
       "slika": null
     },
     {
-      "naslov": "Ratne godine uzimaju danak u Kijevu, nema krize u Rinatovom čedu iz Donjecka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ratne-godine-uzimaju-danak-u-kijevu-nema-krize-u-rinatovom-cedu-iz-donjecka/550131",
+      "naslov": "Emotivni Maldini: Štitio si me kad sam bio dete i inspirisao kao odraslog čoveka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/emotivni-maldini-stitio-si-me-kad-sam-bio-dete-i-inspirisao-kao-odraslog-coveka/550304",
       "izvor": "Мозарт Спорт",
-      "datum": "31. 07. 2026. у 10:07",
+      "datum": "31. 07. 2026. у 14:16",
+      "slika": null
+    },
+    {
+      "naslov": "Azijska fudbalska konfederacija protiv prodaje FIFA takmičenja",
+      "url": "https://www.tanjug.rs/sport/fudbal/270126/azijska-fudbalska-konfederacija-protiv-prodaje-fifa-takmicenja/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 07. 2026. у 12:22",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/270029/fudbaleri-paok-a-pafosa-i-ferencvarosa-u-trecem-kolu-kvalifikacija-za-ligu-evrope/vest",
       "izvor": "Танјуг",
       "datum": "30. 07. 2026. у 23:08",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Železničara porazom od Brage eliminisani iz kvalifikacija za Ligu konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/270028/fudbaleri-zeleznicara-porazom-od-brage-eliminisani-iz-kvalifikacija-za-ligu-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 22:58",
       "slika": null
     },
     {
