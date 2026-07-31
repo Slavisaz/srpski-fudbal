@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-07-31T14:29:52.725506+00:00",
-  "azurirano_sr": "31. 07. 2026. у 16:29",
+  "azurirano": "2026-07-31T16:16:20.453750+00:00",
+  "azurirano_sr": "31. 07. 2026. у 18:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Agoniji došao kraj: Mudrik posle 20 meseci može ponovo da igra fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/agoniji-dosao-kraj-mudrik-posle-20-meseci-moze-ponovo-da-igra-fudbal/550332",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 07. 2026. у 19:37",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (petak, 31. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-31-jul/550294",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/pazarci-dobro-poznaju-damjanovica-spremni-smo-za-obe-formacije-romanticara/550325",
       "izvor": "Мозарт Спорт",
       "datum": "31. 07. 2026. у 17:32",
-      "slika": null
-    },
-    {
-      "naslov": "Počinje peta era HR fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pocinje-peta-era-hr-fudbala/550323",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 07. 2026. у 17:29",
       "slika": null
     },
     {
@@ -71,6 +71,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254751/branko-radujko-fss-uz-uefa-protiv-fifa/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "30. 07. 2026. у 19:30",
+      "slika": null
+    },
+    {
+      "naslov": "Nije samo Sek, kažnjen i Partizan",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/254695/partizan-i-radnicki-iz-kragujevca-bez-navijaca-u-gostima/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "30. 07. 2026. у 16:36",
       "slika": null
     }
   ]
