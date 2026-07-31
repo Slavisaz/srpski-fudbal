@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-07-31T20:20:33.984549+00:00",
-  "azurirano_sr": "31. 07. 2026. у 22:20",
+  "azurirano": "2026-07-31T21:31:50.369500+00:00",
+  "azurirano_sr": "31. 07. 2026. у 23:31",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Prvi trofej u evropskom fudbalu 2026/27: Precizno 9 od 10 penaldžija, Cava jedini promašio",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-trofej-u-evropskom-fudbalu-202627-precizno-9-od-10-penaldzija-cava-jedini-promasio/550349",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 08. 2026. у 01:03",
+      "slika": null
+    },
+    {
+      "naslov": "Zvanično: Pančevačka haubica došla na jedno od najvrelijih mesta u evropskom fudbalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-pancevacka-haubica-dosla-na-jedno-od-najvrelijih-mesta-u-evropskom-fudbalu/550347",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 08. 2026. у 00:27",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (petak, 31. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-31-jul/550294",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/cekajuci-klubove-da-se-oglase-dzasper-se-oprostio-od-zeleznicara/550343",
       "izvor": "Мозарт Спорт",
       "datum": "31. 07. 2026. у 22:54",
-      "slika": null
-    },
-    {
-      "naslov": "Agoniji došao kraj: Mudrik posle 20 meseci može ponovo da igra fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/agoniji-dosao-kraj-mudrik-posle-20-meseci-moze-ponovo-da-igra-fudbal/550332",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 07. 2026. у 19:37",
-      "slika": null
-    },
-    {
-      "naslov": "Emanuel Late Lat ne može u Čempionšip zbog vize, ali ga čeka potpis u Berlinu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/emanuel-late-lat-ne-moze-u-cempionsip-zbog-vize-ali-ga-ceka-potpis-u-berlinu/550326",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 07. 2026. у 17:38",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Železničar trlja ruke – Standard objavio pojačanje VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255123/silvester-dzasper-novi-igrac-standarda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "31. 07. 2026. у 22:57",
+      "slika": null
+    },
+    {
       "naslov": "Bešić se iz Subotice preselio u Beograd",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255103/muhamed-besic-novi-igrac-ofk-beograda/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "31. 07. 2026. у 21:15",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan traži odlaganje meča sa Radničkim",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255084/partizan-odlaze-mec-superlige-protiv-radnickog-u-nisu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "31. 07. 2026. у 19:48",
       "slika": null
     }
   ]
