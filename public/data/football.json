@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-07-31T12:07:10.871257+00:00",
-  "azurirano_sr": "31. 07. 2026. у 14:07",
+  "azurirano": "2026-07-31T14:29:52.725506+00:00",
+  "azurirano_sr": "31. 07. 2026. у 16:29",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (petak, 31. jul)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-31-jul/550294",
       "izvor": "Мозарт Спорт",
-      "datum": "31. 07. 2026. у 15:05",
+      "datum": "31. 07. 2026. у 18:15",
       "slika": null
     },
     {
-      "naslov": "Vasović debituje za Klub Briž u borbi za trofej Superkupa Belgije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vasovic-debituje-za-klub-briz-u-borbi-za-trofej-superkupa-belgije/550311",
+      "naslov": "Emanuel Late Lat ne može u Čempionšip zbog vize, ali ga čeka potpis u Berlinu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/emanuel-late-lat-ne-moze-u-cempionsip-zbog-vize-ali-ga-ceka-potpis-u-berlinu/550326",
       "izvor": "Мозарт Спорт",
-      "datum": "31. 07. 2026. у 14:58",
+      "datum": "31. 07. 2026. у 17:38",
       "slika": null
     },
     {
-      "naslov": "Došao kao dete, odlazi kao čovek i skoro rekorder: Golman Brage u Njukaslu za 30.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dosao-kao-dete-odlazi-kao-covek-i-skoro-rekorder-golman-brage-u-njukaslu-za-30000000-evra/550305",
+      "naslov": "Pazarci dobro poznaju Damjanovića: Spremni smo za obe formacije Romantičara",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pazarci-dobro-poznaju-damjanovica-spremni-smo-za-obe-formacije-romanticara/550325",
       "izvor": "Мозарт Спорт",
-      "datum": "31. 07. 2026. у 14:22",
+      "datum": "31. 07. 2026. у 17:32",
       "slika": null
     },
     {
-      "naslov": "Emotivni Maldini: Štitio si me kad sam bio dete i inspirisao kao odraslog čoveka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/emotivni-maldini-stitio-si-me-kad-sam-bio-dete-i-inspirisao-kao-odraslog-coveka/550304",
+      "naslov": "Počinje peta era HR fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pocinje-peta-era-hr-fudbala/550323",
       "izvor": "Мозарт Спорт",
-      "datum": "31. 07. 2026. у 14:16",
+      "datum": "31. 07. 2026. у 17:29",
+      "slika": null
+    },
+    {
+      "naslov": "Antonio Nobre i Danijele Kifi sudiće dvomeču između Partizana i Tobola",
+      "url": "https://www.tanjug.rs/sport/fudbal/270178/antonio-nobre-i-danijele-kifi-sudice-dvomecu-izmedu-partizana-i-tobola/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 07. 2026. у 14:57",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/270058/preminuo-legendarni-italijanski-fudbaler-i-kapiten-milana-franko-barezi/vest",
       "izvor": "Танјуг",
       "datum": "31. 07. 2026. у 09:37",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri PAOK-a, Pafosa i Ferencvaroša u trećem kolu kvalifikacija za Ligu Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/270029/fudbaleri-paok-a-pafosa-i-ferencvarosa-u-trecem-kolu-kvalifikacija-za-ligu-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 07. 2026. у 23:08",
       "slika": null
     },
     {
