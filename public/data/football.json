@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-01T09:11:40.374607+00:00",
-  "azurirano_sr": "1. 08. 2026. у 11:11",
+  "azurirano": "2026-08-01T10:47:05.155720+00:00",
+  "azurirano_sr": "1. 08. 2026. у 12:47",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Ilić pred IMT: Ne priznajem umor, moramo da podižemo nivo igre i pobedimo",
+      "url": "https://www.tanjug.rs/sport/fudbal/270329/ilic-pred-imt-ne-priznajem-umor-moramo-da-podizemo-nivo-igre-i-pobedimo/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 08. 2026. у 11:27",
+      "slika": null
+    },
+    {
       "naslov": "Nastavlja se Superliga Srbije, fudbaleri Partizana dočekuju IMT",
       "url": "https://www.tanjug.rs/sport/fudbal/270316/nastavlja-se-superliga-srbije-fudbaleri-partizana-docekuju-imt/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/270261/nekadasnji-reprezentativac-bih-muhamed-besic-novi-fudbaler-ofk-beograda/vest",
       "izvor": "Танјуг",
       "datum": "31. 07. 2026. у 21:02",
-      "slika": null
-    },
-    {
-      "naslov": "Sud u Lozani prihvatio žalbu Mihaila Mudrika, fudbaler Čelsija se vraća na teren",
-      "url": "https://www.tanjug.rs/sport/fudbal/270235/sud-u-lozani-prihvatio-zalbu-mihaila-mudrika-fudbaler-celsija-se-vraca-na-teren/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 07. 2026. у 18:28",
       "slika": null
     },
     {
