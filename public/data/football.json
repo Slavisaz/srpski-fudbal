@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-01T20:26:33.629299+00:00",
-  "azurirano_sr": "1. 08. 2026. у 22:26",
+  "azurirano": "2026-08-01T21:22:07.391302+00:00",
+  "azurirano_sr": "1. 08. 2026. у 23:22",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kazemiro: Mesi je fudbalski bog, uživaću u igri sa njim",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kazemiro-mesi-je-fudbalski-bog-uzivacu-u-igri-sa-njim/550389",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 08. 2026. у 00:29",
+      "slika": null
+    },
+    {
+      "naslov": "Mala škola fudbala Uroša Miladinovića i ringišpil za kapitena Kragujevčana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mala-skola-fudbala-urosa-miladinovica-i-ringispil-za-kapitena-kragujevcana/550412",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 08. 2026. у 00:26",
+      "slika": null
+    },
     {
       "naslov": "Okrutnost fudbala na delu: Vršac prokockao šansu iz  kontre, TSC odmah kaznio golom",
       "url": "https://www.mozzartsport.com/fudbal/vesti/okrutnost-fudbala-na-delu-vrsac-prokockao-sansu-iz-kontre-tsc-odmah-kaznio-golom/550416",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (subota, 1. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-1-avgust/550360",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 08. 2026. у 21:10",
-      "slika": null
-    },
-    {
-      "naslov": "Čudni su putevi života... Čelsi se do juče ježio na veterane, a sad potpisao 35-godišnjeg Velbeka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cudni-su-putevi-zivota-celsi-se-do-juce-jezio-na-veterane-a-sad-potpisao-35godisnjeg-velbeka/550405",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 08. 2026. у 21:07",
+      "naslov": "Ubedljiv trijumf OFK Beograda u Novom Pazaru, Čukarički nadigrao Kragujevčane",
+      "url": "https://www.tanjug.rs/sport/fudbal/270422/ubedljiv-trijumf-ofk-beograda-u-novom-pazaru-cukaricki-nadigrao-kragujevcane/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 08. 2026. у 22:24",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Infantino odustao od prodaje FIFA takmičenja: Nećemo podele, moramo da se ujedinimo",
-      "url": "https://www.tanjug.rs/sport/fudbal/270315/infantino-odustao-od-prodaje-fifa-takmicenja-necemo-podele-moramo-da-se-ujedinimo/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 08. 2026. у 09:50",
+      "naslov": "Ne pomaže Dudićeva ruka kada ovako igra Čuka",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255337/cukaricki-radnicki-1923-izvestaj-meca-3-kola-superlige-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 08. 2026. у 22:26",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255332/novi-pazar-ofk-beograd-izvestaj-utakmice-3-kola-superlige-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "1. 08. 2026. у 21:55",
-      "slika": null
-    },
-    {
-      "naslov": "Istorijska odluka FSS!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255297/fss-uvodi-sportske-naslednike-klubovi-vise-nece-moci-da-izbegnu-dugovanja-gasenjem/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 08. 2026. у 19:27",
       "slika": null
     }
   ]
