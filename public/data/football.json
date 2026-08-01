@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-01T19:30:28.434113+00:00",
-  "azurirano_sr": "1. 08. 2026. у 21:30",
+  "azurirano": "2026-08-01T20:26:33.629299+00:00",
+  "azurirano_sr": "1. 08. 2026. у 22:26",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Okrutnost fudbala na delu: Vršac prokockao šansu iz  kontre, TSC odmah kaznio golom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/okrutnost-fudbala-na-delu-vrsac-prokockao-sansu-iz-kontre-tsc-odmah-kaznio-golom/550416",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 08. 2026. у 23:57",
+      "slika": null
+    },
+    {
+      "naslov": "Javor zaljuljao Partizanovu filijalu!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/javor-zaljuljao-partizanovu-filijalu/550410",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 08. 2026. у 23:06",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (subota, 1. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-1-avgust/550360",
@@ -11,24 +25,10 @@
       "slika": null
     },
     {
-      "naslov": "Čudni su putevi života... Čelsi se do juče ježio na veterane, a sad potpisao 36-godišnjeg Velbeka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cudni-su-putevi-zivota-celsi-se-do-juce-jezio-na-veterane-a-sad-potpisao-36godisnjeg-velbeka/550405",
+      "naslov": "Čudni su putevi života... Čelsi se do juče ježio na veterane, a sad potpisao 35-godišnjeg Velbeka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cudni-su-putevi-zivota-celsi-se-do-juce-jezio-na-veterane-a-sad-potpisao-35godisnjeg-velbeka/550405",
       "izvor": "Мозарт Спорт",
       "datum": "1. 08. 2026. у 21:07",
-      "slika": null
-    },
-    {
-      "naslov": "Pavlović promovisan u Francuskoj: I dalje mogu da ponudim nešto fudbalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pavlovic-promovisan-u-francuskoj-i-dalje-mogu-da-ponudim-nesto-fudbalu/550403",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 08. 2026. у 20:49",
-      "slika": null
-    },
-    {
-      "naslov": "Jedan od 10 najskupljih Afrikanaca svih vremena: Ode 48.000.000 evra, Pčelice isprazniše košnicu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jedan-od-10-najskupljih-afrikanaca-svih-vremena-ode-48000000-evra-pcelice-ispraznise-kosnicu/550402",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 08. 2026. у 20:30",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "&quot;Romantičari&quot; častili Novopazarce &quot;pokerom&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255332/novi-pazar-ofk-beograd-izvestaj-utakmice-3-kola-superlige-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 08. 2026. у 21:55",
+      "slika": null
+    },
+    {
       "naslov": "Istorijska odluka FSS!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255297/fss-uvodi-sportske-naslednike-klubovi-vise-nece-moci-da-izbegnu-dugovanja-gasenjem/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "1. 08. 2026. у 19:27",
-      "slika": null
-    },
-    {
-      "naslov": "Duarte: &quot;Kada čujem reč Pafos, prođe me jeza&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255241/bruno-duarte-o-eliminaciji-zvezde-od-pafosa/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 08. 2026. у 18:40",
       "slika": null
     }
   ]
