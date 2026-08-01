@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-01T17:14:06.696775+00:00",
-  "azurirano_sr": "1. 08. 2026. у 19:14",
+  "azurirano": "2026-08-01T18:10:35.274154+00:00",
+  "azurirano_sr": "1. 08. 2026. у 20:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 1. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-1-avgust/550360",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 08. 2026. у 21:10",
+      "slika": null
+    },
+    {
+      "naslov": "Čudni su putevi života... Čelsi se do juče ježio na veterane, a sad potpisao 36-godišnjeg Velbeka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cudni-su-putevi-zivota-celsi-se-do-juce-jezio-na-veterane-a-sad-potpisao-36godisnjeg-velbeka/550405",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 08. 2026. у 21:07",
+      "slika": null
+    },
     {
       "naslov": "Pavlović promovisan u Francuskoj: I dalje mogu da ponudim nešto fudbalu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pavlovic-promovisan-u-francuskoj-i-dalje-mogu-da-ponudim-nesto-fudbalu/550403",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/jedan-od-10-najskupljih-afrikanaca-svih-vremena-ode-48000000-evra-pcelice-ispraznise-kosnicu/550402",
       "izvor": "Мозарт Спорт",
       "datum": "1. 08. 2026. у 20:30",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (subota, 1. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-1-avgust/550360",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 08. 2026. у 16:57",
-      "slika": null
-    },
-    {
-      "naslov": "Nema titule tri godine, ali Red Bulova mašina i dalje štancuje talente i prodaje za velike pare",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nema-titule-tri-godine-ali-red-bulova-masina-i-dalje-stancuje-talente-i-prodaje-za-velike-pare/550371",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 08. 2026. у 12:54",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Istorijska odluka FSS!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255297/fss-uvodi-sportske-naslednike-klubovi-vise-nece-moci-da-izbegnu-dugovanja-gasenjem/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 08. 2026. у 19:27",
+      "slika": null
+    },
+    {
       "naslov": "Duarte: &quot;Kada čujem reč Pafos, prođe me jeza&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255241/bruno-duarte-o-eliminaciji-zvezde-od-pafosa/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "1. 08. 2026. у 18:40",
-      "slika": null
-    },
-    {
-      "naslov": "Italijani poslali ponudu za Ognjena Ugrešića!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255248/sasuolo-ponudio-8000000-evra-za-ognjena-ugresica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 08. 2026. у 15:46",
       "slika": null
     }
   ]
