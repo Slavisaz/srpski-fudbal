@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-08-01T07:03:08.386008+00:00",
-  "azurirano_sr": "1. 08. 2026. у 09:03",
+  "azurirano": "2026-08-01T09:11:40.374607+00:00",
+  "azurirano_sr": "1. 08. 2026. у 11:11",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "NAJAVA DANA (subota, 1. avgust): Kreću Austijanci, a tu je i Superkup Portugalije, kao i PLS",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-subota-1-avgust-krecu-austijanci-a-tu-je-i-superkup-portugalije-kao-i-pls/550319",
+      "naslov": "Nema titule tri godine, ali Red Bulova mašina i dalje štancuje talente i prodaje za velike pare",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nema-titule-tri-godine-ali-red-bulova-masina-i-dalje-stancuje-talente-i-prodaje-za-velike-pare/550371",
       "izvor": "Мозарт Спорт",
-      "datum": "1. 08. 2026. у 10:00",
+      "datum": "1. 08. 2026. у 12:54",
       "slika": null
     },
     {
-      "naslov": "Školovao fudbalere Vojvodine u kvalifikacijama, sad bi mogao u Pari Sen Žermen",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/skolovao-fudbalere-vojvodine-u-kvalifikacijama-sad-bi-mogao-u-pari-sen-zermen/550352",
+      "naslov": "U senci evropskog brodoloma - počinje jedna od najgorih liga Starog kontinenta",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/u-senci-evropskog-brodoloma-pocinje-jedna-od-najgorih-liga-starog-kontinenta/550365",
       "izvor": "Мозарт Спорт",
-      "datum": "1. 08. 2026. у 01:39",
+      "datum": "1. 08. 2026. у 11:44",
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (petak, 31. jul)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-31-jul/550294",
+      "naslov": "Zmajevi više trošili nego što su zaradili: Superkup kao najava Fariolijevih velikih dometa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zmajevi-vise-trosili-nego-sto-su-zaradili-superkup-kao-najava-fariolijevih-velikih-dometa/550362",
       "izvor": "Мозарт Спорт",
-      "datum": "1. 08. 2026. у 01:19",
+      "datum": "1. 08. 2026. у 11:12",
       "slika": null
     },
     {
-      "naslov": "Prvi trofej u evropskom fudbalu 2026/27: Precizno 9 od 10 penaldžija, Cava jedini promašio",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-trofej-u-evropskom-fudbalu-202627-precizno-9-od-10-penaldzija-cava-jedini-promasio/550349",
+      "naslov": "TRANSFERI UŽIVO (subota, 1. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-1-avgust/550360",
       "izvor": "Мозарт Спорт",
-      "datum": "1. 08. 2026. у 01:03",
+      "datum": "1. 08. 2026. у 10:56",
+      "slika": null
+    },
+    {
+      "naslov": "Nastavlja se Superliga Srbije, fudbaleri Partizana dočekuju IMT",
+      "url": "https://www.tanjug.rs/sport/fudbal/270316/nastavlja-se-superliga-srbije-fudbaleri-partizana-docekuju-imt/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 08. 2026. у 10:08",
+      "slika": null
+    },
+    {
+      "naslov": "Infantino odustao od prodaje FIFA takmičenja: Nećemo podele, moramo da se ujedinimo",
+      "url": "https://www.tanjug.rs/sport/fudbal/270315/infantino-odustao-od-prodaje-fifa-takmicenja-necemo-podele-moramo-da-se-ujedinimo/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 08. 2026. у 09:50",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Santi Denija novi selektor fudbalske reprezentacije Češke",
-      "url": "https://www.tanjug.rs/sport/fudbal/270192/santi-denija-novi-selektor-fudbalske-reprezentacije-ceske/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 07. 2026. у 15:39",
-      "slika": null
-    },
-    {
-      "naslov": "Antonio Nobre i Danijele Kifi sudiće dvomeču između Partizana i Tobola",
-      "url": "https://www.tanjug.rs/sport/fudbal/270178/antonio-nobre-i-danijele-kifi-sudice-dvomecu-izmedu-partizana-i-tobola/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 07. 2026. у 14:57",
+      "naslov": "Ilić pred IMT: &quot;Ne priznajem umor – agresijom i intenzitetom do pobede&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255184/ilic-pred-imt-ne-priznajem-umor-agresijom-i-intenzitetom-do-pobede/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 08. 2026. у 11:05",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255123/silvester-dzasper-novi-igrac-standarda/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "31. 07. 2026. у 22:57",
-      "slika": null
-    },
-    {
-      "naslov": "Bešić se iz Subotice preselio u Beograd",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255103/muhamed-besic-novi-igrac-ofk-beograda/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "31. 07. 2026. у 21:15",
       "slika": null
     }
   ]
