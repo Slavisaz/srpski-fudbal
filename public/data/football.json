@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-01T21:22:07.391302+00:00",
-  "azurirano_sr": "1. 08. 2026. у 23:22",
+  "azurirano": "2026-08-01T22:14:34.572613+00:00",
+  "azurirano_sr": "2. 08. 2026. у 00:14",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Rezzime dana (subota): Pogodili ste sve iz srpskog fudbala, omanuli sa CSKA, Plzenjom...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-subota-pogodili-ste-sve-iz-srpskog-fudbala-omanuli-sa-cska-plzenjom/550413",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 08. 2026. у 01:50",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 1. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-1-avgust/550360",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 08. 2026. у 01:35",
+      "slika": null
+    },
     {
       "naslov": "Kazemiro: Mesi je fudbalski bog, uživaću u igri sa njim",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kazemiro-mesi-je-fudbalski-bog-uzivacu-u-igri-sa-njim/550389",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/mala-skola-fudbala-urosa-miladinovica-i-ringispil-za-kapitena-kragujevcana/550412",
       "izvor": "Мозарт Спорт",
       "datum": "2. 08. 2026. у 00:26",
-      "slika": null
-    },
-    {
-      "naslov": "Okrutnost fudbala na delu: Vršac prokockao šansu iz  kontre, TSC odmah kaznio golom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/okrutnost-fudbala-na-delu-vrsac-prokockao-sansu-iz-kontre-tsc-odmah-kaznio-golom/550416",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 08. 2026. у 23:57",
-      "slika": null
-    },
-    {
-      "naslov": "Javor zaljuljao Partizanovu filijalu!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/javor-zaljuljao-partizanovu-filijalu/550410",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 08. 2026. у 23:06",
       "slika": null
     },
     {
