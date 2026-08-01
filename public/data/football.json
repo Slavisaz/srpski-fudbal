@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-01T16:13:15.451101+00:00",
-  "azurirano_sr": "1. 08. 2026. у 18:13",
+  "azurirano": "2026-08-01T17:14:06.696775+00:00",
+  "azurirano_sr": "1. 08. 2026. у 19:14",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Pavlović promovisan u Francuskoj: I dalje mogu da ponudim nešto fudbalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pavlovic-promovisan-u-francuskoj-i-dalje-mogu-da-ponudim-nesto-fudbalu/550403",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 08. 2026. у 20:49",
+      "slika": null
+    },
+    {
+      "naslov": "Jedan od 10 najskupljih Afrikanaca svih vremena: Ode 48.000.000 evra, Pčelice isprazniše košnicu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jedan-od-10-najskupljih-afrikanaca-svih-vremena-ode-48000000-evra-pcelice-ispraznise-kosnicu/550402",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 08. 2026. у 20:30",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (subota, 1. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-1-avgust/550360",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/nema-titule-tri-godine-ali-red-bulova-masina-i-dalje-stancuje-talente-i-prodaje-za-velike-pare/550371",
       "izvor": "Мозарт Спорт",
       "datum": "1. 08. 2026. у 12:54",
-      "slika": null
-    },
-    {
-      "naslov": "U senci evropskog brodoloma - počinje jedna od najgorih liga Starog kontinenta",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/u-senci-evropskog-brodoloma-pocinje-jedna-od-najgorih-liga-starog-kontinenta/550365",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 08. 2026. у 11:44",
-      "slika": null
-    },
-    {
-      "naslov": "Zmajevi više trošili nego što su zaradili: Superkup kao najava Fariolijevih velikih dometa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zmajevi-vise-trosili-nego-sto-su-zaradili-superkup-kao-najava-fariolijevih-velikih-dometa/550362",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 08. 2026. у 11:12",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Duarte: &quot;Kada čujem reč Pafos, prođe me jeza&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255241/bruno-duarte-o-eliminaciji-zvezde-od-pafosa/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 08. 2026. у 18:40",
+      "slika": null
+    },
+    {
       "naslov": "Italijani poslali ponudu za Ognjena Ugrešića!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255248/sasuolo-ponudio-8000000-evra-za-ognjena-ugresica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "1. 08. 2026. у 15:46",
-      "slika": null
-    },
-    {
-      "naslov": "Kojzek: &quot;Jedva čekam derbi sa Zvezdom&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255225/erik-kojzek-o-dolasku-u-partizan-vecitom-derbiju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 08. 2026. у 14:50",
       "slika": null
     }
   ]
