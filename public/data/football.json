@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-01T04:30:07.870663+00:00",
-  "azurirano_sr": "1. 08. 2026. у 06:30",
+  "azurirano": "2026-08-01T07:03:08.386008+00:00",
+  "azurirano_sr": "1. 08. 2026. у 09:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (subota, 1. avgust): Kreću Austijanci, a tu je i Superkup Portugalije, kao i PLS",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-subota-1-avgust-krecu-austijanci-a-tu-je-i-superkup-portugalije-kao-i-pls/550319",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 08. 2026. у 10:00",
+      "slika": null
+    },
     {
       "naslov": "Školovao fudbalere Vojvodine u kvalifikacijama, sad bi mogao u Pari Sen Žermen",
       "url": "https://www.mozzartsport.com/fudbal/vesti/skolovao-fudbalere-vojvodine-u-kvalifikacijama-sad-bi-mogao-u-pari-sen-zermen/550352",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-trofej-u-evropskom-fudbalu-202627-precizno-9-od-10-penaldzija-cava-jedini-promasio/550349",
       "izvor": "Мозарт Спорт",
       "datum": "1. 08. 2026. у 01:03",
-      "slika": null
-    },
-    {
-      "naslov": "Zvanično: Pančevačka haubica došla na jedno od najvrelijih mesta u evropskom fudbalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-pancevacka-haubica-dosla-na-jedno-od-najvrelijih-mesta-u-evropskom-fudbalu/550347",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 08. 2026. у 00:27",
       "slika": null
     },
     {
