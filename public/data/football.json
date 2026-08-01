@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-01T12:41:39.640608+00:00",
-  "azurirano_sr": "1. 08. 2026. у 14:41",
+  "azurirano": "2026-08-01T14:11:16.877407+00:00",
+  "azurirano_sr": "1. 08. 2026. у 16:11",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 1. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-1-avgust/550360",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 08. 2026. у 16:57",
+      "slika": null
+    },
     {
       "naslov": "Nema titule tri godine, ali Red Bulova mašina i dalje štancuje talente i prodaje za velike pare",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nema-titule-tri-godine-ali-red-bulova-masina-i-dalje-stancuje-talente-i-prodaje-za-velike-pare/550371",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/zmajevi-vise-trosili-nego-sto-su-zaradili-superkup-kao-najava-fariolijevih-velikih-dometa/550362",
       "izvor": "Мозарт Спорт",
       "datum": "1. 08. 2026. у 11:12",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (subota, 1. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-1-avgust/550360",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 08. 2026. у 10:56",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Ilić pred IMT: &quot;Ne priznajem umor – agresijom i intenzitetom do pobede&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255184/ilic-pred-imt-ne-priznajem-umor-agresijom-i-intenzitetom-do-pobede/vest",
+      "naslov": "Italijani poslali ponudu za Ognjena Ugrešića!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255248/sasuolo-ponudio-8000000-evra-za-ognjena-ugresica/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 08. 2026. у 11:05",
+      "datum": "1. 08. 2026. у 15:46",
       "slika": null
     },
     {
-      "naslov": "Železničar trlja ruke – Standard objavio pojačanje VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255123/silvester-dzasper-novi-igrac-standarda/vest",
+      "naslov": "Kojzek: &quot;Jedva čekam derbi sa Zvezdom&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255225/erik-kojzek-o-dolasku-u-partizan-vecitom-derbiju/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "31. 07. 2026. у 22:57",
+      "datum": "1. 08. 2026. у 14:50",
       "slika": null
     }
   ]
