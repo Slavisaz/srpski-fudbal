@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-01T11:48:12.375450+00:00",
-  "azurirano_sr": "1. 08. 2026. у 13:48",
+  "azurirano": "2026-08-01T12:41:39.640608+00:00",
+  "azurirano_sr": "1. 08. 2026. у 14:41",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "UEFA: Zaštili smo fudbal, rukovodstvo FIFA-e i Infantino izgubili naše poverenje",
+      "url": "https://www.tanjug.rs/sport/fudbal/270355/uefa-zastili-smo-fudbal-rukovodstvo-fifa-e-i-infantino-izgubili-nase-poverenje/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 08. 2026. у 14:11",
+      "slika": null
+    },
+    {
       "naslov": "Ilić pred IMT: Ne priznajem umor, moramo da podižemo nivo igre i pobedimo",
       "url": "https://www.tanjug.rs/sport/fudbal/270329/ilic-pred-imt-ne-priznajem-umor-moramo-da-podizemo-nivo-igre-i-pobedimo/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/270315/infantino-odustao-od-prodaje-fifa-takmicenja-necemo-podele-moramo-da-se-ujedinimo/vest",
       "izvor": "Танјуг",
       "datum": "1. 08. 2026. у 09:50",
-      "slika": null
-    },
-    {
-      "naslov": "Nekadašnji reprezentativac BiH Muhamed Bešić novi fudbaler OFK Beograda",
-      "url": "https://www.tanjug.rs/sport/fudbal/270261/nekadasnji-reprezentativac-bih-muhamed-besic-novi-fudbaler-ofk-beograda/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 07. 2026. у 21:02",
       "slika": null
     },
     {
