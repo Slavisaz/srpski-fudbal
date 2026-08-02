@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-02T18:11:32.111567+00:00",
-  "azurirano_sr": "2. 08. 2026. у 20:11",
+  "azurirano": "2026-08-02T19:31:45.082911+00:00",
+  "azurirano_sr": "2. 08. 2026. у 21:31",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Letos i zimus odbijali po 20.000.000 evra, sada ga prodali Ajntrahtu za 9.000.000",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/letos-i-zimus-odbijali-po-20000000-evra-sada-ga-prodali-ajntrahtu-za-9000000/550491",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 08. 2026. у 23:07",
+      "slika": null
+    },
+    {
+      "naslov": "Najbrži crveni karton u istoriji i debakl PSV-a na otvaranju nove sezone (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najbrzi-crveni-karton-u-istoriji-i-debakl-psva-na-otvaranju-nove-sezone-video/550489",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 08. 2026. у 22:24",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (nedelja, 2. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-2-avgust/550437",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Papšun stao u odbranu Rajovića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/papsun-stao-u-odbranu-rajovica/550452",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 08. 2026. у 13:57",
-      "slika": null
-    },
-    {
-      "naslov": "Boš i PSV napadaju pehar Superkupa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bos-i-psv-napadaju-pehar-superkupa/550448",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 08. 2026. у 13:25",
+      "naslov": "Kolo Muani zvanično ponovo fudbaler Juventusa, zadužio Vlahovićevu \"devetku\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/270598/kolo-muani-zvanicno-ponovo-fudbaler-juventusa-zaduzio-vlahovicevu-devetku/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 08. 2026. у 20:07",
       "slika": null
     },
     {
@@ -53,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Stanković: Zahtevna utakmica protiv dobrog protivnika koji želi da se nadigrava",
-      "url": "https://www.tanjug.rs/sport/fudbal/270512/stankovic-zahtevna-utakmica-protiv-dobrog-protivnika-koji-zeli-da-se-nadigrava/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 08. 2026. у 13:01",
-      "slika": null
-    },
-    {
-      "naslov": "Šansa za šansom u Humskoj – Krunić spasio Partizan",
+      "naslov": "Partizan gubi i ima igrača manje – Žagar kao Mesi",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255522/uzivo-partizan-imt/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 08. 2026. у 20:10",
+      "datum": "2. 08. 2026. у 21:27",
       "slika": null
     },
     {
