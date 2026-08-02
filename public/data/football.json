@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-08-02T08:40:00.800683+00:00",
-  "azurirano_sr": "2. 08. 2026. у 10:40",
+  "azurirano": "2026-08-02T10:18:23.143820+00:00",
+  "azurirano_sr": "2. 08. 2026. у 12:18",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Papšun stao u odbranu Rajovića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/papsun-stao-u-odbranu-rajovica/550452",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 08. 2026. у 13:57",
+      "slika": null
+    },
+    {
+      "naslov": "Boš i PSV napadaju pehar Superkupa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bos-i-psv-napadaju-pehar-superkupa/550448",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 08. 2026. у 13:25",
+      "slika": null
+    },
+    {
+      "naslov": "Presudio Interu bombom sa 30 metara, sada ide u Sasuolo po minute",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/presudio-interu-bombom-sa-30-metara-sada-ide-u-sasuolo-po-minute/550447",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 08. 2026. у 13:08",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (subota, 2. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-2-avgust/550437",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "NAJAVA DANA (nedelja, 2. avgust): Superkup Holandije,  Traktor u Humskoj, a igraju i Danci, Bugari, Rumuni...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-nedelja-2-avgust-superkup-holandije-traktor-u-humskoj-a-igraju-i-danci-bugari-rumuni/550426",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 08. 2026. у 10:01",
-      "slika": null
-    },
-    {
-      "naslov": "LUDI TIKET (-), nedelja, 760.011 dinara: Umalo velemajstorija na 20 dinara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-nedelja-760011-dinara-umalo-velemajstorija-na-20-dinara/550429",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 08. 2026. у 08:10",
-      "slika": null
-    },
-    {
-      "naslov": "Porto prestigao Benfiku i postao klub sa najviše trofeja u Portugaliji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/porto-prestigao-benfiku-i-postao-klub-sa-najvise-trofeja-u-portugaliji/550421",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 08. 2026. у 02:06",
+      "naslov": "Gvardiol: Mareska je savršen trener za Mančester siti",
+      "url": "https://www.tanjug.rs/sport/fudbal/270477/gvardiol-mareska-je-savrsen-trener-za-mancester-siti/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 08. 2026. у 10:44",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Ilić pred IMT: Ne priznajem umor, moramo da podižemo nivo igre i pobedimo",
-      "url": "https://www.tanjug.rs/sport/fudbal/270329/ilic-pred-imt-ne-priznajem-umor-moramo-da-podizemo-nivo-igre-i-pobedimo/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 08. 2026. у 11:27",
+      "naslov": "Zvezda bi da vrati reprezentativca Srbije?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255401/crvena-zvezda-vraca-jovana-milsoavljevica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 08. 2026. у 11:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255384/partizan-odbija-ponudu-sasuola-za-ugresica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "2. 08. 2026. у 10:00",
-      "slika": null
-    },
-    {
-      "naslov": "Levandovski se predstavio MLS-u sa dva gola VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255381/robert-levandovski-dao-dva-gola-na-debiju-za-cikago-fajer-u-mls-u/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 08. 2026. у 09:45",
       "slika": null
     }
   ]
