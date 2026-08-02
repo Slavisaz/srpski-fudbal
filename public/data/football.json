@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-02T06:22:01.865682+00:00",
-  "azurirano_sr": "2. 08. 2026. у 08:22",
+  "azurirano": "2026-08-02T08:40:00.800683+00:00",
+  "azurirano_sr": "2. 08. 2026. у 10:40",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 2. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-2-avgust/550437",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 08. 2026. у 11:04",
+      "slika": null
+    },
     {
       "naslov": "NAJAVA DANA (nedelja, 2. avgust): Superkup Holandije,  Traktor u Humskoj, a igraju i Danci, Bugari, Rumuni...",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-nedelja-2-avgust-superkup-holandije-traktor-u-humskoj-a-igraju-i-danci-bugari-rumuni/550426",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (subota, 1. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-subota-1-avgust/550360",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 08. 2026. у 02:04",
+      "naslov": "Levandovski doneo pobedu Čikagu protiv Šarlota u MLS ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/270471/levandovski-doneo-pobedu-cikagu-protiv-sarlota-u-mls-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 08. 2026. у 10:20",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Nastavlja se Superliga Srbije, fudbaleri Partizana dočekuju IMT",
-      "url": "https://www.tanjug.rs/sport/fudbal/270316/nastavlja-se-superliga-srbije-fudbaleri-partizana-docekuju-imt/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 08. 2026. у 10:08",
+      "naslov": "Partizanovo &quot;ne&quot; Italijanima?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255384/partizan-odbija-ponudu-sasuola-za-ugresica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 08. 2026. у 10:00",
       "slika": null
     },
     {
-      "naslov": "Ne pomaže Dudićeva ruka kada ovako igra Čuka",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255337/cukaricki-radnicki-1923-izvestaj-meca-3-kola-superlige-srbije/vest",
+      "naslov": "Levandovski se predstavio MLS-u sa dva gola VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255381/robert-levandovski-dao-dva-gola-na-debiju-za-cikago-fajer-u-mls-u/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 08. 2026. у 22:26",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Romantičari&quot; častili Novopazarce &quot;pokerom&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255332/novi-pazar-ofk-beograd-izvestaj-utakmice-3-kola-superlige-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 08. 2026. у 21:55",
+      "datum": "2. 08. 2026. у 09:45",
       "slika": null
     }
   ]
