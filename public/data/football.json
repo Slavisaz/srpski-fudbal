@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-02T16:14:53.934572+00:00",
-  "azurirano_sr": "2. 08. 2026. у 18:14",
+  "azurirano": "2026-08-02T17:15:38.307862+00:00",
+  "azurirano_sr": "2. 08. 2026. у 19:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Španski bekovi su hit leta: Kupuju ih Englezi, Nemci, Italijani…",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/spanski-bekovi-su-hit-leta-kupuju-ih-englezi-nemci-italijani/550477",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 08. 2026. у 20:23",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (nedelja, 2. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-2-avgust/550437",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/bos-i-psv-napadaju-pehar-superkupa/550448",
       "izvor": "Мозарт Спорт",
       "datum": "2. 08. 2026. у 13:25",
-      "slika": null
-    },
-    {
-      "naslov": "Presudio Interu bombom sa 30 metara, sada ide u Sasuolo po minute",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/presudio-interu-bombom-sa-30-metara-sada-ide-u-sasuolo-po-minute/550447",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 08. 2026. у 13:08",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Partizan u akciji – poznati sastavi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255522/uzivo-partizan-imt/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 08. 2026. у 19:14",
+      "slika": null
+    },
+    {
       "naslov": "Trener Teleoptika traži bolji odnos sa Partizanom: &quot;Bolje je bilo sa Blagojevićem&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255443/marko-jovanovic-trener-teleoptika-o-igracima-iz-partizana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "2. 08. 2026. у 13:55",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda bi da vrati reprezentativca Srbije?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255401/crvena-zvezda-vraca-jovana-milsoavljevica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 08. 2026. у 11:00",
       "slika": null
     }
   ]
