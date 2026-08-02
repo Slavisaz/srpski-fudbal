@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-02T19:31:45.082911+00:00",
-  "azurirano_sr": "2. 08. 2026. у 21:31",
+  "azurirano": "2026-08-02T20:29:39.986877+00:00",
+  "azurirano_sr": "2. 08. 2026. у 22:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Fudbalska (ne)pravda u poslednjoj sekundi: Radnički zaslužio da pobedi, Živković nije da bude tragičar",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalska-nepravda-u-poslednjoj-sekundi-radnicki-zasluzio-da-pobedi-zivkovic-nije-da-bude-tragicar/550496",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 08. 2026. у 00:06",
+      "slika": null
+    },
+    {
+      "naslov": "Stuparević doneo pobedu Napretku prvim golom u srpskom fudbalu posle četiri i po godine",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stuparevic-doneo-pobedu-napretku-prvim-golom-u-srpskom-fudbalu-posle-cetiri-i-po-godine/550492",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 08. 2026. у 23:19",
+      "slika": null
+    },
     {
       "naslov": "Letos i zimus odbijali po 20.000.000 evra, sada ga prodali Ajntrahtu za 9.000.000",
       "url": "https://www.mozzartsport.com/fudbal/vesti/letos-i-zimus-odbijali-po-20000000-evra-sada-ga-prodali-ajntrahtu-za-9000000/550491",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (nedelja, 2. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-2-avgust/550437",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 08. 2026. у 21:17",
+      "naslov": "Saša Ilić posle poraza od IMT-a: Tako je, kako je",
+      "url": "https://www.tanjug.rs/sport/fudbal/270611/sasa-ilic-posle-poraza-od-imt-a-tako-je-kako-je/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 08. 2026. у 22:19",
       "slika": null
     },
     {
-      "naslov": "Španski bekovi su hit leta: Kupuju ih Englezi, Nemci, Italijani…",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/spanski-bekovi-su-hit-leta-kupuju-ih-englezi-nemci-italijani/550477",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 08. 2026. у 20:23",
+      "naslov": "Fudbaleri Partizana sa igračem manje poraženi u Humskoj, IMT lider Superlige",
+      "url": "https://www.tanjug.rs/sport/fudbal/270610/fudbaleri-partizana-sa-igracem-manje-porazeni-u-humskoj-imt-lider-superlige/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 08. 2026. у 22:11",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Nigerijski fudbaler Rafael Onjedika novo pojačanje Ajntrahta iz Frankfurta",
-      "url": "https://www.tanjug.rs/sport/fudbal/270558/nigerijski-fudbaler-rafael-onjedika-novo-pojacanje-ajntrahta-iz-frankfurta/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 08. 2026. у 15:56",
-      "slika": null
-    },
-    {
-      "naslov": "FK Crvena zvezda: U prodaji karte za utakmice protiv Novog Pazara i Hapoela Ber Ševe",
-      "url": "https://www.tanjug.rs/sport/fudbal/270550/fk-crvena-zvezda-u-prodaji-karte-za-utakmice-protiv-novog-pazara-i-hapoela-ber-seve/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 08. 2026. у 15:35",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan gubi i ima igrača manje – Žagar kao Mesi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255522/uzivo-partizan-imt/vest",
+      "naslov": "&quot;Ko pobedi veliki Partizan, kako da bude nezadovoljan?&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255562/izjava-zorana-popovica-nakon-trijumfa-nad-partizanom/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 08. 2026. у 21:27",
+      "datum": "2. 08. 2026. у 22:18",
       "slika": null
     },
     {
-      "naslov": "Trener Teleoptika traži bolji odnos sa Partizanom: &quot;Bolje je bilo sa Blagojevićem&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255443/marko-jovanovic-trener-teleoptika-o-igracima-iz-partizana/vest",
+      "naslov": "Saša Ilić posle poraza: &quot;Tako je – kako je&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255560/sasa-ilic-izjava-posle-poraza-od-imt/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 08. 2026. у 13:55",
+      "datum": "2. 08. 2026. у 22:10",
       "slika": null
     }
   ]
