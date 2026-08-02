@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-02T03:47:46.164918+00:00",
-  "azurirano_sr": "2. 08. 2026. у 05:47",
+  "azurirano": "2026-08-02T06:22:01.865682+00:00",
+  "azurirano_sr": "2. 08. 2026. у 08:22",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (nedelja, 2. avgust): Superkup Holandije,  Traktor u Humskoj, a igraju i Danci, Bugari, Rumuni...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-nedelja-2-avgust-superkup-holandije-traktor-u-humskoj-a-igraju-i-danci-bugari-rumuni/550426",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 08. 2026. у 10:01",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET (-), nedelja, 760.011 dinara: Umalo velemajstorija na 20 dinara",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-nedelja-760011-dinara-umalo-velemajstorija-na-20-dinara/550429",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 08. 2026. у 08:10",
+      "slika": null
+    },
     {
       "naslov": "Porto prestigao Benfiku i postao klub sa najviše trofeja u Portugaliji",
       "url": "https://www.mozzartsport.com/fudbal/vesti/porto-prestigao-benfiku-i-postao-klub-sa-najvise-trofeja-u-portugaliji/550421",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-subota-1-avgust/550360",
       "izvor": "Мозарт Спорт",
       "datum": "2. 08. 2026. у 02:04",
-      "slika": null
-    },
-    {
-      "naslov": "Rezzime dana (subota): Pogodili ste sve iz srpskog fudbala, omanuli sa CSKA, Plzenjom...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-subota-pogodili-ste-sve-iz-srpskog-fudbala-omanuli-sa-cska-plzenjom/550413",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 08. 2026. у 01:50",
-      "slika": null
-    },
-    {
-      "naslov": "Kazemiro: Mesi je fudbalski bog, uživaću u igri sa njim",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kazemiro-mesi-je-fudbalski-bog-uzivacu-u-igri-sa-njim/550389",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 08. 2026. у 00:29",
       "slika": null
     },
     {
