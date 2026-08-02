@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-02T21:25:01.999444+00:00",
-  "azurirano_sr": "2. 08. 2026. у 23:25",
+  "azurirano": "2026-08-02T22:15:37.052081+00:00",
+  "azurirano_sr": "3. 08. 2026. у 00:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (nedelja, 2. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-nedelja-2-avgust/550437",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 08. 2026. у 01:38",
+      "slika": null
+    },
     {
       "naslov": "Fudbalska (ne)pravda u poslednjoj sekundi: Radnički zaslužio da pobedi, Živković nije da bude tragičar",
       "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalska-nepravda-u-poslednjoj-sekundi-radnicki-zasluzio-da-pobedi-zivkovic-nije-da-bude-tragicar/550496",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/letos-i-zimus-odbijali-po-20000000-evra-sada-ga-prodali-ajntrahtu-za-9000000/550491",
       "izvor": "Мозарт Спорт",
       "datum": "2. 08. 2026. у 23:07",
-      "slika": null
-    },
-    {
-      "naslov": "Najbrži crveni karton u istoriji i debakl PSV-a na otvaranju nove sezone (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najbrzi-crveni-karton-u-istoriji-i-debakl-psva-na-otvaranju-nove-sezone-video/550489",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 08. 2026. у 22:24",
       "slika": null
     },
     {
