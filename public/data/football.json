@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-02T20:29:39.986877+00:00",
-  "azurirano_sr": "2. 08. 2026. у 22:29",
+  "azurirano": "2026-08-02T21:25:01.999444+00:00",
+  "azurirano_sr": "2. 08. 2026. у 23:25",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Radnički u Zemunu stigao do prvih bodova",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255564/izjava-zorana-popovica-nakon-trijumfa-nad-partizanom/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 08. 2026. у 22:32",
+      "slika": null
+    },
+    {
       "naslov": "&quot;Ko pobedi veliki Partizan, kako da bude nezadovoljan?&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255562/izjava-zorana-popovica-nakon-trijumfa-nad-partizanom/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "2. 08. 2026. у 22:18",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić posle poraza: &quot;Tako je – kako je&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255560/sasa-ilic-izjava-posle-poraza-od-imt/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 08. 2026. у 22:10",
       "slika": null
     }
   ]
