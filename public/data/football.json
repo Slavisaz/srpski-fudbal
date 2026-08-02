@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-02T12:39:23.867849+00:00",
-  "azurirano_sr": "2. 08. 2026. у 14:39",
+  "azurirano": "2026-08-02T14:11:58.663359+00:00",
+  "azurirano_sr": "2. 08. 2026. у 16:11",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (nedelja, 2. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-2-avgust/550437",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 08. 2026. у 17:57",
+      "slika": null
+    },
     {
       "naslov": "Papšun stao u odbranu Rajovića",
       "url": "https://www.mozzartsport.com/fudbal/vesti/papsun-stao-u-odbranu-rajovica/550452",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (nedelja, 2. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-2-avgust/550437",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 08. 2026. у 11:04",
+      "naslov": "FK Crvena zvezda: U prodaji karte za utakmice protiv Novog Pazara i Hapoela Ber Ševe",
+      "url": "https://www.tanjug.rs/sport/fudbal/270550/fk-crvena-zvezda-u-prodaji-karte-za-utakmice-protiv-novog-pazara-i-hapoela-ber-seve/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 08. 2026. у 15:35",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/270471/levandovski-doneo-pobedu-cikagu-protiv-sarlota-u-mls-ligi/vest",
       "izvor": "Танјуг",
       "datum": "2. 08. 2026. у 10:20",
-      "slika": null
-    },
-    {
-      "naslov": "Ubedljiv trijumf OFK Beograda u Novom Pazaru, Čukarički nadigrao Kragujevčane",
-      "url": "https://www.tanjug.rs/sport/fudbal/270422/ubedljiv-trijumf-ofk-beograda-u-novom-pazaru-cukaricki-nadigrao-kragujevcane/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 08. 2026. у 22:24",
       "slika": null
     },
     {
