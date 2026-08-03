@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-08-03T13:23:50.991782+00:00",
-  "azurirano_sr": "3. 08. 2026. у 15:23",
+  "azurirano": "2026-08-03T15:58:45.440341+00:00",
+  "azurirano_sr": "3. 08. 2026. у 17:58",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Srbija uz Evropu – protiv Infantina: FSS povukao podršku predsedniku Fife",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-uz-evropu-protiv-infantina-fss-povukao-podrsku-predsedniku-fife/550548",
+      "naslov": "Apel za spas Partizana: Pričali da su pravo rešenje za klub, a sad hoće da beže kad je najteže",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/apel-za-spas-partizana-pricali-da-su-pravo-resenje-za-klub-a-sad-hoce-da-beze-kad-je-najteze/550562",
       "izvor": "Мозарт Спорт",
-      "datum": "3. 08. 2026. у 15:59",
+      "datum": "3. 08. 2026. у 19:27",
       "slika": null
     },
     {
-      "naslov": "Buongiorno Italia: Ivan Ilić na transfer listi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-ivan-ilic-na-transfer-listi/550546",
+      "naslov": "Stanković poveo i Lukasena u Mađarsku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-poveo-i-lukasena-u-maarsku/550559",
       "izvor": "Мозарт Спорт",
-      "datum": "3. 08. 2026. у 15:52",
+      "datum": "3. 08. 2026. у 18:52",
       "slika": null
     },
     {
-      "naslov": "Giros, Groskrojc i Grk od 33.000.000: Dortmund spojio humor i tradiciju i predstavio budućnost kluba",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/giros-groskrojc-i-grk-od-33000000-dortmund-spojio-humor-i-tradiciju-i-predstavio-buducnost-kluba/550528",
+      "naslov": "Poziv iz Indonezije za Nemanju Radonjića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/poziv-iz-indonezije-za-nemanju-radonjica/550560",
       "izvor": "Мозарт Спорт",
-      "datum": "3. 08. 2026. у 14:55",
+      "datum": "3. 08. 2026. у 18:44",
       "slika": null
     },
     {
-      "naslov": "Ode jedini Mađar iz TSC-a, obeštećenje oko 250.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ode-jedini-maar-iz-tsca-obestecenje-oko-250000-evra/550524",
+      "naslov": "TRANSFERI UŽIVO (ponedeljak, 3. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-3-avgust/550514",
       "izvor": "Мозарт Спорт",
-      "datum": "3. 08. 2026. у 12:59",
+      "datum": "3. 08. 2026. у 17:19",
+      "slika": null
+    },
+    {
+      "naslov": "Maurisio Poketino ostaje selektor fudbalske reprezentacije SAD do 2030. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/270840/maurisio-poketino-ostaje-selektor-fudbalske-reprezentacije-sad-do-2030-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 08. 2026. у 16:56",
+      "slika": null
+    },
+    {
+      "naslov": "Dejan Stanković poveo 25 fudbalera na meč protiv Hapoel Ber Ševe u kvalifikacijama za Ligu šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/270823/dejan-stankovic-poveo-25-fudbalera-na-mec-protiv-hapoel-ber-seve-u-kvalifikacijama-za-ligu-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 08. 2026. у 16:10",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbalski savez Srbije povukao podršku Đaniju Infantinu za novi mandat na čelu FIFA",
-      "url": "https://www.tanjug.rs/sport/fudbal/270758/fudbalski-savez-srbije-povukao-podrsku-daniju-infantinu-za-novi-mandat-na-celu-fifa/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 08. 2026. у 13:40",
-      "slika": null
-    },
-    {
-      "naslov": "Viktorija Plzenj potencijalni rival fudbalerima Crvene zvezde u plej-ofu za Ligu Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/270747/viktorija-plzenj-potencijalni-rival-fudbalerima-crvene-zvezde-u-plej-ofu-za-ligu-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 08. 2026. у 13:18",
+      "naslov": "IMT-ov virtuoz posle pobede u Humskoj: &quot;Nisam se previše obazirao na priče o Partizanu&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255792/dusan-zagar-za-b92sport-posle-partizan-imt-intervju/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 08. 2026. у 17:35",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255730/partija-ofk-beograda-protiv-novog-pazara/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "3. 08. 2026. у 14:30",
-      "slika": null
-    },
-    {
-      "naslov": "FSS povukao podršku Infantinu!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255715/fss-povukao-podrsku-infantinu-za-novi-predsednicki-mandat-u-fifa/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 08. 2026. у 13:41",
       "slika": null
     }
   ]
