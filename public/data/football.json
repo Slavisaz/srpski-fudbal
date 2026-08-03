@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-03T20:38:03.477549+00:00",
-  "azurirano_sr": "3. 08. 2026. у 22:38",
+  "azurirano": "2026-08-03T21:45:37.096431+00:00",
+  "azurirano_sr": "3. 08. 2026. у 23:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (ponedeljak, 3. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-ponedeljak-3-avgust/550514",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 08. 2026. у 00:29",
+      "slika": null
+    },
     {
       "naslov": "Adžić u Sasuolu: Juve i dalje drži sve u svojim rukama",
       "url": "https://www.mozzartsport.com/fudbal/vesti/adzic-u-sasuolu-juve-i-dalje-drzi-sve-u-svojim-rukama/550447",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Poziv iz Indonezije za Nemanju Radonjića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/poziv-iz-indonezije-za-nemanju-radonjica/550560",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 08. 2026. у 18:44",
+      "naslov": "Remi u Pančevu, fudbaleri Železničara i Mladosti iz Lučana odigrali bez golova",
+      "url": "https://www.tanjug.rs/sport/fudbal/270919/remi-u-pancevu-fudbaleri-zeleznicara-i-mladosti-iz-lucana-odigrali-bez-golova/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 08. 2026. у 23:01",
+      "slika": null
+    },
+    {
+      "naslov": "Španski fudbaler Gonzalo Garsija potpisao ugovor sa Fulamom",
+      "url": "https://www.tanjug.rs/sport/fudbal/270918/spanski-fudbaler-gonzalo-garsija-potpisao-ugovor-sa-fulamom/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 08. 2026. у 22:51",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Vojvodine savladali Mačvu u trećem kolu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/270901/fudbaleri-vojvodine-savladali-macvu-u-trecem-kolu-superlige-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 08. 2026. у 21:02",
-      "slika": null
-    },
-    {
-      "naslov": "Edin Džeko produžio ugovor sa Šalkeom",
-      "url": "https://www.tanjug.rs/sport/fudbal/270897/edin-dzeko-produzio-ugovor-sa-salkeom/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 08. 2026. у 20:47",
+      "naslov": "Stamenković začarao mrežu u Pančevu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255880/zeleznicar-pancevo-mladost-lucani-izvestaj-3-kola-superlige-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 08. 2026. у 22:55",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255861/macva-nije-ajaks-vojvodina-lako-sa-autsajderom/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "3. 08. 2026. у 20:59",
-      "slika": null
-    },
-    {
-      "naslov": "Baba pred Partizanom!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255850/idrisu-baba-iz-almerije-pred-potpisom-za-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 08. 2026. у 20:12",
       "slika": null
     }
   ]
