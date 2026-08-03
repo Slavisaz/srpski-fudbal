@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-08-03T10:28:25.729976+00:00",
-  "azurirano_sr": "3. 08. 2026. у 12:28",
+  "azurirano": "2026-08-03T13:23:50.991782+00:00",
+  "azurirano_sr": "3. 08. 2026. у 15:23",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbija uz Evropu – protiv Infantina: FSS povukao podršku predsedniku Fife",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-uz-evropu-protiv-infantina-fss-povukao-podrsku-predsedniku-fife/550548",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 08. 2026. у 15:59",
+      "slika": null
+    },
+    {
+      "naslov": "Buongiorno Italia: Ivan Ilić na transfer listi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-ivan-ilic-na-transfer-listi/550546",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 08. 2026. у 15:52",
+      "slika": null
+    },
+    {
+      "naslov": "Giros, Groskrojc i Grk od 33.000.000: Dortmund spojio humor i tradiciju i predstavio budućnost kluba",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/giros-groskrojc-i-grk-od-33000000-dortmund-spojio-humor-i-tradiciju-i-predstavio-buducnost-kluba/550528",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 08. 2026. у 14:55",
+      "slika": null
+    },
     {
       "naslov": "Ode jedini Mađar iz TSC-a, obeštećenje oko 250.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ode-jedini-maar-iz-tsca-obestecenje-oko-250000-evra/550524",
@@ -11,66 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Budi pravi Džordži kao Srniček: Najskuplji golman prelaznog roka i kičma rekonstruisanog Njukasla",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/budi-pravi-dzordzi-kao-srnicek-najskuplji-golman-prelaznog-roka-i-kicma-rekonstruisanog-njukasla/550523",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 08. 2026. у 12:47",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (ponedeljak, 3. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-3-avgust/550514",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 08. 2026. у 11:10",
-      "slika": null
-    },
-    {
-      "naslov": "NAJAVA DANA (ponedeljak, 3. avgust): Fali liga petica, ali zato imamo dva zanimljiva duela u Mozzart Bet Superligi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-ponedeljak-3-avgust-fali-liga-petica-ali-zato-imamo-dva-zanimljiva-duela-u-mozzart-bet-superligi/550509",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 08. 2026. у 10:12",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalski savez Velsa prvi koji je zvanično povukao podršku za reizbor Infantina",
-      "url": "https://www.tanjug.rs/sport/fudbal/270681/fudbalski-savez-velsa-prvi-koji-je-zvanicno-povukao-podrsku-za-reizbor-infantina/vest",
+      "naslov": "Fudbaleri Borca iz Banjaluke, ako prođu Vitebsk, protiv Tuna ili Vikingura za Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/270785/fudbaleri-borca-iz-banjaluke-ako-produ-vitebsk-protiv-tuna-ili-vikingura-za-ligu-konferencije/vest",
       "izvor": "Танјуг",
-      "datum": "3. 08. 2026. у 11:06",
+      "datum": "3. 08. 2026. у 14:43",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Partizana danas dobijaju potencijalnog rivala u 4. kolu kvalifikacija za Ligu konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/270653/fudbaleri-partizana-danas-dobijaju-potencijalnog-rivala-u-4-kolu-kvalifikacija-za-ligu-konferencije/vest",
+      "naslov": "Fudbaleri Partizana, ako prođu Tobol, protiv Hetafea u plej-ofu za Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/270781/fudbaleri-partizana-ako-produ-tobol-protiv-hetafea-u-plej-ofu-za-ligu-konferencije/vest",
       "izvor": "Танјуг",
-      "datum": "3. 08. 2026. у 09:43",
+      "datum": "3. 08. 2026. у 14:33",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Crvene zvezde danas saznaju potencijalnog protivnika u plej-ofu za Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/270648/fudbaleri-crvene-zvezde-danas-saznaju-potencijalnog-protivnika-u-plej-ofu-za-ligu-sampiona/vest",
+      "naslov": "Fudbalski savez Srbije povukao podršku Đaniju Infantinu za novi mandat na čelu FIFA",
+      "url": "https://www.tanjug.rs/sport/fudbal/270758/fudbalski-savez-srbije-povukao-podrsku-daniju-infantinu-za-novi-mandat-na-celu-fifa/vest",
       "izvor": "Танјуг",
-      "datum": "3. 08. 2026. у 09:32",
+      "datum": "3. 08. 2026. у 13:40",
       "slika": null
     },
     {
-      "naslov": "Saša Ilić posle poraza od IMT-a: Tako je, kako je",
-      "url": "https://www.tanjug.rs/sport/fudbal/270611/sasa-ilic-posle-poraza-od-imt-a-tako-je-kako-je/vest",
+      "naslov": "Viktorija Plzenj potencijalni rival fudbalerima Crvene zvezde u plej-ofu za Ligu Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/270747/viktorija-plzenj-potencijalni-rival-fudbalerima-crvene-zvezde-u-plej-ofu-za-ligu-evrope/vest",
       "izvor": "Танјуг",
-      "datum": "2. 08. 2026. у 22:19",
+      "datum": "3. 08. 2026. у 13:18",
       "slika": null
     },
     {
-      "naslov": "Uprava Partizana: &quot;Podnosimo ostavku ako se ne plasiramo u LK&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255676/uprava-partizana-najavila-ostavke-ako-klub-ne-izbori-ligu-konferencije/vest",
+      "naslov": "Odjeci pokera &quot;romantičara&quot; – Silue nezadrživ, Penja drži sve konce VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255730/partija-ofk-beograda-protiv-novog-pazara/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "3. 08. 2026. у 12:03",
+      "datum": "3. 08. 2026. у 14:30",
       "slika": null
     },
     {
-      "naslov": "Najgori Partizan ikad?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255648/analiza-partizana-zasto-crno-beli-ne-lice-na-tim-koji-zeli-titulu/vest",
+      "naslov": "FSS povukao podršku Infantinu!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255715/fss-povukao-podrsku-infantinu-za-novi-predsednicki-mandat-u-fifa/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "3. 08. 2026. у 10:42",
+      "datum": "3. 08. 2026. у 13:41",
       "slika": null
     }
   ]
