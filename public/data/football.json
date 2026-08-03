@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-03T17:49:19.500927+00:00",
-  "azurirano_sr": "3. 08. 2026. у 19:49",
+  "azurirano": "2026-08-03T19:11:06.812312+00:00",
+  "azurirano_sr": "3. 08. 2026. у 21:11",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -39,6 +39,13 @@
       "slika": null
     },
     {
+      "naslov": "Duško Todorović: UFC spektakl u Beogradu je istorijski događaj koji će promeniti MMA scenu u celom regionu",
+      "url": "https://www.tanjug.rs/sport/fudbal/270883/dusko-todorovic-ufc-spektakl-u-beogradu-je-istorijski-dogadaj-koji-ce-promeniti-mma-scenu-u-celom-regionu/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 08. 2026. у 19:12",
+      "slika": null
+    },
+    {
       "naslov": "Engleski fudbaler Džordan Henderson potpisao dvogodišnji ugovor sa Čelsijem",
       "url": "https://www.tanjug.rs/sport/fudbal/270866/engleski-fudbaler-dzordan-henderson-potpisao-dvogodisnji-ugovor-sa-celsijem/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Dejan Stanković poveo 25 fudbalera na meč protiv Hapoel Ber Ševe u kvalifikacijama za Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/270823/dejan-stankovic-poveo-25-fudbalera-na-mec-protiv-hapoel-ber-seve-u-kvalifikacijama-za-ligu-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 08. 2026. у 16:10",
+      "naslov": "Mačva nije Ajaks – Vojvodina lako sa autsajderom",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255861/macva-nije-ajaks-vojvodina-lako-sa-autsajderom/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 08. 2026. у 20:59",
       "slika": null
     },
     {
-      "naslov": "Zvezda traži rešenje za Ovusua: Hapoel ga želi, ali problem su milioni",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255832/daglas-ovusu-na-meti-hapoela-ali-crvena-zvezda-ima-problem-sa-obestecenjem/vest",
+      "naslov": "Baba pred Partizanom!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255850/idrisu-baba-iz-almerije-pred-potpisom-za-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "3. 08. 2026. у 18:50",
-      "slika": null
-    },
-    {
-      "naslov": "Apel za spas Partizana: &quot;Uprava hoće da beži kad je najteže&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255818/apel-za-spas-partizana-izdao-novo-saopstenje/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 08. 2026. у 18:15",
+      "datum": "3. 08. 2026. у 20:12",
       "slika": null
     }
   ]
