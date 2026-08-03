@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-03T15:58:45.440341+00:00",
-  "azurirano_sr": "3. 08. 2026. у 17:58",
+  "azurirano": "2026-08-03T17:49:19.500927+00:00",
+  "azurirano_sr": "3. 08. 2026. у 19:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Adžić u Sasuolu: Juve i dalje drži sve u svojim rukama",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/adzic-u-sasuolu-juve-i-dalje-drzi-sve-u-svojim-rukama/550447",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 08. 2026. у 21:31",
+      "slika": null
+    },
     {
       "naslov": "Apel za spas Partizana: Pričali da su pravo rešenje za klub, a sad hoće da beže kad je najteže",
       "url": "https://www.mozzartsport.com/fudbal/vesti/apel-za-spas-partizana-pricali-da-su-pravo-resenje-za-klub-a-sad-hoce-da-beze-kad-je-najteze/550562",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (ponedeljak, 3. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-3-avgust/550514",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 08. 2026. у 17:19",
+      "naslov": "\"Apel za spas Partizana\" poručio rukovodstvu kluba: Odmah podnesite ostavke",
+      "url": "https://www.tanjug.rs/sport/fudbal/270886/apel-za-spas-partizana-porucio-rukovodstvu-kluba-odmah-podnesite-ostavke/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 08. 2026. у 19:28",
+      "slika": null
+    },
+    {
+      "naslov": "Engleski fudbaler Džordan Henderson potpisao dvogodišnji ugovor sa Čelsijem",
+      "url": "https://www.tanjug.rs/sport/fudbal/270866/engleski-fudbaler-dzordan-henderson-potpisao-dvogodisnji-ugovor-sa-celsijem/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 08. 2026. у 18:09",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Borca iz Banjaluke, ako prođu Vitebsk, protiv Tuna ili Vikingura za Ligu konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/270785/fudbaleri-borca-iz-banjaluke-ako-produ-vitebsk-protiv-tuna-ili-vikingura-za-ligu-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 08. 2026. у 14:43",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Partizana, ako prođu Tobol, protiv Hetafea u plej-ofu za Ligu konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/270781/fudbaleri-partizana-ako-produ-tobol-protiv-hetafea-u-plej-ofu-za-ligu-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 08. 2026. у 14:33",
-      "slika": null
-    },
-    {
-      "naslov": "IMT-ov virtuoz posle pobede u Humskoj: &quot;Nisam se previše obazirao na priče o Partizanu&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255792/dusan-zagar-za-b92sport-posle-partizan-imt-intervju/vest",
+      "naslov": "Zvezda traži rešenje za Ovusua: Hapoel ga želi, ali problem su milioni",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255832/daglas-ovusu-na-meti-hapoela-ali-crvena-zvezda-ima-problem-sa-obestecenjem/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "3. 08. 2026. у 17:35",
+      "datum": "3. 08. 2026. у 18:50",
       "slika": null
     },
     {
-      "naslov": "Odjeci pokera &quot;romantičara&quot; – Silue nezadrživ, Penja drži sve konce VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255730/partija-ofk-beograda-protiv-novog-pazara/vest",
+      "naslov": "Apel za spas Partizana: &quot;Uprava hoće da beži kad je najteže&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255818/apel-za-spas-partizana-izdao-novo-saopstenje/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "3. 08. 2026. у 14:30",
+      "datum": "3. 08. 2026. у 18:15",
       "slika": null
     }
   ]
