@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-04T11:48:58.647396+00:00",
-  "azurirano_sr": "4. 08. 2026. у 13:48",
+  "azurirano": "2026-08-04T13:26:05.690590+00:00",
+  "azurirano_sr": "4. 08. 2026. у 15:26",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Gatuzo se predomislio, Ratkov golovima kupio mesto na klupi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gatuzo-se-predomislio-ratkov-golovima-kupio-mesto-na-klupi/550632",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 08. 2026. у 16:52",
+      "slika": null
+    },
+    {
+      "naslov": "De Blekere počeo misiju u srpskom fudbalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/de-blekere-poceo-misiju-u-srpskom-fudbalu/550628",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 08. 2026. у 16:13",
+      "slika": null
+    },
     {
       "naslov": "Ode sve dođavola kad u Engleskoj petoligaš odbija ponudu od 1.200.000 evra za igrača",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ode-sve-doavola-kad-u-engleskoj-petoligas-odbija-ponudu-od-1200000-evra-za-igraca/550609",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (utorak, 4. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-4-avgust/550604",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 08. 2026. у 11:15",
+      "naslov": "Engleski golman Karl Rašvort potpisao ugovor sa Koventrijem",
+      "url": "https://www.tanjug.rs/sport/fudbal/271129/engleski-golman-karl-rasvort-potpisao-ugovor-sa-koventrijem/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 08. 2026. у 14:40",
       "slika": null
     },
     {
-      "naslov": "Ovusu na lekarskim pregledima, čeka ga plata 300.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ovusu-na-lekarskim-pregledima-ceka-ga-plata-300000-evra/550596",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 08. 2026. у 10:38",
+      "naslov": "Venger se ogradio od plana Infantina: Povlačenje projekta bilo je apsolutno neophodno",
+      "url": "https://www.tanjug.rs/sport/fudbal/271118/venger-se-ogradio-od-plana-infantina-povlacenje-projekta-bilo-je-apsolutno-neophodno/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 08. 2026. у 14:22",
+      "slika": null
+    },
+    {
+      "naslov": "Arsenal pregovara sa Njukaslom o angažovanju brazilskog fudbalera Bruna Gimaraeša",
+      "url": "https://www.tanjug.rs/sport/fudbal/271103/arsenal-pregovara-sa-njukaslom-o-angazovanju-brazilskog-fudbalera-bruna-gimaraesa/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 08. 2026. у 13:52",
       "slika": null
     },
     {
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Gruzijski fudbaler Saba Sazonov novo pojačanje Hetafea",
-      "url": "https://www.tanjug.rs/sport/fudbal/271069/gruzijski-fudbaler-saba-sazonov-novo-pojacanje-hetafea/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 08. 2026. у 12:40",
-      "slika": null
-    },
-    {
-      "naslov": "Američki fudbaler Đovani Rejna potpisao ugovor sa Strazburom",
-      "url": "https://www.tanjug.rs/sport/fudbal/271042/americki-fudbaler-dovani-rejna-potpisao-ugovor-sa-strazburom/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 08. 2026. у 11:49",
-      "slika": null
-    },
-    {
-      "naslov": "Norveški golman Erjan Niland novo pojačanje Lajpciga",
-      "url": "https://www.tanjug.rs/sport/fudbal/271012/norveski-golman-erjan-niland-novo-pojacanje-lajpciga/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 08. 2026. у 11:03",
+      "naslov": "Počela nova era srpskog suđenja",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256036/frank-de-bleker-zvanicno-poceo-rad-u-fudbalskom-savezu-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 08. 2026. у 14:28",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255966/nikola-cumic-na-pragu-partizana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 08. 2026. у 11:25",
-      "slika": null
-    },
-    {
-      "naslov": "Koković: &quot;Nisu birali sredstva, ali neke stvari u našoj ligi su dozvoljene&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255939/radomir-kokovic-izjava-posle-remija-sa-mladosti-iz-lucana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 08. 2026. у 10:10",
       "slika": null
     }
   ]
