@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-08-04T21:41:36.531148+00:00",
-  "azurirano_sr": "4. 08. 2026. у 23:41",
+  "azurirano": "2026-08-04T22:42:43.404699+00:00",
+  "azurirano_sr": "5. 08. 2026. у 00:42",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (utorak, 4. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-utorak-4-avgust/550604",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 08. 2026. у 01:54",
+      "slika": null
+    },
     {
       "naslov": "Stanković: Mislite da će fudbal da stane ako četvrti put ne uđem u Ligu šampiona?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-mislite-da-ce-fudbal-da-stane-ako-cetvrti-put-ne-uem-u-ligu-sampiona/550673",
       "izvor": "Мозарт Спорт",
       "datum": "5. 08. 2026. у 00:29",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (utorak, 4. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-4-avgust/550604",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 08. 2026. у 00:28",
       "slika": null
     },
     {
