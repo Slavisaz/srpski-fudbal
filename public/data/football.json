@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-08-04T15:43:38.160572+00:00",
-  "azurirano_sr": "4. 08. 2026. у 17:43",
+  "azurirano": "2026-08-04T17:20:00.251532+00:00",
+  "azurirano_sr": "4. 08. 2026. у 19:20",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (utorak, 4. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-4-avgust/550604",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 08. 2026. у 20:04",
+      "slika": null
+    },
+    {
+      "naslov": "Kad ne znaš šta ćeš, pozovi gospodina u beloj košulji: Diomande i Slonovi dobili novog selektora",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kad-ne-znas-sta-ces-pozovi-gospodina-u-beloj-kosulji-diomande-i-slonovi-dobili-novog-selektora/550647",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 08. 2026. у 19:53",
+      "slika": null
+    },
+    {
+      "naslov": "Blagojević u Rusiji 3/3 u porazima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/blagojevic-u-rusiji-33-u-porazima/550646",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 08. 2026. у 19:28",
+      "slika": null
+    },
     {
       "naslov": "Fudbalski nobles ispratio Franka Barezija na večni počinak",
       "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalski-nobles-ispratio-franka-barezija-na-vecni-pocinak/550639",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Salah rekao “da”! Imaće najveću platu u evropskom fudbalu!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/salah-rekao-da-imace-najvecu-platu-u-evropskom-fudbalu/550643",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 08. 2026. у 19:02",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (utorak, 4. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-4-avgust/550604",
-      "izvor": "Мозарт Спорт",
+      "naslov": "Zvezdin tim za Hapoel: Debituje Lukasen, Veljković na klupi",
+      "url": "https://www.tanjug.rs/sport/fudbal/271200/zvezdin-tim-za-hapoel-debituje-lukasen-veljkovic-na-klupi/vest",
+      "izvor": "Танјуг",
       "datum": "4. 08. 2026. у 18:21",
-      "slika": null
-    },
-    {
-      "naslov": "Strašan posao Brajtona! Za 26.000.000 evra prodao golmana bez ijednog nastupa za klub",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/strasan-posao-brajtona-za-26000000-evra-prodao-golmana-bez-ijednog-nastupa-za-klub/550633",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 08. 2026. у 17:03",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Engleski golman Karl Rašvort potpisao ugovor sa Koventrijem",
-      "url": "https://www.tanjug.rs/sport/fudbal/271129/engleski-golman-karl-rasvort-potpisao-ugovor-sa-koventrijem/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 08. 2026. у 14:40",
+      "naslov": "Partizan ne staje – stiže povratnik iz Francuske, biran za najboljeg u Superligi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256138/partizan-zeli-igora-miladinovica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 08. 2026. у 18:53",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256036/frank-de-bleker-zvanicno-poceo-rad-u-fudbalskom-savezu-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 08. 2026. у 14:28",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan našao novog napadača – stiže bivši kapiten Vojvodine i reprezentativac Srbije!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255966/nikola-cumic-na-pragu-partizana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 08. 2026. у 11:25",
       "slika": null
     }
   ]
