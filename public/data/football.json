@@ -1,34 +1,55 @@
 {
-  "azurirano": "2026-08-04T13:26:05.690590+00:00",
-  "azurirano_sr": "4. 08. 2026. у 15:26",
+  "azurirano": "2026-08-04T15:43:38.160572+00:00",
+  "azurirano_sr": "4. 08. 2026. у 17:43",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Gatuzo se predomislio, Ratkov golovima kupio mesto na klupi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gatuzo-se-predomislio-ratkov-golovima-kupio-mesto-na-klupi/550632",
+      "naslov": "Fudbalski nobles ispratio Franka Barezija na večni počinak",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalski-nobles-ispratio-franka-barezija-na-vecni-pocinak/550639",
       "izvor": "Мозарт Спорт",
-      "datum": "4. 08. 2026. у 16:52",
+      "datum": "4. 08. 2026. у 19:16",
       "slika": null
     },
     {
-      "naslov": "De Blekere počeo misiju u srpskom fudbalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/de-blekere-poceo-misiju-u-srpskom-fudbalu/550628",
+      "naslov": "Salah rekao “da”! Imaće najveću platu u evropskom fudbalu!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/salah-rekao-da-imace-najvecu-platu-u-evropskom-fudbalu/550643",
       "izvor": "Мозарт Спорт",
-      "datum": "4. 08. 2026. у 16:13",
+      "datum": "4. 08. 2026. у 19:02",
       "slika": null
     },
     {
-      "naslov": "Ode sve dođavola kad u Engleskoj petoligaš odbija ponudu od 1.200.000 evra za igrača",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ode-sve-doavola-kad-u-engleskoj-petoligas-odbija-ponudu-od-1200000-evra-za-igraca/550609",
+      "naslov": "TRANSFERI UŽIVO (utorak, 4. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-4-avgust/550604",
       "izvor": "Мозарт Спорт",
-      "datum": "4. 08. 2026. у 11:56",
+      "datum": "4. 08. 2026. у 18:21",
       "slika": null
     },
     {
-      "naslov": "Najbolji igrač 3. kola Mozzart Bet Superlige: Subota kad je blistao Uroš",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najbolji-igrac-3-kola-mozzart-bet-superlige-subota-kad-je-blistao-uros/550603",
+      "naslov": "Strašan posao Brajtona! Za 26.000.000 evra prodao golmana bez ijednog nastupa za klub",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/strasan-posao-brajtona-za-26000000-evra-prodao-golmana-bez-ijednog-nastupa-za-klub/550633",
       "izvor": "Мозарт Спорт",
-      "datum": "4. 08. 2026. у 11:33",
+      "datum": "4. 08. 2026. у 17:03",
+      "slika": null
+    },
+    {
+      "naslov": "Džesi Bisivu novi fudbaler Barselone",
+      "url": "https://www.tanjug.rs/sport/fudbal/271153/dzesi-bisivu-novi-fudbaler-barselone/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 08. 2026. у 15:43",
+      "slika": null
+    },
+    {
+      "naslov": "De Bleker zvanično počeo rad u FSS, radni sastanak sa generalnim sekretarom Radujkom",
+      "url": "https://www.tanjug.rs/sport/fudbal/271146/de-bleker-zvanicno-poceo-rad-u-fss-radni-sastanak-sa-generalnim-sekretarom-radujkom/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 08. 2026. у 15:20",
+      "slika": null
+    },
+    {
+      "naslov": "Van Gal nije isključio mogućnost da ponovo bude selektor fudbalera Holandije",
+      "url": "https://www.tanjug.rs/sport/fudbal/271140/van-gal-nije-iskljucio-mogucnost-da-ponovo-bude-selektor-fudbalera-holandije/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 08. 2026. у 15:09",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/271129/engleski-golman-karl-rasvort-potpisao-ugovor-sa-koventrijem/vest",
       "izvor": "Танјуг",
       "datum": "4. 08. 2026. у 14:40",
-      "slika": null
-    },
-    {
-      "naslov": "Venger se ogradio od plana Infantina: Povlačenje projekta bilo je apsolutno neophodno",
-      "url": "https://www.tanjug.rs/sport/fudbal/271118/venger-se-ogradio-od-plana-infantina-povlacenje-projekta-bilo-je-apsolutno-neophodno/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 08. 2026. у 14:22",
-      "slika": null
-    },
-    {
-      "naslov": "Arsenal pregovara sa Njukaslom o angažovanju brazilskog fudbalera Bruna Gimaraeša",
-      "url": "https://www.tanjug.rs/sport/fudbal/271103/arsenal-pregovara-sa-njukaslom-o-angazovanju-brazilskog-fudbalera-bruna-gimaraesa/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 08. 2026. у 13:52",
-      "slika": null
-    },
-    {
-      "naslov": "Macut na čelu Organizacionog odbora za Evropsko prvenstvo 2027. za mlađe od 21 godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/271082/macut-na-celu-organizacionog-odbora-za-evropsko-prvenstvo-2027-za-mlade-od-21-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 08. 2026. у 13:02",
       "slika": null
     },
     {
