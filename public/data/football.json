@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-04T04:25:48.859379+00:00",
-  "azurirano_sr": "4. 08. 2026. у 06:25",
+  "azurirano": "2026-08-04T07:06:27.718111+00:00",
+  "azurirano_sr": "4. 08. 2026. у 09:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ovusu na lekarskim pregledima, čeka ga plata 300.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ovusu-na-lekarskim-pregledima-ceka-ga-plata-300000-evra/550596",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 08. 2026. у 10:38",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (ponedeljak, 3. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-ponedeljak-3-avgust/550514",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/apel-za-spas-partizana-pricali-da-su-pravo-resenje-za-klub-a-sad-hoce-da-beze-kad-je-najteze/550562",
       "izvor": "Мозарт Спорт",
       "datum": "3. 08. 2026. у 19:27",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković poveo i Lukasena u Mađarsku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-poveo-i-lukasena-u-maarsku/550559",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 08. 2026. у 18:52",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Trener Vojvodine: &quot;Ne treba mi Mbape&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255903/izjava-trenera-vojvodine-marka-savica-posle-meca-protiv-macve-u-superligi-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 08. 2026. у 08:16",
+      "slika": null
+    },
+    {
       "naslov": "Stamenković začarao mrežu u Pančevu",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255880/zeleznicar-pancevo-mladost-lucani-izvestaj-3-kola-superlige-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "3. 08. 2026. у 22:55",
-      "slika": null
-    },
-    {
-      "naslov": "Mačva nije Ajaks – Vojvodina lako sa autsajderom",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255861/macva-nije-ajaks-vojvodina-lako-sa-autsajderom/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 08. 2026. у 20:59",
       "slika": null
     }
   ]
