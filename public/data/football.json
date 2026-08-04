@@ -1,13 +1,27 @@
 {
-  "azurirano": "2026-08-04T20:21:26.725314+00:00",
-  "azurirano_sr": "4. 08. 2026. у 22:21",
+  "azurirano": "2026-08-04T21:41:36.531148+00:00",
+  "azurirano_sr": "4. 08. 2026. у 23:41",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Stanković: Mislite da će fudbal da stane ako četvrti put ne uđem u Ligu šampiona?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-mislite-da-ce-fudbal-da-stane-ako-cetvrti-put-ne-uem-u-ligu-sampiona/550673",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 08. 2026. у 00:29",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (utorak, 4. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-4-avgust/550604",
       "izvor": "Мозарт Спорт",
-      "datum": "4. 08. 2026. у 20:04",
+      "datum": "5. 08. 2026. у 00:28",
+      "slika": null
+    },
+    {
+      "naslov": "Festival fudbala! Greh je što neko od ova dva tima neće u Ligu šampiona…",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/festival-fudbala-greh-je-sto-neko-od-ova-dva-tima-nece-u-ligu-sampiona/550672",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 08. 2026. у 00:14",
       "slika": null
     },
     {
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Blagojević u Rusiji 3/3 u porazima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/blagojevic-u-rusiji-33-u-porazima/550646",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 08. 2026. у 19:28",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalski nobles ispratio Franka Barezija na večni počinak",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalski-nobles-ispratio-franka-barezija-na-vecni-pocinak/550639",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 08. 2026. у 19:16",
+      "naslov": "Stanković: Morali smo dosta bolje, potrebna nam je agresivnost i vera u revanšu",
+      "url": "https://www.tanjug.rs/sport/fudbal/271238/stankovic-morali-smo-dosta-bolje-potrebna-nam-je-agresivnost-i-vera-u-revansu/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 08. 2026. у 22:29",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/271153/dzesi-bisivu-novi-fudbaler-barselone/vest",
       "izvor": "Танјуг",
       "datum": "4. 08. 2026. у 15:43",
-      "slika": null
-    },
-    {
-      "naslov": "De Bleker zvanično počeo rad u FSS, radni sastanak sa generalnim sekretarom Radujkom",
-      "url": "https://www.tanjug.rs/sport/fudbal/271146/de-bleker-zvanicno-poceo-rad-u-fss-radni-sastanak-sa-generalnim-sekretarom-radujkom/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 08. 2026. у 15:20",
       "slika": null
     },
     {
