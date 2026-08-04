@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-04T18:57:45.399598+00:00",
-  "azurirano_sr": "4. 08. 2026. у 20:57",
+  "azurirano": "2026-08-04T20:21:26.725314+00:00",
+  "azurirano_sr": "4. 08. 2026. у 22:21",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Poraz fudbalera Crvene zvezde od Hapoela u Mađarskoj, odluka u Beogradu",
+      "url": "https://www.tanjug.rs/sport/fudbal/271225/poraz-fudbalera-crvene-zvezde-od-hapoela-u-madarskoj-odluka-u-beogradu/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 08. 2026. у 21:30",
+      "slika": null
+    },
+    {
       "naslov": "Zvezdin tim za Hapoel: Debituje Lukasen, Veljković na klupi",
       "url": "https://www.tanjug.rs/sport/fudbal/271200/zvezdin-tim-za-hapoel-debituje-lukasen-veljkovic-na-klupi/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Van Gal nije isključio mogućnost da ponovo bude selektor fudbalera Holandije",
-      "url": "https://www.tanjug.rs/sport/fudbal/271140/van-gal-nije-iskljucio-mogucnost-da-ponovo-bude-selektor-fudbalera-holandije/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 08. 2026. у 15:09",
+      "naslov": "Radnički se oglasio zbog Partizana: &quot;Moraju da važe suspenzije za igrače&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256095/radnicki-nis-poslao-dopis-zbog-odlozene-utakmice-sa-fk-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 08. 2026. у 21:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256138/partizan-zeli-igora-miladinovica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 08. 2026. у 18:53",
-      "slika": null
-    },
-    {
-      "naslov": "Počela nova era srpskog suđenja",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256036/frank-de-bleker-zvanicno-poceo-rad-u-fudbalskom-savezu-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 08. 2026. у 14:28",
       "slika": null
     }
   ]
