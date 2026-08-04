@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-08-04T07:06:27.718111+00:00",
-  "azurirano_sr": "4. 08. 2026. у 09:06",
+  "azurirano": "2026-08-04T09:45:13.811240+00:00",
+  "azurirano_sr": "4. 08. 2026. у 11:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ode sve dođavola kad u Engleskoj petoligaš odbija ponudu od 1.200.000 evra za igrača",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ode-sve-doavola-kad-u-engleskoj-petoligas-odbija-ponudu-od-1200000-evra-za-igraca/550609",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 08. 2026. у 11:56",
+      "slika": null
+    },
+    {
+      "naslov": "Najbolji igrač 3. kola Mozzart Bet Superlige: Subota kad je blistao Uroš",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najbolji-igrac-3-kola-mozzart-bet-superlige-subota-kad-je-blistao-uros/550603",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 08. 2026. у 11:33",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (utorak, 4. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-4-avgust/550604",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 08. 2026. у 11:15",
+      "slika": null
+    },
     {
       "naslov": "Ovusu na lekarskim pregledima, čeka ga plata 300.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ovusu-na-lekarskim-pregledima-ceka-ga-plata-300000-evra/550596",
@@ -11,66 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (ponedeljak, 3. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-ponedeljak-3-avgust/550514",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 08. 2026. у 00:29",
-      "slika": null
-    },
-    {
-      "naslov": "Adžić u Sasuolu: Juve i dalje drži sve u svojim rukama",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/adzic-u-sasuolu-juve-i-dalje-drzi-sve-u-svojim-rukama/550447",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 08. 2026. у 21:31",
-      "slika": null
-    },
-    {
-      "naslov": "Apel za spas Partizana: Pričali da su pravo rešenje za klub, a sad hoće da beže kad je najteže",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/apel-za-spas-partizana-pricali-da-su-pravo-resenje-za-klub-a-sad-hoce-da-beze-kad-je-najteze/550562",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 08. 2026. у 19:27",
-      "slika": null
-    },
-    {
-      "naslov": "Remi u Pančevu, fudbaleri Železničara i Mladosti iz Lučana odigrali bez golova",
-      "url": "https://www.tanjug.rs/sport/fudbal/270919/remi-u-pancevu-fudbaleri-zeleznicara-i-mladosti-iz-lucana-odigrali-bez-golova/vest",
+      "naslov": "Norveški golman Erjan Niland novo pojačanje Lajpciga",
+      "url": "https://www.tanjug.rs/sport/fudbal/271012/norveski-golman-erjan-niland-novo-pojacanje-lajpciga/vest",
       "izvor": "Танјуг",
-      "datum": "3. 08. 2026. у 23:01",
+      "datum": "4. 08. 2026. у 11:03",
       "slika": null
     },
     {
-      "naslov": "Španski fudbaler Gonzalo Garsija potpisao ugovor sa Fulamom",
-      "url": "https://www.tanjug.rs/sport/fudbal/270918/spanski-fudbaler-gonzalo-garsija-potpisao-ugovor-sa-fulamom/vest",
+      "naslov": "Golman Zelenortskih ostrva Vozinja zvanično prešao u Kolo-Kolo",
+      "url": "https://www.tanjug.rs/sport/fudbal/271004/golman-zelenortskih-ostrva-vozinja-zvanicno-presao-u-kolo-kolo/vest",
       "izvor": "Танјуг",
-      "datum": "3. 08. 2026. у 22:51",
+      "datum": "4. 08. 2026. у 10:46",
       "slika": null
     },
     {
-      "naslov": "Odložena utakmica između fudbalera Radničkog iz Niša i Partizana",
-      "url": "https://www.tanjug.rs/sport/fudbal/270908/odlozena-utakmica-izmedu-fudbalera-radnickog-iz-nisa-i-partizana/vest",
+      "naslov": "Golman Barselone Mark-Andre ter Štegen na pozajmici u Ajaksu",
+      "url": "https://www.tanjug.rs/sport/fudbal/270996/golman-barselone-mark-andre-ter-stegen-na-pozajmici-u-ajaksu/vest",
       "izvor": "Танјуг",
-      "datum": "3. 08. 2026. у 21:54",
+      "datum": "4. 08. 2026. у 10:24",
       "slika": null
     },
     {
-      "naslov": "Mađarski golman Peter Gulači potpisao dvogodišnji ugovor sa Viljarealom",
-      "url": "https://www.tanjug.rs/sport/fudbal/270904/madarski-golman-peter-gulaci-potpisao-dvogodisnji-ugovor-sa-viljarealom/vest",
+      "naslov": "Vladimir Petković nije više selektor fudbalske reprezentacije Alžira",
+      "url": "https://www.tanjug.rs/sport/fudbal/270960/vladimir-petkovic-nije-vise-selektor-fudbalske-reprezentacije-alzira/vest",
       "izvor": "Танјуг",
-      "datum": "3. 08. 2026. у 21:26",
+      "datum": "4. 08. 2026. у 09:09",
       "slika": null
     },
     {
-      "naslov": "Trener Vojvodine: &quot;Ne treba mi Mbape&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255903/izjava-trenera-vojvodine-marka-savica-posle-meca-protiv-macve-u-superligi-srbije/vest",
+      "naslov": "Partizan našao novog napadača – stiže bivši kapiten Vojvodine i reprezentativac Srbije!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255966/nikola-cumic-na-pragu-partizana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 08. 2026. у 08:16",
+      "datum": "4. 08. 2026. у 11:25",
       "slika": null
     },
     {
-      "naslov": "Stamenković začarao mrežu u Pančevu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255880/zeleznicar-pancevo-mladost-lucani-izvestaj-3-kola-superlige-srbije/vest",
+      "naslov": "Koković: &quot;Nisu birali sredstva, ali neke stvari u našoj ligi su dozvoljene&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/255939/radomir-kokovic-izjava-posle-remija-sa-mladosti-iz-lucana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "3. 08. 2026. у 22:55",
+      "datum": "4. 08. 2026. у 10:10",
       "slika": null
     }
   ]
