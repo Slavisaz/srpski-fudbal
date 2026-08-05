@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-05T15:27:16.534374+00:00",
-  "azurirano_sr": "5. 08. 2026. у 17:27",
+  "azurirano": "2026-08-05T16:59:06.970009+00:00",
+  "azurirano_sr": "5. 08. 2026. у 18:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Natho komentariše Zvezdu: Kupili su sve što je dostupno na tržištu, ako ispadnu biće potresa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/natho-komentarise-zvezdu-kupili-su-sve-sto-je-dostupno-na-trzistu-ako-ispadnu-bice-potresa/550716",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 08. 2026. у 20:08",
+      "slika": null
+    },
     {
       "naslov": "¡Inminente! Fudbalska aristokratija otvorila škrinju, najskuplji transfer u istoriji kluba",
       "url": "https://www.mozzartsport.com/fudbal/vesti/inminente-fudbalska-aristokratija-otvorila-skrinju-najskuplji-transfer-u-istoriji-kluba/550712",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Kad deluje da nije do para, znajte da je ipak do para: Salah očerupao Trabzon!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kad-deluje-da-nije-do-para-znajte-da-je-ipak-do-para-salah-ocerupao-trabzon/550690",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 08. 2026. у 12:58",
+      "naslov": "Fudbaler Crvene zvezde Daglas Ovusu potpisao ugovor sa Hapoelom iz Tel Aviva",
+      "url": "https://www.tanjug.rs/sport/fudbal/271485/fudbaler-crvene-zvezde-daglas-ovusu-potpisao-ugovor-sa-hapoelom-iz-tel-aviva/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 08. 2026. у 18:32",
+      "slika": null
+    },
+    {
+      "naslov": "Njukasl prihvatio ponudu Arsenala od 75 miliona funti za Gimaraeša",
+      "url": "https://www.tanjug.rs/sport/fudbal/271476/njukasl-prihvatio-ponudu-arsenala-od-75-miliona-funti-za-gimaraesa/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 08. 2026. у 17:39",
+      "slika": null
+    },
+    {
+      "naslov": "Košarkaški reprezentativac Angole Kevin Kokila prešao u Dubai, pa pozajmljen Virtusu",
+      "url": "https://www.tanjug.rs/sport/fudbal/271469/kosarkaski-reprezentativac-angole-kevin-kokila-presao-u-dubai-pa-pozajmljen-virtusu/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 08. 2026. у 16:52",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Predsednik Sudijske komisije Fudbalskog saveza Srbije De Bleker održao prvi radni sastanak sa arbitrima",
-      "url": "https://www.tanjug.rs/sport/fudbal/271427/predsednik-sudijske-komisije-fudbalskog-saveza-srbije-de-bleker-odrzao-prvi-radni-sastanak-sa-arbitrima/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 08. 2026. у 15:16",
-      "slika": null
-    },
-    {
-      "naslov": "Japanski fudbaler Daisue Jokota novi član škotskog Rendžersa",
-      "url": "https://www.tanjug.rs/sport/fudbal/271360/japanski-fudbaler-daisue-jokota-novi-clan-skotskog-rendzersa/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 08. 2026. у 12:49",
-      "slika": null
-    },
-    {
-      "naslov": "Simić: Ako budemo odigrali svoju igru protiv Tobola, možemo da se nadamo najboljem",
-      "url": "https://www.tanjug.rs/sport/fudbal/271353/simic-ako-budemo-odigrali-svoju-igru-protiv-tobola-mozemo-da-se-nadamo-najboljem/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 08. 2026. у 12:38",
-      "slika": null
-    },
-    {
-      "naslov": "De Bleker održao prvi radni sastanak sa sudijama: &quot;Stil ne nameravam da menjam u Srbiji&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256408/de-bleker-odrzao-prvi-radni-sastanak-sa-sudijama/vest",
+      "naslov": "Iz Grčke stiže direktor da gleda Ugrešića",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256350/panatinaikos-gleda-ognjena-ugresica/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 08. 2026. у 15:10",
+      "datum": "5. 08. 2026. у 18:03",
       "slika": null
     },
     {
-      "naslov": "Natho o Zvezdinom pojačanju: &quot;Rekli su mu da mi se ne javlja, da ga ne odgovorim&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256375/bibras-natho-o-abu-faniju-u-zvezdi-verovatno-su-mu-rekli-da-mi-se-ne-javlja/vest",
+      "naslov": "Gotovo: Na Marakanu stižu milioni!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256466/daglas-ovusu-napustio-crvenu-zvezdu-hapoel-platio-25-miliona-evra/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 08. 2026. у 14:11",
+      "datum": "5. 08. 2026. у 17:44",
       "slika": null
     }
   ]
