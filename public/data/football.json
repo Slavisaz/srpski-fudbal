@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-05T11:33:51.500062+00:00",
-  "azurirano_sr": "5. 08. 2026. у 13:33",
+  "azurirano": "2026-08-05T13:14:29.607362+00:00",
+  "azurirano_sr": "5. 08. 2026. у 15:14",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Golmani rekorderi osvajaju Premijer ligu: Olimpijakos zaradio 23.300.000!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/golmani-rekorderi-osvajaju-premijer-ligu-olimpijakos-zaradio-23300000/550702",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 08. 2026. у 15:31",
+      "slika": null
+    },
     {
       "naslov": "Kad deluje da nije do para, znajte da je ipak do para: Salah očerupao Trabzon!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kad-deluje-da-nije-do-para-znajte-da-je-ipak-do-para-salah-ocerupao-trabzon/550690",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/liga-sampiona-ili-novo-burno-leto-fener-jaci-za-edersona-kantea-i-spremnijeg-grinvuda/550688",
       "izvor": "Мозарт Спорт",
       "datum": "5. 08. 2026. у 12:22",
-      "slika": null
-    },
-    {
-      "naslov": "Simić - adut čuda iz Masazira: Top forma Beograđanina, zna kako je igrati u Ligi šampiona",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/simic-adut-cuda-iz-masazira-top-forma-beograanina-zna-kako-je-igrati-u-ligi-sampiona/550685",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 08. 2026. у 11:30",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Saša Ilić: &quot;Za mene je najbolja odigrana utakmica protiv IMT-a&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256355/sasa-ilic-utakmica-protiv-imt-a-je-najbolja-utakmica-partizana/vest",
+      "naslov": "De Bleker održao prvi radni sastanak sa sudijama: &quot;Stil ne nameravam da menjam u Srbiji&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256408/de-bleker-odrzao-prvi-radni-sastanak-sa-sudijama/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 08. 2026. у 13:12",
+      "datum": "5. 08. 2026. у 15:10",
       "slika": null
     },
     {
-      "naslov": "Nove loše vesti za Zvezdu iz Izraela",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256310/hapoel-tel-aviv-oprezan-sa-ovusom-transfer-jos-nije-ozvanicen-zbog-dodatnih-lekarskih-pregleda/vest",
+      "naslov": "Natho o Zvezdinom pojačanju: &quot;Rekli su mu da mi se ne javlja, da ga ne odgovorim&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256375/bibras-natho-o-abu-faniju-u-zvezdi-verovatno-su-mu-rekli-da-mi-se-ne-javlja/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 08. 2026. у 11:48",
+      "datum": "5. 08. 2026. у 14:11",
       "slika": null
     }
   ]
