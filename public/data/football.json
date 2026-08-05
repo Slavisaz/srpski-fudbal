@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-05T09:24:45.373738+00:00",
-  "azurirano_sr": "5. 08. 2026. у 11:24",
+  "azurirano": "2026-08-05T11:33:51.500062+00:00",
+  "azurirano_sr": "5. 08. 2026. у 13:33",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Japanski fudbaler Daisue Jokota novi član škotskog Rendžersa",
+      "url": "https://www.tanjug.rs/sport/fudbal/271360/japanski-fudbaler-daisue-jokota-novi-clan-skotskog-rendzersa/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 08. 2026. у 12:49",
+      "slika": null
+    },
+    {
+      "naslov": "Simić: Ako budemo odigrali svoju igru protiv Tobola, možemo da se nadamo najboljem",
+      "url": "https://www.tanjug.rs/sport/fudbal/271353/simic-ako-budemo-odigrali-svoju-igru-protiv-tobola-mozemo-da-se-nadamo-najboljem/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 08. 2026. у 12:38",
+      "slika": null
+    },
+    {
+      "naslov": "Ilić: Nadam se velikoj podršci navijača, želimo da odigramo dobro i pobedimo",
+      "url": "https://www.tanjug.rs/sport/fudbal/271324/ilic-nadam-se-velikoj-podrsci-navijaca-zelimo-da-odigramo-dobro-i-pobedimo/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 08. 2026. у 11:42",
+      "slika": null
+    },
+    {
       "naslov": "Stanković: Morali smo dosta bolje, potrebna nam je agresivnost i vera u revanšu",
       "url": "https://www.tanjug.rs/sport/fudbal/271238/stankovic-morali-smo-dosta-bolje-potrebna-nam-je-agresivnost-i-vera-u-revansu/vest",
       "izvor": "Танјуг",
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Poraz fudbalera Crvene zvezde od Hapoela u Mađarskoj, odluka u Beogradu",
-      "url": "https://www.tanjug.rs/sport/fudbal/271225/poraz-fudbalera-crvene-zvezde-od-hapoela-u-madarskoj-odluka-u-beogradu/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 08. 2026. у 21:30",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezdin tim za Hapoel: Debituje Lukasen, Veljković na klupi",
-      "url": "https://www.tanjug.rs/sport/fudbal/271200/zvezdin-tim-za-hapoel-debituje-lukasen-veljkovic-na-klupi/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 08. 2026. у 18:21",
-      "slika": null
-    },
-    {
-      "naslov": "Džesi Bisivu novi fudbaler Barselone",
-      "url": "https://www.tanjug.rs/sport/fudbal/271153/dzesi-bisivu-novi-fudbaler-barselone/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 08. 2026. у 15:43",
-      "slika": null
-    },
-    {
-      "naslov": "Radnički se oglasio zbog Partizana: &quot;Moraju da važe suspenzije za igrače&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256095/radnicki-nis-poslao-dopis-zbog-odlozene-utakmice-sa-fk-partizan/vest",
+      "naslov": "Saša Ilić: &quot;Za mene je najbolja odigrana utakmica protiv IMT-a&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256355/sasa-ilic-utakmica-protiv-imt-a-je-najbolja-utakmica-partizana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 08. 2026. у 21:00",
+      "datum": "5. 08. 2026. у 13:12",
       "slika": null
     },
     {
-      "naslov": "Partizan ne staje – stiže povratnik iz Francuske, biran za najboljeg u Superligi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256138/partizan-zeli-igora-miladinovica/vest",
+      "naslov": "Nove loše vesti za Zvezdu iz Izraela",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256310/hapoel-tel-aviv-oprezan-sa-ovusom-transfer-jos-nije-ozvanicen-zbog-dodatnih-lekarskih-pregleda/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 08. 2026. у 18:53",
+      "datum": "5. 08. 2026. у 11:48",
       "slika": null
     }
   ]
