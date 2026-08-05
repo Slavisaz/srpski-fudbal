@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-05T19:58:58.861550+00:00",
-  "azurirano_sr": "5. 08. 2026. у 21:58",
+  "azurirano": "2026-08-05T21:06:10.672571+00:00",
+  "azurirano_sr": "5. 08. 2026. у 23:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (sreda, 5. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-5-avgust/550684",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 08. 2026. у 23:57",
+      "slika": null
+    },
     {
       "naslov": "Zvezdino najskuplje domaće pojačanje otišlo posle šest i po meseci: Ovusu stigao u \"originalni\" Hapoel",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdino-najskuplje-domace-pojacanje-otislo-posle-sest-i-po-meseci-ovusu-stigao-u-originalni-hapoel/550721",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "¡Inminente! Fudbalska aristokratija otvorila škrinju, najskuplji transfer u istoriji kluba",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/inminente-fudbalska-aristokratija-otvorila-skrinju-najskuplji-transfer-u-istoriji-kluba/550712",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 08. 2026. у 17:48",
+      "naslov": "Fudbaleri Fenerbahčea savladali Šturm u prvom meču trećeg kola kvalifikacija za Ligu šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/271517/fudbaleri-fenerbahcea-savladali-sturm-u-prvom-mecu-treceg-kola-kvalifikacija-za-ligu-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 08. 2026. у 22:27",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/271508/nemac-matijas-jajsle-novi-menadzer-njukasla/vest",
       "izvor": "Танјуг",
       "datum": "5. 08. 2026. у 20:39",
-      "slika": null
-    },
-    {
-      "naslov": "FK Crvena zvezda: Od petka na blagajnama ulaznice za mečeve protiv Novog Pazara i Hapoela Ber Ševe",
-      "url": "https://www.tanjug.rs/sport/fudbal/271494/fk-crvena-zvezda-od-petka-na-blagajnama-ulaznice-za-meceve-protiv-novog-pazara-i-hapoela-ber-seve/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 08. 2026. у 19:14",
       "slika": null
     },
     {
