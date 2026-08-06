@@ -1,13 +1,27 @@
 {
-  "azurirano": "2026-08-06T13:09:36.177489+00:00",
-  "azurirano_sr": "6. 08. 2026. у 15:09",
+  "azurirano": "2026-08-06T15:29:02.531507+00:00",
+  "azurirano_sr": "6. 08. 2026. у 17:29",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (četvrtak, 6. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-6-avgust/550751",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 08. 2026. у 16:41",
+      "datum": "6. 08. 2026. у 18:20",
+      "slika": null
+    },
+    {
+      "naslov": "Zvanično: Najskuplja kocka u istoriji Real Madrida?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-najskuplja-kocka-u-istoriji-real-madrida/550785",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 08. 2026. у 18:14",
+      "slika": null
+    },
+    {
+      "naslov": "Srbi traženi na istoku: Damjanović u Azerbejdžanu, Ratković u Belorusiji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbi-trazeni-na-istoku-damjanovic-u-azerbejdzanu-ratkovic-u-belorusiji/550781",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 08. 2026. у 17:51",
       "slika": null
     },
     {
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Trener Portsmuta posle Milovanovićevog debija: Moramo da pazimo da se ne slomi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/trener-portsmuta-posle-milovanovicevog-debija-moramo-da-pazimo-da-se-ne-slomi/550775",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 08. 2026. у 16:09",
-      "slika": null
-    },
-    {
-      "naslov": "Buongiorno Italia: Viškovi ometaju prelazni rok u Seriji A",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-viskovi-ometaju-prelazni-rok-u-seriji-a/550774",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 08. 2026. у 15:47",
+      "naslov": "Salah zvanično potpisao dvogodišnji ugovor sa Trabzonom",
+      "url": "https://www.tanjug.rs/sport/fudbal/271737/salah-zvanicno-potpisao-dvogodisnji-ugovor-sa-trabzonom/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 08. 2026. у 15:18",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Infantino dobio podršku Upravnog odbora FIFA-e, ostaje predsednik",
-      "url": "https://www.tanjug.rs/sport/fudbal/271617/infantino-dobio-podrsku-upravnog-odbora-fifa-e-ostaje-predsednik/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 08. 2026. у 10:48",
+      "naslov": "Vojvodina odbila Zvezdu za Sukačeva",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256774/vojvodina-odbila-zvezdu-za-petra-sukaceva/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "6. 08. 2026. у 16:09",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256733/oglasio-se-frank-de-bleker/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "6. 08. 2026. у 14:15",
-      "slika": null
-    },
-    {
-      "naslov": "Čeka se samo potpis u Humskoj – Baba se oprostio od Almerije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256710/idrisu-baba-se-oprostio-od-almerije-ceka-se-potpis-u-humskoj/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 08. 2026. у 14:05",
       "slika": null
     }
   ]
