@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-08-06T06:12:20.473172+00:00",
-  "azurirano_sr": "6. 08. 2026. у 08:12",
+  "azurirano": "2026-08-06T09:03:53.571206+00:00",
+  "azurirano_sr": "6. 08. 2026. у 11:03",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "TRANSFERI (sreda, 5. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-sreda-5-avgust/550684",
+      "naslov": "Cuckić iz Kazahstana: Partizanove šanse 50/50, ali Tobol prvo mora da preživi vrelu Humsku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cuckic-iz-kazahstana-partizanove-sanse-5050-ali-tobol-prvo-mora-da-prezivi-vrelu-humsku/550753",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 08. 2026. у 01:19",
+      "datum": "6. 08. 2026. у 11:54",
       "slika": null
     },
     {
-      "naslov": "Zvezdino najskuplje domaće pojačanje otišlo posle šest i po meseci: Ovusu stigao u \"originalni\" Hapoel",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdino-najskuplje-domace-pojacanje-otislo-posle-sest-i-po-meseci-ovusu-stigao-u-originalni-hapoel/550721",
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 6. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-6-avgust/550751",
       "izvor": "Мозарт Спорт",
-      "datum": "5. 08. 2026. у 21:40",
+      "datum": "6. 08. 2026. у 11:42",
       "slika": null
     },
     {
-      "naslov": "Najskuplji transferi ovog leta: Kako izgleda tim od 957.300.000 evra i kako rezerva od 99.000.000",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najskuplji-transferi-ovog-leta-kako-izgleda-tim-od-957300000-evra-i-kako-rezerva-od-99000000/550718",
+      "naslov": "I lekar Bajerna iz Minhena pomogao Ovusuovom transferu u Hapoel",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/i-lekar-bajerna-iz-minhena-pomogao-ovusuovom-transferu-u-hapoel/550750",
       "izvor": "Мозарт Спорт",
-      "datum": "5. 08. 2026. у 21:02",
+      "datum": "6. 08. 2026. у 11:14",
       "slika": null
     },
     {
-      "naslov": "Natho komentariše Zvezdu: Kupili su sve što je dostupno na tržištu, ako ispadnu biće potresa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/natho-komentarise-zvezdu-kupili-su-sve-sto-je-dostupno-na-trzistu-ako-ispadnu-bice-potresa/550716",
+      "naslov": "Kako je Dragojeviću propao transfer u Kopenhagen?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-je-dragojevicu-propao-transfer-u-kopenhagen/550746",
       "izvor": "Мозарт Спорт",
-      "datum": "5. 08. 2026. у 20:08",
+      "datum": "6. 08. 2026. у 11:01",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Partizana večeras dočekuju Tobol u kvalifikacijama za Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/271584/fudbaleri-partizana-veceras-docekuju-tobol-u-kvalifikacijama-za-ligu-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 08. 2026. у 09:41",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/271510/egipatski-fudbaler-mohamed-salah-doputovao-u-trabzon-sutra-potpisuje-ugovor/vest",
       "izvor": "Танјуг",
       "datum": "5. 08. 2026. у 21:04",
-      "slika": null
-    },
-    {
-      "naslov": "Nemac Matijas Jajsle novi menadžer Njukasla",
-      "url": "https://www.tanjug.rs/sport/fudbal/271508/nemac-matijas-jajsle-novi-menadzer-njukasla/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 08. 2026. у 20:39",
       "slika": null
     },
     {
