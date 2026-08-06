@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-08-06T09:03:53.571206+00:00",
-  "azurirano_sr": "6. 08. 2026. у 11:03",
+  "azurirano": "2026-08-06T11:29:18.525162+00:00",
+  "azurirano_sr": "6. 08. 2026. у 13:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 6. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-6-avgust/550751",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 08. 2026. у 13:11",
+      "slika": null
+    },
     {
       "naslov": "Cuckić iz Kazahstana: Partizanove šanse 50/50, ali Tobol prvo mora da preživi vrelu Humsku",
       "url": "https://www.mozzartsport.com/fudbal/vesti/cuckic-iz-kazahstana-partizanove-sanse-5050-ali-tobol-prvo-mora-da-prezivi-vrelu-humsku/550753",
       "izvor": "Мозарт Спорт",
       "datum": "6. 08. 2026. у 11:54",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (četvrtak, 6. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-6-avgust/550751",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 08. 2026. у 11:42",
       "slika": null
     },
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Marka: Lajpcig prihvatio Realovu ponudu za Jana Diomandea",
+      "url": "https://www.tanjug.rs/sport/fudbal/271671/marka-lajpcig-prihvatio-realovu-ponudu-za-jana-diomandea/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 08. 2026. у 12:33",
+      "slika": null
+    },
+    {
+      "naslov": "FK Partizan ponovo uputio apel navijačima: Pružite podršku igračima, nemojte štetiti",
+      "url": "https://www.tanjug.rs/sport/fudbal/271640/fk-partizan-ponovo-uputio-apel-navijacima-pruzite-podrsku-igracima-nemojte-stetiti/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 08. 2026. у 11:43",
+      "slika": null
+    },
+    {
+      "naslov": "Infantino dobio podršku Upravnog odbora FIFA-e, ostaje predsednik",
+      "url": "https://www.tanjug.rs/sport/fudbal/271617/infantino-dobio-podrsku-upravnog-odbora-fifa-e-ostaje-predsednik/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 08. 2026. у 10:48",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Partizana večeras dočekuju Tobol u kvalifikacijama za Ligu konferencije",
       "url": "https://www.tanjug.rs/sport/fudbal/271584/fudbaleri-partizana-veceras-docekuju-tobol-u-kvalifikacijama-za-ligu-konferencije/vest",
       "izvor": "Танјуг",
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Fenerbahčea savladali Šturm u prvom meču trećeg kola kvalifikacija za Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/271517/fudbaleri-fenerbahcea-savladali-sturm-u-prvom-mecu-treceg-kola-kvalifikacija-za-ligu-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 08. 2026. у 22:27",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Orhusa pobedili Sabah u prvom meču trećeg kola kvalifikacija za Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/271511/fudbaleri-orhusa-pobedili-sabah-u-prvom-mecu-treceg-kola-kvalifikacija-za-ligu-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 08. 2026. у 21:15",
-      "slika": null
-    },
-    {
-      "naslov": "Egipatski fudbaler Mohamed Salah doputovao u Trabzon, sutra potpisuje ugovor",
-      "url": "https://www.tanjug.rs/sport/fudbal/271510/egipatski-fudbaler-mohamed-salah-doputovao-u-trabzon-sutra-potpisuje-ugovor/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 08. 2026. у 21:04",
+      "naslov": "Partizan pred Tobol predstavio novi dres FOTO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256655/crno-beli-predstavili-trecu-garnituru-dresova/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "6. 08. 2026. у 11:44",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256350/panatinaikos-gleda-ognjena-ugresica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "5. 08. 2026. у 18:03",
-      "slika": null
-    },
-    {
-      "naslov": "Gotovo: Na Marakanu stižu milioni!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256466/daglas-ovusu-napustio-crvenu-zvezdu-hapoel-platio-25-miliona-evra/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "5. 08. 2026. у 17:44",
       "slika": null
     }
   ]
