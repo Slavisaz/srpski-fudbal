@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-08-06T11:29:18.525162+00:00",
-  "azurirano_sr": "6. 08. 2026. у 13:29",
+  "azurirano": "2026-08-06T13:09:36.177489+00:00",
+  "azurirano_sr": "6. 08. 2026. у 15:09",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (četvrtak, 6. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-6-avgust/550751",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 08. 2026. у 13:11",
+      "datum": "6. 08. 2026. у 16:41",
       "slika": null
     },
     {
-      "naslov": "Cuckić iz Kazahstana: Partizanove šanse 50/50, ali Tobol prvo mora da preživi vrelu Humsku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cuckic-iz-kazahstana-partizanove-sanse-5050-ali-tobol-prvo-mora-da-prezivi-vrelu-humsku/550753",
+      "naslov": "Transfer koji će zapaliti Rusiju: Spartak ne zarezuje navijače ni dva posto, Albancu skoro 13.000.000!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transfer-koji-ce-zapaliti-rusiju-spartak-ne-zarezuje-navijace-ni-dva-posto-albancu-skoro-13000000/550772",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 08. 2026. у 11:54",
+      "datum": "6. 08. 2026. у 16:25",
       "slika": null
     },
     {
-      "naslov": "I lekar Bajerna iz Minhena pomogao Ovusuovom transferu u Hapoel",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/i-lekar-bajerna-iz-minhena-pomogao-ovusuovom-transferu-u-hapoel/550750",
+      "naslov": "Trener Portsmuta posle Milovanovićevog debija: Moramo da pazimo da se ne slomi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/trener-portsmuta-posle-milovanovicevog-debija-moramo-da-pazimo-da-se-ne-slomi/550775",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 08. 2026. у 11:14",
+      "datum": "6. 08. 2026. у 16:09",
       "slika": null
     },
     {
-      "naslov": "Kako je Dragojeviću propao transfer u Kopenhagen?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-je-dragojevicu-propao-transfer-u-kopenhagen/550746",
+      "naslov": "Buongiorno Italia: Viškovi ometaju prelazni rok u Seriji A",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-viskovi-ometaju-prelazni-rok-u-seriji-a/550774",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 08. 2026. у 11:01",
+      "datum": "6. 08. 2026. у 15:47",
+      "slika": null
+    },
+    {
+      "naslov": "FK Crvena zvezda: Besplatan ulaz za \"Super zvezdaše\" i decu do 14 godina protiv Novog Pazara",
+      "url": "https://www.tanjug.rs/sport/fudbal/271694/fk-crvena-zvezda-besplatan-ulaz-za-super-zvezdase-i-decu-do-14-godina-protiv-novog-pazara/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 08. 2026. у 13:34",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Partizana večeras dočekuju Tobol u kvalifikacijama za Ligu konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/271584/fudbaleri-partizana-veceras-docekuju-tobol-u-kvalifikacijama-za-ligu-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 08. 2026. у 09:41",
+      "naslov": "Novi predsednik Sudijske komisije poručio klubovima: &quot;Jednak kriterijum za sve&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256733/oglasio-se-frank-de-bleker/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "6. 08. 2026. у 14:15",
       "slika": null
     },
     {
-      "naslov": "Partizan pred Tobol predstavio novi dres FOTO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256655/crno-beli-predstavili-trecu-garnituru-dresova/vest",
+      "naslov": "Čeka se samo potpis u Humskoj – Baba se oprostio od Almerije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256710/idrisu-baba-se-oprostio-od-almerije-ceka-se-potpis-u-humskoj/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "6. 08. 2026. у 11:44",
-      "slika": null
-    },
-    {
-      "naslov": "Iz Grčke stiže direktor da gleda Ugrešića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256350/panatinaikos-gleda-ognjena-ugresica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "5. 08. 2026. у 18:03",
+      "datum": "6. 08. 2026. у 14:05",
       "slika": null
     }
   ]
