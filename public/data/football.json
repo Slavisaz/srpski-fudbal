@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-07T10:29:36.116169+00:00",
-  "azurirano_sr": "7. 08. 2026. у 12:29",
+  "azurirano": "2026-08-07T11:21:55.949467+00:00",
+  "azurirano_sr": "7. 08. 2026. у 13:21",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (petak, 7. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-7-avgust/550838",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 08. 2026. у 14:57",
+      "slika": null
+    },
     {
       "naslov": "Voždovac doveo francuskog štopera",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vozdovac-doveo-francuskog-stopera/550850",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/krece-i-premijer-liga-bih-potera-za-banjalucanima/550840",
       "izvor": "Мозарт Спорт",
       "datum": "7. 08. 2026. у 11:45",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (petak, 7. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-7-avgust/550838",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 08. 2026. у 11:28",
       "slika": null
     },
     {
