@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-08-07T17:05:23.087448+00:00",
-  "azurirano_sr": "7. 08. 2026. у 19:05",
+  "azurirano": "2026-08-07T17:55:41.653557+00:00",
+  "azurirano_sr": "7. 08. 2026. у 19:55",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (petak, 7. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-7-avgust/550838",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 08. 2026. у 21:27",
+      "slika": null
+    },
     {
       "naslov": "Ode Baždar u Belgiju, među Japance koji znaju fudbala",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ode-bazdar-u-belgiju-meu-japance-koji-znaju-fudbala/550879",
       "izvor": "Мозарт Спорт",
       "datum": "7. 08. 2026. у 20:53",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (petak, 7. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-7-avgust/550838",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 08. 2026. у 20:35",
       "slika": null
     },
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbalski klub Barselona otkazao gostovanje u Maroku",
+      "url": "https://www.tanjug.rs/sport/fudbal/272074/fudbalski-klub-barselona-otkazao-gostovanje-u-maroku/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 08. 2026. у 18:58",
+      "slika": null
+    },
+    {
+      "naslov": "Samed Baždar novi fudbaler Sent Trudena",
+      "url": "https://www.tanjug.rs/sport/fudbal/272070/samed-bazdar-novi-fudbaler-sent-trudena/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 08. 2026. у 18:36",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaler Reala Franko Mastantuono do kraja sezone na pozajmici u Fiorentini",
       "url": "https://www.tanjug.rs/sport/fudbal/272058/fudbaler-reala-franko-mastantuono-do-kraja-sezone-na-pozajmici-u-fiorentini/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272044/mancester-siti-odbio-ponudu-barselone-od-45-miliona-evra-za-rodrija/vest",
       "izvor": "Танјуг",
       "datum": "7. 08. 2026. у 16:52",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalski savez Norveške zahteva smenu predsednika FIFA Đanija Infantina",
-      "url": "https://www.tanjug.rs/sport/fudbal/272007/fudbalski-savez-norveske-zahteva-smenu-predsednika-fifa-danija-infantina/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 08. 2026. у 15:09",
-      "slika": null
-    },
-    {
-      "naslov": "Baba: Spreman sam da pomognem klubu i da još više naučim o Partizanu",
-      "url": "https://www.tanjug.rs/sport/fudbal/271992/baba-spreman-sam-da-pomognem-klubu-i-da-jos-vise-naucim-o-partizanu/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 08. 2026. у 14:35",
       "slika": null
     },
     {
