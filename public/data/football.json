@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-07T14:26:40.711052+00:00",
-  "azurirano_sr": "7. 08. 2026. у 16:26",
+  "azurirano": "2026-08-07T15:22:08.954015+00:00",
+  "azurirano_sr": "7. 08. 2026. у 17:22",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (petak, 7. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-7-avgust/550838",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 08. 2026. у 18:19",
+      "slika": null
+    },
     {
       "naslov": "Srbi startuju u uvek ujednačenoj Cvajti: Mijatoviću uzdrman status, za razliku od Ivezića i Vukotića",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbi-startuju-u-uvek-ujednacenoj-cvajti-mijatovicu-uzdrman-status-za-razliku-od-ivezica-i-vukotica/550872",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/medojevic-opet-u-vojvodini-ovog-puta-u-ulozi-pomocnog-trenera/550859",
       "izvor": "Мозарт Спорт",
       "datum": "7. 08. 2026. у 15:55",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (petak, 7. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-7-avgust/550838",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 08. 2026. у 14:57",
       "slika": null
     },
     {
