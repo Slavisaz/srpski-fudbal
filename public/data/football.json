@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-07T21:43:51.100937+00:00",
-  "azurirano_sr": "7. 08. 2026. у 23:43",
+  "azurirano": "2026-08-07T22:17:45.754583+00:00",
+  "azurirano_sr": "8. 08. 2026. у 00:17",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (petak, 7. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-7-avgust/550838",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 08. 2026. у 01:45",
+      "slika": null
+    },
     {
       "naslov": "Propade bundesligaški transfer od 25.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/propade-bundesligaski-transfer-od-25000000-evra/550890",
@@ -15,13 +22,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/lukicev-transfer-donosi-partizanu-300000-evra/550888",
       "izvor": "Мозарт Спорт",
       "datum": "8. 08. 2026. у 00:11",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (petak, 7. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-7-avgust/550838",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 08. 2026. у 23:41",
       "slika": null
     },
     {
