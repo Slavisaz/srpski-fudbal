@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-07T15:22:08.954015+00:00",
-  "azurirano_sr": "7. 08. 2026. у 17:22",
+  "azurirano": "2026-08-07T16:11:59.901462+00:00",
+  "azurirano_sr": "7. 08. 2026. у 18:11",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Mančester siti odbio ponudu Barselone od 45 miliona evra za Rodrija",
+      "url": "https://www.tanjug.rs/sport/fudbal/272044/mancester-siti-odbio-ponudu-barselone-od-45-miliona-evra-za-rodrija/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 08. 2026. у 16:52",
+      "slika": null
+    },
+    {
       "naslov": "Fudbalski savez Norveške zahteva smenu predsednika FIFA Đanija Infantina",
       "url": "https://www.tanjug.rs/sport/fudbal/272007/fudbalski-savez-norveske-zahteva-smenu-predsednika-fifa-danija-infantina/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "De Bleker: Počastvovan sam što ću raditi u Fudbalskom savezu Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/271963/de-bleker-pocastvovan-sam-sto-cu-raditi-u-fudbalskom-savezu-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 08. 2026. у 13:12",
+      "naslov": "Olimpijakos zainteresovan za Tiknizjana – Zvezda ostaje bez levog beka?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257112/nair-tiknizjan-na-meti-olimpijakosa/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 08. 2026. у 17:27",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257075/partizanova-stvarnost-sek-ugresic-zubairu-trifunovic-svi-su-na-prodaju/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "7. 08. 2026. у 15:37",
-      "slika": null
-    },
-    {
-      "naslov": "Petrović: &quot;Igrači za pet minuta završe razgovor kada čuju platu u Partizanu&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257077/radosav-petrovic-o-platama-u-fk-partizan-igraci-kad-cuju-za-pet-minuta-zavrse-razgovor/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 08. 2026. у 15:11",
       "slika": null
     }
   ]
