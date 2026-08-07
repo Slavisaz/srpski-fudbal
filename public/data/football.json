@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-07T17:55:41.653557+00:00",
-  "azurirano_sr": "7. 08. 2026. у 19:55",
+  "azurirano": "2026-08-07T18:39:27.282899+00:00",
+  "azurirano_sr": "7. 08. 2026. у 20:39",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Prebaci Koventri 100.000.000 evra: Lampard dobio rekordera iz Danske",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prebaci-koventri-100000000-evra-lampard-dobio-rekordera-iz-danske/550883",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 08. 2026. у 22:14",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (petak, 7. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-7-avgust/550838",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Siti odbio prvu ponudu za Rodrija, ali samo kupuje vreme i tvrdi pazar",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/siti-odbio-prvu-ponudu-za-rodrija-ali-samo-kupuje-vreme-i-tvrdi-pazar/550865",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 08. 2026. у 16:26",
+      "naslov": "Fudbalski reprezentativac Gane Kejleb Jirenki novo pojačanje Koventrija",
+      "url": "https://www.tanjug.rs/sport/fudbal/272090/fudbalski-reprezentativac-gane-kejleb-jirenki-novo-pojacanje-koventrija/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 08. 2026. у 20:17",
+      "slika": null
+    },
+    {
+      "naslov": "Belgijski fudbaler Orel Mangala na pozajmici u Hetafeu do kraja sezone",
+      "url": "https://www.tanjug.rs/sport/fudbal/272087/belgijski-fudbaler-orel-mangala-na-pozajmici-u-hetafeu-do-kraja-sezone/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 08. 2026. у 20:03",
+      "slika": null
+    },
+    {
+      "naslov": "Dejan Stanković: Daćemo maksimum protiv Novog Pazara za dobru uvertiru pred revanš sa Hapoelom",
+      "url": "https://www.tanjug.rs/sport/fudbal/272083/dejan-stankovic-dacemo-maksimum-protiv-novog-pazara-za-dobru-uvertiru-pred-revans-sa-hapoelom/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 08. 2026. у 19:46",
       "slika": null
     },
     {
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Samed Baždar novi fudbaler Sent Trudena",
-      "url": "https://www.tanjug.rs/sport/fudbal/272070/samed-bazdar-novi-fudbaler-sent-trudena/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 08. 2026. у 18:36",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Reala Franko Mastantuono do kraja sezone na pozajmici u Fiorentini",
-      "url": "https://www.tanjug.rs/sport/fudbal/272058/fudbaler-reala-franko-mastantuono-do-kraja-sezone-na-pozajmici-u-fiorentini/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 08. 2026. у 18:01",
-      "slika": null
-    },
-    {
-      "naslov": "Mančester siti odbio ponudu Barselone od 45 miliona evra za Rodrija",
-      "url": "https://www.tanjug.rs/sport/fudbal/272044/mancester-siti-odbio-ponudu-barselone-od-45-miliona-evra-za-rodrija/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 08. 2026. у 16:52",
+      "naslov": "Stanković: &quot;Želim da naprave jednu lepu uvertiru pred utorak&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257156/stankovic-pred-novi-pazar/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 08. 2026. у 20:19",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257043/slobodan-medojevic-se-vratio-u-fk-vojvodina-deo-je-strucnog-staba/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "7. 08. 2026. у 18:32",
-      "slika": null
-    },
-    {
-      "naslov": "Olimpijakos zainteresovan za Tiknizjana – Zvezda ostaje bez levog beka?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257112/nair-tiknizjan-na-meti-olimpijakosa/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 08. 2026. у 17:27",
       "slika": null
     }
   ]
