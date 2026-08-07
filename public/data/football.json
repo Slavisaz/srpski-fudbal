@@ -1,13 +1,20 @@
 {
-  "azurirano": "2026-08-07T16:11:59.901462+00:00",
-  "azurirano_sr": "7. 08. 2026. у 18:11",
+  "azurirano": "2026-08-07T17:05:23.087448+00:00",
+  "azurirano_sr": "7. 08. 2026. у 19:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ode Baždar u Belgiju, među Japance koji znaju fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ode-bazdar-u-belgiju-meu-japance-koji-znaju-fudbala/550879",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 08. 2026. у 20:53",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (petak, 7. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-7-avgust/550838",
       "izvor": "Мозарт Спорт",
-      "datum": "7. 08. 2026. у 18:19",
+      "datum": "7. 08. 2026. у 20:35",
       "slika": null
     },
     {
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Medojević opet u Vojvodini, ovog puta u ulozi pomoćnog trenera",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/medojevic-opet-u-vojvodini-ovog-puta-u-ulozi-pomocnog-trenera/550859",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 08. 2026. у 15:55",
+      "naslov": "Fudbaler Reala Franko Mastantuono do kraja sezone na pozajmici u Fiorentini",
+      "url": "https://www.tanjug.rs/sport/fudbal/272058/fudbaler-reala-franko-mastantuono-do-kraja-sezone-na-pozajmici-u-fiorentini/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 08. 2026. у 18:01",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Medojević se vratio u Vojvodinu i postao član stručnog štaba trenera Savića",
-      "url": "https://www.tanjug.rs/sport/fudbal/271966/medojevic-se-vratio-u-vojvodinu-i-postao-clan-strucnog-staba-trenera-savica/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 08. 2026. у 13:23",
+      "naslov": "Voša promovisala Medojevića: &quot;I opet – Medo, dobro došao u svoju drugu kuću!&quot; FOTO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257043/slobodan-medojevic-se-vratio-u-fk-vojvodina-deo-je-strucnog-staba/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 08. 2026. у 18:32",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257112/nair-tiknizjan-na-meti-olimpijakosa/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "7. 08. 2026. у 17:27",
-      "slika": null
-    },
-    {
-      "naslov": "Partizanova stvarnost: &quot;Sek, Ugrešić, Zubairu, Trifunović - svi su na prodaju&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257075/partizanova-stvarnost-sek-ugresic-zubairu-trifunovic-svi-su-na-prodaju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 08. 2026. у 15:37",
       "slika": null
     }
   ]
