@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-07T11:21:55.949467+00:00",
-  "azurirano_sr": "7. 08. 2026. у 13:21",
+  "azurirano": "2026-08-07T12:01:55.101150+00:00",
+  "azurirano_sr": "7. 08. 2026. у 14:01",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Medojević se vratio u Vojvodinu i postao član stručnog štaba trenera Savića",
+      "url": "https://www.tanjug.rs/sport/fudbal/271966/medojevic-se-vratio-u-vojvodinu-i-postao-clan-strucnog-staba-trenera-savica/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 08. 2026. у 13:23",
+      "slika": null
+    },
+    {
+      "naslov": "De Bleker: Počastvovan sam što ću raditi u Fudbalskom savezu Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/271963/de-bleker-pocastvovan-sam-sto-cu-raditi-u-fudbalskom-savezu-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 08. 2026. у 13:12",
+      "slika": null
+    },
+    {
       "naslov": "Fudbalski savez Argentine javno podržao predsednika FIFA Đanija Infantina",
       "url": "https://www.tanjug.rs/sport/fudbal/271890/fudbalski-savez-argentine-javno-podrzao-predsednika-fifa-danija-infantina/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Partizana deklasirali Tobol u prvom meču trećeg kola kvalifikacija za Ligu konferencija",
-      "url": "https://www.tanjug.rs/sport/fudbal/271584/fudbaleri-partizana-deklasirali-tobol-u-prvom-mecu-treceg-kola-kvalifikacija-za-ligu-konferencija/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 08. 2026. у 23:13",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Borca pobedili Vitebsk u prvom meču trećeg kola kvalifikacija za Ligu konferencija",
-      "url": "https://www.tanjug.rs/sport/fudbal/271838/fudbaleri-borca-pobedili-vitebsk-u-prvom-mecu-treceg-kola-kvalifikacija-za-ligu-konferencija/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 08. 2026. у 22:42",
+      "naslov": "Predstavio se novi predsednik Sudijske komisije: &quot;Ko se zaleti na arbitra – odmah žuti karton&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257038/frenk-de-bleker-konferencija-za-medije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 08. 2026. у 13:57",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256987/vojin-marinkovic-dusan-makevic-matija-ninic-i-dusan-jovanovic-pomazu-teleoptiku/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "7. 08. 2026. у 11:34",
-      "slika": null
-    },
-    {
-      "naslov": "Superliga: Zvezda igra, Partizan odmara",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256935/crvena-zvezda-docekuje-novi-pazar-u-subotu-od-20-casova/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 08. 2026. у 09:49",
       "slika": null
     }
   ]
