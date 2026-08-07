@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-07T12:01:55.101150+00:00",
-  "azurirano_sr": "7. 08. 2026. у 14:01",
+  "azurirano": "2026-08-07T13:19:47.184261+00:00",
+  "azurirano_sr": "7. 08. 2026. у 15:19",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Siti odbio prvu ponudu za Rodrija, ali samo kupuje vreme i tvrdi pazar",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/siti-odbio-prvu-ponudu-za-rodrija-ali-samo-kupuje-vreme-i-tvrdi-pazar/550865",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 08. 2026. у 16:26",
+      "slika": null
+    },
+    {
+      "naslov": "Medojević opet u Vojvodini, ovog puta u ulozi pomoćnog trenera",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/medojevic-opet-u-vojvodini-ovog-puta-u-ulozi-pomocnog-trenera/550859",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 08. 2026. у 15:55",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (petak, 7. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-7-avgust/550838",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Emeri prijavio Nedeljkovića za Superkup Evrope",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/emeri-prijavio-nedeljkovica-za-superkup-evrope/550846",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 08. 2026. у 13:01",
+      "naslov": "Fudbalski savez Norveške zahteva smenu predsednika FIFA Đanija Infantina",
+      "url": "https://www.tanjug.rs/sport/fudbal/272007/fudbalski-savez-norveske-zahteva-smenu-predsednika-fifa-danija-infantina/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 08. 2026. у 15:09",
       "slika": null
     },
     {
-      "naslov": "Kreće i Premijer liga BIH: Potera za Banjalučanima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/krece-i-premijer-liga-bih-potera-za-banjalucanima/550840",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 08. 2026. у 11:45",
+      "naslov": "Baba: Spreman sam da pomognem klubu i da još više naučim o Partizanu",
+      "url": "https://www.tanjug.rs/sport/fudbal/271992/baba-spreman-sam-da-pomognem-klubu-i-da-jos-vise-naucim-o-partizanu/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 08. 2026. у 14:35",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbalski savez Argentine javno podržao predsednika FIFA Đanija Infantina",
-      "url": "https://www.tanjug.rs/sport/fudbal/271890/fudbalski-savez-argentine-javno-podrzao-predsednika-fifa-danija-infantina/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 08. 2026. у 09:55",
-      "slika": null
-    },
-    {
-      "naslov": "Za vikend se nastavlja Superliga Srbije, fudbaleri Crvene zvezde dočekuju Novi Pazar",
-      "url": "https://www.tanjug.rs/sport/fudbal/271887/za-vikend-se-nastavlja-superliga-srbije-fudbaleri-crvene-zvezde-docekuju-novi-pazar/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 08. 2026. у 09:39",
-      "slika": null
-    },
-    {
-      "naslov": "Predstavio se novi predsednik Sudijske komisije: &quot;Ko se zaleti na arbitra – odmah žuti karton&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257038/frenk-de-bleker-konferencija-za-medije/vest",
+      "naslov": "Petrović: &quot;Igrači za pet minuta završe razgovor kada čuju platu u Partizanu&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257077/radosav-petrovic-o-platama-u-fk-partizan-igraci-kad-cuju-za-pet-minuta-zavrse-razgovor/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "7. 08. 2026. у 13:57",
+      "datum": "7. 08. 2026. у 15:11",
       "slika": null
     },
     {
-      "naslov": "Iz Partizana u Teleoptik – Saša Ilić &quot;presekao&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256987/vojin-marinkovic-dusan-makevic-matija-ninic-i-dusan-jovanovic-pomazu-teleoptiku/vest",
+      "naslov": "Partizanova stvarnost: &quot;Sek, Ugrešić, Zubairu, Trifunović - svi su na prodaju&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257075/partizanova-stvarnost-sek-ugresic-zubairu-trifunovic-svi-su-na-prodaju/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "7. 08. 2026. у 11:34",
+      "datum": "7. 08. 2026. у 15:10",
       "slika": null
     }
   ]
