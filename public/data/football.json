@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-07T13:19:47.184261+00:00",
-  "azurirano_sr": "7. 08. 2026. у 15:19",
+  "azurirano": "2026-08-07T14:26:40.711052+00:00",
+  "azurirano_sr": "7. 08. 2026. у 16:26",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbi startuju u uvek ujednačenoj Cvajti: Mijatoviću uzdrman status, za razliku od Ivezića i Vukotića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbi-startuju-u-uvek-ujednacenoj-cvajti-mijatovicu-uzdrman-status-za-razliku-od-ivezica-i-vukotica/550872",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 08. 2026. у 17:52",
+      "slika": null
+    },
     {
       "naslov": "Siti odbio prvu ponudu za Rodrija, ali samo kupuje vreme i tvrdi pazar",
       "url": "https://www.mozzartsport.com/fudbal/vesti/siti-odbio-prvu-ponudu-za-rodrija-ali-samo-kupuje-vreme-i-tvrdi-pazar/550865",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-7-avgust/550838",
       "izvor": "Мозарт Спорт",
       "datum": "7. 08. 2026. у 14:57",
-      "slika": null
-    },
-    {
-      "naslov": "Voždovac doveo francuskog štopera",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vozdovac-doveo-francuskog-stopera/550850",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 08. 2026. у 13:19",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Partizanova stvarnost: &quot;Sek, Ugrešić, Zubairu, Trifunović - svi su na prodaju&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257075/partizanova-stvarnost-sek-ugresic-zubairu-trifunovic-svi-su-na-prodaju/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 08. 2026. у 15:37",
+      "slika": null
+    },
+    {
       "naslov": "Petrović: &quot;Igrači za pet minuta završe razgovor kada čuju platu u Partizanu&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257077/radosav-petrovic-o-platama-u-fk-partizan-igraci-kad-cuju-za-pet-minuta-zavrse-razgovor/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "7. 08. 2026. у 15:11",
-      "slika": null
-    },
-    {
-      "naslov": "Partizanova stvarnost: &quot;Sek, Ugrešić, Zubairu, Trifunović - svi su na prodaju&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257075/partizanova-stvarnost-sek-ugresic-zubairu-trifunovic-svi-su-na-prodaju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 08. 2026. у 15:10",
       "slika": null
     }
   ]
