@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-07T09:37:09.677058+00:00",
-  "azurirano_sr": "7. 08. 2026. у 11:37",
+  "azurirano": "2026-08-07T10:29:36.116169+00:00",
+  "azurirano_sr": "7. 08. 2026. у 12:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Voždovac doveo francuskog štopera",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vozdovac-doveo-francuskog-stopera/550850",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 08. 2026. у 13:19",
+      "slika": null
+    },
     {
       "naslov": "Emeri prijavio Nedeljkovića za Superkup Evrope",
       "url": "https://www.mozzartsport.com/fudbal/vesti/emeri-prijavio-nedeljkovica-za-superkup-evrope/550846",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-7-avgust/550838",
       "izvor": "Мозарт Спорт",
       "datum": "7. 08. 2026. у 11:28",
-      "slika": null
-    },
-    {
-      "naslov": "Oranje opet u modi: Eredivizija u padu, ali je i dalje magnet za najjače klubove Evrope",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/oranje-opet-u-modi-eredivizija-u-padu-ali-je-i-dalje-magnet-za-najjace-klubove-evrope/550832",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 08. 2026. у 10:09",
       "slika": null
     },
     {
@@ -61,16 +61,16 @@
     },
     {
       "naslov": "Iz Partizana u Teleoptik – Saša Ilić &quot;presekao&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256987/iz-partizana-u-teleoptik-sasa-ilic-presekao/vest",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256987/vojin-marinkovic-dusan-makevic-matija-ninic-i-dusan-jovanovic-pomazu-teleoptiku/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "7. 08. 2026. у 11:34",
       "slika": null
     },
     {
-      "naslov": "Detalji Ovusuovog odlaska: &quot;Zvezda tražila četiri miliona, presudila tri lekarska pregleda&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256825/agent-otkrio-detalje-transfera-daglasa-ovusua-u-hapoel-zvezda-trazila-cetiri-miliona-evra/vest",
+      "naslov": "Superliga: Zvezda igra, Partizan odmara",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256935/crvena-zvezda-docekuje-novi-pazar-u-subotu-od-20-casova/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "6. 08. 2026. у 19:05",
+      "datum": "7. 08. 2026. у 09:49",
       "slika": null
     }
   ]
