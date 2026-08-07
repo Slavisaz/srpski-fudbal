@@ -1,20 +1,27 @@
 {
-  "azurirano": "2026-08-07T19:36:44.448464+00:00",
-  "azurirano_sr": "7. 08. 2026. у 21:36",
+  "azurirano": "2026-08-07T20:17:14.540618+00:00",
+  "azurirano_sr": "7. 08. 2026. у 22:17",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Prebaci Koventri 100.000.000 evra: Lampard dobio rekordera iz Danske",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prebaci-koventri-100000000-evra-lampard-dobio-rekordera-iz-danske/550883",
+      "naslov": "Lukićev transfer donosi Partizanu 300.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lukicev-transfer-donosi-partizanu-300000-evra/550888",
       "izvor": "Мозарт Спорт",
-      "datum": "7. 08. 2026. у 22:14",
+      "datum": "8. 08. 2026. у 00:11",
       "slika": null
     },
     {
       "naslov": "TRANSFERI UŽIVO (petak, 7. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-7-avgust/550838",
       "izvor": "Мозарт Спорт",
-      "datum": "7. 08. 2026. у 21:27",
+      "datum": "7. 08. 2026. у 23:41",
+      "slika": null
+    },
+    {
+      "naslov": "Prebaci Koventri 100.000.000 evra: Lampard dobio rekordera iz Danske",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prebaci-koventri-100000000-evra-lampard-dobio-rekordera-iz-danske/550883",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 08. 2026. у 22:14",
       "slika": null
     },
     {
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Srbi startuju u uvek ujednačenoj Cvajti: Mijatoviću uzdrman status, za razliku od Ivezića i Vukotića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbi-startuju-u-uvek-ujednacenoj-cvajti-mijatovicu-uzdrman-status-za-razliku-od-ivezica-i-vukotica/550872",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 08. 2026. у 17:52",
+      "naslov": "Ismael Benaser nije više fudbaler Milana",
+      "url": "https://www.tanjug.rs/sport/fudbal/272104/ismael-benaser-nije-vise-fudbaler-milana/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 08. 2026. у 21:33",
+      "slika": null
+    },
+    {
+      "naslov": "Argentinski fudbaler Hoakin Korea nastavlja karijeru u Estudijantesu iz La Plate",
+      "url": "https://www.tanjug.rs/sport/fudbal/272102/argentinski-fudbaler-hoakin-korea-nastavlja-karijeru-u-estudijantesu-iz-la-plate/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 08. 2026. у 21:20",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272090/fudbalski-reprezentativac-gane-kejleb-jirenki-novo-pojacanje-koventrija/vest",
       "izvor": "Танјуг",
       "datum": "7. 08. 2026. у 20:17",
-      "slika": null
-    },
-    {
-      "naslov": "Belgijski fudbaler Orel Mangala na pozajmici u Hetafeu do kraja sezone",
-      "url": "https://www.tanjug.rs/sport/fudbal/272087/belgijski-fudbaler-orel-mangala-na-pozajmici-u-hetafeu-do-kraja-sezone/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 08. 2026. у 20:03",
-      "slika": null
-    },
-    {
-      "naslov": "Dejan Stanković: Daćemo maksimum protiv Novog Pazara za dobru uvertiru pred revanš sa Hapoelom",
-      "url": "https://www.tanjug.rs/sport/fudbal/272083/dejan-stankovic-dacemo-maksimum-protiv-novog-pazara-za-dobru-uvertiru-pred-revans-sa-hapoelom/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 08. 2026. у 19:46",
       "slika": null
     },
     {
