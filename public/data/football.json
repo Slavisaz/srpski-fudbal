@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-07T20:17:14.540618+00:00",
-  "azurirano_sr": "7. 08. 2026. у 22:17",
+  "azurirano": "2026-08-07T21:01:05.461292+00:00",
+  "azurirano_sr": "7. 08. 2026. у 23:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Propade bundesligaški transfer od 25.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/propade-bundesligaski-transfer-od-25000000-evra/550890",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 08. 2026. у 00:34",
+      "slika": null
+    },
     {
       "naslov": "Lukićev transfer donosi Partizanu 300.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/lukicev-transfer-donosi-partizanu-300000-evra/550888",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Ode Baždar u Belgiju, među Japance koji znaju fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ode-bazdar-u-belgiju-meu-japance-koji-znaju-fudbala/550879",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 08. 2026. у 20:53",
+      "naslov": "Meksički fudbaler Irving Lozano do kraja sezone na pozajmici u LA Galaksiju",
+      "url": "https://www.tanjug.rs/sport/fudbal/272111/meksicki-fudbaler-irving-lozano-do-kraja-sezone-na-pozajmici-u-la-galaksiju/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 08. 2026. у 22:10",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272099/fk-crvena-zvezda-prvog-dana-akcije-crveno-bela-krv-prikupljena-161-jedinica-krvi/vest",
       "izvor": "Танјуг",
       "datum": "7. 08. 2026. у 21:02",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalski reprezentativac Gane Kejleb Jirenki novo pojačanje Koventrija",
-      "url": "https://www.tanjug.rs/sport/fudbal/272090/fudbalski-reprezentativac-gane-kejleb-jirenki-novo-pojacanje-koventrija/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 08. 2026. у 20:17",
       "slika": null
     },
     {
