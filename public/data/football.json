@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-07T21:01:05.461292+00:00",
-  "azurirano_sr": "7. 08. 2026. у 23:01",
+  "azurirano": "2026-08-07T21:43:51.100937+00:00",
+  "azurirano_sr": "7. 08. 2026. у 23:43",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "&quot;Nema lakih utakmica, ali mi smo Vojvodina&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257107/trener-vojvodine-pred-duel-sa-radnikom-iz-surdulice/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 08. 2026. у 23:33",
+      "slika": null
+    },
+    {
       "naslov": "Stanković: &quot;Želim da naprave jednu lepu uvertiru pred utorak&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257156/stankovic-pred-novi-pazar/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "7. 08. 2026. у 20:19",
-      "slika": null
-    },
-    {
-      "naslov": "Voša promovisala Medojevića: &quot;I opet – Medo, dobro došao u svoju drugu kuću!&quot; FOTO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257043/slobodan-medojevic-se-vratio-u-fk-vojvodina-deo-je-strucnog-staba/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 08. 2026. у 18:32",
       "slika": null
     }
   ]
