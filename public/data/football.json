@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-07T08:38:18.685552+00:00",
-  "azurirano_sr": "7. 08. 2026. у 10:38",
+  "azurirano": "2026-08-07T09:37:09.677058+00:00",
+  "azurirano_sr": "7. 08. 2026. у 11:37",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Emeri prijavio Nedeljkovića za Superkup Evrope",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/emeri-prijavio-nedeljkovica-za-superkup-evrope/550846",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 08. 2026. у 13:01",
+      "slika": null
+    },
     {
       "naslov": "Kreće i Premijer liga BIH: Potera za Banjalučanima",
       "url": "https://www.mozzartsport.com/fudbal/vesti/krece-i-premijer-liga-bih-potera-za-banjalucanima/550840",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/oranje-opet-u-modi-eredivizija-u-padu-ali-je-i-dalje-magnet-za-najjace-klubove-evrope/550832",
       "izvor": "Мозарт Спорт",
       "datum": "7. 08. 2026. у 10:09",
-      "slika": null
-    },
-    {
-      "naslov": "Igrajte na portugalsku Zvezdu, Stefan Leković očekuje istorijsku sezonu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/igrajte-na-portugalsku-zvezdu-stefan-lekovic-ocekuje-istorijsku-sezonu/550793",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 08. 2026. у 10:07",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Iz Partizana u Teleoptik – Saša Ilić &quot;presekao&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256987/iz-partizana-u-teleoptik-sasa-ilic-presekao/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 08. 2026. у 11:34",
+      "slika": null
+    },
+    {
       "naslov": "Detalji Ovusuovog odlaska: &quot;Zvezda tražila četiri miliona, presudila tri lekarska pregleda&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256825/agent-otkrio-detalje-transfera-daglasa-ovusua-u-hapoel-zvezda-trazila-cetiri-miliona-evra/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "6. 08. 2026. у 19:05",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina odbila Zvezdu za Sukačeva",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/256774/vojvodina-odbila-zvezdu-za-petra-sukaceva/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 08. 2026. у 16:09",
       "slika": null
     }
   ]
