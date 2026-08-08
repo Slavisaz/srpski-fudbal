@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-08T22:56:56.528309+00:00",
-  "azurirano_sr": "9. 08. 2026. у 00:56",
+  "azurirano": "2026-08-08T23:21:20.006345+00:00",
+  "azurirano_sr": "9. 08. 2026. у 01:21",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Postoji koordinisan i učestali napor da se potkopaju FIFA i njen predsednik",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/postoji-koordinisan-i-ucestali-napor-da-se-potkopaju-fifa-i-njen-predsednik/550970",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 08. 2026. у 02:48",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (subota, 8. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-subota-8-avgust/550905",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/ko-ce-kome-borac-slavi-stefana-urica-vozdovac-i-dalje-na-nuli/550956",
       "izvor": "Мозарт Спорт",
       "datum": "9. 08. 2026. у 00:16",
-      "slika": null
-    },
-    {
-      "naslov": "PSV predstavio najskuplje pojačanje, ali na kraju ostao u šoku (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/psv-predstavio-najskuplje-pojacanje-ali-na-kraju-ostao-u-soku-video/550955",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 08. 2026. у 00:13",
       "slika": null
     },
     {
