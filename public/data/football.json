@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-08T17:04:09.643379+00:00",
-  "azurirano_sr": "8. 08. 2026. у 19:04",
+  "azurirano": "2026-08-08T17:38:59.658647+00:00",
+  "azurirano_sr": "8. 08. 2026. у 19:38",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Zvezdi Pazar pred očima, u mislima Hapoel – SASTAVI",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257343/uzivo-crvena-zvezda-novi-pazar/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "8. 08. 2026. у 19:23",
+      "slika": null
+    },
+    {
       "naslov": "Šaranov: &quot;Pravimo razliku odnosom prema igračima&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257238/bojan-saranov-o-novom-ugovoru-za-radomira-kokovica-i-stanju-u-zeleznicaru/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "8. 08. 2026. у 13:00",
-      "slika": null
-    },
-    {
-      "naslov": "Železničar treći put &quot;blindirao&quot; Kokovića! VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257230/radomir-kokovic-produzio-ugovor-sa-zeleznicarom-do-2028-godine/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "8. 08. 2026. у 10:21",
       "slika": null
     }
   ]
