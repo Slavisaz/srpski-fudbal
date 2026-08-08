@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-08T20:39:02.316669+00:00",
-  "azurirano_sr": "8. 08. 2026. у 22:39",
+  "azurirano": "2026-08-08T21:03:05.662999+00:00",
+  "azurirano_sr": "8. 08. 2026. у 23:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 8. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-8-avgust/550905",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 08. 2026. у 00:31",
+      "slika": null
+    },
+    {
+      "naslov": "Velez ne kupuje, Velez proizvodi: \"Fabrika\" talenata stiže na megdan Boki",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/velez-ne-kupuje-velez-proizvodi-fabrika-talenata-stize-na-megdan-boki/550930",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 08. 2026. у 00:28",
+      "slika": null
+    },
     {
       "naslov": "Ko će kome... Borac slavi Stefana Đurića, Voždovac i dalje na nuli",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ko-ce-kome-borac-slavi-stefana-urica-vozdovac-i-dalje-na-nuli/550956",
@@ -11,24 +25,10 @@
       "slika": null
     },
     {
-      "naslov": "PSV predstavio najskuplje pojačanje, ali je na kraju ostao u šoku (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/psv-predstavio-najskuplje-pojacanje-ali-je-na-kraju-ostao-u-soku-video/550955",
+      "naslov": "PSV predstavio najskuplje pojačanje, ali na kraju ostao u šoku (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/psv-predstavio-najskuplje-pojacanje-ali-na-kraju-ostao-u-soku-video/550955",
       "izvor": "Мозарт Спорт",
       "datum": "9. 08. 2026. у 00:13",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (subota, 8. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-8-avgust/550905",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 08. 2026. у 21:21",
-      "slika": null
-    },
-    {
-      "naslov": "Srbiji ovo ne sme da promakne: Rajković (15) ispisao istoriju norveškog fudbala (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbiji-ovo-ne-sme-da-promakne-rajkovic-15-ispisao-istoriju-norveskog-fudbala-video/550931",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 08. 2026. у 18:49",
       "slika": null
     },
     {
