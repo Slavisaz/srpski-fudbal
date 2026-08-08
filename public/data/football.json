@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-08T20:02:46.832065+00:00",
-  "azurirano_sr": "8. 08. 2026. у 22:02",
+  "azurirano": "2026-08-08T20:39:02.316669+00:00",
+  "azurirano_sr": "8. 08. 2026. у 22:39",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ko će kome... Borac slavi Stefana Đurića, Voždovac i dalje na nuli",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ko-ce-kome-borac-slavi-stefana-urica-vozdovac-i-dalje-na-nuli/550956",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 08. 2026. у 00:16",
+      "slika": null
+    },
+    {
+      "naslov": "PSV predstavio najskuplje pojačanje, ali je na kraju ostao u šoku (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/psv-predstavio-najskuplje-pojacanje-ali-je-na-kraju-ostao-u-soku-video/550955",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 08. 2026. у 00:13",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (subota, 8. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-8-avgust/550905",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (petak, 7. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-7-avgust/550838",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 08. 2026. у 01:45",
-      "slika": null
-    },
-    {
-      "naslov": "Propade bundesligaški transfer od 25.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/propade-bundesligaski-transfer-od-25000000-evra/550890",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 08. 2026. у 00:34",
+      "naslov": "Fudbaleri Crvene zvezde pobedili Novi Pazar",
+      "url": "https://www.tanjug.rs/sport/fudbal/272281/fudbaleri-crvene-zvezde-pobedili-novi-pazar/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 08. 2026. у 22:13",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Lorenco Pelegrini produžio ugovor sa Romom do 2027. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/272220/lorenco-pelegrini-produzio-ugovor-sa-romom-do-2027-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 08. 2026. у 15:42",
+      "naslov": "Stanković: &quot;Svima nam je glava već na utorku&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257377/stankovic-posle-pobede-protiv-novog-pazara/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "8. 08. 2026. у 22:30",
       "slika": null
     },
     {
-      "naslov": "Pazarci se ispromašivali – Zvezda &quot;tri od tri&quot;",
+      "naslov": "Zvezda sa desetoricom sačuvala pobedu – Pazarci se ispromašivali",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257343/uzivo-crvena-zvezda-novi-pazar/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "8. 08. 2026. у 22:01",
-      "slika": null
-    },
-    {
-      "naslov": "Šaranov: &quot;Pravimo razliku odnosom prema igračima&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257238/bojan-saranov-o-novom-ugovoru-za-radomira-kokovica-i-stanju-u-zeleznicaru/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "8. 08. 2026. у 13:00",
+      "datum": "8. 08. 2026. у 22:02",
       "slika": null
     }
   ]
