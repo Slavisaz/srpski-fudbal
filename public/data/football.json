@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-08T11:55:55.660612+00:00",
-  "azurirano_sr": "8. 08. 2026. у 13:55",
+  "azurirano": "2026-08-08T12:28:15.450624+00:00",
+  "azurirano_sr": "8. 08. 2026. у 14:28",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Bruno Gimaraeš prešao iz Njukasla u Arsenal",
+      "url": "https://www.tanjug.rs/sport/fudbal/272195/bruno-gimaraes-presao-iz-njukasla-u-arsenal/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 08. 2026. у 13:53",
+      "slika": null
+    },
+    {
       "naslov": "Saša Lukić zvanično novi fudbaler Ipsviča",
       "url": "https://www.tanjug.rs/sport/fudbal/272188/sasa-lukic-zvanicno-novi-fudbaler-ipsvica/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272157/radomir-kokovic-produzio-ugovor-sa-zeleznicarom-do-2028-godine/vest",
       "izvor": "Танјуг",
       "datum": "8. 08. 2026. у 10:58",
-      "slika": null
-    },
-    {
-      "naslov": "Meksički fudbaler Irving Lozano do kraja sezone na pozajmici u LA Galaksiju",
-      "url": "https://www.tanjug.rs/sport/fudbal/272111/meksicki-fudbaler-irving-lozano-do-kraja-sezone-na-pozajmici-u-la-galaksiju/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 08. 2026. у 22:10",
       "slika": null
     },
     {
