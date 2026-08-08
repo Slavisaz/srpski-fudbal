@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-08T15:02:18.647074+00:00",
-  "azurirano_sr": "8. 08. 2026. у 17:02",
+  "azurirano": "2026-08-08T15:36:32.488189+00:00",
+  "azurirano_sr": "8. 08. 2026. у 17:36",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbiji ovo ne sme da promakne: Rajković (15) ispisao istoriju norveškog fudbala (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbiji-ovo-ne-sme-da-promakne-rajkovic-15-ispisao-istoriju-norveskog-fudbala-video/550931",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 08. 2026. у 18:49",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (subota, 8. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-8-avgust/550905",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/propade-bundesligaski-transfer-od-25000000-evra/550890",
       "izvor": "Мозарт Спорт",
       "datum": "8. 08. 2026. у 00:34",
-      "slika": null
-    },
-    {
-      "naslov": "Lukićev transfer donosi Partizanu 300.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lukicev-transfer-donosi-partizanu-300000-evra/550888",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 08. 2026. у 00:11",
       "slika": null
     },
     {
