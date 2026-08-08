@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-08T21:03:05.662999+00:00",
-  "azurirano_sr": "8. 08. 2026. у 23:03",
+  "azurirano": "2026-08-08T21:38:06.697983+00:00",
+  "azurirano_sr": "8. 08. 2026. у 23:38",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Dejan Stanković: U utorak nam je potreban svaki glas, svako srce, svaki dlan",
+      "url": "https://www.tanjug.rs/sport/fudbal/272286/dejan-stankovic-u-utorak-nam-je-potreban-svaki-glas-svako-srce-svaki-dlan/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 08. 2026. у 22:54",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Crvene zvezde pobedili Novi Pazar",
       "url": "https://www.tanjug.rs/sport/fudbal/272281/fudbaleri-crvene-zvezde-pobedili-novi-pazar/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Hetafea Kristantus Uče propustiće celu sezonu zbog teške povede kolena",
-      "url": "https://www.tanjug.rs/sport/fudbal/272246/fudbaler-hetafea-kristantus-uce-propustice-celu-sezonu-zbog-teske-povede-kolena/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 08. 2026. у 17:33",
+      "naslov": "Jovanovića čeka ogroman posao – Teleoptik ponovo poražen",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257385/teleoptik-opet-porazen/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "8. 08. 2026. у 23:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257377/stankovic-posle-pobede-protiv-novog-pazara/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "8. 08. 2026. у 22:30",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda sa desetoricom sačuvala pobedu – Pazarci se ispromašivali",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257343/uzivo-crvena-zvezda-novi-pazar/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "8. 08. 2026. у 22:02",
       "slika": null
     }
   ]
