@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-08T11:00:40.282200+00:00",
-  "azurirano_sr": "8. 08. 2026. у 13:00",
+  "azurirano": "2026-08-08T11:32:05.951395+00:00",
+  "azurirano_sr": "8. 08. 2026. у 13:32",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Šaranov: &quot;Pravimo razliku odnosom prema igračima&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257238/bojan-saranov-o-novom-ugovoru-za-radomira-kokovica-i-stanju-u-zeleznicaru/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "8. 08. 2026. у 13:00",
+      "slika": null
+    },
+    {
       "naslov": "Železničar treći put &quot;blindirao&quot; Kokovića! VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257230/radomir-kokovic-produzio-ugovor-sa-zeleznicarom-do-2028-godine/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "8. 08. 2026. у 10:21",
-      "slika": null
-    },
-    {
-      "naslov": "Partizanu stiže neočekivani, a veliki prihod",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257221/sasa-lukic-prelazi-iz-fulama-u-ipsvic-i-donosi-novac-partizanu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "8. 08. 2026. у 09:37",
       "slika": null
     }
   ]
