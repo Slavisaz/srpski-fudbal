@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-08T11:32:05.951395+00:00",
-  "azurirano_sr": "8. 08. 2026. у 13:32",
+  "azurirano": "2026-08-08T11:55:55.660612+00:00",
+  "azurirano_sr": "8. 08. 2026. у 13:55",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Saša Lukić zvanično novi fudbaler Ipsviča",
+      "url": "https://www.tanjug.rs/sport/fudbal/272188/sasa-lukic-zvanicno-novi-fudbaler-ipsvica/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 08. 2026. у 13:25",
+      "slika": null
+    },
+    {
       "naslov": "Argentinski fudbaler Fakundo Buonanote prešao na pozajmicu u Elče",
       "url": "https://www.tanjug.rs/sport/fudbal/272172/argentinski-fudbaler-fakundo-buonanote-presao-na-pozajmicu-u-elce/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272111/meksicki-fudbaler-irving-lozano-do-kraja-sezone-na-pozajmici-u-la-galaksiju/vest",
       "izvor": "Танјуг",
       "datum": "7. 08. 2026. у 22:10",
-      "slika": null
-    },
-    {
-      "naslov": "Ismael Benaser nije više fudbaler Milana",
-      "url": "https://www.tanjug.rs/sport/fudbal/272104/ismael-benaser-nije-vise-fudbaler-milana/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 08. 2026. у 21:33",
       "slika": null
     },
     {
