@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-08T07:24:52.056052+00:00",
-  "azurirano_sr": "8. 08. 2026. у 09:24",
+  "azurirano": "2026-08-08T08:04:29.599516+00:00",
+  "azurirano_sr": "8. 08. 2026. у 10:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 8. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-8-avgust/550905",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 08. 2026. у 11:13",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (petak, 7. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-7-avgust/550838",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/lukicev-transfer-donosi-partizanu-300000-evra/550888",
       "izvor": "Мозарт Спорт",
       "datum": "8. 08. 2026. у 00:11",
-      "slika": null
-    },
-    {
-      "naslov": "Prebaci Koventri 100.000.000 evra: Lampard dobio rekordera iz Danske",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prebaci-koventri-100000000-evra-lampard-dobio-rekordera-iz-danske/550883",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 08. 2026. у 22:14",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Partizanu stiže neočekivani, a veliki prihod",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257221/sasa-lukic-prelazi-iz-fulama-u-ipsvic-i-donosi-novac-partizanu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "8. 08. 2026. у 09:37",
+      "slika": null
+    },
+    {
       "naslov": "&quot;Nema lakih utakmica, ali mi smo Vojvodina&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257107/trener-vojvodine-pred-duel-sa-radnikom-iz-surdulice/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "7. 08. 2026. у 23:33",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: &quot;Želim da naprave jednu lepu uvertiru pred utorak&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257156/stankovic-pred-novi-pazar/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 08. 2026. у 20:19",
       "slika": null
     }
   ]
