@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-09T13:15:29.020078+00:00",
-  "azurirano_sr": "9. 08. 2026. у 15:15",
+  "azurirano": "2026-08-09T13:59:25.105783+00:00",
+  "azurirano_sr": "9. 08. 2026. у 15:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (nedelja, 9. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-9-avgust/550979",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 08. 2026. у 17:37",
+      "slika": null
+    },
     {
       "naslov": "Sezona lova u Istanbulu: Fajenordov samuraj košta 25.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sezona-lova-u-istanbulu-fajenordov-samuraj-kosta-25000000-evra/550987",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (nedelja, 9. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-9-avgust/550979",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 08. 2026. у 11:23",
+      "naslov": "Fudbaleri Mančester sitija preokretom stigli do pobede protiv Atletika u prijateljskom meču",
+      "url": "https://www.tanjug.rs/sport/fudbal/272368/fudbaleri-mancester-sitija-preokretom-stigli-do-pobede-protiv-atletika-u-prijateljskom-mecu/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 08. 2026. у 15:12",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272286/dejan-stankovic-u-utorak-nam-je-potreban-svaki-glas-svako-srce-svaki-dlan/vest",
       "izvor": "Танјуг",
       "datum": "8. 08. 2026. у 22:54",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Crvene zvezde pobedili Novi Pazar",
-      "url": "https://www.tanjug.rs/sport/fudbal/272281/fudbaleri-crvene-zvezde-pobedili-novi-pazar/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 08. 2026. у 22:13",
       "slika": null
     },
     {
