@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-09T06:42:29.522809+00:00",
-  "azurirano_sr": "9. 08. 2026. у 08:42",
+  "azurirano": "2026-08-09T07:39:46.281287+00:00",
+  "azurirano_sr": "9. 08. 2026. у 09:39",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (nedelja, 9. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-9-avgust/550979",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 08. 2026. у 11:23",
+      "slika": null
+    },
     {
       "naslov": "Postoji koordinisan i učestali napor da se potkopaju FIFA i njen predsednik",
       "url": "https://www.mozzartsport.com/fudbal/vesti/postoji-koordinisan-i-ucestali-napor-da-se-potkopaju-fifa-i-njen-predsednik/550970",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/velez-ne-kupuje-velez-proizvodi-fabrika-talenata-stize-na-megdan-boki/550930",
       "izvor": "Мозарт Спорт",
       "datum": "9. 08. 2026. у 00:28",
-      "slika": null
-    },
-    {
-      "naslov": "Ko će kome... Borac slavi Stefana Đurića, Voždovac i dalje na nuli",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ko-ce-kome-borac-slavi-stefana-urica-vozdovac-i-dalje-na-nuli/550956",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 08. 2026. у 00:16",
       "slika": null
     },
     {
