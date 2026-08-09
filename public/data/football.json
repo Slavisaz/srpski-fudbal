@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-09T15:03:14.111250+00:00",
-  "azurirano_sr": "9. 08. 2026. у 17:03",
+  "azurirano": "2026-08-09T15:39:13.912763+00:00",
+  "azurirano_sr": "9. 08. 2026. у 17:39",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Al Nasru skinuta zabrana transfera, za Brozovićevu zamenu odmah potrošeno 22.000.000",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/al-nasru-skinuta-zabrana-transfera-za-brozovicevu-zamenu-odmah-potroseno-22000000/551014",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 08. 2026. у 19:14",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (nedelja, 9. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-9-avgust/550979",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/sampionski-tim-porta-ostao-na-okupu-otisli-veterani-hvan-slag-na-tortu/550988",
       "izvor": "Мозарт Спорт",
       "datum": "9. 08. 2026. у 13:40",
-      "slika": null
-    },
-    {
-      "naslov": "Babić o povratku, treneru Karsedu i Albancu u timu: O Dakuu nek sude po njegovim igrama",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/babic-o-povratku-treneru-karsedu-i-albancu-u-timu-o-dakuu-nek-sude-po-njegovim-igrama/550980",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 08. 2026. у 12:15",
       "slika": null
     },
     {
