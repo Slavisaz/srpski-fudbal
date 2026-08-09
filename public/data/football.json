@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-09T08:20:24.956649+00:00",
-  "azurirano_sr": "9. 08. 2026. у 10:20",
+  "azurirano": "2026-08-09T09:05:44.671020+00:00",
+  "azurirano_sr": "9. 08. 2026. у 11:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Babić o povratku, treneru Karsedu i Albancu u timu: O Dakuu nek sude po njegovim igrama",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/babic-o-povratku-treneru-karsedu-i-albancu-u-timu-o-dakuu-nek-sude-po-njegovim-igrama/550980",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 08. 2026. у 12:15",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (nedelja, 9. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-9-avgust/550979",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-subota-8-avgust/550905",
       "izvor": "Мозарт Спорт",
       "datum": "9. 08. 2026. у 01:25",
-      "slika": null
-    },
-    {
-      "naslov": "Velez ne kupuje, Velez proizvodi: \"Fabrika\" talenata stiže na megdan Boki",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/velez-ne-kupuje-velez-proizvodi-fabrika-talenata-stize-na-megdan-boki/550930",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 08. 2026. у 00:28",
       "slika": null
     },
     {
