@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-09T17:46:51.874287+00:00",
-  "azurirano_sr": "9. 08. 2026. у 19:46",
+  "azurirano": "2026-08-09T18:15:25.111477+00:00",
+  "azurirano_sr": "9. 08. 2026. у 20:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Roma krenula jako po Moru - transfer paket 5+45",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/roma-krenula-jako-po-moru-transfer-paket-545/551026",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 08. 2026. у 21:30",
+      "slika": null
+    },
     {
       "naslov": "Ovo nije bajka za tragače sa detektorima metala, Trabzon ponovo aktivira podzemne magaze sa zlatom",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ovo-nije-bajka-za-tragace-sa-detektorima-metala-trabzon-ponovo-aktivira-podzemne-magaze-sa-zlatom/551023",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Jedan od bizarnijih golova u karijeri Lazara Romanića (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jedan-od-bizarnijih-golova-u-karijeri-lazara-romanica-video/551018",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 08. 2026. у 19:25",
+      "naslov": "Francuski fudbaler Luka Dinj potpisao za Pari Sen Žermen",
+      "url": "https://www.tanjug.rs/sport/fudbal/272399/francuski-fudbaler-luka-dinj-potpisao-za-pari-sen-zermen/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 08. 2026. у 19:24",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272368/fudbaleri-mancester-sitija-preokretom-stigli-do-pobede-protiv-atletika-u-prijateljskom-mecu/vest",
       "izvor": "Танјуг",
       "datum": "9. 08. 2026. у 15:12",
-      "slika": null
-    },
-    {
-      "naslov": "Đurovski: Marakana nas nosila do preokreta protiv Bazela, neka tako bude i u utorak",
-      "url": "https://www.tanjug.rs/sport/fudbal/272336/durovski-marakana-nas-nosila-do-preokreta-protiv-bazela-neka-tako-bude-i-u-utorak/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 08. 2026. у 12:09",
       "slika": null
     },
     {
