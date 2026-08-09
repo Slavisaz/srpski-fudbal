@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-09T20:01:01.716457+00:00",
-  "azurirano_sr": "9. 08. 2026. у 22:01",
+  "azurirano": "2026-08-09T20:38:12.078468+00:00",
+  "azurirano_sr": "9. 08. 2026. у 22:38",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Vojvodine pobedili Radnik, Mačva savladala IMT",
+      "url": "https://www.tanjug.rs/sport/fudbal/272418/fudbaleri-vojvodine-pobedili-radnik-macva-savladala-imt/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 08. 2026. у 22:07",
+      "slika": null
+    },
+    {
       "naslov": "Engleski fudbaler Trevo Čaloba prešao iz Čelsija u Komo",
       "url": "https://www.tanjug.rs/sport/fudbal/272404/engleski-fudbaler-trevo-caloba-presao-iz-celsija-u-komo/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272389/ekvadorski-fudbaler-ener-valensija-potpisao-za-boka-juniors/vest",
       "izvor": "Танјуг",
       "datum": "9. 08. 2026. у 17:57",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Aleksa Cvetković prelazi iz OFK Beograda u Vankuver",
-      "url": "https://www.tanjug.rs/sport/fudbal/272376/srpski-fudbaler-aleksa-cvetkovic-prelazi-iz-ofk-beograda-u-vankuver/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 08. 2026. у 16:25",
       "slika": null
     },
     {
