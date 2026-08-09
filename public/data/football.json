@@ -1,13 +1,13 @@
 {
-  "azurirano": "2026-08-09T20:38:12.078468+00:00",
-  "azurirano_sr": "9. 08. 2026. у 22:38",
+  "azurirano": "2026-08-09T21:05:11.987030+00:00",
+  "azurirano_sr": "9. 08. 2026. у 23:05",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (nedelja, 9. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-9-avgust/550979",
       "izvor": "Мозарт Спорт",
-      "datum": "9. 08. 2026. у 23:10",
+      "datum": "10. 08. 2026. у 00:35",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Veče u kom je dokazano da je 2:0 najopasniji rezultat",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257590/superliga-srbije-ofk-beograd-zeleznicar-izvestaj-meca-4-kola/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 08. 2026. у 22:55",
+      "slika": null
+    },
+    {
       "naslov": "Vojvodina bolja od Radnika – IMT posle Partizana pao u Šapcu",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257584/vojvodina-pobedila-radnik-macva-sokirala-perfektni-imt/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "9. 08. 2026. у 21:54",
-      "slika": null
-    },
-    {
-      "naslov": "OFK prodao vezistu za 1.500.000 €",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257520/ofk-beograd-prodao-aleksu-cvetkovica-u-vankuver/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "9. 08. 2026. у 16:30",
       "slika": null
     }
   ]
