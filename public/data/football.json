@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-09T14:34:08.297324+00:00",
-  "azurirano_sr": "9. 08. 2026. у 16:34",
+  "azurirano": "2026-08-09T15:03:14.111250+00:00",
+  "azurirano_sr": "9. 08. 2026. у 17:03",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Srpski fudbaler Aleksa Cvetković prelazi iz OFK Beograda u Vankuver",
+      "url": "https://www.tanjug.rs/sport/fudbal/272376/srpski-fudbaler-aleksa-cvetkovic-prelazi-iz-ofk-beograda-u-vankuver/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 08. 2026. у 16:25",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Mančester sitija preokretom stigli do pobede protiv Atletika u prijateljskom meču",
       "url": "https://www.tanjug.rs/sport/fudbal/272368/fudbaleri-mancester-sitija-preokretom-stigli-do-pobede-protiv-atletika-u-prijateljskom-mecu/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272323/notingem-forest-zainteresovan-za-fudbalera-monaka-lamina-kamaru/vest",
       "izvor": "Танјуг",
       "datum": "9. 08. 2026. у 11:09",
-      "slika": null
-    },
-    {
-      "naslov": "Dejan Stanković: U utorak nam je potreban svaki glas, svako srce, svaki dlan",
-      "url": "https://www.tanjug.rs/sport/fudbal/272286/dejan-stankovic-u-utorak-nam-je-potreban-svaki-glas-svako-srce-svaki-dlan/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 08. 2026. у 22:54",
       "slika": null
     },
     {
