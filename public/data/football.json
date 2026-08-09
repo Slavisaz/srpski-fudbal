@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-09T21:05:11.987030+00:00",
-  "azurirano_sr": "9. 08. 2026. у 23:05",
+  "azurirano": "2026-08-09T21:41:56.513723+00:00",
+  "azurirano_sr": "9. 08. 2026. у 23:41",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Fudbalska moderna u srpskoj Kući fudbala: Damjanović – Koković 2:2",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalska-moderna-u-srpskoj-kuci-fudbala-damjanovic-kokovic-22/551043",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 08. 2026. у 00:54",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (nedelja, 9. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-9-avgust/550979",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/ovo-nije-bajka-za-tragace-sa-detektorima-metala-trabzon-ponovo-aktivira-podzemne-magaze-sa-zlatom/551023",
       "izvor": "Мозарт Спорт",
       "datum": "9. 08. 2026. у 20:06",
-      "slika": null
-    },
-    {
-      "naslov": "OFK Beograd zaradio još 1.500.000 evra, ovog leta ukupno na 3.700.000 evra profita",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ofk-beograd-zaradio-jos-1500000-evra-ovog-leta-ukupno-na-3700000-evra-profita/551021",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 08. 2026. у 19:52",
       "slika": null
     },
     {
@@ -60,7 +60,7 @@
       "slika": null
     },
     {
-      "naslov": "Veče u kom je dokazano da je 2:0 najopasniji rezultat",
+      "naslov": "Veče u kom je dokazano da je 2:0 najopasniji rezultat VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257590/superliga-srbije-ofk-beograd-zeleznicar-izvestaj-meca-4-kola/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "9. 08. 2026. у 22:55",
