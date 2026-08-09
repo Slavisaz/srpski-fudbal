@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-09T19:37:56.459054+00:00",
-  "azurirano_sr": "9. 08. 2026. у 21:37",
+  "azurirano": "2026-08-09T20:01:01.716457+00:00",
+  "azurirano_sr": "9. 08. 2026. у 22:01",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Engleski fudbaler Trevo Čaloba prešao iz Čelsija u Komo",
+      "url": "https://www.tanjug.rs/sport/fudbal/272404/engleski-fudbaler-trevo-caloba-presao-iz-celsija-u-komo/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 08. 2026. у 20:20",
+      "slika": null
+    },
+    {
       "naslov": "Francuski fudbaler Luka Dinj potpisao za Pari Sen Žermen",
       "url": "https://www.tanjug.rs/sport/fudbal/272399/francuski-fudbaler-luka-dinj-potpisao-za-pari-sen-zermen/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Mančester sitija preokretom stigli do pobede protiv Atletika u prijateljskom meču",
-      "url": "https://www.tanjug.rs/sport/fudbal/272368/fudbaleri-mancester-sitija-preokretom-stigli-do-pobede-protiv-atletika-u-prijateljskom-mecu/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 08. 2026. у 15:12",
+      "naslov": "Vojvodina bolja od Radnika – IMT posle Partizana pao u Šapcu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257584/vojvodina-pobedila-radnik-macva-sokirala-perfektni-imt/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 08. 2026. у 21:54",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257520/ofk-beograd-prodao-aleksu-cvetkovica-u-vankuver/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "9. 08. 2026. у 16:30",
-      "slika": null
-    },
-    {
-      "naslov": "Jovanovića čeka ogroman posao – Teleoptik ponovo poražen",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257385/teleoptik-opet-porazen/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "8. 08. 2026. у 23:00",
       "slika": null
     }
   ]
