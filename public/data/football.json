@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-09T16:01:59.459250+00:00",
-  "azurirano_sr": "9. 08. 2026. у 18:01",
+  "azurirano": "2026-08-09T16:44:06.944984+00:00",
+  "azurirano_sr": "9. 08. 2026. у 18:44",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ovo nije bajka za tragače sa detektorima metala, Trabzon ponovo aktivira podzemne magaze sa zlatom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ovo-nije-bajka-za-tragace-sa-detektorima-metala-trabzon-ponovo-aktivira-podzemne-magaze-sa-zlatom/551023",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 08. 2026. у 20:06",
+      "slika": null
+    },
     {
       "naslov": "OFK Beograd zaradio još 1.500.000 evra, ovog leta ukupno na 3.700.000 evra profita",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ofk-beograd-zaradio-jos-1500000-evra-ovog-leta-ukupno-na-3700000-evra-profita/551021",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (nedelja, 9. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-9-avgust/550979",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 08. 2026. у 19:23",
+      "naslov": "Ekvadorski fudbaler Ener Valensija potpisao za Boka juniors",
+      "url": "https://www.tanjug.rs/sport/fudbal/272389/ekvadorski-fudbaler-ener-valensija-potpisao-za-boka-juniors/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 08. 2026. у 17:57",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272336/durovski-marakana-nas-nosila-do-preokreta-protiv-bazela-neka-tako-bude-i-u-utorak/vest",
       "izvor": "Танјуг",
       "datum": "9. 08. 2026. у 12:09",
-      "slika": null
-    },
-    {
-      "naslov": "Notingem Forest zainteresovan za fudbalera Monaka Lamina Kamaru",
-      "url": "https://www.tanjug.rs/sport/fudbal/272323/notingem-forest-zainteresovan-za-fudbalera-monaka-lamina-kamaru/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 08. 2026. у 11:09",
       "slika": null
     },
     {
