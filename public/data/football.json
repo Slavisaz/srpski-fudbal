@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-09T13:59:25.105783+00:00",
-  "azurirano_sr": "9. 08. 2026. у 15:59",
+  "azurirano": "2026-08-09T14:34:08.297324+00:00",
+  "azurirano_sr": "9. 08. 2026. у 16:34",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "OFK prodao vezistu za 1.500.000 €",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257520/ofk-beograd-prodao-aleksu-cvetkovica-u-vankuver/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 08. 2026. у 16:30",
+      "slika": null
+    },
+    {
       "naslov": "Jovanovića čeka ogroman posao – Teleoptik ponovo poražen",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257385/teleoptik-opet-porazen/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "8. 08. 2026. у 23:00",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković: &quot;Svima nam je glava već na utorku&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257377/stankovic-posle-pobede-protiv-novog-pazara/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "8. 08. 2026. у 22:30",
       "slika": null
     }
   ]
