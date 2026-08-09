@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-09T18:15:25.111477+00:00",
-  "azurirano_sr": "9. 08. 2026. у 20:15",
+  "azurirano": "2026-08-09T19:01:19.428331+00:00",
+  "azurirano_sr": "9. 08. 2026. у 21:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (nedelja, 9. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-9-avgust/550979",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 08. 2026. у 22:19",
+      "slika": null
+    },
     {
       "naslov": "Roma krenula jako po Moru - transfer paket 5+45",
       "url": "https://www.mozzartsport.com/fudbal/vesti/roma-krenula-jako-po-moru-transfer-paket-545/551026",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/ofk-beograd-zaradio-jos-1500000-evra-ovog-leta-ukupno-na-3700000-evra-profita/551021",
       "izvor": "Мозарт Спорт",
       "datum": "9. 08. 2026. у 19:52",
-      "slika": null
-    },
-    {
-      "naslov": "Arsenal primio šest golova za četiri dana, Dortmundovi klinci odneli pehar iz Londona",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/arsenal-primio-sest-golova-za-cetiri-dana-dortmundovi-klinci-odneli-pehar-iz-londona/551019",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 08. 2026. у 19:27",
       "slika": null
     },
     {
