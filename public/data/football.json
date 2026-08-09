@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-09T10:17:33.454112+00:00",
-  "azurirano_sr": "9. 08. 2026. у 12:17",
+  "azurirano": "2026-08-09T10:54:16.262584+00:00",
+  "azurirano_sr": "9. 08. 2026. у 12:54",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Đurovski: Marakana nas nosila do preokreta protiv Bazela, neka tako bude i u utorak",
+      "url": "https://www.tanjug.rs/sport/fudbal/272336/durovski-marakana-nas-nosila-do-preokreta-protiv-bazela-neka-tako-bude-i-u-utorak/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 08. 2026. у 12:09",
+      "slika": null
+    },
+    {
       "naslov": "Notingem Forest zainteresovan za fudbalera Monaka Lamina Kamaru",
       "url": "https://www.tanjug.rs/sport/fudbal/272323/notingem-forest-zainteresovan-za-fudbalera-monaka-lamina-kamaru/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272281/fudbaleri-crvene-zvezde-pobedili-novi-pazar/vest",
       "izvor": "Танјуг",
       "datum": "8. 08. 2026. у 22:13",
-      "slika": null
-    },
-    {
-      "naslov": "Španski fudbaler Serhi Roberto potpisao za Los Anđeles Galaksi",
-      "url": "https://www.tanjug.rs/sport/fudbal/272264/spanski-fudbaler-serhi-roberto-potpisao-za-los-andeles-galaksi/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 08. 2026. у 19:23",
       "slika": null
     },
     {
