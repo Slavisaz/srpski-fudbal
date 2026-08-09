@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-09T09:05:44.671020+00:00",
-  "azurirano_sr": "9. 08. 2026. у 11:05",
+  "azurirano": "2026-08-09T09:51:05.079299+00:00",
+  "azurirano_sr": "9. 08. 2026. у 11:51",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Sezona lova u Istanbulu: Fajenordov samuraj košta 25.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sezona-lova-u-istanbulu-fajenordov-samuraj-kosta-25000000-evra/550987",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 08. 2026. у 13:45",
+      "slika": null
+    },
+    {
+      "naslov": "Šampionski tim Porta ostao na okupu, otišli veterani, Hvan „šlag na tortu”",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sampionski-tim-porta-ostao-na-okupu-otisli-veterani-hvan-slag-na-tortu/550988",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 08. 2026. у 13:40",
+      "slika": null
+    },
     {
       "naslov": "Babić o povratku, treneru Karsedu i Albancu u timu: O Dakuu nek sude po njegovim igrama",
       "url": "https://www.mozzartsport.com/fudbal/vesti/babic-o-povratku-treneru-karsedu-i-albancu-u-timu-o-dakuu-nek-sude-po-njegovim-igrama/550980",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Postoji koordinisan i učestali napor da se potkopaju FIFA i njen predsednik",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/postoji-koordinisan-i-ucestali-napor-da-se-potkopaju-fifa-i-njen-predsednik/550970",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 08. 2026. у 02:48",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI (subota, 8. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-subota-8-avgust/550905",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 08. 2026. у 01:25",
+      "naslov": "Notingem Forest zainteresovan za fudbalera Monaka Lamina Kamaru",
+      "url": "https://www.tanjug.rs/sport/fudbal/272323/notingem-forest-zainteresovan-za-fudbalera-monaka-lamina-kamaru/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 08. 2026. у 11:09",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272264/spanski-fudbaler-serhi-roberto-potpisao-za-los-andeles-galaksi/vest",
       "izvor": "Танјуг",
       "datum": "8. 08. 2026. у 19:23",
-      "slika": null
-    },
-    {
-      "naslov": "Preminuo Horhe Mesi, otac Lionela Mesija",
-      "url": "https://www.tanjug.rs/sport/fudbal/272255/preminuo-horhe-mesi-otac-lionela-mesija/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 08. 2026. у 18:40",
       "slika": null
     },
     {
