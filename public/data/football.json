@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-10T05:41:23.701806+00:00",
-  "azurirano_sr": "10. 08. 2026. у 07:41",
+  "azurirano": "2026-08-10T06:54:38.767947+00:00",
+  "azurirano_sr": "10. 08. 2026. у 08:54",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (ponedeljak, 10. avgust): Nema puno atraktivnog fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-ponedeljak-10-avgust-nema-puno-atraktivnog-fudbala/551052",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 08. 2026. у 10:05",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (nedelja, 9. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-nedelja-9-avgust/550979",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/roma-krenula-jako-po-moru-transfer-paket-545/551026",
       "izvor": "Мозарт Спорт",
       "datum": "9. 08. 2026. у 21:30",
-      "slika": null
-    },
-    {
-      "naslov": "Ovo nije bajka za tragače sa detektorima metala, Trabzon ponovo aktivira podzemne magaze sa zlatom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ovo-nije-bajka-za-tragace-sa-detektorima-metala-trabzon-ponovo-aktivira-podzemne-magaze-sa-zlatom/551023",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 08. 2026. у 20:06",
       "slika": null
     },
     {
