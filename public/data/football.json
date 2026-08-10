@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-10T14:46:10.627655+00:00",
-  "azurirano_sr": "10. 08. 2026. у 16:46",
+  "azurirano": "2026-08-10T15:40:07.827396+00:00",
+  "azurirano_sr": "10. 08. 2026. у 17:40",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zaposlili se Tadić i Kostić, poslodavce čekaju Vlahović, Gudelj, Grujić, Ristić, Radonjić…",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zaposlili-se-tadic-i-kostic-poslodavce-cekaju-vlahovic-gudelj-grujic-ristic-radonjic/551096",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 08. 2026. у 19:14",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (ponedeljak, 10. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-10-avgust/551058",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/zoran-jankovic-preuzeo-prvoligasa-iz-omana/551087",
       "izvor": "Мозарт Спорт",
       "datum": "10. 08. 2026. у 16:50",
-      "slika": null
-    },
-    {
-      "naslov": "Kapiten Ajaksa surov: Zvole je jednostavno bolji od Vojvodine",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kapiten-ajaksa-surov-zvole-je-jednostavno-bolji-od-vojvodine/551082",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 08. 2026. у 15:50",
       "slika": null
     },
     {
