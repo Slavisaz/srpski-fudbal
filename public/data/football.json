@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-10T08:18:39.963380+00:00",
-  "azurirano_sr": "10. 08. 2026. у 10:18",
+  "azurirano": "2026-08-10T09:51:19.756871+00:00",
+  "azurirano_sr": "10. 08. 2026. у 11:51",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Superligaši značajno manje efikasni nego prošle godine",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/superligasi-znacajno-manje-efikasni-nego-prosle-godine/551067",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 08. 2026. у 13:02",
+      "slika": null
+    },
     {
       "naslov": "Murinjo 2013. potpisao za Junajted, pa u suzama zvao Fergija: Izvini, ne mogu da izdam Čelsi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/murinjo-2013-potpisao-za-junajted-pa-u-suzama-zvao-fergija-izvini-ne-mogu-da-izdam-celsi/551061",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (ponedeljak, 10. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-10-avgust/551058",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 08. 2026. у 11:10",
+      "naslov": "Saopštenje UEFA, KONKAKAF i AFC: Fudbal ne pripada nijednoj osobi niti instituciji",
+      "url": "https://www.tanjug.rs/sport/fudbal/272479/saopstenje-uefa-konkakaf-i-afc-fudbal-ne-pripada-nijednoj-osobi-niti-instituciji/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 08. 2026. у 11:09",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Ekvadorski fudbaler Ener Valensija potpisao za Boka juniors",
-      "url": "https://www.tanjug.rs/sport/fudbal/272389/ekvadorski-fudbaler-ener-valensija-potpisao-za-boka-juniors/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 08. 2026. у 17:57",
+      "naslov": "Trener Voše otvoreno kritikovao ekipu: &quot;Nije bilo dovoljno gladi&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257626/trener-vojvodine-ostro-kritikovao-igrace-posle-pobede/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 08. 2026. у 10:21",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257590/superliga-srbije-ofk-beograd-zeleznicar-izvestaj-meca-4-kola/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "9. 08. 2026. у 22:55",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina bolja od Radnika – IMT posle Partizana pao u Šapcu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257584/vojvodina-pobedila-radnik-macva-sokirala-perfektni-imt/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "9. 08. 2026. у 21:54",
       "slika": null
     }
   ]
