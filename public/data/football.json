@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-10T11:36:40.990062+00:00",
-  "azurirano_sr": "10. 08. 2026. у 13:36",
+  "azurirano": "2026-08-10T12:26:57.976766+00:00",
+  "azurirano_sr": "10. 08. 2026. у 14:26",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kapiten Ajaksa surov: Zvole je jednostavno bolji od Vojvodine",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kapiten-ajaksa-surov-zvole-je-jednostavno-bolji-od-vojvodine/551082",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 08. 2026. у 15:50",
+      "slika": null
+    },
     {
       "naslov": "UEFA sa saveznicima udara na FIFA: Fudbal pripada igračima, navijačima i klubovima, ne Infantinu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/uefa-sa-saveznicima-udara-na-fifa-fudbal-pripada-igracima-navijacima-i-klubovima-ne-infantinu/551074",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/cukaricki-sa-izraelcima-za-pregovarackim-stolom-tema-sran-mijailovic/551073",
       "izvor": "Мозарт Спорт",
       "datum": "10. 08. 2026. у 13:47",
-      "slika": null
-    },
-    {
-      "naslov": "Superligaši značajno manje efikasni nego prošle godine",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/superligasi-znacajno-manje-efikasni-nego-prosle-godine/551067",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 08. 2026. у 13:02",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Uroš Nikolić stigao u Čukarički",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257710/uros-nikolic-pojacao-cukaricki/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 08. 2026. у 14:20",
+      "slika": null
+    },
+    {
       "naslov": "Trener Voše otvoreno kritikovao ekipu: &quot;Nije bilo dovoljno gladi&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257626/trener-vojvodine-ostro-kritikovao-igrace-posle-pobede/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 08. 2026. у 10:21",
-      "slika": null
-    },
-    {
-      "naslov": "Veče u kom je dokazano da je 2:0 najopasniji rezultat VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257590/superliga-srbije-ofk-beograd-zeleznicar-izvestaj-meca-4-kola/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "9. 08. 2026. у 22:55",
       "slika": null
     }
   ]
