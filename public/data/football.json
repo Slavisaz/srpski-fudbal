@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-10T12:26:57.976766+00:00",
-  "azurirano_sr": "10. 08. 2026. у 14:26",
+  "azurirano": "2026-08-10T13:52:21.498221+00:00",
+  "azurirano_sr": "10. 08. 2026. у 15:52",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Idan Vered: U Zvezdi je trenutno opšti haos; Katai će verovatno početi revanš sa Hapoelom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/idan-vered-u-zvezdi-je-trenutno-opsti-haos-katai-ce-verovatno-poceti-revans-sa-hapoelom/551085",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 08. 2026. у 16:50",
+      "slika": null
+    },
+    {
+      "naslov": "Zoran Janković preuzeo prvoligaša iz Omana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zoran-jankovic-preuzeo-prvoligasa-iz-omana/551087",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 08. 2026. у 16:50",
+      "slika": null
+    },
     {
       "naslov": "Kapiten Ajaksa surov: Zvole je jednostavno bolji od Vojvodine",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kapiten-ajaksa-surov-zvole-je-jednostavno-bolji-od-vojvodine/551082",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/uefa-sa-saveznicima-udara-na-fifa-fudbal-pripada-igracima-navijacima-i-klubovima-ne-infantinu/551074",
       "izvor": "Мозарт Спорт",
       "datum": "10. 08. 2026. у 13:58",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (ponedeljak, 10. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-10-avgust/551058",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 08. 2026. у 13:48",
-      "slika": null
-    },
-    {
-      "naslov": "Čukarički sa Izraelcima za pregovaračkim stolom – tema Srđan Mijailović",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cukaricki-sa-izraelcima-za-pregovarackim-stolom-tema-sran-mijailovic/551073",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 08. 2026. у 13:47",
       "slika": null
     },
     {
@@ -63,7 +63,7 @@
       "naslov": "Uroš Nikolić stigao u Čukarički",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257710/uros-nikolic-pojacao-cukaricki/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 08. 2026. у 14:20",
+      "datum": "10. 08. 2026. у 14:28",
       "slika": null
     },
     {
