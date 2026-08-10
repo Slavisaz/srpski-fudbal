@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-08-10T09:51:19.756871+00:00",
-  "azurirano_sr": "10. 08. 2026. у 11:51",
+  "azurirano": "2026-08-10T10:51:14.685688+00:00",
+  "azurirano_sr": "10. 08. 2026. у 12:51",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "UEFA sa saveznicima udara na FIFA: Fudbal pripada igračima, navijačima i klubovima, ne Infantinu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uefa-sa-saveznicima-udara-na-fifa-fudbal-pripada-igracima-navijacima-i-klubovima-ne-infantinu/551074",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 08. 2026. у 13:58",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (ponedeljak, 10. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-10-avgust/551058",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 08. 2026. у 13:48",
+      "slika": null
+    },
+    {
+      "naslov": "Čukarički sa Izraelcima za pregovaračkim stolom – tema Srđan Mijailović",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cukaricki-sa-izraelcima-za-pregovarackim-stolom-tema-sran-mijailovic/551073",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 08. 2026. у 13:47",
+      "slika": null
+    },
     {
       "naslov": "Superligaši značajno manje efikasni nego prošle godine",
       "url": "https://www.mozzartsport.com/fudbal/vesti/superligasi-znacajno-manje-efikasni-nego-prosle-godine/551067",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Murinjo 2013. potpisao za Junajted, pa u suzama zvao Fergija: Izvini, ne mogu da izdam Čelsi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/murinjo-2013-potpisao-za-junajted-pa-u-suzama-zvao-fergija-izvini-ne-mogu-da-izdam-celsi/551061",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 08. 2026. у 12:07",
+      "naslov": "Crvena zvezda: Navijači, dođite što ranije na stadion i ne ubacujte ništa na teren",
+      "url": "https://www.tanjug.rs/sport/fudbal/272510/crvena-zvezda-navijaci-dodite-sto-ranije-na-stadion-i-ne-ubacujte-nista-na-teren/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 08. 2026. у 12:24",
       "slika": null
     },
     {
-      "naslov": "Nije lako naći zamenu za Rodrija, a ni jeftino",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nije-lako-naci-zamenu-za-rodrija-a-ni-jeftino/551056",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 08. 2026. у 12:00",
-      "slika": null
-    },
-    {
-      "naslov": "Bogosavac: Čerčesov zna put do titule, zadržali smo srce tima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bogosavac-cercesov-zna-put-do-titule-zadrzali-smo-srce-tima/551059",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 08. 2026. у 11:45",
+      "naslov": "Srpski fudbaler Uroš Nikolić potpisao za Čukarički",
+      "url": "https://www.tanjug.rs/sport/fudbal/272495/srpski-fudbaler-uros-nikolic-potpisao-za-cukaricki/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 08. 2026. у 11:55",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272418/fudbaleri-vojvodine-pobedili-radnik-macva-savladala-imt/vest",
       "izvor": "Танјуг",
       "datum": "9. 08. 2026. у 22:07",
-      "slika": null
-    },
-    {
-      "naslov": "Engleski fudbaler Trevo Čaloba prešao iz Čelsija u Komo",
-      "url": "https://www.tanjug.rs/sport/fudbal/272404/engleski-fudbaler-trevo-caloba-presao-iz-celsija-u-komo/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 08. 2026. у 20:20",
-      "slika": null
-    },
-    {
-      "naslov": "Francuski fudbaler Luka Dinj potpisao za Pari Sen Žermen",
-      "url": "https://www.tanjug.rs/sport/fudbal/272399/francuski-fudbaler-luka-dinj-potpisao-za-pari-sen-zermen/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 08. 2026. у 19:24",
       "slika": null
     },
     {
