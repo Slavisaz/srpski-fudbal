@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-10T15:40:07.827396+00:00",
-  "azurirano_sr": "10. 08. 2026. у 17:40",
+  "azurirano": "2026-08-10T16:28:42.742201+00:00",
+  "azurirano_sr": "10. 08. 2026. у 18:28",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Dženan Pejčinović novi fudbaler Štutgarta",
+      "url": "https://www.tanjug.rs/sport/fudbal/272614/dzenan-pejcinovic-novi-fudbaler-stutgarta/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 08. 2026. у 17:27",
+      "slika": null
+    },
+    {
+      "naslov": "Pari Sen Žermen ponudio Barseloni 50 miliona evra za Ferana Toresa",
+      "url": "https://www.tanjug.rs/sport/fudbal/272609/pari-sen-zermen-ponudio-barseloni-50-miliona-evra-za-ferana-toresa/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 08. 2026. у 17:09",
+      "slika": null
+    },
+    {
       "naslov": "Crvena zvezda: Navijači, dođite što ranije na stadion i ne ubacujte ništa na teren",
       "url": "https://www.tanjug.rs/sport/fudbal/272510/crvena-zvezda-navijaci-dodite-sto-ranije-na-stadion-i-ne-ubacujte-nista-na-teren/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272495/srpski-fudbaler-uros-nikolic-potpisao-za-cukaricki/vest",
       "izvor": "Танјуг",
       "datum": "10. 08. 2026. у 11:55",
-      "slika": null
-    },
-    {
-      "naslov": "Saopštenje UEFA, KONKAKAF i AFC: Fudbal ne pripada nijednoj osobi niti instituciji",
-      "url": "https://www.tanjug.rs/sport/fudbal/272479/saopstenje-uefa-konkakaf-i-afc-fudbal-ne-pripada-nijednoj-osobi-niti-instituciji/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 08. 2026. у 11:09",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Vojvodine pobedili Radnik, Mačva savladala IMT",
-      "url": "https://www.tanjug.rs/sport/fudbal/272418/fudbaleri-vojvodine-pobedili-radnik-macva-savladala-imt/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 08. 2026. у 22:07",
       "slika": null
     },
     {
