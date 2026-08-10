@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-10T17:24:37.842512+00:00",
-  "azurirano_sr": "10. 08. 2026. у 19:24",
+  "azurirano": "2026-08-10T18:08:51.522584+00:00",
+  "azurirano_sr": "10. 08. 2026. у 20:08",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (ponedeljak, 10. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-10-avgust/551058",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 08. 2026. у 21:19",
+      "slika": null
+    },
     {
       "naslov": "Spreman još jedan transfer od bar 100.000.000 evra! Marokanski biser stiže da nasledi Rodrija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/spreman-jos-jedan-transfer-od-bar-100000000-evra-marokanski-biser-stize-da-nasledi-rodrija/551103",
@@ -18,17 +25,24 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (ponedeljak, 10. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-10-avgust/551058",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 08. 2026. у 18:00",
-      "slika": null
-    },
-    {
       "naslov": "Idan Vered: U Zvezdi je trenutno opšti haos; Katai će verovatno početi revanš sa Hapoelom",
       "url": "https://www.mozzartsport.com/fudbal/vesti/idan-vered-u-zvezdi-je-trenutno-opsti-haos-katai-ce-verovatno-poceti-revans-sa-hapoelom/551085",
       "izvor": "Мозарт Спорт",
       "datum": "10. 08. 2026. у 16:50",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaler Barselone Ronald Arauho do kraja sezone na pozajmici u Liverpulu",
+      "url": "https://www.tanjug.rs/sport/fudbal/272645/fudbaler-barselone-ronald-arauho-do-kraja-sezone-na-pozajmici-u-liverpulu/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 08. 2026. у 19:56",
+      "slika": null
+    },
+    {
+      "naslov": "Trener Hapoela Ran Kožuh: Znamo šta nas čeka, daćemo sve od sebe",
+      "url": "https://www.tanjug.rs/sport/fudbal/272638/trener-hapoela-ran-kozuh-znamo-sta-nas-ceka-dacemo-sve-od-sebe/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 08. 2026. у 19:23",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272614/dzenan-pejcinovic-novi-fudbaler-stutgarta/vest",
       "izvor": "Танјуг",
       "datum": "10. 08. 2026. у 17:27",
-      "slika": null
-    },
-    {
-      "naslov": "Pari Sen Žermen ponudio Barseloni 50 miliona evra za Ferana Toresa",
-      "url": "https://www.tanjug.rs/sport/fudbal/272609/pari-sen-zermen-ponudio-barseloni-50-miliona-evra-za-ferana-toresa/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 08. 2026. у 17:09",
-      "slika": null
-    },
-    {
-      "naslov": "Crvena zvezda: Navijači, dođite što ranije na stadion i ne ubacujte ništa na teren",
-      "url": "https://www.tanjug.rs/sport/fudbal/272510/crvena-zvezda-navijaci-dodite-sto-ranije-na-stadion-i-ne-ubacujte-nista-na-teren/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 08. 2026. у 12:24",
       "slika": null
     },
     {
