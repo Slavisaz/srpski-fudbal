@@ -1,13 +1,13 @@
 {
-  "azurirano": "2026-08-10T20:42:17.887600+00:00",
-  "azurirano_sr": "10. 08. 2026. у 22:42",
+  "azurirano": "2026-08-10T21:25:50.585299+00:00",
+  "azurirano_sr": "10. 08. 2026. у 23:25",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "TRANSFERI UŽIVO (ponedeljak, 10. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-10-avgust/551058",
+      "naslov": "TRANSFERI (ponedeljak, 10. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-ponedeljak-10-avgust/551058",
       "izvor": "Мозарт Спорт",
-      "datum": "10. 08. 2026. у 21:19",
+      "datum": "11. 08. 2026. у 01:00",
       "slika": null
     },
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Holandski fudbaler Miki van den Ven produžio ugovor sa Totenhemom",
+      "url": "https://www.tanjug.rs/sport/fudbal/272679/holandski-fudbaler-miki-van-den-ven-produzio-ugovor-sa-totenhemom/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 08. 2026. у 22:57",
+      "slika": null
+    },
+    {
       "naslov": "FK Crvena zvezda: Stanković protiv Hapoela za jubilarnu 150. pobedu na klupi \"crveno-belih\"",
       "url": "https://www.tanjug.rs/sport/fudbal/272652/fk-crvena-zvezda-stankovic-protiv-hapoela-za-jubilarnu-150-pobedu-na-klupi-crveno-belih/vest",
       "izvor": "Танјуг",
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Dejan Stanković: Biće nam potrebna drugačija energija nego što je bila u prvoj utakmici",
-      "url": "https://www.tanjug.rs/sport/fudbal/272631/dejan-stankovic-bice-nam-potrebna-drugacija-energija-nego-sto-je-bila-u-prvoj-utakmici/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 08. 2026. у 18:32",
-      "slika": null
-    },
-    {
       "naslov": "Uroš Nikolić stigao u Čukarički",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257710/uros-nikolic-pojacao-cukaricki/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,6 +71,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257626/trener-vojvodine-ostro-kritikovao-igrace-posle-pobede/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 08. 2026. у 10:21",
+      "slika": null
+    },
+    {
+      "naslov": "Veče u kom je dokazano da je 2:0 najopasniji rezultat VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257590/superliga-srbije-ofk-beograd-zeleznicar-izvestaj-meca-4-kola/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 08. 2026. у 22:55",
       "slika": null
     }
   ]
