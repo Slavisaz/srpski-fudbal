@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-10T19:11:31.888168+00:00",
-  "azurirano_sr": "10. 08. 2026. у 21:11",
+  "azurirano": "2026-08-10T20:01:40.094287+00:00",
+  "azurirano_sr": "10. 08. 2026. у 22:01",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,34 +32,6 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Barselone Ronald Arauho do kraja sezone na pozajmici u Liverpulu",
-      "url": "https://www.tanjug.rs/sport/fudbal/272645/fudbaler-barselone-ronald-arauho-do-kraja-sezone-na-pozajmici-u-liverpulu/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 08. 2026. у 19:56",
-      "slika": null
-    },
-    {
-      "naslov": "Trener Hapoela Ran Kožuh: Znamo šta nas čeka, daćemo sve od sebe",
-      "url": "https://www.tanjug.rs/sport/fudbal/272638/trener-hapoela-ran-kozuh-znamo-sta-nas-ceka-dacemo-sve-od-sebe/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 08. 2026. у 19:23",
-      "slika": null
-    },
-    {
-      "naslov": "Dejan Stanković: Biće nam potrebna drugačija energija nego što je bila u prvoj utakmici",
-      "url": "https://www.tanjug.rs/sport/fudbal/272631/dejan-stankovic-bice-nam-potrebna-drugacija-energija-nego-sto-je-bila-u-prvoj-utakmici/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 08. 2026. у 18:32",
-      "slika": null
-    },
-    {
-      "naslov": "Dženan Pejčinović novi fudbaler Štutgarta",
-      "url": "https://www.tanjug.rs/sport/fudbal/272614/dzenan-pejcinovic-novi-fudbaler-stutgarta/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 08. 2026. у 17:27",
-      "slika": null
-    },
-    {
       "naslov": "Uroš Nikolić stigao u Čukarički",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257710/uros-nikolic-pojacao-cukaricki/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,6 +43,34 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257626/trener-vojvodine-ostro-kritikovao-igrace-posle-pobede/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 08. 2026. у 10:21",
+      "slika": null
+    },
+    {
+      "naslov": "Veče u kom je dokazano da je 2:0 najopasniji rezultat VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257590/superliga-srbije-ofk-beograd-zeleznicar-izvestaj-meca-4-kola/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 08. 2026. у 22:55",
+      "slika": null
+    },
+    {
+      "naslov": "Trener Rendžersa brani Dragojevića: &quot;Nije bio penal&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/257651/trener-rendzersa-o-penalu-koji-je-skrivio-vanja-dragojevic/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "10. 08. 2026. у 15:14",
+      "slika": null
+    },
+    {
+      "naslov": "UEFA, AFC i KONKAKAF udarili na FIFA: &quot;Fudbal nije ničija svojina&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/257676/uefa-afc-i-concacaf-udarili-na-fifa-fudbal-nije-nicija-svojina/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "10. 08. 2026. у 11:12",
+      "slika": null
+    },
+    {
+      "naslov": "Murinjo trebalo da nasledi Fergusona: &quot;Pozvao me je i plakao&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/257606/ferguson-priznao-da-je-murinjo-trebao-da-bude-njegov-naslednik-u-mancester-junajtedu/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "10. 08. 2026. у 08:53",
       "slika": null
     }
   ]
