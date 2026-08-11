@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-11T10:24:03.243775+00:00",
-  "azurirano_sr": "11. 08. 2026. у 12:24",
+  "azurirano": "2026-08-11T11:10:02.978031+00:00",
+  "azurirano_sr": "11. 08. 2026. у 13:10",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Partizana otputovali u Kazahstan na utakmicu protiv Tobola",
+      "url": "https://www.tanjug.rs/sport/fudbal/272788/fudbaleri-partizana-otputovali-u-kazahstan-na-utakmicu-protiv-tobola/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 08. 2026. у 12:12",
+      "slika": null
+    },
+    {
       "naslov": "FK Crvena zvezda: Zbog velikog interesovanja u prodaji i karte za jug protiv Hapoela",
       "url": "https://www.tanjug.rs/sport/fudbal/272782/fk-crvena-zvezda-zbog-velikog-interesovanja-u-prodaji-i-karte-za-jug-protiv-hapoela/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272716/crvena-zvezda-veceras-docekuje-hapoel-ber-sevu-u-revansu-3-kola-kvalifikacija-za-ligu-sampiona/vest",
       "izvor": "Танјуг",
       "datum": "11. 08. 2026. у 09:24",
-      "slika": null
-    },
-    {
-      "naslov": "Holandski fudbaler Miki van den Ven produžio ugovor sa Totenhemom",
-      "url": "https://www.tanjug.rs/sport/fudbal/272679/holandski-fudbaler-miki-van-den-ven-produzio-ugovor-sa-totenhemom/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 08. 2026. у 22:57",
       "slika": null
     },
     {
