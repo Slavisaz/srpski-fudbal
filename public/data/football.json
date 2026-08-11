@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-11T13:58:56.186469+00:00",
-  "azurirano_sr": "11. 08. 2026. у 15:58",
+  "azurirano": "2026-08-11T14:56:04.709273+00:00",
+  "azurirano_sr": "11. 08. 2026. у 16:56",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Unikat u srpskom fudbalu: Od špica, preko fulbeka u reprezentaciji, do vrhunskog štopera",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/unikat-u-srpskom-fudbalu-od-spica-preko-fulbeka-u-reprezentaciji-do-vrhunskog-stopera/551158",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 08. 2026. у 18:18",
+      "slika": null
+    },
     {
       "naslov": "Sevilja i Škot? Može! Daje gol na 90 minuta i stigao je iz Švedske",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sevilja-i-skot-moze-daje-gol-na-90-minuta-i-stigao-je-iz-svedske/550997",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Spreman još jedan transfer od bar 100.000.000 evra! Marokanski biser stiže da nasledi Rodrija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/spreman-jos-jedan-transfer-od-bar-100000000-evra-marokanski-biser-stize-da-nasledi-rodrija/551103",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 08. 2026. у 21:04",
+      "naslov": "Usman Diomande novi fudbaler Notingem Foresta",
+      "url": "https://www.tanjug.rs/sport/fudbal/272870/usman-diomande-novi-fudbaler-notingem-foresta/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 08. 2026. у 15:59",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272748/tramp-smena-infantina-bi-bila-velika-greska-ako-ode-svetsko-prvenstvo-vise-nece-biti-tako-uspesno/vest",
       "izvor": "Танјуг",
       "datum": "11. 08. 2026. у 10:43",
-      "slika": null
-    },
-    {
-      "naslov": "Crvena zvezda večeras dočekuje Hapoel Ber Ševu u revanšu 3. kola kvalifikacija za Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/272716/crvena-zvezda-veceras-docekuje-hapoel-ber-sevu-u-revansu-3-kola-kvalifikacija-za-ligu-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 08. 2026. у 09:24",
       "slika": null
     },
     {
