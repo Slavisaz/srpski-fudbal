@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-11T15:51:41.482172+00:00",
-  "azurirano_sr": "11. 08. 2026. у 17:51",
+  "azurirano": "2026-08-11T16:40:55.047757+00:00",
+  "azurirano_sr": "11. 08. 2026. у 18:40",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,24 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Radnik prodao štopera u Nemačku i dobro zaradio",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258121/sandro-tremule-pojacao-karlsrue/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "11. 08. 2026. у 18:14",
+      "slika": null
+    },
+    {
       "naslov": "&quot;Partizan može protiv Hetafea – Evropa jedina opcija&quot;; &quot;Na Tajlandu su me upropastili&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258072/taki-nikolic-o-partizanu-i-buriramu-evropa-jedina-opcija-za-crno-bele/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "11. 08. 2026. у 15:10",
-      "slika": null
-    },
-    {
-      "naslov": "Pao dogovor: Vojvodina dovodi bivšeg reprezentativca Srbije!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257980/erhan-masovic-dolazi-u-vojvodinu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "11. 08. 2026. у 11:08",
-      "slika": null
-    },
-    {
-      "naslov": "Uroš Nikolić stigao u Čukarički",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257710/uros-nikolic-pojacao-cukaricki/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 08. 2026. у 14:28",
       "slika": null
     }
   ]
