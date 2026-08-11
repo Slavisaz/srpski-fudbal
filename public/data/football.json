@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-11T18:29:51.599840+00:00",
-  "azurirano_sr": "11. 08. 2026. у 20:29",
+  "azurirano": "2026-08-11T19:34:57.178249+00:00",
+  "azurirano_sr": "11. 08. 2026. у 21:34",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Luis Enrike: Teško je očekivati utakmicu na vrhunskom nivou",
+      "url": "https://www.tanjug.rs/sport/fudbal/272937/luis-enrike-tesko-je-ocekivati-utakmicu-na-vrhunskom-nivou/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 08. 2026. у 21:21",
+      "slika": null
+    },
+    {
+      "naslov": "Bez golova posle prvog poluvremena meča između fudbalera Zvezde i Hapoela",
+      "url": "https://www.tanjug.rs/sport/fudbal/272910/bez-golova-posle-prvog-poluvremena-meca-izmedu-fudbalera-zvezde-i-hapoela/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 08. 2026. у 20:52",
+      "slika": null
+    },
+    {
+      "naslov": "Erhan Mašović novi fudbaler Vojvodine",
+      "url": "https://www.tanjug.rs/sport/fudbal/272927/erhan-masovic-novi-fudbaler-vojvodine/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 08. 2026. у 20:16",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Sabaha ubedljivo pobedili Orhus i izborili plej-of kvalifikacija za LŠ",
       "url": "https://www.tanjug.rs/sport/fudbal/272921/fudbaleri-sabaha-ubedljivo-pobedili-orhus-i-izborili-plej-of-kvalifikacija-za-ls/vest",
       "izvor": "Танјуг",
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Zvezdin tim za Hapoel: Elšnik, Duarte i Enem od prvog minuta",
-      "url": "https://www.tanjug.rs/sport/fudbal/272910/zvezdin-tim-za-hapoel-elsnik-duarte-i-enem-od-prvog-minuta/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 08. 2026. у 19:01",
-      "slika": null
-    },
-    {
-      "naslov": "Argentinski fudbaler Fakundo Medina potpisao ugovor sa Bajer Leverkuzenom",
-      "url": "https://www.tanjug.rs/sport/fudbal/272908/argentinski-fudbaler-fakundo-medina-potpisao-ugovor-sa-bajer-leverkuzenom/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 08. 2026. у 18:23",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Barselone Runi Bardži mora na operaciju desnog kolena",
-      "url": "https://www.tanjug.rs/sport/fudbal/272891/fudbaler-barselone-runi-bardzi-mora-na-operaciju-desnog-kolena/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 08. 2026. у 17:17",
+      "naslov": "Vojvodina dovela pojačanje iz Bundeslige",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258170/erhan-masovic-novi-fudbaler-vojvodine/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "11. 08. 2026. у 21:17",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258121/sandro-tremule-pojacao-karlsrue/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "11. 08. 2026. у 18:14",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Partizan može protiv Hetafea – Evropa jedina opcija&quot;; &quot;Na Tajlandu su me upropastili&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258072/taki-nikolic-o-partizanu-i-buriramu-evropa-jedina-opcija-za-crno-bele/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "11. 08. 2026. у 15:10",
       "slika": null
     }
   ]
