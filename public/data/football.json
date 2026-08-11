@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-11T16:40:55.047757+00:00",
-  "azurirano_sr": "11. 08. 2026. у 18:40",
+  "azurirano": "2026-08-11T17:37:21.386457+00:00",
+  "azurirano_sr": "11. 08. 2026. у 19:37",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Zvezdin tim za Hapoel: Elšnik, Duarte i Enem od prvog minuta",
+      "url": "https://www.tanjug.rs/sport/fudbal/272910/zvezdin-tim-za-hapoel-elsnik-duarte-i-enem-od-prvog-minuta/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 08. 2026. у 19:01",
+      "slika": null
+    },
+    {
+      "naslov": "Argentinski fudbaler Fakundo Medina potpisao ugovor sa Bajer Leverkuzenom",
+      "url": "https://www.tanjug.rs/sport/fudbal/272908/argentinski-fudbaler-fakundo-medina-potpisao-ugovor-sa-bajer-leverkuzenom/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 08. 2026. у 18:23",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaler Barselone Runi Bardži mora na operaciju desnog kolena",
       "url": "https://www.tanjug.rs/sport/fudbal/272891/fudbaler-barselone-runi-bardzi-mora-na-operaciju-desnog-kolena/vest",
       "izvor": "Танјуг",
@@ -39,24 +53,10 @@
       "slika": null
     },
     {
-      "naslov": "Usman Diomande novi fudbaler Notingem Foresta",
-      "url": "https://www.tanjug.rs/sport/fudbal/272870/usman-diomande-novi-fudbaler-notingem-foresta/vest",
+      "naslov": "Džoel Bolomboj potpisao dvogodišnji ugovor sa Asvelom",
+      "url": "https://www.tanjug.rs/sport/fudbal/272881/dzoel-bolomboj-potpisao-dvogodisnji-ugovor-sa-asvelom/vest",
       "izvor": "Танјуг",
-      "datum": "11. 08. 2026. у 15:59",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Partizana otputovali u Kazahstan na utakmicu protiv Tobola",
-      "url": "https://www.tanjug.rs/sport/fudbal/272788/fudbaleri-partizana-otputovali-u-kazahstan-na-utakmicu-protiv-tobola/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 08. 2026. у 12:12",
-      "slika": null
-    },
-    {
-      "naslov": "FK Crvena zvezda: Zbog velikog interesovanja u prodaji i karte za jug protiv Hapoela",
-      "url": "https://www.tanjug.rs/sport/fudbal/272782/fk-crvena-zvezda-zbog-velikog-interesovanja-u-prodaji-i-karte-za-jug-protiv-hapoela/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 08. 2026. у 12:06",
+      "datum": "11. 08. 2026. у 16:38",
       "slika": null
     },
     {
