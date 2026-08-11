@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-11T07:22:38.413444+00:00",
-  "azurirano_sr": "11. 08. 2026. у 09:22",
+  "azurirano": "2026-08-11T08:27:14.802124+00:00",
+  "azurirano_sr": "11. 08. 2026. у 10:27",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (utorak, 11. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-11-avgust/551124",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 08. 2026. у 11:30",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (ponedeljak, 10. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-ponedeljak-10-avgust/551058",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Idan Vered: U Zvezdi je trenutno opšti haos; Katai će verovatno početi revanš sa Hapoelom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/idan-vered-u-zvezdi-je-trenutno-opsti-haos-katai-ce-verovatno-poceti-revans-sa-hapoelom/551085",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 08. 2026. у 16:50",
+      "naslov": "Crvena zvezda večeras dočekuje Hapoel Ber Ševu u revanšu 3. kola kvalifikacija za Ligu šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/272716/crvena-zvezda-veceras-docekuje-hapoel-ber-sevu-u-revansu-3-kola-kvalifikacija-za-ligu-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 08. 2026. у 09:24",
       "slika": null
     },
     {
@@ -53,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Trener Hapoela Ran Kožuh: Znamo šta nas čeka, daćemo sve od sebe",
-      "url": "https://www.tanjug.rs/sport/fudbal/272638/trener-hapoela-ran-kozuh-znamo-sta-nas-ceka-dacemo-sve-od-sebe/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 08. 2026. у 19:23",
-      "slika": null
-    },
-    {
       "naslov": "Uroš Nikolić stigao u Čukarički",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/257710/uros-nikolic-pojacao-cukaricki/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 08. 2026. у 14:28",
+      "slika": null
+    },
+    {
+      "naslov": "Drama u Kolumbiji: Fudbaler nestao nakon razornog zemljotresa",
+      "url": "https://www.b92.net/sport/fudbal/vesti/257956/fudbaler-nestao-nakon-razornog-zemljotresa-u-kolumbiji/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "11. 08. 2026. у 10:00",
       "slika": null
     },
     {
