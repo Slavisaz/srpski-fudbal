@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-11T14:56:04.709273+00:00",
-  "azurirano_sr": "11. 08. 2026. у 16:56",
+  "azurirano": "2026-08-11T15:51:41.482172+00:00",
+  "azurirano_sr": "11. 08. 2026. у 17:51",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (utorak, 11. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-11-avgust/551124",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 08. 2026. у 18:53",
+      "slika": null
+    },
     {
       "naslov": "Unikat u srpskom fudbalu: Od špica, preko fulbeka u reprezentaciji, do vrhunskog štopera",
       "url": "https://www.mozzartsport.com/fudbal/vesti/unikat-u-srpskom-fudbalu-od-spica-preko-fulbeka-u-reprezentaciji-do-vrhunskog-stopera/551158",
@@ -18,17 +25,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (utorak, 11. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-11-avgust/551124",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 08. 2026. у 11:30",
-      "slika": null
-    },
-    {
       "naslov": "TRANSFERI (ponedeljak, 10. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-ponedeljak-10-avgust/551058",
       "izvor": "Мозарт Спорт",
       "datum": "11. 08. 2026. у 01:00",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaler Barselone Runi Bardži mora na operaciju desnog kolena",
+      "url": "https://www.tanjug.rs/sport/fudbal/272891/fudbaler-barselone-runi-bardzi-mora-na-operaciju-desnog-kolena/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 08. 2026. у 17:17",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272782/fk-crvena-zvezda-zbog-velikog-interesovanja-u-prodaji-i-karte-za-jug-protiv-hapoela/vest",
       "izvor": "Танјуг",
       "datum": "11. 08. 2026. у 12:06",
-      "slika": null
-    },
-    {
-      "naslov": "Tramp: Smena Infantina bi bila velika greška, ako ode Svetsko prvenstvo više neće biti tako uspešno",
-      "url": "https://www.tanjug.rs/sport/fudbal/272748/tramp-smena-infantina-bi-bila-velika-greska-ako-ode-svetsko-prvenstvo-vise-nece-biti-tako-uspesno/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 08. 2026. у 10:43",
       "slika": null
     },
     {
