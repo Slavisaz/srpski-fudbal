@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-11T20:19:20.743496+00:00",
-  "azurirano_sr": "11. 08. 2026. у 22:19",
+  "azurirano": "2026-08-11T21:06:59.542054+00:00",
+  "azurirano_sr": "11. 08. 2026. у 23:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dejan Stanković i Liga šampiona - 0/4",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dejan-stankovic-i-liga-sampiona-04/551187",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 08. 2026. у 00:11",
+      "slika": null
+    },
     {
       "naslov": "GOTOVO: Podrhtava Bosfor, Vlahović dogovorio transfer u Bešiktaš!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/gotovo-podrhtava-bosfor-vlahovic-dogovorio-transfer-u-besiktas/551175",
@@ -25,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (utorak, 11. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-11-avgust/551124",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 08. 2026. у 18:53",
+      "naslov": "Sakić: Žao nam je navijača, Hapoel je iskoristio svoje šanse",
+      "url": "https://www.tanjug.rs/sport/fudbal/272946/sakic-zao-nam-je-navijaca-hapoel-je-iskoristio-svoje-sanse/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 08. 2026. у 22:24",
       "slika": null
     },
     {
       "naslov": "Fudbaleri Hapoela \"šokirali\" Zvezdu u Beogradu, ništa od plej-ofa za Ligu šampiona",
       "url": "https://www.tanjug.rs/sport/fudbal/272910/fudbaleri-hapoela-sokirali-zvezdu-u-beogradu-nista-od-plej-ofa-za-ligu-sampiona/vest",
       "izvor": "Танјуг",
-      "datum": "11. 08. 2026. у 22:02",
+      "datum": "11. 08. 2026. у 22:17",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/272927/erhan-masovic-novi-fudbaler-vojvodine/vest",
       "izvor": "Танјуг",
       "datum": "11. 08. 2026. у 20:16",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Sabaha ubedljivo pobedili Orhus i izborili plej-of kvalifikacija za LŠ",
-      "url": "https://www.tanjug.rs/sport/fudbal/272921/fudbaleri-sabaha-ubedljivo-pobedili-orhus-i-izborili-plej-of-kvalifikacija-za-ls/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 08. 2026. у 20:01",
       "slika": null
     },
     {
