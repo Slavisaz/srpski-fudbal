@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-12T08:16:56.418479+00:00",
-  "azurirano_sr": "12. 08. 2026. у 10:16",
+  "azurirano": "2026-08-12T09:32:56.063752+00:00",
+  "azurirano_sr": "12. 08. 2026. у 11:32",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Vojvodina sprema novu bombu: Veljko Birmančević na meti",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vojvodina-sprema-novu-bombu-veljko-birmancevic-na-meti/551221",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 08. 2026. у 12:54",
+      "slika": null
+    },
+    {
+      "naslov": "Spektakl u Salcburgu, Enrike cilja treći pehar Superkupa Evrope, Emeri ide po prvi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/spektakl-u-salcburgu-enrike-cilja-treci-pehar-superkupa-evrope-emeri-ide-po-prvi/551213",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 08. 2026. у 12:14",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 11. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-11-avgust/551209",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Bratski susret Tadića i Džeka u Najmehenu: \"Al’ si se izbild’o!” - \"Doneo si nam sreću\"",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bratski-susret-tadica-i-dzeka-u-najmehenu-al-si-se-izbildo-doneo-si-nam-srecu/551201",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 08. 2026. у 05:12",
+      "naslov": "Pep Čavarija novi fudbaler Čelsija",
+      "url": "https://www.tanjug.rs/sport/fudbal/273023/pep-cavarija-novi-fudbaler-celsija/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 08. 2026. у 11:02",
       "slika": null
     },
     {
-      "naslov": "Buran dan u kneževini: Monako traži Totenhemu 60.000.000 za Baloguna, Pogbi raskinut ugovor",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/buran-dan-u-knezevini-monako-trazi-totenhemu-60000000-za-baloguna-pogbi-raskinut-ugovor/551199",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 08. 2026. у 03:07",
+      "naslov": "Odložena utakmica petog kola Superlige između fudbalera Železničara i Crvene zvezde",
+      "url": "https://www.tanjug.rs/sport/fudbal/273010/odlozena-utakmica-petog-kola-superlige-izmedu-fudbalera-zeleznicara-i-crvene-zvezde/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 08. 2026. у 10:32",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Sakić: Žao nam je navijača, Hapoel je iskoristio svoje šanse",
-      "url": "https://www.tanjug.rs/sport/fudbal/272946/sakic-zao-nam-je-navijaca-hapoel-je-iskoristio-svoje-sanse/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 08. 2026. у 22:24",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Hapoela \"šokirali\" Zvezdu u Beogradu, ništa od plej-ofa za Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/272910/fudbaleri-hapoela-sokirali-zvezdu-u-beogradu-nista-od-plej-ofa-za-ligu-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 08. 2026. у 22:17",
-      "slika": null
-    },
-    {
-      "naslov": "Vanredno na &quot;Mitiću&quot;: Uprava zaseda; Trener glavna tema; Odložena utakmica;",
+      "naslov": "Vanredno na &quot;Mitiću&quot;: Hapoel srušio sve; Ko posle Stankovića?",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258257/vanredna-situacija-u-fk-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 08. 2026. у 10:06",
+      "datum": "12. 08. 2026. у 11:17",
       "slika": null
     },
     {
-      "naslov": "Ostavke posle mesec dana sezone – neviđena situacija u Superligi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258277/dejan-stankovic-i-miroslav-tanjga-dobili-otkaze-posle-mesec-dana-sezone/vest",
+      "naslov": "Partizan u problemu – francuzi traže veliki novac za Miladinovića",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258314/sent-etjen-pravi-problem-partizanu-u-vezi-dovodjenja-igora-miladinovica/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 08. 2026. у 10:00",
+      "datum": "12. 08. 2026. у 11:12",
       "slika": null
     }
   ]
