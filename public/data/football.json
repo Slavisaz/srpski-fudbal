@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-12T10:37:28.407751+00:00",
-  "azurirano_sr": "12. 08. 2026. у 12:37",
+  "azurirano": "2026-08-12T11:25:35.887880+00:00",
+  "azurirano_sr": "12. 08. 2026. у 13:25",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (sreda, 12. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-12-avgust/551209",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 08. 2026. у 15:10",
+      "slika": null
+    },
     {
       "naslov": "VLAHOVIĆ INSIDE: Operacija od 90.000.000 evra, večeras će goreti Istanbul",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vlahovic-inside-operacija-od-90000000-evra-veceras-ce-goreti-istanbul/551214",
@@ -25,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (sreda, 11. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-11-avgust/551209",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 08. 2026. у 11:34",
-      "slika": null
-    },
-    {
-      "naslov": "Počeo sastanak Upravnog odbora FK Crvena zvezda, čeka se odluka o Stankoviću",
-      "url": "https://www.tanjug.rs/sport/fudbal/273046/poceo-sastanak-upravnog-odbora-fk-crvena-zvezda-ceka-se-odluka-o-stankovicu/vest",
+      "naslov": "Terzić: Stanković podneo ostavku, izvinjavam se i razumem ogorčenost navijača",
+      "url": "https://www.tanjug.rs/sport/fudbal/273046/terzic-stankovic-podneo-ostavku-izvinjavam-se-i-razumem-ogorcenost-navijaca/vest",
       "izvor": "Танјуг",
-      "datum": "12. 08. 2026. у 12:07",
+      "datum": "12. 08. 2026. у 13:16",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Vanredno na &quot;Mitiću&quot;: &quot;Zvezdane, kako ste?; Terzić: &#039;Eh..&#039;&quot; FOTO",
+      "naslov": "Terzić: &quot;Jadno i bedno&quot;, &quot;Ako neko može bolje...&quot;; &quot;Nov trener do petka&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258257/vanredna-situacija-u-fk-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 08. 2026. у 12:19",
+      "datum": "12. 08. 2026. у 13:22",
       "slika": null
     },
     {
-      "naslov": "Vojvodina sprema transfer-bombu – Veljko Birmančević stiže u Novi Sad?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258320/veljko-birmancevic-na-radaru-vojvodine/vest",
+      "naslov": "Transfer bomba na Marakani – Rafa Benites kandidat za trenera Zvezde",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258358/benitez-opcija-za-crvenu-zvezdu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 08. 2026. у 11:48",
+      "datum": "12. 08. 2026. у 13:11",
       "slika": null
     }
   ]
