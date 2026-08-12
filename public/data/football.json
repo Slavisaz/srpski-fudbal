@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-12T09:32:56.063752+00:00",
-  "azurirano_sr": "12. 08. 2026. у 11:32",
+  "azurirano": "2026-08-12T10:37:28.407751+00:00",
+  "azurirano_sr": "12. 08. 2026. у 12:37",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "VLAHOVIĆ INSIDE: Operacija od 90.000.000 evra, večeras će goreti Istanbul",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vlahovic-inside-operacija-od-90000000-evra-veceras-ce-goreti-istanbul/551214",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 08. 2026. у 13:51",
+      "slika": null
+    },
     {
       "naslov": "Vojvodina sprema novu bombu: Veljko Birmančević na meti",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vojvodina-sprema-novu-bombu-veljko-birmancevic-na-meti/551221",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "LUDI TIKET, sreda, 442.305 dinara: Ovako se kombinuje s golovima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-sreda-442305-dinara-ovako-se-kombinuje-s-golovima/551205",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 08. 2026. у 10:24",
+      "naslov": "Počeo sastanak Upravnog odbora FK Crvena zvezda, čeka se odluka o Stankoviću",
+      "url": "https://www.tanjug.rs/sport/fudbal/273046/poceo-sastanak-upravnog-odbora-fk-crvena-zvezda-ceka-se-odluka-o-stankovicu/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 08. 2026. у 12:07",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Srpski atletičar Luka Bošković osvojio peto mesto u skoku udalj na EP u Birmingemu",
-      "url": "https://www.tanjug.rs/sport/fudbal/272951/srpski-atleticar-luka-boskovic-osvojio-peto-mesto-u-skoku-udalj-na-ep-u-birmingemu/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 08. 2026. у 22:52",
-      "slika": null
-    },
-    {
-      "naslov": "Vanredno na &quot;Mitiću&quot;: Hapoel srušio sve; Ko posle Stankovića?",
+      "naslov": "Vanredno na &quot;Mitiću&quot;: &quot;Zvezdane, kako ste?; Terzić: &#039;Eh..&#039;&quot; FOTO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258257/vanredna-situacija-u-fk-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 08. 2026. у 11:17",
+      "datum": "12. 08. 2026. у 12:19",
       "slika": null
     },
     {
-      "naslov": "Partizan u problemu – francuzi traže veliki novac za Miladinovića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258314/sent-etjen-pravi-problem-partizanu-u-vezi-dovodjenja-igora-miladinovica/vest",
+      "naslov": "Vojvodina sprema transfer-bombu – Veljko Birmančević stiže u Novi Sad?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258320/veljko-birmancevic-na-radaru-vojvodine/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 08. 2026. у 11:12",
+      "datum": "12. 08. 2026. у 11:48",
       "slika": null
     }
   ]
