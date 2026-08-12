@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-12T14:38:49.315903+00:00",
-  "azurirano_sr": "12. 08. 2026. у 16:38",
+  "azurirano": "2026-08-12T15:32:51.262704+00:00",
+  "azurirano_sr": "12. 08. 2026. у 17:32",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Transfer slagalica da glava zaboli: Pala prva domina na Italiji i pogurala još tri posla",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transfer-slagalica-da-glava-zaboli-pala-prva-domina-na-italiji-i-pogurala-jos-tri-posla/551252",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 08. 2026. у 19:06",
+      "slika": null
+    },
+    {
+      "naslov": "Ilić pred Tobol: Partizan konačno počeo da igra fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ilic-pred-tobol-partizan-konacno-poceo-da-igra-fudbal/551250",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 08. 2026. у 18:32",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 12. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-12-avgust/551209",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/imamo-trojicu-kandidata-za-trenera-razgovarali-smo-sa-dvojicom/551237",
       "izvor": "Мозарт Спорт",
       "datum": "12. 08. 2026. у 16:02",
-      "slika": null
-    },
-    {
-      "naslov": "VLAHOVIĆ INSIDE: Operacija od 90.000.000 evra, večeras će goreti Istanbul",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vlahovic-inside-operacija-od-90000000-evra-veceras-ce-goreti-istanbul/551214",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 08. 2026. у 13:51",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina sprema novu bombu: Veljko Birmančević na meti",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vojvodina-sprema-novu-bombu-veljko-birmancevic-na-meti/551221",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 08. 2026. у 12:54",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Ko će biti novi trener Zvezde? ANKETA",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258441/ko-ce-biti-novi-trener-crvene-zvezde-anketa-b92sport/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 08. 2026. у 16:45",
+      "slika": null
+    },
+    {
       "naslov": "Mašović zadovoljan dolaskom u Vojvodinu: &quot;Nije bila teška odluka&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258326/erhan-masovic-zadovoljan-dolaskom-u-vojvodinu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 08. 2026. у 14:28",
-      "slika": null
-    },
-    {
-      "naslov": "Terzić: &quot;Jadno i bedno&quot;, &quot;Izbori, pa izvolite&quot;; Tri kandidata za trenera; Pomenut i Partizan VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258257/vanredna-situacija-u-fk-crvena-zvezda/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 08. 2026. у 14:05",
       "slika": null
     }
   ]
