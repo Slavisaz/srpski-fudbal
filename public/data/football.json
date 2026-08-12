@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-12T18:24:25.880648+00:00",
-  "azurirano_sr": "12. 08. 2026. у 20:24",
+  "azurirano": "2026-08-12T19:32:00.456672+00:00",
+  "azurirano_sr": "12. 08. 2026. у 21:32",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Anglicizacija Intera: Stons dočekuje Spensa na Meaci, stvara se prostor i za trećeg Engleza",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/anglicizacija-intera-stons-docekuje-spensa-na-meaci-stvara-se-prostor-i-za-treceg-engleza/551264",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 08. 2026. у 23:24",
+      "slika": null
+    },
     {
       "naslov": "Liga konferencije: Katovice umalo do čuda; Kopenhagen imao lakši trening",
       "url": "https://www.mozzartsport.com/fudbal/vesti/liga-konferencije-katovice-umalo-do-cuda-kopenhagen-imao-laksi-trening/551261",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Transfer slagalica da glava zaboli: Pala prva domina u Italiji i pogurala još tri posla",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transfer-slagalica-da-glava-zaboli-pala-prva-domina-u-italiji-i-pogurala-jos-tri-posla/551252",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 08. 2026. у 19:06",
+      "naslov": "Vlahović: Srećan sam što sam došao u Bešiktaš, crno-bele boje me prate kroz ceo život",
+      "url": "https://www.tanjug.rs/sport/fudbal/273219/vlahovic-srecan-sam-sto-sam-dosao-u-besiktas-crno-bele-boje-me-prate-kroz-ceo-zivot/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 08. 2026. у 21:08",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273188/besiktas-poceli-zvanicni-pregovori-sa-srpskim-fudbalerom-dusanom-vlahovicem/vest",
       "izvor": "Танјуг",
       "datum": "12. 08. 2026. у 18:02",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić: Tobol je domaćinska ekipa, pokušaćemo da dođemo do još jedne pobede",
-      "url": "https://www.tanjug.rs/sport/fudbal/273153/sasa-ilic-tobol-je-domacinska-ekipa-pokusacemo-da-dodemo-do-jos-jedne-pobede/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 08. 2026. у 16:11",
       "slika": null
     },
     {
