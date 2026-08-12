@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-12T06:59:11.188894+00:00",
-  "azurirano_sr": "12. 08. 2026. у 08:59",
+  "azurirano": "2026-08-12T08:16:56.418479+00:00",
+  "azurirano_sr": "12. 08. 2026. у 10:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (sreda, 11. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-11-avgust/551209",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 08. 2026. у 11:34",
+      "slika": null
+    },
     {
       "naslov": "LUDI TIKET, sreda, 442.305 dinara: Ovako se kombinuje s golovima",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-sreda-442305-dinara-ovako-se-kombinuje-s-golovima/551205",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Enco sanja Enca i najskuplji posao leta! Čelsi traži 140.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/enco-sanja-enca-i-najskuplji-posao-leta-celsi-trazi-140000000-evra/551192",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 08. 2026. у 01:17",
+      "naslov": "Zvezdina uprava na čelu sa Terzićem pred novinarima u 13 sati",
+      "url": "https://www.tanjug.rs/sport/fudbal/272989/zvezdina-uprava-na-celu-sa-terzicem-pred-novinarima-u-13-sati/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 08. 2026. у 09:30",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Luis Enrike: Teško je očekivati utakmicu na vrhunskom nivou",
-      "url": "https://www.tanjug.rs/sport/fudbal/272937/luis-enrike-tesko-je-ocekivati-utakmicu-na-vrhunskom-nivou/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 08. 2026. у 21:21",
+      "naslov": "Vanredno na &quot;Mitiću&quot;: Uprava zaseda; Trener glavna tema; Odložena utakmica;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258257/vanredna-situacija-u-fk-crvena-zvezda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 08. 2026. у 10:06",
       "slika": null
     },
     {
-      "naslov": "Vojvodina dovela pojačanje iz Bundeslige",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258170/erhan-masovic-novi-fudbaler-vojvodine/vest",
+      "naslov": "Ostavke posle mesec dana sezone – neviđena situacija u Superligi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258277/dejan-stankovic-i-miroslav-tanjga-dobili-otkaze-posle-mesec-dana-sezone/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "11. 08. 2026. у 21:17",
-      "slika": null
-    },
-    {
-      "naslov": "Radnik prodao štopera u Nemačku i dobro zaradio",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258121/sandro-tremule-pojacao-karlsrue/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "11. 08. 2026. у 18:14",
+      "datum": "12. 08. 2026. у 10:00",
       "slika": null
     }
   ]
