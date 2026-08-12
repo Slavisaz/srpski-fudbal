@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-12T20:59:56.493965+00:00",
-  "azurirano_sr": "12. 08. 2026. у 22:59",
+  "azurirano": "2026-08-12T21:47:46.619441+00:00",
+  "azurirano_sr": "12. 08. 2026. у 23:47",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Pari Sen Žermena osvojili UEFA Superkup",
+      "url": "https://www.tanjug.rs/sport/fudbal/273237/fudbaleri-pari-sen-zermena-osvojili-uefa-superkup/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 08. 2026. у 22:58",
+      "slika": null
+    },
+    {
       "naslov": "Hrvatski stručnjak Zlatko Dalić novi selektor fudbalera Ujedinjenih Arapskih Emirata",
       "url": "https://www.tanjug.rs/sport/fudbal/273233/hrvatski-strucnjak-zlatko-dalic-novi-selektor-fudbalera-ujedinjenih-arapskih-emirata/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273223/spanski-strucnjak-cavi-ernandez-novi-selektor-holandije/vest",
       "izvor": "Танјуг",
       "datum": "12. 08. 2026. у 21:31",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Luka Jović dao gol za AEK, OFI osvojio Superkup Grčke na penale",
-      "url": "https://www.tanjug.rs/sport/fudbal/273222/srpski-fudbaler-luka-jovic-dao-gol-za-aek-ofi-osvojio-superkup-grcke-na-penale/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 08. 2026. у 21:29",
       "slika": null
     },
     {
