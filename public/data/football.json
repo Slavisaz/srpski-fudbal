@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-08-12T21:47:46.619441+00:00",
-  "azurirano_sr": "12. 08. 2026. у 23:47",
+  "azurirano": "2026-08-12T22:24:27.540460+00:00",
+  "azurirano_sr": "13. 08. 2026. у 00:24",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (sreda, 12. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-sreda-12-avgust/551209",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 08. 2026. у 01:45",
+      "slika": null
+    },
     {
       "naslov": "Zvezdino ispadanje iz Lige šampiona donosi finansijsku injekciju Dinamu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdino-ispadanje-iz-lige-sampiona-donosi-finansijsku-injekciju-dinamu/551271",
       "izvor": "Мозарт Спорт",
       "datum": "13. 08. 2026. у 00:46",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (sreda, 12. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-12-avgust/551209",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 08. 2026. у 23:37",
       "slika": null
     },
     {
