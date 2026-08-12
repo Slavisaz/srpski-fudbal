@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-12T20:10:18.246766+00:00",
-  "azurirano_sr": "12. 08. 2026. у 22:10",
+  "azurirano": "2026-08-12T20:59:56.493965+00:00",
+  "azurirano_sr": "12. 08. 2026. у 22:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvezdino ispadanje iz Lige šampiona donosi finansijsku injekciju Dinamu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdino-ispadanje-iz-lige-sampiona-donosi-finansijsku-injekciju-dinamu/551271",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 08. 2026. у 00:46",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 12. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-12-avgust/551209",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Jović dao gol, Marko Nikolić izgubio prvi trofej u sezoni (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jovic-dao-gol-marko-nikolic-izgubio-prvi-trofej-u-sezoni-video/551268",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 08. 2026. у 23:18",
+      "naslov": "Hrvatski stručnjak Zlatko Dalić novi selektor fudbalera Ujedinjenih Arapskih Emirata",
+      "url": "https://www.tanjug.rs/sport/fudbal/273233/hrvatski-strucnjak-zlatko-dalic-novi-selektor-fudbalera-ujedinjenih-arapskih-emirata/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 08. 2026. у 22:16",
+      "slika": null
+    },
+    {
+      "naslov": "Španski stručnjak Albert Rijera izvesno novi trener fudbalera Crvene zvezde",
+      "url": "https://www.tanjug.rs/sport/fudbal/273229/spanski-strucnjak-albert-rijera-izvesno-novi-trener-fudbalera-crvene-zvezde/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 08. 2026. у 22:05",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273222/srpski-fudbaler-luka-jovic-dao-gol-za-aek-ofi-osvojio-superkup-grcke-na-penale/vest",
       "izvor": "Танјуг",
       "datum": "12. 08. 2026. у 21:29",
-      "slika": null
-    },
-    {
-      "naslov": "Vlahović: Srećan sam što sam došao u Bešiktaš, crno-bele boje me prate kroz ceo život",
-      "url": "https://www.tanjug.rs/sport/fudbal/273219/vlahovic-srecan-sam-sto-sam-dosao-u-besiktas-crno-bele-boje-me-prate-kroz-ceo-zivot/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 08. 2026. у 21:08",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Kopenhagena i u revanšu deklasirali Debrecin u kvalifikacijama za Ligu konferencija",
-      "url": "https://www.tanjug.rs/sport/fudbal/273210/fudbaleri-kopenhagena-i-u-revansu-deklasirali-debrecin-u-kvalifikacijama-za-ligu-konferencija/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 08. 2026. у 20:02",
       "slika": null
     },
     {
