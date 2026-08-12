@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-12T19:32:00.456672+00:00",
-  "azurirano_sr": "12. 08. 2026. у 21:32",
+  "azurirano": "2026-08-12T20:10:18.246766+00:00",
+  "azurirano_sr": "12. 08. 2026. у 22:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (sreda, 12. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-12-avgust/551209",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 08. 2026. у 23:37",
+      "slika": null
+    },
+    {
+      "naslov": "Navijači Palmeirasa bi da oteraju Fereiru, on traži iskupljenje u Kopa Libertadores",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/navijaci-palmeirasa-bi-da-oteraju-fereiru-on-trazi-iskupljenje-u-kopa-libertadores/551243",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 08. 2026. у 23:35",
+      "slika": null
+    },
     {
       "naslov": "Anglicizacija Intera: Stons dočekuje Spensa na Meaci, stvara se prostor i za trećeg Engleza",
       "url": "https://www.mozzartsport.com/fudbal/vesti/anglicizacija-intera-stons-docekuje-spensa-na-meaci-stvara-se-prostor-i-za-treceg-engleza/551264",
@@ -11,24 +25,24 @@
       "slika": null
     },
     {
-      "naslov": "Liga konferencije: Katovice umalo do čuda; Kopenhagen imao lakši trening",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/liga-konferencije-katovice-umalo-do-cuda-kopenhagen-imao-laksi-trening/551261",
+      "naslov": "Jović dao gol, Marko Nikolić izgubio prvi trofej u sezoni (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jovic-dao-gol-marko-nikolic-izgubio-prvi-trofej-u-sezoni-video/551268",
       "izvor": "Мозарт Спорт",
-      "datum": "12. 08. 2026. у 22:12",
+      "datum": "12. 08. 2026. у 23:18",
       "slika": null
     },
     {
-      "naslov": "PARTIZAN – TIM ZA TOBOL: Vukotiću se igra fudbal, a i Kostiću",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/partizan-tim-za-tobol-vukoticu-se-igra-fudbal-a-i-kosticu/551258",
-      "izvor": "Мозарт Спорт",
+      "naslov": "Španski stručnjak Ćavi Ernandez novi selektor Holandije",
+      "url": "https://www.tanjug.rs/sport/fudbal/273223/spanski-strucnjak-cavi-ernandez-novi-selektor-holandije/vest",
+      "izvor": "Танјуг",
       "datum": "12. 08. 2026. у 21:31",
       "slika": null
     },
     {
-      "naslov": "Veliki Rom za još veće snove: Lukaku u Feneru za 10.000.000 godišnje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/veliki-rom-za-jos-vece-snove-lukaku-u-feneru-za-10000000-godisnje/551257",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 08. 2026. у 21:20",
+      "naslov": "Srpski fudbaler Luka Jović dao gol za AEK, OFI osvojio Superkup Grčke na penale",
+      "url": "https://www.tanjug.rs/sport/fudbal/273222/srpski-fudbaler-luka-jovic-dao-gol-za-aek-ofi-osvojio-superkup-grcke-na-penale/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 08. 2026. у 21:29",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Belgijski fudbaler Romelu Lukaku potpisao za Fenerbahče",
-      "url": "https://www.tanjug.rs/sport/fudbal/273190/belgijski-fudbaler-romelu-lukaku-potpisao-za-fenerbahce/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 08. 2026. у 18:08",
-      "slika": null
-    },
-    {
-      "naslov": "Bešiktaš: Počeli zvanični pregovori sa srpskim fudbalerom Dušanom Vlahovićem",
-      "url": "https://www.tanjug.rs/sport/fudbal/273188/besiktas-poceli-zvanicni-pregovori-sa-srpskim-fudbalerom-dusanom-vlahovicem/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 08. 2026. у 18:02",
+      "naslov": "Zvezda našla trenera!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258516/albert-rijera-novi-trener-fk-crvena-zvezda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 08. 2026. у 22:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258481/radomir-kokovic-ne-dolazi-u-crvenu-zvezdu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 08. 2026. у 19:00",
-      "slika": null
-    },
-    {
-      "naslov": "Da li nam je Terzić već otkrio novog trenera Zvezde?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258455/albert-rijera-novi-trener-crvene-zvezde/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 08. 2026. у 18:15",
       "slika": null
     }
   ]
