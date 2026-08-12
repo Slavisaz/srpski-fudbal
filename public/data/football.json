@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-12T00:02:49.679660+00:00",
-  "azurirano_sr": "12. 08. 2026. у 02:02",
+  "azurirano": "2026-08-12T02:34:22.854926+00:00",
+  "azurirano_sr": "12. 08. 2026. у 04:34",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Bratski susret Tadića i Džeka u Najmehenu: \"Al’ si se izbild’o!” - \"Doneo si nam sreću\"",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bratski-susret-tadica-i-dzeka-u-najmehenu-al-si-se-izbildo-doneo-si-nam-srecu/551201",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 08. 2026. у 05:12",
+      "slika": null
+    },
     {
       "naslov": "Buran dan u kneževini: Monako traži Totenhemu 60.000.000 za Baloguna, Pogbi raskinut ugovor",
       "url": "https://www.mozzartsport.com/fudbal/vesti/buran-dan-u-knezevini-monako-trazi-totenhemu-60000000-za-baloguna-pogbi-raskinut-ugovor/551199",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/dejan-stankovic-i-liga-sampiona-04/551187",
       "izvor": "Мозарт Спорт",
       "datum": "12. 08. 2026. у 00:11",
-      "slika": null
-    },
-    {
-      "naslov": "GOTOVO: Podrhtava Bosfor, Vlahović dogovorio transfer u Bešiktaš!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gotovo-podrhtava-bosfor-vlahovic-dogovorio-transfer-u-besiktas/551175",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 08. 2026. у 21:56",
       "slika": null
     },
     {
