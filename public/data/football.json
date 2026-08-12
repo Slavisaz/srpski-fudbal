@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-12T15:32:51.262704+00:00",
-  "azurirano_sr": "12. 08. 2026. у 17:32",
+  "azurirano": "2026-08-12T16:28:31.843076+00:00",
+  "azurirano_sr": "12. 08. 2026. у 18:28",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Bešiktaš: Počeli zvanični pregovori sa srpskim fudbalerom Dušanom Vlahovićem",
+      "url": "https://www.tanjug.rs/sport/fudbal/273188/besiktas-poceli-zvanicni-pregovori-sa-srpskim-fudbalerom-dusanom-vlahovicem/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 08. 2026. у 18:02",
+      "slika": null
+    },
+    {
       "naslov": "Saša Ilić: Tobol je domaćinska ekipa, pokušaćemo da dođemo do još jedne pobede",
       "url": "https://www.tanjug.rs/sport/fudbal/273153/sasa-ilic-tobol-je-domacinska-ekipa-pokusacemo-da-dodemo-do-jos-jedne-pobede/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Pep Čavarija novi fudbaler Čelsija",
-      "url": "https://www.tanjug.rs/sport/fudbal/273023/pep-cavarija-novi-fudbaler-celsija/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 08. 2026. у 11:02",
+      "naslov": "Da li nam je Terzić već otkrio novog trenera Zvezde?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258455/albert-rijera-novi-trener-crvene-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 08. 2026. у 18:15",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258441/ko-ce-biti-novi-trener-crvene-zvezde-anketa-b92sport/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 08. 2026. у 16:45",
-      "slika": null
-    },
-    {
-      "naslov": "Mašović zadovoljan dolaskom u Vojvodinu: &quot;Nije bila teška odluka&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258326/erhan-masovic-zadovoljan-dolaskom-u-vojvodinu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 08. 2026. у 14:28",
       "slika": null
     }
   ]
