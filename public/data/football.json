@@ -1,11 +1,11 @@
 {
-  "azurirano": "2026-08-12T16:28:31.843076+00:00",
-  "azurirano_sr": "12. 08. 2026. у 18:28",
+  "azurirano": "2026-08-12T17:27:28.881389+00:00",
+  "azurirano_sr": "12. 08. 2026. у 19:27",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Transfer slagalica da glava zaboli: Pala prva domina na Italiji i pogurala još tri posla",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transfer-slagalica-da-glava-zaboli-pala-prva-domina-na-italiji-i-pogurala-jos-tri-posla/551252",
+      "naslov": "Transfer slagalica da glava zaboli: Pala prva domina u Italiji i pogurala još tri posla",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transfer-slagalica-da-glava-zaboli-pala-prva-domina-u-italiji-i-pogurala-jos-tri-posla/551252",
       "izvor": "Мозарт Спорт",
       "datum": "12. 08. 2026. у 19:06",
       "slika": null
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Belgijski fudbaler Romelu Lukaku potpisao za Fenerbahče",
+      "url": "https://www.tanjug.rs/sport/fudbal/273190/belgijski-fudbaler-romelu-lukaku-potpisao-za-fenerbahce/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 08. 2026. у 18:08",
+      "slika": null
+    },
+    {
       "naslov": "Bešiktaš: Počeli zvanični pregovori sa srpskim fudbalerom Dušanom Vlahovićem",
       "url": "https://www.tanjug.rs/sport/fudbal/273188/besiktas-poceli-zvanicni-pregovori-sa-srpskim-fudbalerom-dusanom-vlahovicem/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Terzić: Stanković podneo ostavku, svesni smo odgovornosti, vanredni izbori u decembru",
-      "url": "https://www.tanjug.rs/sport/fudbal/273046/terzic-stankovic-podneo-ostavku-svesni-smo-odgovornosti-vanredni-izbori-u-decembru/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 08. 2026. у 13:16",
+      "naslov": "Superligaški trener demantovao dolazak u Zvezdu!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258481/radomir-kokovic-ne-dolazi-u-crvenu-zvezdu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 08. 2026. у 19:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258455/albert-rijera-novi-trener-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 08. 2026. у 18:15",
-      "slika": null
-    },
-    {
-      "naslov": "Ko će biti novi trener Zvezde? ANKETA",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258441/ko-ce-biti-novi-trener-crvene-zvezde-anketa-b92sport/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 08. 2026. у 16:45",
       "slika": null
     }
   ]
