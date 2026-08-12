@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-12T13:36:50.480315+00:00",
-  "azurirano_sr": "12. 08. 2026. у 15:36",
+  "azurirano": "2026-08-12T14:38:49.315903+00:00",
+  "azurirano_sr": "12. 08. 2026. у 16:38",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Saša Ilić: Tobol je domaćinska ekipa, pokušaćemo da dođemo do još jedne pobede",
+      "url": "https://www.tanjug.rs/sport/fudbal/273153/sasa-ilic-tobol-je-domacinska-ekipa-pokusacemo-da-dodemo-do-jos-jedne-pobede/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 08. 2026. у 16:11",
+      "slika": null
+    },
+    {
+      "naslov": "Heronimo Rulji novi golman Mančester sitija",
+      "url": "https://www.tanjug.rs/sport/fudbal/273133/heronimo-rulji-novi-golman-mancester-sitija/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 08. 2026. у 15:25",
+      "slika": null
+    },
+    {
       "naslov": "Terzić: Stanković podneo ostavku, svesni smo odgovornosti, vanredni izbori u decembru",
       "url": "https://www.tanjug.rs/sport/fudbal/273046/terzic-stankovic-podneo-ostavku-svesni-smo-odgovornosti-vanredni-izbori-u-decembru/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273023/pep-cavarija-novi-fudbaler-celsija/vest",
       "izvor": "Танјуг",
       "datum": "12. 08. 2026. у 11:02",
-      "slika": null
-    },
-    {
-      "naslov": "Odložena utakmica petog kola Superlige između fudbalera Železničara i Crvene zvezde",
-      "url": "https://www.tanjug.rs/sport/fudbal/273010/odlozena-utakmica-petog-kola-superlige-izmedu-fudbalera-zeleznicara-i-crvene-zvezde/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 08. 2026. у 10:32",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezdina uprava na čelu sa Terzićem pred novinarima u 13 sati",
-      "url": "https://www.tanjug.rs/sport/fudbal/272989/zvezdina-uprava-na-celu-sa-terzicem-pred-novinarima-u-13-sati/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 08. 2026. у 09:30",
       "slika": null
     },
     {
