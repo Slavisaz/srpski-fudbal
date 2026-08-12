@@ -1,13 +1,20 @@
 {
-  "azurirano": "2026-08-12T12:05:19.115393+00:00",
-  "azurirano_sr": "12. 08. 2026. у 14:05",
+  "azurirano": "2026-08-12T13:36:50.480315+00:00",
+  "azurirano_sr": "12. 08. 2026. у 15:36",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 12. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-12-avgust/551209",
       "izvor": "Мозарт Спорт",
-      "datum": "12. 08. 2026. у 15:10",
+      "datum": "12. 08. 2026. у 16:24",
+      "slika": null
+    },
+    {
+      "naslov": "Imamo trojicu kandidata za trenera, razgovarali smo sa dvojicom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/imamo-trojicu-kandidata-za-trenera-razgovarali-smo-sa-dvojicom/551237",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 08. 2026. у 16:02",
       "slika": null
     },
     {
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/vojvodina-sprema-novu-bombu-veljko-birmancevic-na-meti/551221",
       "izvor": "Мозарт Спорт",
       "datum": "12. 08. 2026. у 12:54",
-      "slika": null
-    },
-    {
-      "naslov": "Spektakl u Salcburgu, Enrike cilja treći pehar Superkupa Evrope, Emeri ide po prvi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/spektakl-u-salcburgu-enrike-cilja-treci-pehar-superkupa-evrope-emeri-ide-po-prvi/551213",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 08. 2026. у 12:14",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Terzić: &quot;Jadno i bedno&quot;, &quot;Izbori, pa izvolite&quot;; Tri kandidata za trenera; Pomenut i Partizan VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258257/vanredna-situacija-u-fk-crvena-zvezda/vest",
+      "naslov": "Mašović zadovoljan dolaskom u Vojvodinu: &quot;Nije bila teška odluka&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258326/erhan-masovic-zadovoljan-dolaskom-u-vojvodinu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 08. 2026. у 13:47",
+      "datum": "12. 08. 2026. у 14:28",
       "slika": null
     },
     {
-      "naslov": "Terzić: &quot;Voleo bih domaćeg trenera&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258374/zvezda-ima-tri-kandidata-za-trenera-u-opciji-i-stranac/vest",
+      "naslov": "Terzić: &quot;Jadno i bedno&quot;, &quot;Izbori, pa izvolite&quot;; Tri kandidata za trenera; Pomenut i Partizan VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258257/vanredna-situacija-u-fk-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 08. 2026. у 13:45",
+      "datum": "12. 08. 2026. у 14:05",
       "slika": null
     }
   ]
