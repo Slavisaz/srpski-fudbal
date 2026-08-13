@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-13T15:34:55.670956+00:00",
-  "azurirano_sr": "13. 08. 2026. у 17:34",
+  "azurirano": "2026-08-13T16:28:31.207673+00:00",
+  "azurirano_sr": "13. 08. 2026. у 18:28",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Prvo su okupirali Ameriku, a onda i transfer pijacu: Na pomolu treći veliki transfer BiH fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prvo-su-okupirali-ameriku-a-onda-i-transfer-pijacu-na-pomolu-treci-veliki-transfer-bih-fudbala/551327",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 08. 2026. у 19:36",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (četvrtak, 13. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-13-avgust/551291",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Četvrto leto otkako je sve počelo... I Lazetić u klubu koji je kao nijedan drugi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cetvrto-leto-otkako-je-sve-pocelo-i-lazetic-u-klubu-koji-je-kao-nijedan-drugi/551310",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 08. 2026. у 15:39",
+      "naslov": "Fudbaleri Partizana na početku drugog poluvremena izjednačili protiv Tobola",
+      "url": "https://www.tanjug.rs/sport/fudbal/273292/fudbaleri-partizana-na-pocetku-drugog-poluvremena-izjednacili-protiv-tobola/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 08. 2026. у 18:10",
+      "slika": null
+    },
+    {
+      "naslov": "Dušan Vlahović i zvanično novi fudbaler Bešiktaša",
+      "url": "https://www.tanjug.rs/sport/fudbal/273493/dusan-vlahovic-i-zvanicno-novi-fudbaler-besiktasa/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 08. 2026. у 17:46",
       "slika": null
     },
     {
@@ -39,13 +53,6 @@
       "slika": null
     },
     {
-      "naslov": "Partizanov tim za meč protiv Tobola: Alilović i Kojzek od prvog minuta",
-      "url": "https://www.tanjug.rs/sport/fudbal/273292/partizanov-tim-za-mec-protiv-tobola-alilovic-i-kojzek-od-prvog-minuta/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 08. 2026. у 16:09",
-      "slika": null
-    },
-    {
       "naslov": "Fabijen Bartez imenovan za novog trenera golmana reprezentacije Francuske",
       "url": "https://www.tanjug.rs/sport/fudbal/273467/fabijen-bartez-imenovan-za-novog-trenera-golmana-reprezentacije-francuske/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "FK Crvena zvezda: U prodaji karte za utakmicu protiv Viktorije Plzenj",
-      "url": "https://www.tanjug.rs/sport/fudbal/273447/fk-crvena-zvezda-u-prodaji-karte-za-utakmicu-protiv-viktorije-plzenj/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 08. 2026. у 14:56",
+      "naslov": "Here we go: Albert Rijera potpisao ugovor sa Zvezdom!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258767/fabricio-romano-objavio-da-je-albert-rijera-novi-trener-crvene-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 08. 2026. у 18:06",
       "slika": null
     },
     {
-      "naslov": "Olimpijakos poslao zvaničnu ponudu za Tiknizjana",
+      "naslov": "Tiknizjan napušta Zvezdu?",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258753/olimpijakos-poslao-zvanicnu-ponudu-za-tiknizjana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "13. 08. 2026. у 17:25",
-      "slika": null
-    },
-    {
-      "naslov": "Galatasaraj spremio 25 miliona evra za Kostova?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258677/galatasaraj-spremio-25-miliona-evra-za-kostova/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 08. 2026. у 13:17",
       "slika": null
     }
   ]
