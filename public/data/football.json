@@ -1,13 +1,27 @@
 {
-  "azurirano": "2026-08-13T12:03:23.214957+00:00",
-  "azurirano_sr": "13. 08. 2026. у 14:03",
+  "azurirano": "2026-08-13T13:36:01.978011+00:00",
+  "azurirano_sr": "13. 08. 2026. у 15:36",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (četvrtak, 13. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-13-avgust/551291",
       "izvor": "Мозарт Спорт",
-      "datum": "13. 08. 2026. у 15:08",
+      "datum": "13. 08. 2026. у 16:20",
+      "slika": null
+    },
+    {
+      "naslov": "Buongiorno Italia: Posle Grinvuda, Nuse i Samervila, Roma može da izgubi i Moru",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-posle-grinvuda-nuse-i-samervila-roma-moze-da-izgubi-i-moru/551312",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 08. 2026. у 15:40",
+      "slika": null
+    },
+    {
+      "naslov": "Četvrto leto otkako je sve počelo... I Lazetić u klubu koji je kao nijedan drugi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cetvrto-leto-otkako-je-sve-pocelo-i-lazetic-u-klubu-koji-je-kao-nijedan-drugi/551310",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 08. 2026. у 15:39",
       "slika": null
     },
     {
@@ -18,45 +32,31 @@
       "slika": null
     },
     {
-      "naslov": "Barsi vreme curi, Deko ima dve alternative za Hulijana Alvareza",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/barsi-vreme-curi-deko-ima-dve-alternative-za-hulijana-alvareza/551299",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 08. 2026. у 14:02",
-      "slika": null
-    },
-    {
-      "naslov": "Još jedan stranac na krovu: Voždovac doveo belgijskog beka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedan-stranac-na-krovu-vozdovac-doveo-belgijskog-beka/551292",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 08. 2026. у 12:05",
-      "slika": null
-    },
-    {
-      "naslov": "Enrike: Igrači imaju ogromnu želju i ambiciju da ponovo sve osvojimo",
-      "url": "https://www.tanjug.rs/sport/fudbal/273322/enrike-igraci-imaju-ogromnu-zelju-i-ambiciju-da-ponovo-sve-osvojimo/vest",
+      "naslov": "FK Crvena zvezda: U prodaji karte za utakmicu protiv Viktorije Plzenj",
+      "url": "https://www.tanjug.rs/sport/fudbal/273447/fk-crvena-zvezda-u-prodaji-karte-za-utakmicu-protiv-viktorije-plzenj/vest",
       "izvor": "Танјуг",
-      "datum": "13. 08. 2026. у 10:39",
+      "datum": "13. 08. 2026. у 14:56",
       "slika": null
     },
     {
-      "naslov": "Vladan Milojević novi trener fudbalera Šangaj Šenhue",
-      "url": "https://www.tanjug.rs/sport/fudbal/273297/vladan-milojevic-novi-trener-fudbalera-sangaj-senhue/vest",
+      "naslov": "Dragan Rosić potpisao novi ugovor sa Vojvodinom do 2029. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/273436/dragan-rosic-potpisao-novi-ugovor-sa-vojvodinom-do-2029-godine/vest",
       "izvor": "Танјуг",
-      "datum": "13. 08. 2026. у 09:37",
+      "datum": "13. 08. 2026. у 14:39",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Partizana danas gostuju Tobolu u kvalifikacijama za Ligu konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/273292/fudbaleri-partizana-danas-gostuju-tobolu-u-kvalifikacijama-za-ligu-konferencije/vest",
+      "naslov": "Žeremi Doku produžio ugovor sa Mančester sitijem do leta 2031. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/273432/zeremi-doku-produzio-ugovor-sa-mancester-sitijem-do-leta-2031-godine/vest",
       "izvor": "Танјуг",
-      "datum": "13. 08. 2026. у 09:28",
+      "datum": "13. 08. 2026. у 14:28",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Pari Sen Žermena osvojili UEFA Superkup",
-      "url": "https://www.tanjug.rs/sport/fudbal/273237/fudbaleri-pari-sen-zermena-osvojili-uefa-superkup/vest",
+      "naslov": "Superkup Španije u fudbalu igraće se od 2. do 7. februara 2027. godine u Istanbulu",
+      "url": "https://www.tanjug.rs/sport/fudbal/273423/superkup-spanije-u-fudbalu-igrace-se-od-2-do-7-februara-2027-godine-u-istanbulu/vest",
       "izvor": "Танјуг",
-      "datum": "12. 08. 2026. у 22:58",
+      "datum": "13. 08. 2026. у 14:06",
       "slika": null
     },
     {
