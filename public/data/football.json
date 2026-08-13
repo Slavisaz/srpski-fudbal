@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-13T17:27:41.073209+00:00",
-  "azurirano_sr": "13. 08. 2026. у 19:27",
+  "azurirano": "2026-08-13T18:25:09.679821+00:00",
+  "azurirano_sr": "13. 08. 2026. у 20:25",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Čukarički pozajmio Lazara Stojanovića Saudijcima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cukaricki-pozajmio-lazara-stojanovica-saudijcima/551336",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 08. 2026. у 21:59",
+      "slika": null
+    },
+    {
+      "naslov": "Kelnov tinejdžer potpuno zaveo Dortmund, poslovično škrta Borusija daje 55.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kelnov-tinejdzer-potpuno-zaveo-dortmund-poslovicno-skrta-borusija-daje-55000000-evra/551332",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 08. 2026. у 21:21",
+      "slika": null
+    },
     {
       "naslov": "Partizan u epizodi 2x45: Prvo malo spavanja, a posle mnogo fudbala za 4/4 u Evropi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/partizan-u-epizodi-2x45-prvo-malo-spavanja-a-posle-mnogo-fudbala-za-44-u-evropi/551331",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (četvrtak, 13. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-13-avgust/551291",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 08. 2026. у 18:42",
+      "naslov": "Danski fudbaler Tomas Kristensen do kraja sezone na pozajmici u Atalanti",
+      "url": "https://www.tanjug.rs/sport/fudbal/273515/danski-fudbaler-tomas-kristensen-do-kraja-sezone-na-pozajmici-u-atalanti/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 08. 2026. у 19:53",
       "slika": null
     },
     {
-      "naslov": "Zrenjanin i dalje bez fudbala, presporo ide rekonstrukcija Karađorđevog parka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zrenjanin-i-dalje-bez-fudbala-presporo-ide-rekonstrukcija-karaorevog-parka/551314",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 08. 2026. у 17:16",
+      "naslov": "Saša Ilić: Partizan ne sme da izgleda uplašeno, biće teško protiv Hetafea u Španiji",
+      "url": "https://www.tanjug.rs/sport/fudbal/273509/sasa-ilic-partizan-ne-sme-da-izgleda-uplaseno-bice-tesko-protiv-hetafea-u-spaniji/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 08. 2026. у 19:25",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273500/turski-fudbaler-enes-unal-potpisao-trogodisnji-ugovor-sa-hetafeom/vest",
       "izvor": "Танјуг",
       "datum": "13. 08. 2026. у 18:19",
-      "slika": null
-    },
-    {
-      "naslov": "Dušan Vlahović i zvanično novi fudbaler Bešiktaša",
-      "url": "https://www.tanjug.rs/sport/fudbal/273493/dusan-vlahovic-i-zvanicno-novi-fudbaler-besiktasa/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 08. 2026. у 17:46",
-      "slika": null
-    },
-    {
-      "naslov": "Predsednici FS Maroka, Katara, Egipta, Mauritanije, Libana i Sudana podržali Infantina",
-      "url": "https://www.tanjug.rs/sport/fudbal/273482/predsednici-fs-maroka-katara-egipta-mauritanije-libana-i-sudana-podrzali-infantina/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 08. 2026. у 16:54",
       "slika": null
     },
     {
