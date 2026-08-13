@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-13T06:39:50.989478+00:00",
-  "azurirano_sr": "13. 08. 2026. у 08:39",
+  "azurirano": "2026-08-13T08:03:12.729739+00:00",
+  "azurirano_sr": "13. 08. 2026. у 10:03",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Vladan Milojević novi trener fudbalera Šangaj Šenhue",
+      "url": "https://www.tanjug.rs/sport/fudbal/273297/vladan-milojevic-novi-trener-fudbalera-sangaj-senhue/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 08. 2026. у 09:37",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Partizana danas gostuju Tobolu u kvalifikacijama za Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/273292/fudbaleri-partizana-danas-gostuju-tobolu-u-kvalifikacijama-za-ligu-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 08. 2026. у 09:28",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Pari Sen Žermena osvojili UEFA Superkup",
       "url": "https://www.tanjug.rs/sport/fudbal/273237/fudbaleri-pari-sen-zermena-osvojili-uefa-superkup/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273233/hrvatski-strucnjak-zlatko-dalic-novi-selektor-fudbalera-ujedinjenih-arapskih-emirata/vest",
       "izvor": "Танјуг",
       "datum": "12. 08. 2026. у 22:16",
-      "slika": null
-    },
-    {
-      "naslov": "Španski stručnjak Albert Rijera izvesno novi trener fudbalera Crvene zvezde",
-      "url": "https://www.tanjug.rs/sport/fudbal/273229/spanski-strucnjak-albert-rijera-izvesno-novi-trener-fudbalera-crvene-zvezde/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 08. 2026. у 22:05",
-      "slika": null
-    },
-    {
-      "naslov": "Španski stručnjak Ćavi Ernandez novi selektor Holandije",
-      "url": "https://www.tanjug.rs/sport/fudbal/273223/spanski-strucnjak-cavi-ernandez-novi-selektor-holandije/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 08. 2026. у 21:31",
       "slika": null
     },
     {
