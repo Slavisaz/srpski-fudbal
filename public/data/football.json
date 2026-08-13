@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-13T16:28:31.207673+00:00",
-  "azurirano_sr": "13. 08. 2026. у 18:28",
+  "azurirano": "2026-08-13T17:27:41.073209+00:00",
+  "azurirano_sr": "13. 08. 2026. у 19:27",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Partizan u epizodi 2x45: Prvo malo spavanja, a posle mnogo fudbala za 4/4 u Evropi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/partizan-u-epizodi-2x45-prvo-malo-spavanja-a-posle-mnogo-fudbala-za-44-u-evropi/551331",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 08. 2026. у 20:54",
+      "slika": null
+    },
     {
       "naslov": "Prvo su okupirali Ameriku, a onda i transfer pijacu: Na pomolu treći veliki transfer BiH fudbala",
       "url": "https://www.mozzartsport.com/fudbal/vesti/prvo-su-okupirali-ameriku-a-onda-i-transfer-pijacu-na-pomolu-treci-veliki-transfer-bih-fudbala/551327",
@@ -25,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Buongiorno Italia: Posle Grinvuda, Nuse i Samervila, Roma može da izgubi i Moru",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-posle-grinvuda-nuse-i-samervila-roma-moze-da-izgubi-i-moru/551312",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 08. 2026. у 15:40",
+      "naslov": "Fudbaleri Partizana ponovo pobedili Tobol, naredni rival Hetafe",
+      "url": "https://www.tanjug.rs/sport/fudbal/273292/fudbaleri-partizana-ponovo-pobedili-tobol-naredni-rival-hetafe/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 08. 2026. у 19:10",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Partizana na početku drugog poluvremena izjednačili protiv Tobola",
-      "url": "https://www.tanjug.rs/sport/fudbal/273292/fudbaleri-partizana-na-pocetku-drugog-poluvremena-izjednacili-protiv-tobola/vest",
+      "naslov": "Turski fudbaler Enes Unal potpisao trogodišnji ugovor sa Hetafeom",
+      "url": "https://www.tanjug.rs/sport/fudbal/273500/turski-fudbaler-enes-unal-potpisao-trogodisnji-ugovor-sa-hetafeom/vest",
       "izvor": "Танјуг",
-      "datum": "13. 08. 2026. у 18:10",
+      "datum": "13. 08. 2026. у 18:19",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273482/predsednici-fs-maroka-katara-egipta-mauritanije-libana-i-sudana-podrzali-infantina/vest",
       "izvor": "Танјуг",
       "datum": "13. 08. 2026. у 16:54",
-      "slika": null
-    },
-    {
-      "naslov": "Fabijen Bartez imenovan za novog trenera golmana reprezentacije Francuske",
-      "url": "https://www.tanjug.rs/sport/fudbal/273467/fabijen-bartez-imenovan-za-novog-trenera-golmana-reprezentacije-francuske/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 08. 2026. у 15:53",
       "slika": null
     },
     {
