@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-13T20:54:57.650707+00:00",
-  "azurirano_sr": "13. 08. 2026. у 22:54",
+  "azurirano": "2026-08-13T21:32:57.618907+00:00",
+  "azurirano_sr": "13. 08. 2026. у 23:32",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Anderlehta, Jagjelonije, Bešiktaša i Ferencvaroša u plej-ofu za Ligu Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/273540/fudbaleri-anderlehta-jagjelonije-besiktasa-i-ferencvarosa-u-plej-ofu-za-ligu-evrope/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 08. 2026. у 23:01",
+      "slika": null
+    },
+    {
+      "naslov": "Mateo Pelegrino novi fudbaler Fiorentine",
+      "url": "https://www.tanjug.rs/sport/fudbal/273533/mateo-pelegrino-novi-fudbaler-fiorentine/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 08. 2026. у 22:13",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Borca iz Banjaluke posle penala izborili plasman u plej-of kvalifikacija za Ligu konferencije",
       "url": "https://www.tanjug.rs/sport/fudbal/273532/fudbaleri-borca-iz-banjaluke-posle-penala-izborili-plasman-u-plej-of-kvalifikacija-za-ligu-konferencije/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Kolumbijski fudbaler Johan Mohika novo pojačanje Hetafea",
-      "url": "https://www.tanjug.rs/sport/fudbal/273520/kolumbijski-fudbaler-johan-mohika-novo-pojacanje-hetafea/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 08. 2026. у 20:29",
-      "slika": null
-    },
-    {
-      "naslov": "Danski fudbaler Tomas Kristensen do kraja sezone na pozajmici u Atalanti",
-      "url": "https://www.tanjug.rs/sport/fudbal/273515/danski-fudbaler-tomas-kristensen-do-kraja-sezone-na-pozajmici-u-atalanti/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 08. 2026. у 19:53",
+      "naslov": "Vojvodina &quot;zaključala&quot; golmana!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258768/dragan-rosic-ostaje-u-vojvodini/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 08. 2026. у 23:05",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258803/zarada-partizana-posle-pobede-nad-tobolom/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "13. 08. 2026. у 20:40",
-      "slika": null
-    },
-    {
-      "naslov": "Here we go: Albert Rijera potpisao ugovor sa Zvezdom!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258767/fabricio-romano-objavio-da-je-albert-rijera-novi-trener-crvene-zvezde/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 08. 2026. у 18:06",
       "slika": null
     }
   ]
