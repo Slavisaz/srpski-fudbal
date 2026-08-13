@@ -1,13 +1,20 @@
 {
-  "azurirano": "2026-08-13T09:19:37.333278+00:00",
-  "azurirano_sr": "13. 08. 2026. у 11:19",
+  "azurirano": "2026-08-13T10:30:49.282608+00:00",
+  "azurirano_sr": "13. 08. 2026. у 12:30",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Barsi vreme curi, Deko ima dve alternative za Hulijana Alvareza",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/barsi-vreme-curi-deko-ima-dve-alternative-za-hulijana-alvareza/551299",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 08. 2026. у 14:02",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (četvrtak, 13. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-13-avgust/551291",
       "izvor": "Мозарт Спорт",
-      "datum": "13. 08. 2026. у 12:20",
+      "datum": "13. 08. 2026. у 13:10",
       "slika": null
     },
     {
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/povampireni-grci-kupuju-sve-sto-im-padne-pod-ruku-stigao-nemanja-radoja/551275",
       "izvor": "Мозарт Спорт",
       "datum": "13. 08. 2026. у 02:53",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI (sreda, 12. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-sreda-12-avgust/551209",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 08. 2026. у 01:45",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Ovako je govorio Terzić: &quot;Rijera nije moj &#039;pik&#039;&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258582/ovako-je-govorio-terzic-rijera-nije-moj-pik-nisu-mi-se-svidele-neke-stvari-kod-njega/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 08. 2026. у 11:17",
+      "slika": null
+    },
+    {
       "naslov": "Zvezda našla trenera!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258516/albert-rijera-novi-trener-fk-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 08. 2026. у 22:00",
-      "slika": null
-    },
-    {
-      "naslov": "Superligaški trener demantovao dolazak u Zvezdu!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258481/radomir-kokovic-ne-dolazi-u-crvenu-zvezdu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 08. 2026. у 19:00",
       "slika": null
     }
   ]
