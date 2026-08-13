@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-13T20:04:58.408706+00:00",
-  "azurirano_sr": "13. 08. 2026. у 22:04",
+  "azurirano": "2026-08-13T20:54:57.650707+00:00",
+  "azurirano_sr": "13. 08. 2026. у 22:54",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Borčeva deca zlata vredna sačuvala evropske snove Banjalučanima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/borceva-deca-zlata-vredna-sacuvala-evropske-snove-banjalucanima/551347",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 08. 2026. у 00:22",
+      "slika": null
+    },
+    {
+      "naslov": "Soba za tugu makedonskog fudbala na Areni Toše Proeski: Hibernijanu Balkanci definitivno talični",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/soba-za-tugu-makedonskog-fudbala-na-areni-tose-proeski-hibernijanu-balkanci-definitivno-talicni/551348",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 08. 2026. у 00:11",
+      "slika": null
+    },
     {
       "naslov": "Profesionalci iz Andore stižu u Prištinu po jesen u Evropi, bivši Voždovčanin uveo Rijeku u plej-of",
       "url": "https://www.mozzartsport.com/fudbal/vesti/profesionalci-iz-andore-stizu-u-pristinu-po-jesen-u-evropi-bivsi-vozdovcanin-uveo-rijeku-u-plejof/551337",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Kelnov tinejdžer potpuno zaveo Dortmund, poslovično škrta Borusija daje 55.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kelnov-tinejdzer-potpuno-zaveo-dortmund-poslovicno-skrta-borusija-daje-55000000-evra/551332",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 08. 2026. у 21:21",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan u epizodi 2x45: Prvo malo spavanja, a posle mnogo fudbala za 4/4 u Evropi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/partizan-u-epizodi-2x45-prvo-malo-spavanja-a-posle-mnogo-fudbala-za-44-u-evropi/551331",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 08. 2026. у 20:54",
+      "naslov": "Fudbaleri Borca iz Banjaluke posle penala izborili plasman u plej-of kvalifikacija za Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/273532/fudbaleri-borca-iz-banjaluke-posle-penala-izborili-plasman-u-plej-of-kvalifikacija-za-ligu-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 08. 2026. у 22:02",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273515/danski-fudbaler-tomas-kristensen-do-kraja-sezone-na-pozajmici-u-atalanti/vest",
       "izvor": "Танјуг",
       "datum": "13. 08. 2026. у 19:53",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Partizana ponovo pobedili Tobol, naredni rival Hetafe",
-      "url": "https://www.tanjug.rs/sport/fudbal/273292/fudbaleri-partizana-ponovo-pobedili-tobol-naredni-rival-hetafe/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 08. 2026. у 19:10",
       "slika": null
     },
     {
