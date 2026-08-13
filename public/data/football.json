@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-13T08:03:12.729739+00:00",
-  "azurirano_sr": "13. 08. 2026. у 10:03",
+  "azurirano": "2026-08-13T09:19:37.333278+00:00",
+  "azurirano_sr": "13. 08. 2026. у 11:19",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 13. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-13-avgust/551291",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 08. 2026. у 12:20",
+      "slika": null
+    },
+    {
+      "naslov": "Još jedan stranac na krovu: Voždovac doveo belgijskog beka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedan-stranac-na-krovu-vozdovac-doveo-belgijskog-beka/551292",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 08. 2026. у 12:05",
+      "slika": null
+    },
     {
       "naslov": "Povampireni Grci kupuju sve što im padne pod ruku: Stigao Nemanja Radoja",
       "url": "https://www.mozzartsport.com/fudbal/vesti/povampireni-grci-kupuju-sve-sto-im-padne-pod-ruku-stigao-nemanja-radoja/551275",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Zvezdino ispadanje iz Lige šampiona donosi finansijsku injekciju Dinamu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdino-ispadanje-iz-lige-sampiona-donosi-finansijsku-injekciju-dinamu/551271",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 08. 2026. у 00:46",
-      "slika": null
-    },
-    {
-      "naslov": "Navijači Palmeirasa bi da oteraju Fereiru, on traži iskupljenje u Kopa Libertadores",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/navijaci-palmeirasa-bi-da-oteraju-fereiru-on-trazi-iskupljenje-u-kopa-libertadores/551243",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 08. 2026. у 23:35",
+      "naslov": "Enrike: Igrači imaju ogromnu želju i ambiciju da ponovo sve osvojimo",
+      "url": "https://www.tanjug.rs/sport/fudbal/273322/enrike-igraci-imaju-ogromnu-zelju-i-ambiciju-da-ponovo-sve-osvojimo/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 08. 2026. у 10:39",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273237/fudbaleri-pari-sen-zermena-osvojili-uefa-superkup/vest",
       "izvor": "Танјуг",
       "datum": "12. 08. 2026. у 22:58",
-      "slika": null
-    },
-    {
-      "naslov": "Hrvatski stručnjak Zlatko Dalić novi selektor fudbalera Ujedinjenih Arapskih Emirata",
-      "url": "https://www.tanjug.rs/sport/fudbal/273233/hrvatski-strucnjak-zlatko-dalic-novi-selektor-fudbalera-ujedinjenih-arapskih-emirata/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 08. 2026. у 22:16",
       "slika": null
     },
     {
