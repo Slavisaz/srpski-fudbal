@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-14T17:07:02.735427+00:00",
-  "azurirano_sr": "14. 08. 2026. у 19:07",
+  "azurirano": "2026-08-14T18:00:33.772913+00:00",
+  "azurirano_sr": "14. 08. 2026. у 20:00",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Srpski fudbaler Aleksa Terzić novo pojačanje Frozinonea",
+      "url": "https://www.tanjug.rs/sport/fudbal/273744/srpski-fudbaler-aleksa-terzic-novo-pojacanje-frozinonea/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 08. 2026. у 19:21",
+      "slika": null
+    },
+    {
       "naslov": "Postignut konačan dogovor o ulasku Džefa Bezosa u vlasničku strukturu Liverpula",
       "url": "https://www.tanjug.rs/sport/fudbal/273730/postignut-konacan-dogovor-o-ulasku-dzefa-bezosa-u-vlasnicku-strukturu-liverpula/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273711/lazar-randelovic-produzio-ugovor-sa-vojvodinom-do-2029-godine/vest",
       "izvor": "Танјуг",
       "datum": "14. 08. 2026. у 17:08",
-      "slika": null
-    },
-    {
-      "naslov": "Norveški fudbaler Gajas Zahid se vratio u Valerengu",
-      "url": "https://www.tanjug.rs/sport/fudbal/273709/norveski-fudbaler-gajas-zahid-se-vratio-u-valerengu/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 08. 2026. у 17:00",
       "slika": null
     },
     {
