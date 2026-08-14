@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-14T12:02:59.057047+00:00",
-  "azurirano_sr": "14. 08. 2026. у 14:02",
+  "azurirano": "2026-08-14T13:24:00.112344+00:00",
+  "azurirano_sr": "14. 08. 2026. у 15:24",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Da vidimo novu Grosovu Violu sa novajlijama od 120.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/da-vidimo-novu-grosovu-violu-sa-novajlijama-od-120000000-evra/551391",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 08. 2026. у 16:02",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (petak, 14. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-14-avgust/551371",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Maraš dobio otkaz u Alavesu zato što je svesno nedovoljno trenirao",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/maras-dobio-otkaz-u-alavesu-zato-sto-je-svesno-nedovoljno-trenirao/551379",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 08. 2026. у 13:43",
+      "naslov": "Španski stručnjak Albert Rijera zvanično novi trener fudbalera Crvene zvezde",
+      "url": "https://www.tanjug.rs/sport/fudbal/273671/spanski-strucnjak-albert-rijera-zvanicno-novi-trener-fudbalera-crvene-zvezde/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 08. 2026. у 14:35",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Za vikend se nastavlja Superliga Srbije, Partizan dočekuje Radnički, Zvezda se odmara",
-      "url": "https://www.tanjug.rs/sport/fudbal/273619/za-vikend-se-nastavlja-superliga-srbije-partizan-docekuje-radnicki-zvezda-se-odmara/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 08. 2026. у 12:03",
+      "naslov": "Zvanično: Zvezda predstavila novog trenera!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259010/zvanicno-crvena-zvezda-predstavila-rijeru/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 08. 2026. у 14:32",
       "slika": null
     },
     {
-      "naslov": "Luka Adžić se vratio u Srbiju: &quot;Pravi klub za mene da pokažem šta mogu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258931/luka-adzic-potpisao-za-zeleznicar-pancevo/vest",
+      "naslov": "Otkrivena Rijerina plata u Zvezdi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259003/otkrivena-plata-alberta-rijere-u-crvenoj-zvezdi/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "14. 08. 2026. у 13:00",
-      "slika": null
-    },
-    {
-      "naslov": "Kako razmišlja Albert Rijera: Šta novi trener Crvene zvezde traži od igrača",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258890/albert-rijera-i-njegova-fudbalska-filozofija-kako-zeli-da-igra-crvena-zvezda/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 08. 2026. у 09:58",
+      "datum": "14. 08. 2026. у 14:21",
       "slika": null
     }
   ]
