@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-14T07:50:24.671462+00:00",
-  "azurirano_sr": "14. 08. 2026. у 09:50",
+  "azurirano": "2026-08-14T08:50:18.592976+00:00",
+  "azurirano_sr": "14. 08. 2026. у 10:50",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Kako razmišlja Albert Rijera: Šta novi trener Crvene zvezde traži od igrača",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258890/albert-rijera-i-njegova-fudbalska-filozofija-kako-zeli-da-igra-crvena-zvezda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 08. 2026. у 09:58",
+      "slika": null
+    },
+    {
       "naslov": "Vojvodina &quot;zaključala&quot; golmana!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258768/dragan-rosic-ostaje-u-vojvodini/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "13. 08. 2026. у 23:05",
-      "slika": null
-    },
-    {
-      "naslov": "Trijumf Partizana vredan za klupsku kasu i srpski fudbal",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258803/zarada-partizana-posle-pobede-nad-tobolom/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 08. 2026. у 20:40",
       "slika": null
     }
   ]
