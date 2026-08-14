@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-14T14:28:44.936856+00:00",
-  "azurirano_sr": "14. 08. 2026. у 16:28",
+  "azurirano": "2026-08-14T15:21:13.651787+00:00",
+  "azurirano_sr": "14. 08. 2026. у 17:21",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Rizik od 28.000.000: Pre ćete naći tropsku plažu u Sibiru nego uspešnog Rusa u turskom fudbalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rizik-od-28000000-pre-cete-naci-tropsku-plazu-u-sibiru-nego-uspesnog-rusa-u-turskom-fudbalu/551400",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 08. 2026. у 18:25",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (petak, 14. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-14-avgust/551371",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 08. 2026. у 18:21",
+      "slika": null
+    },
     {
       "naslov": "Od Vlahovićevog megatransfera deo novca ide u UNICEF",
       "url": "https://www.mozzartsport.com/fudbal/vesti/od-vlahovicevog-megatransfera-deo-novca-ide-u-unicef/551398",
@@ -11,24 +25,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (petak, 14. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-14-avgust/551371",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 08. 2026. у 17:44",
-      "slika": null
-    },
-    {
       "naslov": "Da vidimo novu Grosovu Violu sa novajlijama od 120.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/da-vidimo-novu-grosovu-violu-sa-novajlijama-od-120000000-evra/551391",
       "izvor": "Мозарт Спорт",
       "datum": "14. 08. 2026. у 16:02",
-      "slika": null
-    },
-    {
-      "naslov": "U Ujedinjenim Arapskim Emiratima zavisni od srpske škole fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/u-ujedinjenim-arapskim-emiratima-zavisni-od-srpske-skole-fudbala/551383",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 08. 2026. у 14:36",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "&quot;Zvezdaši, ozdravite, pa da se vraćamo&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259049/albert-rijera-prva-poruka-za-navijace-crvene-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 08. 2026. у 16:48",
+      "slika": null
+    },
+    {
       "naslov": "Zvanično: Zvezda predstavila novog trenera!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259010/zvanicno-crvena-zvezda-predstavila-rijeru/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "14. 08. 2026. у 14:32",
-      "slika": null
-    },
-    {
-      "naslov": "Otkrivena Rijerina plata u Zvezdi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259003/otkrivena-plata-alberta-rijere-u-crvenoj-zvezdi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 08. 2026. у 14:21",
       "slika": null
     }
   ]
