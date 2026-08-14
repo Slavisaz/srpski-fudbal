@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-14T09:45:24.615748+00:00",
-  "azurirano_sr": "14. 08. 2026. у 11:45",
+  "azurirano": "2026-08-14T10:40:00.375019+00:00",
+  "azurirano_sr": "14. 08. 2026. у 12:40",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ovom se niko nije nadao: Povrede Salibe i Timbera teraju Artetu da napadne dete Liverpula",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ovom-se-niko-nije-nadao-povrede-salibe-i-timbera-teraju-artetu-da-napadne-dete-liverpula/551380",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 08. 2026. у 14:20",
+      "slika": null
+    },
+    {
+      "naslov": "Maraš dobio otkaz u Alavesu zato što je svesno nedovoljno trenirao",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/maras-dobio-otkaz-u-alavesu-zato-sto-je-svesno-nedovoljno-trenirao/551379",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 08. 2026. у 13:43",
+      "slika": null
+    },
     {
       "naslov": "Stranci pobegli iz Irana: I dok bombe padaju fudbal ne sme da stane",
       "url": "https://www.mozzartsport.com/fudbal/vesti/stranci-pobegli-iz-irana-i-dok-bombe-padaju-fudbal-ne-sme-da-stane/551377",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (petak, 14. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-14-avgust/551371",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 08. 2026. у 11:18",
+      "naslov": "Srpski arbitar Miloš Milanović sudiće meč između fudbalera Lugana i Makabija",
+      "url": "https://www.tanjug.rs/sport/fudbal/273632/srpski-arbitar-milos-milanovic-sudice-mec-izmedu-fudbalera-lugana-i-makabija/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 08. 2026. у 12:20",
       "slika": null
     },
     {
-      "naslov": "Kreće Segunda: Samo jedan strani trener, Đirona zadržala vedete, Majorka i Ovijedo “očerupani”",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/krece-segunda-samo-jedan-strani-trener-irona-zadrzala-vedete-majorka-i-ovijedo-ocerupani/551317",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 08. 2026. у 11:07",
+      "naslov": "Letonac Treimanis i Švajcarac Šnajder deliće pravdu na utakmicama Hetafe - Partizan",
+      "url": "https://www.tanjug.rs/sport/fudbal/273626/letonac-treimanis-i-svajcarac-snajder-delice-pravdu-na-utakmicama-hetafe-partizan/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 08. 2026. у 12:14",
+      "slika": null
+    },
+    {
+      "naslov": "Za vikend se nastavlja Superliga Srbije, Partizan dočekuje Radnički, Zvezda se odmara",
+      "url": "https://www.tanjug.rs/sport/fudbal/273619/za-vikend-se-nastavlja-superliga-srbije-partizan-docekuje-radnicki-zvezda-se-odmara/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 08. 2026. у 12:03",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273604/srpski-fudbaler-luka-adzic-potpisao-za-pancevacki-zeleznicar/vest",
       "izvor": "Танјуг",
       "datum": "14. 08. 2026. у 11:28",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Anderlehta, Jagjelonije, Bešiktaša i Ferencvaroša u plej-ofu za Ligu Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/273540/fudbaleri-anderlehta-jagjelonije-besiktasa-i-ferencvarosa-u-plej-ofu-za-ligu-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 08. 2026. у 23:01",
-      "slika": null
-    },
-    {
-      "naslov": "Mateo Pelegrino novi fudbaler Fiorentine",
-      "url": "https://www.tanjug.rs/sport/fudbal/273533/mateo-pelegrino-novi-fudbaler-fiorentine/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 08. 2026. у 22:13",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Borca iz Banjaluke posle penala izborili plasman u plej-of kvalifikacija za Ligu konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/273532/fudbaleri-borca-iz-banjaluke-posle-penala-izborili-plasman-u-plej-of-kvalifikacija-za-ligu-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 08. 2026. у 22:02",
       "slika": null
     },
     {
