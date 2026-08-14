@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-14T20:15:08.219593+00:00",
-  "azurirano_sr": "14. 08. 2026. у 22:15",
+  "azurirano": "2026-08-14T20:45:48.447444+00:00",
+  "azurirano_sr": "14. 08. 2026. у 22:45",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Leha u plej-ofu kvalifikacija za Ligu Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/273790/fudbaleri-leha-u-plej-ofu-kvalifikacija-za-ligu-evrope/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 08. 2026. у 22:11",
+      "slika": null
+    },
+    {
       "naslov": "Italijanski fudbaler Ćiro Imobile završio igračku karijeru",
       "url": "https://www.tanjug.rs/sport/fudbal/273770/italijanski-fudbaler-ciro-imobile-zavrsio-igracku-karijeru/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273767/slovenacki-fudbaler-vanja-drkusic-do-kraja-sezone-na-pozajmici-u-espanjolu/vest",
       "izvor": "Танјуг",
       "datum": "14. 08. 2026. у 20:49",
-      "slika": null
-    },
-    {
-      "naslov": "Tradicija na strani crveno-belih, Zvezda uspešnija od čeških klubova",
-      "url": "https://www.tanjug.rs/sport/fudbal/273758/tradicija-na-strani-crveno-belih-zvezda-uspesnija-od-ceskih-klubova/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 08. 2026. у 20:07",
       "slika": null
     },
     {
