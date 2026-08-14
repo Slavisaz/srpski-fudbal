@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-14T20:45:48.447444+00:00",
-  "azurirano_sr": "14. 08. 2026. у 22:45",
+  "azurirano": "2026-08-14T21:03:09.317342+00:00",
+  "azurirano_sr": "14. 08. 2026. у 23:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kakav dan za Partizan: Nakon Čumića i Miladinović! Stigao u Beograd, u subotu je na lekarskim...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kakav-dan-za-partizan-nakon-cumica-i-miladinovic-stigao-u-beograd-u-subotu-je-na-lekarskim/551432",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 08. 2026. у 00:41",
+      "slika": null
+    },
     {
       "naslov": "Drkušić odbio PAOK i preselio se u Barselonu za 300.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/drkusic-odbio-paok-i-preselio-se-u-barselonu-za-300000-evra/551397",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/serif-u-crnobelom-endijaje-na-putu-ka-grckoj/551405",
       "izvor": "Мозарт Спорт",
       "datum": "14. 08. 2026. у 19:35",
-      "slika": null
-    },
-    {
-      "naslov": "Završen posao, Godts krenuo u Pariz: Ajaksu na kraju 55.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zavrsen-posao-godts-krenuo-u-pariz-ajaksu-na-kraju-55000000-evra/551407",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 08. 2026. у 19:21",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Slažu se kockice u Partizanu – drugo pojačanje u istom danu!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259120/igor-miladinovic-je-novo-pojacanje-partizana/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 08. 2026. у 23:01",
+      "slika": null
+    },
+    {
       "naslov": "Vojvodina radi punom parom – Ranđelović neće nigde!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259058/lazar-randjelovic-ostaje-u-vojvodini-do-2029/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "14. 08. 2026. у 17:40",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Zvezdaši, ozdravite, pa da se vraćamo&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259049/albert-rijera-prva-poruka-za-navijace-crvene-zvezde/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 08. 2026. у 16:48",
       "slika": null
     }
   ]
