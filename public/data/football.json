@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-14T10:40:00.375019+00:00",
-  "azurirano_sr": "14. 08. 2026. у 12:40",
+  "azurirano": "2026-08-14T11:24:35.042599+00:00",
+  "azurirano_sr": "14. 08. 2026. у 13:24",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (petak, 14. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-14-avgust/551371",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 08. 2026. у 14:37",
+      "slika": null
+    },
+    {
+      "naslov": "U Ujedinjenim Arapskim Emiratima zavisni od srpske škole fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/u-ujedinjenim-arapskim-emiratima-zavisni-od-srpske-skole-fudbala/551383",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 08. 2026. у 14:36",
+      "slika": null
+    },
     {
       "naslov": "Ovom se niko nije nadao: Povrede Salibe i Timbera teraju Artetu da napadne dete Liverpula",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ovom-se-niko-nije-nadao-povrede-salibe-i-timbera-teraju-artetu-da-napadne-dete-liverpula/551380",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Stranci pobegli iz Irana: I dok bombe padaju fudbal ne sme da stane",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/stranci-pobegli-iz-irana-i-dok-bombe-padaju-fudbal-ne-sme-da-stane/551377",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 08. 2026. у 12:53",
-      "slika": null
-    },
-    {
-      "naslov": "FSS ponovo odložio izbore za predsednika",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fss-ponovo-odlozio-izbore-za-predsednika/551372",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 08. 2026. у 11:41",
+      "naslov": "Srpski arbitar Nenad Minaković sudiće meč između fudbalera Jabloneca i Rendžersa",
+      "url": "https://www.tanjug.rs/sport/fudbal/273643/srpski-arbitar-nenad-minakovic-sudice-mec-izmedu-fudbalera-jabloneca-i-rendzersa/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 08. 2026. у 13:05",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Srpski fudbaler Luka Adžić potpisao za pančevački Železničar",
-      "url": "https://www.tanjug.rs/sport/fudbal/273604/srpski-fudbaler-luka-adzic-potpisao-za-pancevacki-zeleznicar/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 08. 2026. у 11:28",
+      "naslov": "Luka Adžić se vratio u Srbiju: &quot;Pravi klub za mene da pokažem šta mogu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258931/luka-adzic-potpisao-za-zeleznicar-pancevo/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 08. 2026. у 13:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258890/albert-rijera-i-njegova-fudbalska-filozofija-kako-zeli-da-igra-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "14. 08. 2026. у 09:58",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina &quot;zaključala&quot; golmana!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/258768/dragan-rosic-ostaje-u-vojvodini/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 08. 2026. у 23:05",
       "slika": null
     }
   ]
