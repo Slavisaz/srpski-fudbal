@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-14T08:50:18.592976+00:00",
-  "azurirano_sr": "14. 08. 2026. у 10:50",
+  "azurirano": "2026-08-14T09:45:24.615748+00:00",
+  "azurirano_sr": "14. 08. 2026. у 11:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Stranci pobegli iz Irana: I dok bombe padaju fudbal ne sme da stane",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stranci-pobegli-iz-irana-i-dok-bombe-padaju-fudbal-ne-sme-da-stane/551377",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 08. 2026. у 12:53",
+      "slika": null
+    },
     {
       "naslov": "FSS ponovo odložio izbore za predsednika",
       "url": "https://www.mozzartsport.com/fudbal/vesti/fss-ponovo-odlozio-izbore-za-predsednika/551372",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Turski fudbalski vulkan - Saudijska Arabija u malom: Mega zvezde i nikad brutalnija borba za tron",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/turski-fudbalski-vulkan-saudijska-arabija-u-malom-mega-zvezde-i-nikad-brutalnija-borba-za-tron/551352",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 08. 2026. у 10:42",
+      "naslov": "Srpski fudbaler Luka Adžić potpisao za pančevački Železničar",
+      "url": "https://www.tanjug.rs/sport/fudbal/273604/srpski-fudbaler-luka-adzic-potpisao-za-pancevacki-zeleznicar/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 08. 2026. у 11:28",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273532/fudbaleri-borca-iz-banjaluke-posle-penala-izborili-plasman-u-plej-of-kvalifikacija-za-ligu-konferencije/vest",
       "izvor": "Танјуг",
       "datum": "13. 08. 2026. у 22:02",
-      "slika": null
-    },
-    {
-      "naslov": "Ilić: Najbitnije je da smo pobedili Tobol, daćemo maksimum protiv Hetafea; Vukotić: Svaki igrač mora da da 100 odsto",
-      "url": "https://www.tanjug.rs/sport/fudbal/273509/ilic-najbitnije-je-da-smo-pobedili-tobol-dacemo-maksimum-protiv-hetafea-vukotic-svaki-igrac-mora-da-da-100-odsto/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 08. 2026. у 21:16",
       "slika": null
     },
     {
