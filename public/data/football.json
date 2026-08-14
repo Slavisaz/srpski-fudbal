@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-14T04:59:53.789180+00:00",
-  "azurirano_sr": "14. 08. 2026. у 06:59",
+  "azurirano": "2026-08-14T06:14:41.661241+00:00",
+  "azurirano_sr": "14. 08. 2026. у 08:14",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Bouen vraća Vest Hem u sazvežđe Premijer lige, Vulvsi i Barnli u gužvi, Srbija opet sa tri aduta",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bouen-vraca-vest-hem-u-sazveze-premijer-lige-vulvsi-i-barnli-u-guzvi-srbija-opet-sa-tri-aduta/551362",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 08. 2026. у 09:57",
+      "slika": null
+    },
     {
       "naslov": "Borčeva deca zlata vredna sačuvala evropske snove Banjalučanima",
       "url": "https://www.mozzartsport.com/fudbal/vesti/borceva-deca-zlata-vredna-sacuvala-evropske-snove-banjalucanima/551347",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/profesionalci-iz-andore-stizu-u-pristinu-po-jesen-u-evropi-bivsi-vozdovcanin-uveo-rijeku-u-plejof/551337",
       "izvor": "Мозарт Спорт",
       "datum": "13. 08. 2026. у 22:37",
-      "slika": null
-    },
-    {
-      "naslov": "Lazar Stojanović otišao sa Banovog brda u Rijad kod Karaska, Jedvaja i Adlija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lazar-stojanovic-otisao-sa-banovog-brda-u-rijad-kod-karaska-jedvaja-i-adlija/551336",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 08. 2026. у 21:59",
       "slika": null
     },
     {
