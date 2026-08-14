@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-14T16:08:47.849770+00:00",
-  "azurirano_sr": "14. 08. 2026. у 18:08",
+  "azurirano": "2026-08-14T17:07:02.735427+00:00",
+  "azurirano_sr": "14. 08. 2026. у 19:07",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Aleksa Terzić posle tri godine ponovo u Italiji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/aleksa-terzic-posle-tri-godine-ponovo-u-italiji/551410",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 08. 2026. у 20:25",
+      "slika": null
+    },
     {
       "naslov": "Šerif u crno-belom: Endijaje na putu ka Grčkoj",
       "url": "https://www.mozzartsport.com/fudbal/vesti/serif-u-crnobelom-endijaje-na-putu-ka-grckoj/551405",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (petak, 14. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-14-avgust/551371",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 08. 2026. у 18:21",
+      "naslov": "Postignut konačan dogovor o ulasku Džefa Bezosa u vlasničku strukturu Liverpula",
+      "url": "https://www.tanjug.rs/sport/fudbal/273730/postignut-konacan-dogovor-o-ulasku-dzefa-bezosa-u-vlasnicku-strukturu-liverpula/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 08. 2026. у 18:22",
+      "slika": null
+    },
+    {
+      "naslov": "Brazilski fudbaler Fred novo pojačanje Atletiko Mineira",
+      "url": "https://www.tanjug.rs/sport/fudbal/273724/brazilski-fudbaler-fred-novo-pojacanje-atletiko-mineira/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 08. 2026. у 18:06",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273709/norveski-fudbaler-gajas-zahid-se-vratio-u-valerengu/vest",
       "izvor": "Танјуг",
       "datum": "14. 08. 2026. у 17:00",
-      "slika": null
-    },
-    {
-      "naslov": "Španski stručnjak Albert Rijera zvanično novi trener fudbalera Crvene zvezde",
-      "url": "https://www.tanjug.rs/sport/fudbal/273671/spanski-strucnjak-albert-rijera-zvanicno-novi-trener-fudbalera-crvene-zvezde/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 08. 2026. у 14:35",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski arbitar Nenad Minaković sudiće meč između fudbalera Jabloneca i Rendžersa",
-      "url": "https://www.tanjug.rs/sport/fudbal/273643/srpski-arbitar-nenad-minakovic-sudice-mec-izmedu-fudbalera-jabloneca-i-rendzersa/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 08. 2026. у 13:05",
       "slika": null
     },
     {
