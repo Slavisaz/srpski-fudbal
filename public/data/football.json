@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-14T15:21:13.651787+00:00",
-  "azurirano_sr": "14. 08. 2026. у 17:21",
+  "azurirano": "2026-08-14T16:08:47.849770+00:00",
+  "azurirano_sr": "14. 08. 2026. у 18:08",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Šerif u crno-belom: Endijaje na putu ka Grčkoj",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/serif-u-crnobelom-endijaje-na-putu-ka-grckoj/551405",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 08. 2026. у 19:35",
+      "slika": null
+    },
+    {
+      "naslov": "Završen posao, Godts krenuo u Pariz: Ajaksu na kraju 55.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zavrsen-posao-godts-krenuo-u-pariz-ajaksu-na-kraju-55000000-evra/551407",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 08. 2026. у 19:21",
+      "slika": null
+    },
     {
       "naslov": "Rizik od 28.000.000: Pre ćete naći tropsku plažu u Sibiru nego uspešnog Rusa u turskom fudbalu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rizik-od-28000000-pre-cete-naci-tropsku-plazu-u-sibiru-nego-uspesnog-rusa-u-turskom-fudbalu/551400",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Od Vlahovićevog megatransfera deo novca ide u UNICEF",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/od-vlahovicevog-megatransfera-deo-novca-ide-u-unicef/551398",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 08. 2026. у 17:56",
+      "naslov": "Lazar Ranđelović produžio ugovor sa Vojvodinom do 2029. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/273711/lazar-randelovic-produzio-ugovor-sa-vojvodinom-do-2029-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 08. 2026. у 17:08",
       "slika": null
     },
     {
-      "naslov": "Da vidimo novu Grosovu Violu sa novajlijama od 120.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/da-vidimo-novu-grosovu-violu-sa-novajlijama-od-120000000-evra/551391",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 08. 2026. у 16:02",
+      "naslov": "Norveški fudbaler Gajas Zahid se vratio u Valerengu",
+      "url": "https://www.tanjug.rs/sport/fudbal/273709/norveski-fudbaler-gajas-zahid-se-vratio-u-valerengu/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 08. 2026. у 17:00",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Srpski arbitar Miloš Milanović sudiće meč između fudbalera Lugana i Makabija",
-      "url": "https://www.tanjug.rs/sport/fudbal/273632/srpski-arbitar-milos-milanovic-sudice-mec-izmedu-fudbalera-lugana-i-makabija/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 08. 2026. у 12:20",
-      "slika": null
-    },
-    {
-      "naslov": "Letonac Treimanis i Švajcarac Šnajder deliće pravdu na utakmicama Hetafe - Partizan",
-      "url": "https://www.tanjug.rs/sport/fudbal/273626/letonac-treimanis-i-svajcarac-snajder-delice-pravdu-na-utakmicama-hetafe-partizan/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 08. 2026. у 12:14",
+      "naslov": "Vojvodina radi punom parom – Ranđelović neće nigde!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259058/lazar-randjelovic-ostaje-u-vojvodini-do-2029/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 08. 2026. у 17:40",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259049/albert-rijera-prva-poruka-za-navijace-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "14. 08. 2026. у 16:48",
-      "slika": null
-    },
-    {
-      "naslov": "Zvanično: Zvezda predstavila novog trenera!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259010/zvanicno-crvena-zvezda-predstavila-rijeru/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 08. 2026. у 14:32",
       "slika": null
     }
   ]
