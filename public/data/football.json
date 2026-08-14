@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-14T18:58:03.118486+00:00",
-  "azurirano_sr": "14. 08. 2026. у 20:58",
+  "azurirano": "2026-08-14T19:44:49.938228+00:00",
+  "azurirano_sr": "14. 08. 2026. у 21:44",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Drkušić odbio PAOK i preselio se u Barselonu za 300.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/drkusic-odbio-paok-i-preselio-se-u-barselonu-za-300000-evra/551397",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 08. 2026. у 23:38",
+      "slika": null
+    },
     {
       "naslov": "Aleksa Terzić posle tri godine ponovo u Italiji",
       "url": "https://www.mozzartsport.com/fudbal/vesti/aleksa-terzic-posle-tri-godine-ponovo-u-italiji/551410",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Rizik od 28.000.000: Pre ćete naći tropsku plažu u Sibiru nego uspešnog Rusa u turskom fudbalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rizik-od-28000000-pre-cete-naci-tropsku-plazu-u-sibiru-nego-uspesnog-rusa-u-turskom-fudbalu/551400",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 08. 2026. у 18:25",
+      "naslov": "Italijanski fudbaler Ćiro Imobile završio igračku karijeru",
+      "url": "https://www.tanjug.rs/sport/fudbal/273770/italijanski-fudbaler-ciro-imobile-zavrsio-igracku-karijeru/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 08. 2026. у 21:11",
+      "slika": null
+    },
+    {
+      "naslov": "Dušan Vlahović predstavljen navijačima Bešiktaša: Cilj je titula",
+      "url": "https://www.tanjug.rs/sport/fudbal/273768/dusan-vlahovic-predstavljen-navijacima-besiktasa-cilj-je-titula/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 08. 2026. у 20:57",
+      "slika": null
+    },
+    {
+      "naslov": "Slovenački fudbaler Vanja Drkušić do kraja sezone na pozajmici u Espanjolu",
+      "url": "https://www.tanjug.rs/sport/fudbal/273767/slovenacki-fudbaler-vanja-drkusic-do-kraja-sezone-na-pozajmici-u-espanjolu/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 08. 2026. у 20:49",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273758/tradicija-na-strani-crveno-belih-zvezda-uspesnija-od-ceskih-klubova/vest",
       "izvor": "Танјуг",
       "datum": "14. 08. 2026. у 20:07",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Aleksa Terzić novo pojačanje Frozinonea",
-      "url": "https://www.tanjug.rs/sport/fudbal/273744/srpski-fudbaler-aleksa-terzic-novo-pojacanje-frozinonea/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 08. 2026. у 19:21",
-      "slika": null
-    },
-    {
-      "naslov": "Postignut konačan dogovor o ulasku Džefa Bezosa u vlasničku strukturu Liverpula",
-      "url": "https://www.tanjug.rs/sport/fudbal/273730/postignut-konacan-dogovor-o-ulasku-dzefa-bezosa-u-vlasnicku-strukturu-liverpula/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 08. 2026. у 18:22",
-      "slika": null
-    },
-    {
-      "naslov": "Brazilski fudbaler Fred novo pojačanje Atletiko Mineira",
-      "url": "https://www.tanjug.rs/sport/fudbal/273724/brazilski-fudbaler-fred-novo-pojacanje-atletiko-mineira/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 08. 2026. у 18:06",
       "slika": null
     },
     {
