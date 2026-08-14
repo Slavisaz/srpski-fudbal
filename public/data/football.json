@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-14T18:00:33.772913+00:00",
-  "azurirano_sr": "14. 08. 2026. у 20:00",
+  "azurirano": "2026-08-14T18:58:03.118486+00:00",
+  "azurirano_sr": "14. 08. 2026. у 20:58",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Tradicija na strani crveno-belih, Zvezda uspešnija od čeških klubova",
+      "url": "https://www.tanjug.rs/sport/fudbal/273758/tradicija-na-strani-crveno-belih-zvezda-uspesnija-od-ceskih-klubova/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 08. 2026. у 20:07",
+      "slika": null
+    },
+    {
       "naslov": "Srpski fudbaler Aleksa Terzić novo pojačanje Frozinonea",
       "url": "https://www.tanjug.rs/sport/fudbal/273744/srpski-fudbaler-aleksa-terzic-novo-pojacanje-frozinonea/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273724/brazilski-fudbaler-fred-novo-pojacanje-atletiko-mineira/vest",
       "izvor": "Танјуг",
       "datum": "14. 08. 2026. у 18:06",
-      "slika": null
-    },
-    {
-      "naslov": "Lazar Ranđelović produžio ugovor sa Vojvodinom do 2029. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/273711/lazar-randelovic-produzio-ugovor-sa-vojvodinom-do-2029-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 08. 2026. у 17:08",
       "slika": null
     },
     {
