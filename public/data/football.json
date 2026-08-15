@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-15T15:57:14.655363+00:00",
-  "azurirano_sr": "15. 08. 2026. у 17:57",
+  "azurirano": "2026-08-15T16:17:33.131102+00:00",
+  "azurirano_sr": "15. 08. 2026. у 18:17",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "U Bajernovu kasu do kraja godine sliće se 250.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/u-bajernovu-kasu-do-kraja-godine-slice-se-250000000-evra/551482",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 08. 2026. у 20:01",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (subota, 15. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-15-avgust/551442",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/fariolija-ne-interesuju-glasine-oko-more-samo-pobeda-nad-rio-aveom/551463",
       "izvor": "Мозарт Спорт",
       "datum": "15. 08. 2026. у 15:10",
-      "slika": null
-    },
-    {
-      "naslov": "Jadno na šta je spao Lacio: Zamalo da propadne transfer Fratezija, umešala se administracija Serije A",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jadno-na-sta-je-spao-lacio-zamalo-da-propadne-transfer-fratezija-umesala-se-administracija-serije-a/551440",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 08. 2026. у 11:54",
       "slika": null
     },
     {
