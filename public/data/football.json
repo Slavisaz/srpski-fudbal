@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-15T09:04:00.090476+00:00",
-  "azurirano_sr": "15. 08. 2026. у 11:04",
+  "azurirano": "2026-08-15T09:33:57.871421+00:00",
+  "azurirano_sr": "15. 08. 2026. у 11:33",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Ilić: Hetafe nam je u podsvesti, ali prvo da odigramo kako treba protiv Radničkog",
+      "url": "https://www.tanjug.rs/sport/fudbal/273853/ilic-hetafe-nam-je-u-podsvesti-ali-prvo-da-odigramo-kako-treba-protiv-radnickog/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 08. 2026. у 11:14",
+      "slika": null
+    },
+    {
       "naslov": "Izraelski fudbaler Anan Halaili prešao u Kristal Palas",
       "url": "https://www.tanjug.rs/sport/fudbal/273846/izraelski-fudbaler-anan-halaili-presao-u-kristal-palas/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273790/fudbaleri-leha-u-plej-ofu-kvalifikacija-za-ligu-evrope/vest",
       "izvor": "Танјуг",
       "datum": "14. 08. 2026. у 22:11",
-      "slika": null
-    },
-    {
-      "naslov": "Italijanski fudbaler Ćiro Imobile završio igračku karijeru",
-      "url": "https://www.tanjug.rs/sport/fudbal/273770/italijanski-fudbaler-ciro-imobile-zavrsio-igracku-karijeru/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 08. 2026. у 21:11",
       "slika": null
     },
     {
