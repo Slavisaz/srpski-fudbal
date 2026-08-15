@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-15T16:43:27.418438+00:00",
-  "azurirano_sr": "15. 08. 2026. у 18:43",
+  "azurirano": "2026-08-15T16:59:42.771925+00:00",
+  "azurirano_sr": "15. 08. 2026. у 18:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Debi Marka \"Marezija\" u engleskom fudbalu, bolan start Čempionšipa za tim koji se vratio posle 65 godina",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/debi-marka-marezija-u-engleskom-fudbalu-bolan-start-cempionsipa-za-tim-koji-se-vratio-posle-65-godina/551490",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 08. 2026. у 20:30",
+      "slika": null
+    },
     {
       "naslov": "U Bajernovu kasu do kraja godine sliće se 250.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/u-bajernovu-kasu-do-kraja-godine-slice-se-250000000-evra/551482",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/tiknizjan-u-olimpijakosu-za-najmanje-5000000-evra-zvezda-dovodi-levog-beka/551465",
       "izvor": "Мозарт Спорт",
       "datum": "15. 08. 2026. у 15:40",
-      "slika": null
-    },
-    {
-      "naslov": "Fariolija ne interesuju glasine oko More, samo pobeda nad Rio Aveom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fariolija-ne-interesuju-glasine-oko-more-samo-pobeda-nad-rio-aveom/551463",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 08. 2026. у 15:10",
       "slika": null
     },
     {
