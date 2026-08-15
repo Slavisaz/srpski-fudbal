@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-15T22:59:01.713081+00:00",
-  "azurirano_sr": "16. 08. 2026. у 00:59",
+  "azurirano": "2026-08-15T23:12:53.184249+00:00",
+  "azurirano_sr": "16. 08. 2026. у 01:12",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,34 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Viktorije pobedili Zlin uoči gostovanja Crvenoj zvezdi",
+      "url": "https://www.tanjug.rs/sport/fudbal/273975/fudbaleri-viktorije-pobedili-zlin-uoci-gostovanja-crvenoj-zvezdi/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 08. 2026. у 21:59",
+      "slika": null
+    },
+    {
+      "naslov": "El Fardu Ben: Velika podrška navijača će mnogo značiti ekipi protiv Viktorije iz Plzenja",
+      "url": "https://www.tanjug.rs/sport/fudbal/273971/el-fardu-ben-velika-podrska-navijaca-ce-mnogo-znaciti-ekipi-protiv-viktorije-iz-plzenja/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 08. 2026. у 21:56",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Hetafea deklasirani na gostovanju Alavesu na startu španskog šampionata",
+      "url": "https://www.tanjug.rs/sport/fudbal/273969/fudbaleri-hetafea-deklasirani-na-gostovanju-alavesu-na-startu-spanskog-sampionata/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 08. 2026. у 21:41",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Radnika pobedili Mačvu 2:1",
+      "url": "https://www.tanjug.rs/sport/fudbal/273966/fudbaleri-radnika-pobedili-macvu-21/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 08. 2026. у 21:06",
+      "slika": null
+    },
+    {
       "naslov": "Čuka bolja od OFK Beograda – Miladinović je hit Superlige",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259318/cuka-bolja-od-ofk-beograda-miladinovic-je-hit-superlige/vest",
       "izvor": "Б92 Српски фудбал",
@@ -43,34 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259294/zvezda-vratila-mihaila-ristica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "15. 08. 2026. у 20:33",
-      "slika": null
-    },
-    {
-      "naslov": "Tiknizjan napušta Zvezdu, ali ostaje u crveno-belom",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259206/nair-tiknizjan-ide-u-olimpijakos/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 08. 2026. у 13:17",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Nikolić postao genije tek kad je uzeo trofej – tako vam je to na Balkanu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/259273/nikolic-postao-genije-tek-kad-je-uzeo-trofej-tako-vam-je-to-na-balkanu/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "15. 08. 2026. у 21:42",
-      "slika": null
-    },
-    {
-      "naslov": "Kraj spekulacijama: Predstavljen Grujić – i to kako VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/259279/marko-grujic-potpisao-za-levski-video/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "15. 08. 2026. у 18:57",
-      "slika": null
-    },
-    {
-      "naslov": "Milan pokazao snagu protiv Mančester junajteda",
-      "url": "https://www.b92.net/sport/fudbal/vesti/259275/pobeda-milana-u-duelu-protiv-mancester-junajteda/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "15. 08. 2026. у 18:42",
       "slika": null
     }
   ]
