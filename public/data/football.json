@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-15T16:59:42.771925+00:00",
-  "azurirano_sr": "15. 08. 2026. у 18:59",
+  "azurirano": "2026-08-15T17:20:28.412932+00:00",
+  "azurirano_sr": "15. 08. 2026. у 19:20",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ples vremešnih majstora, za punu mrežu domaćina! Tadić organizovao akcije, Šeri pokupio aplauze",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ples-vremesnih-majstora-za-punu-mrezu-domacina-tadic-organizovao-akcije-seri-pokupio-aplauze/551493",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 08. 2026. у 20:53",
+      "slika": null
+    },
     {
       "naslov": "Debi Marka \"Marezija\" u engleskom fudbalu, bolan start Čempionšipa za tim koji se vratio posle 65 godina",
       "url": "https://www.mozzartsport.com/fudbal/vesti/debi-marka-marezija-u-engleskom-fudbalu-bolan-start-cempionsipa-za-tim-koji-se-vratio-posle-65-godina/551490",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-15-avgust/551442",
       "izvor": "Мозарт Спорт",
       "datum": "15. 08. 2026. у 18:05",
-      "slika": null
-    },
-    {
-      "naslov": "Tiknizjan u Olimpijakosu za najmanje 5.000.000 evra, Zvezda dovodi levog beka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tiknizjan-u-olimpijakosu-za-najmanje-5000000-evra-zvezda-dovodi-levog-beka/551465",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 08. 2026. у 15:40",
       "slika": null
     },
     {
