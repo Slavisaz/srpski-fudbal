@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-15T18:10:39.431235+00:00",
-  "azurirano_sr": "15. 08. 2026. у 20:10",
+  "azurirano": "2026-08-15T18:45:23.402688+00:00",
+  "azurirano_sr": "15. 08. 2026. у 20:45",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Zvezda vratila Mihaila Ristića!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259294/zvezda-vratila-mihaila-ristica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 08. 2026. у 20:33",
+      "slika": null
+    },
+    {
       "naslov": "Tiknizjan napušta Zvezdu, ali ostaje u crveno-belom",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259206/nair-tiknizjan-ide-u-olimpijakos/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "15. 08. 2026. у 13:17",
-      "slika": null
-    },
-    {
-      "naslov": "Ilić: &quot;Izgubili smo dovoljno bodova, očekujem reakciju mojih igrača&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259179/sasa-ilic-pred-duel-sa-radnickim-iz-kragujevca/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 08. 2026. у 11:00",
       "slika": null
     }
   ]
