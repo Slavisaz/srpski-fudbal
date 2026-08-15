@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-15T17:54:42.967701+00:00",
-  "azurirano_sr": "15. 08. 2026. у 19:54",
+  "azurirano": "2026-08-15T18:10:39.431235+00:00",
+  "azurirano_sr": "15. 08. 2026. у 20:10",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Engleski fudbaler Đed Spens prešao iz Totenhema u Inter",
+      "url": "https://www.tanjug.rs/sport/fudbal/273956/engleski-fudbaler-ded-spens-presao-iz-totenhema-u-inter/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 08. 2026. у 19:38",
+      "slika": null
+    },
+    {
       "naslov": "Srpski fudbaler Marko Grujić potpisao za bugarski Levski",
       "url": "https://www.tanjug.rs/sport/fudbal/273938/srpski-fudbaler-marko-grujic-potpisao-za-bugarski-levski/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273916/engelski-fudbaler-dzo-gelhart-pojacao-hal/vest",
       "izvor": "Танјуг",
       "datum": "15. 08. 2026. у 14:58",
-      "slika": null
-    },
-    {
-      "naslov": "Francuski košarkaš Olivije Sar potpisao za Real Madrid",
-      "url": "https://www.tanjug.rs/sport/fudbal/273895/francuski-kosarkas-olivije-sar-potpisao-za-real-madrid/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 08. 2026. у 13:37",
       "slika": null
     },
     {
