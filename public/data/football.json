@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-15T07:56:16.422033+00:00",
-  "azurirano_sr": "15. 08. 2026. у 09:56",
+  "azurirano": "2026-08-15T08:16:35.590317+00:00",
+  "azurirano_sr": "15. 08. 2026. у 10:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Jadno na šta je spao Lacio: Zamalo da propadne transfer Fratezija, umešala se administracija Serije A",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jadno-na-sta-je-spao-lacio-zamalo-da-propadne-transfer-fratezija-umesala-se-administracija-serije-a/551440",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 08. 2026. у 11:54",
+      "slika": null
+    },
+    {
+      "naslov": "Gospodar Olimpika rekao dosta: Ćiro se u suzama oprostio od fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gospodar-olimpika-rekao-dosta-ciro-se-u-suzama-oprostio-od-fudbala/551443",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 08. 2026. у 11:39",
+      "slika": null
+    },
     {
       "naslov": "Kada kažemo fudbal – mislimo Španija: Sve na jednom mestu o Primeri",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kada-kazemo-fudbal-mislimo-spanija-sve-na-jednom-mestu-o-primeri/551437",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-15-avgust/551442",
       "izvor": "Мозарт Спорт",
       "datum": "15. 08. 2026. у 11:18",
-      "slika": null
-    },
-    {
-      "naslov": "NAJAVA DANA (subota, 15. avgust): Počinje Primera, igra se i Čempionšip i Mozzart Bet Superliga",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-subota-15-avgust-pocinje-primera-igra-se-i-cempionsip-i-mozzart-bet-superliga/551385",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 08. 2026. у 10:05",
-      "slika": null
-    },
-    {
-      "naslov": "Kakav dan za Partizan: Nakon Čumića i Miladinović! Stigao u Beograd, u subotu je na lekarskim...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kakav-dan-za-partizan-nakon-cumica-i-miladinovic-stigao-u-beograd-u-subotu-je-na-lekarskim/551432",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 08. 2026. у 00:41",
       "slika": null
     },
     {
