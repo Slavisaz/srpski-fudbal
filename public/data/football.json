@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-15T20:36:37.480590+00:00",
-  "azurirano_sr": "15. 08. 2026. у 22:36",
+  "azurirano": "2026-08-15T20:54:25.687963+00:00",
+  "azurirano_sr": "15. 08. 2026. у 22:54",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Tri kluba hoće, Čelsi zacepio i ne odustaje od 70.000.000 evra za Džeksona",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tri-kluba-hoce-celsi-zacepio-i-ne-odustaje-od-70000000-evra-za-dzeksona/551515",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 08. 2026. у 00:36",
+      "slika": null
+    },
     {
       "naslov": "Ples vremešnih majstora, za punu mrežu domaćina! Tadić organizovao akcije, Šeri pokupio aplauze",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ples-vremesnih-majstora-za-punu-mrezu-domacina-tadic-organizovao-akcije-seri-pokupio-aplauze/551493",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/u-bajernovu-kasu-do-kraja-godine-slice-se-250000000-evra/551482",
       "izvor": "Мозарт Спорт",
       "datum": "15. 08. 2026. у 20:01",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (subota, 15. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-15-avgust/551442",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 08. 2026. у 18:05",
       "slika": null
     },
     {
