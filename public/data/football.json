@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-15T16:17:33.131102+00:00",
-  "azurirano_sr": "15. 08. 2026. у 18:17",
+  "azurirano": "2026-08-15T16:43:27.418438+00:00",
+  "azurirano_sr": "15. 08. 2026. у 18:43",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Srpski fudbaler Marko Grujić potpisao za bugarski Levski",
+      "url": "https://www.tanjug.rs/sport/fudbal/273938/srpski-fudbaler-marko-grujic-potpisao-za-bugarski-levski/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 08. 2026. у 18:11",
+      "slika": null
+    },
+    {
       "naslov": "Nestori Irankunda novi fudbaler Sportinga iz Lisabona",
       "url": "https://www.tanjug.rs/sport/fudbal/273921/nestori-irankunda-novi-fudbaler-sportinga-iz-lisabona/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273895/francuski-kosarkas-olivije-sar-potpisao-za-real-madrid/vest",
       "izvor": "Танјуг",
       "datum": "15. 08. 2026. у 13:37",
-      "slika": null
-    },
-    {
-      "naslov": "Espen Eskas i Dani Makeli sudiće u dvomeču između Crvene zvezde i Viktorije Plzenj",
-      "url": "https://www.tanjug.rs/sport/fudbal/273884/espen-eskas-i-dani-makeli-sudice-u-dvomecu-izmedu-crvene-zvezde-i-viktorije-plzenj/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 08. 2026. у 13:05",
       "slika": null
     },
     {
