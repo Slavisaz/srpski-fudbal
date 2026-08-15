@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-15T14:08:11.933647+00:00",
-  "azurirano_sr": "15. 08. 2026. у 16:08",
+  "azurirano": "2026-08-15T14:34:34.527808+00:00",
+  "azurirano_sr": "15. 08. 2026. у 16:34",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 15. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-15-avgust/551442",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 08. 2026. у 18:05",
+      "slika": null
+    },
     {
       "naslov": "Tiknizjan u Olimpijakosu za najmanje 5.000.000 evra, Zvezda dovodi levog beka",
       "url": "https://www.mozzartsport.com/fudbal/vesti/tiknizjan-u-olimpijakosu-za-najmanje-5000000-evra-zvezda-dovodi-levog-beka/551465",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Gospodar Olimpika rekao dosta: Ćiro se u suzama oprostio od fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gospodar-olimpika-rekao-dosta-ciro-se-u-suzama-oprostio-od-fudbala/551443",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 08. 2026. у 11:39",
+      "naslov": "Nestori Irankunda novi fudbaler Sportinga iz Lisabona",
+      "url": "https://www.tanjug.rs/sport/fudbal/273921/nestori-irankunda-novi-fudbaler-sportinga-iz-lisabona/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 08. 2026. у 15:48",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273884/espen-eskas-i-dani-makeli-sudice-u-dvomecu-izmedu-crvene-zvezde-i-viktorije-plzenj/vest",
       "izvor": "Танјуг",
       "datum": "15. 08. 2026. у 13:05",
-      "slika": null
-    },
-    {
-      "naslov": "Feran Tores novi fudbaler Pari Sen Žermena",
-      "url": "https://www.tanjug.rs/sport/fudbal/273862/feran-tores-novi-fudbaler-pari-sen-zermena/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 08. 2026. у 11:49",
       "slika": null
     },
     {
