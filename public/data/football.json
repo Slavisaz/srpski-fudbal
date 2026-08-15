@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-15T21:08:52.611912+00:00",
-  "azurirano_sr": "15. 08. 2026. у 23:08",
+  "azurirano": "2026-08-15T21:32:06.307430+00:00",
+  "azurirano_sr": "15. 08. 2026. у 23:32",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Čuka bolja od OFK Beograda – Miladinović je hit Superlige!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259318/cuka-bolja-od-ofk-beograda-miladinovic-je-hit-superlige/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 08. 2026. у 23:15",
+      "slika": null
+    },
+    {
       "naslov": "Ništa se nije čekalo – Zvezda ekspresno našla zamenu za Tiknizjana!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259294/zvezda-vratila-mihaila-ristica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "15. 08. 2026. у 20:33",
-      "slika": null
-    },
-    {
-      "naslov": "Tiknizjan napušta Zvezdu, ali ostaje u crveno-belom",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259206/nair-tiknizjan-ide-u-olimpijakos/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 08. 2026. у 13:17",
       "slika": null
     }
   ]
