@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-15T05:56:49.290839+00:00",
-  "azurirano_sr": "15. 08. 2026. у 07:56",
+  "azurirano": "2026-08-15T06:25:32.678154+00:00",
+  "azurirano_sr": "15. 08. 2026. у 08:25",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (subota, 15. avgust): Počinje Primera, igra se i Čempionšip i Mozzart Bet Superliga",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-subota-15-avgust-pocinje-primera-igra-se-i-cempionsip-i-mozzart-bet-superliga/551385",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 08. 2026. у 10:05",
+      "slika": null
+    },
     {
       "naslov": "Kakav dan za Partizan: Nakon Čumića i Miladinović! Stigao u Beograd, u subotu je na lekarskim...",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kakav-dan-za-partizan-nakon-cumica-i-miladinovic-stigao-u-beograd-u-subotu-je-na-lekarskim/551432",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/aleksa-terzic-posle-tri-godine-ponovo-u-italiji/551410",
       "izvor": "Мозарт Спорт",
       "datum": "14. 08. 2026. у 20:25",
-      "slika": null
-    },
-    {
-      "naslov": "Šerif u crno-belom: Endijaje na putu ka Grčkoj",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/serif-u-crnobelom-endijaje-na-putu-ka-grckoj/551405",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 08. 2026. у 19:35",
       "slika": null
     },
     {
