@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-15T08:46:31.066545+00:00",
-  "azurirano_sr": "15. 08. 2026. у 10:46",
+  "azurirano": "2026-08-15T09:04:00.090476+00:00",
+  "azurirano_sr": "15. 08. 2026. у 11:04",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Izraelski fudbaler Anan Halaili prešao u Kristal Palas",
+      "url": "https://www.tanjug.rs/sport/fudbal/273846/izraelski-fudbaler-anan-halaili-presao-u-kristal-palas/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 08. 2026. у 10:43",
+      "slika": null
+    },
+    {
       "naslov": "Kristijan Romero novi fudbaler Atletiko Madrida",
       "url": "https://www.tanjug.rs/sport/fudbal/273835/kristijan-romero-novi-fudbaler-atletiko-madrida/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Dušan Vlahović predstavljen navijačima Bešiktaša: Cilj je titula",
-      "url": "https://www.tanjug.rs/sport/fudbal/273768/dusan-vlahovic-predstavljen-navijacima-besiktasa-cilj-je-titula/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 08. 2026. у 20:57",
+      "naslov": "Ilić: &quot;Izgubili smo dovoljno bodova, očekujem reakciju mojih igrača&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259179/sasa-ilic-pred-duel-sa-radnickim-iz-kragujevca/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 08. 2026. у 11:00",
       "slika": null
     },
     {
-      "naslov": "Slažu se kockice u Partizanu – drugo pojačanje u istom danu!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259120/igor-miladinovic-je-novo-pojacanje-partizana/vest",
+      "naslov": "Italijani javljaju: Milan krenuo po Kostova?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259172/kostov-na-meti-milana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "14. 08. 2026. у 23:01",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina radi punom parom – Ranđelović neće nigde!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259058/lazar-randjelovic-ostaje-u-vojvodini-do-2029/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 08. 2026. у 17:40",
+      "datum": "15. 08. 2026. у 10:50",
       "slika": null
     }
   ]
