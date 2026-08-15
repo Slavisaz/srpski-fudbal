@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-15T11:02:28.410553+00:00",
-  "azurirano_sr": "15. 08. 2026. у 13:02",
+  "azurirano": "2026-08-15T11:27:02.948724+00:00",
+  "azurirano_sr": "15. 08. 2026. у 13:27",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Izgleda da je gotovo – Tiknizjan napušta Zvezdu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259206/nair-tiknizjan-ide-u-olimpijakos/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 08. 2026. у 13:17",
+      "slika": null
+    },
+    {
       "naslov": "Ilić: &quot;Izgubili smo dovoljno bodova, očekujem reakciju mojih igrača&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259179/sasa-ilic-pred-duel-sa-radnickim-iz-kragujevca/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "15. 08. 2026. у 11:00",
-      "slika": null
-    },
-    {
-      "naslov": "Italijani javljaju: Milan krenuo po Kostova?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259172/kostov-na-meti-milana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 08. 2026. у 10:50",
       "slika": null
     }
   ]
