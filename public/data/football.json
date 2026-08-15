@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-15T11:27:02.948724+00:00",
-  "azurirano_sr": "15. 08. 2026. у 13:27",
+  "azurirano": "2026-08-15T11:43:00.373780+00:00",
+  "azurirano_sr": "15. 08. 2026. у 13:43",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Tiknizjan u Olimpijakosu za najmanje 5.000.000 evra, Zvezda dovodi levog beka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tiknizjan-u-olimpijakosu-za-najmanje-5000000-evra-zvezda-dovodi-levog-beka/551465",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 08. 2026. у 15:40",
+      "slika": null
+    },
+    {
+      "naslov": "Fariolija ne interesuju glasine oko More, samo pobeda nad Rio Aveom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fariolija-ne-interesuju-glasine-oko-more-samo-pobeda-nad-rio-aveom/551463",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 08. 2026. у 15:10",
+      "slika": null
+    },
     {
       "naslov": "Jadno na šta je spao Lacio: Zamalo da propadne transfer Fratezija, umešala se administracija Serije A",
       "url": "https://www.mozzartsport.com/fudbal/vesti/jadno-na-sta-je-spao-lacio-zamalo-da-propadne-transfer-fratezija-umesala-se-administracija-serije-a/551440",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Kada kažemo fudbal – mislimo Španija: Sve na jednom mestu o Primeri",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kada-kazemo-fudbal-mislimo-spanija-sve-na-jednom-mestu-o-primeri/551437",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 08. 2026. у 11:20",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (subota, 15. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-15-avgust/551442",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 08. 2026. у 11:18",
+      "naslov": "Espen Eskas i Dani Makeli sudiće u dvomeču između Crvene zvezde i Viktorije Plzenj",
+      "url": "https://www.tanjug.rs/sport/fudbal/273884/espen-eskas-i-dani-makeli-sudice-u-dvomecu-izmedu-crvene-zvezde-i-viktorije-plzenj/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 08. 2026. у 13:05",
       "slika": null
     },
     {
@@ -53,14 +60,7 @@
       "slika": null
     },
     {
-      "naslov": "Kristijan Romero novi fudbaler Atletiko Madrida",
-      "url": "https://www.tanjug.rs/sport/fudbal/273835/kristijan-romero-novi-fudbaler-atletiko-madrida/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 08. 2026. у 09:49",
-      "slika": null
-    },
-    {
-      "naslov": "Izgleda da je gotovo – Tiknizjan napušta Zvezdu",
+      "naslov": "Tiknizjan napušta Zvezdu, ali ostaje u crveno-belom",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259206/nair-tiknizjan-ide-u-olimpijakos/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "15. 08. 2026. у 13:17",
