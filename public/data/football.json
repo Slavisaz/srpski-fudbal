@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-15T09:52:18.471094+00:00",
-  "azurirano_sr": "15. 08. 2026. у 11:52",
+  "azurirano": "2026-08-15T10:08:01.887791+00:00",
+  "azurirano_sr": "15. 08. 2026. у 12:08",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Feran Tores novi fudbaler Pari Sen Žermena",
+      "url": "https://www.tanjug.rs/sport/fudbal/273862/feran-tores-novi-fudbaler-pari-sen-zermena/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 08. 2026. у 11:49",
+      "slika": null
+    },
+    {
       "naslov": "Ilić: Hetafe nam je u podsvesti, ali prvo da odigramo kako treba protiv Radničkog",
       "url": "https://www.tanjug.rs/sport/fudbal/273853/ilic-hetafe-nam-je-u-podsvesti-ali-prvo-da-odigramo-kako-treba-protiv-radnickog/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273835/kristijan-romero-novi-fudbaler-atletiko-madrida/vest",
       "izvor": "Танјуг",
       "datum": "15. 08. 2026. у 09:49",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Leha u plej-ofu kvalifikacija za Ligu Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/273790/fudbaleri-leha-u-plej-ofu-kvalifikacija-za-ligu-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 08. 2026. у 22:11",
       "slika": null
     },
     {
