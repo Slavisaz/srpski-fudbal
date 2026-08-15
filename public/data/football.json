@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-15T08:16:35.590317+00:00",
-  "azurirano_sr": "15. 08. 2026. у 10:16",
+  "azurirano": "2026-08-15T08:46:31.066545+00:00",
+  "azurirano_sr": "15. 08. 2026. у 10:46",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Kristijan Romero novi fudbaler Atletiko Madrida",
+      "url": "https://www.tanjug.rs/sport/fudbal/273835/kristijan-romero-novi-fudbaler-atletiko-madrida/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 08. 2026. у 09:49",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Leha u plej-ofu kvalifikacija za Ligu Evrope",
       "url": "https://www.tanjug.rs/sport/fudbal/273790/fudbaleri-leha-u-plej-ofu-kvalifikacija-za-ligu-evrope/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/273768/dusan-vlahovic-predstavljen-navijacima-besiktasa-cilj-je-titula/vest",
       "izvor": "Танјуг",
       "datum": "14. 08. 2026. у 20:57",
-      "slika": null
-    },
-    {
-      "naslov": "Slovenački fudbaler Vanja Drkušić do kraja sezone na pozajmici u Espanjolu",
-      "url": "https://www.tanjug.rs/sport/fudbal/273767/slovenacki-fudbaler-vanja-drkusic-do-kraja-sezone-na-pozajmici-u-espanjolu/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 08. 2026. у 20:49",
       "slika": null
     },
     {
