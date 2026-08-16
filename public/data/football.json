@@ -1,20 +1,27 @@
 {
-  "azurirano": "2026-08-16T12:22:29.302663+00:00",
-  "azurirano_sr": "16. 08. 2026. у 14:22",
+  "azurirano": "2026-08-16T13:04:53.959677+00:00",
+  "azurirano_sr": "16. 08. 2026. у 15:04",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "El Sardinero posle 14 godina dočekao elitni fudbal: Šta mogu naslednici Žigića i Munitisa?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/el-sardinero-posle-14-godina-docekao-elitni-fudbal-sta-mogu-naslednici-zigica-i-munitisa/551545",
+      "naslov": "Terzić: Treća sreća sa Rijerom, zimus isto bio glavni kandidat; vreme da prevaziđemo ego i ksenofobiju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/terzic-treca-sreca-sa-rijerom-zimus-isto-bio-glavni-kandidat-vreme-da-prevaziemo-ego-i-ksenofobiju/551556",
       "izvor": "Мозарт Спорт",
-      "datum": "16. 08. 2026. у 14:15",
+      "datum": "16. 08. 2026. у 16:24",
       "slika": null
     },
     {
       "naslov": "TRANSFERI UŽIVO (nedelja, 16. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-16-avgust/551537",
       "izvor": "Мозарт Спорт",
-      "datum": "16. 08. 2026. у 13:12",
+      "datum": "16. 08. 2026. у 16:00",
+      "slika": null
+    },
+    {
+      "naslov": "El Sardinero posle 14 godina dočekao elitni fudbal: Šta mogu naslednici Žigića i Munitisa?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/el-sardinero-posle-14-godina-docekao-elitni-fudbal-sta-mogu-naslednici-zigica-i-munitisa/551545",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 08. 2026. у 14:15",
       "slika": null
     },
     {
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Luis Enrike i Brejdijeva filozofija - “najdraži trofej je sledeći”",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/luis-enrike-i-brejdijeva-filozofija-najdrazi-trofej-je-sledeci/551541",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 08. 2026. у 12:50",
+      "naslov": "Rijera: Svestan sam veličine i istorije Crvene zvezde, prvi cilj je Liga Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/274066/rijera-svestan-sam-velicine-i-istorije-crvene-zvezde-prvi-cilj-je-liga-evrope/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 08. 2026. у 14:46",
+      "slika": null
+    },
+    {
+      "naslov": "Terzić: Veliki klub reaguje u kriznim situacijama, Rijera može da ispuni ciljeve",
+      "url": "https://www.tanjug.rs/sport/fudbal/274060/terzic-veliki-klub-reaguje-u-kriznim-situacijama-rijera-moze-da-ispuni-ciljeve/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 08. 2026. у 14:27",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Hetafea deklasirani na gostovanju Alavesu na startu španskog šampionata",
-      "url": "https://www.tanjug.rs/sport/fudbal/273969/fudbaleri-hetafea-deklasirani-na-gostovanju-alavesu-na-startu-spanskog-sampionata/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 08. 2026. у 21:41",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Radnika pobedili Mačvu 2:1",
-      "url": "https://www.tanjug.rs/sport/fudbal/273966/fudbaleri-radnika-pobedili-macvu-21/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 08. 2026. у 21:06",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera otkrio kako je &quot;završio&quot; u Zvezdi: &quot;Nije katastrofa&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259398/uzivo-crvena-zvezda-predstavlja-alberta-rijeru/vest",
+      "naslov": "Zvezda predstavila Rijeru; Spomenuti Gvardiola i Arteta; &quot;Nije katastrofa&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259398/crvena-zvezda-predstavlja-alberta-rijeru/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 08. 2026. у 14:20",
+      "datum": "16. 08. 2026. у 15:01",
       "slika": null
     },
     {
-      "naslov": "Terzić predstavio Rijeru: &quot;Nisu slučajno Španci prvaci Evrope i sveta&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259422/izjava-zvezdana-terzica-na-predstavljanju-novog-trenera-crvene-zvezde-alberta-rijere/vest",
+      "naslov": "Rijera otkrio malo poznatu stvar: &quot;Idol mi je Srbin – podučavao me je kao igrača i osobu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259432/albert-rijera-otkrio-da-mu-je-idol-jovan-stankovic/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 08. 2026. у 14:10",
+      "datum": "16. 08. 2026. у 14:47",
       "slika": null
     }
   ]
