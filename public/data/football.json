@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-16T14:39:01.485463+00:00",
-  "azurirano_sr": "16. 08. 2026. у 16:39",
+  "azurirano": "2026-08-16T14:55:52.865368+00:00",
+  "azurirano_sr": "16. 08. 2026. у 16:55",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Abu Fani presekao – ovo je istina o odlasku iz Zvezde",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259454/abu-fani-ne-odlazi-iz-crvene-zvezde-ovog-leta/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "16. 08. 2026. у 16:46",
+      "slika": null
+    },
+    {
       "naslov": "Zvezda predstavila Rijeru; Spomenuti Gvardiola i Arteta; &quot;Nije katastrofa&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259398/crvena-zvezda-predstavlja-alberta-rijeru/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "16. 08. 2026. у 15:13",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera otkrio malo poznatu stvar: &quot;Idol mi je Srbin – podučavao me je kao igrača i osobu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259432/albert-rijera-otkrio-da-mu-je-idol-jovan-stankovic/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 08. 2026. у 14:47",
       "slika": null
     }
   ]
