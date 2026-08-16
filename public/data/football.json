@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-16T16:00:54.917675+00:00",
-  "azurirano_sr": "16. 08. 2026. у 18:00",
+  "azurirano": "2026-08-16T16:30:31.287151+00:00",
+  "azurirano_sr": "16. 08. 2026. у 18:30",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Arsenala pobedili Mančester siti i osvojili Komjuniti šild",
+      "url": "https://www.tanjug.rs/sport/fudbal/274097/fudbaleri-arsenala-pobedili-mancester-siti-i-osvojili-komjuniti-sild/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 08. 2026. у 18:00",
+      "slika": null
+    },
+    {
       "naslov": "Kristijano Ronaldo: Ovo će verovatno da bude moja poslednja sezona",
       "url": "https://www.tanjug.rs/sport/fudbal/274091/kristijano-ronaldo-ovo-ce-verovatno-da-bude-moja-poslednja-sezona/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274060/terzic-veliki-klub-reaguje-u-kriznim-situacijama-rijera-moze-da-ispuni-ciljeve/vest",
       "izvor": "Танјуг",
       "datum": "16. 08. 2026. у 14:27",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Viktorije pobedili Zlin uoči gostovanja Crvenoj zvezdi",
-      "url": "https://www.tanjug.rs/sport/fudbal/273975/fudbaleri-viktorije-pobedili-zlin-uoci-gostovanja-crvenoj-zvezdi/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 08. 2026. у 21:59",
       "slika": null
     },
     {
