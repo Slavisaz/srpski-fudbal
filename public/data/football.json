@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-16T10:04:42.586842+00:00",
-  "azurirano_sr": "16. 08. 2026. у 12:04",
+  "azurirano": "2026-08-16T10:32:55.071534+00:00",
+  "azurirano_sr": "16. 08. 2026. у 12:32",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "El Sardinero posle 14 godina dočekao elitni fudbal: Šta mogu naslednici Žigića i Munitisa?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/el-sardinero-posle-14-godina-docekao-elitni-fudbal-sta-mogu-naslednici-zigica-i-munitisa/551545",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 08. 2026. у 14:15",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (nedelja, 16. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-16-avgust/551537",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/luis-enrike-i-brejdijeva-filozofija-najdrazi-trofej-je-sledeci/551541",
       "izvor": "Мозарт Спорт",
       "datum": "16. 08. 2026. у 12:50",
-      "slika": null
-    },
-    {
-      "naslov": "Pauzi je kraj, Arsenal i Siti u klinču za prvi trofej sezone",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pauzi-je-kraj-arsenal-i-siti-u-klincu-za-prvi-trofej-sezone/551536",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 08. 2026. у 12:24",
       "slika": null
     },
     {
