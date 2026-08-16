@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-16T19:55:06.381335+00:00",
-  "azurirano_sr": "16. 08. 2026. у 21:55",
+  "azurirano": "2026-08-16T20:09:08.783585+00:00",
+  "azurirano_sr": "16. 08. 2026. у 22:09",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Mančester siti prihvatio ponudu Barselone od 76,5 miliona evra za Rodrija",
+      "url": "https://www.tanjug.rs/sport/fudbal/274132/mancester-siti-prihvatio-ponudu-barselone-od-765-miliona-evra-za-rodrija/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 08. 2026. у 21:41",
+      "slika": null
+    },
+    {
       "naslov": "Remi u Loznici, fudbaleri IMT-a i niškog Radničkog odigrali bez golova",
       "url": "https://www.tanjug.rs/sport/fudbal/274129/remi-u-loznici-fudbaleri-imt-a-i-niskog-radnickog-odigrali-bez-golova/vest",
       "izvor": "Танјуг",
@@ -53,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Srpski fudbaler Vanja Dragojević strelac za Rendžers u pobedi protiv Sent Mirena",
-      "url": "https://www.tanjug.rs/sport/fudbal/274116/srpski-fudbaler-vanja-dragojevic-strelac-za-rendzers-u-pobedi-protiv-sent-mirena/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 08. 2026. у 19:26",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Hladan tuš&quot; za Partizan – Radnički vodi sa igračem manje, golom Zvezdinog napadača",
+      "naslov": "&quot;Hladan tuš&quot; za Partizan – Radnički vodi sa igračem manje golom Zvezdinog napadača",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259479/uzivo-partizan-radnicki-kragujevac-superliga-srbije-live-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 08. 2026. у 21:53",
+      "datum": "16. 08. 2026. у 21:55",
       "slika": null
     },
     {
