@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-16T22:09:24.944862+00:00",
-  "azurirano_sr": "17. 08. 2026. у 00:09",
+  "azurirano": "2026-08-16T22:33:40.902649+00:00",
+  "azurirano_sr": "17. 08. 2026. у 00:33",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ilić: To je fudbal... Dokle ćemo stići, videćemo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ilic-to-je-fudbal-dokle-cemo-stici-videcemo/551610",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 08. 2026. у 02:06",
+      "slika": null
+    },
+    {
+      "naslov": "Gatuzo, čoveče... Lacio se žestoko obrukao: Nemojte posle da vas čudi bojkot",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gatuzo-covece-lacio-se-zestoko-obrukao-nemojte-posle-da-vas-cudi-bojkot/551609",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 08. 2026. у 02:00",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (nedelja, 16. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-nedelja-16-avgust/551537",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/kad-u-prvoj-ligi-zaprsti-vise-nego-u-superligi-kolo-kakvo-godinama-nije-vieno/551579",
       "izvor": "Мозарт Спорт",
       "datum": "16. 08. 2026. у 21:14",
-      "slika": null
-    },
-    {
-      "naslov": "Udri, Vanja, pocepaj mrežu: Projektil Dragojevića zapalio Ajbroks (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/udri-vanja-pocepaj-mrezu-projektil-dragojevica-zapalio-ajbroks-video/551571",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 08. 2026. у 19:49",
-      "slika": null
-    },
-    {
-      "naslov": "Kristijano Ronaldo: Ovo je verovatno moja poslednja godina u fudbalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kristijano-ronaldo-ovo-je-verovatno-moja-poslednja-godina-u-fudbalu/551570",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 08. 2026. у 19:32",
       "slika": null
     },
     {
