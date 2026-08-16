@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-16T18:17:31.862375+00:00",
-  "azurirano_sr": "16. 08. 2026. у 20:17",
+  "azurirano": "2026-08-16T18:48:48.196516+00:00",
+  "azurirano_sr": "16. 08. 2026. у 20:48",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (nedelja, 16. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-16-avgust/551537",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 08. 2026. у 22:18",
+      "slika": null
+    },
     {
       "naslov": "Kad u Prvoj ligi zapršti više nego u Superligi: Kolo kakvo godinama nije viđeno",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kad-u-prvoj-ligi-zaprsti-vise-nego-u-superligi-kolo-kakvo-godinama-nije-vieno/551579",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (nedelja, 16. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-16-avgust/551537",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 08. 2026. у 17:41",
+      "naslov": "Belgijanac Sebastijan Pokonjoli novi selektor fudbalske reprezentacije Škotske",
+      "url": "https://www.tanjug.rs/sport/fudbal/274123/belgijanac-sebastijan-pokonjoli-novi-selektor-fudbalske-reprezentacije-skotske/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 08. 2026. у 20:09",
+      "slika": null
+    },
+    {
+      "naslov": "Mikel Arteta: Uživao sam u igri Arsenala, nisam očekivao ovakav rezultat",
+      "url": "https://www.tanjug.rs/sport/fudbal/274120/mikel-arteta-uzivao-sam-u-igri-arsenala-nisam-ocekivao-ovakav-rezultat/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 08. 2026. у 19:58",
       "slika": null
     },
     {
@@ -46,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Kristijano Ronaldo: Ovo će verovatno da bude moja poslednja sezona",
-      "url": "https://www.tanjug.rs/sport/fudbal/274091/kristijano-ronaldo-ovo-ce-verovatno-da-bude-moja-poslednja-sezona/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 08. 2026. у 17:23",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera: Svestan sam veličine i istorije Crvene zvezde, prvi cilj je Liga Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/274066/rijera-svestan-sam-velicine-i-istorije-crvene-zvezde-prvi-cilj-je-liga-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 08. 2026. у 14:46",
-      "slika": null
-    },
-    {
       "naslov": "Partizan dočekuje Radnički – poznati sastavi, debituje Baba",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259479/uzivo-partizan-radnicki-kragujevac-superliga-srbije-live-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 08. 2026. у 19:50",
+      "datum": "16. 08. 2026. у 20:39",
       "slika": null
     },
     {
