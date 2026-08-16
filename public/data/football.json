@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-16T08:37:55.831663+00:00",
-  "azurirano_sr": "16. 08. 2026. у 10:37",
+  "azurirano": "2026-08-16T08:59:48.696135+00:00",
+  "azurirano_sr": "16. 08. 2026. у 10:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Pauzi je kraj, Arsenal i Siti u klinču za prvi trofej sezone",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pauzi-je-kraj-arsenal-i-siti-u-klincu-za-prvi-trofej-sezone/551536",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 08. 2026. у 12:24",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (nedelja, 16. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-16-avgust/551537",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 08. 2026. у 12:17",
+      "slika": null
+    },
     {
       "naslov": "Završeno: Lampardov napadački paket od 45.000.000",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zavrseno-lampardov-napadacki-paket-od-45000000/551535",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-sinovi-upoznajte-milana-jovanovica-novog-maionicara-skandinavskog-fudbala/551527",
       "izvor": "Мозарт Спорт",
       "datum": "16. 08. 2026. у 10:37",
-      "slika": null
-    },
-    {
-      "naslov": "Srbija bruji o braći Miladinović",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-bruji-o-braci-miladinovic/551519",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 08. 2026. у 00:58",
-      "slika": null
-    },
-    {
-      "naslov": "Tri kluba hoće, Čelsi zacepio i ne odustaje od 70.000.000 evra za Džeksona",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tri-kluba-hoce-celsi-zacepio-i-ne-odustaje-od-70000000-evra-za-dzeksona/551515",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 08. 2026. у 00:36",
       "slika": null
     },
     {
