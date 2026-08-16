@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-16T09:28:03.461098+00:00",
-  "azurirano_sr": "16. 08. 2026. у 11:28",
+  "azurirano": "2026-08-16T09:50:55.752326+00:00",
+  "azurirano_sr": "16. 08. 2026. у 11:50",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Partizan ima pravo da odloži meč u Lučanima, ali ne sme – razlog je Zvezda",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259381/partizan-ne-odlaze-mec-u-lucanima-zbog-vecitog-derbija-sa-crvenom-zvezdom/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "16. 08. 2026. у 11:42",
+      "slika": null
+    },
+    {
       "naslov": "Čuka bolja od OFK Beograda – Miladinović je hit Superlige",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259318/cuka-bolja-od-ofk-beograda-miladinovic-je-hit-superlige/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "15. 08. 2026. у 23:15",
-      "slika": null
-    },
-    {
-      "naslov": "Ništa se nije čekalo – Zvezda ekspresno našla zamenu za Tiknizjana!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259294/zvezda-vratila-mihaila-ristica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 08. 2026. у 20:33",
       "slika": null
     }
   ]
