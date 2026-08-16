@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-16T08:02:13.480504+00:00",
-  "azurirano_sr": "16. 08. 2026. у 10:02",
+  "azurirano": "2026-08-16T08:37:55.831663+00:00",
+  "azurirano_sr": "16. 08. 2026. у 10:37",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Završeno: Lampardov napadački paket od 45.000.000",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zavrseno-lampardov-napadacki-paket-od-45000000/551535",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 08. 2026. у 12:02",
+      "slika": null
+    },
     {
       "naslov": "Srpski sinovi: Upoznajte Milana Jovanovića – novog mađioničara skandinavskog fudbala",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-sinovi-upoznajte-milana-jovanovica-novog-maionicara-skandinavskog-fudbala/551527",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/tri-kluba-hoce-celsi-zacepio-i-ne-odustaje-od-70000000-evra-za-dzeksona/551515",
       "izvor": "Мозарт Спорт",
       "datum": "16. 08. 2026. у 00:36",
-      "slika": null
-    },
-    {
-      "naslov": "Ples vremešnih majstora, za punu mrežu domaćina! Tadić organizovao akcije, Šeri pokupio aplauze",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ples-vremesnih-majstora-za-punu-mrezu-domacina-tadic-organizovao-akcije-seri-pokupio-aplauze/551493",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 08. 2026. у 20:53",
       "slika": null
     },
     {
