@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-16T19:29:33.187013+00:00",
-  "azurirano_sr": "16. 08. 2026. у 21:29",
+  "azurirano": "2026-08-16T19:44:47.419762+00:00",
+  "azurirano_sr": "16. 08. 2026. у 21:44",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Remi u Loznici, fudbaleri IMT-a i niškog Radničkog odigrali bez golova",
+      "url": "https://www.tanjug.rs/sport/fudbal/274129/remi-u-loznici-fudbaleri-imt-a-i-niskog-radnickog-odigrali-bez-golova/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 08. 2026. у 21:11",
+      "slika": null
+    },
+    {
       "naslov": "Belgijanac Sebastijan Pokonjoli novi selektor fudbalske reprezentacije Škotske",
       "url": "https://www.tanjug.rs/sport/fudbal/274123/belgijanac-sebastijan-pokonjoli-novi-selektor-fudbalske-reprezentacije-skotske/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Arsenala pobedili Mančester siti i osvojili Komjuniti šild",
-      "url": "https://www.tanjug.rs/sport/fudbal/274097/fudbaleri-arsenala-pobedili-mancester-siti-i-osvojili-komjuniti-sild/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 08. 2026. у 18:00",
-      "slika": null
-    },
-    {
-      "naslov": "Stativa spasila Radnički – otvoreno se igra u Humskoj",
+      "naslov": "Partizan sa igračem više",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259479/uzivo-partizan-radnicki-kragujevac-superliga-srbije-live-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 08. 2026. у 21:23",
+      "datum": "16. 08. 2026. у 21:36",
       "slika": null
     },
     {
       "naslov": "IMT imao penal u nadoknadi za pobedu – golman Kostić obradovao &quot;meraklije&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259505/superliga-5-kolo-imt-radnicki-nis-00/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 08. 2026. у 21:15",
+      "datum": "16. 08. 2026. у 21:10",
       "slika": null
     }
   ]
