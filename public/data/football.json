@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-16T21:02:28.671220+00:00",
-  "azurirano_sr": "16. 08. 2026. у 23:02",
+  "azurirano": "2026-08-16T21:27:33.278803+00:00",
+  "azurirano_sr": "16. 08. 2026. у 23:27",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Partizana sa igračem više poraženi od kragujevačkog Radničkog u Superligi Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/274144/fudbaleri-partizana-sa-igracem-vise-porazeni-od-kragujevackog-radnickog-u-superligi-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 08. 2026. у 23:02",
+      "slika": null
+    },
+    {
       "naslov": "Mančester siti prihvatio ponudu Barselone od 76,5 miliona evra za Rodrija",
       "url": "https://www.tanjug.rs/sport/fudbal/274132/mancester-siti-prihvatio-ponudu-barselone-od-765-miliona-evra-za-rodrija/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Mikel Arteta: Uživao sam u igri Arsenala, nisam očekivao ovakav rezultat",
-      "url": "https://www.tanjug.rs/sport/fudbal/274120/mikel-arteta-uzivao-sam-u-igri-arsenala-nisam-ocekivao-ovakav-rezultat/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 08. 2026. у 19:58",
+      "naslov": "Zemun i dalje bez pobede – Mladost slavi Tašovskog",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259531/mladost-savladala-zemun-u-5-kolu-superlige-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "16. 08. 2026. у 23:20",
       "slika": null
     },
     {
-      "naslov": "Zvezdin napadač srušio Partizan – Radnički slavio u Humskoj! VIDEO",
+      "naslov": "Zvezdin napadač srušio Partizan – Radnički slavio!; Ilić: &quot;Puno promašenih šansi&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259479/uzivo-partizan-radnicki-kragujevac-superliga-srbije-live-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 08. 2026. у 22:55",
-      "slika": null
-    },
-    {
-      "naslov": "IMT imao penal u nadoknadi za pobedu – golman Kostić obradovao &quot;meraklije&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259505/superliga-5-kolo-imt-radnicki-nis-00/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 08. 2026. у 21:15",
+      "datum": "16. 08. 2026. у 23:18",
       "slika": null
     }
   ]
