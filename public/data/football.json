@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-16T17:06:46.862642+00:00",
-  "azurirano_sr": "16. 08. 2026. у 19:06",
+  "azurirano": "2026-08-16T17:29:58.583305+00:00",
+  "azurirano_sr": "16. 08. 2026. у 19:29",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Srpski fudbaler Vanja Dragojević strelac za Rendžers u pobedi protiv Sent Mirena",
+      "url": "https://www.tanjug.rs/sport/fudbal/274116/srpski-fudbaler-vanja-dragojevic-strelac-za-rendzers-u-pobedi-protiv-sent-mirena/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 08. 2026. у 19:26",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Arsenala pobedili Mančester siti i osvojili Komjuniti šild",
       "url": "https://www.tanjug.rs/sport/fudbal/274097/fudbaleri-arsenala-pobedili-mancester-siti-i-osvojili-komjuniti-sild/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274066/rijera-svestan-sam-velicine-i-istorije-crvene-zvezde-prvi-cilj-je-liga-evrope/vest",
       "izvor": "Танјуг",
       "datum": "16. 08. 2026. у 14:46",
-      "slika": null
-    },
-    {
-      "naslov": "Terzić: Veliki klub reaguje u kriznim situacijama, Rijera može da ispuni ciljeve",
-      "url": "https://www.tanjug.rs/sport/fudbal/274060/terzic-veliki-klub-reaguje-u-kriznim-situacijama-rijera-moze-da-ispuni-ciljeve/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 08. 2026. у 14:27",
       "slika": null
     },
     {
