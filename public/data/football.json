@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-16T17:45:18.689912+00:00",
-  "azurirano_sr": "16. 08. 2026. у 19:45",
+  "azurirano": "2026-08-16T17:56:33.017297+00:00",
+  "azurirano_sr": "16. 08. 2026. у 19:56",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Partizan dočekuje Radnički – dobar test pred Ligu konferencije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259479/uzivo-partizan-radnicki-kragujevac-superliga-srbije-live-prenos/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "16. 08. 2026. у 19:50",
+      "slika": null
+    },
+    {
       "naslov": "&quot;Ovusu je želeo da napusti Crvenu zvezdu po svaku cenu&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259458/ovusu-je-zeleo-da-napusti-crvenu-zvezdu-po-svaku-cenu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "16. 08. 2026. у 17:45",
-      "slika": null
-    },
-    {
-      "naslov": "Abu Fani presekao – ovo je istina o odlasku iz Zvezde",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259454/abu-fani-ne-odlazi-iz-crvene-zvezde-ovog-leta/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 08. 2026. у 16:46",
       "slika": null
     }
   ]
