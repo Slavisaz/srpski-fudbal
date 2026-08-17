@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-17T20:25:10.229043+00:00",
-  "azurirano_sr": "17. 08. 2026. у 22:25",
+  "azurirano": "2026-08-17T20:49:21.078370+00:00",
+  "azurirano_sr": "17. 08. 2026. у 22:49",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Ovo je Rijerin stručni štab – stiže Arteta, vratio se trener golmana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259832/strucni-stab-alberta-rijere-u-crvenoj-zvezdi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 08. 2026. у 22:40",
+      "slika": null
+    },
+    {
       "naslov": "Partizan u zoni ispadanja",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259837/partizan-u-zoni-ispadanja-posle-5-kola-superlige-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "17. 08. 2026. у 22:10",
-      "slika": null
-    },
-    {
-      "naslov": "Nova &quot;desetka&quot; Partizana: &quot;Sve sam radio da bih došao&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259828/igor-miladinovic-izjava-po-dolasku-u-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 08. 2026. у 21:45",
       "slika": null
     }
   ]
