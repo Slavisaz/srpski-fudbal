@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-17T06:04:26.133560+00:00",
-  "azurirano_sr": "17. 08. 2026. у 08:04",
+  "azurirano": "2026-08-17T07:10:44.851324+00:00",
+  "azurirano_sr": "17. 08. 2026. у 09:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Raport sa srpskoligaških terena: Prve lovorike u Užicu i Kruševcu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-prve-lovorike-u-uzicu-i-krusevcu/551618",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 08. 2026. у 10:23",
+      "slika": null
+    },
     {
       "naslov": "Ilić: To je fudbal... Dokle ćemo stići, videćemo",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ilic-to-je-fudbal-dokle-cemo-stici-videcemo/551610",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-nedelja-16-avgust/551537",
       "izvor": "Мозарт Спорт",
       "datum": "17. 08. 2026. у 01:38",
-      "slika": null
-    },
-    {
-      "naslov": "Kad u Prvoj ligi zapršti više nego u Superligi: Kolo kakvo godinama nije viđeno",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kad-u-prvoj-ligi-zaprsti-vise-nego-u-superligi-kolo-kakvo-godinama-nije-vieno/551579",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 08. 2026. у 21:14",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Zvezda donela odluku u vezi sa Erakovićem?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259554/zvezda-nece-erakovica-vraca-se-u-zenit-sa-pozajmice/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 08. 2026. у 08:55",
+      "slika": null
+    },
+    {
       "naslov": "Zvezdin napadač srušio Partizan – Radnički slavio!; Ilić: &quot;Puno promašenih šansi&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259479/uzivo-partizan-radnicki-kragujevac-superliga-srbije-live-prenos/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "16. 08. 2026. у 23:30",
-      "slika": null
-    },
-    {
-      "naslov": "Zemun i dalje bez pobede – Mladost slavi Tašovskog",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259531/mladost-savladala-zemun-u-5-kolu-superlige-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 08. 2026. у 23:20",
       "slika": null
     }
   ]
