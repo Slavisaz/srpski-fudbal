@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-17T10:01:11.899917+00:00",
-  "azurirano_sr": "17. 08. 2026. у 12:01",
+  "azurirano": "2026-08-17T10:35:34.313867+00:00",
+  "azurirano_sr": "17. 08. 2026. у 12:35",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "FK Crvena zvezda: Od danas na blagajnama stadiona \"Rajko Mitić\" prodaja karata za Viktoriju",
+      "url": "https://www.tanjug.rs/sport/fudbal/274230/fk-crvena-zvezda-od-danas-na-blagajnama-stadiona-rajko-mitic-prodaja-karata-za-viktoriju/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 08. 2026. у 12:04",
+      "slika": null
+    },
+    {
       "naslov": "Španski fudbaler Ortega potpisao ugovor sa Strazburom",
       "url": "https://www.tanjug.rs/sport/fudbal/274223/spanski-fudbaler-ortega-potpisao-ugovor-sa-strazburom/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274178/kolumbijski-fudbaler-dzon-lukumi-novo-pojacanje-juventusa/vest",
       "izvor": "Танјуг",
       "datum": "17. 08. 2026. у 09:40",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Partizana sa igračem više poraženi od kragujevačkog Radničkog u Superligi Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/274144/fudbaleri-partizana-sa-igracem-vise-porazeni-od-kragujevackog-radnickog-u-superligi-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 08. 2026. у 23:02",
       "slika": null
     },
     {
