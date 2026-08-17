@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-17T10:59:43.945911+00:00",
-  "azurirano_sr": "17. 08. 2026. у 12:59",
+  "azurirano": "2026-08-17T11:25:57.435658+00:00",
+  "azurirano_sr": "17. 08. 2026. у 13:25",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Buongiorno Italia: Apeninski paradoks - Italija evropska sportska velesila i fudbalski patuljak",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-apeninski-paradoks-italija-evropska-sportska-velesila-i-fudbalski-patuljak/551642",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 08. 2026. у 15:00",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (ponedeljak, 17. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-17-avgust/551624",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 08. 2026. у 14:45",
+      "slika": null
+    },
     {
       "naslov": "Grci tvrde: AEK kupio Arijagu za samo 3.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/grci-tvrde-aek-kupio-arijagu-za-samo-3000000-evra/551636",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/cekajuci-dvomec-sa-partizanom-hetafe-otvorio-pregovore-sa-stefanom-bajceticem/551633",
       "izvor": "Мозарт Спорт",
       "datum": "17. 08. 2026. у 12:31",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (ponedeljak, 17. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-17-avgust/551624",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 08. 2026. у 11:24",
-      "slika": null
-    },
-    {
-      "naslov": "Raport sa srpskoligaških terena: Prve lovorike u Užicu i Kruševcu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-prve-lovorike-u-uzicu-i-krusevcu/551618",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 08. 2026. у 10:23",
       "slika": null
     },
     {
