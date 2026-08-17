@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-17T12:52:55.633561+00:00",
-  "azurirano_sr": "17. 08. 2026. у 14:52",
+  "azurirano": "2026-08-17T13:28:55.278690+00:00",
+  "azurirano_sr": "17. 08. 2026. у 15:28",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Tako je i Gvardiola počeo: Serhio Buskets u stručnom štabu Barse “B”",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tako-je-i-gvardiola-poceo-serhio-buskets-u-strucnom-stabu-barse-b/551658",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 08. 2026. у 16:52",
+      "slika": null
+    },
     {
       "naslov": "Eraković se oprašta od Zvezde, problem i plata",
       "url": "https://www.mozzartsport.com/fudbal/vesti/erakovic-se-oprasta-od-zvezde-problem-i-plata/551653",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-17-avgust/551624",
       "izvor": "Мозарт Спорт",
       "datum": "17. 08. 2026. у 14:45",
-      "slika": null
-    },
-    {
-      "naslov": "Grci tvrde: AEK kupio Arijagu za samo 3.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/grci-tvrde-aek-kupio-arijagu-za-samo-3000000-evra/551636",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 08. 2026. у 12:48",
       "slika": null
     },
     {
