@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-17T19:16:37.703702+00:00",
-  "azurirano_sr": "17. 08. 2026. у 21:16",
+  "azurirano": "2026-08-17T19:43:22.071684+00:00",
+  "azurirano_sr": "17. 08. 2026. у 21:43",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Srpski fudbaler Igor Miladinović na jednogodišnjoj pozajmici u Partizanu",
+      "url": "https://www.tanjug.rs/sport/fudbal/274380/srpski-fudbaler-igor-miladinovic-na-jednogodisnjoj-pozajmici-u-partizanu/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 08. 2026. у 21:16",
+      "slika": null
+    },
+    {
+      "naslov": "Holandski fudbaler Tajs Dalinga prešao na pozajmicu u Keln",
+      "url": "https://www.tanjug.rs/sport/fudbal/274372/holandski-fudbaler-tajs-dalinga-presao-na-pozajmicu-u-keln/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 08. 2026. у 20:41",
+      "slika": null
+    },
+    {
       "naslov": "Nigerijski fudbaler Taivo Avonji novo pojačanje Koventrija",
       "url": "https://www.tanjug.rs/sport/fudbal/274364/nigerijski-fudbaler-taivo-avonji-novo-pojacanje-koventrija/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274353/janis-konstantelijas-novi-fudbaler-borusije-dortmund/vest",
       "izvor": "Танјуг",
       "datum": "17. 08. 2026. у 18:53",
-      "slika": null
-    },
-    {
-      "naslov": "Šerif Ndiaje prešao na pozajmicu u PAOK",
-      "url": "https://www.tanjug.rs/sport/fudbal/274323/serif-ndiaje-presao-na-pozajmicu-u-paok/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 08. 2026. у 16:49",
-      "slika": null
-    },
-    {
-      "naslov": "Abdul Utara novi fudbaler Ipsviča",
-      "url": "https://www.tanjug.rs/sport/fudbal/274308/abdul-utara-novi-fudbaler-ipsvica/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 08. 2026. у 15:56",
       "slika": null
     },
     {
