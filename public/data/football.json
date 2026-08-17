@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-17T14:00:40.374983+00:00",
-  "azurirano_sr": "17. 08. 2026. у 16:00",
+  "azurirano": "2026-08-17T14:31:34.945428+00:00",
+  "azurirano_sr": "17. 08. 2026. у 16:31",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Abdul Utara novi fudbaler Ipsviča",
+      "url": "https://www.tanjug.rs/sport/fudbal/274308/abdul-utara-novi-fudbaler-ipsvica/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 08. 2026. у 15:56",
+      "slika": null
+    },
+    {
       "naslov": "FK Crvena zvezda: Od danas na blagajnama stadiona \"Rajko Mitić\" prodaja karata za Viktoriju",
       "url": "https://www.tanjug.rs/sport/fudbal/274230/fk-crvena-zvezda-od-danas-na-blagajnama-stadiona-rajko-mitic-prodaja-karata-za-viktoriju/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274202/svajcarski-reprezentativac-remo-frojler-novi-fudbaler-olimpijakosa/vest",
       "izvor": "Танјуг",
       "datum": "17. 08. 2026. у 10:34",
-      "slika": null
-    },
-    {
-      "naslov": "Kolumbijski fudbaler Džon Lukumi novo pojačanje Juventusa",
-      "url": "https://www.tanjug.rs/sport/fudbal/274178/kolumbijski-fudbaler-dzon-lukumi-novo-pojacanje-juventusa/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 08. 2026. у 09:40",
       "slika": null
     },
     {
