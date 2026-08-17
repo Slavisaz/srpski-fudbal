@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-17T19:58:55.761090+00:00",
-  "azurirano_sr": "17. 08. 2026. у 21:58",
+  "azurirano": "2026-08-17T20:25:10.229043+00:00",
+  "azurirano_sr": "17. 08. 2026. у 22:25",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Novog Pazara pobedili Vojvodinu u petom kolu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/274389/fudbaleri-novog-pazara-pobedili-vojvodinu-u-petom-kolu-superlige-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 08. 2026. у 22:10",
+      "slika": null
+    },
+    {
       "naslov": "Srpski fudbaler Igor Miladinović na jednogodišnjoj pozajmici u Partizanu",
       "url": "https://www.tanjug.rs/sport/fudbal/274380/srpski-fudbaler-igor-miladinovic-na-jednogodisnjoj-pozajmici-u-partizanu/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Janis Konstantelijas novi fudbaler Borusije Dortmund",
-      "url": "https://www.tanjug.rs/sport/fudbal/274353/janis-konstantelijas-novi-fudbaler-borusije-dortmund/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 08. 2026. у 18:53",
+      "naslov": "Partizan u zoni ispadanja",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259837/partizan-u-zoni-ispadanja-posle-5-kola-superlige-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 08. 2026. у 22:10",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259828/igor-miladinovic-izjava-po-dolasku-u-partizan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "17. 08. 2026. у 21:45",
-      "slika": null
-    },
-    {
-      "naslov": "Veliki posao Partizana – stigla &quot;desetka&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259815/igor-miladinovic-u-partizanu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 08. 2026. у 20:50",
       "slika": null
     }
   ]
