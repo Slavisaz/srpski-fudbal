@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-17T18:01:37.050637+00:00",
-  "azurirano_sr": "17. 08. 2026. у 20:01",
+  "azurirano": "2026-08-17T18:48:45.616810+00:00",
+  "azurirano_sr": "17. 08. 2026. у 20:48",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Nigerijski fudbaler Taivo Avonji novo pojačanje Koventrija",
+      "url": "https://www.tanjug.rs/sport/fudbal/274364/nigerijski-fudbaler-taivo-avonji-novo-pojacanje-koventrija/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 08. 2026. у 19:54",
+      "slika": null
+    },
+    {
       "naslov": "Janis Konstantelijas novi fudbaler Borusije Dortmund",
       "url": "https://www.tanjug.rs/sport/fudbal/274353/janis-konstantelijas-novi-fudbaler-borusije-dortmund/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "FK Crvena zvezda: Od danas na blagajnama stadiona \"Rajko Mitić\" prodaja karata za Viktoriju",
-      "url": "https://www.tanjug.rs/sport/fudbal/274230/fk-crvena-zvezda-od-danas-na-blagajnama-stadiona-rajko-mitic-prodaja-karata-za-viktoriju/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 08. 2026. у 12:04",
+      "naslov": "Dejan Stanković pod istragom",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259806/dejan-stankovic-tema-disciplinske-komisije-fss-zbog-uvreda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 08. 2026. у 20:10",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259800/navijaci-novog-pazara-bojkotuju-utakmicu-protiv-vojvodine/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "17. 08. 2026. у 20:00",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Rijera bi loše prošao da se nisam primirio&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259792/savo-pavicevic-o-sukobu-sa-rijerom-u-sloveniji/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 08. 2026. у 19:20",
       "slika": null
     }
   ]
