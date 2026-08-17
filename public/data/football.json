@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-17T08:39:40.875226+00:00",
-  "azurirano_sr": "17. 08. 2026. у 10:39",
+  "azurirano": "2026-08-17T09:21:44.117319+00:00",
+  "azurirano_sr": "17. 08. 2026. у 11:21",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Grci tvrde: AEK kupio Arijagu za samo 3.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/grci-tvrde-aek-kupio-arijagu-za-samo-3000000-evra/551636",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 08. 2026. у 12:48",
+      "slika": null
+    },
+    {
+      "naslov": "Čekajući dvomeč sa Partizanom, Hetafe otvorio pregovore sa Stefanom Bajčetićem",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cekajuci-dvomec-sa-partizanom-hetafe-otvorio-pregovore-sa-stefanom-bajceticem/551633",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 08. 2026. у 12:31",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (ponedeljak, 17. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-17-avgust/551624",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Ilić: To je fudbal... Dokle ćemo stići, videćemo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ilic-to-je-fudbal-dokle-cemo-stici-videcemo/551610",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 08. 2026. у 02:06",
-      "slika": null
-    },
-    {
-      "naslov": "Gatuzo, čoveče... Lacio se žestoko obrukao: Nemojte posle da vas čudi bojkot",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gatuzo-covece-lacio-se-zestoko-obrukao-nemojte-posle-da-vas-cudi-bojkot/551609",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 08. 2026. у 02:00",
+      "naslov": "Švajcarski reprezentativac Remo Frojler novi fudbaler Olimpijakosa",
+      "url": "https://www.tanjug.rs/sport/fudbal/274202/svajcarski-reprezentativac-remo-frojler-novi-fudbaler-olimpijakosa/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 08. 2026. у 10:34",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274132/mancester-siti-prihvatio-ponudu-barselone-od-765-miliona-evra-za-rodrija/vest",
       "izvor": "Танјуг",
       "datum": "16. 08. 2026. у 21:41",
-      "slika": null
-    },
-    {
-      "naslov": "Remi u Loznici, fudbaleri IMT-a i niškog Radničkog odigrali bez golova",
-      "url": "https://www.tanjug.rs/sport/fudbal/274129/remi-u-loznici-fudbaleri-imt-a-i-niskog-radnickog-odigrali-bez-golova/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 08. 2026. у 21:11",
       "slika": null
     },
     {
