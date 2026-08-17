@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-17T14:55:17.086724+00:00",
-  "azurirano_sr": "17. 08. 2026. у 16:55",
+  "azurirano": "2026-08-17T15:14:32.100710+00:00",
+  "azurirano_sr": "17. 08. 2026. у 17:14",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Šerif Ndiaje prešao na pozajmicu u PAOK",
+      "url": "https://www.tanjug.rs/sport/fudbal/274323/serif-ndiaje-presao-na-pozajmicu-u-paok/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 08. 2026. у 16:49",
+      "slika": null
+    },
+    {
       "naslov": "Abdul Utara novi fudbaler Ipsviča",
       "url": "https://www.tanjug.rs/sport/fudbal/274308/abdul-utara-novi-fudbaler-ipsvica/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274223/spanski-fudbaler-ortega-potpisao-ugovor-sa-strazburom/vest",
       "izvor": "Танјуг",
       "datum": "17. 08. 2026. у 11:43",
-      "slika": null
-    },
-    {
-      "naslov": "Švajcarski reprezentativac Remo Frojler novi fudbaler Olimpijakosa",
-      "url": "https://www.tanjug.rs/sport/fudbal/274202/svajcarski-reprezentativac-remo-frojler-novi-fudbaler-olimpijakosa/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 08. 2026. у 10:34",
       "slika": null
     },
     {
