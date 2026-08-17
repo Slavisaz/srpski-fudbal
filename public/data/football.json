@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-17T19:43:22.071684+00:00",
-  "azurirano_sr": "17. 08. 2026. у 21:43",
+  "azurirano": "2026-08-17T19:58:55.761090+00:00",
+  "azurirano_sr": "17. 08. 2026. у 21:58",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Nova &quot;desetka&quot; Partizana: &quot;Sve sam radio da bih došao&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259828/igor-miladinovic-izjava-po-dolasku-u-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 08. 2026. у 21:45",
+      "slika": null
+    },
+    {
       "naslov": "Veliki posao Partizana – stigla &quot;desetka&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259815/igor-miladinovic-u-partizanu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "17. 08. 2026. у 20:50",
-      "slika": null
-    },
-    {
-      "naslov": "Dejan Stanković pod istragom",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259806/dejan-stankovic-tema-disciplinske-komisije-fss-zbog-uvreda/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 08. 2026. у 20:10",
       "slika": null
     }
   ]
