@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-17T07:10:44.851324+00:00",
-  "azurirano_sr": "17. 08. 2026. у 09:10",
+  "azurirano": "2026-08-17T07:58:34.501639+00:00",
+  "azurirano_sr": "17. 08. 2026. у 09:58",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (ponedeljak, 17. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-17-avgust/551624",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 08. 2026. у 11:24",
+      "slika": null
+    },
     {
       "naslov": "Raport sa srpskoligaških terena: Prve lovorike u Užicu i Kruševcu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-prve-lovorike-u-uzicu-i-krusevcu/551618",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (nedelja, 16. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-nedelja-16-avgust/551537",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 08. 2026. у 01:38",
+      "naslov": "Kolumbijski fudbaler Džon Lukumi novo pojačanje Juventusa",
+      "url": "https://www.tanjug.rs/sport/fudbal/274178/kolumbijski-fudbaler-dzon-lukumi-novo-pojacanje-juventusa/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 08. 2026. у 09:40",
       "slika": null
     },
     {
@@ -53,14 +60,7 @@
       "slika": null
     },
     {
-      "naslov": "Belgijanac Sebastijan Pokonjoli novi selektor fudbalske reprezentacije Škotske",
-      "url": "https://www.tanjug.rs/sport/fudbal/274123/belgijanac-sebastijan-pokonjoli-novi-selektor-fudbalske-reprezentacije-skotske/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 08. 2026. у 20:09",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda donela odluku u vezi sa Erakovićem?",
+      "naslov": "Zvezda odlučila – evo šta će biti sa Erakovićem",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259554/zvezda-nece-erakovica-vraca-se-u-zenit-sa-pozajmice/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "17. 08. 2026. у 08:55",
