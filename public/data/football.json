@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-17T12:01:08.655337+00:00",
-  "azurirano_sr": "17. 08. 2026. у 14:01",
+  "azurirano": "2026-08-17T12:52:55.633561+00:00",
+  "azurirano_sr": "17. 08. 2026. у 14:52",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Eraković se oprašta od Zvezde, problem i plata",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/erakovic-se-oprasta-od-zvezde-problem-i-plata/551653",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 08. 2026. у 16:08",
+      "slika": null
+    },
     {
       "naslov": "Buongiorno Italia: Apeninski paradoks - Italija evropska sportska velesila i fudbalski patuljak",
       "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-apeninski-paradoks-italija-evropska-sportska-velesila-i-fudbalski-patuljak/551642",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/grci-tvrde-aek-kupio-arijagu-za-samo-3000000-evra/551636",
       "izvor": "Мозарт Спорт",
       "datum": "17. 08. 2026. у 12:48",
-      "slika": null
-    },
-    {
-      "naslov": "Čekajući dvomeč sa Partizanom, Hetafe otvorio pregovore sa Stefanom Bajčetićem",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cekajuci-dvomec-sa-partizanom-hetafe-otvorio-pregovore-sa-stefanom-bajceticem/551633",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 08. 2026. у 12:31",
       "slika": null
     },
     {
