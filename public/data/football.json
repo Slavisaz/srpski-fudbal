@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-17T17:42:23.512938+00:00",
-  "azurirano_sr": "17. 08. 2026. у 19:42",
+  "azurirano": "2026-08-17T18:01:37.050637+00:00",
+  "azurirano_sr": "17. 08. 2026. у 20:01",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Navijači Novog Pazara bojkotuju utakmicu protiv Vojvodine",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259800/navijaci-novog-pazara-bojkotuju-utakmicu-protiv-vojvodine/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 08. 2026. у 20:00",
+      "slika": null
+    },
+    {
       "naslov": "&quot;Rijera bi loše prošao da se nisam primirio&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259792/savo-pavicevic-o-sukobu-sa-rijerom-u-sloveniji/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "17. 08. 2026. у 19:20",
-      "slika": null
-    },
-    {
-      "naslov": "Heroj Radničkog otkrio kako je srušen Partizan: &quot;Bili smo spremni i na crveni karton&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259738/nemanja-glavcic-posle-pobede-nad-partizanom/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 08. 2026. у 16:38",
       "slika": null
     }
   ]
