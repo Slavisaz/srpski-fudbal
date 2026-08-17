@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-17T17:11:49.291247+00:00",
-  "azurirano_sr": "17. 08. 2026. у 19:11",
+  "azurirano": "2026-08-17T17:42:23.512938+00:00",
+  "azurirano_sr": "17. 08. 2026. у 19:42",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (ponedeljak, 17. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-17-avgust/551624",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 08. 2026. у 21:25",
+      "slika": null
+    },
     {
       "naslov": "Ringišpil konačno stao: Juventus našao golmana, stiže Vikario na besplatnu pozajmicu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ringispil-konacno-stao-juventus-nasao-golmana-stize-vikario-na-besplatnu-pozajmicu/551671",
@@ -18,17 +25,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (ponedeljak, 17. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-17-avgust/551624",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 08. 2026. у 17:50",
-      "slika": null
-    },
-    {
       "naslov": "Nekad crveno-beli, sada crno-beli: Šerif Endijaje potpisao za PAOK",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nekad-crvenobeli-sada-crnobeli-serif-endijaje-potpisao-za-paok/551662",
       "izvor": "Мозарт Спорт",
       "datum": "17. 08. 2026. у 17:19",
+      "slika": null
+    },
+    {
+      "naslov": "Janis Konstantelijas novi fudbaler Borusije Dortmund",
+      "url": "https://www.tanjug.rs/sport/fudbal/274353/janis-konstantelijas-novi-fudbaler-borusije-dortmund/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 08. 2026. у 18:53",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Španski fudbaler Ortega potpisao ugovor sa Strazburom",
-      "url": "https://www.tanjug.rs/sport/fudbal/274223/spanski-fudbaler-ortega-potpisao-ugovor-sa-strazburom/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 08. 2026. у 11:43",
+      "naslov": "&quot;Rijera bi loše prošao da se nisam primirio&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259792/savo-pavicevic-o-sukobu-sa-rijerom-u-sloveniji/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 08. 2026. у 19:20",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259738/nemanja-glavcic-posle-pobede-nad-partizanom/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "17. 08. 2026. у 16:38",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda odlučila – evo šta će biti sa Erakovićem",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259554/zvezda-nece-erakovica-vraca-se-u-zenit-sa-pozajmice/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 08. 2026. у 08:55",
       "slika": null
     }
   ]
