@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-08-18T10:11:09.431802+00:00",
-  "azurirano_sr": "18. 08. 2026. у 12:11",
+  "azurirano": "2026-08-18T10:44:21.265423+00:00",
+  "azurirano_sr": "18. 08. 2026. у 12:44",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Milionska ponuda za Zvezdu, ali da prvo Rijera vidi momka iz \"kaveza\"",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/milionska-ponuda-za-zvezdu-ali-da-prvo-rijera-vidi-momka-iz-kaveza/551715",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 08. 2026. у 14:23",
+      "slika": null
+    },
+    {
+      "naslov": "Srpski trener kvari Bragi transfer Jovana Miloševića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-trener-kvari-bragi-transfer-jovana-milosevica/551714",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 08. 2026. у 14:11",
+      "slika": null
+    },
+    {
+      "naslov": "Aleksandar Sedlar posle deset godina u srpskom fudbalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/aleksandar-sedlar-posle-deset-godina-u-srpskom-fudbalu/551716",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 08. 2026. у 14:07",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (utorak, 18. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-18-avgust/551697",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Nedeljković stiže kod Dragojevića, Rendžers u obavezi da ga otkupi za 4.500.000 pod jednim uslovom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nedeljkovic-stize-kod-dragojevica-rendzers-u-obavezi-da-ga-otkupi-za-4500000-pod-jednim-uslovom/551691",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 08. 2026. у 02:45",
+      "naslov": "FK Crvena zvezda: Druženje sa igračima, igre i nagrade uoči meča sa Viktorijom Plzenj",
+      "url": "https://www.tanjug.rs/sport/fudbal/274488/fk-crvena-zvezda-druzenje-sa-igracima-igre-i-nagrade-uoci-meca-sa-viktorijom-plzenj/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 08. 2026. у 12:24",
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (ponedeljak, 17. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-ponedeljak-17-avgust/551624",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 08. 2026. у 01:32",
-      "slika": null
-    },
-    {
-      "naslov": "Ringišpil konačno stao: Juventus našao golmana, stiže Vikario na besplatnu pozajmicu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ringispil-konacno-stao-juventus-nasao-golmana-stize-vikario-na-besplatnu-pozajmicu/551671",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 08. 2026. у 19:51",
+      "naslov": "Holandski fudbaler Džoi Verman novo pojačanje Borusije Dortmund",
+      "url": "https://www.tanjug.rs/sport/fudbal/274480/holandski-fudbaler-dzoi-verman-novo-pojacanje-borusije-dortmund/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 08. 2026. у 11:44",
       "slika": null
     },
     {
@@ -46,28 +60,14 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Novog Pazara pobedili Vojvodinu u petom kolu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/274389/fudbaleri-novog-pazara-pobedili-vojvodinu-u-petom-kolu-superlige-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 08. 2026. у 22:10",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Igor Miladinović na jednogodišnjoj pozajmici u Partizanu",
-      "url": "https://www.tanjug.rs/sport/fudbal/274380/srpski-fudbaler-igor-miladinovic-na-jednogodisnjoj-pozajmici-u-partizanu/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 08. 2026. у 21:16",
-      "slika": null
-    },
-    {
-      "naslov": "Janković kritikovao Zvezdu: &quot;Dobiješ Liverpul sa 9 naših, ispadaš od Ber Šefe sa 16 stranaca&quot; VIDEO",
+      "naslov": "&quot;Kupio si 100 stranaca, a niko ti ne igra&quot;: Janković žestoko udario na Zvezdu VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259961/aleksandar-jankovic-zestoko-kritikovao-crvenu-zvezdu-imas-16-stranaca-i-ispadas-od-ber-seve/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 08. 2026. у 12:03",
       "slika": null
     },
     {
-      "naslov": "Tiknizjan u suzama zbog Zvezde VIDEO",
+      "naslov": "Tiknizjan u suzama napustio Zvezdu, njegove reči rasplakale i saigrače VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259944/tiknizjan-zaplakao-na-oprostaju-od-zvezde-bio-sam-spreman-da-umrem-za-svakog/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 08. 2026. у 11:30",
