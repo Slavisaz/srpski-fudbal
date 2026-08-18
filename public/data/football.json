@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-18T16:12:43.678845+00:00",
-  "azurirano_sr": "18. 08. 2026. у 18:12",
+  "azurirano": "2026-08-18T16:47:10.485680+00:00",
+  "azurirano_sr": "18. 08. 2026. у 18:47",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Prijateljski rastanak Mladosti i kapitena; Udovičić: Ne napušta se brod kada tone, nego kada je sve dobro",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prijateljski-rastanak-mladosti-i-kapitena-udovicic-ne-napusta-se-brod-kada-tone-nego-kada-je-sve-dobro/551746",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 08. 2026. у 20:17",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (utorak, 18. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-18-avgust/551697",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/gajic-cska-uvek-mora-da-stremi-najboljem/551721",
       "izvor": "Мозарт Спорт",
       "datum": "18. 08. 2026. у 15:24",
-      "slika": null
-    },
-    {
-      "naslov": "Milionska ponuda za Zvezdu, ali da prvo Rijera vidi momka iz \"kaveza\"",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/milionska-ponuda-za-zvezdu-ali-da-prvo-rijera-vidi-momka-iz-kaveza/551715",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 08. 2026. у 14:23",
       "slika": null
     },
     {
@@ -63,7 +63,7 @@
       "naslov": "&quot;Bomba&quot; sa Marakane: Zvezda kreće po Srbina od 13 miliona evra?!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260087/zvezda-hoce-petra-ratkova/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 08. 2026. у 18:10",
+      "datum": "18. 08. 2026. у 18:20",
       "slika": null
     },
     {
