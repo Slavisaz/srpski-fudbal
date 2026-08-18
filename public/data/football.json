@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-18T11:32:35.913530+00:00",
-  "azurirano_sr": "18. 08. 2026. у 13:32",
+  "azurirano": "2026-08-18T11:53:17.552802+00:00",
+  "azurirano_sr": "18. 08. 2026. у 13:53",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Gajić: CSKA uvek mora da stremi najboljem",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gajic-cska-uvek-mora-da-stremi-najboljem/551721",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 08. 2026. у 15:24",
+      "slika": null
+    },
     {
       "naslov": "Milionska ponuda za Zvezdu, ali da prvo Rijera vidi momka iz \"kaveza\"",
       "url": "https://www.mozzartsport.com/fudbal/vesti/milionska-ponuda-za-zvezdu-ali-da-prvo-rijera-vidi-momka-iz-kaveza/551715",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (utorak, 18. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-18-avgust/551697",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 08. 2026. у 11:21",
+      "naslov": "Aleksandar Sedlar novi fudbaler IMT-a",
+      "url": "https://www.tanjug.rs/sport/fudbal/274503/aleksandar-sedlar-novi-fudbaler-imt-a/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 08. 2026. у 13:08",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274463/amar-dedic-novi-fudbaler-njukasla/vest",
       "izvor": "Танјуг",
       "datum": "18. 08. 2026. у 10:19",
-      "slika": null
-    },
-    {
-      "naslov": "Dosadašnji fudbaler Crvene zvezde Nair Tiknizjan potpisao ugovor sa Olimpijakosom",
-      "url": "https://www.tanjug.rs/sport/fudbal/274454/dosadasnji-fudbaler-crvene-zvezde-nair-tiknizjan-potpisao-ugovor-sa-olimpijakosom/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 08. 2026. у 09:50",
       "slika": null
     },
     {
