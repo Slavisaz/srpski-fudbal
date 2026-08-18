@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-18T15:50:40.859087+00:00",
-  "azurirano_sr": "18. 08. 2026. у 17:50",
+  "azurirano": "2026-08-18T16:12:43.678845+00:00",
+  "azurirano_sr": "18. 08. 2026. у 18:12",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "&quot;Bomba&quot; sa Marakane: Zvezda kreće po Srbina od 13 miliona evra?!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260087/zvezda-hoce-petra-ratkova/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 08. 2026. у 18:10",
+      "slika": null
+    },
+    {
       "naslov": "Zvezda ima ponudu za &quot;otpisanog&quot; – možda se Rijera predomisli",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260020/kortrajk-zeli-mahmudua-badza-iz-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 08. 2026. у 14:30",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Kupio si 100 stranaca, a niko ti ne igra&quot;: Janković žestoko udario na Zvezdu VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259961/aleksandar-jankovic-zestoko-kritikovao-crvenu-zvezdu-imas-16-stranaca-i-ispadas-od-ber-seve/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 08. 2026. у 12:03",
       "slika": null
     }
   ]
