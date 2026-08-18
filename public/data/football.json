@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-18T19:35:49.907955+00:00",
-  "azurirano_sr": "18. 08. 2026. у 21:35",
+  "azurirano": "2026-08-18T19:52:25.857355+00:00",
+  "azurirano_sr": "18. 08. 2026. у 21:52",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Musijala: Dijagnostifikovane su mi privremene epizode nesvestice koje se lako leče",
+      "url": "https://www.tanjug.rs/sport/fudbal/274612/musijala-dijagnostifikovane-su-mi-privremene-epizode-nesvestice-koje-se-lako-lece/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 08. 2026. у 21:32",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaler Bajerna Džamal Musijala pao u nesvest drugi put u četiri dana",
       "url": "https://www.tanjug.rs/sport/fudbal/274602/fudbaler-bajerna-dzamal-musijala-pao-u-nesvest-drugi-put-u-cetiri-dana/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274594/spanski-fudbaler-rodri-potpisao-za-barselonu/vest",
       "izvor": "Танјуг",
       "datum": "18. 08. 2026. у 19:29",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Đorđe Đorđić potpisao za Vojvodinu",
-      "url": "https://www.tanjug.rs/sport/fudbal/274547/srpski-fudbaler-dorde-dordic-potpisao-za-vojvodinu/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 08. 2026. у 15:52",
       "slika": null
     },
     {
