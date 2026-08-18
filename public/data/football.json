@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-18T08:01:43.035497+00:00",
-  "azurirano_sr": "18. 08. 2026. у 10:01",
+  "azurirano": "2026-08-18T08:45:17.443924+00:00",
+  "azurirano_sr": "18. 08. 2026. у 10:45",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Dosadašnji fudbaler Crvene zvezde Nair Tiknizjan potpisao ugovor sa Olimpijakosom",
+      "url": "https://www.tanjug.rs/sport/fudbal/274454/dosadasnji-fudbaler-crvene-zvezde-nair-tiknizjan-potpisao-ugovor-sa-olimpijakosom/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 08. 2026. у 09:50",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Novog Pazara pobedili Vojvodinu u petom kolu Superlige Srbije",
       "url": "https://www.tanjug.rs/sport/fudbal/274389/fudbaleri-novog-pazara-pobedili-vojvodinu-u-petom-kolu-superlige-srbije/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274372/holandski-fudbaler-tajs-dalinga-presao-na-pozajmicu-u-keln/vest",
       "izvor": "Танјуг",
       "datum": "17. 08. 2026. у 20:41",
-      "slika": null
-    },
-    {
-      "naslov": "Nigerijski fudbaler Taivo Avonji novo pojačanje Koventrija",
-      "url": "https://www.tanjug.rs/sport/fudbal/274364/nigerijski-fudbaler-taivo-avonji-novo-pojacanje-koventrija/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 08. 2026. у 19:54",
       "slika": null
     },
     {
