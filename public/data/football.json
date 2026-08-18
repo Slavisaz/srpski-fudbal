@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-18T16:47:10.485680+00:00",
-  "azurirano_sr": "18. 08. 2026. у 18:47",
+  "azurirano": "2026-08-18T17:10:32.471781+00:00",
+  "azurirano_sr": "18. 08. 2026. у 19:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Vojvodini 1.200.000 evra od transfera Miloševića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vojvodini-1200000-evra-od-transfera-milosevica/551749",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 08. 2026. у 20:30",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (utorak, 18. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-18-avgust/551697",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 08. 2026. у 20:26",
+      "slika": null
+    },
     {
       "naslov": "Prijateljski rastanak Mladosti i kapitena; Udovičić: Ne napušta se brod kada tone, nego kada je sve dobro",
       "url": "https://www.mozzartsport.com/fudbal/vesti/prijateljski-rastanak-mladosti-i-kapitena-udovicic-ne-napusta-se-brod-kada-tone-nego-kada-je-sve-dobro/551746",
@@ -11,24 +25,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (utorak, 18. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-18-avgust/551697",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 08. 2026. у 17:22",
-      "slika": null
-    },
-    {
       "naslov": "Vošin Stokholmski sindrom",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vosin-stokholmski-sindrom/551726",
       "izvor": "Мозарт Спорт",
       "datum": "18. 08. 2026. у 16:37",
-      "slika": null
-    },
-    {
-      "naslov": "Gajić: CSKA uvek mora da stremi najboljem",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gajic-cska-uvek-mora-da-stremi-najboljem/551721",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 08. 2026. у 15:24",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Kraj &quot;foliranju&quot; po terenima: UEFA uvela pravilo koje će promeniti fudbal",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260098/uefa-menja-pravilo-o-povredama-igrac-moze-morati-da-napusti-teren-na-jedan-minut/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 08. 2026. у 19:05",
+      "slika": null
+    },
+    {
       "naslov": "&quot;Bomba&quot; sa Marakane: Zvezda kreće po Srbina od 13 miliona evra?!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260087/zvezda-hoce-petra-ratkova/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 08. 2026. у 18:20",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda ima ponudu za &quot;otpisanog&quot; – možda se Rijera predomisli",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260020/kortrajk-zeli-mahmudua-badza-iz-crvene-zvezde/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 08. 2026. у 14:30",
       "slika": null
     }
   ]
