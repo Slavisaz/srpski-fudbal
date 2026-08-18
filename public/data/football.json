@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-18T18:41:17.887575+00:00",
-  "azurirano_sr": "18. 08. 2026. у 20:41",
+  "azurirano": "2026-08-18T19:08:56.911662+00:00",
+  "azurirano_sr": "18. 08. 2026. у 21:08",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaler Bajerna Džamal Musijala pao u nesvest drugi put u četiri dana",
+      "url": "https://www.tanjug.rs/sport/fudbal/274602/fudbaler-bajerna-dzamal-musijala-pao-u-nesvest-drugi-put-u-cetiri-dana/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 08. 2026. у 20:38",
+      "slika": null
+    },
+    {
+      "naslov": "Nikola Čumić potpisao za Partizan",
+      "url": "https://www.tanjug.rs/sport/fudbal/274597/nikola-cumic-potpisao-za-partizan/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 08. 2026. у 20:12",
+      "slika": null
+    },
+    {
       "naslov": "Španski fudbaler Rodri potpisao za Barselonu",
       "url": "https://www.tanjug.rs/sport/fudbal/274594/spanski-fudbaler-rodri-potpisao-za-barselonu/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Partrik Vijera novi selektor fudbalske reprezentacije Senegala",
-      "url": "https://www.tanjug.rs/sport/fudbal/274551/partrik-vijera-novi-selektor-fudbalske-reprezentacije-senegala/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 08. 2026. у 15:41",
-      "slika": null
-    },
-    {
-      "naslov": "Nemački fudbaler Niklas Filkrug prešao na pozajmicu u Verder",
-      "url": "https://www.tanjug.rs/sport/fudbal/274538/nemacki-fudbaler-niklas-filkrug-presao-na-pozajmicu-u-verder/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 08. 2026. у 15:17",
+      "naslov": "Partizan predstavio pojačanje: &quot;Plašio sam se da i ovoga puta neću obući crno-beli dres&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260125/zvanicno-nikola-cumic-potpisao-za-fk-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 08. 2026. у 21:05",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260098/uefa-menja-pravilo-o-povredama-igrac-moze-morati-da-napusti-teren-na-jedan-minut/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 08. 2026. у 19:05",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Bomba&quot; sa Marakane: Zvezda kreće po Srbina od 13 miliona evra?!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260087/zvezda-hoce-petra-ratkova/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 08. 2026. у 18:20",
       "slika": null
     }
   ]
