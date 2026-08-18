@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-18T13:08:49.521426+00:00",
-  "azurirano_sr": "18. 08. 2026. у 15:08",
+  "azurirano": "2026-08-18T13:53:22.842344+00:00",
+  "azurirano_sr": "18. 08. 2026. у 15:53",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (utorak, 18. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-18-avgust/551697",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 08. 2026. у 17:22",
+      "slika": null
+    },
     {
       "naslov": "Vošin Stokholmski sindrom",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vosin-stokholmski-sindrom/551726",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Srpski trener kvari Bragi transfer Jovana Miloševića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-trener-kvari-bragi-transfer-jovana-milosevica/551714",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 08. 2026. у 14:11",
+      "naslov": "Nemački fudbaler Niklas Filkrug prešao na pozajmicu u Verder",
+      "url": "https://www.tanjug.rs/sport/fudbal/274538/nemacki-fudbaler-niklas-filkrug-presao-na-pozajmicu-u-verder/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 08. 2026. у 15:17",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274480/holandski-fudbaler-dzoi-verman-novo-pojacanje-borusije-dortmund/vest",
       "izvor": "Танјуг",
       "datum": "18. 08. 2026. у 11:44",
-      "slika": null
-    },
-    {
-      "naslov": "Amar Dedić novi fudbaler Njukasla",
-      "url": "https://www.tanjug.rs/sport/fudbal/274463/amar-dedic-novi-fudbaler-njukasla/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 08. 2026. у 10:19",
       "slika": null
     },
     {
