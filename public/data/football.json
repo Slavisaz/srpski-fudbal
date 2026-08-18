@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-18T09:15:27.949868+00:00",
-  "azurirano_sr": "18. 08. 2026. у 11:15",
+  "azurirano": "2026-08-18T09:48:17.827199+00:00",
+  "azurirano_sr": "18. 08. 2026. у 11:48",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Tiknizjan u suzama zbog Zvezde VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259944/tiknizjan-zaplakao-na-oprostaju-od-zvezde-bio-sam-spreman-da-umrem-za-svakog/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 08. 2026. у 11:30",
+      "slika": null
+    },
+    {
       "naslov": "Partizanu stiglo novo pojačanje – na vreme za Hetafe!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259879/nikola-cumic-stigao-u-partizan-bice-registrovan-za-hetafe/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 08. 2026. у 08:50",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda već ima 5.000.000 evra na računu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259861/olimpijakos-odmah-isplatio-pun-iznos-crvenoj-zvezdi-za-naira-tiknizjana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 08. 2026. у 08:05",
       "slika": null
     }
   ]
