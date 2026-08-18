@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-18T12:15:34.808566+00:00",
-  "azurirano_sr": "18. 08. 2026. у 14:15",
+  "azurirano": "2026-08-18T13:08:49.521426+00:00",
+  "azurirano_sr": "18. 08. 2026. у 15:08",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Vošin Stokholmski sindrom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vosin-stokholmski-sindrom/551726",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 08. 2026. у 16:37",
+      "slika": null
+    },
     {
       "naslov": "Gajić: CSKA uvek mora da stremi najboljem",
       "url": "https://www.mozzartsport.com/fudbal/vesti/gajic-cska-uvek-mora-da-stremi-najboljem/551721",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-trener-kvari-bragi-transfer-jovana-milosevica/551714",
       "izvor": "Мозарт Спорт",
       "datum": "18. 08. 2026. у 14:11",
-      "slika": null
-    },
-    {
-      "naslov": "Aleksandar Sedlar posle deset godina u srpskom fudbalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/aleksandar-sedlar-posle-deset-godina-u-srpskom-fudbalu/551716",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 08. 2026. у 14:07",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Zvezda ima ponudu za &quot;otpisanog&quot; – možda se Rijera predomisli",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260020/kortrajk-zeli-mahmudua-badza-iz-crvene-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 08. 2026. у 14:30",
+      "slika": null
+    },
+    {
       "naslov": "&quot;Kupio si 100 stranaca, a niko ti ne igra&quot;: Janković žestoko udario na Zvezdu VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259961/aleksandar-jankovic-zestoko-kritikovao-crvenu-zvezdu-imas-16-stranaca-i-ispadas-od-ber-seve/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 08. 2026. у 12:03",
-      "slika": null
-    },
-    {
-      "naslov": "Tiknizjan u suzama napustio Zvezdu, njegove reči rasplakale i saigrače VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/259944/tiknizjan-zaplakao-na-oprostaju-od-zvezde-bio-sam-spreman-da-umrem-za-svakog/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 08. 2026. у 11:30",
       "slika": null
     }
   ]
