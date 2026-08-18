@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-18T23:08:50.976889+00:00",
-  "azurirano_sr": "19. 08. 2026. у 01:08",
+  "azurirano": "2026-08-18T23:32:53.738032+00:00",
+  "azurirano_sr": "19. 08. 2026. у 01:32",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zver ostaje “u kući”, ali će je sada upoznati i engleska Premijer liga",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zver-ostaje-u-kuci-ali-ce-je-sada-upoznati-i-engleska-premijer-liga/551764",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 08. 2026. у 03:25",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (utorak, 18. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-utorak-18-avgust/551697",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/prijateljski-rastanak-mladosti-i-kapitena-udovicic-ne-napusta-se-brod-kada-tone-nego-kada-je-sve-dobro/551746",
       "izvor": "Мозарт Спорт",
       "datum": "18. 08. 2026. у 20:17",
-      "slika": null
-    },
-    {
-      "naslov": "Vošin Stokholmski sindrom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vosin-stokholmski-sindrom/551726",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 08. 2026. у 16:37",
       "slika": null
     },
     {
