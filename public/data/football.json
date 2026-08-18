@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-08-18T17:10:32.471781+00:00",
-  "azurirano_sr": "18. 08. 2026. у 19:10",
+  "azurirano": "2026-08-18T17:39:33.213327+00:00",
+  "azurirano_sr": "18. 08. 2026. у 19:39",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (utorak, 18. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-18-avgust/551697",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 08. 2026. у 21:18",
+      "slika": null
+    },
     {
       "naslov": "Vojvodini 1.200.000 evra od transfera Miloševića",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vojvodini-1200000-evra-od-transfera-milosevica/551749",
       "izvor": "Мозарт Спорт",
       "datum": "18. 08. 2026. у 20:30",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (utorak, 18. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-18-avgust/551697",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 08. 2026. у 20:26",
       "slika": null
     },
     {
