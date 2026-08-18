@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-18T07:27:29.302581+00:00",
-  "azurirano_sr": "18. 08. 2026. у 09:27",
+  "azurirano": "2026-08-18T08:01:43.035497+00:00",
+  "azurirano_sr": "18. 08. 2026. у 10:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (utorak, 18. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-18-avgust/551697",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 08. 2026. у 11:21",
+      "slika": null
+    },
     {
       "naslov": "Nedeljković stiže kod Dragojevića, Rendžers u obavezi da ga otkupi za 4.500.000 pod jednim uslovom",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nedeljkovic-stize-kod-dragojevica-rendzers-u-obavezi-da-ga-otkupi-za-4500000-pod-jednim-uslovom/551691",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/ringispil-konacno-stao-juventus-nasao-golmana-stize-vikario-na-besplatnu-pozajmicu/551671",
       "izvor": "Мозарт Спорт",
       "datum": "17. 08. 2026. у 19:51",
-      "slika": null
-    },
-    {
-      "naslov": "Junak Radničkog Nemanja Glavčić: Srbiji trebaju ljudi kao Feđa; hvata me jeza od praznog stadiona",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/junak-radnickog-nemanja-glavcic-srbiji-trebaju-ljudi-kao-fea-hvata-me-jeza-od-praznog-stadiona/551664",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 08. 2026. у 17:55",
       "slika": null
     },
     {
