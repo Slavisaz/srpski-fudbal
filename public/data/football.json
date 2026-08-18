@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-18T17:39:33.213327+00:00",
-  "azurirano_sr": "18. 08. 2026. у 19:39",
+  "azurirano": "2026-08-18T17:58:56.197914+00:00",
+  "azurirano_sr": "18. 08. 2026. у 19:58",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Španski fudbaler Rodri potpisao za Barselonu",
+      "url": "https://www.tanjug.rs/sport/fudbal/274594/spanski-fudbaler-rodri-potpisao-za-barselonu/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 08. 2026. у 19:29",
+      "slika": null
+    },
+    {
       "naslov": "Srpski fudbaler Đorđe Đorđić potpisao za Vojvodinu",
       "url": "https://www.tanjug.rs/sport/fudbal/274547/srpski-fudbaler-dorde-dordic-potpisao-za-vojvodinu/vest",
       "izvor": "Танјуг",
@@ -39,24 +46,17 @@
       "slika": null
     },
     {
+      "naslov": "Partrik Vijera novi selektor fudbalske reprezentacije Senegala",
+      "url": "https://www.tanjug.rs/sport/fudbal/274551/partrik-vijera-novi-selektor-fudbalske-reprezentacije-senegala/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 08. 2026. у 15:41",
+      "slika": null
+    },
+    {
       "naslov": "Nemački fudbaler Niklas Filkrug prešao na pozajmicu u Verder",
       "url": "https://www.tanjug.rs/sport/fudbal/274538/nemacki-fudbaler-niklas-filkrug-presao-na-pozajmicu-u-verder/vest",
       "izvor": "Танјуг",
       "datum": "18. 08. 2026. у 15:17",
-      "slika": null
-    },
-    {
-      "naslov": "Aleksandar Sedlar novi fudbaler IMT-a",
-      "url": "https://www.tanjug.rs/sport/fudbal/274503/aleksandar-sedlar-novi-fudbaler-imt-a/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 08. 2026. у 13:08",
-      "slika": null
-    },
-    {
-      "naslov": "FK Crvena zvezda: Druženje sa igračima, igre i nagrade uoči meča sa Viktorijom Plzenj",
-      "url": "https://www.tanjug.rs/sport/fudbal/274488/fk-crvena-zvezda-druzenje-sa-igracima-igre-i-nagrade-uoci-meca-sa-viktorijom-plzenj/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 08. 2026. у 12:24",
       "slika": null
     },
     {
