@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-18T20:05:45.639837+00:00",
-  "azurirano_sr": "18. 08. 2026. у 22:05",
+  "azurirano": "2026-08-18T20:34:45.315466+00:00",
+  "azurirano_sr": "18. 08. 2026. у 22:34",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Vojvodini stiže 1,2 miliona evra: Jedan potez iz 2023. sada se višestruko isplatio!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260136/vojvodina-zaradila-12-miliona-evra-od-transfera-jovana-milosevica-u-udineze/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 08. 2026. у 22:10",
+      "slika": null
+    },
+    {
       "naslov": "Partizan predstavio pojačanje: &quot;Plašio sam se da i ovoga puta neću obući crno-beli dres&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260125/zvanicno-nikola-cumic-potpisao-za-fk-partizan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 08. 2026. у 21:10",
-      "slika": null
-    },
-    {
-      "naslov": "Kraj &quot;foliranju&quot; po terenima: UEFA uvela pravilo koje će promeniti fudbal",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260098/uefa-menja-pravilo-o-povredama-igrac-moze-morati-da-napusti-teren-na-jedan-minut/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 08. 2026. у 19:05",
       "slika": null
     }
   ]
