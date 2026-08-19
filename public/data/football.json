@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-19T08:56:08.358873+00:00",
-  "azurirano_sr": "19. 08. 2026. у 10:56",
+  "azurirano": "2026-08-19T09:24:09.691131+00:00",
+  "azurirano_sr": "19. 08. 2026. у 11:24",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Italijanski fudbaler Mateo Ruđeri potpisao ugovor sa Aston Vilom",
+      "url": "https://www.tanjug.rs/sport/fudbal/274676/italijanski-fudbaler-mateo-ruderi-potpisao-ugovor-sa-aston-vilom/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 08. 2026. у 10:38",
+      "slika": null
+    },
+    {
       "naslov": "Murinjo o Rodriju: U Real ne dovodimo igrače koji moraju dva puta da razmisle",
       "url": "https://www.tanjug.rs/sport/fudbal/274670/murinjo-o-rodriju-u-real-ne-dovodimo-igrace-koji-moraju-dva-puta-da-razmisle/vest",
       "izvor": "Танјуг",
@@ -53,14 +60,7 @@
       "slika": null
     },
     {
-      "naslov": "Nikola Čumić potpisao za Partizan",
-      "url": "https://www.tanjug.rs/sport/fudbal/274597/nikola-cumic-potpisao-za-partizan/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 08. 2026. у 20:12",
-      "slika": null
-    },
-    {
-      "naslov": "Stigli demanti sa Marakane",
+      "naslov": "Stigao demanti sa Marakane",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260236/zvezda-demantovala-da-rijera-precrtao-bukarija/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 08. 2026. у 10:51",
