@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-19T09:24:09.691131+00:00",
-  "azurirano_sr": "19. 08. 2026. у 11:24",
+  "azurirano": "2026-08-19T09:54:08.756530+00:00",
+  "azurirano_sr": "19. 08. 2026. у 11:54",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Japanski golman Zion Suzuki novo pojačanje Aston Vile",
+      "url": "https://www.tanjug.rs/sport/fudbal/274687/japanski-golman-zion-suzuki-novo-pojacanje-aston-vile/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 08. 2026. у 11:28",
+      "slika": null
+    },
+    {
       "naslov": "Italijanski fudbaler Mateo Ruđeri potpisao ugovor sa Aston Vilom",
       "url": "https://www.tanjug.rs/sport/fudbal/274676/italijanski-fudbaler-mateo-ruderi-potpisao-ugovor-sa-aston-vilom/vest",
       "izvor": "Танјуг",
@@ -53,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Bajerna Džamal Musijala pao u nesvest drugi put u četiri dana",
-      "url": "https://www.tanjug.rs/sport/fudbal/274602/fudbaler-bajerna-dzamal-musijala-pao-u-nesvest-drugi-put-u-cetiri-dana/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 08. 2026. у 20:38",
-      "slika": null
-    },
-    {
       "naslov": "Stigao demanti sa Marakane",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260236/zvezda-demantovala-da-rijera-precrtao-bukarija/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "19. 08. 2026. у 10:51",
+      "datum": "19. 08. 2026. у 10:57",
       "slika": null
     },
     {
