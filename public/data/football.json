@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-19T11:02:50.031831+00:00",
-  "azurirano_sr": "19. 08. 2026. у 13:02",
+  "azurirano": "2026-08-19T11:32:50.462561+00:00",
+  "azurirano_sr": "19. 08. 2026. у 13:32",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Pogba sporazumno raskinuo ugovor sa Monakom",
+      "url": "https://www.tanjug.rs/sport/fudbal/274719/pogba-sporazumno-raskinuo-ugovor-sa-monakom/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 08. 2026. у 12:54",
+      "slika": null
+    },
+    {
       "naslov": "Saša Ilić: Moramo da budemo maksimalno koncentrisani, agresivni i disciplinovani",
       "url": "https://www.tanjug.rs/sport/fudbal/274705/sasa-ilic-moramo-da-budemo-maksimalno-koncentrisani-agresivni-i-disciplinovani/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274691/srpski-fudbaler-kosta-nedeljkovic-do-kraja-sezone-na-pozajmici-u-rendzersu/vest",
       "izvor": "Танјуг",
       "datum": "19. 08. 2026. у 11:43",
-      "slika": null
-    },
-    {
-      "naslov": "Japanski golman Zion Suzuki novo pojačanje Aston Vile",
-      "url": "https://www.tanjug.rs/sport/fudbal/274687/japanski-golman-zion-suzuki-novo-pojacanje-aston-vile/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 08. 2026. у 11:28",
       "slika": null
     },
     {
