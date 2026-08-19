@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-19T17:34:11.846359+00:00",
-  "azurirano_sr": "19. 08. 2026. у 19:34",
+  "azurirano": "2026-08-19T17:53:29.366834+00:00",
+  "azurirano_sr": "19. 08. 2026. у 19:53",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Srpski fudbaler Jovan Milošević potpisao za Bragu",
+      "url": "https://www.tanjug.rs/sport/fudbal/274819/srpski-fudbaler-jovan-milosevic-potpisao-za-bragu/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 08. 2026. у 19:16",
+      "slika": null
+    },
+    {
+      "naslov": "Ilić: Očekujem da Partizan bude hrabar, niko ne može da nam oduzme nadu",
+      "url": "https://www.tanjug.rs/sport/fudbal/274816/ilic-ocekujem-da-partizan-bude-hrabar-niko-ne-moze-da-nam-oduzme-nadu/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 08. 2026. у 19:13",
+      "slika": null
+    },
+    {
       "naslov": "Preminuo Lazar Radović, bivši fudbaler Partizana i reprezentativac Jugoslavije",
       "url": "https://www.tanjug.rs/sport/fudbal/274806/preminuo-lazar-radovic-bivsi-fudbaler-partizana-i-reprezentativac-jugoslavije/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274793/rijera-pred-plzenj-svi-igraci-poceli-od-nule-ocekujem-da-dominiramo-na-terenu/vest",
       "izvor": "Танјуг",
       "datum": "19. 08. 2026. у 17:20",
-      "slika": null
-    },
-    {
-      "naslov": "Holandski fudbaler Tižani Rejnders prešao iz Mančester SItija u saudijsku Al Kadisiju",
-      "url": "https://www.tanjug.rs/sport/fudbal/274792/holandski-fudbaler-tizani-rejnders-presao-iz-mancester-sitija-u-saudijsku-al-kadisiju/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 08. 2026. у 17:12",
-      "slika": null
-    },
-    {
-      "naslov": "Hoze Bordalas: Moramo da gajimo najveće poštovanje prema Partizanu",
-      "url": "https://www.tanjug.rs/sport/fudbal/274744/hoze-bordalas-moramo-da-gajimo-najvece-postovanje-prema-partizanu/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 08. 2026. у 14:34",
       "slika": null
     },
     {
