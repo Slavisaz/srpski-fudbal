@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-19T12:15:46.543417+00:00",
-  "azurirano_sr": "19. 08. 2026. у 14:15",
+  "azurirano": "2026-08-19T13:09:19.868290+00:00",
+  "azurirano_sr": "19. 08. 2026. у 15:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (sreda, 19. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-19-avgust/551779",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 08. 2026. у 16:41",
+      "slika": null
+    },
     {
       "naslov": "Kakva transfer-kombinacija: Barselona kupuje Livakovića za Dinamo?!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kakva-transferkombinacija-barselona-kupuje-livakovica-za-dinamo/551805",
@@ -18,17 +25,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (sreda, 19. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-19-avgust/551779",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 08. 2026. у 11:40",
-      "slika": null
-    },
-    {
       "naslov": "Zver ostaje “u kući”, ali će je sada upoznati i engleska Premijer liga",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zver-ostaje-u-kuci-ali-ce-je-sada-upoznati-i-engleska-premijer-liga/551764",
       "izvor": "Мозарт Спорт",
       "datum": "19. 08. 2026. у 03:25",
+      "slika": null
+    },
+    {
+      "naslov": "Hoze Bordalas: Moramo da gajimo najveće poštovanje prema Partizanu",
+      "url": "https://www.tanjug.rs/sport/fudbal/274744/hoze-bordalas-moramo-da-gajimo-najvece-postovanje-prema-partizanu/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 08. 2026. у 14:34",
       "slika": null
     },
     {
@@ -39,24 +46,17 @@
       "slika": null
     },
     {
+      "naslov": "Portugalski fudbaler Rodrigo Mora potpisao ugovor sa Romom",
+      "url": "https://www.tanjug.rs/sport/fudbal/274720/portugalski-fudbaler-rodrigo-mora-potpisao-ugovor-sa-romom/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 08. 2026. у 13:04",
+      "slika": null
+    },
+    {
       "naslov": "Pogba sporazumno raskinuo ugovor sa Monakom",
       "url": "https://www.tanjug.rs/sport/fudbal/274719/pogba-sporazumno-raskinuo-ugovor-sa-monakom/vest",
       "izvor": "Танјуг",
       "datum": "19. 08. 2026. у 12:54",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić: Moramo da budemo maksimalno koncentrisani, agresivni i disciplinovani",
-      "url": "https://www.tanjug.rs/sport/fudbal/274705/sasa-ilic-moramo-da-budemo-maksimalno-koncentrisani-agresivni-i-disciplinovani/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 08. 2026. у 12:39",
-      "slika": null
-    },
-    {
-      "naslov": "Trener Partizana Saša Ilić poveo 25 fudbalera na meč sa Hetafeom",
-      "url": "https://www.tanjug.rs/sport/fudbal/274701/trener-partizana-sasa-ilic-poveo-25-fudbalera-na-mec-sa-hetafeom/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 08. 2026. у 12:14",
       "slika": null
     },
     {
