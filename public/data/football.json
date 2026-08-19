@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-19T16:13:32.205234+00:00",
-  "azurirano_sr": "19. 08. 2026. у 18:13",
+  "azurirano": "2026-08-19T16:45:49.777898+00:00",
+  "azurirano_sr": "19. 08. 2026. у 18:45",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Preminuo Lazar Radović, bivši fudbaler Partizana i reprezentativac Jugoslavije",
+      "url": "https://www.tanjug.rs/sport/fudbal/274806/preminuo-lazar-radovic-bivsi-fudbaler-partizana-i-reprezentativac-jugoslavije/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 08. 2026. у 18:20",
+      "slika": null
+    },
+    {
       "naslov": "Rijera pred Plzenj: Svi igrači počeli od nule, očekujem da dominiramo na terenu",
       "url": "https://www.tanjug.rs/sport/fudbal/274793/rijera-pred-plzenj-svi-igraci-poceli-od-nule-ocekujem-da-dominiramo-na-terenu/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274744/hoze-bordalas-moramo-da-gajimo-najvece-postovanje-prema-partizanu/vest",
       "izvor": "Танјуг",
       "datum": "19. 08. 2026. у 14:34",
-      "slika": null
-    },
-    {
-      "naslov": "Švajcarski fudbaler Niko Elvedi novo pojačanje Lidsa",
-      "url": "https://www.tanjug.rs/sport/fudbal/274731/svajcarski-fudbaler-niko-elvedi-novo-pojacanje-lidsa/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 08. 2026. у 13:38",
       "slika": null
     },
     {
