@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-19T08:17:01.179035+00:00",
-  "azurirano_sr": "19. 08. 2026. у 10:17",
+  "azurirano": "2026-08-19T08:56:08.358873+00:00",
+  "azurirano_sr": "19. 08. 2026. у 10:56",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Pazarci pojačani za Partizan: Vraća se Malekinušić",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pazarci-pojacani-za-partizan-vraca-se-malekinusic/551784",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 08. 2026. у 12:32",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 19. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-19-avgust/551779",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Vojvodini 1.100.000 evra od transfera Miloševića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vojvodini-1100000-evra-od-transfera-milosevica/551749",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 08. 2026. у 20:30",
+      "naslov": "Murinjo o Rodriju: U Real ne dovodimo igrače koji moraju dva puta da razmisle",
+      "url": "https://www.tanjug.rs/sport/fudbal/274670/murinjo-o-rodriju-u-real-ne-dovodimo-igrace-koji-moraju-dva-puta-da-razmisle/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 08. 2026. у 10:23",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Španski fudbaler Rodri potpisao za Barselonu",
-      "url": "https://www.tanjug.rs/sport/fudbal/274594/spanski-fudbaler-rodri-potpisao-za-barselonu/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 08. 2026. у 19:29",
+      "naslov": "Stigli demanti sa Marakane",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260236/zvezda-demantovala-da-rijera-precrtao-bukarija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 08. 2026. у 10:51",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260208/rijera-precrtao-bukarija/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 08. 2026. у 10:07",
-      "slika": null
-    },
-    {
-      "naslov": "Uzeo bod Partizanu, pa izgubio četiri u nizu – otkaz",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260180/treca-promena-trenera-u-superligi-zemun-smenio-kuljica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 08. 2026. у 09:33",
       "slika": null
     }
   ]
