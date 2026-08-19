@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-19T21:03:26.724162+00:00",
-  "azurirano_sr": "19. 08. 2026. у 23:03",
+  "azurirano": "2026-08-19T21:33:23.300248+00:00",
+  "azurirano_sr": "19. 08. 2026. у 23:33",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Zlatanović za pobedu Hapoel Ber Ševe protiv Sabaha, strelac i Simić",
+      "url": "https://www.tanjug.rs/sport/fudbal/274851/zlatanovic-za-pobedu-hapoel-ber-seve-protiv-sabaha-strelac-i-simic/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 08. 2026. у 22:55",
+      "slika": null
+    },
+    {
       "naslov": "Potpredsednik FIFA Šandor Čanji javno povukao podršku Đaniju Infantinu",
       "url": "https://www.tanjug.rs/sport/fudbal/274827/potpredsednik-fifa-sandor-canji-javno-povukao-podrsku-daniju-infantinu/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274816/ilic-ocekujem-da-partizan-bude-hrabar-niko-ne-moze-da-nam-oduzme-nadu/vest",
       "izvor": "Танјуг",
       "datum": "19. 08. 2026. у 19:13",
-      "slika": null
-    },
-    {
-      "naslov": "Preminuo Lazar Radović, bivši fudbaler Partizana i reprezentativac Jugoslavije",
-      "url": "https://www.tanjug.rs/sport/fudbal/274806/preminuo-lazar-radovic-bivsi-fudbaler-partizana-i-reprezentativac-jugoslavije/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 08. 2026. у 18:20",
       "slika": null
     },
     {
