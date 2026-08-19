@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-19T11:53:28.752412+00:00",
-  "azurirano_sr": "19. 08. 2026. у 13:53",
+  "azurirano": "2026-08-19T12:15:46.543417+00:00",
+  "azurirano_sr": "19. 08. 2026. у 14:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kakva transfer-kombinacija: Barselona kupuje Livakovića za Dinamo?!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kakva-transferkombinacija-barselona-kupuje-livakovica-za-dinamo/551805",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 08. 2026. у 15:52",
+      "slika": null
+    },
     {
       "naslov": "Pazarci pojačani za Partizan: Vraća se Malekinušić",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pazarci-pojacani-za-partizan-vraca-se-malekinusic/551784",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (utorak, 18. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-utorak-18-avgust/551697",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 08. 2026. у 01:35",
+      "naslov": "Švajcarski fudbaler Niko Elvedi novo pojačanje Lidsa",
+      "url": "https://www.tanjug.rs/sport/fudbal/274731/svajcarski-fudbaler-niko-elvedi-novo-pojacanje-lidsa/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 08. 2026. у 13:38",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Srpski fudbaler Kosta Nedeljković do kraja sezone na pozajmici u Rendžersu",
-      "url": "https://www.tanjug.rs/sport/fudbal/274691/srpski-fudbaler-kosta-nedeljkovic-do-kraja-sezone-na-pozajmici-u-rendzersu/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 08. 2026. у 11:43",
+      "naslov": "Čukarički se pojačao iz Crvene zvezde – vratio se Stanković",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260263/nikola-stankovic-zvanicno-u-cukarickom/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 08. 2026. у 14:12",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260236/zvezda-demantovala-da-rijera-precrtao-bukarija/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 08. 2026. у 10:57",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera precrtao Zvezdinog povratnika koji je stigao pre samo mesec dana!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260208/rijera-precrtao-bukarija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 08. 2026. у 10:07",
       "slika": null
     }
   ]
