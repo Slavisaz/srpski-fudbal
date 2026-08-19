@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-19T15:21:21.655845+00:00",
-  "azurirano_sr": "19. 08. 2026. у 17:21",
+  "azurirano": "2026-08-19T15:50:33.681393+00:00",
+  "azurirano_sr": "19. 08. 2026. у 17:50",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "ZVANIČNO: Sitijeva druga najskuplja prodaja u istoriji, Rejndersu preko 100.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-sitijeva-druga-najskuplja-prodaja-u-istoriji-rejndersu-preko-100000000-evra/551824",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 08. 2026. у 19:13",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 19. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-19-avgust/551779",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Zver ostaje “u kući”, ali će je sada upoznati i engleska Premijer liga",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zver-ostaje-u-kuci-ali-ce-je-sada-upoznati-i-engleska-premijer-liga/551764",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 08. 2026. у 03:25",
+      "naslov": "Rijera pred Plzenj: Svi igrači počeli od nule, očekujem da dominiramo na terenu",
+      "url": "https://www.tanjug.rs/sport/fudbal/274793/rijera-pred-plzenj-svi-igraci-poceli-od-nule-ocekujem-da-dominiramo-na-terenu/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 08. 2026. у 17:20",
+      "slika": null
+    },
+    {
+      "naslov": "Holandski fudbaler Tižani Rejnders prešao iz Mančester SItija u saudijsku Al Kadisiju",
+      "url": "https://www.tanjug.rs/sport/fudbal/274792/holandski-fudbaler-tizani-rejnders-presao-iz-mancester-sitija-u-saudijsku-al-kadisiju/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 08. 2026. у 17:12",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Portugalski fudbaler Rodrigo Mora potpisao ugovor sa Romom",
-      "url": "https://www.tanjug.rs/sport/fudbal/274720/portugalski-fudbaler-rodrigo-mora-potpisao-ugovor-sa-romom/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 08. 2026. у 13:04",
-      "slika": null
-    },
-    {
-      "naslov": "Pogba sporazumno raskinuo ugovor sa Monakom",
-      "url": "https://www.tanjug.rs/sport/fudbal/274719/pogba-sporazumno-raskinuo-ugovor-sa-monakom/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 08. 2026. у 12:54",
+      "naslov": "Dragojević hrabri Partizan pred Hetafe: &quot;Znate koji dres nosite – neka nas se plaše&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260369/vanja-dragojevic-intervju-o-partizanu-i-rendzersu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 08. 2026. у 17:30",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260263/nikola-stankovic-zvanicno-u-cukarickom/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 08. 2026. у 14:12",
-      "slika": null
-    },
-    {
-      "naslov": "Stigao demanti sa Marakane",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260236/zvezda-demantovala-da-rijera-precrtao-bukarija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 08. 2026. у 10:57",
       "slika": null
     }
   ]
