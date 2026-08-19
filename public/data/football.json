@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-19T07:48:42.603468+00:00",
-  "azurirano_sr": "19. 08. 2026. у 09:48",
+  "azurirano": "2026-08-19T08:17:01.179035+00:00",
+  "azurirano_sr": "19. 08. 2026. у 10:17",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (sreda, 19. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-19-avgust/551779",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 08. 2026. у 11:40",
+      "slika": null
+    },
     {
       "naslov": "Zver ostaje “u kući”, ali će je sada upoznati i engleska Premijer liga",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zver-ostaje-u-kuci-ali-ce-je-sada-upoznati-i-engleska-premijer-liga/551764",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/vojvodini-1100000-evra-od-transfera-milosevica/551749",
       "izvor": "Мозарт Спорт",
       "datum": "18. 08. 2026. у 20:30",
-      "slika": null
-    },
-    {
-      "naslov": "Prijateljski rastanak Mladosti i kapitena; Udovičić: Ne napušta se brod kada tone, nego kada je sve dobro",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prijateljski-rastanak-mladosti-i-kapitena-udovicic-ne-napusta-se-brod-kada-tone-nego-kada-je-sve-dobro/551746",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 08. 2026. у 20:17",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Rijera precrtao Zvezdinog povratnika koji je stigao pre samo mesec dana!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260208/rijera-precrtao-bukarija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 08. 2026. у 10:07",
+      "slika": null
+    },
+    {
       "naslov": "Uzeo bod Partizanu, pa izgubio četiri u nizu – otkaz",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260180/treca-promena-trenera-u-superligi-zemun-smenio-kuljica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 08. 2026. у 09:33",
-      "slika": null
-    },
-    {
-      "naslov": "FSS odbio Partizan – mora u Lučane 70 sati posle Madrida",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260189/fss-presekao-partizan-gostuje-u-lucanima-bez-navijaca/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 08. 2026. у 09:25",
       "slika": null
     }
   ]
