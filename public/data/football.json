@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-08-20T12:18:02.060149+00:00",
-  "azurirano_sr": "20. 08. 2026. у 14:18",
+  "azurirano": "2026-08-20T13:13:39.328192+00:00",
+  "azurirano_sr": "20. 08. 2026. у 15:13",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "GOTOVO: Totenhem završio Savinja i Marmuša za 151.000.000 evra!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gotovo-totenhem-zavrsio-savinja-i-marmusa-za-151000000-evra/551894",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 08. 2026. у 17:02",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 20. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-20-avgust/551869",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 08. 2026. у 16:30",
+      "slika": null
+    },
+    {
+      "naslov": "Neka čeka Premijer liga: Andrej Ilić potpisao novi ugovor",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/neka-ceka-premijer-liga-andrej-ilic-potpisao-novi-ugovor/551890",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 08. 2026. у 16:10",
+      "slika": null
+    },
     {
       "naslov": "Hirceler prošao \"kurs\" kod Don Karla, smelo ide na Tromse",
       "url": "https://www.mozzartsport.com/fudbal/vesti/hirceler-prosao-kurs-kod-don-karla-smelo-ide-na-tromse/551885",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (četvrtak, 20. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-20-avgust/551869",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 13:51",
-      "slika": null
-    },
-    {
-      "naslov": "Još korak do ligaške faze, Borac na Islandu kreće u plej-of bitku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-korak-do-ligaske-faze-borac-na-islandu-krece-u-plejof-bitku/551878",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 13:15",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda, Srbija, Levski Sofija: Imamo li strpljenja za španskog trenera?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-srbija-levski-sofija-imamo-li-strpljenja-za-spanskog-trenera/551876",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 12:48",
+      "naslov": "Boško Đurovski: Zvezdaši, potrebna je podrška, neka se ponovi Banjik",
+      "url": "https://www.tanjug.rs/sport/fudbal/274886/bosko-durovski-zvezdasi-potrebna-je-podrska-neka-se-ponovi-banjik/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 11:54",
       "slika": null
     },
     {
@@ -43,13 +50,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274888/fudbaleri-partizana-veceras-gostuju-hetafeu-u-prvom-mecu-plej-ofa-za-plasman-u-ligu-konferencije/vest",
       "izvor": "Танјуг",
       "datum": "20. 08. 2026. у 09:30",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Crvene zvezde večeras dočekuju Viktoriju Plzenj u plej-ofu za plasman u Ligu Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/274886/fudbaleri-crvene-zvezde-veceras-docekuju-viktoriju-plzenj-u-plej-ofu-za-plasman-u-ligu-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 09:27",
       "slika": null
     },
     {
