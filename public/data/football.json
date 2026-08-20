@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-20T07:52:38.069153+00:00",
-  "azurirano_sr": "20. 08. 2026. у 09:52",
+  "azurirano": "2026-08-20T08:19:56.399530+00:00",
+  "azurirano_sr": "20. 08. 2026. у 10:19",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Veliko finale sezone, na talonu je budućnost Partizana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/veliko-finale-sezone-na-talonu-je-buducnost-partizana/551870",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 08. 2026. у 11:28",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (četvrtak, 20. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-20-avgust/551869",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/duh-posleratne-sr-jugoslavije-nakratko-oziveo-u-cacku-video/551850",
       "izvor": "Мозарт Спорт",
       "datum": "20. 08. 2026. у 00:09",
-      "slika": null
-    },
-    {
-      "naslov": "Navali, narode, još malo, pa nestalo! Opšta rasprodaja u Parmi – već se u kasu  slilo preko 75.000.000",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/navali-narode-jos-malo-pa-nestalo-opsta-rasprodaja-u-parmi-vec-se-u-kasu-slilo-preko-75000000/551848",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 08. 2026. у 23:56",
       "slika": null
     },
     {
