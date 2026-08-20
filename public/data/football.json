@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-20T10:02:34.678209+00:00",
-  "azurirano_sr": "20. 08. 2026. у 12:02",
+  "azurirano": "2026-08-20T10:38:13.080629+00:00",
+  "azurirano_sr": "20. 08. 2026. у 12:38",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 20. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-20-avgust/551869",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 08. 2026. у 13:51",
+      "slika": null
+    },
     {
       "naslov": "Još korak do ligaše faze, Borac na Islandu kreće u plej-of bitku",
       "url": "https://www.mozzartsport.com/fudbal/vesti/jos-korak-do-ligase-faze-borac-na-islandu-krece-u-plejof-bitku/551878",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/veliko-finale-sezone-na-talonu-je-buducnost-partizana/551870",
       "izvor": "Мозарт Спорт",
       "datum": "20. 08. 2026. у 11:28",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (četvrtak, 20. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-20-avgust/551869",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 11:04",
       "slika": null
     },
     {
