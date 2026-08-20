@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-20T20:11:20.495881+00:00",
-  "azurirano_sr": "20. 08. 2026. у 22:11",
+  "azurirano": "2026-08-20T20:43:45.002035+00:00",
+  "azurirano_sr": "20. 08. 2026. у 22:43",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Biće još jedna Liga konferencije za Borac: Juričić opet rešeta, pogodio i Jojić",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bice-jos-jedna-liga-konferencije-za-borac-juricic-opet-reseta-pogodio-i-jojic/551935",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 08. 2026. у 00:24",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezdaši ga ne pamte po dobrom: Posle dominacije u Holandiji, usledio transfer karijere",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdasi-ga-ne-pamte-po-dobrom-posle-dominacije-u-holandiji-usledio-transfer-karijere/551938",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 08. 2026. у 00:21",
+      "slika": null
+    },
     {
       "naslov": "Fudbalsko bombardovanje u Poznanju: Stradanje Tuna - pet za poluvreme, sedam na kraju!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalsko-bombardovanje-u-poznanju-stradanje-tuna-pet-za-poluvreme-sedam-na-kraju/551932",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Sve isto je, ali ništa isto nije… Šahtjor doveo i 15. Brazilca za Ligu šampiona",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sve-isto-je-ali-nista-isto-nije-sahtjor-doveo-i-15-brazilca-za-ligu-sampiona/551918",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 20:27",
+      "naslov": "Fudbaleri banjalučkog Borca kao gosti pobedili Vikingur u plej-ofu za LK",
+      "url": "https://www.tanjug.rs/sport/fudbal/275097/fudbaleri-banjaluckog-borca-kao-gosti-pobedili-vikingur-u-plej-ofu-za-lk/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 22:13",
       "slika": null
     },
     {
-      "naslov": "Gledaćemo opet Ronaldinja! Brazilac sleteo u Italiju: Doček, plaža, 6.000 ljudi...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gledacemo-opet-ronaldinja-brazilac-sleteo-u-italiju-docek-plaza-6000-ljudi/551911",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 19:39",
+      "naslov": "Dva gola Ivanića i Katai za pobedu Zvezde protiv Viktorije Plzenj na debiju Rijere",
+      "url": "https://www.tanjug.rs/sport/fudbal/275083/dva-gola-ivanica-i-katai-za-pobedu-zvezde-protiv-viktorije-plzenj-na-debiju-rijere/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 22:09",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275091/srpski-strucnjak-milan-kuljic-nije-vise-trener-fudbalera-zemuna/vest",
       "izvor": "Танјуг",
       "datum": "20. 08. 2026. у 21:40",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Dušan Vlahović debitovao za Bešiktaš na meču protiv Kauno Žalgirisa",
-      "url": "https://www.tanjug.rs/sport/fudbal/275084/srpski-fudbaler-dusan-vlahovic-debitovao-za-besiktas-na-mecu-protiv-kauno-zalgirisa/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 21:01",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Crvene zvezde vode 1:0 na poluvremenu protiv Viktorije Plzenj",
-      "url": "https://www.tanjug.rs/sport/fudbal/275083/fudbaleri-crvene-zvezde-vode-10-na-poluvremenu-protiv-viktorije-plzenj/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 20:54",
       "slika": null
     },
     {
