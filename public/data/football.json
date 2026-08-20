@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-20T18:01:43.267940+00:00",
-  "azurirano_sr": "20. 08. 2026. у 20:01",
+  "azurirano": "2026-08-20T18:49:43.730817+00:00",
+  "azurirano_sr": "20. 08. 2026. у 20:49",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Ilić odredio startere: Hetafe napadaju Sek i Že, Ugrešić kapiten",
+      "url": "https://www.tanjug.rs/sport/fudbal/275066/ilic-odredio-startere-hetafe-napadaju-sek-i-ze-ugresic-kapiten/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 19:57",
+      "slika": null
+    },
+    {
       "naslov": "Rijera odredio tim za Viktoriju Plzenj: Čam, Veljković i Ivanić od prvog minuta",
       "url": "https://www.tanjug.rs/sport/fudbal/275050/rijera-odredio-tim-za-viktoriju-plzenj-cam-veljkovic-i-ivanic-od-prvog-minuta/vest",
       "izvor": "Танјуг",
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Andrej Ilić produžio ugovor sa Union Berlinom",
-      "url": "https://www.tanjug.rs/sport/fudbal/274998/andrej-ilic-produzio-ugovor-sa-union-berlinom/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 15:10",
-      "slika": null
-    },
-    {
       "naslov": "Zvezda krenula po napadača – bio na pragu Lacija, vredi 15 miliona",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260655/bamba-dieng-na-meti-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,7 +67,7 @@
       "slika": null
     },
     {
-      "naslov": "Napeto pred utakmicu: Grobari prošli pored navijača Hetafea VIDEO",
+      "naslov": "Napeto pred utakmicu – susret &quot;grobara&quot; i navijača Hetafea VIDEO",
       "url": "https://www.b92.net/sport/fudbal/vesti/260711/grobari-u-korteu-ka-stadionu-hetafea/vest",
       "izvor": "Б92 Фудбал",
       "datum": "20. 08. 2026. у 19:53",
