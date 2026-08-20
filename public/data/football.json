@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-20T16:46:21.614104+00:00",
-  "azurirano_sr": "20. 08. 2026. у 18:46",
+  "azurirano": "2026-08-20T17:12:01.327212+00:00",
+  "azurirano_sr": "20. 08. 2026. у 19:12",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Sve isto je, ali ništa isto nije… Šahtjor doveo i 15. Brazilca za Ligu šampiona",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sve-isto-je-ali-nista-isto-nije-sahtjor-doveo-i-15-brazilca-za-ligu-sampiona/551918",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 08. 2026. у 20:27",
+      "slika": null
+    },
     {
       "naslov": "Gledaćemo opet Ronaldinja! Brazilac sleteo u Italiju: Doček, plaža, 6.000 ljudi...",
       "url": "https://www.mozzartsport.com/fudbal/vesti/gledacemo-opet-ronaldinja-brazilac-sleteo-u-italiju-docek-plaza-6000-ljudi/551911",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/senegalac-stize-da-gleda-zvezdu-protiv-plzenja-lekarski-pregled-sutra/551901",
       "izvor": "Мозарт Спорт",
       "datum": "20. 08. 2026. у 18:13",
-      "slika": null
-    },
-    {
-      "naslov": "Neka čeka Premijer liga: Andrej Ilić potpisao novi ugovor",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/neka-ceka-premijer-liga-andrej-ilic-potpisao-novi-ugovor/551890",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 16:10",
       "slika": null
     },
     {
