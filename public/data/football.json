@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-20T10:38:13.080629+00:00",
-  "azurirano_sr": "20. 08. 2026. у 12:38",
+  "azurirano": "2026-08-20T11:00:49.227519+00:00",
+  "azurirano_sr": "20. 08. 2026. у 13:00",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Hirceler prošao \"kurs\" kod Don Karla, smelo ide na Tromse",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/hirceler-prosao-kurs-kod-don-karla-smelo-ide-na-tromse/551885",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 08. 2026. у 14:36",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (četvrtak, 20. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-20-avgust/551869",
@@ -11,8 +18,8 @@
       "slika": null
     },
     {
-      "naslov": "Još korak do ligaše faze, Borac na Islandu kreće u plej-of bitku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-korak-do-ligase-faze-borac-na-islandu-krece-u-plejof-bitku/551878",
+      "naslov": "Još korak do ligaške faze, Borac na Islandu kreće u plej-of bitku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-korak-do-ligaske-faze-borac-na-islandu-krece-u-plejof-bitku/551878",
       "izvor": "Мозарт Спорт",
       "datum": "20. 08. 2026. у 13:15",
       "slika": null
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-srbija-levski-sofija-imamo-li-strpljenja-za-spanskog-trenera/551876",
       "izvor": "Мозарт Спорт",
       "datum": "20. 08. 2026. у 12:48",
-      "slika": null
-    },
-    {
-      "naslov": "Veliko finale sezone, na talonu je budućnost Partizana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/veliko-finale-sezone-na-talonu-je-buducnost-partizana/551870",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 11:28",
       "slika": null
     },
     {
