@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-20T22:19:16.608811+00:00",
-  "azurirano_sr": "21. 08. 2026. у 00:19",
+  "azurirano": "2026-08-20T22:48:35.457093+00:00",
+  "azurirano_sr": "21. 08. 2026. у 00:48",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbin stigao u Katar: IMT poslao Nikolu Krstića na pozajmicu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-stigao-u-katar-imt-poslao-nikolu-krstica-na-pozajmicu/551960",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 08. 2026. у 02:00",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI (četvrtak, 20. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-cetvrtak-20-avgust/551869",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 08. 2026. у 01:56",
+      "slika": null
+    },
     {
       "naslov": "Pirgić: Slabo sam spavao, celu utakmicu sam bio naježen, ja za ovo živim",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pirgic-slabo-sam-spavao-celu-utakmicu-sam-bio-najezen-ja-za-ovo-zivim/551946",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/bice-jos-jedna-liga-konferencije-za-borac-juricic-opet-reseta-pogodio-i-jojic/551935",
       "izvor": "Мозарт Спорт",
       "datum": "21. 08. 2026. у 00:24",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezdaši ga ne pamte po dobrom: Posle dominacije u Holandiji, usledio transfer karijere",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdasi-ga-ne-pamte-po-dobrom-posle-dominacije-u-holandiji-usledio-transfer-karijere/551938",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 08. 2026. у 00:21",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalsko bombardovanje u Poznanju: Stradanje Tuna - pet za poluvreme, sedam na kraju!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalsko-bombardovanje-u-poznanju-stradanje-tuna-pet-za-poluvreme-sedam-na-kraju/551932",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 22:51",
       "slika": null
     },
     {
