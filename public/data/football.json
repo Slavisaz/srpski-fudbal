@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-20T13:58:54.478145+00:00",
-  "azurirano_sr": "20. 08. 2026. у 15:58",
+  "azurirano": "2026-08-20T14:33:57.725679+00:00",
+  "azurirano_sr": "20. 08. 2026. у 16:33",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Senegalac stiže da gleda Zvezdu protiv Plzenja, lekarski pregled sutra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/senegalac-stize-da-gleda-zvezdu-protiv-plzenja-lekarski-pregled-sutra/551901",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 08. 2026. у 18:13",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (četvrtak, 20. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-20-avgust/551869",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Još korak do ligaške faze, Borac na Islandu kreće u plej-of bitku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-korak-do-ligaske-faze-borac-na-islandu-krece-u-plejof-bitku/551878",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 13:15",
+      "naslov": "Real najvredniji fudbalski brend na svetu treću godinu zaredom",
+      "url": "https://www.tanjug.rs/sport/fudbal/275014/real-najvredniji-fudbalski-brend-na-svetu-trecu-godinu-zaredom/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 16:10",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Dijego Moreira novi fudbaler Milana",
-      "url": "https://www.tanjug.rs/sport/fudbal/274916/dijego-moreira-novi-fudbaler-milana/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 10:42",
+      "naslov": "Zvezda želi napadača od 15 miliona evra?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260655/bamba-dieng-na-meti-crvene-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "20. 08. 2026. у 16:25",
       "slika": null
     },
     {
@@ -67,24 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "Tadić ima novog saigrača",
-      "url": "https://www.b92.net/sport/fudbal/vesti/260616/tadic-ima-novog-saigraca/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "20. 08. 2026. у 15:31",
-      "slika": null
-    },
-    {
       "naslov": "Čukarički se pojačao iz Crvene zvezde – vratio se Stanković",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260263/nikola-stankovic-zvanicno-u-cukarickom/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 08. 2026. у 14:12",
-      "slika": null
-    },
-    {
-      "naslov": "Stigao demanti sa Marakane",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260236/zvezda-demantovala-da-rijera-precrtao-bukarija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 08. 2026. у 10:57",
       "slika": null
     }
   ]
