@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-08-20T14:33:57.725679+00:00",
-  "azurirano_sr": "20. 08. 2026. у 16:33",
+  "azurirano": "2026-08-20T15:07:16.559770+00:00",
+  "azurirano_sr": "20. 08. 2026. у 17:07",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 20. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-20-avgust/551869",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 08. 2026. у 18:20",
+      "slika": null
+    },
     {
       "naslov": "Senegalac stiže da gleda Zvezdu protiv Plzenja, lekarski pregled sutra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/senegalac-stize-da-gleda-zvezdu-protiv-plzenja-lekarski-pregled-sutra/551901",
       "izvor": "Мозарт Спорт",
       "datum": "20. 08. 2026. у 18:13",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (četvrtak, 20. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-20-avgust/551869",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 17:15",
       "slika": null
     },
     {
@@ -63,7 +63,7 @@
       "naslov": "Zvezda želi napadača od 15 miliona evra?",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260655/bamba-dieng-na-meti-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "20. 08. 2026. у 16:25",
+      "datum": "20. 08. 2026. у 16:30",
       "slika": null
     },
     {
