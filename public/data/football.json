@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-20T20:43:45.002035+00:00",
-  "azurirano_sr": "20. 08. 2026. у 22:43",
+  "azurirano": "2026-08-20T21:03:51.993657+00:00",
+  "azurirano_sr": "20. 08. 2026. у 23:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Pirgić: Slabo sam spavao, celu utakmicu sam bio naježen, ja za ovo živim",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pirgic-slabo-sam-spavao-celu-utakmicu-sam-bio-najezen-ja-za-ovo-zivim/551946",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 08. 2026. у 00:44",
+      "slika": null
+    },
     {
       "naslov": "Biće još jedna Liga konferencije za Borac: Juričić opet rešeta, pogodio i Jojić",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bice-jos-jedna-liga-konferencije-za-borac-juricic-opet-reseta-pogodio-i-jojic/551935",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (četvrtak, 20. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-20-avgust/551869",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 21:15",
+      "naslov": "Elšnik: Igrali smo dobro protiv Viktorije Plzenj, ali još ništa nije gotovo",
+      "url": "https://www.tanjug.rs/sport/fudbal/275107/elsnik-igrali-smo-dobro-protiv-viktorije-plzenj-ali-jos-nista-nije-gotovo/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 22:29",
+      "slika": null
+    },
+    {
+      "naslov": "Rijera: Srećan sam zbog rezultata, ali nisam u potpunosti zadovoljan",
+      "url": "https://www.tanjug.rs/sport/fudbal/275101/rijera-srecan-sam-zbog-rezultata-ali-nisam-u-potpunosti-zadovoljan/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 22:21",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275083/dva-gola-ivanica-i-katai-za-pobedu-zvezde-protiv-viktorije-plzenj-na-debiju-rijere/vest",
       "izvor": "Танјуг",
       "datum": "20. 08. 2026. у 22:09",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Sergej Milinković-Savić strelac u pobedi Al Hilala",
-      "url": "https://www.tanjug.rs/sport/fudbal/275095/srpski-fudbaler-sergej-milinkovic-savic-strelac-u-pobedi-al-hilala/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 21:55",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski stručnjak Milan Kuljić nije više trener fudbalera Zemuna",
-      "url": "https://www.tanjug.rs/sport/fudbal/275091/srpski-strucnjak-milan-kuljic-nije-vise-trener-fudbalera-zemuna/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 21:40",
       "slika": null
     },
     {
