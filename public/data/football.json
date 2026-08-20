@@ -1,20 +1,13 @@
 {
-  "azurirano": "2026-08-20T13:13:39.328192+00:00",
-  "azurirano_sr": "20. 08. 2026. у 15:13",
+  "azurirano": "2026-08-20T13:58:54.478145+00:00",
+  "azurirano_sr": "20. 08. 2026. у 15:58",
   "vesti_24h": 10,
   "vesti": [
-    {
-      "naslov": "GOTOVO: Totenhem završio Savinja i Marmuša za 151.000.000 evra!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gotovo-totenhem-zavrsio-savinja-i-marmusa-za-151000000-evra/551894",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 17:02",
-      "slika": null
-    },
     {
       "naslov": "TRANSFERI UŽIVO (četvrtak, 20. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-20-avgust/551869",
       "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 16:30",
+      "datum": "20. 08. 2026. у 17:15",
       "slika": null
     },
     {
@@ -32,6 +25,27 @@
       "slika": null
     },
     {
+      "naslov": "Još korak do ligaške faze, Borac na Islandu kreće u plej-of bitku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-korak-do-ligaske-faze-borac-na-islandu-krece-u-plejof-bitku/551878",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 08. 2026. у 13:15",
+      "slika": null
+    },
+    {
+      "naslov": "Andrej Ilić produžio ugovor sa Union Berlinom",
+      "url": "https://www.tanjug.rs/sport/fudbal/274998/andrej-ilic-produzio-ugovor-sa-union-berlinom/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 15:10",
+      "slika": null
+    },
+    {
+      "naslov": "Umberto Betenkur novi selektor fudbalera Zelenortskih Ostrva",
+      "url": "https://www.tanjug.rs/sport/fudbal/274993/umberto-betenkur-novi-selektor-fudbalera-zelenortskih-ostrva/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 15:06",
+      "slika": null
+    },
+    {
       "naslov": "Boško Đurovski: Zvezdaši, potrebna je podrška, neka se ponovi Banjik",
       "url": "https://www.tanjug.rs/sport/fudbal/274886/bosko-durovski-zvezdasi-potrebna-je-podrska-neka-se-ponovi-banjik/vest",
       "izvor": "Танјуг",
@@ -46,20 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Partizana večeras gostuju Hetafeu u prvom meču plej-ofa za plasman u Ligu konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/274888/fudbaleri-partizana-veceras-gostuju-hetafeu-u-prvom-mecu-plej-ofa-za-plasman-u-ligu-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 09:30",
-      "slika": null
-    },
-    {
-      "naslov": "Zlatanović za pobedu Hapoel Ber Ševe protiv Sabaha, strelac i Simić",
-      "url": "https://www.tanjug.rs/sport/fudbal/274851/zlatanovic-za-pobedu-hapoel-ber-seve-protiv-sabaha-strelac-i-simic/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 08. 2026. у 22:55",
-      "slika": null
-    },
-    {
       "naslov": "Dragojević hrabri Partizan pred Hetafe: &quot;Znate koji dres nosite – neka nas se plaše&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260369/vanja-dragojevic-intervju-o-partizanu-i-rendzersu/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,10 +67,10 @@
       "slika": null
     },
     {
-      "naslov": "&quot;Kralj Kazu&quot; ne staje: Dvostruki strelac sa 59 godina! VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/260534/kazujosi-mijura-sa-59-godina-postigao-dva-gola-i-ispisao-istoriju-kupa-japana/vest",
+      "naslov": "Tadić ima novog saigrača",
+      "url": "https://www.b92.net/sport/fudbal/vesti/260616/tadic-ima-novog-saigraca/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "20. 08. 2026. у 12:50",
+      "datum": "20. 08. 2026. у 15:31",
       "slika": null
     },
     {
