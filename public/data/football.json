@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-20T15:07:16.559770+00:00",
-  "azurirano_sr": "20. 08. 2026. у 17:07",
+  "azurirano": "2026-08-20T15:45:12.470662+00:00",
+  "azurirano_sr": "20. 08. 2026. у 17:45",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,10 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Zvezda želi napadača od 15 miliona evra?",
+      "naslov": "Zvezda krenula po napadača – bio na pragu Lacija, vredi 15 miliona",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260655/bamba-dieng-na-meti-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "20. 08. 2026. у 16:30",
+      "slika": null
+    },
+    {
+      "naslov": "Bivši biser Partizana ostaje u Seriji B",
+      "url": "https://www.b92.net/sport/fudbal/vesti/260660/vanja-vlahovic-potpisje-za-mantovu/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "20. 08. 2026. у 17:00",
       "slika": null
     },
     {
