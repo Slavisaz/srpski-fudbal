@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-20T19:19:53.523733+00:00",
-  "azurirano_sr": "20. 08. 2026. у 21:19",
+  "azurirano": "2026-08-20T19:49:06.059641+00:00",
+  "azurirano_sr": "20. 08. 2026. у 21:49",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Srpski fudbaler Dušan Vlahović debitovao za Bešiktaš na meču protiv Kauno Žalgirisa",
+      "url": "https://www.tanjug.rs/sport/fudbal/275084/srpski-fudbaler-dusan-vlahovic-debitovao-za-besiktas-na-mecu-protiv-kauno-zalgirisa/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 21:01",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Crvene zvezde vode 1:0 na poluvremenu protiv Viktorije Plzenj",
       "url": "https://www.tanjug.rs/sport/fudbal/275083/fudbaleri-crvene-zvezde-vode-10-na-poluvremenu-protiv-viktorije-plzenj/vest",
       "izvor": "Танјуг",
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Pablo Mafeo do kraja sezone na pozajmici u Valensiji",
-      "url": "https://www.tanjug.rs/sport/fudbal/275049/pablo-mafeo-do-kraja-sezone-na-pozajmici-u-valensiji/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 18:37",
-      "slika": null
-    },
-    {
       "naslov": "Zvezda krenula po napadača – bio na pragu Lacija, vredi 15 miliona",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260655/bamba-dieng-na-meti-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,10 +67,10 @@
       "slika": null
     },
     {
-      "naslov": "Napeto pred utakmicu – susret &quot;grobara&quot; i navijača Hetafea VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/260711/grobari-u-korteu-ka-stadionu-hetafea/vest",
+      "naslov": "Seda glava je priča dana – &quot;srednjakom&quot; odbranio penal u Kopa Libertadores FOTO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/260688/seda-glava-i-prica-dana-srednjakom-odbranio-penal-u-kopa-libertadores-foto/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "20. 08. 2026. у 19:53",
+      "datum": "20. 08. 2026. у 21:39",
       "slika": null
     },
     {
