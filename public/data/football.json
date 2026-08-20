@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-20T21:03:51.993657+00:00",
-  "azurirano_sr": "20. 08. 2026. у 23:03",
+  "azurirano": "2026-08-20T21:36:42.214521+00:00",
+  "azurirano_sr": "20. 08. 2026. у 23:36",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Partizana sa igračem više poraženi od Hetafea u prvom meču plej-ofa za Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/275112/fudbaleri-partizana-sa-igracem-vise-porazeni-od-hetafea-u-prvom-mecu-plej-ofa-za-ligu-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 23:00",
+      "slika": null
+    },
+    {
+      "naslov": "Fotu: Imali smo samo tri dana da pripremimo za meč sa Srbijom",
+      "url": "https://www.tanjug.rs/sport/fudbal/275110/fotu-imali-smo-samo-tri-dana-da-pripremimo-za-mec-sa-srbijom/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 22:51",
+      "slika": null
+    },
+    {
       "naslov": "Elšnik: Igrali smo dobro protiv Viktorije Plzenj, ali još ništa nije gotovo",
       "url": "https://www.tanjug.rs/sport/fudbal/275107/elsnik-igrali-smo-dobro-protiv-viktorije-plzenj-ali-jos-nista-nije-gotovo/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275101/rijera-srecan-sam-zbog-rezultata-ali-nisam-u-potpunosti-zadovoljan/vest",
       "izvor": "Танјуг",
       "datum": "20. 08. 2026. у 22:21",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri banjalučkog Borca kao gosti pobedili Vikingur u plej-ofu za LK",
-      "url": "https://www.tanjug.rs/sport/fudbal/275097/fudbaleri-banjaluckog-borca-kao-gosti-pobedili-vikingur-u-plej-ofu-za-lk/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 22:13",
-      "slika": null
-    },
-    {
-      "naslov": "Dva gola Ivanića i Katai za pobedu Zvezde protiv Viktorije Plzenj na debiju Rijere",
-      "url": "https://www.tanjug.rs/sport/fudbal/275083/dva-gola-ivanica-i-katai-za-pobedu-zvezde-protiv-viktorije-plzenj-na-debiju-rijere/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 22:09",
       "slika": null
     },
     {
