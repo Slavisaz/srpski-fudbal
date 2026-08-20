@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-20T19:49:06.059641+00:00",
-  "azurirano_sr": "20. 08. 2026. у 21:49",
+  "azurirano": "2026-08-20T20:11:20.495881+00:00",
+  "azurirano_sr": "20. 08. 2026. у 22:11",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Srpski fudbaler Sergej Milinković-Savić strelac u pobedi Al Hilala",
+      "url": "https://www.tanjug.rs/sport/fudbal/275095/srpski-fudbaler-sergej-milinkovic-savic-strelac-u-pobedi-al-hilala/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 21:55",
+      "slika": null
+    },
+    {
+      "naslov": "Srpski stručnjak Milan Kuljić nije više trener fudbalera Zemuna",
+      "url": "https://www.tanjug.rs/sport/fudbal/275091/srpski-strucnjak-milan-kuljic-nije-vise-trener-fudbalera-zemuna/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 21:40",
+      "slika": null
+    },
+    {
       "naslov": "Srpski fudbaler Dušan Vlahović debitovao za Bešiktaš na meču protiv Kauno Žalgirisa",
       "url": "https://www.tanjug.rs/sport/fudbal/275084/srpski-fudbaler-dusan-vlahovic-debitovao-za-besiktas-na-mecu-protiv-kauno-zalgirisa/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275083/fudbaleri-crvene-zvezde-vode-10-na-poluvremenu-protiv-viktorije-plzenj/vest",
       "izvor": "Танјуг",
       "datum": "20. 08. 2026. у 20:54",
-      "slika": null
-    },
-    {
-      "naslov": "Ilić odredio startere: Hetafe napadaju Sek i Že, Ugrešić kapiten",
-      "url": "https://www.tanjug.rs/sport/fudbal/275066/ilic-odredio-startere-hetafe-napadaju-sek-i-ze-ugresic-kapiten/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 19:57",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera odredio tim za Viktoriju Plzenj: Čam, Veljković i Ivanić od prvog minuta",
-      "url": "https://www.tanjug.rs/sport/fudbal/275050/rijera-odredio-tim-za-viktoriju-plzenj-cam-veljkovic-i-ivanic-od-prvog-minuta/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 18:59",
       "slika": null
     },
     {
