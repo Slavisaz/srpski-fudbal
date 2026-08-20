@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-20T08:59:20.856755+00:00",
-  "azurirano_sr": "20. 08. 2026. у 10:59",
+  "azurirano": "2026-08-20T09:33:55.227456+00:00",
+  "azurirano_sr": "20. 08. 2026. у 11:33",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Još korak do ligaše faze, Borac na Islandu kreće u plej-of bitku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-korak-do-ligase-faze-borac-na-islandu-krece-u-plejof-bitku/551878",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 08. 2026. у 13:15",
+      "slika": null
+    },
     {
       "naslov": "Zvezda, Srbija, Levski Sofija: Imamo li strpljenja za španskog trenera?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-srbija-levski-sofija-imamo-li-strpljenja-za-spanskog-trenera/551876",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Kakva drama u komšijskom derbiju: Spartak preokrenuo sa igračem više, TSC do boda u 90+6",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kakva-drama-u-komsijskom-derbiju-spartak-preokrenuo-sa-igracem-vise-tsc-do-boda-u-906/551858",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 01:14",
+      "naslov": "Dijego Moreira novi fudbaler Milana",
+      "url": "https://www.tanjug.rs/sport/fudbal/274916/dijego-moreira-novi-fudbaler-milana/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 10:42",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274851/zlatanovic-za-pobedu-hapoel-ber-seve-protiv-sabaha-strelac-i-simic/vest",
       "izvor": "Танјуг",
       "datum": "19. 08. 2026. у 22:55",
-      "slika": null
-    },
-    {
-      "naslov": "Potpredsednik FIFA Šandor Čanji javno povukao podršku Đaniju Infantinu",
-      "url": "https://www.tanjug.rs/sport/fudbal/274827/potpredsednik-fifa-sandor-canji-javno-povukao-podrsku-daniju-infantinu/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 08. 2026. у 19:49",
       "slika": null
     },
     {
