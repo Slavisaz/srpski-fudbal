@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-20T15:45:12.470662+00:00",
-  "azurirano_sr": "20. 08. 2026. у 17:45",
+  "azurirano": "2026-08-20T16:05:31.704154+00:00",
+  "azurirano_sr": "20. 08. 2026. у 18:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Gledaćemo opet Ronaldinja! Brazilac sleteo u Italiju: Doček, plaža, 6.000 ljudi...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gledacemo-opet-ronaldinja-brazilac-sleteo-u-italiju-docek-plaza-6000-ljudi/551911",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 08. 2026. у 19:39",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (četvrtak, 20. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-20-avgust/551869",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/neka-ceka-premijer-liga-andrej-ilic-potpisao-novi-ugovor/551890",
       "izvor": "Мозарт Спорт",
       "datum": "20. 08. 2026. у 16:10",
-      "slika": null
-    },
-    {
-      "naslov": "Hirceler prošao \"kurs\" kod Don Karla, smelo ide na Tromse",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/hirceler-prosao-kurs-kod-don-karla-smelo-ide-na-tromse/551885",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 14:36",
       "slika": null
     },
     {
