@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-20T08:19:56.399530+00:00",
-  "azurirano_sr": "20. 08. 2026. у 10:19",
+  "azurirano": "2026-08-20T08:59:20.856755+00:00",
+  "azurirano_sr": "20. 08. 2026. у 10:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvezda, Srbija, Levski Sofija: Imamo li strpljenja za španskog trenera?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-srbija-levski-sofija-imamo-li-strpljenja-za-spanskog-trenera/551876",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 08. 2026. у 12:48",
+      "slika": null
+    },
     {
       "naslov": "Veliko finale sezone, na talonu je budućnost Partizana",
       "url": "https://www.mozzartsport.com/fudbal/vesti/veliko-finale-sezone-na-talonu-je-buducnost-partizana/551870",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/kakva-drama-u-komsijskom-derbiju-spartak-preokrenuo-sa-igracem-vise-tsc-do-boda-u-906/551858",
       "izvor": "Мозарт Спорт",
       "datum": "20. 08. 2026. у 01:14",
-      "slika": null
-    },
-    {
-      "naslov": "Duh posleratne SR Jugoslavije nakratko oživeo u Čačku (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/duh-posleratne-sr-jugoslavije-nakratko-oziveo-u-cacku-video/551850",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 00:09",
       "slika": null
     },
     {
@@ -71,6 +71,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260263/nikola-stankovic-zvanicno-u-cukarickom/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 08. 2026. у 14:12",
+      "slika": null
+    },
+    {
+      "naslov": "Stigao demanti sa Marakane",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260236/zvezda-demantovala-da-rijera-precrtao-bukarija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 08. 2026. у 10:57",
       "slika": null
     }
   ]
