@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-20T07:08:17.267596+00:00",
-  "azurirano_sr": "20. 08. 2026. у 09:08",
+  "azurirano": "2026-08-20T07:52:38.069153+00:00",
+  "azurirano_sr": "20. 08. 2026. у 09:52",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 20. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-20-avgust/551869",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 08. 2026. у 11:04",
+      "slika": null
+    },
     {
       "naslov": "Kakva drama u komšijskom derbiju: Spartak preokrenuo sa igračem više, TSC do boda u 90+6",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kakva-drama-u-komsijskom-derbiju-spartak-preokrenuo-sa-igracem-vise-tsc-do-boda-u-906/551858",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "ZVANIČNO: Sitijeva druga najskuplja prodaja u istoriji, Rejndersu preko 100.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-sitijeva-druga-najskuplja-prodaja-u-istoriji-rejndersu-preko-100000000-evra/551824",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 08. 2026. у 19:13",
+      "naslov": "Fudbaleri Partizana večeras gostuju Hetafeu u prvom meču plej-ofa za plasman u Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/274888/fudbaleri-partizana-veceras-gostuju-hetafeu-u-prvom-mecu-plej-ofa-za-plasman-u-ligu-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 09:30",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Crvene zvezde večeras dočekuju Viktoriju Plzenj u plej-ofu za plasman u Ligu Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/274886/fudbaleri-crvene-zvezde-veceras-docekuju-viktoriju-plzenj-u-plej-ofu-za-plasman-u-ligu-evrope/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 09:27",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274827/potpredsednik-fifa-sandor-canji-javno-povukao-podrsku-daniju-infantinu/vest",
       "izvor": "Танјуг",
       "datum": "19. 08. 2026. у 19:49",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Jovan Milošević potpisao za Bragu",
-      "url": "https://www.tanjug.rs/sport/fudbal/274819/srpski-fudbaler-jovan-milosevic-potpisao-za-bragu/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 08. 2026. у 19:16",
-      "slika": null
-    },
-    {
-      "naslov": "Ilić: Očekujem da Partizan bude hrabar, niko ne može da nam oduzme nadu",
-      "url": "https://www.tanjug.rs/sport/fudbal/274816/ilic-ocekujem-da-partizan-bude-hrabar-niko-ne-moze-da-nam-oduzme-nadu/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 08. 2026. у 19:13",
       "slika": null
     },
     {
