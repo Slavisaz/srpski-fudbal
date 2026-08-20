@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-20T17:12:01.327212+00:00",
-  "azurirano_sr": "20. 08. 2026. у 19:12",
+  "azurirano": "2026-08-20T17:43:20.291813+00:00",
+  "azurirano_sr": "20. 08. 2026. у 19:43",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 20. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-20-avgust/551869",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 08. 2026. у 21:15",
+      "slika": null
+    },
     {
       "naslov": "Sve isto je, ali ništa isto nije… Šahtjor doveo i 15. Brazilca za Ligu šampiona",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sve-isto-je-ali-nista-isto-nije-sahtjor-doveo-i-15-brazilca-za-ligu-sampiona/551918",
@@ -18,17 +25,24 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (četvrtak, 20. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-20-avgust/551869",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 08. 2026. у 18:20",
-      "slika": null
-    },
-    {
       "naslov": "Senegalac stiže da gleda Zvezdu protiv Plzenja, lekarski pregled sutra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/senegalac-stize-da-gleda-zvezdu-protiv-plzenja-lekarski-pregled-sutra/551901",
       "izvor": "Мозарт Спорт",
       "datum": "20. 08. 2026. у 18:13",
+      "slika": null
+    },
+    {
+      "naslov": "Rijera odredio tim za Viktoriju Plzenj: Čam, Veljković i Ivanić od prvog minuta",
+      "url": "https://www.tanjug.rs/sport/fudbal/275050/rijera-odredio-tim-za-viktoriju-plzenj-cam-veljkovic-i-ivanic-od-prvog-minuta/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 18:59",
+      "slika": null
+    },
+    {
+      "naslov": "Pablo Mafeo do kraja sezone na pozajmici u Valensiji",
+      "url": "https://www.tanjug.rs/sport/fudbal/275049/pablo-mafeo-do-kraja-sezone-na-pozajmici-u-valensiji/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 08. 2026. у 18:37",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/274998/andrej-ilic-produzio-ugovor-sa-union-berlinom/vest",
       "izvor": "Танјуг",
       "datum": "20. 08. 2026. у 15:10",
-      "slika": null
-    },
-    {
-      "naslov": "Umberto Betenkur novi selektor fudbalera Zelenortskih Ostrva",
-      "url": "https://www.tanjug.rs/sport/fudbal/274993/umberto-betenkur-novi-selektor-fudbalera-zelenortskih-ostrva/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 15:06",
-      "slika": null
-    },
-    {
-      "naslov": "Boško Đurovski: Zvezdaši, potrebna je podrška, neka se ponovi Banjik",
-      "url": "https://www.tanjug.rs/sport/fudbal/274886/bosko-durovski-zvezdasi-potrebna-je-podrska-neka-se-ponovi-banjik/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 11:54",
       "slika": null
     },
     {
