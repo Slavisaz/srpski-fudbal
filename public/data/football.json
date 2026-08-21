@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-21T06:04:13.344698+00:00",
-  "azurirano_sr": "21. 08. 2026. у 08:04",
+  "azurirano": "2026-08-21T07:00:06.382347+00:00",
+  "azurirano_sr": "21. 08. 2026. у 09:00",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,6 +60,13 @@
       "slika": null
     },
     {
+      "naslov": "To je to – Zvezda besplatno dobija napadača od 15.000.000",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260778/bamba-dijeng-dolazi-u-crvenu-zvezdu-prosao-lekarske-preglede/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 08. 2026. у 08:17",
+      "slika": null
+    },
+    {
       "naslov": "Zvezda krenula po napadača – bio na pragu Lacija, vredi 15 miliona",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260655/bamba-dieng-na-meti-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,24 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "Seda glava je priča dana – &quot;srednjakom&quot; odbranio penal u Kopa Libertadores FOTO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/260688/seda-glava-i-prica-dana-srednjakom-odbranio-penal-u-kopa-libertadores-foto/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "20. 08. 2026. у 21:39",
-      "slika": null
-    },
-    {
       "naslov": "Dragojević hrabri Partizan pred Hetafe: &quot;Znate koji dres nosite – neka nas se plaše&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260369/vanja-dragojevic-intervju-o-partizanu-i-rendzersu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 08. 2026. у 17:45",
-      "slika": null
-    },
-    {
-      "naslov": "Čukarički se pojačao iz Crvene zvezde – vratio se Stanković",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260263/nikola-stankovic-zvanicno-u-cukarickom/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 08. 2026. у 14:12",
       "slika": null
     }
   ]
