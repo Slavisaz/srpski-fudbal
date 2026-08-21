@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-21T18:00:03.304767+00:00",
-  "azurirano_sr": "21. 08. 2026. у 20:00",
+  "azurirano": "2026-08-21T18:39:03.615711+00:00",
+  "azurirano_sr": "21. 08. 2026. у 20:39",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Šahtjora igraće na stadionu Čelsija domaće utakmice u Ligi šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/275276/fudbaleri-sahtjora-igrace-na-stadionu-celsija-domace-utakmice-u-ligi-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 08. 2026. у 19:49",
+      "slika": null
+    },
+    {
       "naslov": "Džordž Rasel osvojio pol poziciju za sprint trku Velike nagrade Holandije",
       "url": "https://www.tanjug.rs/sport/fudbal/275272/dzordz-rasel-osvojio-pol-poziciju-za-sprint-trku-velike-nagrade-holandije/vest",
       "izvor": "Танјуг",
@@ -53,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Počeo prvi NIKA CUP, na terenima mladi fudbaleri iz Srbije, regiona i Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/275238/poceo-prvi-nika-cup-na-terenima-mladi-fudbaleri-iz-srbije-regiona-i-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 08. 2026. у 14:33",
-      "slika": null
-    },
-    {
       "naslov": "Stigla slika sa &quot;Marakane&quot; i detonirala &quot;bombu&quot; – Zvezda dovela veliko pojačanje! FOTO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260990/bamba-dijeng-potpisao-za-crvenu-zvezdu-objavljena-slika-sa-marakane/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "21. 08. 2026. у 18:43",
+      "datum": "21. 08. 2026. у 20:14",
       "slika": null
     },
     {
