@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-21T13:13:10.173242+00:00",
-  "azurirano_sr": "21. 08. 2026. у 15:13",
+  "azurirano": "2026-08-21T13:57:11.518468+00:00",
+  "azurirano_sr": "21. 08. 2026. у 15:57",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Livaković Barsin za 2.500.000 evra, u Dinamu otvorili šampanjac",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/livakovic-barsin-za-2500000-evra-u-dinamu-otvorili-sampanjac/551998",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 08. 2026. у 17:07",
+      "slika": null
+    },
     {
       "naslov": "Štutgart otvara sezonu gostovanjem u Rostoku",
       "url": "https://www.mozzartsport.com/fudbal/vesti/stutgart-otvara-sezonu-gostovanjem-u-rostoku/551994",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Sluti na kraj lepe priče: Duarte želi u Brazil po svaku cenu zbog porodice i ženskog faktora",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sluti-na-kraj-lepe-price-duarte-zeli-u-brazil-po-svaku-cenu-zbog-porodice-i-zenskog-faktora/551986",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 08. 2026. у 14:07",
+      "naslov": "Češki stručnjak Martin Hiski nije više trener Viktorije iz Plzenja",
+      "url": "https://www.tanjug.rs/sport/fudbal/275244/ceski-strucnjak-martin-hiski-nije-vise-trener-viktorije-iz-plzenja/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 08. 2026. у 14:58",
+      "slika": null
+    },
+    {
+      "naslov": "Počeo prvi NIKA CUP, na terenima mladi fudbaleri iz Srbije, regiona i Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/275238/poceo-prvi-nika-cup-na-terenima-mladi-fudbaleri-iz-srbije-regiona-i-evrope/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 08. 2026. у 14:33",
       "slika": null
     },
     {
@@ -39,24 +53,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Partizana sa igračem više poraženi od Hetafea u prvom meču plej-ofa za Ligu konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/275112/fudbaleri-partizana-sa-igracem-vise-porazeni-od-hetafea-u-prvom-mecu-plej-ofa-za-ligu-konferencije/vest",
+      "naslov": "Kompani: Musijala je napravio promenu u lečenju što je izazvalo neželjene efekte",
+      "url": "https://www.tanjug.rs/sport/fudbal/275194/kompani-musijala-je-napravio-promenu-u-lecenju-sto-je-izazvalo-nezeljene-efekte/vest",
       "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 23:00",
-      "slika": null
-    },
-    {
-      "naslov": "Fotu: Imali smo samo tri dana da pripremimo za meč sa Srbijom",
-      "url": "https://www.tanjug.rs/sport/fudbal/275110/fotu-imali-smo-samo-tri-dana-da-pripremimo-za-mec-sa-srbijom/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 22:51",
-      "slika": null
-    },
-    {
-      "naslov": "Elšnik: Igrali smo dobro protiv Viktorije Plzenj, ali još ništa nije gotovo",
-      "url": "https://www.tanjug.rs/sport/fudbal/275107/elsnik-igrali-smo-dobro-protiv-viktorije-plzenj-ali-jos-nista-nije-gotovo/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 08. 2026. у 22:29",
+      "datum": "21. 08. 2026. у 12:10",
       "slika": null
     },
     {
