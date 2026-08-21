@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-21T20:01:39.423245+00:00",
-  "azurirano_sr": "21. 08. 2026. у 22:01",
+  "azurirano": "2026-08-21T20:32:01.214404+00:00",
+  "azurirano_sr": "21. 08. 2026. у 22:32",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Preokret: Šta se to dešava u Humskoj?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261008/preokret-jovsic-nije-podneo-ostavku-u-fk-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 08. 2026. у 22:15",
+      "slika": null
+    },
+    {
       "naslov": "Stigla slika sa &quot;Marakane&quot; i detonirala &quot;bombu&quot; – Zvezda dovela veliko pojačanje! FOTO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260990/bamba-dijeng-potpisao-za-crvenu-zvezdu-objavljena-slika-sa-marakane/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "21. 08. 2026. у 20:14",
-      "slika": null
-    },
-    {
-      "naslov": "Paunović &quot;sprema&quot; novo lice za &quot;orlove&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260985/stefan-dzodic-pred-pozivom-za-a-reprezentaciju-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 08. 2026. у 18:30",
       "slika": null
     }
   ]
