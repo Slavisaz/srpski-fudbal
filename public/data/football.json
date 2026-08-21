@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-21T12:17:57.628925+00:00",
-  "azurirano_sr": "21. 08. 2026. у 14:17",
+  "azurirano": "2026-08-21T13:13:10.173242+00:00",
+  "azurirano_sr": "21. 08. 2026. у 15:13",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Štutgart otvara sezonu gostovanjem u Rostoku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stutgart-otvara-sezonu-gostovanjem-u-rostoku/551994",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 08. 2026. у 16:55",
+      "slika": null
+    },
     {
       "naslov": "Fudbal je ubio Partizan u pojam",
       "url": "https://www.mozzartsport.com/fudbal/vesti/fudbal-je-ubio-partizan-u-pojam/551992",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/sluti-na-kraj-lepe-price-duarte-zeli-u-brazil-po-svaku-cenu-zbog-porodice-i-zenskog-faktora/551986",
       "izvor": "Мозарт Спорт",
       "datum": "21. 08. 2026. у 14:07",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (petak, 21. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-21-avgust/551976",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 08. 2026. у 12:31",
       "slika": null
     },
     {
