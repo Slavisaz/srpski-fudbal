@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-21T10:04:55.867835+00:00",
-  "azurirano_sr": "21. 08. 2026. у 12:04",
+  "azurirano": "2026-08-21T10:39:21.843707+00:00",
+  "azurirano_sr": "21. 08. 2026. у 12:39",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Sluti na kraj lepe priče: Duarte želi u Brazil po svaku cenu zbog porodice i ženskog faktora",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sluti-na-kraj-lepe-price-duarte-zeli-u-brazil-po-svaku-cenu-zbog-porodice-i-zenskog-faktora/551986",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 08. 2026. у 14:07",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (petak, 21. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-21-avgust/551976",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-koja-premijer-liga/551971",
       "izvor": "Мозарт Спорт",
       "datum": "21. 08. 2026. у 11:37",
-      "slika": null
-    },
-    {
-      "naslov": "Pominjala se Zvezda, on odlazi u Seriju A: Bolonja pazarila štopera za 5.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pominjala-se-zvezda-on-odlazi-u-seriju-a-bolonja-pazarila-stopera-za-5000000-evra/551963",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 08. 2026. у 04:11",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Zvezda pronašla i &quot;desetku&quot; u Aziji",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260855/crvena-zvezda-zeli-je-gon-kima-iz-juzne-koreje/vest",
+      "naslov": "Kapetan aviona održao govor koji je naježio fudbalere Partizana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260875/govor-kapetana-kao-melem-na-madridsku-ranu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "21. 08. 2026. у 11:43",
+      "datum": "21. 08. 2026. у 12:34",
       "slika": null
     },
     {
-      "naslov": "Gde bi Partizan bio kad bi utakmica trajala 85 minuta?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260844/partizan-ponavlja-isti-scenario-golovi-u-finisu-odneli-bodove-i-pobedu/vest",
+      "naslov": "Zvezda se rastaje sa napadačem",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260871/bruno-duarte-ide-u-vasko-da-gamu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "21. 08. 2026. у 11:30",
+      "datum": "21. 08. 2026. у 12:25",
       "slika": null
     }
   ]
