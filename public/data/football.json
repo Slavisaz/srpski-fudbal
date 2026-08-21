@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-20T23:54:37.734602+00:00",
-  "azurirano_sr": "21. 08. 2026. у 01:54",
+  "azurirano": "2026-08-21T00:32:12.091811+00:00",
+  "azurirano_sr": "21. 08. 2026. у 02:32",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Pominjala se Zvezda, on odlazi u Seriju A: Bolonja pazarila štopera za 5.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pominjala-se-zvezda-on-odlazi-u-seriju-a-bolonja-pazarila-stopera-za-5000000-evra/551963",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 08. 2026. у 04:11",
+      "slika": null
+    },
+    {
+      "naslov": "Marokansko čudo svađa velikane: Hteo ga Inter, odbio Ajaks, Sporting ga pokupio za 3.500.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/marokansko-cudo-svaa-velikane-hteo-ga-inter-odbio-ajaks-sporting-ga-pokupio-za-3500000-evra/551962",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 08. 2026. у 03:35",
+      "slika": null
+    },
     {
       "naslov": "Srbin stigao u Katar: IMT poslao Nikolu Krstića na pozajmicu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-stigao-u-katar-imt-poslao-nikolu-krstica-na-pozajmicu/551960",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-cetvrtak-20-avgust/551869",
       "izvor": "Мозарт Спорт",
       "datum": "21. 08. 2026. у 01:56",
-      "slika": null
-    },
-    {
-      "naslov": "Pirgić: Slabo sam spavao, celu utakmicu sam bio naježen, ja za ovo živim",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pirgic-slabo-sam-spavao-celu-utakmicu-sam-bio-najezen-ja-za-ovo-zivim/551946",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 08. 2026. у 00:44",
-      "slika": null
-    },
-    {
-      "naslov": "Biće još jedna Liga konferencije za Borac: Juričić opet rešeta, pogodio i Jojić",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bice-jos-jedna-liga-konferencije-za-borac-juricic-opet-reseta-pogodio-i-jojic/551935",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 08. 2026. у 00:24",
       "slika": null
     },
     {
