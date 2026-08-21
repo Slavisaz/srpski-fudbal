@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-21T08:19:15.988591+00:00",
-  "azurirano_sr": "21. 08. 2026. у 10:19",
+  "azurirano": "2026-08-21T09:01:21.992882+00:00",
+  "azurirano_sr": "21. 08. 2026. у 11:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (petak, 21. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-21-avgust/551976",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 08. 2026. у 12:31",
+      "slika": null
+    },
     {
       "naslov": "Sent Etjen neće skoro opet kupovati u Srbiji: Anan završio u Rumuniji",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sent-etjen-nece-skoro-opet-kupovati-u-srbiji-anan-zavrsio-u-rumuniji/551974",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/pominjala-se-zvezda-on-odlazi-u-seriju-a-bolonja-pazarila-stopera-za-5000000-evra/551963",
       "izvor": "Мозарт Спорт",
       "datum": "21. 08. 2026. у 04:11",
-      "slika": null
-    },
-    {
-      "naslov": "Marokansko čudo svađa velikane: Hteo ga Inter, odbio Ajaks, Sporting ga pokupio za 3.500.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/marokansko-cudo-svaa-velikane-hteo-ga-inter-odbio-ajaks-sporting-ga-pokupio-za-3500000-evra/551962",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 08. 2026. у 03:35",
       "slika": null
     },
     {
