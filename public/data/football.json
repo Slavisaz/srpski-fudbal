@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-21T17:38:18.857401+00:00",
-  "azurirano_sr": "21. 08. 2026. у 19:38",
+  "azurirano": "2026-08-21T18:00:03.304767+00:00",
+  "azurirano_sr": "21. 08. 2026. у 20:00",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Džordž Rasel osvojio pol poziciju za sprint trku Velike nagrade Holandije",
+      "url": "https://www.tanjug.rs/sport/fudbal/275272/dzordz-rasel-osvojio-pol-poziciju-za-sprint-trku-velike-nagrade-holandije/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 08. 2026. у 18:56",
+      "slika": null
+    },
+    {
       "naslov": "FIFA suspendovala Paredesa na 10 utakmica i kaznila FS Argentine sa 321.000 dolara",
       "url": "https://www.tanjug.rs/sport/fudbal/275264/fifa-suspendovala-paredesa-na-10-utakmica-i-kaznila-fs-argentine-sa-321000-dolara/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275238/poceo-prvi-nika-cup-na-terenima-mladi-fudbaleri-iz-srbije-regiona-i-evrope/vest",
       "izvor": "Танјуг",
       "datum": "21. 08. 2026. у 14:33",
-      "slika": null
-    },
-    {
-      "naslov": "Puštene u prodaju ulaznice za meč između fudbalera Crvene zvezde i Čukaričkog",
-      "url": "https://www.tanjug.rs/sport/fudbal/275219/pustene-u-prodaju-ulaznice-za-mec-izmedu-fudbalera-crvene-zvezde-i-cukarickog/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 08. 2026. у 13:30",
       "slika": null
     },
     {
