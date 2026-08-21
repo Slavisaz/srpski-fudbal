@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-08-21T21:54:28.324109+00:00",
-  "azurirano_sr": "21. 08. 2026. у 23:54",
+  "azurirano": "2026-08-21T22:10:10.908463+00:00",
+  "azurirano_sr": "22. 08. 2026. у 00:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI  (petak, 21. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-21-avgust/551976",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 08. 2026. у 01:50",
+      "slika": null
+    },
     {
       "naslov": "Mali Džeko poreklom iz Plava i debi za pamćenje... Dovoljno da Klop dobije poziv da obrati pažnju",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mali-dzeko-poreklom-iz-plava-i-debi-za-pamcenje-dovoljno-da-klop-dobije-poziv-da-obrati-paznju/552019",
       "izvor": "Мозарт Спорт",
       "datum": "22. 08. 2026. у 01:22",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (petak, 21. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-21-avgust/551976",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 08. 2026. у 23:19",
       "slika": null
     },
     {
