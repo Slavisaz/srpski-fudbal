@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-22T17:44:46.942896+00:00",
-  "azurirano_sr": "22. 08. 2026. у 19:44",
+  "azurirano": "2026-08-22T17:57:58.823550+00:00",
+  "azurirano_sr": "22. 08. 2026. у 19:57",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -46,13 +46,6 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Šahtjora igraće na stadionu Čelsija domaće utakmice u Ligi šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/275276/fudbaleri-sahtjora-igrace-na-stadionu-celsija-domace-utakmice-u-ligi-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 08. 2026. у 19:49",
-      "slika": null
-    },
-    {
       "naslov": "Koković: &quot;Vojvodina nije nepoznanica, publika će imati šta da vidi&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261168/radomir-kokovic-pred-mec-superlige-izmedju-vojvodine-i-zeleznicara/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,6 +64,20 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261106/sasa-ilic-o-izbacivanju-zubairua-iz-tima/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 08. 2026. у 11:10",
+      "slika": null
+    },
+    {
+      "naslov": "Taremi napustio Olimpijakos – karijeru nastavlja u Dubaiju",
+      "url": "https://www.b92.net/sport/fudbal/vesti/261159/mehdi-taremi-potpisao-al-vasl-iz-uae/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "22. 08. 2026. у 18:18",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Šahtjora igraće na stadionu Čelsija domaće utakmice u Ligi šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/275276/fudbaleri-sahtjora-igrace-na-stadionu-celsija-domace-utakmice-u-ligi-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 08. 2026. у 19:49",
       "slika": null
     },
     {
