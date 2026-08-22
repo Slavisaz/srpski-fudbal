@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-22T16:00:58.176593+00:00",
-  "azurirano_sr": "22. 08. 2026. у 18:00",
+  "azurirano": "2026-08-22T16:29:22.905472+00:00",
+  "azurirano_sr": "22. 08. 2026. у 18:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Iz Niša u Australiju, a iz Australije bi mogao u Rusiju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/iz-nisa-u-australiju-a-iz-australije-bi-mogao-u-rusiju/552087",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 08. 2026. у 20:22",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 22. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-22-avgust/552038",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 08. 2026. у 20:11",
+      "slika": null
+    },
     {
       "naslov": "Pandurović pred put u Surdulicu: Pre ćemo mi njih da iznenadimo, nego oni nas",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pandurovic-pred-put-u-surdulicu-pre-cemo-mi-njih-da-iznenadimo-nego-oni-nas/552075",
@@ -11,24 +25,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (subota, 22. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-22-avgust/552038",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 08. 2026. у 17:43",
-      "slika": null
-    },
-    {
       "naslov": "Dok radi na transferu Duartea, Vasko je u problemima: Zamrznut mu kredit od skoro 25.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dok-radi-na-transferu-duartea-vasko-je-u-problemima-zamrznut-mu-kredit-od-skoro-25000000-evra/552057",
       "izvor": "Мозарт Спорт",
       "datum": "22. 08. 2026. у 15:20",
-      "slika": null
-    },
-    {
-      "naslov": "Ivanović i dalje van stroja, Milvol domaćin desetkovanom Noriču",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ivanovic-i-dalje-van-stroja-milvol-domacin-desetkovanom-noricu/552040",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 08. 2026. у 12:18",
       "slika": null
     },
     {
