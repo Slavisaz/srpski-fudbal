@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-22T17:57:58.823550+00:00",
-  "azurirano_sr": "22. 08. 2026. у 19:57",
+  "azurirano": "2026-08-22T18:24:08.315187+00:00",
+  "azurirano_sr": "22. 08. 2026. у 20:24",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Olajinki u drugoj ligi plata oko 2.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/olajinki-u-drugoj-ligi-plata-oko-2000000-evra/552093",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 08. 2026. у 21:40",
+      "slika": null
+    },
     {
       "naslov": "Bordalas ni reč o Partizanu: Liga nam je najvažnija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bordalas-ni-rec-o-partizanu-liga-nam-je-najvaznija/552092",
@@ -25,13 +32,6 @@
       "slika": null
     },
     {
-      "naslov": "Iz Niša u Australiju, a iz Australije bi mogao u Rusiju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/iz-nisa-u-australiju-a-iz-australije-bi-mogao-u-rusiju/552087",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 08. 2026. у 20:22",
-      "slika": null
-    },
-    {
       "naslov": "Saša Ilić: U Lučanima možemo da dođemo do pozitivnog rezultata samo ako damo maksimum",
       "url": "https://www.tanjug.rs/sport/fudbal/275325/sasa-ilic-u-lucanima-mozemo-da-dodemo-do-pozitivnog-rezultata-samo-ako-damo-maksimum/vest",
       "izvor": "Танјуг",
@@ -46,6 +46,13 @@
       "slika": null
     },
     {
+      "naslov": "Zvezda misteriozna objava i novi broj 23 VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261218/mihailo-ristic-zvanicno-u-crvenoj-zvezdi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 08. 2026. у 20:10",
+      "slika": null
+    },
+    {
       "naslov": "Koković: &quot;Vojvodina nije nepoznanica, publika će imati šta da vidi&quot; VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261168/radomir-kokovic-pred-mec-superlige-izmedju-vojvodine-i-zeleznicara/vest",
       "izvor": "Б92 Српски фудбал",
@@ -57,13 +64,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261164/crvena-zvezda-dala-31-gol-na-10-utakmica-protiv-cukarilkog/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 08. 2026. у 15:57",
-      "slika": null
-    },
-    {
-      "naslov": "Poznato zbog čega je Ilić kaznio Zubairua",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261106/sasa-ilic-o-izbacivanju-zubairua-iz-tima/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 08. 2026. у 11:10",
       "slika": null
     },
     {
