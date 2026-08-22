@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-22T18:24:08.315187+00:00",
-  "azurirano_sr": "22. 08. 2026. у 20:24",
+  "azurirano": "2026-08-22T18:53:06.587035+00:00",
+  "azurirano_sr": "22. 08. 2026. у 20:53",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kakva sedmica za Đorđa Đorđića: Kupila ga Vojvodina, pa prvencem presudio Radničkom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kakva-sedmica-za-ora-orica-kupila-ga-vojvodina-pa-prvencem-presudio-radnickom/552101",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 08. 2026. у 22:29",
+      "slika": null
+    },
+    {
+      "naslov": "Na šta odoše silni milioni?! De Zerbiju čas iz direktnog fudbala, Brentford nalupao Totenhem",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/na-sta-odose-silni-milioni-de-zerbiju-cas-iz-direktnog-fudbala-brentford-nalupao-totenhem/552099",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 08. 2026. у 22:24",
+      "slika": null
+    },
     {
       "naslov": "Olajinki u drugoj ligi plata oko 2.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/olajinki-u-drugoj-ligi-plata-oko-2000000-evra/552093",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Zapamtite ovo ime: Odigrao jednu utakmicu kao senior, Ajaks ulaže 14.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zapamtite-ovo-ime-odigrao-jednu-utakmicu-kao-senior-ajaks-ulaze-14000000-evra/552090",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 08. 2026. у 21:01",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (subota, 22. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-22-avgust/552038",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 08. 2026. у 20:50",
+      "naslov": "Rijera: Imamo sjajnu grupu fudbalera, navijači zaslužuju maksimum",
+      "url": "https://www.tanjug.rs/sport/fudbal/275396/rijera-imamo-sjajnu-grupu-fudbalera-navijaci-zasluzuju-maksimum/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 08. 2026. у 20:21",
       "slika": null
     },
     {
@@ -46,7 +53,7 @@
       "slika": null
     },
     {
-      "naslov": "Zvezda misteriozna objava i novi broj 23 VIDEO",
+      "naslov": "Zvezdina misteriozna objava i novi broj 23 VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261218/mihailo-ristic-zvanicno-u-crvenoj-zvezdi/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 08. 2026. у 20:10",
@@ -67,24 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "Taremi napustio Olimpijakos – karijeru nastavlja u Dubaiju",
-      "url": "https://www.b92.net/sport/fudbal/vesti/261159/mehdi-taremi-potpisao-al-vasl-iz-uae/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "22. 08. 2026. у 18:18",
-      "slika": null
-    },
-    {
       "naslov": "Fudbaleri Šahtjora igraće na stadionu Čelsija domaće utakmice u Ligi šampiona",
       "url": "https://www.tanjug.rs/sport/fudbal/275276/fudbaleri-sahtjora-igrace-na-stadionu-celsija-domace-utakmice-u-ligi-sampiona/vest",
       "izvor": "Танјуг",
       "datum": "21. 08. 2026. у 19:49",
-      "slika": null
-    },
-    {
-      "naslov": "Džordž Rasel osvojio pol poziciju za sprint trku Velike nagrade Holandije",
-      "url": "https://www.tanjug.rs/sport/fudbal/275272/dzordz-rasel-osvojio-pol-poziciju-za-sprint-trku-velike-nagrade-holandije/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 08. 2026. у 18:56",
       "slika": null
     }
   ]
