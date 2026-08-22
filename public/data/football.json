@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-08-22T16:50:10.749054+00:00",
-  "azurirano_sr": "22. 08. 2026. у 18:50",
+  "azurirano": "2026-08-22T17:02:50.679358+00:00",
+  "azurirano_sr": "22. 08. 2026. у 19:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 22. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-22-avgust/552038",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 08. 2026. у 20:50",
+      "slika": null
+    },
     {
       "naslov": "Iz Niša u Australiju, a iz Australije bi mogao u Rusiju",
       "url": "https://www.mozzartsport.com/fudbal/vesti/iz-nisa-u-australiju-a-iz-australije-bi-mogao-u-rusiju/552087",
       "izvor": "Мозарт Спорт",
       "datum": "22. 08. 2026. у 20:22",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (subota, 22. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-22-avgust/552038",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 08. 2026. у 20:11",
       "slika": null
     },
     {
@@ -53,10 +53,10 @@
       "slika": null
     },
     {
-      "naslov": "Džordž Rasel osvojio pol poziciju za sprint trku Velike nagrade Holandije",
-      "url": "https://www.tanjug.rs/sport/fudbal/275272/dzordz-rasel-osvojio-pol-poziciju-za-sprint-trku-velike-nagrade-holandije/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 08. 2026. у 18:56",
+      "naslov": "Koković: &quot;Vojvodina nije nepoznanica, publika će imati šta da vidi&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261168/radomir-kokovic-pred-mec-superlige-izmedju-vojvodine-i-zeleznicara/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 08. 2026. у 18:45",
       "slika": null
     },
     {
@@ -71,6 +71,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261106/sasa-ilic-o-izbacivanju-zubairua-iz-tima/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 08. 2026. у 11:10",
+      "slika": null
+    },
+    {
+      "naslov": "Džordž Rasel osvojio pol poziciju za sprint trku Velike nagrade Holandije",
+      "url": "https://www.tanjug.rs/sport/fudbal/275272/dzordz-rasel-osvojio-pol-poziciju-za-sprint-trku-velike-nagrade-holandije/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 08. 2026. у 18:56",
       "slika": null
     }
   ]
