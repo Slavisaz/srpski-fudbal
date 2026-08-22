@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-22T20:44:04.944379+00:00",
-  "azurirano_sr": "22. 08. 2026. у 22:44",
+  "azurirano": "2026-08-22T20:59:21.902694+00:00",
+  "azurirano_sr": "22. 08. 2026. у 22:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dortmund se sa desetoricom umalo vratio iz mrtvih, Ta spasao Bajern produžetaka u nadoknadi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dortmund-se-sa-desetoricom-umalo-vratio-iz-mrtvih-ta-spasao-bajern-produzetaka-u-nadoknadi/552114",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 08. 2026. у 00:27",
+      "slika": null
+    },
     {
       "naslov": "Turci ne staju! Fabinjo i Salah opet zajedno",
       "url": "https://www.mozzartsport.com/fudbal/vesti/turci-ne-staju-fabinjo-i-salah-opet-zajedno/552112",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Kakva sedmica za Đorđa Đorđića: Kupila ga Vojvodina, pa prvencem presudio Radničkom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kakva-sedmica-za-ora-orica-kupila-ga-vojvodina-pa-prvencem-presudio-radnickom/552101",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 08. 2026. у 22:29",
+      "naslov": "Fudbaleri Bajerna bolji od Dortmunda za trofej Superkupa Nemačke",
+      "url": "https://www.tanjug.rs/sport/fudbal/275413/fudbaleri-bajerna-bolji-od-dortmunda-za-trofej-superkupa-nemacke/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 08. 2026. у 22:33",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275396/rijera-imamo-sjajnu-grupu-fudbalera-navijaci-zasluzuju-maksimum/vest",
       "izvor": "Танјуг",
       "datum": "22. 08. 2026. у 20:21",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić: U Lučanima možemo da dođemo do pozitivnog rezultata samo ako damo maksimum",
-      "url": "https://www.tanjug.rs/sport/fudbal/275325/sasa-ilic-u-lucanima-mozemo-da-dodemo-do-pozitivnog-rezultata-samo-ako-damo-maksimum/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 08. 2026. у 11:00",
       "slika": null
     },
     {
