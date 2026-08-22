@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-22T13:46:19.034725+00:00",
-  "azurirano_sr": "22. 08. 2026. у 15:46",
+  "azurirano": "2026-08-22T13:59:28.148797+00:00",
+  "azurirano_sr": "22. 08. 2026. у 15:59",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Zvezda protiv Čukaričkog juri nastavak dominacije – 31 gol na poslednjih 10 mečeva",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261164/crvena-zvezda-dala-31-gol-na-10-utakmica-protiv-cukarilkog/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 08. 2026. у 15:57",
+      "slika": null
+    },
+    {
       "naslov": "Poznato zbog čega je Ilić kaznio Zubairua",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261106/sasa-ilic-o-izbacivanju-zubairua-iz-tima/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 08. 2026. у 11:10",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić otvoreno o problemima u Partizanu: &quot;Ranije se ovo nije dešavalo&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261098/sasa-ilic-o-problemima-u-partizanu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 08. 2026. у 11:05",
       "slika": null
     }
   ]
