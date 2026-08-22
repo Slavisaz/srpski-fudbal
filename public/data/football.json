@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-22T11:08:21.089053+00:00",
-  "azurirano_sr": "22. 08. 2026. у 13:08",
+  "azurirano": "2026-08-22T11:31:40.309218+00:00",
+  "azurirano_sr": "22. 08. 2026. у 13:31",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dok radi na transferu Duartea, Vasko je u problemima: Zamrznut mu kredit od skoro 25.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dok-radi-na-transferu-duartea-vasko-je-u-problemima-zamrznut-mu-kredit-od-skoro-25000000-evra/552057",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 08. 2026. у 15:20",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (subota, 22. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-22-avgust/552038",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-subota-12448746-dinara-poznavanje-fudbala-donelo-lep-dobitak/552033",
       "izvor": "Мозарт Спорт",
       "datum": "22. 08. 2026. у 11:03",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI  (petak, 21. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-21-avgust/551976",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 08. 2026. у 01:50",
       "slika": null
     },
     {
