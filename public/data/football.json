@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-08-22T09:31:19.537527+00:00",
-  "azurirano_sr": "22. 08. 2026. у 11:31",
+  "azurirano": "2026-08-22T09:52:18.406567+00:00",
+  "azurirano_sr": "22. 08. 2026. у 11:52",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 22. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-22-avgust/552038",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 08. 2026. у 13:17",
+      "slika": null
+    },
     {
       "naslov": "Ivanović i dalje van stroja, Milvol domaćin desetkovanom Noriču",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ivanovic-i-dalje-van-stroja-milvol-domacin-desetkovanom-noricu/552040",
       "izvor": "Мозарт Спорт",
       "datum": "22. 08. 2026. у 12:18",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (subota, 22. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-22-avgust/552038",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 08. 2026. у 11:30",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Poznato zbog čega je Ilić kaznio Zubairua",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261106/sasa-ilic-o-izbacivanju-zubairua-iz-tima/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 08. 2026. у 11:10",
+      "slika": null
+    },
+    {
       "naslov": "Saša Ilić otvoreno o problemima u Partizanu: &quot;Ranije se ovo nije dešavalo&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261098/sasa-ilic-o-problemima-u-partizanu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 08. 2026. у 11:05",
-      "slika": null
-    },
-    {
-      "naslov": "Preokret: Šta se to dešava u Humskoj?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261008/preokret-jovsic-nije-podneo-ostavku-u-fk-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 08. 2026. у 22:15",
       "slika": null
     }
   ]
