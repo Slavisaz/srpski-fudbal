@@ -1,11 +1,11 @@
 {
-  "azurirano": "2026-08-22T20:59:21.902694+00:00",
-  "azurirano_sr": "22. 08. 2026. у 22:59",
+  "azurirano": "2026-08-22T21:21:35.424429+00:00",
+  "azurirano_sr": "22. 08. 2026. у 23:21",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Dortmund se sa desetoricom umalo vratio iz mrtvih, Ta spasao Bajern produžetaka u nadoknadi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dortmund-se-sa-desetoricom-umalo-vratio-iz-mrtvih-ta-spasao-bajern-produzetaka-u-nadoknadi/552114",
+      "naslov": "Dortmund se sa desetoricom umalo vratio iz mrtvih, Ta spasao Bajern penala u nadoknadi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dortmund-se-sa-desetoricom-umalo-vratio-iz-mrtvih-ta-spasao-bajern-penala-u-nadoknadi/552114",
       "izvor": "Мозарт Спорт",
       "datum": "23. 08. 2026. у 00:27",
       "slika": null
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri OFK Beograda u derbiju savladali Zemun, Kragujevčani u seriji",
+      "url": "https://www.tanjug.rs/sport/fudbal/275418/fudbaleri-ofk-beograda-u-derbiju-savladali-zemun-kragujevcani-u-seriji/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 08. 2026. у 22:55",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Bajerna bolji od Dortmunda za trofej Superkupa Nemačke",
       "url": "https://www.tanjug.rs/sport/fudbal/275413/fudbaleri-bajerna-bolji-od-dortmunda-za-trofej-superkupa-nemacke/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Rijera: Imamo sjajnu grupu fudbalera, navijači zaslužuju maksimum",
-      "url": "https://www.tanjug.rs/sport/fudbal/275396/rijera-imamo-sjajnu-grupu-fudbalera-navijaci-zasluzuju-maksimum/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 08. 2026. у 20:21",
+      "naslov": "OFK se sa igračem više namučio protiv Zemuna",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261247/superliga-srbije-6-kolo-ofk-beograd-zemun-10/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 08. 2026. у 23:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261228/superliga-srbije-6-kolo-macva-radnicki-nis-10-radnicki-1923-imt-21/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 08. 2026. у 21:00",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera: &quot;Navijači najbolje znaju šta treba da rade&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261226/rijera-navijaci-najbolje-znaju-sta-treba-da-rade/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 08. 2026. у 20:42",
       "slika": null
     }
   ]
