@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-22T08:02:26.274267+00:00",
-  "azurirano_sr": "22. 08. 2026. у 10:02",
+  "azurirano": "2026-08-22T08:39:21.601692+00:00",
+  "azurirano_sr": "22. 08. 2026. у 10:39",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ivanović i dalje van stroja, Milvol domaćin desetkovanom Noriču",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ivanovic-i-dalje-van-stroja-milvol-domacin-desetkovanom-noricu/552040",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 08. 2026. у 12:18",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 22. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-22-avgust/552038",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 08. 2026. у 11:30",
+      "slika": null
+    },
     {
       "naslov": "LUDI TIKET, subota, 124.487.46 dinara: Poznavanje fudbala donelo lep dobitak",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-subota-12448746-dinara-poznavanje-fudbala-donelo-lep-dobitak/552033",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-21-avgust/551976",
       "izvor": "Мозарт Спорт",
       "datum": "22. 08. 2026. у 01:50",
-      "slika": null
-    },
-    {
-      "naslov": "Mali Džeko poreklom iz Plava i debi za pamćenje... Dovoljno da Klop dobije poziv da obrati pažnju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mali-dzeko-poreklom-iz-plava-i-debi-za-pamcenje-dovoljno-da-klop-dobije-poziv-da-obrati-paznju/552019",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 08. 2026. у 01:22",
-      "slika": null
-    },
-    {
-      "naslov": "Livaković Barsin za najviše 4.000.000 evra, u Dinamu otvorili šampanjac",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/livakovic-barsin-za-najvise-4000000-evra-u-dinamu-otvorili-sampanjac/551998",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 08. 2026. у 17:07",
       "slika": null
     },
     {
