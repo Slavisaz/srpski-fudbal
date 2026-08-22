@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-22T09:01:57.493293+00:00",
-  "azurirano_sr": "22. 08. 2026. у 11:01",
+  "azurirano": "2026-08-22T09:31:19.537527+00:00",
+  "azurirano_sr": "22. 08. 2026. у 11:31",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Saša Ilić: U Lučanima možemo da dođemo do pozitivnog rezultata samo ako damo maksimum",
+      "url": "https://www.tanjug.rs/sport/fudbal/275325/sasa-ilic-u-lucanima-mozemo-da-dodemo-do-pozitivnog-rezultata-samo-ako-damo-maksimum/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 08. 2026. у 11:00",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Arsenala ubedljivo pobedili Koventri na startu Premijer lige",
       "url": "https://www.tanjug.rs/sport/fudbal/275296/fudbaleri-arsenala-ubedljivo-pobedili-koventri-na-startu-premijer-lige/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "FIFA suspendovala Paredesa na 10 utakmica i kaznila FS Argentine sa 321.000 dolara",
-      "url": "https://www.tanjug.rs/sport/fudbal/275264/fifa-suspendovala-paredesa-na-10-utakmica-i-kaznila-fs-argentine-sa-321000-dolara/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 08. 2026. у 17:57",
+      "naslov": "Saša Ilić otvoreno o problemima u Partizanu: &quot;Ranije se ovo nije dešavalo&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261098/sasa-ilic-o-problemima-u-partizanu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 08. 2026. у 11:05",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261008/preokret-jovsic-nije-podneo-ostavku-u-fk-partizan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "21. 08. 2026. у 22:15",
-      "slika": null
-    },
-    {
-      "naslov": "Stigla slika sa &quot;Marakane&quot; i detonirala &quot;bombu&quot; – Zvezda dovela veliko pojačanje! FOTO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/260990/bamba-dijeng-potpisao-za-crvenu-zvezdu-objavljena-slika-sa-marakane/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 08. 2026. у 20:14",
       "slika": null
     }
   ]
