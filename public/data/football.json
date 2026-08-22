@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-22T19:12:41.787070+00:00",
-  "azurirano_sr": "22. 08. 2026. у 21:12",
+  "azurirano": "2026-08-22T19:32:49.566284+00:00",
+  "azurirano_sr": "22. 08. 2026. у 21:32",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 22. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-22-avgust/552038",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 08. 2026. у 23:19",
+      "slika": null
+    },
     {
       "naslov": "Transfer koji je zapalio Saudijsku Arabiju, Ukrajinca čeka pakao od njegovih navijača",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transfer-koji-je-zapalio-saudijsku-arabiju-ukrajinca-ceka-pakao-od-njegovih-navijaca/552103",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/na-sta-odose-silni-milioni-de-zerbiju-cas-iz-direktnog-fudbala-brentford-nalupao-totenhem/552099",
       "izvor": "Мозарт Спорт",
       "datum": "22. 08. 2026. у 22:24",
-      "slika": null
-    },
-    {
-      "naslov": "Olajinki u drugoj ligi plata oko 2.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/olajinki-u-drugoj-ligi-plata-oko-2000000-evra/552093",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 08. 2026. у 21:40",
       "slika": null
     },
     {
