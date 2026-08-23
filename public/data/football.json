@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-23T19:28:45.334332+00:00",
-  "azurirano_sr": "23. 08. 2026. у 21:28",
+  "azurirano": "2026-08-23T19:45:33.900480+00:00",
+  "azurirano_sr": "23. 08. 2026. у 21:45",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Crvene zvezde ubedljivi protiv Čukaričkog za prvo mesto na tabeli SLS",
+      "url": "https://www.tanjug.rs/sport/fudbal/275554/fudbaleri-crvene-zvezde-ubedljivi-protiv-cukarickog-za-prvo-mesto-na-tabeli-sls/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 08. 2026. у 21:17",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Juventusa nadigrali Frozinone u prvom kolu Serije A",
       "url": "https://www.tanjug.rs/sport/fudbal/275551/fudbaleri-juventusa-nadigrali-frozinone-u-prvom-kolu-serije-a/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Košarkaški klub Crvena zvezda predstavio tim za novu sezonu",
-      "url": "https://www.tanjug.rs/sport/fudbal/275519/kosarkaski-klub-crvena-zvezda-predstavio-tim-za-novu-sezonu/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 08. 2026. у 17:54",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan mogao da primi drugi gol",
+      "naslov": "Sramotni Partizan primio i drugi gol",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261430/uzivo-mladost-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 08. 2026. у 21:22",
+      "datum": "23. 08. 2026. у 21:42",
       "slika": null
     },
     {
-      "naslov": "Jakšić kritikovao igrače: &quot;Pojedinci nisu želeli da se vraćaju&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261441/izajva-marka-jaksica/vest",
+      "naslov": "Zvezda napunila mrežu Čukaričkog i mirno čeka put u Plzenj",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261407/uzivo-crvena-zvezda-cukaricki-lajv-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 08. 2026. у 21:14",
+      "datum": "23. 08. 2026. у 21:30",
       "slika": null
     }
   ]
