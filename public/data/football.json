@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-23T19:45:33.900480+00:00",
-  "azurirano_sr": "23. 08. 2026. у 21:45",
+  "azurirano": "2026-08-23T19:57:00.532253+00:00",
+  "azurirano_sr": "23. 08. 2026. у 21:57",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Radnika trijumfovali protiv Novog Pazara u šestom kolu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/275558/fudbaleri-radnika-trijumfovali-protiv-novog-pazara-u-sestom-kolu-superlige-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 08. 2026. у 21:45",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Hetafea savladali Rasing Santander pred utakmicu protiv Partizana",
+      "url": "https://www.tanjug.rs/sport/fudbal/275557/fudbaleri-hetafea-savladali-rasing-santander-pred-utakmicu-protiv-partizana/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 08. 2026. у 21:34",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Crvene zvezde ubedljivi protiv Čukaričkog za prvo mesto na tabeli SLS",
       "url": "https://www.tanjug.rs/sport/fudbal/275554/fudbaleri-crvene-zvezde-ubedljivi-protiv-cukarickog-za-prvo-mesto-na-tabeli-sls/vest",
       "izvor": "Танјуг",
@@ -46,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Liverpula u 90+9. minutu do boda protiv Njukasla na debiju Andonija Iraole",
-      "url": "https://www.tanjug.rs/sport/fudbal/275537/fudbaleri-liverpula-u-909-minutu-do-boda-protiv-njukasla-na-debiju-andonija-iraole/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 08. 2026. у 19:33",
-      "slika": null
-    },
-    {
-      "naslov": "Remi fudbalera Atletiko Madrida i Viljareala u drugom kolu španskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/275535/remi-fudbalera-atletiko-madrida-i-viljareala-u-drugom-kolu-spanskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 08. 2026. у 19:28",
-      "slika": null
-    },
-    {
-      "naslov": "Sramotni Partizan primio i drugi gol",
+      "naslov": "Igra Partizana je uvreda za fudbal",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261430/uzivo-mladost-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 08. 2026. у 21:42",
+      "datum": "23. 08. 2026. у 21:53",
       "slika": null
     },
     {
