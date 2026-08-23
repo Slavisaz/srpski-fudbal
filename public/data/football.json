@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-23T13:00:45.886598+00:00",
-  "azurirano_sr": "23. 08. 2026. у 15:00",
+  "azurirano": "2026-08-23T13:35:06.800039+00:00",
+  "azurirano_sr": "23. 08. 2026. у 15:35",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Lil dogovorio prelazak Ajuba Buadija u Mančester siti za 100 miliona evra",
+      "url": "https://www.tanjug.rs/sport/fudbal/275494/lil-dogovorio-prelazak-ajuba-buadija-u-mancester-siti-za-100-miliona-evra/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 08. 2026. у 14:48",
+      "slika": null
+    },
+    {
       "naslov": "Radoslav Kovač novi trener fudbalera Viktorije Plzenj",
       "url": "https://www.tanjug.rs/sport/fudbal/275480/radoslav-kovac-novi-trener-fudbalera-viktorije-plzenj/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275450/fudbaleri-intera-porazeni-od-toronta-pobede-nesvila-i-vankuvera-u-mls-ligi/vest",
       "izvor": "Танјуг",
       "datum": "23. 08. 2026. у 09:52",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri OFK Beograda u derbiju savladali Zemun, Kragujevčani u seriji",
-      "url": "https://www.tanjug.rs/sport/fudbal/275418/fudbaleri-ofk-beograda-u-derbiju-savladali-zemun-kragujevcani-u-seriji/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 08. 2026. у 22:55",
       "slika": null
     },
     {
