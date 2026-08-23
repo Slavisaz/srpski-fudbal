@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-23T18:09:26.011547+00:00",
-  "azurirano_sr": "23. 08. 2026. у 20:09",
+  "azurirano": "2026-08-23T18:45:27.647098+00:00",
+  "azurirano_sr": "23. 08. 2026. у 20:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Šta uradiste, kako ovo promašiste?! Bremerov trzaj kupio mir Juventusu (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sta-uradiste-kako-ovo-promasiste-bremerov-trzaj-kupio-mir-juventusu-video/552177",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 08. 2026. у 22:33",
+      "slika": null
+    },
     {
       "naslov": "Nakajama odigrao meč za Mačidu - deluje oproštajni pred transfer u Zvezdu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nakajama-odigrao-mec-za-macidu-deluje-oprostajni-pred-transfer-u-zvezdu/552166",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/treca-stotka-u-istoriji-sitija-ajub-buadi/552155",
       "izvor": "Мозарт Спорт",
       "datum": "23. 08. 2026. у 16:39",
-      "slika": null
-    },
-    {
-      "naslov": "Dva velika ispita za Čelik i Željezničar, Borac i Zrinjski žele potvrdu ambicija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dva-velika-ispita-za-celik-i-zeljeznicar-borac-i-zrinjski-zele-potvrdu-ambicija/552154",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 08. 2026. у 16:27",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Iz Madrida u Lučane – Partizan na popravnom",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261430/uzivo-mladost-partizan/vest",
+      "naslov": "Zvezdin poker golova na &quot;Marakani&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261407/uzivo-crvena-zvezda-cukaricki-lajv-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 08. 2026. у 20:04",
+      "datum": "23. 08. 2026. у 20:42",
       "slika": null
     },
     {
-      "naslov": "Zvezda ima minimalnu prednost na poluvremenu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261407/uzivo-crvena-zvezda-cukaricki-lajv-prenos/vest",
+      "naslov": "Partizan iz Madrida u Lučane – Krunić vraćen na gol",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261430/uzivo-mladost-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 08. 2026. у 19:56",
+      "datum": "23. 08. 2026. у 20:23",
       "slika": null
     }
   ]
