@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-23T16:12:58.636561+00:00",
-  "azurirano_sr": "23. 08. 2026. у 18:12",
+  "azurirano": "2026-08-23T16:42:02.415888+00:00",
+  "azurirano_sr": "23. 08. 2026. у 18:42",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Košarkaški klub Crvena zvezda predstavio tim za novu sezonu",
+      "url": "https://www.tanjug.rs/sport/fudbal/275519/kosarkaski-klub-crvena-zvezda-predstavio-tim-za-novu-sezonu/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 08. 2026. у 17:54",
+      "slika": null
+    },
+    {
       "naslov": "Mančester siti posle preokreta pobedio Bornmut, Brajton ubedljv protiv Aston vile",
       "url": "https://www.tanjug.rs/sport/fudbal/275511/mancester-siti-posle-preokreta-pobedio-bornmut-brajton-ubedljv-protiv-aston-vile/vest",
       "izvor": "Танјуг",
@@ -53,14 +60,7 @@
       "slika": null
     },
     {
-      "naslov": "Urugvajski fudbaler Darvin Nunjez do kraja sezone na pozajmici u Al Diriji",
-      "url": "https://www.tanjug.rs/sport/fudbal/275457/urugvajski-fudbaler-darvin-nunjez-do-kraja-sezone-na-pozajmici-u-al-diriji/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 08. 2026. у 10:56",
-      "slika": null
-    },
-    {
-      "naslov": "Posle &quot;trojke&quot; Viktoriji, Zvezda dočekuje Čukarički –Rijera izmešao karte",
+      "naslov": "Posle &quot;trojke&quot; Viktoriji, Zvezda dočekuje Čukarički – Rijera žestoko izmešao karte",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261407/uzivo-crvena-zvezda-cukaricki-lajv-prenos/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "23. 08. 2026. у 18:05",
