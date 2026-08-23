@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-23T17:39:57.344647+00:00",
-  "azurirano_sr": "23. 08. 2026. у 19:39",
+  "azurirano": "2026-08-23T17:54:08.685198+00:00",
+  "azurirano_sr": "23. 08. 2026. у 19:54",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Liverpula u 90+9. minutu do boda protiv Njukasla na debiju Andonija Iraole",
+      "url": "https://www.tanjug.rs/sport/fudbal/275537/fudbaleri-liverpula-u-909-minutu-do-boda-protiv-njukasla-na-debiju-andonija-iraole/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 08. 2026. у 19:33",
+      "slika": null
+    },
+    {
+      "naslov": "Remi fudbalera Atletiko Madrida i Viljareala u drugom kolu španskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/275535/remi-fudbalera-atletiko-madrida-i-viljareala-u-drugom-kolu-spanskog-prvenstva/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 08. 2026. у 19:28",
+      "slika": null
+    },
+    {
       "naslov": "Košarkaški klub Crvena zvezda predstavio tim za novu sezonu",
       "url": "https://www.tanjug.rs/sport/fudbal/275519/kosarkaski-klub-crvena-zvezda-predstavio-tim-za-novu-sezonu/vest",
       "izvor": "Танјуг",
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Lil dogovorio prelazak Ajuba Buadija u Mančester siti za 100 miliona evra",
-      "url": "https://www.tanjug.rs/sport/fudbal/275494/lil-dogovorio-prelazak-ajuba-buadija-u-mancester-siti-za-100-miliona-evra/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 08. 2026. у 14:48",
+      "naslov": "Debakl Srđana Blagojevića",
+      "url": "https://www.b92.net/sport/fudbal/vesti/261423/srdjan-blagojevic-i-akron-poslednji-na-tabeli-ruske-premijer-lige/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "23. 08. 2026. у 19:24",
       "slika": null
     },
     {
-      "naslov": "Radoslav Kovač novi trener fudbalera Viktorije Plzenj",
-      "url": "https://www.tanjug.rs/sport/fudbal/275480/radoslav-kovac-novi-trener-fudbalera-viktorije-plzenj/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 08. 2026. у 13:46",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda bez ritma – i dalje nema golova",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261407/uzivo-crvena-zvezda-cukaricki-lajv-prenos/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 08. 2026. у 19:36",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera vraća u tim još jednog &quot;otpisanog&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261338/vladimir-lucic-igra-protiv-cukarickog-rijera-ga-vratio-u-tim/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 08. 2026. у 13:25",
+      "naslov": "Prvi od mnogih? Salah konačno zatresao mrežu za Trabzon VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/261413/prvi-gol-mohameda-salaha-u-dresu-trabzona/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "23. 08. 2026. у 18:39",
       "slika": null
     }
   ]
