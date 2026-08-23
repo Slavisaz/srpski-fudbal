@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-23T19:04:13.246363+00:00",
-  "azurirano_sr": "23. 08. 2026. у 21:04",
+  "azurirano": "2026-08-23T19:28:45.334332+00:00",
+  "azurirano_sr": "23. 08. 2026. у 21:28",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Juventusa nadigrali Frozinone u prvom kolu Serije A",
+      "url": "https://www.tanjug.rs/sport/fudbal/275551/fudbaleri-juventusa-nadigrali-frozinone-u-prvom-kolu-serije-a/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 08. 2026. у 20:44",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Liverpula u 90+9. minutu do boda protiv Njukasla na debiju Andonija Iraole",
       "url": "https://www.tanjug.rs/sport/fudbal/275537/fudbaleri-liverpula-u-909-minutu-do-boda-protiv-njukasla-na-debiju-andonija-iraole/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Mančester siti posle preokreta pobedio Bornmut, Brajton ubedljv protiv Aston vile",
-      "url": "https://www.tanjug.rs/sport/fudbal/275511/mancester-siti-posle-preokreta-pobedio-bornmut-brajton-ubedljv-protiv-aston-vile/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 08. 2026. у 17:12",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan u Lučanima traži &quot;sebe&quot; – počelo je",
+      "naslov": "Partizan mogao da primi drugi gol",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261430/uzivo-mladost-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 08. 2026. у 21:02",
+      "datum": "23. 08. 2026. у 21:22",
       "slika": null
     },
     {
-      "naslov": "Zvezda napunila mrežu Čukaričkog i mirno čeka put u Plzenj",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261407/uzivo-crvena-zvezda-cukaricki-lajv-prenos/vest",
+      "naslov": "Jakšić kritikovao igrače: &quot;Pojedinci nisu želeli da se vraćaju&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261441/izajva-marka-jaksica/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 08. 2026. у 20:58",
+      "datum": "23. 08. 2026. у 21:14",
       "slika": null
     }
   ]
