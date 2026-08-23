@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-23T09:10:47.335939+00:00",
-  "azurirano_sr": "23. 08. 2026. у 11:10",
+  "azurirano": "2026-08-23T09:39:26.579851+00:00",
+  "azurirano_sr": "23. 08. 2026. у 11:39",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -8,6 +8,13 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/korejci-otkrili-detalje-kim-odbio-siti-i-barsu-zbog-zvezde-obestecenje-500000-i-25-od-sledece-prodaje/552136",
       "izvor": "Мозарт Спорт",
       "datum": "23. 08. 2026. у 12:27",
+      "slika": null
+    },
+    {
+      "naslov": "Stigla dozvola, Kostić bi mogao da debituje protiv bivšeg kluba",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stigla-dozvola-kostic-bi-mogao-da-debituje-protiv-bivseg-kluba/552137",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 08. 2026. у 12:25",
       "slika": null
     },
     {
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (nedelja, 23. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-23-avgust/552134",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 08. 2026. у 11:41",
+      "naslov": "Urugvajski fudbaler Darvin Nunjez do kraja sezone na pozajmici u Al Diriji",
+      "url": "https://www.tanjug.rs/sport/fudbal/275457/urugvajski-fudbaler-darvin-nunjez-do-kraja-sezone-na-pozajmici-u-al-diriji/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 08. 2026. у 10:56",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275413/fudbaleri-bajerna-bolji-od-dortmunda-za-trofej-superkupa-nemacke/vest",
       "izvor": "Танјуг",
       "datum": "22. 08. 2026. у 22:33",
-      "slika": null
-    },
-    {
-      "naslov": "Inter ubedljiv protiv Monce, Stanković upisao prve minute",
-      "url": "https://www.tanjug.rs/sport/fudbal/275402/inter-ubedljiv-protiv-monce-stankovic-upisao-prve-minute/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 08. 2026. у 20:39",
       "slika": null
     },
     {
