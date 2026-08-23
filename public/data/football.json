@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-23T06:54:03.274249+00:00",
-  "azurirano_sr": "23. 08. 2026. у 08:54",
+  "azurirano": "2026-08-23T07:22:27.929508+00:00",
+  "azurirano_sr": "23. 08. 2026. у 09:22",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "PRELAZZI: Kupci, prodavci i ostali kockari",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-kupci-prodavci-i-ostali-kockari/552125",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 08. 2026. у 11:12",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (subota, 22. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-subota-22-avgust/552038",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/turci-ne-staju-fabinjo-i-salah-opet-zajedno/552112",
       "izvor": "Мозарт Спорт",
       "datum": "22. 08. 2026. у 23:50",
-      "slika": null
-    },
-    {
-      "naslov": "Transfer koji je zapalio Saudijsku Arabiju, Ukrajinca čeka pakao od njegovih navijača",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transfer-koji-je-zapalio-saudijsku-arabiju-ukrajinca-ceka-pakao-od-njegovih-navijaca/552103",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 08. 2026. у 22:44",
       "slika": null
     },
     {
