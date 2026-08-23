@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-23T10:16:39.545529+00:00",
-  "azurirano_sr": "23. 08. 2026. у 12:16",
+  "azurirano": "2026-08-23T10:43:31.329566+00:00",
+  "azurirano_sr": "23. 08. 2026. у 12:43",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Milan prodaje robu sa greškom: Enkunku blizu povratka u Lajpcig na pozajmicu sa pravom otkupa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/milan-prodaje-robu-sa-greskom-enkunku-blizu-povratka-u-lajpcig-na-pozajmicu-sa-pravom-otkupa/552140",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 08. 2026. у 13:53",
+      "slika": null
+    },
     {
       "naslov": "Svrake spremile pakao za Isaka, napadač Liverpula prvi put protiv bivšeg kluba",
       "url": "https://www.mozzartsport.com/fudbal/vesti/svrake-spremile-pakao-za-isaka-napadac-liverpula-prvi-put-protiv-bivseg-kluba/552139",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/stigla-dozvola-kostic-bi-mogao-da-debituje-protiv-bivseg-kluba/552137",
       "izvor": "Мозарт Спорт",
       "datum": "23. 08. 2026. у 12:25",
-      "slika": null
-    },
-    {
-      "naslov": "Dva trenera kao odraz u ogledalu! Uroš Nikolić: Savić je bio Koković pre Kokovića; promeniće postavu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dva-trenera-kao-odraz-u-ogledalu-uros-nikolic-savic-je-bio-kokovic-pre-kokovica-promenice-postavu/552135",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 08. 2026. у 12:04",
       "slika": null
     },
     {
@@ -63,7 +63,7 @@
       "naslov": "Zvezda pobedila velikane – poznati detalji dolaska talenta iz Južne Koreje",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261323/zvezda-pobedila-siti-i-barselonu-za-je-gon-kima/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 08. 2026. у 12:15",
+      "datum": "23. 08. 2026. у 12:17",
       "slika": null
     },
     {
