@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-23T08:12:33.696219+00:00",
-  "azurirano_sr": "23. 08. 2026. у 10:12",
+  "azurirano": "2026-08-23T08:47:22.460639+00:00",
+  "azurirano_sr": "23. 08. 2026. у 10:47",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Korejci otkrili detalje: Kim odbio Siti i Barsu zbog Zvezde, obeštećenje 500.000 i 25% od sledeće prodaje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/korejci-otkrili-detalje-kim-odbio-siti-i-barsu-zbog-zvezde-obestecenje-500000-i-25-od-sledece-prodaje/552136",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 08. 2026. у 12:27",
+      "slika": null
+    },
     {
       "naslov": "Dva trenera kao odraz u ogledalu! Uroš Nikolić: Savić je bio Koković pre Kokovića; promeniće postavu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dva-trenera-kao-odraz-u-ogledalu-uros-nikolic-savic-je-bio-kokovic-pre-kokovica-promenice-postavu/552135",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Cela Italija je videla šta se desilo! Jedna od najgorih stvari koju sam doživeo u fudbalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cela-italija-je-videla-sta-se-desilo-jedna-od-najgorih-stvari-koju-sam-doziveo-u-fudbalu/552133",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 08. 2026. у 11:38",
+      "naslov": "Fudbaleri Intera poraženi od Toronta, pobede Nešvila i Vankuvera u MLS ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/275450/fudbaleri-intera-porazeni-od-toronta-pobede-nesvila-i-vankuvera-u-mls-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 08. 2026. у 09:52",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275402/inter-ubedljiv-protiv-monce-stankovic-upisao-prve-minute/vest",
       "izvor": "Танјуг",
       "datum": "22. 08. 2026. у 20:39",
-      "slika": null
-    },
-    {
-      "naslov": "Mihailo Ristić se posle devet godina vratio u Crvenu zvezdu",
-      "url": "https://www.tanjug.rs/sport/fudbal/275400/mihailo-ristic-se-posle-devet-godina-vratio-u-crvenu-zvezdu/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 08. 2026. у 20:31",
       "slika": null
     },
     {
