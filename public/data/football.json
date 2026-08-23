@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-23T09:56:50.649654+00:00",
-  "azurirano_sr": "23. 08. 2026. у 11:56",
+  "azurirano": "2026-08-23T10:16:39.545529+00:00",
+  "azurirano_sr": "23. 08. 2026. у 12:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Svrake spremile pakao za Isaka, napadač Liverpula prvi put protiv bivšeg kluba",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/svrake-spremile-pakao-za-isaka-napadac-liverpula-prvi-put-protiv-bivseg-kluba/552139",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 08. 2026. у 13:29",
+      "slika": null
+    },
     {
       "naslov": "Korejci otkrili detalje: Kim odbio Siti i Barsu zbog Zvezde, obeštećenje 500.000 i 25% od sledeće prodaje",
       "url": "https://www.mozzartsport.com/fudbal/vesti/korejci-otkrili-detalje-kim-odbio-siti-i-barsu-zbog-zvezde-obestecenje-500000-i-25-od-sledece-prodaje/552136",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/dva-trenera-kao-odraz-u-ogledalu-uros-nikolic-savic-je-bio-kokovic-pre-kokovica-promenice-postavu/552135",
       "izvor": "Мозарт Спорт",
       "datum": "23. 08. 2026. у 12:04",
-      "slika": null
-    },
-    {
-      "naslov": "Dejan Joveljić dogovorio najskuplji transfer u karijeri: Menja klub, ali ostaje u Americi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dejan-joveljic-dogovorio-najskuplji-transfer-u-karijeri-menja-klub-ali-ostaje-u-americi/552131",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 08. 2026. у 11:55",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Zvezda pobedila velikane – poznati detalji dolaska talenta iz Južne Koreje",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261323/zvezda-pobedila-siti-i-barselonu-za-je-gon-kima/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "23. 08. 2026. у 12:15",
+      "slika": null
+    },
+    {
       "naslov": "OFK se sa igračem više namučio protiv Zemuna",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261247/superliga-srbije-6-kolo-ofk-beograd-zemun-10/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 08. 2026. у 23:00",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Feđaball&quot; se nastavlja – evrogol za &quot;kec&quot; u Šapcu VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261228/superliga-srbije-6-kolo-macva-radnicki-nis-10-radnicki-1923-imt-21/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 08. 2026. у 21:00",
       "slika": null
     }
   ]
