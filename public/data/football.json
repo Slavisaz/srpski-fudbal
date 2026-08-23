@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-23T15:40:00.914883+00:00",
-  "azurirano_sr": "23. 08. 2026. у 17:40",
+  "azurirano": "2026-08-23T15:55:26.099338+00:00",
+  "azurirano_sr": "23. 08. 2026. у 17:55",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nakajama odigrao meč za Mačidu - deluje oproštajni pred transfer u Zvezdu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nakajama-odigrao-mec-za-macidu-deluje-oprostajni-pred-transfer-u-zvezdu/552166",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 08. 2026. у 19:42",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (nedelja, 23. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-23-avgust/552134",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/dva-velika-ispita-za-celik-i-zeljeznicar-borac-i-zrinjski-zele-potvrdu-ambicija/552154",
       "izvor": "Мозарт Спорт",
       "datum": "23. 08. 2026. у 16:27",
-      "slika": null
-    },
-    {
-      "naslov": "Enrike pred gostovanje Renu: PSŽ je evolucija fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/enrike-pred-gostovanje-renu-psz-je-evolucija-fudbala/552150",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 08. 2026. у 15:44",
       "slika": null
     },
     {
