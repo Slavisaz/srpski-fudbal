@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-23T14:15:33.490127+00:00",
-  "azurirano_sr": "23. 08. 2026. у 16:15",
+  "azurirano": "2026-08-23T14:41:12.381256+00:00",
+  "azurirano_sr": "23. 08. 2026. у 16:41",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (nedelja, 23. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-23-avgust/552134",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 08. 2026. у 18:19",
+      "slika": null
+    },
     {
       "naslov": "Treća 'stotka' u istoriji Sitija - Ajub Buadi!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/treca-stotka-u-istoriji-sitija-ajub-buadi/552155",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/enrike-pred-gostovanje-renu-psz-je-evolucija-fudbala/552150",
       "izvor": "Мозарт Спорт",
       "datum": "23. 08. 2026. у 15:44",
-      "slika": null
-    },
-    {
-      "naslov": "Ugo Alba ponovo napustio OFK Beograd: Španac potpisao za drugoligaša iz Katara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ugo-alba-ponovo-napustio-ofk-beograd-spanac-potpisao-za-drugoligasa-iz-katara/552147",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 08. 2026. у 15:02",
       "slika": null
     },
     {
