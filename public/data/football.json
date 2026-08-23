@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-23T15:17:40.692547+00:00",
-  "azurirano_sr": "23. 08. 2026. у 17:17",
+  "azurirano": "2026-08-23T15:40:00.914883+00:00",
+  "azurirano_sr": "23. 08. 2026. у 17:40",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Mančester siti posle preokreta pobedio Bornmut, Brajton ubedljv protiv Aston vile",
+      "url": "https://www.tanjug.rs/sport/fudbal/275511/mancester-siti-posle-preokreta-pobedio-bornmut-brajton-ubedljv-protiv-aston-vile/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 08. 2026. у 17:12",
+      "slika": null
+    },
+    {
       "naslov": "Lil dogovorio prelazak Ajuba Buadija u Mančester siti za 100 miliona evra",
       "url": "https://www.tanjug.rs/sport/fudbal/275494/lil-dogovorio-prelazak-ajuba-buadija-u-mancester-siti-za-100-miliona-evra/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275457/urugvajski-fudbaler-darvin-nunjez-do-kraja-sezone-na-pozajmici-u-al-diriji/vest",
       "izvor": "Танјуг",
       "datum": "23. 08. 2026. у 10:56",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Intera poraženi od Toronta, pobede Nešvila i Vankuvera u MLS ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/275450/fudbaleri-intera-porazeni-od-toronta-pobede-nesvila-i-vankuvera-u-mls-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 08. 2026. у 09:52",
       "slika": null
     },
     {
