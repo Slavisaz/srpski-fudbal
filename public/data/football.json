@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-23T20:39:45.923057+00:00",
-  "azurirano_sr": "23. 08. 2026. у 22:39",
+  "azurirano": "2026-08-23T20:56:09.466162+00:00",
+  "azurirano_sr": "23. 08. 2026. у 22:56",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Milana savladali Torino na startu Serije A",
+      "url": "https://www.tanjug.rs/sport/fudbal/275568/fudbaleri-milana-savladali-torino-na-startu-serije-a/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 08. 2026. у 22:43",
+      "slika": null
+    },
+    {
+      "naslov": "Živković strelac i dvostruki asistent u pobedi PAOK-a protiv Levadijakosa",
+      "url": "https://www.tanjug.rs/sport/fudbal/275564/zivkovic-strelac-i-dvostruki-asistent-u-pobedi-paok-a-protiv-levadijakosa/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 08. 2026. у 22:29",
+      "slika": null
+    },
+    {
+      "naslov": "Rijera: Video sam dosta pozitivnih stvari do sad, nastavićemo da radimo naporno",
+      "url": "https://www.tanjug.rs/sport/fudbal/275562/rijera-video-sam-dosta-pozitivnih-stvari-do-sad-nastavicemo-da-radimo-naporno/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 08. 2026. у 22:28",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Radnika trijumfovali protiv Novog Pazara u šestom kolu Superlige Srbije",
       "url": "https://www.tanjug.rs/sport/fudbal/275558/fudbaleri-radnika-trijumfovali-protiv-novog-pazara-u-sestom-kolu-superlige-srbije/vest",
       "izvor": "Танјуг",
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Hetafea savladali Rasing Santander pred utakmicu protiv Partizana",
-      "url": "https://www.tanjug.rs/sport/fudbal/275557/fudbaleri-hetafea-savladali-rasing-santander-pred-utakmicu-protiv-partizana/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 08. 2026. у 21:34",
+      "naslov": "Istorijski loš početak crno-belih: Partizan nikada slabije nije otvorio sezonu u Superligi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261455/istorijski-los-start-partizana-u-superligi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "23. 08. 2026. у 22:55",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Crvene zvezde ubedljivi protiv Čukaričkog za prvo mesto na tabeli SLS",
-      "url": "https://www.tanjug.rs/sport/fudbal/275554/fudbaleri-crvene-zvezde-ubedljivi-protiv-cukarickog-za-prvo-mesto-na-tabeli-sls/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 08. 2026. у 21:17",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Juventusa nadigrali Frozinone u prvom kolu Serije A",
-      "url": "https://www.tanjug.rs/sport/fudbal/275551/fudbaleri-juventusa-nadigrali-frozinone-u-prvom-kolu-serije-a/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 08. 2026. у 20:44",
-      "slika": null
-    },
-    {
-      "naslov": "Kataklizma Partizana u Lučanima",
+      "naslov": "Kataklizma Partizana – debakl u Lučanima i pretposlednje mesto na tabeli!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261430/uzivo-mladost-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 08. 2026. у 22:33",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda napunila mrežu Čukaričkog i mirno čeka put u Plzenj",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261407/uzivo-crvena-zvezda-cukaricki-lajv-prenos/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 08. 2026. у 21:30",
+      "datum": "23. 08. 2026. у 22:51",
       "slika": null
     }
   ]
