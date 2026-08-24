@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-24T20:45:27.590977+00:00",
-  "azurirano_sr": "24. 08. 2026. у 22:45",
+  "azurirano": "2026-08-24T21:09:35.959234+00:00",
+  "azurirano_sr": "24. 08. 2026. у 23:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Čelsiju golman može da uništi sezonu: Sreća, pa troglava aždaja već bljuje vatru",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/celsiju-golman-moze-da-unisti-sezonu-sreca-pa-troglava-azdaja-vec-bljuje-vatru/552275",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 08. 2026. у 00:58",
+      "slika": null
+    },
     {
       "naslov": "Malen je Romin melem, a Dibala fudbalska ala! Vučica pokazala moć na otvaranju sezone",
       "url": "https://www.mozzartsport.com/fudbal/vesti/malen-je-romin-melem-a-dibala-fudbalska-ala-vucica-pokazala-moc-na-otvaranju-sezone/552276",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Kakav potres u Partizanu: Svi odlaze posle Hetafea! I uprava i Saša Ilić",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kakav-potres-u-partizanu-svi-odlaze-posle-hetafea-i-uprava-i-sasa-ilic/552235",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 08. 2026. у 14:45",
+      "naslov": "Fudbaleri Rome ubedljivi protiv Fiorentine uz het-trik Malena na startu Serije A",
+      "url": "https://www.tanjug.rs/sport/fudbal/275864/fudbaleri-rome-ubedljivi-protiv-fiorentine-uz-het-trik-malena-na-startu-serije-a/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 08. 2026. у 22:40",
+      "slika": null
+    },
+    {
+      "naslov": "Eto: Infantino je promenio fudbal, podržavam plan prodaje takmičenja",
+      "url": "https://www.tanjug.rs/sport/fudbal/275859/eto-infantino-je-promenio-fudbal-podrzavam-plan-prodaje-takmicenja/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 08. 2026. у 22:12",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275846/fudbaleri-lacija-nadigrali-bolonju-u-prvom-kolu-serije-a/vest",
       "izvor": "Танјуг",
       "datum": "24. 08. 2026. у 20:37",
-      "slika": null
-    },
-    {
-      "naslov": "Južnokorejski fudbaler Je Gon Kim novo pojačanje Crvene zvezde",
-      "url": "https://www.tanjug.rs/sport/fudbal/275824/juznokorejski-fudbaler-je-gon-kim-novo-pojacanje-crvene-zvezde/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 08. 2026. у 19:16",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Barselone Gavi nije ozbiljnije povređen",
-      "url": "https://www.tanjug.rs/sport/fudbal/275730/fudbaler-barselone-gavi-nije-ozbiljnije-povreden/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 08. 2026. у 13:47",
       "slika": null
     },
     {
