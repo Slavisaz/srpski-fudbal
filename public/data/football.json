@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-24T10:20:50.286233+00:00",
-  "azurirano_sr": "24. 08. 2026. у 12:20",
+  "azurirano": "2026-08-24T10:57:00.280168+00:00",
+  "azurirano_sr": "24. 08. 2026. у 12:57",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Terem Mofi novi fudbaler Hamburgera",
+      "url": "https://www.tanjug.rs/sport/fudbal/275685/terem-mofi-novi-fudbaler-hamburgera/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 08. 2026. у 12:19",
+      "slika": null
+    },
+    {
       "naslov": "Aleksandar Čeferin: Nisam zainteresovan da se kandidujem za predsednika FIFA",
       "url": "https://www.tanjug.rs/sport/fudbal/275675/aleksandar-ceferin-nisam-zainteresovan-da-se-kandidujem-za-predsednika-fifa/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Živković strelac i dvostruki asistent u pobedi PAOK-a protiv Levadijakosa",
-      "url": "https://www.tanjug.rs/sport/fudbal/275564/zivkovic-strelac-i-dvostruki-asistent-u-pobedi-paok-a-protiv-levadijakosa/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 08. 2026. у 22:29",
+      "naslov": "Svi u Partizanu podneli ostavke!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261594/sasa-ilic-i-uprava-fk-partizan-podnose-ostavke-nakon-hetafea/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 08. 2026. у 12:39",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261585/jung-vu-seol-dogovorio-transfer-iz-crvene-zvezde-u-augsburg/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "24. 08. 2026. у 12:20",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda kupuje štopera na tri rate",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261553/juta-nakajama-dolazi-u-crvenu-zvezdu-za-11-milion-evra/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "24. 08. 2026. у 11:00",
       "slika": null
     }
   ]
