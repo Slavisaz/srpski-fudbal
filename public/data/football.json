@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-24T10:57:00.280168+00:00",
-  "azurirano_sr": "24. 08. 2026. у 12:57",
+  "azurirano": "2026-08-24T11:20:53.690913+00:00",
+  "azurirano_sr": "24. 08. 2026. у 13:20",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kakav potres u Partizanu: Svi odlaze posle Hetafea! I uprava i Saša Ilić",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kakav-potres-u-partizanu-svi-odlaze-posle-hetafea-i-uprava-i-sasa-ilic/552235",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 08. 2026. у 14:45",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (ponedeljak, 24. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-24-avgust/552221",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (nedelja, 23. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-nedelja-23-avgust/552134",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 08. 2026. у 01:09",
+      "naslov": "Uprava FK Partizan i trener Saša Ilić posle meča sa Hetafeom podnose ostavke",
+      "url": "https://www.tanjug.rs/sport/fudbal/275699/uprava-fk-partizan-i-trener-sasa-ilic-posle-meca-sa-hetafeom-podnose-ostavke/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 08. 2026. у 12:43",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275627/lopta-kojom-je-maradona-postigao-gol-rukom-na-svetskom-prvenstvu-1986-prodata-za-25-miliona-funti/vest",
       "izvor": "Танјуг",
       "datum": "24. 08. 2026. у 10:17",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Milana savladali Torino na startu Serije A",
-      "url": "https://www.tanjug.rs/sport/fudbal/275568/fudbaleri-milana-savladali-torino-na-startu-serije-a/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 08. 2026. у 22:43",
       "slika": null
     },
     {
