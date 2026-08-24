@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-24T18:52:45.591340+00:00",
-  "azurirano_sr": "24. 08. 2026. у 20:52",
+  "azurirano": "2026-08-24T19:18:48.063541+00:00",
+  "azurirano_sr": "24. 08. 2026. у 21:18",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Brazilski fudbaler Fabinjo prešao u Trabzon",
+      "url": "https://www.tanjug.rs/sport/fudbal/275847/brazilski-fudbaler-fabinjo-presao-u-trabzon/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 08. 2026. у 20:53",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Lacija nadigrali Bolonju u prvom kolu Serije A",
       "url": "https://www.tanjug.rs/sport/fudbal/275846/fudbaleri-lacija-nadigrali-bolonju-u-prvom-kolu-serije-a/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275730/fudbaler-barselone-gavi-nije-ozbiljnije-povreden/vest",
       "izvor": "Танјуг",
       "datum": "24. 08. 2026. у 13:47",
-      "slika": null
-    },
-    {
-      "naslov": "Uprava FK Partizan i trener Saša Ilić posle meča sa Hetafeom podnose ostavke",
-      "url": "https://www.tanjug.rs/sport/fudbal/275699/uprava-fk-partizan-i-trener-sasa-ilic-posle-meca-sa-hetafeom-podnose-ostavke/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 08. 2026. у 12:43",
       "slika": null
     },
     {
