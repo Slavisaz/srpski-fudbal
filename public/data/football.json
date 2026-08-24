@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-24T08:57:53.611058+00:00",
-  "azurirano_sr": "24. 08. 2026. у 10:57",
+  "azurirano": "2026-08-24T09:41:26.425445+00:00",
+  "azurirano_sr": "24. 08. 2026. у 11:41",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Zvezda kupuje štopera na tri rate",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261553/juta-nakajama-dolazi-u-crvenu-zvezdu-za-11-milion-evra/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 08. 2026. у 11:00",
+      "slika": null
+    },
+    {
       "naslov": "Ko je kriv?",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261501/partizan-u-haosu-sasa-ilic-na-izlaznim-vratima-ko-je-napravio-tim-koji-ne-lici-na-sebe/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "24. 08. 2026. у 08:52",
-      "slika": null
-    },
-    {
-      "naslov": "Održan hitan razgovor sa Lazovićem – Ilić prelomio posle debakla u Lučanima?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261468/sasa-ilic-porucio-da-odlazi-iz-partizana-ceka-se-epilog-razgovora-sa-lazovicem/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 08. 2026. у 23:37",
       "slika": null
     }
   ]
