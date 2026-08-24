@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-24T21:09:35.959234+00:00",
-  "azurirano_sr": "24. 08. 2026. у 23:09",
+  "azurirano": "2026-08-24T21:41:00.775306+00:00",
+  "azurirano_sr": "24. 08. 2026. у 23:41",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "REZZIME DANA (ponedeljak): Kup Nemače pravio probleme",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-ponedeljak-kup-nemace-pravio-probleme/552271",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 08. 2026. у 01:12",
+      "slika": null
+    },
     {
       "naslov": "Čelsiju golman može da uništi sezonu: Sreća, pa troglava aždaja već bljuje vatru",
       "url": "https://www.mozzartsport.com/fudbal/vesti/celsiju-golman-moze-da-unisti-sezonu-sreca-pa-troglava-azdaja-vec-bljuje-vatru/552275",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-24-avgust/552221",
       "izvor": "Мозарт Спорт",
       "datum": "24. 08. 2026. у 23:40",
-      "slika": null
-    },
-    {
-      "naslov": "Ne može bez Hičkoka kad igra Grafičar: Proleter ispisao istoriju u Senti",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ne-moze-bez-hickoka-kad-igra-graficar-proleter-ispisao-istoriju-u-senti/552260",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 08. 2026. у 21:22",
       "slika": null
     },
     {
