@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-24T09:41:26.425445+00:00",
-  "azurirano_sr": "24. 08. 2026. у 11:41",
+  "azurirano": "2026-08-24T10:20:50.286233+00:00",
+  "azurirano_sr": "24. 08. 2026. у 12:20",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Aleksandar Čeferin: Nisam zainteresovan da se kandidujem za predsednika FIFA",
+      "url": "https://www.tanjug.rs/sport/fudbal/275675/aleksandar-ceferin-nisam-zainteresovan-da-se-kandidujem-za-predsednika-fifa/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 08. 2026. у 11:49",
+      "slika": null
+    },
+    {
       "naslov": "Lopta kojom je Maradona postigao gol rukom na Svetskom prvenstvu 1986. prodata za 2,5 miliona funti",
       "url": "https://www.tanjug.rs/sport/fudbal/275627/lopta-kojom-je-maradona-postigao-gol-rukom-na-svetskom-prvenstvu-1986-prodata-za-25-miliona-funti/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Rijera: Video sam dosta pozitivnih stvari do sad, nastavićemo da radimo naporno",
-      "url": "https://www.tanjug.rs/sport/fudbal/275562/rijera-video-sam-dosta-pozitivnih-stvari-do-sad-nastavicemo-da-radimo-naporno/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 08. 2026. у 22:28",
+      "naslov": "Seol odlazi u Bundesligu – poznato koliko će zaraditi Zvezda",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261585/jung-vu-seol-dogovorio-transfer-iz-crvene-zvezde-u-augsburg/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 08. 2026. у 12:20",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261553/juta-nakajama-dolazi-u-crvenu-zvezdu-za-11-milion-evra/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "24. 08. 2026. у 11:00",
-      "slika": null
-    },
-    {
-      "naslov": "Ko je kriv?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261501/partizan-u-haosu-sasa-ilic-na-izlaznim-vratima-ko-je-napravio-tim-koji-ne-lici-na-sebe/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "24. 08. 2026. у 08:52",
       "slika": null
     }
   ]
