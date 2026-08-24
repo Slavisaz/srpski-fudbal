@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-24T12:15:21.900495+00:00",
-  "azurirano_sr": "24. 08. 2026. у 14:15",
+  "azurirano": "2026-08-24T13:13:21.999836+00:00",
+  "azurirano_sr": "24. 08. 2026. у 15:13",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Jedan igrač Zvezde oduševio – Stanković mu nije dao ni sekund VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261574/kristijan-balov-gol-i-asistencija-protiv-cukarickog/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 08. 2026. у 14:24",
+      "slika": null
+    },
+    {
       "naslov": "Svi u Partizanu podneli ostavke!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261594/sasa-ilic-i-uprava-fk-partizan-podnose-ostavke-nakon-hetafea/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "24. 08. 2026. у 12:39",
-      "slika": null
-    },
-    {
-      "naslov": "Seol odlazi u Bundesligu – poznato koliko će zaraditi Zvezda",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261585/jung-vu-seol-dogovorio-transfer-iz-crvene-zvezde-u-augsburg/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "24. 08. 2026. у 12:20",
       "slika": null
     }
   ]
