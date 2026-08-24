@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-24T17:12:33.515724+00:00",
-  "azurirano_sr": "24. 08. 2026. у 19:12",
+  "azurirano": "2026-08-24T17:45:21.554811+00:00",
+  "azurirano_sr": "24. 08. 2026. у 19:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ne može bez Hičkoka kad igra Grafičar: Proleter ispisao istoriju u Senti",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ne-moze-bez-hickoka-kad-igra-graficar-proleter-ispisao-istoriju-u-senti/552260",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 08. 2026. у 21:22",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (ponedeljak, 24. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-24-avgust/552221",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Zukićevo iskupljenje i Vošin trijumf protiv zarđale Dizelke",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zukicevo-iskupljenje-i-vosin-trijumf-protiv-zarale-dizelke/552203",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 08. 2026. у 01:14",
+      "naslov": "Južnokorejski fudbaler Je Gon Kim novo pojačanje Crvene zvezde",
+      "url": "https://www.tanjug.rs/sport/fudbal/275824/juznokorejski-fudbaler-je-gon-kim-novo-pojacanje-crvene-zvezde/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 08. 2026. у 19:16",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Aleksandar Čeferin: Nisam zainteresovan da se kandidujem za predsednika FIFA",
-      "url": "https://www.tanjug.rs/sport/fudbal/275675/aleksandar-ceferin-nisam-zainteresovan-da-se-kandidujem-za-predsednika-fifa/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 08. 2026. у 11:49",
+      "naslov": "Zvezda zvanično predstavila novo pojačanje!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261712/je-gon-kim-zvanicno-u-crvenoj-zvezdi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 08. 2026. у 19:15",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261667/fk-vojvodina-zeli-mateju-gasica-iz-fk-radnik-surdulica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "24. 08. 2026. у 18:45",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Uprava Partizana treba da ostane&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261699/stefan-scepovic-o-ostavci-uprave-fk-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "24. 08. 2026. у 18:15",
       "slika": null
     }
   ]
