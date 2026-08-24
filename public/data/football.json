@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-08-24T19:47:28.618733+00:00",
-  "azurirano_sr": "24. 08. 2026. у 21:47",
+  "azurirano": "2026-08-24T20:10:40.698704+00:00",
+  "azurirano_sr": "24. 08. 2026. у 22:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (ponedeljak, 24. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-24-avgust/552221",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 08. 2026. у 23:40",
+      "slika": null
+    },
     {
       "naslov": "Ne može bez Hičkoka kad igra Grafičar: Proleter ispisao istoriju u Senti",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ne-moze-bez-hickoka-kad-igra-graficar-proleter-ispisao-istoriju-u-senti/552260",
       "izvor": "Мозарт Спорт",
       "datum": "24. 08. 2026. у 21:22",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (ponedeljak, 24. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-24-avgust/552221",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 08. 2026. у 17:14",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "&quot;Grobari&quot; poslali snažnu poruku upravi: &quot;Ne prihvatamo ostavke, ne damo Partizan!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261744/saopstenje-navijaca-partizana-povodom-ostavke-uprave-kluba/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 08. 2026. у 21:54",
+      "slika": null
+    },
+    {
       "naslov": "Zvezda zvanično predstavila novo pojačanje!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261712/je-gon-kim-zvanicno-u-crvenoj-zvezdi/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "24. 08. 2026. у 19:15",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina ne staje – naciljala novo pojačanje",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261667/fk-vojvodina-zeli-mateju-gasica-iz-fk-radnik-surdulica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "24. 08. 2026. у 18:45",
       "slika": null
     }
   ]
