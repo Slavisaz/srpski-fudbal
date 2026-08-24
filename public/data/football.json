@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-24T20:10:40.698704+00:00",
-  "azurirano_sr": "24. 08. 2026. у 22:10",
+  "azurirano": "2026-08-24T20:45:27.590977+00:00",
+  "azurirano_sr": "24. 08. 2026. у 22:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Malen je Romin melem, a Dibala fudbalska ala! Vučica pokazala moć na otvaranju sezone",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/malen-je-romin-melem-a-dibala-fudbalska-ala-vucica-pokazala-moc-na-otvaranju-sezone/552276",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 08. 2026. у 00:41",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (ponedeljak, 24. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-24-avgust/552221",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/kakav-potres-u-partizanu-svi-odlaze-posle-hetafea-i-uprava-i-sasa-ilic/552235",
       "izvor": "Мозарт Спорт",
       "datum": "24. 08. 2026. у 14:45",
-      "slika": null
-    },
-    {
-      "naslov": "Raport sa srpskoligaških terena: Timočanin i Putari krenuli silovito",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-timocanin-i-putari-krenuli-silovito/552215",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 08. 2026. у 11:09",
       "slika": null
     },
     {
