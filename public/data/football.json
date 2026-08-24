@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-24T07:11:21.230159+00:00",
-  "azurirano_sr": "24. 08. 2026. у 09:11",
+  "azurirano": "2026-08-24T08:03:28.503774+00:00",
+  "azurirano_sr": "24. 08. 2026. у 10:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Raport sa srpskoligaških terena: Timočanin i Putari krenuli silovito",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-timocanin-i-putari-krenuli-silovito/552215",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 08. 2026. у 11:09",
+      "slika": null
+    },
     {
       "naslov": "Zukićevo iskupljenje i Vošin trijumf protiv zarđale Dizelke",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zukicevo-iskupljenje-i-vosin-trijumf-protiv-zarale-dizelke/552203",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/sta-uradiste-kako-ovo-promasiste-bremerov-trzaj-kupio-mir-juventusu-video/552177",
       "izvor": "Мозарт Спорт",
       "datum": "23. 08. 2026. у 22:33",
-      "slika": null
-    },
-    {
-      "naslov": "Nakajama odigrao meč za Mačidu - deluje oproštajni pred transfer u Zvezdu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nakajama-odigrao-mec-za-macidu-deluje-oprostajni-pred-transfer-u-zvezdu/552166",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 08. 2026. у 19:42",
       "slika": null
     },
     {
