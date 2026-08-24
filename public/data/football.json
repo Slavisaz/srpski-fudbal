@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-24T06:01:54.945286+00:00",
-  "azurirano_sr": "24. 08. 2026. у 08:01",
+  "azurirano": "2026-08-24T07:11:21.230159+00:00",
+  "azurirano_sr": "24. 08. 2026. у 09:11",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Ko je kriv?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261501/partizan-u-haosu-sasa-ilic-na-izlaznim-vratima-ko-je-napravio-tim-koji-ne-lici-na-sebe/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 08. 2026. у 08:52",
+      "slika": null
+    },
+    {
       "naslov": "Održan hitan razgovor sa Lazovićem – Ilić prelomio posle debakla u Lučanima?",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261468/sasa-ilic-porucio-da-odlazi-iz-partizana-ceka-se-epilog-razgovora-sa-lazovicem/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "23. 08. 2026. у 23:37",
-      "slika": null
-    },
-    {
-      "naslov": "Kataklizma Partizana u Lučanima – najgori start, beg Ilića i izvinjenje pomoćnika",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261430/uzivo-mladost-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 08. 2026. у 23:11",
       "slika": null
     }
   ]
