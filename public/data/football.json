@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-24T08:03:28.503774+00:00",
-  "azurirano_sr": "24. 08. 2026. у 10:03",
+  "azurirano": "2026-08-24T08:57:53.611058+00:00",
+  "azurirano_sr": "24. 08. 2026. у 10:57",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (ponedeljak, 24. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-ponedeljak-24-avgust/552221",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 08. 2026. у 12:05",
+      "slika": null
+    },
     {
       "naslov": "Raport sa srpskoligaških terena: Timočanin i Putari krenuli silovito",
       "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-timocanin-i-putari-krenuli-silovito/552215",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Šta uradiste, kako ovo promašiste?! Bremerov trzaj kupio mir Juventusu (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sta-uradiste-kako-ovo-promasiste-bremerov-trzaj-kupio-mir-juventusu-video/552177",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 08. 2026. у 22:33",
+      "naslov": "Lopta kojom je Maradona postigao gol rukom na Svetskom prvenstvu 1986. prodata za 2,5 miliona funti",
+      "url": "https://www.tanjug.rs/sport/fudbal/275627/lopta-kojom-je-maradona-postigao-gol-rukom-na-svetskom-prvenstvu-1986-prodata-za-25-miliona-funti/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 08. 2026. у 10:17",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275562/rijera-video-sam-dosta-pozitivnih-stvari-do-sad-nastavicemo-da-radimo-naporno/vest",
       "izvor": "Танјуг",
       "datum": "23. 08. 2026. у 22:28",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Radnika trijumfovali protiv Novog Pazara u šestom kolu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/275558/fudbaleri-radnika-trijumfovali-protiv-novog-pazara-u-sestom-kolu-superlige-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 08. 2026. у 21:45",
       "slika": null
     },
     {
