@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-25T10:15:13.847401+00:00",
-  "azurirano_sr": "25. 08. 2026. у 12:15",
+  "azurirano": "2026-08-25T10:49:45.842088+00:00",
+  "azurirano_sr": "25. 08. 2026. у 12:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dogovoreno: Voša kupila Mateju Gašića za oko 450.000 evra, ugovor na četiri godine",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dogovoreno-vosa-kupila-mateju-gasica-za-oko-450000-evra-ugovor-na-cetiri-godine/552298",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 08. 2026. у 14:26",
+      "slika": null
+    },
     {
       "naslov": "Puče bomba: Pojačanje koje se čekalo godinu dana i Sitijeva prodaja skuplja od Alvaresa",
       "url": "https://www.mozzartsport.com/fudbal/vesti/puce-bomba-pojacanje-koje-se-cekalo-godinu-dana-i-sitijeva-prodaja-skuplja-od-alvaresa/552292",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Vošin plan: Sukačev u Italiji za milione, Matija Gašić na desnom beku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vosin-plan-sukacev-u-italiji-za-milione-matija-gasic-na-desnom-beku/552287",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 08. 2026. у 12:37",
+      "naslov": "Grejam Arnold ostaje selektor fudbalske reprezentacije Iraka",
+      "url": "https://www.tanjug.rs/sport/fudbal/275950/grejam-arnold-ostaje-selektor-fudbalske-reprezentacije-iraka/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 08. 2026. у 12:20",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275859/eto-infantino-je-promenio-fudbal-podrzavam-plan-prodaje-takmicenja/vest",
       "izvor": "Танјуг",
       "datum": "24. 08. 2026. у 22:12",
-      "slika": null
-    },
-    {
-      "naslov": "Brazilski fudbaler Fabinjo prešao u Trabzon",
-      "url": "https://www.tanjug.rs/sport/fudbal/275847/brazilski-fudbaler-fabinjo-presao-u-trabzon/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 08. 2026. у 20:53",
       "slika": null
     },
     {
