@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-25T12:01:10.859046+00:00",
-  "azurirano_sr": "25. 08. 2026. у 14:01",
+  "azurirano": "2026-08-25T12:56:05.022073+00:00",
+  "azurirano_sr": "25. 08. 2026. у 14:56",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Transfer koji je Humska čekala: Ognjen Ugrešić ide u PAOK za 7.500.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transfer-koji-je-humska-cekala-ognjen-ugresic-ide-u-paok-za-7500000-evra/552307",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 08. 2026. у 16:32",
+      "slika": null
+    },
     {
       "naslov": "Dogovoreno: Vojvodina kupila Mateju Gašića za oko 450.000 evra, ugovor na četiri godine",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dogovoreno-vojvodina-kupila-mateju-gasica-za-oko-450000-evra-ugovor-na-cetiri-godine/552298",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/skolovanje-u-evertonu-nije-garancija-cuka-raskrstila-sa-kobijem-ebereom/552291",
       "izvor": "Мозарт Спорт",
       "datum": "25. 08. 2026. у 13:41",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (utorak, 25. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-25-avgust/552281",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 08. 2026. у 13:34",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Grci tvrde: &quot;Ugrešić vrlo blizu potpisa&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261915/grci-tvrde-ugresic-vrlo-blizu-potpisa/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 08. 2026. у 14:46",
+      "slika": null
+    },
+    {
       "naslov": "Oglasio se Rasim Ljajić: &quot;Ne želimo da se krijemo iza bilo koga!&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261781/rasim-ljajic-posle-najavljenih-ostavki-u-fudbalskom-klubu-partizan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 08. 2026. у 08:05",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Partizanove &#039;Miki Maus&#039; kombinacije – eno je kapija, da vas ne vidim više!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261776/ivan-golac-o-aktuelnoj-situaciji-u-fudbalskom-klubu-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 08. 2026. у 07:52",
       "slika": null
     }
   ]
