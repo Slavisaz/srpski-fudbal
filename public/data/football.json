@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-25T12:56:05.022073+00:00",
-  "azurirano_sr": "25. 08. 2026. у 14:56",
+  "azurirano": "2026-08-25T13:41:04.996857+00:00",
+  "azurirano_sr": "25. 08. 2026. у 15:41",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Murinjo: Želim da pomognem Vinisijusu da bolje kontroliše svoje emocije",
+      "url": "https://www.tanjug.rs/sport/fudbal/275990/murinjo-zelim-da-pomognem-vinisijusu-da-bolje-kontrolise-svoje-emocije/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 08. 2026. у 14:54",
+      "slika": null
+    },
+    {
       "naslov": "Robert Prosinečki nije više selektor fudbalske reprezentacije Kirgistana",
       "url": "https://www.tanjug.rs/sport/fudbal/275956/robert-prosinecki-nije-vise-selektor-fudbalske-reprezentacije-kirgistana/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Rome ubedljivi protiv Fiorentine uz het-trik Malena na startu Serije A",
-      "url": "https://www.tanjug.rs/sport/fudbal/275864/fudbaleri-rome-ubedljivi-protiv-fiorentine-uz-het-trik-malena-na-startu-serije-a/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 08. 2026. у 22:40",
+      "naslov": "Prosinečki odlazi bez ijedne zvanične utakmice",
+      "url": "https://www.b92.net/sport/fudbal/vesti/261871/robert-prosinecki-vise-nije-selektor-kirgistana/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "25. 08. 2026. у 12:30",
       "slika": null
     },
     {
-      "naslov": "Grci tvrde: &quot;Ugrešić vrlo blizu potpisa&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261915/grci-tvrde-ugresic-vrlo-blizu-potpisa/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 08. 2026. у 14:46",
-      "slika": null
-    },
-    {
-      "naslov": "Oglasio se Rasim Ljajić: &quot;Ne želimo da se krijemo iza bilo koga!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261781/rasim-ljajic-posle-najavljenih-ostavki-u-fudbalskom-klubu-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 08. 2026. у 08:05",
+      "naslov": "Majstorija Edina Džeka u prvoj utakmici posle Mundijala VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/261833/edin-dzeko-imao-gol-i-asistenciju-u-pobedi-salkea-nad-haleserom-u-kupu-nemacke/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "25. 08. 2026. у 12:21",
       "slika": null
     }
   ]
