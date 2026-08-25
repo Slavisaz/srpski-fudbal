@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-25T07:11:34.795174+00:00",
-  "azurirano_sr": "25. 08. 2026. у 09:11",
+  "azurirano": "2026-08-25T07:56:10.129937+00:00",
+  "azurirano_sr": "25. 08. 2026. у 09:56",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (utorak, 25. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-25-avgust/552281",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 08. 2026. у 11:43",
+      "slika": null
+    },
     {
       "naslov": "Najava dana (utorak, 25. avgust): Od kvalifikacija za Ligu šampiona, preko Primere, do ostrvskog fudbala",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-25-avgust-od-kvalifikacija-za-ligu-sampiona-preko-primere-do-ostrvskog-fudbala/552242",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/celsiju-golman-moze-da-unisti-sezonu-sreca-pa-troglava-azdaja-vec-bljuje-vatru/552275",
       "izvor": "Мозарт Спорт",
       "datum": "25. 08. 2026. у 00:58",
-      "slika": null
-    },
-    {
-      "naslov": "Malen je Romin melem, a Dibala fudbalska ala! Vučica pokazala moć na otvaranju sezone",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/malen-je-romin-melem-a-dibala-fudbalska-ala-vucica-pokazala-moc-na-otvaranju-sezone/552276",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 08. 2026. у 00:41",
       "slika": null
     },
     {
