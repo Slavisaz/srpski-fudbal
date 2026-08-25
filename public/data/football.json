@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-25T18:01:33.358752+00:00",
-  "azurirano_sr": "25. 08. 2026. у 20:01",
+  "azurirano": "2026-08-25T18:47:02.125532+00:00",
+  "azurirano_sr": "25. 08. 2026. у 20:47",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Šta rade Englezi: Tri gola za Čelsi i puče rekord?! Forest kupuje špica za 58.000.000",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sta-rade-englezi-tri-gola-za-celsi-i-puce-rekord-forest-kupuje-spica-za-58000000/552329",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 08. 2026. у 22:29",
+      "slika": null
+    },
     {
       "naslov": "Zvanična potvrda iz Partizana: Ugrešićev transfer završen, može da dostigne 8.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicna-potvrda-iz-partizana-ugresicev-transfer-zavrsen-moze-da-dostigne-8000000-evra/552324",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/potvrda-dobrih-odnosa-partizan-protiv-paoka-na-tumbi/552311",
       "izvor": "Мозарт Спорт",
       "datum": "25. 08. 2026. у 18:12",
-      "slika": null
-    },
-    {
-      "naslov": "Transfer koji je Humska čekala: Ognjen Ugrešić ide u PAOK za 7.500.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transfer-koji-je-humska-cekala-ognjen-ugresic-ide-u-paok-za-7500000-evra/552307",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 08. 2026. у 16:32",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Ugrešić ide u &quot;bratski&quot; klub – ovo su detalji transfera",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262012/ognjen-ugresic-ide-u-paok-za-615-miliona/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 08. 2026. у 20:29",
+      "slika": null
+    },
+    {
       "naslov": "Nove informacije – šta se dešava u Humskoj: Sastančili Ilić i čelnici Partizana",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261934/nove-informacije-sta-se-desava-u-humskoj-sastancili-ilic-i-celnici-partizana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 08. 2026. у 15:50",
-      "slika": null
-    },
-    {
-      "naslov": "Stižu milioni u Humsku?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/261915/grci-tvrde-ugresic-vrlo-blizu-potpisa-za-paok/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 08. 2026. у 14:46",
       "slika": null
     }
   ]
