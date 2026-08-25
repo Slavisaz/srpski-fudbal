@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-25T19:47:54.776724+00:00",
-  "azurirano_sr": "25. 08. 2026. у 21:47",
+  "azurirano": "2026-08-25T20:03:43.011495+00:00",
+  "azurirano_sr": "25. 08. 2026. у 22:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nova reč za fudbalsko čudo - Sabah! Veljko Simić u Ligi šampiona, Ber Ševa ispustila 2:1 u Bakuu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nova-rec-za-fudbalsko-cudo-sabah-veljko-simic-u-ligi-sampiona-ber-seva-ispustila-21-u-bakuu/552334",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 08. 2026. у 23:20",
+      "slika": null
+    },
     {
       "naslov": "Da se zaboravi Jan Diomande: Lajpcigov posao leta – povratak Enkunkua, sada duplo jeftinijeg",
       "url": "https://www.mozzartsport.com/fudbal/vesti/da-se-zaboravi-jan-diomande-lajpcigov-posao-leta-povratak-enkunkua-sada-duplo-jeftinijeg/552333",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (utorak, 25. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-25-avgust/552281",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 08. 2026. у 22:41",
+      "naslov": "Fudbaleri azerbejdžanskog Sabaha se prvi put u istoriji plasirali u Ligu šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/276110/fudbaleri-azerbejdzanskog-sabaha-se-prvi-put-u-istoriji-plasirali-u-ligu-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 08. 2026. у 21:32",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/276059/najmanje-cetvrtina-bivsih-nfl-igraca-preminulih-u-periodu-2016-2021-imala-cte/vest",
       "izvor": "Танјуг",
       "datum": "25. 08. 2026. у 17:56",
-      "slika": null
-    },
-    {
-      "naslov": "FSCG: Disciplinski postupak protiv FK Zeta zbog nesportskog ponašanja navijača",
-      "url": "https://www.tanjug.rs/sport/fudbal/276044/fscg-disciplinski-postupak-protiv-fk-zeta-zbog-nesportskog-ponasanja-navijaca/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 08. 2026. у 17:25",
       "slika": null
     },
     {
