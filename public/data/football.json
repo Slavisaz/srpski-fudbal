@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-25T09:09:48.916951+00:00",
-  "azurirano_sr": "25. 08. 2026. у 11:09",
+  "azurirano": "2026-08-25T09:48:46.652130+00:00",
+  "azurirano_sr": "25. 08. 2026. у 11:48",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Brazilski fudbaler Savinjo potpisao ugovor sa Totenhemom",
+      "url": "https://www.tanjug.rs/sport/fudbal/275936/brazilski-fudbaler-savinjo-potpisao-ugovor-sa-totenhemom/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 08. 2026. у 11:22",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Rome ubedljivi protiv Fiorentine uz het-trik Malena na startu Serije A",
       "url": "https://www.tanjug.rs/sport/fudbal/275864/fudbaleri-rome-ubedljivi-protiv-fiorentine-uz-het-trik-malena-na-startu-serije-a/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275847/brazilski-fudbaler-fabinjo-presao-u-trabzon/vest",
       "izvor": "Танјуг",
       "datum": "24. 08. 2026. у 20:53",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Lacija nadigrali Bolonju u prvom kolu Serije A",
-      "url": "https://www.tanjug.rs/sport/fudbal/275846/fudbaleri-lacija-nadigrali-bolonju-u-prvom-kolu-serije-a/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 08. 2026. у 20:37",
       "slika": null
     },
     {
