@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-25T08:31:58.552468+00:00",
-  "azurirano_sr": "25. 08. 2026. у 10:31",
+  "azurirano": "2026-08-25T09:09:48.916951+00:00",
+  "azurirano_sr": "25. 08. 2026. у 11:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Vošin plan: Sukačev u Italiji za milione, Matija Gašić na desnom beku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vosin-plan-sukacev-u-italiji-za-milione-matija-gasic-na-desnom-beku/552287",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 08. 2026. у 12:37",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (utorak, 25. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-25-avgust/552281",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-ponedeljak-kup-nemace-pravio-probleme/552271",
       "izvor": "Мозарт Спорт",
       "datum": "25. 08. 2026. у 01:12",
-      "slika": null
-    },
-    {
-      "naslov": "Čelsiju golman može da uništi sezonu: Sreća, pa troglava aždaja već bljuje vatru",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/celsiju-golman-moze-da-unisti-sezonu-sreca-pa-troglava-azdaja-vec-bljuje-vatru/552275",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 08. 2026. у 00:58",
       "slika": null
     },
     {
