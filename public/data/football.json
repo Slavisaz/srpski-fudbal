@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-25T06:18:35.243055+00:00",
-  "azurirano_sr": "25. 08. 2026. у 08:18",
+  "azurirano": "2026-08-25T07:11:34.795174+00:00",
+  "azurirano_sr": "25. 08. 2026. у 09:11",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Najava dana (utorak, 25. avgust): Od kvalifikacija za Ligu šampiona, preko Primere, do ostrvskog fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-25-avgust-od-kvalifikacija-za-ligu-sampiona-preko-primere-do-ostrvskog-fudbala/552242",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 08. 2026. у 10:15",
+      "slika": null
+    },
     {
       "naslov": "REZZIME DANA (ponedeljak): Kup Nemače pravio probleme",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-ponedeljak-kup-nemace-pravio-probleme/552271",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/malen-je-romin-melem-a-dibala-fudbalska-ala-vucica-pokazala-moc-na-otvaranju-sezone/552276",
       "izvor": "Мозарт Спорт",
       "datum": "25. 08. 2026. у 00:41",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI (ponedeljak, 24. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-ponedeljak-24-avgust/552221",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 08. 2026. у 23:40",
       "slika": null
     },
     {
