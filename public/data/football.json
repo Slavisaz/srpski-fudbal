@@ -1,20 +1,20 @@
 {
-  "azurirano": "2026-08-25T15:11:18.227696+00:00",
-  "azurirano_sr": "25. 08. 2026. у 17:11",
+  "azurirano": "2026-08-25T15:57:26.074789+00:00",
+  "azurirano_sr": "25. 08. 2026. у 17:57",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (utorak, 25. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-25-avgust/552281",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 08. 2026. у 18:57",
+      "slika": null
+    },
     {
       "naslov": "Potvrda dobrih odnosa: Partizan protiv PAOK-a na Tumbi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/potvrda-dobrih-odnosa-partizan-protiv-paoka-na-tumbi/552311",
       "izvor": "Мозарт Спорт",
       "datum": "25. 08. 2026. у 18:12",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (utorak, 25. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-25-avgust/552281",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 08. 2026. у 18:06",
       "slika": null
     },
     {
@@ -29,6 +29,13 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/dogovoreno-vojvodina-kupila-mateju-gasica-za-oko-450000-evra-ugovor-na-cetiri-godine/552298",
       "izvor": "Мозарт Спорт",
       "datum": "25. 08. 2026. у 14:26",
+      "slika": null
+    },
+    {
+      "naslov": "FSCG: Disciplinski postupak protiv FK Zeta zbog nesportskog ponašanja navijača",
+      "url": "https://www.tanjug.rs/sport/fudbal/276044/fscg-disciplinski-postupak-protiv-fk-zeta-zbog-nesportskog-ponasanja-navijaca/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 08. 2026. у 17:25",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275950/grejam-arnold-ostaje-selektor-fudbalske-reprezentacije-iraka/vest",
       "izvor": "Танјуг",
       "datum": "25. 08. 2026. у 12:20",
-      "slika": null
-    },
-    {
-      "naslov": "Brazilski fudbaler Savinjo potpisao ugovor sa Totenhemom",
-      "url": "https://www.tanjug.rs/sport/fudbal/275936/brazilski-fudbaler-savinjo-potpisao-ugovor-sa-totenhemom/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 08. 2026. у 11:22",
       "slika": null
     },
     {
