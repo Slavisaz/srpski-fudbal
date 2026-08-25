@@ -1,13 +1,13 @@
 {
-  "azurirano": "2026-08-25T16:30:39.317557+00:00",
-  "azurirano_sr": "25. 08. 2026. у 18:30",
+  "azurirano": "2026-08-25T17:06:02.910033+00:00",
+  "azurirano_sr": "25. 08. 2026. у 19:06",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (utorak, 25. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-utorak-25-avgust/552281",
       "izvor": "Мозарт Спорт",
-      "datum": "25. 08. 2026. у 18:57",
+      "datum": "25. 08. 2026. у 20:49",
       "slika": null
     },
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Kamerunski fudbaler Karlos Baleba potpisao za Mančester Junajted",
+      "url": "https://www.tanjug.rs/sport/fudbal/276064/kamerunski-fudbaler-karlos-baleba-potpisao-za-mancester-junajted/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 08. 2026. у 18:17",
+      "slika": null
+    },
+    {
+      "naslov": "Najmanje četvrtina bivših NFL igrača preminulih u periodu 2016–2021 imala CTE",
+      "url": "https://www.tanjug.rs/sport/fudbal/276059/najmanje-cetvrtina-bivsih-nfl-igraca-preminulih-u-periodu-2016-2021-imala-cte/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 08. 2026. у 17:56",
+      "slika": null
+    },
+    {
       "naslov": "FSCG: Disciplinski postupak protiv FK Zeta zbog nesportskog ponašanja navijača",
       "url": "https://www.tanjug.rs/sport/fudbal/276044/fscg-disciplinski-postupak-protiv-fk-zeta-zbog-nesportskog-ponasanja-navijaca/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/275990/murinjo-zelim-da-pomognem-vinisijusu-da-bolje-kontrolise-svoje-emocije/vest",
       "izvor": "Танјуг",
       "datum": "25. 08. 2026. у 14:54",
-      "slika": null
-    },
-    {
-      "naslov": "Robert Prosinečki nije više selektor fudbalske reprezentacije Kirgistana",
-      "url": "https://www.tanjug.rs/sport/fudbal/275956/robert-prosinecki-nije-vise-selektor-fudbalske-reprezentacije-kirgistana/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 08. 2026. у 12:42",
-      "slika": null
-    },
-    {
-      "naslov": "Grejam Arnold ostaje selektor fudbalske reprezentacije Iraka",
-      "url": "https://www.tanjug.rs/sport/fudbal/275950/grejam-arnold-ostaje-selektor-fudbalske-reprezentacije-iraka/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 08. 2026. у 12:20",
       "slika": null
     },
     {
