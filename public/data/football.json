@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-26T07:50:33.726663+00:00",
-  "azurirano_sr": "26. 08. 2026. у 09:50",
+  "azurirano": "2026-08-26T08:25:04.162280+00:00",
+  "azurirano_sr": "26. 08. 2026. у 10:25",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Težak posao čeka Dinamo: Viking kod kuće – 13 pobeda na poslednjih 14 mečeva",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tezak-posao-ceka-dinamo-viking-kod-kuce-13-pobeda-na-poslednjih-14-meceva/552352",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 08. 2026. у 11:57",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 26. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-26-avgust/552351",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/nova-rec-za-fudbalsko-cudo-sabah-veljko-simic-u-ligi-sampiona-ber-seva-ispustila-21-u-bakuu/552334",
       "izvor": "Мозарт Спорт",
       "datum": "25. 08. 2026. у 23:20",
-      "slika": null
-    },
-    {
-      "naslov": "Da se zaboravi Jan Diomande: Lajpcigov posao leta – povratak Enkunkua, sada duplo jeftinijeg",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/da-se-zaboravi-jan-diomande-lajpcigov-posao-leta-povratak-enkunkua-sada-duplo-jeftinijeg/552333",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 08. 2026. у 23:07",
       "slika": null
     },
     {
@@ -60,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Rasim Ljajić: &quot;Čujemo &#039;Država im je dala 23 miliona evra&#039;, a naš budžet 13 miliona&quot;",
+      "naslov": "Rasim Ljajić: &quot;Ne mogu da dam konačan odgovor da li ostajemo – ako se niko ne javi...&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262100/ljajic-otkrio-sta-ce-biti-sa-ostavkama-u-partizanu-ako-se-niko-ne-pojavi/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 08. 2026. у 09:42",
+      "datum": "26. 08. 2026. у 09:50",
       "slika": null
     },
     {
