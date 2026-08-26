@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-26T08:25:04.162280+00:00",
-  "azurirano_sr": "26. 08. 2026. у 10:25",
+  "azurirano": "2026-08-26T09:07:32.091085+00:00",
+  "azurirano_sr": "26. 08. 2026. у 11:07",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Darko Kovačević o nesuđenom transferu u Real Madrid, koji veoma podseća na Rodrijev",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/darko-kovacevic-o-nesuenom-transferu-u-real-madrid-koji-veoma-podseca-na-rodrijev/552356",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 08. 2026. у 12:43",
+      "slika": null
+    },
     {
       "naslov": "Težak posao čeka Dinamo: Viking kod kuće – 13 pobeda na poslednjih 14 mečeva",
       "url": "https://www.mozzartsport.com/fudbal/vesti/tezak-posao-ceka-dinamo-viking-kod-kuce-13-pobeda-na-poslednjih-14-meceva/552352",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Nova reč za fudbalsko čudo - Sabah! Veljko Simić u Ligi šampiona, Ber Ševa ispustila 2:1 u Bakuu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nova-rec-za-fudbalsko-cudo-sabah-veljko-simic-u-ligi-sampiona-ber-seva-ispustila-21-u-bakuu/552334",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 08. 2026. у 23:20",
+      "naslov": "Srpski fudbaler Dejan Joveljić novo pojačanje Sijetla",
+      "url": "https://www.tanjug.rs/sport/fudbal/276179/srpski-fudbaler-dejan-joveljic-novo-pojacanje-sijetla/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 08. 2026. у 10:55",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Kamerunski fudbaler Karlos Baleba potpisao za Mančester Junajted",
-      "url": "https://www.tanjug.rs/sport/fudbal/276064/kamerunski-fudbaler-karlos-baleba-potpisao-za-mancester-junajted/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 08. 2026. у 18:17",
+      "naslov": "Velika dilema u Humskoj pred Hetafe",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262117/radosav-petrovic-o-statusu-ognjena-ugresica-za-hetafe/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 08. 2026. у 10:40",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262100/ljajic-otkrio-sta-ce-biti-sa-ostavkama-u-partizanu-ako-se-niko-ne-pojavi/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "26. 08. 2026. у 09:50",
-      "slika": null
-    },
-    {
-      "naslov": "Konačno lepa vest za Partizan",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262003/mario-jurcevic-poceo-sa-individualnim-trenizima/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 08. 2026. у 09:38",
       "slika": null
     }
   ]
