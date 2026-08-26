@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-26T09:53:21.314139+00:00",
-  "azurirano_sr": "26. 08. 2026. у 11:53",
+  "azurirano": "2026-08-26T10:20:51.529511+00:00",
+  "azurirano_sr": "26. 08. 2026. у 12:20",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Trener Zvezde Albert Rijera poveo 23 fudbalera na meč protiv Viktorije Plzenj",
+      "url": "https://www.tanjug.rs/sport/fudbal/276192/trener-zvezde-albert-rijera-poveo-23-fudbalera-na-mec-protiv-viktorije-plzenj/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 08. 2026. у 11:48",
+      "slika": null
+    },
+    {
       "naslov": "Saša Ilić: Rasprodat stadion i energija navijača nam daju nadu da možemo da uđemo u Ligu konferencije",
       "url": "https://www.tanjug.rs/sport/fudbal/276184/sasa-ilic-rasprodat-stadion-i-energija-navijaca-nam-daju-nadu-da-mozemo-da-udemo-u-ligu-konferencije/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri azerbejdžanskog Sabaha se prvi put u istoriji plasirali u Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/276110/fudbaleri-azerbejdzanskog-sabaha-se-prvi-put-u-istoriji-plasirali-u-ligu-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 08. 2026. у 21:32",
+      "naslov": "Plavšić u Železničaru: &quot;Rekli su da nisam za seniorski fudbal, a onda...&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262141/srdjan-plavsic-intervju-po-dolasku-u-zeleznicar-pancevo-video/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 08. 2026. у 12:12",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262117/radosav-petrovic-o-statusu-ognjena-ugresica-za-hetafe/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "26. 08. 2026. у 10:40",
-      "slika": null
-    },
-    {
-      "naslov": "Rasim Ljajić: &quot;Ne mogu da dam konačan odgovor da li ostajemo – ako se niko ne javi...&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262100/ljajic-otkrio-sta-ce-biti-sa-ostavkama-u-partizanu-ako-se-niko-ne-pojavi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 08. 2026. у 09:50",
       "slika": null
     }
   ]
