@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-26T16:11:25.543508+00:00",
-  "azurirano_sr": "26. 08. 2026. у 18:11",
+  "azurirano": "2026-08-26T16:57:14.468758+00:00",
+  "azurirano_sr": "26. 08. 2026. у 18:57",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Srpska bokserka Sara Ćirković osvojila bronzanu medalju na Mediteranskim igrama",
+      "url": "https://www.tanjug.rs/sport/fudbal/276320/srpska-bokserka-sara-cirkovic-osvojila-bronzanu-medalju-na-mediteranskim-igrama/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 08. 2026. у 18:22",
+      "slika": null
+    },
+    {
       "naslov": "Fudbalski savez Italije javno povukao podršku predsedniku FIFA Đaniju Infantinu",
       "url": "https://www.tanjug.rs/sport/fudbal/276281/fudbalski-savez-italije-javno-povukao-podrsku-predsedniku-fifa-daniju-infantinu/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/276225/uefa-novcano-kaznila-hajduk-i-rijeku-zbog-incidenata-navijaca/vest",
       "izvor": "Танјуг",
       "datum": "26. 08. 2026. у 13:50",
-      "slika": null
-    },
-    {
-      "naslov": "Trener Zvezde Albert Rijera poveo 23 fudbalera na meč protiv Viktorije Plzenj",
-      "url": "https://www.tanjug.rs/sport/fudbal/276192/trener-zvezde-albert-rijera-poveo-23-fudbalera-na-mec-protiv-viktorije-plzenj/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 08. 2026. у 11:48",
       "slika": null
     },
     {
