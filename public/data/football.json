@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-26T18:53:41.980745+00:00",
-  "azurirano_sr": "26. 08. 2026. у 20:53",
+  "azurirano": "2026-08-26T21:18:49.682960+00:00",
+  "azurirano_sr": "26. 08. 2026. у 23:18",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dinamo opet vodio i opet se ugasio - još jedna velika noć norveškog fudbala (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dinamo-opet-vodio-i-opet-se-ugasio-jos-jedna-velika-noc-norveskog-fudbala-video/552409",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 08. 2026. у 01:02",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 26. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-26-avgust/552351",
@@ -25,38 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Austrijanci ne spavaju mirno: Srbija krenula po klinca koga je hvalio Venger",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/austrijanci-ne-spavaju-mirno-srbija-krenula-po-klinca-koga-je-hvalio-venger/552385",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 08. 2026. у 18:26",
+      "naslov": "Fudbaleri Al Ahlija obezbedili plasman u četvrtfinale FIFA Interkontinentalnog kupa",
+      "url": "https://www.tanjug.rs/sport/fudbal/276361/fudbaleri-al-ahlija-obezbedili-plasman-u-cetvrtfinale-fifa-interkontinentalnog-kupa/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 08. 2026. у 22:04",
       "slika": null
     },
     {
-      "naslov": "Rijera: Igrači žele da ponove dobru igru, ubeđeni smo da ćemo odigrati sjajan meč",
-      "url": "https://www.tanjug.rs/sport/fudbal/276329/rijera-igraci-zele-da-ponove-dobru-igru-ubedeni-smo-da-cemo-odigrati-sjajan-mec/vest",
+      "naslov": "Bordalas: Biće uzbudljivo i energično pred krcatim tribinama",
+      "url": "https://www.tanjug.rs/sport/fudbal/276360/bordalas-bice-uzbudljivo-i-energicno-pred-krcatim-tribinama/vest",
       "izvor": "Танјуг",
-      "datum": "26. 08. 2026. у 19:03",
+      "datum": "26. 08. 2026. у 21:52",
       "slika": null
     },
     {
-      "naslov": "Srpska bokserka Sara Ćirković osvojila bronzanu medalju na Mediteranskim igrama",
-      "url": "https://www.tanjug.rs/sport/fudbal/276320/srpska-bokserka-sara-cirkovic-osvojila-bronzanu-medalju-na-mediteranskim-igrama/vest",
+      "naslov": "Fudbaleri Hartsa eliminisali bečki Rapid na penale i plasirali se u Ligu konferencija",
+      "url": "https://www.tanjug.rs/sport/fudbal/276356/fudbaleri-hartsa-eliminisali-becki-rapid-na-penale-i-plasirali-se-u-ligu-konferencija/vest",
       "izvor": "Танјуг",
-      "datum": "26. 08. 2026. у 18:22",
+      "datum": "26. 08. 2026. у 21:42",
       "slika": null
     },
     {
-      "naslov": "Fudbalski savez Italije javno povukao podršku predsedniku FIFA Đaniju Infantinu",
-      "url": "https://www.tanjug.rs/sport/fudbal/276281/fudbalski-savez-italije-javno-povukao-podrsku-predsedniku-fifa-daniju-infantinu/vest",
+      "naslov": "Španski fudbaler Niko Gonzales potpisao za Njukasl",
+      "url": "https://www.tanjug.rs/sport/fudbal/276352/spanski-fudbaler-niko-gonzales-potpisao-za-njukasl/vest",
       "izvor": "Танјуг",
-      "datum": "26. 08. 2026. у 16:39",
+      "datum": "26. 08. 2026. у 21:08",
       "slika": null
     },
     {
-      "naslov": "Francuski fudbaler Aleks Disasi prešao na pozajmicu u Kristal Palas",
-      "url": "https://www.tanjug.rs/sport/fudbal/276252/francuski-fudbaler-aleks-disasi-presao-na-pozajmicu-u-kristal-palas/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 08. 2026. у 15:25",
+      "naslov": "Zvezda čeka još jedno pojačanje iz Azije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262232/juta-nakajama-se-oprostio-od-kluba-i-krenuo-ka-srbiji/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 08. 2026. у 21:55",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262288/grobari-na-treningu-partizana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "26. 08. 2026. у 20:00",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski reprezentativac odbio Zvezdu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262243/petar-ratkov-odbio-crvenu-zvezdu-mogao-bi-u-spaniju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 08. 2026. у 17:00",
       "slika": null
     }
   ]
