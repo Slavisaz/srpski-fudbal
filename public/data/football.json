@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-08-26T13:18:35.190577+00:00",
-  "azurirano_sr": "26. 08. 2026. у 15:18",
+  "azurirano": "2026-08-26T14:06:34.546097+00:00",
+  "azurirano_sr": "26. 08. 2026. у 16:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Potvrda transfera u Zvezdu: Nakajama se oprostio od Mačide i krenuo put Beograda",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/potvrda-transfera-u-zvezdu-nakajama-se-oprostio-od-macide-i-krenuo-put-beograda/552383",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 08. 2026. у 17:43",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (sreda, 26. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-26-avgust/552351",
       "izvor": "Мозарт Спорт",
-      "datum": "26. 08. 2026. у 15:28",
+      "datum": "26. 08. 2026. у 17:16",
       "slika": null
     },
     {
-      "naslov": "Zvanično: Najskuplji tinejdžer u istoriji Premijer lige",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-najskuplji-tinejdzer-u-istoriji-premijer-lige/552371",
+      "naslov": "Kao s kraja 20. veka: Tore Andre Flo odoleva već 26 godina, ali Rendžers se opasno zaleteo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kao-s-kraja-20-veka-tore-andre-flo-odoleva-vec-26-godina-ali-rendzers-se-opasno-zaleteo/552382",
       "izvor": "Мозарт Спорт",
-      "datum": "26. 08. 2026. у 15:18",
+      "datum": "26. 08. 2026. у 17:14",
       "slika": null
     },
     {
-      "naslov": "Pada transfer rekord koji je nadživeo i uvođenje evra: Olimpijakos dovodi igrača skupljeg od Zahovića!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pada-transfer-rekord-koji-je-nadziveo-i-uvoenje-evra-olimpijakos-dovodi-igraca-skupljeg-od-zahovica/552368",
+      "naslov": "Sičendže preti posrnulom Totenhemu: Sve je moguće",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sicendze-preti-posrnulom-totenhemu-sve-je-moguce/552381",
       "izvor": "Мозарт Спорт",
-      "datum": "26. 08. 2026. у 14:28",
+      "datum": "26. 08. 2026. у 17:13",
       "slika": null
     },
     {
-      "naslov": "Srbin na ceni u Češkoj: Sparta bacila oko na Nemanju Tekijaškog",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-na-ceni-u-ceskoj-sparta-bacila-oko-na-nemanju-tekijaskog/552366",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 08. 2026. у 14:24",
+      "naslov": "Francuski fudbaler Aleks Disasi prešao na pozajmicu u Kristal Palas",
+      "url": "https://www.tanjug.rs/sport/fudbal/276252/francuski-fudbaler-aleks-disasi-presao-na-pozajmicu-u-kristal-palas/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 08. 2026. у 15:25",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/276184/sasa-ilic-rasprodat-stadion-i-energija-navijaca-nam-daju-nadu-da-mozemo-da-udemo-u-ligu-konferencije/vest",
       "izvor": "Танјуг",
       "datum": "26. 08. 2026. у 11:39",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Dejan Joveljić novo pojačanje Sijetla",
-      "url": "https://www.tanjug.rs/sport/fudbal/276179/srpski-fudbaler-dejan-joveljic-novo-pojacanje-sijetla/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 08. 2026. у 10:55",
       "slika": null
     },
     {
