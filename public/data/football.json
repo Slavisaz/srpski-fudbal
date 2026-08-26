@@ -1,13 +1,27 @@
 {
-  "azurirano": "2026-08-26T14:56:32.437719+00:00",
-  "azurirano_sr": "26. 08. 2026. у 16:56",
+  "azurirano": "2026-08-26T16:11:25.543508+00:00",
+  "azurirano_sr": "26. 08. 2026. у 18:11",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (sreda, 26. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-26-avgust/552351",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 08. 2026. у 19:00",
+      "slika": null
+    },
     {
       "naslov": "Panatinaikos prihvatio ponudu, Pantović mora da se izjasni do nedelje",
       "url": "https://www.mozzartsport.com/fudbal/vesti/panatinaikos-prihvatio-ponudu-pantovic-mora-da-se-izjasni-do-nedelje/552390",
       "izvor": "Мозарт Спорт",
       "datum": "26. 08. 2026. у 18:44",
+      "slika": null
+    },
+    {
+      "naslov": "Nikad dosadno na Bridžu: Čelsiju ponuđena \"jedinica\" umesto Sančeza - Dibu Martinez",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nikad-dosadno-na-bridzu-celsiju-ponuena-jedinica-umesto-sanceza-dibu-martinez/552388",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 08. 2026. у 18:43",
       "slika": null
     },
     {
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Kreće Interkontinentalni kup: Prvak Azije protiv najboljeg tima Okeanije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/krece-interkontinentalni-kup-prvak-azije-protiv-najboljeg-tima-okeanije/552386",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 08. 2026. у 18:16",
-      "slika": null
-    },
-    {
-      "naslov": "Potvrda transfera u Zvezdu: Nakajama se oprostio od Mačide i krenuo put Beograda",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/potvrda-transfera-u-zvezdu-nakajama-se-oprostio-od-macide-i-krenuo-put-beograda/552383",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 08. 2026. у 17:43",
+      "naslov": "Fudbalski savez Italije javno povukao podršku predsedniku FIFA Đaniju Infantinu",
+      "url": "https://www.tanjug.rs/sport/fudbal/276281/fudbalski-savez-italije-javno-povukao-podrsku-predsedniku-fifa-daniju-infantinu/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 08. 2026. у 16:39",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Saša Ilić: Rasprodat stadion i energija navijača nam daju nadu da možemo da uđemo u Ligu konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/276184/sasa-ilic-rasprodat-stadion-i-energija-navijaca-nam-daju-nadu-da-mozemo-da-udemo-u-ligu-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 08. 2026. у 11:39",
+      "naslov": "Srpski reprezentativac odbio Zvezdu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262243/petar-ratkov-odbio-crvenu-zvezdu-mogao-bi-u-spaniju/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 08. 2026. у 17:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262141/srdjan-plavsic-intervju-po-dolasku-u-zeleznicar-pancevo-video/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "26. 08. 2026. у 12:12",
-      "slika": null
-    },
-    {
-      "naslov": "Velika dilema u Humskoj pred Hetafe",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262117/radosav-petrovic-o-statusu-ognjena-ugresica-za-hetafe/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 08. 2026. у 10:40",
       "slika": null
     }
   ]
