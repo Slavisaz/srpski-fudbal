@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-26T11:47:22.708269+00:00",
-  "azurirano_sr": "26. 08. 2026. у 13:47",
+  "azurirano": "2026-08-26T12:17:29.089519+00:00",
+  "azurirano_sr": "26. 08. 2026. у 14:17",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "UEFA novčano kaznila Hajduk i Rijeku zbog incidenata navijača",
+      "url": "https://www.tanjug.rs/sport/fudbal/276225/uefa-novcano-kaznila-hajduk-i-rijeku-zbog-incidenata-navijaca/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 08. 2026. у 13:50",
+      "slika": null
+    },
+    {
       "naslov": "Trener Zvezde Albert Rijera poveo 23 fudbalera na meč protiv Viktorije Plzenj",
       "url": "https://www.tanjug.rs/sport/fudbal/276192/trener-zvezde-albert-rijera-poveo-23-fudbalera-na-mec-protiv-viktorije-plzenj/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/276179/srpski-fudbaler-dejan-joveljic-novo-pojacanje-sijetla/vest",
       "izvor": "Танјуг",
       "datum": "26. 08. 2026. у 10:55",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Mančester Junajteda Fernandeš proglašen za najboljeg igrača Premijer lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/276118/fudbaler-mancester-junajteda-fernandes-proglasen-za-najboljeg-igraca-premijer-lige/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 08. 2026. у 22:35",
       "slika": null
     },
     {
