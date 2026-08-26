@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-08-26T16:57:14.468758+00:00",
-  "azurirano_sr": "26. 08. 2026. у 18:57",
+  "azurirano": "2026-08-26T18:53:41.980745+00:00",
+  "azurirano_sr": "26. 08. 2026. у 20:53",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Rijera: Igrači žele da ponove dobru igru, ubeđeni smo da ćemo odigrati sjajan meč",
+      "url": "https://www.tanjug.rs/sport/fudbal/276329/rijera-igraci-zele-da-ponove-dobru-igru-ubedeni-smo-da-cemo-odigrati-sjajan-mec/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 08. 2026. у 19:03",
+      "slika": null
+    },
+    {
       "naslov": "Srpska bokserka Sara Ćirković osvojila bronzanu medalju na Mediteranskim igrama",
       "url": "https://www.tanjug.rs/sport/fudbal/276320/srpska-bokserka-sara-cirkovic-osvojila-bronzanu-medalju-na-mediteranskim-igrama/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "UEFA novčano kaznila Hajduk i Rijeku zbog incidenata navijača",
-      "url": "https://www.tanjug.rs/sport/fudbal/276225/uefa-novcano-kaznila-hajduk-i-rijeku-zbog-incidenata-navijaca/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 08. 2026. у 13:50",
+      "naslov": "&quot;Grobari&quot; u Zemunelu poslali jasnu poruku igračima pred Hetafe",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262288/grobari-na-treningu-partizana/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 08. 2026. у 20:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262243/petar-ratkov-odbio-crvenu-zvezdu-mogao-bi-u-spaniju/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "26. 08. 2026. у 17:00",
-      "slika": null
-    },
-    {
-      "naslov": "Plavšić u Železničaru: &quot;Rekli su da nisam za seniorski fudbal, a onda...&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262141/srdjan-plavsic-intervju-po-dolasku-u-zeleznicar-pancevo-video/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 08. 2026. у 12:12",
       "slika": null
     }
   ]
