@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-26T11:17:08.113070+00:00",
-  "azurirano_sr": "26. 08. 2026. у 13:17",
+  "azurirano": "2026-08-26T11:47:22.708269+00:00",
+  "azurirano_sr": "26. 08. 2026. у 13:47",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (sreda, 26. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-26-avgust/552351",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 08. 2026. у 15:28",
+      "slika": null
+    },
+    {
+      "naslov": "Zvanično: Najskuplji tinejdžer u istoriji Premijer lige",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-najskuplji-tinejdzer-u-istoriji-premijer-lige/552371",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 08. 2026. у 15:18",
+      "slika": null
+    },
     {
       "naslov": "Pada transfer rekord koji je nadživeo i uvođenje evra: Olimpijakos dovodi igrača skupljeg od Zahovića!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pada-transfer-rekord-koji-je-nadziveo-i-uvoenje-evra-olimpijakos-dovodi-igraca-skupljeg-od-zahovica/552368",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-na-ceni-u-ceskoj-sparta-bacila-oko-na-nemanju-tekijaskog/552366",
       "izvor": "Мозарт Спорт",
       "datum": "26. 08. 2026. у 14:24",
-      "slika": null
-    },
-    {
-      "naslov": "Atomski mrav se vratio u Srbiju: Srđan Plavšić dve godine u Železničaru",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/atomski-mrav-se-vratio-u-srbiju-sran-plavsic-dve-godine-u-zeleznicaru/552362",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 08. 2026. у 13:48",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (sreda, 26. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-sreda-26-avgust/552351",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 08. 2026. у 13:32",
       "slika": null
     },
     {
