@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-08-27T00:51:17.165450+00:00",
-  "azurirano_sr": "27. 08. 2026. у 02:51",
+  "azurirano": "2026-08-27T10:38:54.475293+00:00",
+  "azurirano_sr": "27. 08. 2026. у 12:38",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "TRANSFERI (sreda, 26. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-sreda-26-avgust/552351",
+      "naslov": "Fudbal nema uvek smisla: Delap sa tri gola zaradio Čelsiju 23.000.000 i otišao u Forest",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbal-nema-uvek-smisla-delap-sa-tri-gola-zaradio-celsiju-23000000-i-otisao-u-forest/552445",
       "izvor": "Мозарт Спорт",
-      "datum": "27. 08. 2026. у 01:53",
+      "datum": "27. 08. 2026. у 13:56",
       "slika": null
     },
     {
-      "naslov": "Žreb za Ligu šampiona - poznati svi šeširi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zreb-za-ligu-sampiona-poznati-svi-sesiri/552384",
+      "naslov": "Enfild u transu, Liverpul dogovorio Barkolu za 140.000.000!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/enfild-u-transu-liverpul-dogovorio-barkolu-za-140000000/552429",
       "izvor": "Мозарт Спорт",
-      "datum": "27. 08. 2026. у 01:47",
+      "datum": "27. 08. 2026. у 12:05",
       "slika": null
     },
     {
-      "naslov": "Dinamo opet vodio i opet se ugasio - još jedna velika noć norveškog fudbala (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dinamo-opet-vodio-i-opet-se-ugasio-jos-jedna-velika-noc-norveskog-fudbala-video/552409",
+      "naslov": "To što pokušava Partizan uspeli su samo PAO i Klub Briž",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/to-sto-pokusava-partizan-uspeli-su-samo-pao-i-klub-briz/552426",
       "izvor": "Мозарт Спорт",
-      "datum": "27. 08. 2026. у 01:02",
+      "datum": "27. 08. 2026. у 11:34",
       "slika": null
     },
     {
-      "naslov": "Panatinaikos prihvatio ponudu, Pantović mora da se izjasni do nedelje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/panatinaikos-prihvatio-ponudu-pantovic-mora-da-se-izjasni-do-nedelje/552390",
+      "naslov": "TRANSFERI UŽIVO (četvrtak, 27. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-27-avgust/552425",
       "izvor": "Мозарт Спорт",
-      "datum": "26. 08. 2026. у 18:44",
+      "datum": "27. 08. 2026. у 11:12",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Partizana večeras dočekuju Hetafe u revanšu plej-ofa za plasman u Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/276411/fudbaleri-partizana-veceras-docekuju-hetafe-u-revansu-plej-ofa-za-plasman-u-ligu-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 08. 2026. у 09:42",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Crvene zvezde večeras gostuju Viktoriji u revanšu plej-ofa za plasman u LE",
+      "url": "https://www.tanjug.rs/sport/fudbal/276412/fudbaleri-crvene-zvezde-veceras-gostuju-viktoriji-u-revansu-plej-ofa-za-plasman-u-le/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 08. 2026. у 09:41",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/276360/bordalas-bice-uzbudljivo-i-energicno-pred-krcatim-tribinama/vest",
       "izvor": "Танјуг",
       "datum": "26. 08. 2026. у 21:52",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Hartsa eliminisali bečki Rapid na penale i plasirali se u Ligu konferencija",
-      "url": "https://www.tanjug.rs/sport/fudbal/276356/fudbaleri-hartsa-eliminisali-becki-rapid-na-penale-i-plasirali-se-u-ligu-konferencija/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 08. 2026. у 21:42",
-      "slika": null
-    },
-    {
-      "naslov": "Španski fudbaler Niko Gonzales potpisao za Njukasl",
-      "url": "https://www.tanjug.rs/sport/fudbal/276352/spanski-fudbaler-niko-gonzales-potpisao-za-njukasl/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 08. 2026. у 21:08",
       "slika": null
     },
     {
