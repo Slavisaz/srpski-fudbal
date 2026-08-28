@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-27T20:44:35.983858+00:00",
-  "azurirano_sr": "27. 08. 2026. у 22:44",
+  "azurirano": "2026-08-28T04:29:39.706290+00:00",
+  "azurirano_sr": "28. 08. 2026. у 06:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (četvrtak, 27. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-cetvrtak-27-avgust/552425",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 08. 2026. у 01:53",
+      "slika": null
+    },
     {
       "naslov": "Rodila se sila sa Severa - čudesna nedelja norveškog fudbala",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rodila-se-sila-sa-severa-cudesna-nedelja-norveskog-fudbala/552508",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (četvrtak, 27. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-cetvrtak-27-avgust/552425",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 08. 2026. у 22:29",
+      "naslov": "Fudbaleri Partizana pobedili Hetafe, ali ostali bez plasmana u Ligu konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/276654/fudbaleri-partizana-pobedili-hetafe-ali-ostali-bez-plasmana-u-ligu-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 08. 2026. у 23:01",
+      "slika": null
+    },
+    {
+      "naslov": "Rijera: Bolji smo tim, ali ovo je fudbal, moramo da nastavimo dignute glave",
+      "url": "https://www.tanjug.rs/sport/fudbal/276648/rijera-bolji-smo-tim-ali-ovo-je-fudbal-moramo-da-nastavimo-dignute-glave/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 08. 2026. у 22:38",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri banjalučkog Borca se plasirali u Ligu konferencija",
+      "url": "https://www.tanjug.rs/sport/fudbal/276647/fudbaleri-banjaluckog-borca-se-plasirali-u-ligu-konferencija/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 08. 2026. у 22:34",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/276642/fudbaleri-partizana-i-hetafea-igraju-bez-golova-na-poluvremenu/vest",
       "izvor": "Танјуг",
       "datum": "27. 08. 2026. у 22:03",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezdino \"pomračenje\" u Plzenju, težak poraz i bez plasmana u Ligu Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/276628/zvezdino-pomracenje-u-plzenju-tezak-poraz-i-bez-plasmana-u-ligu-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 08. 2026. у 21:54",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić odredio tim za Hetafe: Miladinović, Čumić i Baba od prvog minuta",
-      "url": "https://www.tanjug.rs/sport/fudbal/276629/sasa-ilic-odredio-tim-za-hetafe-miladinovic-cumic-i-baba-od-prvog-minuta/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 08. 2026. у 20:03",
-      "slika": null
-    },
-    {
-      "naslov": "Žreb za LŠ: PSŽ protiv Barselone, M. Sitija, Rome, Aston Vile, Galatasaraja...",
-      "url": "https://www.tanjug.rs/sport/fudbal/276617/zreb-za-ls-psz-protiv-barselone-m-sitija-rome-aston-vile-galatasaraja/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 08. 2026. у 19:23",
       "slika": null
     },
     {
