@@ -1,34 +1,55 @@
 {
-  "azurirano": "2026-08-29T13:13:24.420800+00:00",
-  "azurirano_sr": "29. 08. 2026. у 15:13",
+  "azurirano": "2026-08-29T17:07:18.218423+00:00",
+  "azurirano_sr": "29. 08. 2026. у 19:07",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "TRANSFERI UŽIVO (subota, 29. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-29-avgust/552612",
+      "naslov": "Prvi gol Marezija Milovanovića u engleskom fudbalu (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-gol-marezija-milovanovica-u-engleskom-fudbalu-video/552661",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 08. 2026. у 16:34",
+      "datum": "29. 08. 2026. у 20:28",
       "slika": null
     },
     {
-      "naslov": "PRELAZZI: Liga šampiona nepotrebnog znanja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-liga-sampiona-nepotrebnog-znanja/552633",
+      "naslov": "Pregovara se oko transfera Mihaila Ivanovića u Seriju A",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pregovara-se-oko-transfera-mihaila-ivanovica-u-seriju-a/552659",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 08. 2026. у 15:40",
+      "datum": "29. 08. 2026. у 19:58",
       "slika": null
     },
     {
-      "naslov": "Subota u Seriji A: Spaleti u iščekivanju napadača skida prašinu sa Dejvida",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/subota-u-seriji-a-spaleti-u-iscekivanju-napadaca-skida-prasinu-sa-dejvida/552630",
+      "naslov": "Veliki preokret u Italiji! Kesi odjavio Juve zbog - Atalante",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/veliki-preokret-u-italiji-kesi-odjavio-juve-zbog-atalante/552658",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 08. 2026. у 14:15",
+      "datum": "29. 08. 2026. у 19:47",
       "slika": null
     },
     {
-      "naslov": "Nova bizarnost u Engleskoj: Forest daje 45.000.000 za momka sa 665 minuta premijerligaškog fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nova-bizarnost-u-engleskoj-forest-daje-45000000-za-momka-sa-665-minuta-premijerligaskog-fudbala/552625",
+      "naslov": "Ništa od ostavki: Ostaje i rukovodstvo Partizana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nista-od-ostavki-ostaje-i-rukovodstvo-partizana/552651",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 08. 2026. у 13:34",
+      "datum": "29. 08. 2026. у 18:24",
+      "slika": null
+    },
+    {
+      "naslov": "Mark Markez pobedio u sprint trci za Veliku nagradu Aragona u Moto GP šampiontu",
+      "url": "https://www.tanjug.rs/sport/fudbal/277015/mark-markez-pobedio-u-sprint-trci-za-veliku-nagradu-aragona-u-moto-gp-sampiontu/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 08. 2026. у 16:44",
+      "slika": null
+    },
+    {
+      "naslov": "Jovana Arsić izborila plasman u finale Svetskog prvenstva u veslanju",
+      "url": "https://www.tanjug.rs/sport/fudbal/277013/jovana-arsic-izborila-plasman-u-finale-svetskog-prvenstva-u-veslanju/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 08. 2026. у 16:17",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Liverpula i Notingem Foresta odigrali nerešeno 2:2 u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/277007/fudbaleri-liverpula-i-notingem-foresta-odigrali-nereseno-22-u-premijer-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 08. 2026. у 15:35",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Utakmice AEK - LASK i Klub Briž - Aston Vila otvaraju ovosezonsku Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/276992/utakmice-aek-lask-i-klub-briz-aston-vila-otvaraju-ovosezonsku-ligu-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 08. 2026. у 13:39",
+      "naslov": "Italijani kao Srbija – jure igrače po dijaspori, Nemcima &quot;ukrali&quot; kapitalca",
+      "url": "https://www.b92.net/sport/fudbal/vesti/262984/nikolo-tresoldi-izabrao-italiju-pre-nemacke/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "29. 08. 2026. у 16:28",
       "slika": null
     },
     {
-      "naslov": "Fudbalski klubovi Partizan i PAOK postigli dogovor o transferu Ognjena Ugrešića",
-      "url": "https://www.tanjug.rs/sport/fudbal/276976/fudbalski-klubovi-partizan-i-paok-postigli-dogovor-o-transferu-ognjena-ugresica/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 08. 2026. у 11:46",
-      "slika": null
-    },
-    {
-      "naslov": "Nastavlja se fudbalska Superliga Srbije, Zvezda gost Zemuna, Partizan čeka OFK",
-      "url": "https://www.tanjug.rs/sport/fudbal/276967/nastavlja-se-fudbalska-superliga-srbije-zvezda-gost-zemuna-partizan-ceka-ofk/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 08. 2026. у 10:55",
-      "slika": null
-    },
-    {
-      "naslov": "Duarteova oproštajna poruka: &quot;Zvezdu i Srbiju nosimo zauvek u srcu&quot; FOTO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263035/bruno-duarte-oprostajna-poruka-za-fk-crvena-zvezda-foto/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 08. 2026. у 14:42",
-      "slika": null
-    },
-    {
-      "naslov": "Zvanično: Ugrešić napustio Partizan!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262990/ugresic-novi-ifudbaler-paok-a/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 08. 2026. у 11:48",
+      "naslov": "Sergej briljira: I gol i asistencija VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/262945/gol-i-asistencija-sergeja-milinkovica-savica-u-pobedi-al-hilala/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "29. 08. 2026. у 08:43",
       "slika": null
     }
   ]
