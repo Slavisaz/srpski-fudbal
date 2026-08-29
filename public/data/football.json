@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-08-29T00:44:35.827574+00:00",
-  "azurirano_sr": "29. 08. 2026. у 02:44",
+  "azurirano": "2026-08-29T07:24:28.652591+00:00",
+  "azurirano_sr": "29. 08. 2026. у 09:24",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Tresu se temelji Enfilda: Gotovo je, Liverpul izjednačio rekord Premijer lige za Barkolu!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tresu-se-temelji-enfilda-gotovo-je-liverpul-izjednacio-rekord-premijer-lige-za-barkolu/552615",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 08. 2026. у 11:09",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 29. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-29-avgust/552612",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 08. 2026. у 10:56",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET, subota, 230.929,59 dinara: Igranje na GG donelo dobitak",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-subota-23092959-dinara-igranje-na-gg-donelo-dobitak/552610",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 08. 2026. у 10:48",
+      "slika": null
+    },
     {
       "naslov": "Propao transfer od 33.000.000 evra zbog lekarskih pregleda: Palas digao ruke od dovođenja Ekvadorca",
       "url": "https://www.mozzartsport.com/fudbal/vesti/propao-transfer-od-33000000-evra-zbog-lekarskih-pregleda-palas-digao-ruke-od-dovoenja-ekvadorca/552575",
@@ -11,24 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Kvintet u Evropi, a utisak sasvim drugačiji - otužno leto ex-YU klubova i poneki izuzetak",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kvintet-u-evropi-a-utisak-sasvim-drugaciji-otuzno-leto-exyu-klubova-i-poneki-izuzetak/552568",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 08. 2026. у 19:53",
+      "naslov": "Fudbaleri Mančester sitija pobedili Kristal palas u drugom kolu Premijer lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/276916/fudbaleri-mancester-sitija-pobedili-kristal-palas-u-drugom-kolu-premijer-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 08. 2026. у 23:21",
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (petak, 28. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-28-avgust/552535",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 08. 2026. у 19:16",
+      "naslov": "Fudbaleri PSŽ-a sa dva gola u nadoknadi vremena do remija protiv Lila",
+      "url": "https://www.tanjug.rs/sport/fudbal/276915/fudbaleri-psz-a-sa-dva-gola-u-nadoknadi-vremena-do-remija-protiv-lila/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 08. 2026. у 23:14",
       "slika": null
     },
     {
-      "naslov": "Pandurović pred Mačvu: Promenićemo neke stvari, treba nam konstantnost",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pandurovic-pred-macvu-promenicemo-neke-stvari-treba-nam-konstantnost/552569",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 08. 2026. у 19:05",
+      "naslov": "Fudbaleri Milana nadigrali Veneciju u Seriji A",
+      "url": "https://www.tanjug.rs/sport/fudbal/276914/fudbaleri-milana-nadigrali-veneciju-u-seriji-a/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 08. 2026. у 23:02",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/276907/fudbaleri-bajerna-ubedljivi-protiv-stutgarta-na-startu-bundeslige/vest",
       "izvor": "Танјуг",
       "datum": "28. 08. 2026. у 22:33",
-      "slika": null
-    },
-    {
-      "naslov": "Košarkaši Srbije ubedljivo pobedili Island u kvalifikacijama za Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/276900/kosarkasi-srbije-ubedljivo-pobedili-island-u-kvalifikacijama-za-svetsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 08. 2026. у 22:04",
-      "slika": null
-    },
-    {
-      "naslov": "Sergej strelac i asistent u pobedi fudbalera Al Hilala protiv Al Halidža",
-      "url": "https://www.tanjug.rs/sport/fudbal/276901/sergej-strelac-i-asistent-u-pobedi-fudbalera-al-hilala-protiv-al-halidza/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 08. 2026. у 22:02",
-      "slika": null
-    },
-    {
-      "naslov": "Senegalski fudbaler Nikolas Džekson novo pojačanje Aston vile",
-      "url": "https://www.tanjug.rs/sport/fudbal/276892/senegalski-fudbaler-nikolas-dzekson-novo-pojacanje-aston-vile/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 08. 2026. у 21:24",
       "slika": null
     },
     {
