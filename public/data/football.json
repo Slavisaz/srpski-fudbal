@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-29T17:07:18.218423+00:00",
-  "azurirano_sr": "29. 08. 2026. у 19:07",
+  "azurirano": "2026-08-29T19:42:17.603288+00:00",
+  "azurirano_sr": "29. 08. 2026. у 21:42",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvezda kreće iz Lugana, spektakl na Marakani sa Salahovim Trabzonom za kraj ligaške faze",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-krece-iz-lugana-spektakl-na-marakani-sa-salahovim-trabzonom-za-kraj-ligaske-faze/552673",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 08. 2026. у 23:04",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI UŽIVO (subota, 29. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-29-avgust/552612",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 08. 2026. у 22:56",
+      "slika": null
+    },
     {
       "naslov": "Prvi gol Marezija Milovanovića u engleskom fudbalu (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-gol-marezija-milovanovica-u-engleskom-fudbalu-video/552661",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Veliki preokret u Italiji! Kesi odjavio Juve zbog - Atalante",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/veliki-preokret-u-italiji-kesi-odjavio-juve-zbog-atalante/552658",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 08. 2026. у 19:47",
+      "naslov": "Fudbaleri Borusije Dortmund savladali Hamburg na startu Bundeslige",
+      "url": "https://www.tanjug.rs/sport/fudbal/277052/fudbaleri-borusije-dortmund-savladali-hamburg-na-startu-bundeslige/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 08. 2026. у 20:28",
       "slika": null
     },
     {
-      "naslov": "Ništa od ostavki: Ostaje i rukovodstvo Partizana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nista-od-ostavki-ostaje-i-rukovodstvo-partizana/552651",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 08. 2026. у 18:24",
+      "naslov": "Fudbaleri Njukasla pobedili Totenhem u drugom kolu Premijer lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/277051/fudbaleri-njukasla-pobedili-totenhem-u-drugom-kolu-premijer-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 08. 2026. у 20:27",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Lajpciga pobedili Borusiju Menhengladbah, Elversberg bolji od Leverkuzena",
+      "url": "https://www.tanjug.rs/sport/fudbal/277024/fudbaleri-lajpciga-pobedili-borusiju-menhengladbah-elversberg-bolji-od-leverkuzena/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 08. 2026. у 17:35",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Jovana Arsić izborila plasman u finale Svetskog prvenstva u veslanju",
-      "url": "https://www.tanjug.rs/sport/fudbal/277013/jovana-arsic-izborila-plasman-u-finale-svetskog-prvenstva-u-veslanju/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 08. 2026. у 16:17",
+      "naslov": "Puče &quot;petarda&quot; u Pančevu: Het-trik Karikarija",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263126/superliga-srbije-7-kolo-zeleznicar-radnik-51-izvestaj-utakmice/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 08. 2026. у 20:55",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Liverpula i Notingem Foresta odigrali nerešeno 2:2 u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/277007/fudbaleri-liverpula-i-notingem-foresta-odigrali-nereseno-22-u-premijer-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 08. 2026. у 15:35",
-      "slika": null
-    },
-    {
-      "naslov": "Italijanski fudbaler Samuele Rići prešao iz Milana u Komo",
-      "url": "https://www.tanjug.rs/sport/fudbal/276997/italijanski-fudbaler-samuele-rici-presao-iz-milana-u-komo/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 08. 2026. у 14:18",
-      "slika": null
-    },
-    {
-      "naslov": "Italijani kao Srbija – jure igrače po dijaspori, Nemcima &quot;ukrali&quot; kapitalca",
-      "url": "https://www.b92.net/sport/fudbal/vesti/262984/nikolo-tresoldi-izabrao-italiju-pre-nemacke/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "29. 08. 2026. у 16:28",
-      "slika": null
-    },
-    {
-      "naslov": "Sergej briljira: I gol i asistencija VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/262945/gol-i-asistencija-sergeja-milinkovica-savica-u-pobedi-al-hilala/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "29. 08. 2026. у 08:43",
+      "naslov": "Rijera: &quot;Ono što se dogodilo je neverovatno&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263113/albert-rijera-konferencija-za-medije-uoci-crvena-zvezda-zemun/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 08. 2026. у 19:50",
       "slika": null
     }
   ]
