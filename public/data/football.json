@@ -1,20 +1,27 @@
 {
-  "azurirano": "2026-08-29T19:42:17.603288+00:00",
-  "azurirano_sr": "29. 08. 2026. у 21:42",
+  "azurirano": "2026-08-29T21:56:39.772718+00:00",
+  "azurirano_sr": "29. 08. 2026. у 23:56",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI (subota, 29. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-subota-29-avgust/552612",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 08. 2026. у 01:36",
+      "slika": null
+    },
+    {
+      "naslov": "Dogovoren transfer Lazara Jovanovića, Štutgart povratio sve uloženo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dogovoren-transfer-lazara-jovanovica-stutgart-povratio-sve-ulozeno/552682",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 08. 2026. у 00:33",
+      "slika": null
+    },
     {
       "naslov": "Zvezda kreće iz Lugana, spektakl na Marakani sa Salahovim Trabzonom za kraj ligaške faze",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-krece-iz-lugana-spektakl-na-marakani-sa-salahovim-trabzonom-za-kraj-ligaske-faze/552673",
       "izvor": "Мозарт Спорт",
       "datum": "29. 08. 2026. у 23:04",
-      "slika": null
-    },
-    {
-      "naslov": "TRANSFERI UŽIVO (subota, 29. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-subota-29-avgust/552612",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 08. 2026. у 22:56",
       "slika": null
     },
     {
@@ -25,52 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Pregovara se oko transfera Mihaila Ivanovića u Seriju A",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pregovara-se-oko-transfera-mihaila-ivanovica-u-seriju-a/552659",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 08. 2026. у 19:58",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Borusije Dortmund savladali Hamburg na startu Bundeslige",
-      "url": "https://www.tanjug.rs/sport/fudbal/277052/fudbaleri-borusije-dortmund-savladali-hamburg-na-startu-bundeslige/vest",
+      "naslov": "Fudbaleri Juventusa pobedili Parmu u drugom kolu Serije A",
+      "url": "https://www.tanjug.rs/sport/fudbal/277071/fudbaleri-juventusa-pobedili-parmu-u-drugom-kolu-serije-a/vest",
       "izvor": "Танјуг",
-      "datum": "29. 08. 2026. у 20:28",
+      "datum": "29. 08. 2026. у 22:47",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Njukasla pobedili Totenhem u drugom kolu Premijer lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/277051/fudbaleri-njukasla-pobedili-totenhem-u-drugom-kolu-premijer-lige/vest",
+      "naslov": "Frank Kesi posle devet godina ponovo fudbaler Atalante",
+      "url": "https://www.tanjug.rs/sport/fudbal/277059/frank-kesi-posle-devet-godina-ponovo-fudbaler-atalante/vest",
       "izvor": "Танјуг",
-      "datum": "29. 08. 2026. у 20:27",
+      "datum": "29. 08. 2026. у 21:36",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Lajpciga pobedili Borusiju Menhengladbah, Elversberg bolji od Leverkuzena",
-      "url": "https://www.tanjug.rs/sport/fudbal/277024/fudbaleri-lajpciga-pobedili-borusiju-menhengladbah-elversberg-bolji-od-leverkuzena/vest",
+      "naslov": "Fudbaleri Železničara ubedljivi protiv Radnika uz het-trik Karikarija",
+      "url": "https://www.tanjug.rs/sport/fudbal/277057/fudbaleri-zeleznicara-ubedljivi-protiv-radnika-uz-het-trik-karikarija/vest",
       "izvor": "Танјуг",
-      "datum": "29. 08. 2026. у 17:35",
+      "datum": "29. 08. 2026. у 21:22",
       "slika": null
     },
     {
-      "naslov": "Mark Markez pobedio u sprint trci za Veliku nagradu Aragona u Moto GP šampiontu",
-      "url": "https://www.tanjug.rs/sport/fudbal/277015/mark-markez-pobedio-u-sprint-trci-za-veliku-nagradu-aragona-u-moto-gp-sampiontu/vest",
+      "naslov": "Fudbaleri Crvene zvezde Ligu konferencije počinju 15. oktobra gostovanjem Luganu",
+      "url": "https://www.tanjug.rs/sport/fudbal/277055/fudbaleri-crvene-zvezde-ligu-konferencije-pocinju-15-oktobra-gostovanjem-luganu/vest",
       "izvor": "Танјуг",
-      "datum": "29. 08. 2026. у 16:44",
+      "datum": "29. 08. 2026. у 20:56",
       "slika": null
     },
     {
-      "naslov": "Puče &quot;petarda&quot; u Pančevu: Het-trik Karikarija",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263126/superliga-srbije-7-kolo-zeleznicar-radnik-51-izvestaj-utakmice/vest",
+      "naslov": "&quot;Danas Karikari, sutra neko drugi – važno je da smo veliki tim&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263146/danas-karikari-sutra-neko-drugi-vazno-je-da-smo-veliki-tim/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "29. 08. 2026. у 20:55",
+      "datum": "29. 08. 2026. у 23:15",
       "slika": null
     },
     {
-      "naslov": "Rijera: &quot;Ono što se dogodilo je neverovatno&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263113/albert-rijera-konferencija-za-medije-uoci-crvena-zvezda-zemun/vest",
+      "naslov": "Voša raznela Čuku – &quot;petarda&quot; na Brdu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263145/superliga-7-kolo-vojvodina-cukaricki-50-20/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "29. 08. 2026. у 19:50",
+      "datum": "29. 08. 2026. у 22:53",
       "slika": null
     }
   ]
