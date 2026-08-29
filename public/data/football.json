@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-28T16:50:13.199016+00:00",
-  "azurirano_sr": "28. 08. 2026. у 18:50",
+  "azurirano": "2026-08-29T00:44:35.827574+00:00",
+  "azurirano_sr": "29. 08. 2026. у 02:44",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Propao transfer od 33.000.000 evra zbog lekarskih pregleda: Palas digao ruke od dovođenja Ekvadorca",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/propao-transfer-od-33000000-evra-zbog-lekarskih-pregleda-palas-digao-ruke-od-dovoenja-ekvadorca/552575",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 08. 2026. у 20:44",
+      "slika": null
+    },
     {
       "naslov": "Kvintet u Evropi, a utisak sasvim drugačiji - otužno leto ex-YU klubova i poneki izuzetak",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kvintet-u-evropi-a-utisak-sasvim-drugaciji-otuzno-leto-exyu-klubova-i-poneki-izuzetak/552568",
@@ -11,8 +18,8 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (petak, 28. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-petak-28-avgust/552535",
+      "naslov": "TRANSFERI (petak, 28. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-petak-28-avgust/552535",
       "izvor": "Мозарт Спорт",
       "datum": "28. 08. 2026. у 19:16",
       "slika": null
@@ -25,52 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Zvezda prodala još jednog špica: Džej Enem u Seriji A",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-prodala-jos-jednog-spica-dzej-enem-u-seriji-a/552563",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 08. 2026. у 18:38",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera: Izvinjenje svima, pobrinuću se da se ovo više ne ponovi, sezona nije završena",
-      "url": "https://www.tanjug.rs/sport/fudbal/276825/rijera-izvinjenje-svima-pobrinucu-se-da-se-ovo-vise-ne-ponovi-sezona-nije-zavrsena/vest",
+      "naslov": "Fudbaleri Bajerna ubedljivi protiv Štutgarta na startu Bundeslige",
+      "url": "https://www.tanjug.rs/sport/fudbal/276907/fudbaleri-bajerna-ubedljivi-protiv-stutgarta-na-startu-bundeslige/vest",
       "izvor": "Танјуг",
-      "datum": "28. 08. 2026. у 16:56",
+      "datum": "28. 08. 2026. у 22:33",
       "slika": null
     },
     {
-      "naslov": "Pari Sen Žermen kažnjen sa 150 hiljada evra zbog lošeg stanja terena na stadionu",
-      "url": "https://www.tanjug.rs/sport/fudbal/276782/pari-sen-zermen-kaznjen-sa-150-hiljada-evra-zbog-loseg-stanja-terena-na-stadionu/vest",
+      "naslov": "Košarkaši Srbije ubedljivo pobedili Island u kvalifikacijama za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/276900/kosarkasi-srbije-ubedljivo-pobedili-island-u-kvalifikacijama-za-svetsko-prvenstvo/vest",
       "izvor": "Танјуг",
-      "datum": "28. 08. 2026. у 14:51",
+      "datum": "28. 08. 2026. у 22:04",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri banjalučkog Borca igraće protiv Atalante i Panatinaikosa u Ligi konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/276769/fudbaleri-banjaluckog-borca-igrace-protiv-atalante-i-panatinaikosa-u-ligi-konferencije/vest",
+      "naslov": "Sergej strelac i asistent u pobedi fudbalera Al Hilala protiv Al Halidža",
+      "url": "https://www.tanjug.rs/sport/fudbal/276901/sergej-strelac-i-asistent-u-pobedi-fudbalera-al-hilala-protiv-al-halidza/vest",
       "izvor": "Танјуг",
-      "datum": "28. 08. 2026. у 14:23",
+      "datum": "28. 08. 2026. у 22:02",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Zvezde igraće protiv Kopenhagena, Genta i Trabzona u Ligi konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/276766/fudbaleri-zvezde-igrace-protiv-kopenhagena-genta-i-trabzona-u-ligi-konferencije/vest",
+      "naslov": "Senegalski fudbaler Nikolas Džekson novo pojačanje Aston vile",
+      "url": "https://www.tanjug.rs/sport/fudbal/276892/senegalski-fudbaler-nikolas-dzekson-novo-pojacanje-aston-vile/vest",
       "izvor": "Танјуг",
-      "datum": "28. 08. 2026. у 14:04",
+      "datum": "28. 08. 2026. у 21:24",
       "slika": null
     },
     {
-      "naslov": "Zvezda prodala štopera Juventusu za skoro 1.000.000 evra VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262766/mateja-lacmanovic-ide-u-juventus-iz-crvene-zvezde-za-skoro-1000000-evra/vest",
+      "naslov": "Poruka iz Železničara: &quot;Od mladih momaka stvaramo pobednike&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262845/djordje-cotra-pred-mec-zeleznicar-radnik-u-7-kolu-superligi-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "28. 08. 2026. у 18:35",
+      "datum": "28. 08. 2026. у 20:45",
       "slika": null
     },
     {
-      "naslov": "Rijera se izvinio Zvezdi i navijačima",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262844/izvinjenje-trenera-crvene-zvezde-alberta-rijere/vest",
+      "naslov": "Nakajama zvanično obukao dres Crvene zvezde!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/262881/juta-nakajama-potpisao-za-crvenu-zvezdu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "28. 08. 2026. у 16:50",
+      "datum": "28. 08. 2026. у 19:05",
       "slika": null
     }
   ]
