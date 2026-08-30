@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-08-30T13:05:17.991868+00:00",
-  "azurirano_sr": "30. 08. 2026. у 15:05",
+  "azurirano": "2026-08-30T17:21:52.937414+00:00",
+  "azurirano_sr": "30. 08. 2026. у 19:21",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Baždar u Saragosi dao pet na 40 utakmica, a u Belgiji dva za 17 minuta",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bazdar-u-saragosi-dao-pet-na-40-utakmica-a-u-belgiji-dva-za-17-minuta/552734",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 08. 2026. у 20:16",
+      "slika": null
+    },
+    {
+      "naslov": "Petar Ratkov postaje najskuplja Žaba u istoriji?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/petar-ratkov-postaje-najskuplja-zaba-u-istoriji/552733",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 08. 2026. у 19:47",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI UŽIVO (nedelja, 30. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-30-avgust/552702",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 08. 2026. у 12:49",
+      "datum": "30. 08. 2026. у 19:06",
       "slika": null
     },
     {
-      "naslov": "LUDI TIKET (-), nedelja, 7.791.073.38 dinara: Falili golovi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-nedelja-779107338-dinara-falili-golovi/552696",
+      "naslov": "Čelsijev “parking” guta pojačanja: Krilo iz Sevilje, špic iz Lajpciga, Amerikanci drže balans oko nule",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/celsijev-parking-guta-pojacanja-krilo-iz-sevilje-spic-iz-lajpciga-amerikanci-drze-balans-oko-nule/552727",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 08. 2026. у 12:11",
+      "datum": "30. 08. 2026. у 18:25",
       "slika": null
     },
     {
-      "naslov": "TRANSFERI (subota, 29. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-subota-29-avgust/552612",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 08. 2026. у 01:36",
+      "naslov": "Fudbaleri Čelsija pobedili Brajton, Sanderlend savladao Fulam u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/277220/fudbaleri-celsija-pobedili-brajton-sanderlend-savladao-fulam-u-premijer-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 08. 2026. у 17:00",
       "slika": null
     },
     {
-      "naslov": "Dogovoren transfer Lazara Jovanovića, Štutgart povratio sve uloženo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dogovoren-transfer-lazara-jovanovica-stutgart-povratio-sve-ulozeno/552682",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 08. 2026. у 00:33",
+      "naslov": "Nemanja Gudelj potpisao ugovor sa Hetafeom",
+      "url": "https://www.tanjug.rs/sport/fudbal/277213/nemanja-gudelj-potpisao-ugovor-sa-hetafeom/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 08. 2026. у 15:58",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Belgijski fudbaler Artur Teat do kraja sezone na pozajmici u Bolonji",
-      "url": "https://www.tanjug.rs/sport/fudbal/277172/belgijski-fudbaler-artur-teat-do-kraja-sezone-na-pozajmici-u-bolonji/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 08. 2026. у 12:45",
+      "naslov": "Leao posle sedam godina odsvirao kraj na San Siru – vreme je za Galatu",
+      "url": "https://www.b92.net/sport/fudbal/vesti/263254/rafael-leao-potpisao-za-galatasaraj/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "30. 08. 2026. у 15:00",
       "slika": null
     },
     {
-      "naslov": "Marokanski fudbaler Sofijan Amrabat novo pojačanje Ajaksa",
-      "url": "https://www.tanjug.rs/sport/fudbal/277161/marokanski-fudbaler-sofijan-amrabat-novo-pojacanje-ajaksa/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 08. 2026. у 12:08",
-      "slika": null
-    },
-    {
-      "naslov": "FSS izdao hitno upozorenje zbog karata",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263267/fss-izdao-vazno-saopstenje-pred-ligu-nacija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "30. 08. 2026. у 14:46",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić: &quot;To me boli – ne gledam tabelu&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263213/sasa-ilic-konferencija-za-medije-partizan-ofk-beograd/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "30. 08. 2026. у 11:30",
+      "naslov": "Zvezda zaradila milione na napadaču, a on već napustio novi klub",
+      "url": "https://www.b92.net/sport/fudbal/vesti/263245/dzej-enem-ide-na-pozajmicu-u-noric/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "30. 08. 2026. у 13:15",
       "slika": null
     }
   ]
