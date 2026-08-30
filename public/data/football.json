@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-30T17:21:52.937414+00:00",
-  "azurirano_sr": "30. 08. 2026. у 19:21",
+  "azurirano": "2026-08-30T19:52:46.426376+00:00",
+  "azurirano_sr": "30. 08. 2026. у 21:52",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (nedelja, 30. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-30-avgust/552702",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 08. 2026. у 22:18",
+      "slika": null
+    },
+    {
+      "naslov": "Javor \"preživeo\" još jednog bivšeg superligaša, razbio Napredak i pokazao da želi nazad u elitu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/javor-preziveo-jos-jednog-bivseg-superligasa-razbio-napredak-i-pokazao-da-zeli-nazad-u-elitu/552744",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 08. 2026. у 22:05",
+      "slika": null
+    },
     {
       "naslov": "Baždar u Saragosi dao pet na 40 utakmica, a u Belgiji dva za 17 minuta",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bazdar-u-saragosi-dao-pet-na-40-utakmica-a-u-belgiji-dva-za-17-minuta/552734",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI UŽIVO (nedelja, 30. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-30-avgust/552702",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 08. 2026. у 19:06",
+      "naslov": "Preokret Junajteda protiv Ipsviča, het-trik Bruna Fernandeza",
+      "url": "https://www.tanjug.rs/sport/fudbal/277243/preokret-junajteda-protiv-ipsvica-het-trik-bruna-fernandeza/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 08. 2026. у 19:33",
       "slika": null
     },
     {
-      "naslov": "Čelsijev “parking” guta pojačanja: Krilo iz Sevilje, špic iz Lajpciga, Amerikanci drže balans oko nule",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/celsijev-parking-guta-pojacanja-krilo-iz-sevilje-spic-iz-lajpciga-amerikanci-drze-balans-oko-nule/552727",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 08. 2026. у 18:25",
+      "naslov": "Murinjo ima \"tri od tri\", Real ubedljiv protiv Malage",
+      "url": "https://www.tanjug.rs/sport/fudbal/277240/murinjo-ima-tri-od-tri-real-ubedljiv-protiv-malage/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 08. 2026. у 19:17",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Argentinski fudbaler Leonardo Balerdi do kraja sezone na pozajmici u Romi",
-      "url": "https://www.tanjug.rs/sport/fudbal/277178/argentinski-fudbaler-leonardo-balerdi-do-kraja-sezone-na-pozajmici-u-romi/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 08. 2026. у 13:13",
+      "naslov": "Zemun namučio Zvezdu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263323/uzivo-prenos-superliga-7-kolo-zemun-crvena-zvezda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "30. 08. 2026. у 21:50",
       "slika": null
     },
     {
-      "naslov": "Portugalski fudbaler Rafael Leao novo pojačanje Galatasaraja",
-      "url": "https://www.tanjug.rs/sport/fudbal/277177/portugalski-fudbaler-rafael-leao-novo-pojacanje-galatasaraja/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 08. 2026. у 13:05",
-      "slika": null
-    },
-    {
-      "naslov": "Leao posle sedam godina odsvirao kraj na San Siru – vreme je za Galatu",
-      "url": "https://www.b92.net/sport/fudbal/vesti/263254/rafael-leao-potpisao-za-galatasaraj/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "30. 08. 2026. у 15:00",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda zaradila milione na napadaču, a on već napustio novi klub",
-      "url": "https://www.b92.net/sport/fudbal/vesti/263245/dzej-enem-ide-na-pozajmicu-u-noric/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "30. 08. 2026. у 13:15",
+      "naslov": "FSS izdao hitno upozorenje zbog karata",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263267/fss-izdao-vazno-saopstenje-pred-ligu-nacija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "30. 08. 2026. у 14:46",
       "slika": null
     }
   ]
