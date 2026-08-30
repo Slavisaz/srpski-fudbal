@@ -1,13 +1,13 @@
 {
-  "azurirano": "2026-08-30T19:52:46.426376+00:00",
-  "azurirano_sr": "30. 08. 2026. у 21:52",
+  "azurirano": "2026-08-30T22:08:45.289374+00:00",
+  "azurirano_sr": "31. 08. 2026. у 00:08",
   "vesti_24h": 10,
   "vesti": [
     {
       "naslov": "TRANSFERI UŽIVO (nedelja, 30. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-30-avgust/552702",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 08. 2026. у 22:18",
+      "datum": "31. 08. 2026. у 01:11",
       "slika": null
     },
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Rijera: Svima nam je potrebna smirenost, od večeras pripreme za derbi",
+      "url": "https://www.tanjug.rs/sport/fudbal/277265/rijera-svima-nam-je-potrebna-smirenost-od-veceras-pripreme-za-derbi/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 08. 2026. у 22:55",
+      "slika": null
+    },
+    {
+      "naslov": "Rijera promenio \"ceo tim\", Ivanić sa klupe i Abu Fani za pobedu Zvezde protiv Zemuna",
+      "url": "https://www.tanjug.rs/sport/fudbal/277259/rijera-promenio-ceo-tim-ivanic-sa-klupe-i-abu-fani-za-pobedu-zvezde-protiv-zemuna/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 08. 2026. у 21:53",
+      "slika": null
+    },
+    {
       "naslov": "Preokret Junajteda protiv Ipsviča, het-trik Bruna Fernandeza",
       "url": "https://www.tanjug.rs/sport/fudbal/277243/preokret-junajteda-protiv-ipsvica-het-trik-bruna-fernandeza/vest",
       "izvor": "Танјуг",
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Čelsija pobedili Brajton, Sanderlend savladao Fulam u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/277220/fudbaleri-celsija-pobedili-brajton-sanderlend-savladao-fulam-u-premijer-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 08. 2026. у 17:00",
-      "slika": null
-    },
-    {
-      "naslov": "Nemanja Gudelj potpisao ugovor sa Hetafeom",
-      "url": "https://www.tanjug.rs/sport/fudbal/277213/nemanja-gudelj-potpisao-ugovor-sa-hetafeom/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 08. 2026. у 15:58",
-      "slika": null
-    },
-    {
-      "naslov": "Zemun namučio Zvezdu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263323/uzivo-prenos-superliga-7-kolo-zemun-crvena-zvezda/vest",
+      "naslov": "&quot;Traktoristi&quot; se vratili na pobednički kolosek",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263370/traktoristi-se-vratili-na-pobednicki-kolosek/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 08. 2026. у 21:50",
+      "datum": "30. 08. 2026. у 22:57",
       "slika": null
     },
     {
-      "naslov": "FSS izdao hitno upozorenje zbog karata",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263267/fss-izdao-vazno-saopstenje-pred-ligu-nacija/vest",
+      "naslov": "Rijera: &quot;Najvažnija su tri boda&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263360/izjava-trenera-crvene-zvezde-alberta-rijere-posle-zemuna/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 08. 2026. у 14:46",
+      "datum": "30. 08. 2026. у 22:00",
       "slika": null
     }
   ]
