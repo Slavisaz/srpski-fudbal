@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-08-30T07:27:02.257932+00:00",
-  "azurirano_sr": "30. 08. 2026. у 09:27",
+  "azurirano": "2026-08-30T13:05:17.991868+00:00",
+  "azurirano_sr": "30. 08. 2026. у 15:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TRANSFERI UŽIVO (nedelja, 30. avgust)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-30-avgust/552702",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 08. 2026. у 12:49",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET (-), nedelja, 7.791.073.38 dinara: Falili golovi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-nedelja-779107338-dinara-falili-golovi/552696",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 08. 2026. у 12:11",
+      "slika": null
+    },
     {
       "naslov": "TRANSFERI (subota, 29. avgust)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-subota-29-avgust/552612",
@@ -18,59 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Zvezda kreće iz Lugana, spektakl na Marakani sa Salahovim Trabzonom za kraj ligaške faze",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-krece-iz-lugana-spektakl-na-marakani-sa-salahovim-trabzonom-za-kraj-ligaske-faze/552673",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 08. 2026. у 23:04",
-      "slika": null
-    },
-    {
-      "naslov": "Prvi gol Marezija Milovanovića u engleskom fudbalu (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-gol-marezija-milovanovica-u-engleskom-fudbalu-video/552661",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 08. 2026. у 20:28",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Juventusa pobedili Parmu u drugom kolu Serije A",
-      "url": "https://www.tanjug.rs/sport/fudbal/277071/fudbaleri-juventusa-pobedili-parmu-u-drugom-kolu-serije-a/vest",
+      "naslov": "Argentinski fudbaler Leonardo Balerdi do kraja sezone na pozajmici u Romi",
+      "url": "https://www.tanjug.rs/sport/fudbal/277178/argentinski-fudbaler-leonardo-balerdi-do-kraja-sezone-na-pozajmici-u-romi/vest",
       "izvor": "Танјуг",
-      "datum": "29. 08. 2026. у 22:47",
+      "datum": "30. 08. 2026. у 13:13",
       "slika": null
     },
     {
-      "naslov": "Frank Kesi posle devet godina ponovo fudbaler Atalante",
-      "url": "https://www.tanjug.rs/sport/fudbal/277059/frank-kesi-posle-devet-godina-ponovo-fudbaler-atalante/vest",
+      "naslov": "Portugalski fudbaler Rafael Leao novo pojačanje Galatasaraja",
+      "url": "https://www.tanjug.rs/sport/fudbal/277177/portugalski-fudbaler-rafael-leao-novo-pojacanje-galatasaraja/vest",
       "izvor": "Танјуг",
-      "datum": "29. 08. 2026. у 21:36",
+      "datum": "30. 08. 2026. у 13:05",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Železničara ubedljivi protiv Radnika uz het-trik Karikarija",
-      "url": "https://www.tanjug.rs/sport/fudbal/277057/fudbaleri-zeleznicara-ubedljivi-protiv-radnika-uz-het-trik-karikarija/vest",
+      "naslov": "Belgijski fudbaler Artur Teat do kraja sezone na pozajmici u Bolonji",
+      "url": "https://www.tanjug.rs/sport/fudbal/277172/belgijski-fudbaler-artur-teat-do-kraja-sezone-na-pozajmici-u-bolonji/vest",
       "izvor": "Танјуг",
-      "datum": "29. 08. 2026. у 21:22",
+      "datum": "30. 08. 2026. у 12:45",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Crvene zvezde Ligu konferencije počinju 15. oktobra gostovanjem Luganu",
-      "url": "https://www.tanjug.rs/sport/fudbal/277055/fudbaleri-crvene-zvezde-ligu-konferencije-pocinju-15-oktobra-gostovanjem-luganu/vest",
+      "naslov": "Marokanski fudbaler Sofijan Amrabat novo pojačanje Ajaksa",
+      "url": "https://www.tanjug.rs/sport/fudbal/277161/marokanski-fudbaler-sofijan-amrabat-novo-pojacanje-ajaksa/vest",
       "izvor": "Танјуг",
-      "datum": "29. 08. 2026. у 20:56",
+      "datum": "30. 08. 2026. у 12:08",
       "slika": null
     },
     {
-      "naslov": "&quot;Danas Karikari, sutra neko drugi – važno je da smo veliki tim&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263146/danas-karikari-sutra-neko-drugi-vazno-je-da-smo-veliki-tim/vest",
+      "naslov": "FSS izdao hitno upozorenje zbog karata",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263267/fss-izdao-vazno-saopstenje-pred-ligu-nacija/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "29. 08. 2026. у 23:15",
+      "datum": "30. 08. 2026. у 14:46",
       "slika": null
     },
     {
-      "naslov": "Voša raznela Čuku – &quot;petarda&quot; na Brdu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263145/superliga-7-kolo-vojvodina-cukaricki-50-20/vest",
+      "naslov": "Saša Ilić: &quot;To me boli – ne gledam tabelu&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263213/sasa-ilic-konferencija-za-medije-partizan-ofk-beograd/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "29. 08. 2026. у 22:53",
+      "datum": "30. 08. 2026. у 11:30",
       "slika": null
     }
   ]
