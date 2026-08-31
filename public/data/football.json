@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-08-31T05:58:16.372575+00:00",
-  "azurirano_sr": "31. 08. 2026. у 07:58",
+  "azurirano": "2026-08-31T12:40:54.764215+00:00",
+  "azurirano_sr": "31. 08. 2026. у 14:40",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "TRANSFERI UŽIVO (nedelja, 30. avgust)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-uzivo-nedelja-30-avgust/552702",
+      "naslov": "Liverpul zavirio u rudnik golmana i za 35.000.000 evra kupio momka sa 15 utakmica u karijeri",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/liverpul-zavirio-u-rudnik-golmana-i-za-35000000-evra-kupio-momka-sa-15-utakmica-u-karijeri/552803",
       "izvor": "Мозарт Спорт",
-      "datum": "31. 08. 2026. у 01:11",
+      "datum": "31. 08. 2026. у 15:06",
       "slika": null
     },
     {
-      "naslov": "Javor \"preživeo\" još jednog bivšeg superligaša, razbio Napredak i pokazao da želi nazad u elitu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/javor-preziveo-jos-jednog-bivseg-superligasa-razbio-napredak-i-pokazao-da-zeli-nazad-u-elitu/552744",
+      "naslov": "Kim posle debija za Zvezdu: Čast mi je što sam dobio šansu u ovom dresu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kim-posle-debija-za-zvezdu-cast-mi-je-sto-sam-dobio-sansu-u-ovom-dresu/552802",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 08. 2026. у 22:05",
+      "datum": "31. 08. 2026. у 14:56",
       "slika": null
     },
     {
-      "naslov": "Baždar u Saragosi dao pet na 40 utakmica, a u Belgiji dva za 17 minuta",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bazdar-u-saragosi-dao-pet-na-40-utakmica-a-u-belgiji-dva-za-17-minuta/552734",
+      "naslov": "Predrag Mijatović nije više član Skupštine Partizana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/predrag-mijatovic-nije-vise-clan-skupstine-partizana/552796",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 08. 2026. у 20:16",
+      "datum": "31. 08. 2026. у 14:22",
       "slika": null
     },
     {
-      "naslov": "Petar Ratkov postaje najskuplja Žaba u istoriji?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/petar-ratkov-postaje-najskuplja-zaba-u-istoriji/552733",
+      "naslov": "Raport sa srpskoligaških terena: Samo Jedinstvo 3/3, pocrveneo Milan Purović",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-samo-jedinstvo-33-pocrveneo-milan-purovic/552792",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 08. 2026. у 19:47",
+      "datum": "31. 08. 2026. у 13:46",
+      "slika": null
+    },
+    {
+      "naslov": "Estonski fudbaler Karel Mustma novo pojačanje Čukaričkog",
+      "url": "https://www.tanjug.rs/sport/fudbal/277424/estonski-fudbaler-karel-mustma-novo-pojacanje-cukarickog/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 08. 2026. у 14:19",
+      "slika": null
+    },
+    {
+      "naslov": "Holandski fudbaler Marten de Ron novo pojačanje Rome",
+      "url": "https://www.tanjug.rs/sport/fudbal/277329/holandski-fudbaler-marten-de-ron-novo-pojacanje-rome/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 08. 2026. у 10:33",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Preokret Junajteda protiv Ipsviča, het-trik Bruna Fernandeza",
-      "url": "https://www.tanjug.rs/sport/fudbal/277243/preokret-junajteda-protiv-ipsvica-het-trik-bruna-fernandeza/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 08. 2026. у 19:33",
+      "naslov": "Zvezda nije završila prelazni rok",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263531/crvena-zvezda-dovodi-jos-igraca-rijera-zeli-spica-i-beka/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "31. 08. 2026. у 13:55",
       "slika": null
     },
     {
-      "naslov": "Murinjo ima \"tri od tri\", Real ubedljiv protiv Malage",
-      "url": "https://www.tanjug.rs/sport/fudbal/277240/murinjo-ima-tri-od-tri-real-ubedljiv-protiv-malage/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 08. 2026. у 19:17",
-      "slika": null
-    },
-    {
-      "naslov": "Još jedan Srbin bi mogao u Španiju",
-      "url": "https://www.b92.net/sport/fudbal/vesti/263324/milos-pantovic-ide-na-pozajmicu-u-valjadolid/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "30. 08. 2026. у 23:38",
-      "slika": null
-    },
-    {
-      "naslov": "Amrabat u Ajaksu",
-      "url": "https://www.b92.net/sport/fudbal/vesti/263234/amrabat-u-ajaksu/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "30. 08. 2026. у 20:50",
+      "naslov": "Konačan razlaz Mijatovića i Partizana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263503/mijatovic-nije-vise-clan-skupstine-partizana/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "31. 08. 2026. у 12:44",
       "slika": null
     }
   ]
