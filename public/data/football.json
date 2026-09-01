@@ -1,76 +1,76 @@
 {
-  "azurirano": "2026-09-01T12:04:21.640723+00:00",
-  "azurirano_sr": "1. 09. 2026. у 14:04",
+  "azurirano": "2026-09-01T16:30:50.676166+00:00",
+  "azurirano_sr": "1. 09. 2026. у 18:30",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Eraković pred transferom u Katar",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/erakovic-pred-transferom-u-katar/552924",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 09. 2026. у 19:44",
+      "slika": null
+    },
     {
       "naslov": "UŽIVO - POSLEDNJI DAN PRELAZNOG ROKA",
       "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-poslednji-dan-prelaznog-roka/552868",
       "izvor": "Мозарт Спорт",
-      "datum": "1. 09. 2026. у 14:59",
+      "datum": "1. 09. 2026. у 19:16",
       "slika": null
     },
     {
-      "naslov": "Musa Dijabi je najveći transfer iz saudijskog fudbala, a Bajer omiljeni kupac",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/musa-dijabi-je-najveci-transfer-iz-saudijskog-fudbala-a-bajer-omiljeni-kupac/552895",
+      "naslov": "Povratak Danila Pantića na srpsku fudbalsku scenu – u dresu Loznice",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/povratak-danila-pantica-na-srpsku-fudbalsku-scenu-u-dresu-loznice/552918",
       "izvor": "Мозарт Спорт",
-      "datum": "1. 09. 2026. у 14:56",
+      "datum": "1. 09. 2026. у 17:59",
       "slika": null
     },
     {
-      "naslov": "Gajić: Još je rano pričati o trofejima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gajic-jos-je-rano-pricati-o-trofejima/552882",
+      "naslov": "Brazilci su Barsin DNK, Gabrijel Žezus nastavio tradiciju na Nou Kampu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/brazilci-su-barsin-dnk-gabrijel-zezus-nastavio-tradiciju-na-nou-kampu/552914",
       "izvor": "Мозарт Спорт",
-      "datum": "1. 09. 2026. у 13:09",
+      "datum": "1. 09. 2026. у 17:11",
       "slika": null
     },
     {
-      "naslov": "Jeftin pojas za spasavanje i za klub i za igrača: Itan Envaneri u Dortmundu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jeftin-pojas-za-spasavanje-i-za-klub-i-za-igraca-itan-envaneri-u-dortmundu/552878",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 09. 2026. у 12:38",
-      "slika": null
-    },
-    {
-      "naslov": "Portugalski fudbaler Fabio Vijeira nastavlja karijeru u Hamburgeru",
-      "url": "https://www.tanjug.rs/sport/fudbal/277767/portugalski-fudbaler-fabio-vijeira-nastavlja-karijeru-u-hamburgeru/vest",
+      "naslov": "Turski stručnjak Fatih Teke nije više trener fudbalera Trabzona",
+      "url": "https://www.tanjug.rs/sport/fudbal/277846/turski-strucnjak-fatih-teke-nije-vise-trener-fudbalera-trabzona/vest",
       "izvor": "Танјуг",
-      "datum": "1. 09. 2026. у 13:41",
+      "datum": "1. 09. 2026. у 16:48",
       "slika": null
     },
     {
-      "naslov": "Dosadašnji fudbaler Crvene zvezde Džej Enem potpisao ugovor sa Bolonjom",
-      "url": "https://www.tanjug.rs/sport/fudbal/277752/dosadasnji-fudbaler-crvene-zvezde-dzej-enem-potpisao-ugovor-sa-bolonjom/vest",
+      "naslov": "Brazilski fudbaler Gabrijel Žezus potpisao ugovor sa Barselonom",
+      "url": "https://www.tanjug.rs/sport/fudbal/277813/brazilski-fudbaler-gabrijel-zezus-potpisao-ugovor-sa-barselonom/vest",
       "izvor": "Танјуг",
-      "datum": "1. 09. 2026. у 13:18",
+      "datum": "1. 09. 2026. у 15:06",
       "slika": null
     },
     {
-      "naslov": "Italijanski fudbaler Honest Ahanor na kraju sezone prelazi u Čelsi",
-      "url": "https://www.tanjug.rs/sport/fudbal/277747/italijanski-fudbaler-honest-ahanor-na-kraju-sezone-prelazi-u-celsi/vest",
+      "naslov": "Srpski fudbaler Lazar Jovanović novo pojačanje Udinezea",
+      "url": "https://www.tanjug.rs/sport/fudbal/277810/srpski-fudbaler-lazar-jovanovic-novo-pojacanje-udinezea/vest",
       "izvor": "Танјуг",
-      "datum": "1. 09. 2026. у 13:09",
+      "datum": "1. 09. 2026. у 14:57",
       "slika": null
     },
     {
-      "naslov": "Ibrahim Mbaje potpisao ugovor sa Aston Vilom",
-      "url": "https://www.tanjug.rs/sport/fudbal/277737/ibrahim-mbaje-potpisao-ugovor-sa-aston-vilom/vest",
+      "naslov": "Engleski fudbaler Tejlor Harvud-Belis novo pojačanje Aston Vile",
+      "url": "https://www.tanjug.rs/sport/fudbal/277780/engleski-fudbaler-tejlor-harvud-belis-novo-pojacanje-aston-vile/vest",
       "izvor": "Танјуг",
-      "datum": "1. 09. 2026. у 12:54",
+      "datum": "1. 09. 2026. у 13:59",
+      "slika": null
+    },
+    {
+      "naslov": "Španac dolazi u Partizan!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263851/kristijan-manrike-novo-pojacanje-partizana/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 09. 2026. у 14:38",
       "slika": null
     },
     {
       "naslov": "Partizan prodao Roganovića – milioni stižu u Humsku",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263838/milan-roganovic-prelazi-iz-partizana-u-genk/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 09. 2026. у 13:59",
-      "slika": null
-    },
-    {
-      "naslov": "FSS nudi paket ulaznica – jeftinije na Grčku, Holandiju i Nemačku",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263806/fss-nudi-paket-ulaznica-jeftinije-na-grcku-holandiju-i-nemacku/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 09. 2026. у 12:43",
+      "datum": "1. 09. 2026. у 14:00",
       "slika": null
     }
   ]
