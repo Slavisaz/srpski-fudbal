@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-08-31T23:12:11.865889+00:00",
-  "azurirano_sr": "1. 09. 2026. у 01:12",
+  "azurirano": "2026-09-01T01:49:00.832350+00:00",
+  "azurirano_sr": "1. 09. 2026. у 03:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kakav kompliment De la Fuentea: Rodri je Mesi španskog fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kakav-kompliment-de-la-fuentea-rodri-je-mesi-spanskog-fudbala/552862",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 09. 2026. у 03:06",
+      "slika": null
+    },
     {
       "naslov": "Iako je ispao sa Lehijom, Ćirković bi mogao da ostane u Ekstraklasi: Jagjelonija baš zagrizla",
       "url": "https://www.mozzartsport.com/fudbal/vesti/iako-je-ispao-sa-lehijom-cirkovic-bi-mogao-da-ostane-u-ekstraklasi-jagjelonija-bas-zagrizla/552861",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/totenhemova-ludnica-za-kraj-stize-paket-iz-celsija-mudrik-na-pozajmici-i-stoper-u-otkupu/552855",
       "izvor": "Мозарт Спорт",
       "datum": "1. 09. 2026. у 01:29",
-      "slika": null
-    },
-    {
-      "naslov": "Pusti fudbal, radimo li posao? Imamo dogovor, evo ruka! Čekajte, nešto se pita i Samardžić (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pusti-fudbal-radimo-li-posao-imamo-dogovor-evo-ruka-cekajte-nesto-se-pita-i-samardzic-video/552846",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 09. 2026. у 00:58",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Rumuni u Vojvodini traže zamenu za bivšeg igrača Zvezde",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263607/marko-mladenovic-mozda-napusti-vojvodinu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "31. 08. 2026. у 23:12",
+      "naslov": "&quot;Zapalio&quot; Istanbul: Het-trik Vlahovića! VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/263657/prvenac-dusana-vlahovica-za-besiktas/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "31. 08. 2026. у 21:53",
       "slika": null
     },
     {
-      "naslov": "Saša Ilić: &quot;I sami znate na kojoj poziciji smo bili...&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263649/sasa-ilic-posle-pobede-partizana-nad-ofk-beogradom-31/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "31. 08. 2026. у 21:10",
+      "naslov": "Mitrović izabrao Kejna pre Vlahovića",
+      "url": "https://www.b92.net/sport/fudbal/vesti/263620/aleksandar-mitrovic-u-kvizu-izabrao-harija-kejna-pre-dusana-vlahovica/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "31. 08. 2026. у 19:03",
       "slika": null
     }
   ]
