@@ -1,62 +1,69 @@
 {
-  "azurirano": "2026-09-01T19:29:32.622328+00:00",
-  "azurirano_sr": "1. 09. 2026. у 21:29",
+  "azurirano": "2026-09-01T21:55:03.447368+00:00",
+  "azurirano_sr": "1. 09. 2026. у 23:55",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kraj licitacije i ljubavi na silu: Ratkov u Levanteu, sa 10 golova sledi otkup za 14.000.000",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-licitacije-i-ljubavi-na-silu-ratkov-u-levanteu-sa-10-golova-sledi-otkup-za-14000000/552947",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 09. 2026. у 01:27",
+      "slika": null
+    },
     {
       "naslov": "UŽIVO - POSLEDNJI DAN PRELAZNOG ROKA",
       "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-poslednji-dan-prelaznog-roka/552868",
       "izvor": "Мозарт Спорт",
-      "datum": "1. 09. 2026. у 22:56",
+      "datum": "2. 09. 2026. у 00:52",
       "slika": null
     },
     {
-      "naslov": "Ken isterao svoje, a Fjorentini uterao u kasu 30.000.000 uz mogućih još 5.000.000",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ken-isterao-svoje-a-fjorentini-uterao-u-kasu-30000000-uz-mogucih-jos-5000000/552929",
+      "naslov": "Kad je bal, nek’ je bal: Pola Evrope postalo ljubičasto, stigao i Violin šlag na Reform tortu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kad-je-bal-nek-je-bal-pola-evrope-postalo-ljubicasto-stigao-i-violin-slag-na-reform-tortu/552944",
       "izvor": "Мозарт Спорт",
-      "datum": "1. 09. 2026. у 21:58",
+      "datum": "2. 09. 2026. у 00:37",
       "slika": null
     },
     {
-      "naslov": "Najskuplji transfer u istoriji Premijer lige – Enco ”Mister 100” Fernandez!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najskuplji-transfer-u-istoriji-premijer-lige-enco-mister-100-fernandez/552928",
+      "naslov": "Totenhem napunio odbranu do vrha, Sanderlend pokupio baš ono što mu treba za Premijer ligu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/totenhem-napunio-odbranu-do-vrha-sanderlend-pokupio-bas-ono-sto-mu-treba-za-premijer-ligu/552940",
       "izvor": "Мозарт Спорт",
-      "datum": "1. 09. 2026. у 20:43",
+      "datum": "1. 09. 2026. у 23:54",
       "slika": null
     },
     {
-      "naslov": "Eraković pred transferom u Katar",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/erakovic-pred-transferom-u-katar/552924",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 09. 2026. у 19:44",
-      "slika": null
-    },
-    {
-      "naslov": "Košarkaši Crvene zvezde deklasirali Mladost uz pripremnom meču",
-      "url": "https://www.tanjug.rs/sport/fudbal/277888/kosarkasi-crvene-zvezde-deklasirali-mladost-uz-pripremnom-mecu/vest",
+      "naslov": "Srpski fudbaler Sergej Milinković-Savić ponovo strelac za Al Hilal",
+      "url": "https://www.tanjug.rs/sport/fudbal/277910/srpski-fudbaler-sergej-milinkovic-savic-ponovo-strelac-za-al-hilal/vest",
       "izvor": "Танјуг",
-      "datum": "1. 09. 2026. у 20:29",
+      "datum": "1. 09. 2026. у 22:46",
       "slika": null
     },
     {
-      "naslov": "Srpski atletičar Armin Sinančević osvojio peto mesto na Mediteranskim igrama",
-      "url": "https://www.tanjug.rs/sport/fudbal/277881/srpski-atleticar-armin-sinancevic-osvojio-peto-mesto-na-mediteranskim-igrama/vest",
+      "naslov": "Senegalski fudbaler Ilman Ndiaje prešao iz Evertona u Mančester Siti",
+      "url": "https://www.tanjug.rs/sport/fudbal/277919/senegalski-fudbaler-ilman-ndiaje-presao-iz-evertona-u-mancester-siti/vest",
       "izvor": "Танјуг",
-      "datum": "1. 09. 2026. у 19:07",
+      "datum": "1. 09. 2026. у 22:38",
       "slika": null
     },
     {
-      "naslov": "Engleski fudbaler Harvi Eliot prešao iz Liverpula u Valensiju",
-      "url": "https://www.tanjug.rs/sport/fudbal/277871/engleski-fudbaler-harvi-eliot-presao-iz-liverpula-u-valensiju/vest",
+      "naslov": "Bivši fudbaler Partizana Danilo Pantić potpisao za prvoligaša Loznicu",
+      "url": "https://www.tanjug.rs/sport/fudbal/277909/bivsi-fudbaler-partizana-danilo-pantic-potpisao-za-prvoligasa-loznicu/vest",
       "izvor": "Танјуг",
-      "datum": "1. 09. 2026. у 18:47",
+      "datum": "1. 09. 2026. у 22:02",
       "slika": null
     },
     {
-      "naslov": "Turski stručnjak Fatih Teke nije više trener fudbalera Trabzona",
-      "url": "https://www.tanjug.rs/sport/fudbal/277846/turski-strucnjak-fatih-teke-nije-vise-trener-fudbalera-trabzona/vest",
+      "naslov": "Kanadski fudbaler Džonatan Dejvid prešao iz Juventusa u madridski Atletiko",
+      "url": "https://www.tanjug.rs/sport/fudbal/277903/kanadski-fudbaler-dzonatan-dejvid-presao-iz-juventusa-u-madridski-atletiko/vest",
       "izvor": "Танјуг",
-      "datum": "1. 09. 2026. у 16:48",
+      "datum": "1. 09. 2026. у 21:46",
+      "slika": null
+    },
+    {
+      "naslov": "Poznato ko sudi 180. &quot;večiti&quot; derbi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263976/nenad-minakovic-sudi-180-veciti-derbi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 09. 2026. у 21:45",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263956/danilo-pantic-novi-fudbaler-loznice/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "1. 09. 2026. у 20:30",
-      "slika": null
-    },
-    {
-      "naslov": "Španac dolazi u Partizan!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263851/kristijan-manrike-novo-pojacanje-partizana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 09. 2026. у 14:38",
       "slika": null
     }
   ]
