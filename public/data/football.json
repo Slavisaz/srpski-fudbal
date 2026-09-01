@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-01T16:30:50.676166+00:00",
-  "azurirano_sr": "1. 09. 2026. у 18:30",
+  "azurirano": "2026-09-01T19:29:32.622328+00:00",
+  "azurirano_sr": "1. 09. 2026. у 21:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "UŽIVO - POSLEDNJI DAN PRELAZNOG ROKA",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-poslednji-dan-prelaznog-roka/552868",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 09. 2026. у 22:56",
+      "slika": null
+    },
+    {
+      "naslov": "Ken isterao svoje, a Fjorentini uterao u kasu 30.000.000 uz mogućih još 5.000.000",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ken-isterao-svoje-a-fjorentini-uterao-u-kasu-30000000-uz-mogucih-jos-5000000/552929",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 09. 2026. у 21:58",
+      "slika": null
+    },
+    {
+      "naslov": "Najskuplji transfer u istoriji Premijer lige – Enco ”Mister 100” Fernandez!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najskuplji-transfer-u-istoriji-premijer-lige-enco-mister-100-fernandez/552928",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 09. 2026. у 20:43",
+      "slika": null
+    },
     {
       "naslov": "Eraković pred transferom u Katar",
       "url": "https://www.mozzartsport.com/fudbal/vesti/erakovic-pred-transferom-u-katar/552924",
@@ -11,24 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "UŽIVO - POSLEDNJI DAN PRELAZNOG ROKA",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-poslednji-dan-prelaznog-roka/552868",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 09. 2026. у 19:16",
+      "naslov": "Košarkaši Crvene zvezde deklasirali Mladost uz pripremnom meču",
+      "url": "https://www.tanjug.rs/sport/fudbal/277888/kosarkasi-crvene-zvezde-deklasirali-mladost-uz-pripremnom-mecu/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 09. 2026. у 20:29",
       "slika": null
     },
     {
-      "naslov": "Povratak Danila Pantića na srpsku fudbalsku scenu – u dresu Loznice",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/povratak-danila-pantica-na-srpsku-fudbalsku-scenu-u-dresu-loznice/552918",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 09. 2026. у 17:59",
+      "naslov": "Srpski atletičar Armin Sinančević osvojio peto mesto na Mediteranskim igrama",
+      "url": "https://www.tanjug.rs/sport/fudbal/277881/srpski-atleticar-armin-sinancevic-osvojio-peto-mesto-na-mediteranskim-igrama/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 09. 2026. у 19:07",
       "slika": null
     },
     {
-      "naslov": "Brazilci su Barsin DNK, Gabrijel Žezus nastavio tradiciju na Nou Kampu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/brazilci-su-barsin-dnk-gabrijel-zezus-nastavio-tradiciju-na-nou-kampu/552914",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 09. 2026. у 17:11",
+      "naslov": "Engleski fudbaler Harvi Eliot prešao iz Liverpula u Valensiju",
+      "url": "https://www.tanjug.rs/sport/fudbal/277871/engleski-fudbaler-harvi-eliot-presao-iz-liverpula-u-valensiju/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 09. 2026. у 18:47",
       "slika": null
     },
     {
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Brazilski fudbaler Gabrijel Žezus potpisao ugovor sa Barselonom",
-      "url": "https://www.tanjug.rs/sport/fudbal/277813/brazilski-fudbaler-gabrijel-zezus-potpisao-ugovor-sa-barselonom/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 09. 2026. у 15:06",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Lazar Jovanović novo pojačanje Udinezea",
-      "url": "https://www.tanjug.rs/sport/fudbal/277810/srpski-fudbaler-lazar-jovanovic-novo-pojacanje-udinezea/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 09. 2026. у 14:57",
-      "slika": null
-    },
-    {
-      "naslov": "Engleski fudbaler Tejlor Harvud-Belis novo pojačanje Aston Vile",
-      "url": "https://www.tanjug.rs/sport/fudbal/277780/engleski-fudbaler-tejlor-harvud-belis-novo-pojacanje-aston-vile/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 09. 2026. у 13:59",
+      "naslov": "Nekada velika nada Partizana došla u Loznicu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263956/danilo-pantic-novi-fudbaler-loznice/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 09. 2026. у 20:30",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263851/kristijan-manrike-novo-pojacanje-partizana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "1. 09. 2026. у 14:38",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan prodao Roganovića – milioni stižu u Humsku",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263838/milan-roganovic-prelazi-iz-partizana-u-genk/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 09. 2026. у 14:00",
       "slika": null
     }
   ]
