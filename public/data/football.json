@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-02T14:33:23.148731+00:00",
-  "azurirano_sr": "2. 09. 2026. у 16:33",
+  "azurirano": "2026-09-02T18:00:15.914336+00:00",
+  "azurirano_sr": "2. 09. 2026. у 20:00",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Obrt u poslednji čas: Poljaci pišu da nema ništa od Pantovićevog dolaska u Jagjeloniju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/obrt-u-poslednji-cas-poljaci-pisu-da-nema-nista-od-pantovicevog-dolaska-u-jagjeloniju/553007",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 09. 2026. у 20:35",
+      "slika": null
+    },
+    {
+      "naslov": "Terzić prvi put starter i odmah strelac (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/terzic-prvi-put-starter-i-odmah-strelac-video/553006",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 09. 2026. у 19:49",
+      "slika": null
+    },
     {
       "naslov": "Voši u jednom danu više od 4.000.000 evra: Milutin Vidosavljević ide kod Srđana Blagojevića",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vosi-u-jednom-danu-vise-od-4000000-evra-milutin-vidosavljevic-ide-kod-srana-blagojevica/552998",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI – ŠPANIJA: Pauk u sopstvenoj mreži, Rodrijeva leđa Madridu i posebna Realova pojačanja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-spanija-pauk-u-sopstvenoj-mrezi-rodrijeva-lea-madridu-i-posebna-realova-pojacanja/552983",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 09. 2026. у 14:44",
+      "naslov": "Luka Ilić nije više fudbaler Ovijeda",
+      "url": "https://www.tanjug.rs/sport/fudbal/278104/luka-ilic-nije-vise-fudbaler-ovijeda/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 09. 2026. у 16:23",
       "slika": null
     },
     {
-      "naslov": "Osnabrik sanja čudo, Kompani upozorava: Ne sme biti opuštanja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/osnabrik-sanja-cudo-kompani-upozorava-ne-sme-biti-opustanja/552977",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 09. 2026. у 13:46",
+      "naslov": "Srpski fudbaler Đorđe Jovanović novo pojačanje Čukaričkog",
+      "url": "https://www.tanjug.rs/sport/fudbal/278096/srpski-fudbaler-dorde-jovanovic-novo-pojacanje-cukarickog/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 09. 2026. у 16:01",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Srpski fudbaler Sergej Milinković-Savić ponovo strelac za Al Hilal",
-      "url": "https://www.tanjug.rs/sport/fudbal/277910/srpski-fudbaler-sergej-milinkovic-savic-ponovo-strelac-za-al-hilal/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 09. 2026. у 22:46",
-      "slika": null
-    },
-    {
-      "naslov": "Senegalski fudbaler Ilman Ndiaje prešao iz Evertona u Mančester Siti",
-      "url": "https://www.tanjug.rs/sport/fudbal/277919/senegalski-fudbaler-ilman-ndiaje-presao-iz-evertona-u-mancester-siti/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 09. 2026. у 22:38",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda odlučila šta će biti sa Arnautovićem",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264173/marko-arnautovic-ostaje-u-zvezdi/vest",
+      "naslov": "Partizan još jači pred &quot;večiti&quot; derbi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264220/nikola-cumic-spreman-za-veciti-derbi-partizana-i-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 09. 2026. у 15:45",
+      "datum": "2. 09. 2026. у 18:15",
       "slika": null
     },
     {
-      "naslov": "Pada jedan od najzvučnijih potpisa ovog leta?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264129/djordje-jovanovic-potpisuje-za-fk-cukaricki/vest",
+      "naslov": "Vojvodina u jednom danu zaradila 4.300.000 €!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264193/milutin-vidosavljevic-ide-iz-vojvodine-u-akron/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 09. 2026. у 13:28",
+      "datum": "2. 09. 2026. у 17:00",
       "slika": null
     }
   ]
