@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-02T20:43:52.686416+00:00",
-  "azurirano_sr": "2. 09. 2026. у 22:43",
+  "azurirano": "2026-09-02T22:50:49.756345+00:00",
+  "azurirano_sr": "3. 09. 2026. у 00:50",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Osnabrik ugrabio svojih pet minuta slave, ali je Bajern ozbiljno shvatio Kup: Proradio i Kejn",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/osnabrik-ugrabio-svojih-pet-minuta-slave-ali-je-bajern-ozbiljno-shvatio-kup-proradio-i-kejn/553022",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 09. 2026. у 00:47",
+      "slika": null
+    },
     {
       "naslov": "Obrt u poslednji čas: Poljaci pišu da nema ništa od Pantovićevog dolaska u Jagjeloniju",
       "url": "https://www.mozzartsport.com/fudbal/vesti/obrt-u-poslednji-cas-poljaci-pisu-da-nema-nista-od-pantovicevog-dolaska-u-jagjeloniju/553007",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/vosi-u-jednom-danu-vise-od-4000000-evra-milutin-vidosavljevic-ide-kod-srana-blagojevica/552998",
       "izvor": "Мозарт Спорт",
       "datum": "2. 09. 2026. у 17:09",
-      "slika": null
-    },
-    {
-      "naslov": "Četiri godine posle transfera Enco postao najskuplja argentinska prodaja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cetiri-godine-posle-transfera-enco-postao-najskuplja-argentinska-prodaja/552979",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 09. 2026. у 15:20",
       "slika": null
     },
     {
