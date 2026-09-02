@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-02T10:21:09.846673+00:00",
-  "azurirano_sr": "2. 09. 2026. у 12:21",
+  "azurirano": "2026-09-02T14:33:23.148731+00:00",
+  "azurirano_sr": "2. 09. 2026. у 16:33",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Voši u jednom danu više od 4.000.000 evra: Milutin Vidosavljević ide kod Srđana Blagojevića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vosi-u-jednom-danu-vise-od-4000000-evra-milutin-vidosavljevic-ide-kod-srana-blagojevica/552998",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 09. 2026. у 17:09",
+      "slika": null
+    },
+    {
+      "naslov": "Četiri godine posle transfera Enco postao najskuplja argentinska prodaja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cetiri-godine-posle-transfera-enco-postao-najskuplja-argentinska-prodaja/552979",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 09. 2026. у 15:20",
+      "slika": null
+    },
+    {
+      "naslov": "TRANSFERI – ŠPANIJA: Pauk u sopstvenoj mreži, Rodrijeva leđa Madridu i posebna Realova pojačanja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-spanija-pauk-u-sopstvenoj-mrezi-rodrijeva-lea-madridu-i-posebna-realova-pojacanja/552983",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 09. 2026. у 14:44",
+      "slika": null
+    },
     {
       "naslov": "Osnabrik sanja čudo, Kompani upozorava: Ne sme biti opuštanja",
       "url": "https://www.mozzartsport.com/fudbal/vesti/osnabrik-sanja-cudo-kompani-upozorava-ne-sme-biti-opustanja/552977",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Evo štopera u Humskoj! Kapiten Santa Klare za jači Partizan",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/evo-stopera-u-humskoj-kapiten-santa-klare-za-jaci-partizan/552976",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 09. 2026. у 13:31",
-      "slika": null
-    },
-    {
-      "naslov": "Erakoviću, šta sad? Odlazak u Al Sad!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/erakovicu-sta-sad-odlazak-u-al-sad/552969",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 09. 2026. у 12:31",
-      "slika": null
-    },
-    {
-      "naslov": "Najskuplji transferi prelaznog roka: Leto kad je 100.000.000 prestalo da odjekuje kao STO MILIONA",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najskuplji-transferi-prelaznog-roka-leto-kad-je-100000000-prestalo-da-odjekuje-kao-sto-miliona/552970",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 09. 2026. у 12:20",
+      "naslov": "Preminuo nekadašnji jugoslovenski fudbaler Ivan Gudelj",
+      "url": "https://www.tanjug.rs/sport/fudbal/278032/preminuo-nekadasnji-jugoslovenski-fudbaler-ivan-gudelj/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 09. 2026. у 13:02",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Bivši fudbaler Partizana Danilo Pantić potpisao za prvoligaša Loznicu",
-      "url": "https://www.tanjug.rs/sport/fudbal/277909/bivsi-fudbaler-partizana-danilo-pantic-potpisao-za-prvoligasa-loznicu/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 09. 2026. у 22:02",
+      "naslov": "Zvezda odlučila šta će biti sa Arnautovićem",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264173/marko-arnautovic-ostaje-u-zvezdi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 09. 2026. у 15:45",
       "slika": null
     },
     {
-      "naslov": "Partizan našao štopera u Portugalu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264104/sidni-lima-dolazi-u-partizan/vest",
+      "naslov": "Pada jedan od najzvučnijih potpisa ovog leta?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264129/djordje-jovanovic-potpisuje-za-fk-cukaricki/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 09. 2026. у 11:55",
-      "slika": null
-    },
-    {
-      "naslov": "Poznato ko sudi 180. &quot;večiti&quot; derbi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263976/nenad-minakovic-sudi-180-veciti-derbi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 09. 2026. у 21:45",
+      "datum": "2. 09. 2026. у 13:28",
       "slika": null
     }
   ]
