@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-02T01:22:39.968482+00:00",
-  "azurirano_sr": "2. 09. 2026. у 03:22",
+  "azurirano": "2026-09-02T05:56:45.089615+00:00",
+  "azurirano_sr": "2. 09. 2026. у 07:56",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "KRAJ PRELAZNOG ROKA",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-prelaznog-roka/552868",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 09. 2026. у 05:15",
+      "slika": null
+    },
     {
       "naslov": "Konačno neko posle Aleksisa i Vidala: Najskuplji u istoriji danske lige, Palas istresao 32.000.000",
       "url": "https://www.mozzartsport.com/fudbal/vesti/konacno-neko-posle-aleksisa-i-vidala-najskuplji-u-istoriji-danske-lige-palas-istresao-32000000/552950",
@@ -15,13 +22,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/sitijeva-operacija-na-otvorenom-srcu-in-375000000-out-17700000/552954",
       "izvor": "Мозарт Спорт",
       "datum": "2. 09. 2026. у 02:47",
-      "slika": null
-    },
-    {
-      "naslov": "UŽIVO - POSLEDNJI DAN PRELAZNOG ROKA",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-poslednji-dan-prelaznog-roka/552868",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 09. 2026. у 02:32",
       "slika": null
     },
     {
