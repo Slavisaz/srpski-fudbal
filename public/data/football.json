@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-09-02T18:00:15.914336+00:00",
-  "azurirano_sr": "2. 09. 2026. у 20:00",
+  "azurirano": "2026-09-02T20:43:52.686416+00:00",
+  "azurirano_sr": "2. 09. 2026. у 22:43",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Klubovi engleske Premijer lige potrošili rekordne četiri milijarde evra na pojačanja",
+      "url": "https://www.tanjug.rs/sport/fudbal/278179/klubovi-engleske-premijer-lige-potrosili-rekordne-cetiri-milijarde-evra-na-pojacanja/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 09. 2026. у 21:35",
+      "slika": null
+    },
+    {
+      "naslov": "Pižon: Gudelj je ostavio veliki i neizbrisiv trag u fudbalu bivše Jugoslavije",
+      "url": "https://www.tanjug.rs/sport/fudbal/278141/pizon-gudelj-je-ostavio-veliki-i-neizbrisiv-trag-u-fudbalu-bivse-jugoslavije/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 09. 2026. у 18:48",
+      "slika": null
+    },
+    {
       "naslov": "Luka Ilić nije više fudbaler Ovijeda",
       "url": "https://www.tanjug.rs/sport/fudbal/278104/luka-ilic-nije-vise-fudbaler-ovijeda/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/278096/srpski-fudbaler-dorde-jovanovic-novo-pojacanje-cukarickog/vest",
       "izvor": "Танјуг",
       "datum": "2. 09. 2026. у 16:01",
-      "slika": null
-    },
-    {
-      "naslov": "Preminuo nekadašnji jugoslovenski fudbaler Ivan Gudelj",
-      "url": "https://www.tanjug.rs/sport/fudbal/278032/preminuo-nekadasnji-jugoslovenski-fudbaler-ivan-gudelj/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 09. 2026. у 13:02",
-      "slika": null
-    },
-    {
-      "naslov": "Argentinski fudbaler Enco Fernandez novo pojačanje Mančester sitija",
-      "url": "https://www.tanjug.rs/sport/fudbal/277952/argentinski-fudbaler-enco-fernandez-novo-pojacanje-mancester-sitija/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 09. 2026. у 08:53",
       "slika": null
     },
     {
