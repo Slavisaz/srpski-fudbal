@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-01T23:38:58.587553+00:00",
-  "azurirano_sr": "2. 09. 2026. у 01:38",
+  "azurirano": "2026-09-02T01:22:39.968482+00:00",
+  "azurirano_sr": "2. 09. 2026. у 03:22",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Konačno neko posle Aleksisa i Vidala: Najskuplji u istoriji danske lige, Palas istresao 32.000.000",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/konacno-neko-posle-aleksisa-i-vidala-najskuplji-u-istoriji-danske-lige-palas-istresao-32000000/552950",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 09. 2026. у 04:17",
+      "slika": null
+    },
     {
       "naslov": "Sitijeva operacija na otvorenom srcu: IN  - 375.000.000, OUT - 177.00.000",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sitijeva-operacija-na-otvorenom-srcu-in-375000000-out-17700000/552954",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/miso-srecan-povratak-dve-godine-bez-fudbala-a-otkup-87500000-evra/552949",
       "izvor": "Мозарт Спорт",
       "datum": "2. 09. 2026. у 02:05",
-      "slika": null
-    },
-    {
-      "naslov": "Griliš na novoj pozajmici, Siti se oslobodio plate od 18.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/grilis-na-novoj-pozajmici-siti-se-oslobodio-plate-od-18000000-evra/552951",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 09. 2026. у 02:00",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "SMS nastavio golgeterski niz – Votkins na debiju zatresao mrežu VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/263982/gol-sergeja-milinkovica-savica-u-trijumfu-al-hilala-nad-al-ahlijem-30/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "1. 09. 2026. у 22:15",
+      "naslov": "Poznato ko sudi 180. &quot;večiti&quot; derbi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263976/nenad-minakovic-sudi-180-veciti-derbi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 09. 2026. у 21:45",
       "slika": null
     },
     {
-      "naslov": "Ridiger završio sa Nemcima",
-      "url": "https://www.b92.net/sport/fudbal/vesti/263913/antonio-ridiger-se-povukao-iz-reprezentacije-nemacke/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "1. 09. 2026. у 18:15",
+      "naslov": "Nekada velika nada Partizana došla u Loznicu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263956/danilo-pantic-novi-fudbaler-loznice/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 09. 2026. у 20:30",
       "slika": null
     }
   ]
