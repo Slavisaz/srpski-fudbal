@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-09-02T05:56:45.089615+00:00",
-  "azurirano_sr": "2. 09. 2026. у 07:56",
+  "azurirano": "2026-09-02T10:21:09.846673+00:00",
+  "azurirano_sr": "2. 09. 2026. у 12:21",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "KRAJ PRELAZNOG ROKA",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-prelaznog-roka/552868",
+      "naslov": "Osnabrik sanja čudo, Kompani upozorava: Ne sme biti opuštanja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/osnabrik-sanja-cudo-kompani-upozorava-ne-sme-biti-opustanja/552977",
       "izvor": "Мозарт Спорт",
-      "datum": "2. 09. 2026. у 05:15",
+      "datum": "2. 09. 2026. у 13:46",
       "slika": null
     },
     {
-      "naslov": "Konačno neko posle Aleksisa i Vidala: Najskuplji u istoriji danske lige, Palas istresao 32.000.000",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/konacno-neko-posle-aleksisa-i-vidala-najskuplji-u-istoriji-danske-lige-palas-istresao-32000000/552950",
+      "naslov": "Evo štopera u Humskoj! Kapiten Santa Klare za jači Partizan",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/evo-stopera-u-humskoj-kapiten-santa-klare-za-jaci-partizan/552976",
       "izvor": "Мозарт Спорт",
-      "datum": "2. 09. 2026. у 04:17",
+      "datum": "2. 09. 2026. у 13:31",
       "slika": null
     },
     {
-      "naslov": "Sitijeva operacija na otvorenom srcu: IN  - 375.000.000, OUT - 177.00.000",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sitijeva-operacija-na-otvorenom-srcu-in-375000000-out-17700000/552954",
+      "naslov": "Erakoviću, šta sad? Odlazak u Al Sad!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/erakovicu-sta-sad-odlazak-u-al-sad/552969",
       "izvor": "Мозарт Спорт",
-      "datum": "2. 09. 2026. у 02:47",
+      "datum": "2. 09. 2026. у 12:31",
       "slika": null
     },
     {
-      "naslov": "Mišo, srećan povratak! Dve godine bez fudbala, a otkup 87.500.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/miso-srecan-povratak-dve-godine-bez-fudbala-a-otkup-87500000-evra/552949",
+      "naslov": "Najskuplji transferi prelaznog roka: Leto kad je 100.000.000 prestalo da odjekuje kao STO MILIONA",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najskuplji-transferi-prelaznog-roka-leto-kad-je-100000000-prestalo-da-odjekuje-kao-sto-miliona/552970",
       "izvor": "Мозарт Спорт",
-      "datum": "2. 09. 2026. у 02:05",
+      "datum": "2. 09. 2026. у 12:20",
+      "slika": null
+    },
+    {
+      "naslov": "Argentinski fudbaler Enco Fernandez novo pojačanje Mančester sitija",
+      "url": "https://www.tanjug.rs/sport/fudbal/277952/argentinski-fudbaler-enco-fernandez-novo-pojacanje-mancester-sitija/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 09. 2026. у 08:53",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Kanadski fudbaler Džonatan Dejvid prešao iz Juventusa u madridski Atletiko",
-      "url": "https://www.tanjug.rs/sport/fudbal/277903/kanadski-fudbaler-dzonatan-dejvid-presao-iz-juventusa-u-madridski-atletiko/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 09. 2026. у 21:46",
+      "naslov": "Partizan našao štopera u Portugalu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264104/sidni-lima-dolazi-u-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 09. 2026. у 11:55",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263976/nenad-minakovic-sudi-180-veciti-derbi/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "1. 09. 2026. у 21:45",
-      "slika": null
-    },
-    {
-      "naslov": "Nekada velika nada Partizana došla u Loznicu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/263956/danilo-pantic-novi-fudbaler-loznice/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "1. 09. 2026. у 20:30",
       "slika": null
     }
   ]
