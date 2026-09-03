@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-03T00:45:09.961254+00:00",
-  "azurirano_sr": "3. 09. 2026. у 02:45",
+  "azurirano": "2026-09-03T05:07:13.208191+00:00",
+  "azurirano_sr": "3. 09. 2026. у 07:07",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Tako se ispraća najveći ikada: Prekinuta utakmica zbog minuta aplauza Mesiju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tako-se-ispraca-najveci-ikada-prekinuta-utakmica-zbog-minuta-aplauza-mesiju/553029",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 09. 2026. у 06:24",
+      "slika": null
+    },
     {
       "naslov": "Osnabrik ugrabio svojih pet minuta slave, ali je Bajern ozbiljno shvatio Kup: Proradio i Kejn",
       "url": "https://www.mozzartsport.com/fudbal/vesti/osnabrik-ugrabio-svojih-pet-minuta-slave-ali-je-bajern-ozbiljno-shvatio-kup-proradio-i-kejn/553022",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/terzic-prvi-put-starter-i-odmah-strelac-video/553006",
       "izvor": "Мозарт Спорт",
       "datum": "2. 09. 2026. у 19:49",
-      "slika": null
-    },
-    {
-      "naslov": "Voši u jednom danu više od 4.000.000 evra: Milutin Vidosavljević ide kod Srđana Blagojevića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vosi-u-jednom-danu-vise-od-4000000-evra-milutin-vidosavljevic-ide-kod-srana-blagojevica/552998",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 09. 2026. у 17:09",
       "slika": null
     },
     {
