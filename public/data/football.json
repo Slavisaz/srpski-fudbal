@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-03T13:51:15.324605+00:00",
-  "azurirano_sr": "3. 09. 2026. у 15:51",
+  "azurirano": "2026-09-03T17:18:17.547091+00:00",
+  "azurirano_sr": "3. 09. 2026. у 19:18",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Sar mora da svari to što mu je propao transfer u Liverpul",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sar-mora-da-svari-to-sto-mu-je-propao-transfer-u-liverpul/553077",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 09. 2026. у 20:55",
+      "slika": null
+    },
+    {
+      "naslov": "Ljajić mašta da bude kao na debiju za Pazar: Voleo bih da se ponovi takav scenario, fudbal je čudna igra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ljajic-masta-da-bude-kao-na-debiju-za-pazar-voleo-bih-da-se-ponovi-takav-scenario-fudbal-je-cudna-igra/553075",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 09. 2026. у 19:44",
+      "slika": null
+    },
+    {
+      "naslov": "Andrija Radulović promenio klub, ali ne i zemlju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/andrija-radulovic-promenio-klub-ali-ne-i-zemlju/553067",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 09. 2026. у 17:38",
+      "slika": null
+    },
     {
       "naslov": "Čukarički okupio fudbalsku Srbiju na proslavi velikog jubileja",
       "url": "https://www.mozzartsport.com/fudbal/vesti/cukaricki-okupio-fudbalsku-srbiju-na-proslavi-velikog-jubileja/553059",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "TRANSFERI – ITALIJA: I opet – Komo! Romanisti, smirite se... Cirkus u Firenci, bruka u Napulju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/transferi-italija-i-opet-komo-romanisti-smirite-se-cirkus-u-firenci-bruka-u-napulju/553054",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 09. 2026. у 14:39",
+      "naslov": "Nastavlja se Superliga Srbije, Zvezda u nedelju čeka Partizan u 180. večitom derbiju",
+      "url": "https://www.tanjug.rs/sport/fudbal/278438/nastavlja-se-superliga-srbije-zvezda-u-nedelju-ceka-partizan-u-180-vecitom-derbiju/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 09. 2026. у 18:22",
       "slika": null
     },
     {
-      "naslov": "Šta Pantoviću ostaje posle propalog transfera? Grčka, Srbija, eventualno Turska...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sta-pantovicu-ostaje-posle-propalog-transfera-grcka-srbija-eventualno-turska/553051",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 09. 2026. у 14:09",
-      "slika": null
-    },
-    {
-      "naslov": "Velika ispovest Luke Modrića: Zamorna je više priča o mojim godinama, telo će samo reći kad je vreme",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/velika-ispovest-luke-modrica-zamorna-je-vise-prica-o-mojim-godinama-telo-ce-samo-reci-kad-je-vreme/553044",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 09. 2026. у 13:33",
+      "naslov": "Švajcarski fudbaler Rikardo Rodrigez se vratio u Torino",
+      "url": "https://www.tanjug.rs/sport/fudbal/278396/svajcarski-fudbaler-rikardo-rodrigez-se-vratio-u-torino/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 09. 2026. у 16:05",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "FK Crvena zvezda: Karte za 180. večiti derbi u prodaji na blagajnama Marakane",
-      "url": "https://www.tanjug.rs/sport/fudbal/278337/fk-crvena-zvezda-karte-za-180-veciti-derbi-u-prodaji-na-blagajnama-marakane/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 09. 2026. у 13:27",
+      "naslov": "UEFA donela važnu odluku – tiče se i Partizana, Zvezde i Srbije",
+      "url": "https://www.b92.net/sport/fudbal/vesti/264528/uefa-promenila-nacin-kaznjavanja-navijaca-vazno-za-partizan-zvezdu-i-srbiju/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "3. 09. 2026. у 18:00",
       "slika": null
     },
     {
-      "naslov": "Gabonski fudbaler Pjer-Emerik Obamejang objavio kraj reprezentativne karijere",
-      "url": "https://www.tanjug.rs/sport/fudbal/278335/gabonski-fudbaler-pjer-emerik-obamejang-objavio-kraj-reprezentativne-karijere/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 09. 2026. у 13:24",
-      "slika": null
-    },
-    {
-      "naslov": "Dragan Mance – legenda živi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/160485/41-godina-od-smrti-dragana-mancea/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 09. 2026. у 14:40",
-      "slika": null
-    },
-    {
-      "naslov": "Partizanov štoper aplicirao za srpsko državljanstvo",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264449/stefan-milic-aplicirao-za-drzavljanstvo-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 09. 2026. у 14:14",
+      "naslov": "Blista na Mundijalima, a onda nestane",
+      "url": "https://www.b92.net/sport/fudbal/vesti/264408/azedin-unahi-novi-fudbaler-panatinaikosa/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "3. 09. 2026. у 14:52",
       "slika": null
     }
   ]
