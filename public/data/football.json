@@ -1,34 +1,55 @@
 {
-  "azurirano": "2026-09-03T05:07:13.208191+00:00",
-  "azurirano_sr": "3. 09. 2026. у 07:07",
+  "azurirano": "2026-09-03T09:40:38.880018+00:00",
+  "azurirano_sr": "3. 09. 2026. у 11:40",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Tako se ispraća najveći ikada: Prekinuta utakmica zbog minuta aplauza Mesiju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tako-se-ispraca-najveci-ikada-prekinuta-utakmica-zbog-minuta-aplauza-mesiju/553029",
+      "naslov": "Velika ispovest Luke Modrića: Zamorna je više priča o mojim godinama, telo će samo reći kad je vreme",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/velika-ispovest-luke-modrica-zamorna-je-vise-prica-o-mojim-godinama-telo-ce-samo-reci-kad-je-vreme/553044",
       "izvor": "Мозарт Спорт",
-      "datum": "3. 09. 2026. у 06:24",
+      "datum": "3. 09. 2026. у 13:33",
       "slika": null
     },
     {
-      "naslov": "Osnabrik ugrabio svojih pet minuta slave, ali je Bajern ozbiljno shvatio Kup: Proradio i Kejn",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/osnabrik-ugrabio-svojih-pet-minuta-slave-ali-je-bajern-ozbiljno-shvatio-kup-proradio-i-kejn/553022",
+      "naslov": "Rasim Ljajić: Javnost se uplašila kad je videla ko bi mogao da dođe umesto nas",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rasim-ljajic-javnost-se-uplasila-kad-je-videla-ko-bi-mogao-da-doe-umesto-nas/553043",
       "izvor": "Мозарт Спорт",
-      "datum": "3. 09. 2026. у 00:47",
+      "datum": "3. 09. 2026. у 12:14",
       "slika": null
     },
     {
-      "naslov": "Obrt u poslednji čas: Poljaci pišu da nema ništa od Pantovićevog dolaska u Jagjeloniju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/obrt-u-poslednji-cas-poljaci-pisu-da-nema-nista-od-pantovicevog-dolaska-u-jagjeloniju/553007",
+      "naslov": "Škoti oduševljeni Ivezićem: Svestran igrač sa bundesligaškim i reprezentativnim iskustvom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/skoti-odusevljeni-ivezicem-svestran-igrac-sa-bundesligaskim-i-reprezentativnim-iskustvom/553037",
       "izvor": "Мозарт Спорт",
-      "datum": "2. 09. 2026. у 20:35",
+      "datum": "3. 09. 2026. у 11:51",
       "slika": null
     },
     {
-      "naslov": "Terzić prvi put starter i odmah strelac (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/terzic-prvi-put-starter-i-odmah-strelac-video/553006",
+      "naslov": "Lion Bejli kao višnja na šlag - najjači prelazni rok u istoriji grčkog fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lion-bejli-kao-visnja-na-slag-najjaci-prelazni-rok-u-istoriji-grckog-fudbala/553031",
       "izvor": "Мозарт Спорт",
-      "datum": "2. 09. 2026. у 19:49",
+      "datum": "3. 09. 2026. у 11:33",
+      "slika": null
+    },
+    {
+      "naslov": "Edin Džeko 2. oktobra protiv Švedske završava reprezentativnu karijeru",
+      "url": "https://www.tanjug.rs/sport/fudbal/278274/edin-dzeko-2-oktobra-protiv-svedske-zavrsava-reprezentativnu-karijeru/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 09. 2026. у 10:53",
+      "slika": null
+    },
+    {
+      "naslov": "Milan Roganović prešao iz Partizana u Genk",
+      "url": "https://www.tanjug.rs/sport/fudbal/278266/milan-roganovic-presao-iz-partizana-u-genk/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 09. 2026. у 10:31",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaler iz Gvineje Bisao Frankulino prešao u Trabzon",
+      "url": "https://www.tanjug.rs/sport/fudbal/278260/fudbaler-iz-gvineje-bisao-frankulino-presao-u-trabzon/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 09. 2026. у 10:07",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Pižon: Gudelj je ostavio veliki i neizbrisiv trag u fudbalu bivše Jugoslavije",
-      "url": "https://www.tanjug.rs/sport/fudbal/278141/pizon-gudelj-je-ostavio-veliki-i-neizbrisiv-trag-u-fudbalu-bivse-jugoslavije/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 09. 2026. у 18:48",
+      "naslov": "Marko Nikolić završio veliko pojačanje za Ligu šampiona",
+      "url": "https://www.b92.net/sport/fudbal/vesti/264342/zoao-mario-ponovo-u-aek-u/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "3. 09. 2026. у 11:32",
       "slika": null
     },
     {
-      "naslov": "Luka Ilić nije više fudbaler Ovijeda",
-      "url": "https://www.tanjug.rs/sport/fudbal/278104/luka-ilic-nije-vise-fudbaler-ovijeda/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 09. 2026. у 16:23",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Đorđe Jovanović novo pojačanje Čukaričkog",
-      "url": "https://www.tanjug.rs/sport/fudbal/278096/srpski-fudbaler-dorde-jovanovic-novo-pojacanje-cukarickog/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 09. 2026. у 16:01",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan još jači pred &quot;večiti&quot; derbi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264220/nikola-cumic-spreman-za-veciti-derbi-partizana-i-crvene-zvezde/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 09. 2026. у 18:15",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina u jednom danu zaradila 4.300.000 €!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264193/milutin-vidosavljevic-ide-iz-vojvodine-u-akron/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 09. 2026. у 17:00",
+      "naslov": "Argentinci prekinuli utakmicu zbog Mesija VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/264320/argentinci-minutom-aplauza-ukazali-postovanje-lionelu-mesije/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "3. 09. 2026. у 11:18",
       "slika": null
     }
   ]
