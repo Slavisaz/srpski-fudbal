@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-04T14:53:55.390964+00:00",
-  "azurirano_sr": "4. 09. 2026. у 16:53",
+  "azurirano": "2026-09-04T17:51:03.113183+00:00",
+  "azurirano_sr": "4. 09. 2026. у 19:51",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Najveći transferi koji se nisu desili: Real bi mogao da pati, Arsenalove unapred izgubljene bitke",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najveci-transferi-koji-se-nisu-desili-real-bi-mogao-da-pati-arsenalove-unapred-izgubljene-bitke/553140",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 09. 2026. у 20:50",
+      "slika": null
+    },
     {
       "naslov": "Frka u šampionu Azije: Otpušten direktor zbog ugrađivanja u transfer",
       "url": "https://www.mozzartsport.com/fudbal/vesti/frka-u-sampionu-azije-otpusten-direktor-zbog-ugraivanja-u-transfer/553135",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Kako je Čelsi postao najveći trendseter modernog fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-je-celsi-postao-najveci-trendseter-modernog-fudbala/553112",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 09. 2026. у 13:18",
+      "naslov": "FK Crvena zvezda: Fan zona za najmlađe navijače pred 180. večiti derbi",
+      "url": "https://www.tanjug.rs/sport/fudbal/278660/fk-crvena-zvezda-fan-zona-za-najmlade-navijace-pred-180-veciti-derbi/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 09. 2026. у 16:24",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Alžirski fudbaler Badredin Buanani novo pojačanje Rendžersa",
-      "url": "https://www.tanjug.rs/sport/fudbal/278472/alzirski-fudbaler-badredin-buanani-novo-pojacanje-rendzersa/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 09. 2026. у 21:54",
+      "naslov": "Zvezda se oglasila pred &quot;večiti&quot; derbi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264810/saopstenje-crvene-zvezde-pred-veciti-derbi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 09. 2026. у 17:45",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264731/cies-partizan-treci-na-svetu-po-broju-igraca-mladjih-od-21-godine/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 09. 2026. у 13:48",
-      "slika": null
-    },
-    {
-      "naslov": "Zašto je propao transfer Dembe Seka u Hetafe?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264657/rasim-ljajic-o-propalom-transferu-dembe-seka-iz-partizana-u-hetafe/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 09. 2026. у 10:06",
       "slika": null
     }
   ]
