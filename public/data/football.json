@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-04T11:02:53.128079+00:00",
-  "azurirano_sr": "4. 09. 2026. у 13:02",
+  "azurirano": "2026-09-04T14:53:55.390964+00:00",
+  "azurirano_sr": "4. 09. 2026. у 16:53",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Frka u šampionu Azije: Otpušten direktor zbog ugrađivanja u transfer",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/frka-u-sampionu-azije-otpusten-direktor-zbog-ugraivanja-u-transfer/553135",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 09. 2026. у 17:50",
+      "slika": null
+    },
+    {
+      "naslov": "Iskomplikovao se transfer Kokanovića u Volfsburg",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/iskomplikovao-se-transfer-kokanovica-u-volfsburg/553130",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 09. 2026. у 16:44",
+      "slika": null
+    },
     {
       "naslov": "Zvonimir Boban: Milan više ne radi “milanski“, Modriću će biti teško da pokrije 60 metara terena kod Amorima",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zvonimir-boban-milan-vise-ne-radi-milanski-modricu-ce-biti-tesko-da-pokrije-60-metara-terena-kod-amorima/553113",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/kako-je-celsi-postao-najveci-trendseter-modernog-fudbala/553112",
       "izvor": "Мозарт Спорт",
       "datum": "4. 09. 2026. у 13:18",
-      "slika": null
-    },
-    {
-      "naslov": "Demikelis: Raspitivali su se za Maksimovića, odbili smo da pregovaramo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/demikelis-raspitivali-su-se-za-maksimovica-odbili-smo-da-pregovaramo/553105",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 09. 2026. у 11:29",
-      "slika": null
-    },
-    {
-      "naslov": "Kraj nade? Investirori 'spasioci' se povlače, Bordo pred gašenjem",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-nade-investirori-spasioci-se-povlace-bordo-pred-gasenjem/553088",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 09. 2026. у 23:54",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Istraživanje kaže: Partizan treći na svetu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264731/cies-partizan-treci-na-svetu-po-broju-igraca-mladjih-od-21-godine/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 09. 2026. у 13:48",
+      "slika": null
+    },
+    {
       "naslov": "Zašto je propao transfer Dembe Seka u Hetafe?",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264657/rasim-ljajic-o-propalom-transferu-dembe-seka-iz-partizana-u-hetafe/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 09. 2026. у 10:06",
-      "slika": null
-    },
-    {
-      "naslov": "IMT prodao ofanzivca za 2.000.000 evra!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264631/dusan-zagar-otisao-za-2000000-evra-iz-imt-a/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 09. 2026. у 09:00",
       "slika": null
     }
   ]
