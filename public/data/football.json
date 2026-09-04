@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-04T17:51:03.113183+00:00",
-  "azurirano_sr": "4. 09. 2026. у 19:51",
+  "azurirano": "2026-09-04T19:55:14.720894+00:00",
+  "azurirano_sr": "4. 09. 2026. у 21:55",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Opendi se igra fudbal, Milanov bek raste u Lionu: Dečaci gledaju s vrha Lige 1",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/opendi-se-igra-fudbal-milanov-bek-raste-u-lionu-decaci-gledaju-s-vrha-lige-1/553147",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 09. 2026. у 23:07",
+      "slika": null
+    },
     {
       "naslov": "Najveći transferi koji se nisu desili: Real bi mogao da pati, Arsenalove unapred izgubljene bitke",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najveci-transferi-koji-se-nisu-desili-real-bi-mogao-da-pati-arsenalove-unapred-izgubljene-bitke/553140",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Zvonimir Boban: Milan više ne radi “milanski“, Modriću će biti teško da pokrije 60 metara terena kod Amorima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvonimir-boban-milan-vise-ne-radi-milanski-modricu-ce-biti-tesko-da-pokrije-60-metara-terena-kod-amorima/553113",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 09. 2026. у 13:21",
+      "naslov": "Fudbaleri Novog Pazara nadigrali Železničar u osmom kolu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/278730/fudbaleri-novog-pazara-nadigrali-zeleznicar-u-osmom-kolu-superlige-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 09. 2026. у 20:59",
+      "slika": null
+    },
+    {
+      "naslov": "Medvedev savladao Rinderkneša za plasman u osminu finala US opena",
+      "url": "https://www.tanjug.rs/sport/fudbal/278728/medvedev-savladao-rinderknesa-za-plasman-u-osminu-finala-us-opena/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 09. 2026. у 20:58",
+      "slika": null
+    },
+    {
+      "naslov": "UEFA kaznila Zvezdu sa 98.250 evra i zabranom prodaje karata za gostovanje Luganu",
+      "url": "https://www.tanjug.rs/sport/fudbal/278726/uefa-kaznila-zvezdu-sa-98250-evra-i-zabranom-prodaje-karata-za-gostovanje-luganu/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 09. 2026. у 20:46",
       "slika": null
     },
     {
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Francuski fudbaler Đilijan Ngesan potpisao za Liverpul",
-      "url": "https://www.tanjug.rs/sport/fudbal/278539/francuski-fudbaler-dilijan-ngesan-potpisao-za-liverpul/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 09. 2026. у 10:20",
-      "slika": null
-    },
-    {
-      "naslov": "Luis Enrike: Imali smo izuzetan prelazni rok, želimo da osvojimo najvažnije trofeje",
-      "url": "https://www.tanjug.rs/sport/fudbal/278477/luis-enrike-imali-smo-izuzetan-prelazni-rok-zelimo-da-osvojimo-najvaznije-trofeje/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 09. 2026. у 22:41",
-      "slika": null
-    },
-    {
-      "naslov": "Tomašević i Bojović dočekali na aerodromu srpske sportiste po povratku iz Taranta",
-      "url": "https://www.tanjug.rs/sport/fudbal/278473/tomasevic-i-bojovic-docekali-na-aerodromu-srpske-sportiste-po-povratku-iz-taranta/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 09. 2026. у 22:14",
+      "naslov": "Povratak Ljajića obeležen pobedom: Novi Pazar srušio Železničar",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264869/novi-pazar-bolji-od-zeleznicara/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 09. 2026. у 20:56",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264810/saopstenje-crvene-zvezde-pred-veciti-derbi/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 09. 2026. у 17:45",
-      "slika": null
-    },
-    {
-      "naslov": "Istraživanje kaže: Partizan treći na svetu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264731/cies-partizan-treci-na-svetu-po-broju-igraca-mladjih-od-21-godine/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 09. 2026. у 13:48",
       "slika": null
     }
   ]
