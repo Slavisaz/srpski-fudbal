@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-04T06:01:42.344713+00:00",
-  "azurirano_sr": "4. 09. 2026. у 08:01",
+  "azurirano": "2026-09-04T11:02:53.128079+00:00",
+  "azurirano_sr": "4. 09. 2026. у 13:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvonimir Boban: Milan više ne radi “milanski“, Modriću će biti teško da pokrije 60 metara terena kod Amorima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvonimir-boban-milan-vise-ne-radi-milanski-modricu-ce-biti-tesko-da-pokrije-60-metara-terena-kod-amorima/553113",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 09. 2026. у 13:21",
+      "slika": null
+    },
+    {
+      "naslov": "Kako je Čelsi postao najveći trendseter modernog fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-je-celsi-postao-najveci-trendseter-modernog-fudbala/553112",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 09. 2026. у 13:18",
+      "slika": null
+    },
+    {
+      "naslov": "Demikelis: Raspitivali su se za Maksimovića, odbili smo da pregovaramo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/demikelis-raspitivali-su-se-za-maksimovica-odbili-smo-da-pregovaramo/553105",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 09. 2026. у 11:29",
+      "slika": null
+    },
     {
       "naslov": "Kraj nade? Investirori 'spasioci' se povlače, Bordo pred gašenjem",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-nade-investirori-spasioci-se-povlace-bordo-pred-gasenjem/553088",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Srbija ima još jednog igrača u Ligi šampiona: Fener licencirao Mimovića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-ima-jos-jednog-igraca-u-ligi-sampiona-fener-licencirao-mimovica/553087",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 09. 2026. у 23:33",
-      "slika": null
-    },
-    {
-      "naslov": "Sar mora da svari to što mu je propao transfer u Liverpul",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sar-mora-da-svari-to-sto-mu-je-propao-transfer-u-liverpul/553077",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 09. 2026. у 20:55",
-      "slika": null
-    },
-    {
-      "naslov": "Ljajić mašta da bude kao na debiju za Pazar: Voleo bih da se ponovi takav scenario, fudbal je čudna igra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ljajic-masta-da-bude-kao-na-debiju-za-pazar-voleo-bih-da-se-ponovi-takav-scenario-fudbal-je-cudna-igra/553075",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 09. 2026. у 19:44",
+      "naslov": "Francuski fudbaler Đilijan Ngesan potpisao za Liverpul",
+      "url": "https://www.tanjug.rs/sport/fudbal/278539/francuski-fudbaler-dilijan-ngesan-potpisao-za-liverpul/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 09. 2026. у 10:20",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Vukašin Jovanović novi fudbaler Mladosti iz Lučana",
-      "url": "https://www.tanjug.rs/sport/fudbal/278471/vukasin-jovanovic-novi-fudbaler-mladosti-iz-lucana/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 09. 2026. у 21:47",
+      "naslov": "Zašto je propao transfer Dembe Seka u Hetafe?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264657/rasim-ljajic-o-propalom-transferu-dembe-seka-iz-partizana-u-hetafe/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 09. 2026. у 10:06",
       "slika": null
     },
     {
-      "naslov": "Poznati termini odloženih mečeva Zvezde",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264583/zvezda-saznala-raspored-utakmica/vest",
+      "naslov": "IMT prodao ofanzivca za 2.000.000 evra!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264631/dusan-zagar-otisao-za-2000000-evra-iz-imt-a/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "3. 09. 2026. у 21:45",
-      "slika": null
-    },
-    {
-      "naslov": "Vukašin Jovanović ima novi klub – debi protiv bivšeg tima?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264569/vukasin-jovanovic-u-mladosti-iz-lucana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "3. 09. 2026. у 21:02",
+      "datum": "4. 09. 2026. у 09:00",
       "slika": null
     }
   ]
