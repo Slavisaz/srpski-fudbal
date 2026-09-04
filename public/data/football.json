@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-09-04T21:55:50.060939+00:00",
-  "azurirano_sr": "4. 09. 2026. у 23:55",
+  "azurirano": "2026-09-04T23:32:57.832783+00:00",
+  "azurirano_sr": "5. 09. 2026. у 01:32",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -46,17 +46,17 @@
       "slika": null
     },
     {
-      "naslov": "Medvedev savladao Rinderkneša za plasman u osminu finala US opena",
-      "url": "https://www.tanjug.rs/sport/fudbal/278728/medvedev-savladao-rinderknesa-za-plasman-u-osminu-finala-us-opena/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 09. 2026. у 20:58",
-      "slika": null
-    },
-    {
       "naslov": "UEFA kaznila Zvezdu sa 98.250 evra i zabranom prodaje karata za gostovanje Luganu",
       "url": "https://www.tanjug.rs/sport/fudbal/278726/uefa-kaznila-zvezdu-sa-98250-evra-i-zabranom-prodaje-karata-za-gostovanje-luganu/vest",
       "izvor": "Танјуг",
       "datum": "4. 09. 2026. у 20:46",
+      "slika": null
+    },
+    {
+      "naslov": "FK Crvena zvezda: Fan zona za najmlađe navijače pred 180. večiti derbi",
+      "url": "https://www.tanjug.rs/sport/fudbal/278660/fk-crvena-zvezda-fan-zona-za-najmlade-navijace-pred-180-veciti-derbi/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 09. 2026. у 16:24",
       "slika": null
     },
     {
