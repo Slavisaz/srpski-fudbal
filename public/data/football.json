@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-04T19:55:14.720894+00:00",
-  "azurirano_sr": "4. 09. 2026. у 21:55",
+  "azurirano": "2026-09-04T21:55:50.060939+00:00",
+  "azurirano_sr": "4. 09. 2026. у 23:55",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kako se na bundesligaškom kaže umetnik? Bilal El Kanus (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-se-na-bundesligaskom-kaze-umetnik-bilal-el-kanus-video/553155",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 09. 2026. у 00:32",
+      "slika": null
+    },
     {
       "naslov": "Opendi se igra fudbal, Milanov bek raste u Lionu: Dečaci gledaju s vrha Lige 1",
       "url": "https://www.mozzartsport.com/fudbal/vesti/opendi-se-igra-fudbal-milanov-bek-raste-u-lionu-decaci-gledaju-s-vrha-lige-1/553147",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Iskomplikovao se transfer Kokanovića u Volfsburg",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/iskomplikovao-se-transfer-kokanovica-u-volfsburg/553130",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 09. 2026. у 16:44",
+      "naslov": "Sergej Milinković Savić strelac u pobedi fudbalera Al Hilala protiv Al Šababa",
+      "url": "https://www.tanjug.rs/sport/fudbal/278743/sergej-milinkovic-savic-strelac-u-pobedi-fudbalera-al-hilala-protiv-al-sababa/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 09. 2026. у 22:06",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "FK Crvena zvezda: Fan zona za najmlađe navijače pred 180. večiti derbi",
-      "url": "https://www.tanjug.rs/sport/fudbal/278660/fk-crvena-zvezda-fan-zona-za-najmlade-navijace-pred-180-veciti-derbi/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 09. 2026. у 16:24",
+      "naslov": "Savić upozorava pred Zemun: &quot;Pokazali su više nego što govore tabela i broj bodova&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264796/marko-savic-pred-duel-sa-zemunom/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 09. 2026. у 23:55",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264869/novi-pazar-bolji-od-zeleznicara/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 09. 2026. у 20:56",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda se oglasila pred &quot;večiti&quot; derbi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264810/saopstenje-crvene-zvezde-pred-veciti-derbi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 09. 2026. у 17:45",
       "slika": null
     }
   ]
