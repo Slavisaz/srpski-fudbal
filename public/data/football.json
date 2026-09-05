@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-05T05:50:35.099773+00:00",
-  "azurirano_sr": "5. 09. 2026. у 07:50",
+  "azurirano": "2026-09-05T09:27:54.138663+00:00",
+  "azurirano_sr": "5. 09. 2026. у 11:27",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ovakvo poslovanje ima smisla",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ovakvo-poslovanje-ima-smisla/553174",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 09. 2026. у 10:27",
+      "slika": null
+    },
     {
       "naslov": "Kako se na bundesligaškom kaže umetnik? Bilal El Kanus (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kako-se-na-bundesligaskom-kaze-umetnik-bilal-el-kanus-video/553155",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Frka u šampionu Azije: Otpušten direktor zbog ugrađivanja u transfer",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/frka-u-sampionu-azije-otpusten-direktor-zbog-ugraivanja-u-transfer/553135",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 09. 2026. у 17:50",
+      "naslov": "Simić: Čeka nas teška utakmica na stadionu Zvezde, ali idemo na pobedu",
+      "url": "https://www.tanjug.rs/sport/fudbal/278810/simic-ceka-nas-teska-utakmica-na-stadionu-zvezde-ali-idemo-na-pobedu/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 09. 2026. у 11:04",
+      "slika": null
+    },
+    {
+      "naslov": "Ilić: Nadam se da Partizan može da prekine lošu tradiciju na \"Marakani\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/278804/ilic-nadam-se-da-partizan-moze-da-prekine-losu-tradiciju-na-marakani/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 09. 2026. у 10:29",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "UEFA kaznila Zvezdu sa 98.250 evra i zabranom prodaje karata za gostovanje Luganu",
-      "url": "https://www.tanjug.rs/sport/fudbal/278726/uefa-kaznila-zvezdu-sa-98250-evra-i-zabranom-prodaje-karata-za-gostovanje-luganu/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 09. 2026. у 20:46",
-      "slika": null
-    },
-    {
-      "naslov": "FK Crvena zvezda: Fan zona za najmlađe navijače pred 180. večiti derbi",
-      "url": "https://www.tanjug.rs/sport/fudbal/278660/fk-crvena-zvezda-fan-zona-za-najmlade-navijace-pred-180-veciti-derbi/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 09. 2026. у 16:24",
-      "slika": null
-    },
-    {
-      "naslov": "Savić upozorava pred Zemun: &quot;Pokazali su više nego što govore tabela i broj bodova&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264796/marko-savic-pred-duel-sa-zemunom/vest",
+      "naslov": "Simić: &quot;Nesrećno smo primali golove na prethodnim derbijima&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264964/nikola-simic-izjava-pred-veciti-derbi/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 09. 2026. у 23:55",
+      "datum": "5. 09. 2026. у 11:00",
       "slika": null
     },
     {
-      "naslov": "Povratak Ljajića obeležen pobedom: Novi Pazar srušio Železničar",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264869/novi-pazar-bolji-od-zeleznicara/vest",
+      "naslov": "Ilić: &quot;Žrtvovaćemo nekog igrača – nemam još žmarce u stomaku&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264941/uzivo-konferencija-za-medije-sase-ilica-pred-veciti-derbi-prenos-gde-gledati/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 09. 2026. у 20:56",
+      "datum": "5. 09. 2026. у 10:30",
       "slika": null
     }
   ]
