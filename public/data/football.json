@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-09-05T19:25:45.451159+00:00",
-  "azurirano_sr": "5. 09. 2026. у 21:25",
+  "azurirano": "2026-09-05T21:25:11.075933+00:00",
+  "azurirano_sr": "5. 09. 2026. у 23:25",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Rome u finišu do preokreta i pobede protiv Atalante",
+      "url": "https://www.tanjug.rs/sport/fudbal/278922/fudbaleri-rome-u-finisu-do-preokreta-i-pobede-protiv-atalante/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 09. 2026. у 22:47",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Radnika ubedljivi protiv Čukaričkog, Mladost bolja od Nišlija, remi u Šapcu",
+      "url": "https://www.tanjug.rs/sport/fudbal/278915/fudbaleri-radnika-ubedljivi-protiv-cukarickog-mladost-bolja-od-nislija-remi-u-sapcu/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 09. 2026. у 22:09",
+      "slika": null
+    },
+    {
+      "naslov": "Vlahović strelac za pobedu Bešiktaša u derbiju protiv Fenerbahčea",
+      "url": "https://www.tanjug.rs/sport/fudbal/278909/vlahovic-strelac-za-pobedu-besiktasa-u-derbiju-protiv-fenerbahcea/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 09. 2026. у 21:28",
+      "slika": null
+    },
+    {
       "naslov": "Spektakl u Milanu: Napoli vodio 2:0, Inter pobedio 3:2",
       "url": "https://www.tanjug.rs/sport/fudbal/278896/spektakl-u-milanu-napoli-vodio-20-inter-pobedio-32/vest",
       "izvor": "Танјуг",
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Rijera: Nema favorita u derbiju, potrebni su mi \"ratnici\" na terenu",
-      "url": "https://www.tanjug.rs/sport/fudbal/278852/rijera-nema-favorita-u-derbiju-potrebni-su-mi-ratnici-na-terenu/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 09. 2026. у 15:23",
-      "slika": null
-    },
-    {
-      "naslov": "Kapiten hrvatske reprezentacije Luka Modrić nastavlja reprezentativnu karijeru",
-      "url": "https://www.tanjug.rs/sport/fudbal/278830/kapiten-hrvatske-reprezentacije-luka-modric-nastavlja-reprezentativnu-karijeru/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 09. 2026. у 13:23",
-      "slika": null
-    },
-    {
-      "naslov": "Simić: Čeka nas teška utakmica na stadionu Zvezde, ali idemo na pobedu",
-      "url": "https://www.tanjug.rs/sport/fudbal/278810/simic-ceka-nas-teska-utakmica-na-stadionu-zvezde-ali-idemo-na-pobedu/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 09. 2026. у 11:04",
+      "naslov": "Mladost sa igračem više sačuvala minimalac – Mačva odolela Radničkom",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265096/samo-jedan-gol-na-dve-utakmice/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "5. 09. 2026. у 22:01",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265074/radnik-pobedio-cukaricki/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "5. 09. 2026. у 20:04",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Da mogu da vratim – nikada ne bih otišao iz Partizana, kriv sam što se nisam vratio&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265031/zuka-o-partizanu-derbiju-i-najvecoj-gresci-nikada-ne-bih-otisao/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "5. 09. 2026. у 17:40",
       "slika": null
     }
   ]
