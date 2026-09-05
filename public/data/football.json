@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-05T17:36:24.701544+00:00",
-  "azurirano_sr": "5. 09. 2026. у 19:36",
+  "azurirano": "2026-09-05T19:25:45.451159+00:00",
+  "azurirano_sr": "5. 09. 2026. у 21:25",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Simić novim golom postavio Sabah na vrh i poručio Mančester Junajtedu da se spremi (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/simic-novim-golom-postavio-sabah-na-vrh-i-porucio-mancester-junajtedu-da-se-spremi-video/553232",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 09. 2026. у 23:06",
+      "slika": null
+    },
+    {
+      "naslov": "Atomski fudbal u derbiju na Meaci: Preko 40 šuteva, pet golova i Lautarova presuda Napolitancima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/atomski-fudbal-u-derbiju-na-meaci-preko-40-suteva-pet-golova-i-lautarova-presuda-napolitancima/553223",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 09. 2026. у 22:02",
+      "slika": null
+    },
     {
       "naslov": "Posle dve decenije Proleter se vratio kući: Metalac zadovoljniji u igri bez igre",
       "url": "https://www.mozzartsport.com/fudbal/vesti/posle-dve-decenije-proleter-se-vratio-kuci-metalac-zadovoljniji-u-igri-bez-igre/553218",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Ovakvo poslovanje ima smisla",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ovakvo-poslovanje-ima-smisla/553174",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 09. 2026. у 10:27",
-      "slika": null
-    },
-    {
-      "naslov": "Kako se na bundesligaškom kaže umetnik? Bilal El Kanus (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-se-na-bundesligaskom-kaze-umetnik-bilal-el-kanus-video/553155",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 09. 2026. у 00:32",
+      "naslov": "Spektakl u Milanu: Napoli vodio 2:0, Inter pobedio 3:2",
+      "url": "https://www.tanjug.rs/sport/fudbal/278896/spektakl-u-milanu-napoli-vodio-20-inter-pobedio-32/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 09. 2026. у 20:00",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Ilić: Nadam se da Partizan može da prekine lošu tradiciju na \"Marakani\"",
-      "url": "https://www.tanjug.rs/sport/fudbal/278804/ilic-nadam-se-da-partizan-moze-da-prekine-losu-tradiciju-na-marakani/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 09. 2026. у 10:29",
+      "naslov": "Novaković pokrenuo rapsodiju Radnika – Čukarički ponovo teško poražen",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265074/radnik-pobedio-cukaricki/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "5. 09. 2026. у 20:04",
       "slika": null
     },
     {
@@ -64,20 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265031/zuka-o-partizanu-derbiju-i-najvecoj-gresci-nikada-ne-bih-otisao/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "5. 09. 2026. у 17:40",
-      "slika": null
-    },
-    {
-      "naslov": "Crno-beli upozorili &quot;grobare&quot;: &quot;Jedna stolica može skupo da košta Partizan&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265026/saopstenje-partizana-pred-veciti-derbi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "5. 09. 2026. у 16:44",
-      "slika": null
-    },
-    {
-      "naslov": "Umesto u Banjaluci, bivši igrač Zvezde ostao u Bundesligi",
-      "url": "https://www.b92.net/sport/fudbal/vesti/264768/andrija-radulovic-ostao-u-austriji/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "4. 09. 2026. у 16:30",
       "slika": null
     }
   ]
