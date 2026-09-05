@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-05T09:27:54.138663+00:00",
-  "azurirano_sr": "5. 09. 2026. у 11:27",
+  "azurirano": "2026-09-05T12:54:22.433484+00:00",
+  "azurirano_sr": "5. 09. 2026. у 14:54",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Na radost Hrvata i svakog ko voli fudbal: Nije bio kraj na Mundijalu, biće Modrić tu i za Ligu nacija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/na-radost-hrvata-i-svakog-ko-voli-fudbal-nije-bio-kraj-na-mundijalu-bice-modric-tu-i-za-ligu-nacija/553191",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 09. 2026. у 13:49",
+      "slika": null
+    },
     {
       "naslov": "Ovakvo poslovanje ima smisla",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ovakvo-poslovanje-ima-smisla/553174",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Najveći transferi koji se nisu desili: Real bi mogao da pati, Arsenalove unapred izgubljene bitke",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najveci-transferi-koji-se-nisu-desili-real-bi-mogao-da-pati-arsenalove-unapred-izgubljene-bitke/553140",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 09. 2026. у 20:50",
+      "naslov": "Kapiten hrvatske reprezentacije Luka Modrić nastavlja reprezentativnu karijeru",
+      "url": "https://www.tanjug.rs/sport/fudbal/278830/kapiten-hrvatske-reprezentacije-luka-modric-nastavlja-reprezentativnu-karijeru/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 09. 2026. у 13:23",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Novog Pazara nadigrali Železničar u osmom kolu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/278730/fudbaleri-novog-pazara-nadigrali-zeleznicar-u-osmom-kolu-superlige-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 09. 2026. у 20:59",
+      "naslov": "Rijera se obraća pred &quot;večiti&quot; derbi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265000/uzivo-albert-rijera-konferencija-za-medije-pred-180-veciti-derbi/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "5. 09. 2026. у 14:33",
       "slika": null
     },
     {
@@ -67,10 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "Ilić: &quot;Žrtvovaćemo nekog igrača – nemam još žmarce u stomaku&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264941/uzivo-konferencija-za-medije-sase-ilica-pred-veciti-derbi-prenos-gde-gledati/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "5. 09. 2026. у 10:30",
+      "naslov": "Aguero prao novac za narko-kartel!?",
+      "url": "https://www.b92.net/sport/fudbal/vesti/264707/serhio-aguero-pod-istragom-zbog-umesanosti-u-trgovinu-narkoticima/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "4. 09. 2026. у 12:22",
       "slika": null
     }
   ]
