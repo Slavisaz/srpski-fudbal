@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-09-05T12:54:22.433484+00:00",
-  "azurirano_sr": "5. 09. 2026. у 14:54",
+  "azurirano": "2026-09-05T15:40:27.983996+00:00",
+  "azurirano_sr": "5. 09. 2026. у 17:40",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Rijera: Nema favorita u derbiju, potrebni su mi \"ratnici\" na terenu",
+      "url": "https://www.tanjug.rs/sport/fudbal/278852/rijera-nema-favorita-u-derbiju-potrebni-su-mi-ratnici-na-terenu/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 09. 2026. у 15:23",
+      "slika": null
+    },
+    {
       "naslov": "Kapiten hrvatske reprezentacije Luka Modrić nastavlja reprezentativnu karijeru",
       "url": "https://www.tanjug.rs/sport/fudbal/278830/kapiten-hrvatske-reprezentacije-luka-modric-nastavlja-reprezentativnu-karijeru/vest",
       "izvor": "Танјуг",
@@ -53,31 +60,24 @@
       "slika": null
     },
     {
-      "naslov": "Sergej Milinković Savić strelac u pobedi fudbalera Al Hilala protiv Al Šababa",
-      "url": "https://www.tanjug.rs/sport/fudbal/278743/sergej-milinkovic-savic-strelac-u-pobedi-fudbalera-al-hilala-protiv-al-sababa/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 09. 2026. у 22:06",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera se obraća pred &quot;večiti&quot; derbi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265000/uzivo-albert-rijera-konferencija-za-medije-pred-180-veciti-derbi/vest",
+      "naslov": "&quot;Da mogu da vratim – nikada ne bih otišao iz Partizana, kriv sam što se nisam vratio&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265031/zuka-o-partizanu-derbiju-i-najvecoj-gresci-nikada-ne-bih-otisao/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 09. 2026. у 14:33",
+      "datum": "5. 09. 2026. у 17:35",
       "slika": null
     },
     {
-      "naslov": "Simić: &quot;Nesrećno smo primali golove na prethodnim derbijima&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/264964/nikola-simic-izjava-pred-veciti-derbi/vest",
+      "naslov": "Crno-beli upozorili &quot;grobare&quot;: &quot;Jedna stolica može skupo da košta Partizan&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265026/saopstenje-partizana-pred-veciti-derbi/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 09. 2026. у 11:00",
+      "datum": "5. 09. 2026. у 16:44",
       "slika": null
     },
     {
-      "naslov": "Aguero prao novac za narko-kartel!?",
-      "url": "https://www.b92.net/sport/fudbal/vesti/264707/serhio-aguero-pod-istragom-zbog-umesanosti-u-trgovinu-narkoticima/vest",
+      "naslov": "Umesto u Banjaluci, bivši igrač Zvezde ostao u Bundesligi",
+      "url": "https://www.b92.net/sport/fudbal/vesti/264768/andrija-radulovic-ostao-u-austriji/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "4. 09. 2026. у 12:22",
+      "datum": "4. 09. 2026. у 16:30",
       "slika": null
     }
   ]
