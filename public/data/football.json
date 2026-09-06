@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-06T05:08:07.176221+00:00",
-  "azurirano_sr": "6. 09. 2026. у 07:08",
+  "azurirano": "2026-09-06T09:21:50.798857+00:00",
+  "azurirano_sr": "6. 09. 2026. у 11:21",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Gde su bili fudbaleri Partizana i šta su radili kad je Saša Ilić dizao pehar na Marakani?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gde-su-bili-fudbaleri-partizana-i-sta-su-radili-kad-je-sasa-ilic-dizao-pehar-na-marakani/553256",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 09. 2026. у 11:37",
+      "slika": null
+    },
+    {
+      "naslov": "Rijerino iskupljenje - prvi čin",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rijerino-iskupljenje-prvi-cin/553255",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 09. 2026. у 11:29",
+      "slika": null
+    },
     {
       "naslov": "Simić novim golom postavio Sabah na vrh i poručio Mančester Junajtedu da se spremi (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/simic-novim-golom-postavio-sabah-na-vrh-i-porucio-mancester-junajtedu-da-se-spremi-video/553232",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Posle dve decenije Proleter se vratio kući: Metalac zadovoljniji u igri bez igre",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/posle-dve-decenije-proleter-se-vratio-kuci-metalac-zadovoljniji-u-igri-bez-igre/553218",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 09. 2026. у 20:07",
+      "naslov": "Remi fudbalera Intera iz Majamija i Atlante junajted u MLS ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/278966/remi-fudbalera-intera-iz-majamija-i-atlante-junajted-u-mls-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 09. 2026. у 10:00",
       "slika": null
     },
     {
-      "naslov": "Na radost Hrvata i svakog ko voli fudbal: Nije bio kraj na Mundijalu, biće Modrić tu i za Ligu nacija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/na-radost-hrvata-i-svakog-ko-voli-fudbal-nije-bio-kraj-na-mundijalu-bice-modric-tu-i-za-ligu-nacija/553191",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 09. 2026. у 13:49",
+      "naslov": "Fudbaleri Zvezde večeras u 180. večitom derbiju dočekuju Partizan",
+      "url": "https://www.tanjug.rs/sport/fudbal/278954/fudbaleri-zvezde-veceras-u-180-vecitom-derbiju-docekuju-partizan/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 09. 2026. у 09:00",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Vlahović strelac za pobedu Bešiktaša u derbiju protiv Fenerbahčea",
-      "url": "https://www.tanjug.rs/sport/fudbal/278909/vlahovic-strelac-za-pobedu-besiktasa-u-derbiju-protiv-fenerbahcea/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 09. 2026. у 21:28",
-      "slika": null
-    },
-    {
-      "naslov": "Spektakl u Milanu: Napoli vodio 2:0, Inter pobedio 3:2",
-      "url": "https://www.tanjug.rs/sport/fudbal/278896/spektakl-u-milanu-napoli-vodio-20-inter-pobedio-32/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 09. 2026. у 20:00",
-      "slika": null
-    },
-    {
-      "naslov": "Mladost sa igračem više sačuvala minimalac – Mačva odolela Radničkom",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265096/samo-jedan-gol-na-dve-utakmice/vest",
+      "naslov": "Matić završio sa Jedinstvom",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265166/uros-matic-napustio-jedinstvo/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 09. 2026. у 22:01",
+      "datum": "6. 09. 2026. у 10:50",
       "slika": null
     },
     {
-      "naslov": "Novaković pokrenuo rapsodiju Radnika – Čukarički ponovo teško poražen",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265074/radnik-pobedio-cukaricki/vest",
+      "naslov": "Rijera baca u vatru &quot;bonuse&quot; – velika pojačanja debituju u derbiju",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265095/tim-crvene-zvezde-za-180-veciti-derbi/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 09. 2026. у 20:04",
+      "datum": "6. 09. 2026. у 10:04",
       "slika": null
     }
   ]
