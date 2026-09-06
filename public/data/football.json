@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-06T15:54:07.045654+00:00",
-  "azurirano_sr": "6. 09. 2026. у 17:54",
+  "azurirano": "2026-09-06T17:47:32.140114+00:00",
+  "azurirano_sr": "6. 09. 2026. у 19:47",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Bam-bam Dijeng i Ivanićevo iskupljenje za Zvezdin preokret u 11 minuta",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bambam-dijeng-i-ivanicevo-iskupljenje-za-zvezdin-preokret-u-11-minuta/553297",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 09. 2026. у 21:39",
+      "slika": null
+    },
+    {
+      "naslov": "Bor zna da igra takmičarski fudbal, Nađova Dubočica doživela treći poraz u poslednja četiri kola",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bor-zna-da-igra-takmicarski-fudbal-naova-dubocica-dozivela-treci-poraz-u-poslednja-cetiri-kola/553290",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 09. 2026. у 21:10",
+      "slika": null
+    },
+    {
+      "naslov": "Điga nezamenjiv u Vulverhemptonu, ali Vukovi imaju drugu najgoru odbranu u Čempionšipu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/iga-nezamenjiv-u-vulverhemptonu-ali-vukovi-imaju-drugu-najgoru-odbranu-u-cempionsipu/553285",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 09. 2026. у 19:49",
+      "slika": null
+    },
     {
       "naslov": "Jović, Kolo Muani, Marmuš, Ekitike... Ajntraht ima novu \"zlatnu koku\"",
       "url": "https://www.mozzartsport.com/fudbal/vesti/jovic-kolo-muani-marmus-ekitike-ajntraht-ima-novu-zlatnu-koku/553261",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Gde su bili fudbaleri Partizana i šta su radili kad je Saša Ilić dizao pehar na Marakani?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gde-su-bili-fudbaleri-partizana-i-sta-su-radili-kad-je-sasa-ilic-dizao-pehar-na-marakani/553256",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 09. 2026. у 11:37",
-      "slika": null
-    },
-    {
-      "naslov": "Rijerino iskupljenje - prvi čin",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rijerino-iskupljenje-prvi-cin/553255",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 09. 2026. у 11:29",
-      "slika": null
-    },
-    {
-      "naslov": "Simić novim golom postavio Sabah na vrh i poručio Mančester Junajtedu da se spremi (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/simic-novim-golom-postavio-sabah-na-vrh-i-porucio-mancester-junajtedu-da-se-spremi-video/553232",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 09. 2026. у 23:06",
+      "naslov": "Sastavi za derbi: Rijera sa tri bonusa i Dijengom u napadu, Ilić bez iznenađenja",
+      "url": "https://www.tanjug.rs/sport/fudbal/279028/sastavi-za-derbi-rijera-sa-tri-bonusa-i-dijengom-u-napadu-ilic-bez-iznenadenja/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 09. 2026. у 18:05",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Englez Majkl Oliver sudiće meč između fudbalera Reala i Intera u prvom kolu Lige šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/278981/englez-majkl-oliver-sudice-mec-izmedu-fudbalera-reala-i-intera-u-prvom-kolu-lige-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 09. 2026. у 11:24",
+      "naslov": "Kakav otac, takav sin: Golman postigao dva gola i izvukao remi! VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/265281/sin-ronalda-kumana-postigao-dva-gola-kao-golman-i-spasao-telstar-u-101-minutu/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "6. 09. 2026. у 18:30",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/vesti/265235/alzir-sokirao-naslednikom-petkovica/vest",
       "izvor": "Б92 Фудбал",
       "datum": "6. 09. 2026. у 16:00",
-      "slika": null
-    },
-    {
-      "naslov": "Novi fudbalski život Sameda Baždara",
-      "url": "https://www.b92.net/sport/fudbal/vesti/265137/samed-bazdar-blista-u-belgiji/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "6. 09. 2026. у 11:35",
       "slika": null
     }
   ]
