@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-06T09:21:50.798857+00:00",
-  "azurirano_sr": "6. 09. 2026. у 11:21",
+  "azurirano": "2026-09-06T12:58:07.671833+00:00",
+  "azurirano_sr": "6. 09. 2026. у 14:58",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Jović, Kolo Muani, Marmuš, Ekitike... Ajntraht ima novu \"zlatnu koku\"",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jovic-kolo-muani-marmus-ekitike-ajntraht-ima-novu-zlatnu-koku/553261",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 09. 2026. у 14:21",
+      "slika": null
+    },
     {
       "naslov": "Gde su bili fudbaleri Partizana i šta su radili kad je Saša Ilić dizao pehar na Marakani?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/gde-su-bili-fudbaleri-partizana-i-sta-su-radili-kad-je-sasa-ilic-dizao-pehar-na-marakani/553256",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Atomski fudbal u derbiju na Meaci: Preko 40 šuteva, pet golova i Lautarova presuda Napolitancima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/atomski-fudbal-u-derbiju-na-meaci-preko-40-suteva-pet-golova-i-lautarova-presuda-napolitancima/553223",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 09. 2026. у 22:02",
+      "naslov": "Fabijan Ruiz: Bila bi mi čast da osvojim \"Zlatnu loptu\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/278997/fabijan-ruiz-bila-bi-mi-cast-da-osvojim-zlatnu-loptu/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 09. 2026. у 14:30",
+      "slika": null
+    },
+    {
+      "naslov": "Englez Majkl Oliver sudiće meč između fudbalera Reala i Intera u prvom kolu Lige šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/278981/englez-majkl-oliver-sudice-mec-izmedu-fudbalera-reala-i-intera-u-prvom-kolu-lige-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 09. 2026. у 11:24",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Rome u finišu do preokreta i pobede protiv Atalante",
-      "url": "https://www.tanjug.rs/sport/fudbal/278922/fudbaleri-rome-u-finisu-do-preokreta-i-pobede-protiv-atalante/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 09. 2026. у 22:47",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Radnika ubedljivi protiv Čukaričkog, Mladost bolja od Nišlija, remi u Šapcu",
-      "url": "https://www.tanjug.rs/sport/fudbal/278915/fudbaleri-radnika-ubedljivi-protiv-cukarickog-mladost-bolja-od-nislija-remi-u-sapcu/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 09. 2026. у 22:09",
+      "naslov": "Iznenađenje za večite: Za gol u derbiju – 1.000 dinara!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265173/iznenadjenje-za-vecite-za-gol-u-derbiju-1000-dinara/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "6. 09. 2026. у 12:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265166/uros-matic-napustio-jedinstvo/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "6. 09. 2026. у 10:50",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera baca u vatru &quot;bonuse&quot; – velika pojačanja debituju u derbiju",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265095/tim-crvene-zvezde-za-180-veciti-derbi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 09. 2026. у 10:04",
       "slika": null
     }
   ]
