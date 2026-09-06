@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-06T19:34:26.767158+00:00",
-  "azurirano_sr": "6. 09. 2026. у 21:34",
+  "azurirano": "2026-09-06T21:39:03.387339+00:00",
+  "azurirano_sr": "6. 09. 2026. у 23:39",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvezda ne može bez Ivanića! Partizan se potukao na Marakani, ali skupo platio greške",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-ne-moze-bez-ivanica-partizan-se-potukao-na-marakani-ali-skupo-platio-greske/553307",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 09. 2026. у 23:05",
+      "slika": null
+    },
     {
       "naslov": "VIDEO: Bam-bam Dijeng i Ivanićevo iskupljenje za Zvezdin preokret u 11 minuta",
       "url": "https://www.mozzartsport.com/fudbal/vesti/video-bambam-dijeng-i-ivanicevo-iskupljenje-za-zvezdin-preokret-u-11-minuta/553297",
@@ -25,52 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Jović, Kolo Muani, Marmuš, Ekitike... Ajntraht ima novu \"zlatnu koku\"",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jovic-kolo-muani-marmus-ekitike-ajntraht-ima-novu-zlatnu-koku/553261",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 09. 2026. у 14:21",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Zvezde posle preokreta vode 2:1 protiv Partizana na poluvremenu derbija",
-      "url": "https://www.tanjug.rs/sport/fudbal/279047/fudbaleri-zvezde-posle-preokreta-vode-21-protiv-partizana-na-poluvremenu-derbija/vest",
+      "naslov": "Rijera: Nisam zadovoljan kako smo fizički izgledali, pred nama je mnogo posla",
+      "url": "https://www.tanjug.rs/sport/fudbal/279060/rijera-nisam-zadovoljan-kako-smo-fizicki-izgledali-pred-nama-je-mnogo-posla/vest",
       "izvor": "Танјуг",
-      "datum": "6. 09. 2026. у 19:58",
+      "datum": "6. 09. 2026. у 22:56",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Arsenala posle preokreta pobedili Čelsi u trećem kolu Premijer lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/279044/fudbaleri-arsenala-posle-preokreta-pobedili-celsi-u-trecem-kolu-premijer-lige/vest",
+      "naslov": "Fudbaleri Juventusa golom u 90+2. minutu došli remija protiv Milana",
+      "url": "https://www.tanjug.rs/sport/fudbal/279071/fudbaleri-juventusa-golom-u-902-minutu-dosli-remija-protiv-milana/vest",
       "izvor": "Танјуг",
-      "datum": "6. 09. 2026. у 19:39",
+      "datum": "6. 09. 2026. у 22:53",
       "slika": null
     },
     {
-      "naslov": "Fudbaler Partizana Že pogotkom u 50. sekundi dao najbrži gol na večitim derbijima",
-      "url": "https://www.tanjug.rs/sport/fudbal/279046/fudbaler-partizana-ze-pogotkom-u-50-sekundi-dao-najbrzi-gol-na-vecitim-derbijima/vest",
+      "naslov": "Ilić: Kriterijum suđenja nije bio isti, Zvezda je toliko iznad da joj to ne treba",
+      "url": "https://www.tanjug.rs/sport/fudbal/279061/ilic-kriterijum-sudenja-nije-bio-isti-zvezda-je-toliko-iznad-da-joj-to-ne-treba/vest",
       "izvor": "Танјуг",
-      "datum": "6. 09. 2026. у 19:28",
+      "datum": "6. 09. 2026. у 22:47",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Barselone ubedljivi protiv Valensije u španskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/279032/fudbaleri-barselone-ubedljivi-protiv-valensije-u-spanskom-prvenstvu/vest",
+      "naslov": "Fudbaleri Crvene zvezde posle preokreta pobedili Partizan u 180. večitom derbiju",
+      "url": "https://www.tanjug.rs/sport/fudbal/279056/fudbaleri-crvene-zvezde-posle-preokreta-pobedili-partizan-u-180-vecitom-derbiju/vest",
       "izvor": "Танјуг",
-      "datum": "6. 09. 2026. у 18:25",
+      "datum": "6. 09. 2026. у 21:09",
       "slika": null
     },
     {
-      "naslov": "Partizan &quot;pao&quot;; crveno-beli slavili na Marakani! Ilić o suđenju: &quot;Ovo Zvezdi ne treba&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265265/uzivo-fk-crvena-zvezda-fk-partizan-180-veciti-derbi-superliga-srbije-prenos/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 09. 2026. у 21:30",
+      "naslov": "Tragedija u Bugarskoj: Fudbaler postigao dva gola, pa preminuo u svlačionici posle utakmice",
+      "url": "https://www.b92.net/sport/fudbal/vesti/265342/tragedija-u-bugarskoj-fudbaler-postigao-dva-gola-pa-preminuo-u-svlacionici-posle-utakmice/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "6. 09. 2026. у 23:33",
       "slika": null
     },
     {
-      "naslov": "Čekamo obraćanje Saše Ilića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265288/sasa-ilic-konferencija-posle-180-vecitog-derbija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 09. 2026. у 21:25",
+      "naslov": "Prvenac Ugrešića u porazu PAOK-a od Panatinaikosa",
+      "url": "https://www.b92.net/sport/fudbal/vesti/265339/panatinaikos-pobedio-paok-31-gol-ugresica/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "6. 09. 2026. у 23:23",
       "slika": null
     }
   ]
