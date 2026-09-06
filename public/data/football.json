@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-09-06T12:58:07.671833+00:00",
-  "azurirano_sr": "6. 09. 2026. у 14:58",
+  "azurirano": "2026-09-06T15:54:07.045654+00:00",
+  "azurirano_sr": "6. 09. 2026. у 17:54",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Evertona golom u 90+6. minutu došli do remija protiv Mančester junajteda",
+      "url": "https://www.tanjug.rs/sport/fudbal/279020/fudbaleri-evertona-golom-u-906-minutu-dosli-do-remija-protiv-mancester-junajteda/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 09. 2026. у 17:30",
+      "slika": null
+    },
+    {
+      "naslov": "Đani Infantino potvrdio kandidaturu za predsednika FIFA-e",
+      "url": "https://www.tanjug.rs/sport/fudbal/279004/dani-infantino-potvrdio-kandidaturu-za-predsednika-fifa-e/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 09. 2026. у 15:20",
+      "slika": null
+    },
+    {
       "naslov": "Fabijan Ruiz: Bila bi mi čast da osvojim \"Zlatnu loptu\"",
       "url": "https://www.tanjug.rs/sport/fudbal/278997/fabijan-ruiz-bila-bi-mi-cast-da-osvojim-zlatnu-loptu/vest",
       "izvor": "Танјуг",
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Remi fudbalera Intera iz Majamija i Atlante junajted u MLS ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/278966/remi-fudbalera-intera-iz-majamija-i-atlante-junajted-u-mls-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 09. 2026. у 10:00",
+      "naslov": "Alžir šokirao naslednikom Petkovića",
+      "url": "https://www.b92.net/sport/fudbal/vesti/265235/alzir-sokirao-naslednikom-petkovica/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "6. 09. 2026. у 16:00",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Zvezde večeras u 180. večitom derbiju dočekuju Partizan",
-      "url": "https://www.tanjug.rs/sport/fudbal/278954/fudbaleri-zvezde-veceras-u-180-vecitom-derbiju-docekuju-partizan/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 09. 2026. у 09:00",
-      "slika": null
-    },
-    {
-      "naslov": "Iznenađenje za večite: Za gol u derbiju – 1.000 dinara!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265173/iznenadjenje-za-vecite-za-gol-u-derbiju-1000-dinara/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 09. 2026. у 12:00",
-      "slika": null
-    },
-    {
-      "naslov": "Matić završio sa Jedinstvom",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265166/uros-matic-napustio-jedinstvo/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 09. 2026. у 10:50",
+      "naslov": "Novi fudbalski život Sameda Baždara",
+      "url": "https://www.b92.net/sport/fudbal/vesti/265137/samed-bazdar-blista-u-belgiji/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "6. 09. 2026. у 11:35",
       "slika": null
     }
   ]
