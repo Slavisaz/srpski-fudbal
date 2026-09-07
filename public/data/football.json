@@ -1,34 +1,55 @@
 {
-  "azurirano": "2026-09-07T10:35:12.399917+00:00",
-  "azurirano_sr": "7. 09. 2026. у 12:35",
+  "azurirano": "2026-09-07T16:01:34.941327+00:00",
+  "azurirano_sr": "7. 09. 2026. у 18:01",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Priča Milanovog čudesnog dečaka: Het-trik makazicama i Ambrozinijevo poređenje sa Robinjom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prica-milanovog-cudesnog-decaka-hettrik-makazicama-i-ambrozinijevo-poreenje-sa-robinjom/553347",
+      "naslov": "Stojić: Partizan igrao za utisak umesto da se takmiči; Lukasen i Učena ne mogu da iznesu Rijerinu ideju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stojic-partizan-igrao-za-utisak-umesto-da-se-takmici-lukasen-i-ucena-ne-mogu-da-iznesu-rijerinu-ideju/553386",
       "izvor": "Мозарт Спорт",
-      "datum": "7. 09. 2026. у 13:36",
+      "datum": "7. 09. 2026. у 19:32",
       "slika": null
     },
     {
-      "naslov": "Vreme je da Italija upozna malo zrelijeg Lazara Jovanovića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vreme-je-da-italija-upozna-malo-zrelijeg-lazara-jovanovica/553354",
+      "naslov": "Srbija ima plan: Hoćemo Gaštarova u našoj reprezentaciji!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-ima-plan-hocemo-gastarova-u-nasoj-reprezentaciji/553380",
       "izvor": "Мозарт Спорт",
-      "datum": "7. 09. 2026. у 13:01",
+      "datum": "7. 09. 2026. у 17:05",
       "slika": null
     },
     {
-      "naslov": "Vajnaldum stigao kod Rajkovića i Simića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vajnaldum-stigao-kod-rajkovica-i-simica/553351",
+      "naslov": "Samouvereni Embape: Ne znam sve o fudbalu, ali znam više od mnogih",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/samouvereni-embape-ne-znam-sve-o-fudbalu-ali-znam-vise-od-mnogih/553376",
       "izvor": "Мозарт Спорт",
-      "datum": "7. 09. 2026. у 12:36",
+      "datum": "7. 09. 2026. у 16:35",
       "slika": null
     },
     {
-      "naslov": "Raport sa srpskoligaških terena: Treneri lete kao konfete",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-treneri-lete-kao-konfete/553344",
+      "naslov": "Prvi spisak Slavena Bilića: Modrić je spomenik fudbalu! Livaković ne treba da se pravda zbog Barse",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-spisak-slavena-bilica-modric-je-spomenik-fudbalu-livakovic-ne-treba-da-se-pravda-zbog-barse/553363",
       "izvor": "Мозарт Спорт",
-      "datum": "7. 09. 2026. у 11:45",
+      "datum": "7. 09. 2026. у 14:30",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbalski savez Belgije: Ne podržavamo kandidaturu Đanija Infantina za predsednika FIFA",
+      "url": "https://www.tanjug.rs/sport/fudbal/279261/fudbalski-savez-belgije-ne-podrzavamo-kandidaturu-danija-infantina-za-predsednika-fifa/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 09. 2026. у 14:57",
+      "slika": null
+    },
+    {
+      "naslov": "Macut čestitao osvajačima medalja na Mediteranskim igrama: Još jednom ste Srbiju učinili ponosnom",
+      "url": "https://www.tanjug.rs/sport/fudbal/279219/macut-cestitao-osvajacima-medalja-na-mediteranskim-igrama-jos-jednom-ste-srbiju-ucinili-ponosnom/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 09. 2026. у 13:18",
+      "slika": null
+    },
+    {
+      "naslov": "FK Partizan: Tražimo izuzeće Minakovića, zahtevamo strane sudije na najvećim mečevima",
+      "url": "https://www.tanjug.rs/sport/fudbal/279215/fk-partizan-trazimo-izuzece-minakovica-zahtevamo-strane-sudije-na-najvecim-mecevima/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 09. 2026. у 13:10",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Minut ćutanja uoči utakmica Lige šampiona za žrtve poplava u Nepalu",
-      "url": "https://www.tanjug.rs/sport/fudbal/279176/minut-cutanja-uoci-utakmica-lige-sampiona-za-zrtve-poplava-u-nepalu/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 09. 2026. у 11:52",
+      "naslov": "Vardi ponovo u Engleskoj",
+      "url": "https://www.b92.net/sport/fudbal/vesti/265562/dzejmi-vardi-u-barnliju/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "7. 09. 2026. у 17:34",
       "slika": null
     },
     {
-      "naslov": "Nenad Minaković sudi meč između fudbalera Štutgarta i Vikinga u Ligi šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/279154/nenad-minakovic-sudi-mec-izmedu-fudbalera-stutgarta-i-vikinga-u-ligi-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 09. 2026. у 11:10",
-      "slika": null
-    },
-    {
-      "naslov": "Španski fudbaler Kristijan Teljo završio igračku karijeru",
-      "url": "https://www.tanjug.rs/sport/fudbal/279145/spanski-fudbaler-kristijan-teljo-zavrsio-igracku-karijeru/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 09. 2026. у 10:39",
-      "slika": null
-    },
-    {
-      "naslov": "Saopštenje Partizana posle 180. večitog derbija",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265455/saopstenje-partizana-posle-180-vecitog-derbija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 09. 2026. у 12:26",
-      "slika": null
-    },
-    {
-      "naslov": "Krunić mora na pauzu – Zvezda se oglasila",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265443/rade-krunic-pauzira-cetiri-nedelje-zbog-povrede-na-derbiju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 09. 2026. у 12:00",
+      "naslov": "Barbarez objavio spisak BiH za Ligu nacija: Džeko predvodi &quot;Zmajeve&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/265527/spisak-fudbalske-reprezentacije-bih/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "7. 09. 2026. у 15:45",
       "slika": null
     }
   ]
