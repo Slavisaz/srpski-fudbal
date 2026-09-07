@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-09-07T19:47:53.231782+00:00",
-  "azurirano_sr": "7. 09. 2026. у 21:47",
+  "azurirano": "2026-09-07T22:16:57.286482+00:00",
+  "azurirano_sr": "8. 09. 2026. у 00:16",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Lacija posle preokreta pobedili Udineze u trećem kolu Serije A",
+      "url": "https://www.tanjug.rs/sport/fudbal/279374/fudbaleri-lacija-posle-preokreta-pobedili-udineze-u-trecem-kolu-serije-a/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 09. 2026. у 23:34",
+      "slika": null
+    },
+    {
+      "naslov": "Remi fudbalera OFK Beograda i IMT-a, bizaran autogol Čančarevića",
+      "url": "https://www.tanjug.rs/sport/fudbal/279362/remi-fudbalera-ofk-beograda-i-imt-a-bizaran-autogol-cancarevica/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 09. 2026. у 22:19",
+      "slika": null
+    },
+    {
       "naslov": "Paolo Vanoli posle tri meseca ponovo trener fudbalera Fiorentine",
       "url": "https://www.tanjug.rs/sport/fudbal/279335/paolo-vanoli-posle-tri-meseca-ponovo-trener-fudbalera-fiorentine/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Murinjo pred Inter: Želim pobedu i priliku da sa Realom osvojim Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/279306/murinjo-pred-inter-zelim-pobedu-i-priliku-da-sa-realom-osvojim-ligu-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 09. 2026. у 17:49",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalski savez Belgije: Ne podržavamo kandidaturu Đanija Infantina za predsednika FIFA",
-      "url": "https://www.tanjug.rs/sport/fudbal/279261/fudbalski-savez-belgije-ne-podrzavamo-kandidaturu-danija-infantina-za-predsednika-fifa/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 09. 2026. у 14:57",
+      "naslov": "Bizaran gol umalo koštao IMT – spasio ga novi biser",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265642/bizaran-gol-umalo-kostao-imt-spasio-ga-novi-biser/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 09. 2026. у 22:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265522/ranko-stojic-o-gastarovu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "7. 09. 2026. у 15:30",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan se oglasio posle derbija!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265455/partizan-se-oglasio-posle-derbija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 09. 2026. у 12:26",
       "slika": null
     }
   ]
