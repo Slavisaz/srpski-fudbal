@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-07T16:01:34.941327+00:00",
-  "azurirano_sr": "7. 09. 2026. у 18:01",
+  "azurirano": "2026-09-07T19:47:53.231782+00:00",
+  "azurirano_sr": "7. 09. 2026. у 21:47",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "T kao Taki, S kao Saša, C kao carevi! Voždovac umalo kao Plavi protiv Slovenije u Belgiji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/t-kao-taki-s-kao-sasa-c-kao-carevi-vozdovac-umalo-kao-plavi-protiv-slovenije-u-belgiji/553392",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 09. 2026. у 21:55",
+      "slika": null
+    },
     {
       "naslov": "Stojić: Partizan igrao za utisak umesto da se takmiči; Lukasen i Učena ne mogu da iznesu Rijerinu ideju",
       "url": "https://www.mozzartsport.com/fudbal/vesti/stojic-partizan-igrao-za-utisak-umesto-da-se-takmici-lukasen-i-ucena-ne-mogu-da-iznesu-rijerinu-ideju/553386",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Prvi spisak Slavena Bilića: Modrić je spomenik fudbalu! Livaković ne treba da se pravda zbog Barse",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-spisak-slavena-bilica-modric-je-spomenik-fudbalu-livakovic-ne-treba-da-se-pravda-zbog-barse/553363",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 09. 2026. у 14:30",
+      "naslov": "Paolo Vanoli posle tri meseca ponovo trener fudbalera Fiorentine",
+      "url": "https://www.tanjug.rs/sport/fudbal/279335/paolo-vanoli-posle-tri-meseca-ponovo-trener-fudbalera-fiorentine/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 09. 2026. у 19:34",
+      "slika": null
+    },
+    {
+      "naslov": "Mbape: Ove godine mogu da osvojim Zlatnu loptu, ispisao sam istoriju na Svetskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/279313/mbape-ove-godine-mogu-da-osvojim-zlatnu-loptu-ispisao-sam-istoriju-na-svetskom-prvenstvu/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 09. 2026. у 18:27",
+      "slika": null
+    },
+    {
+      "naslov": "Murinjo pred Inter: Želim pobedu i priliku da sa Realom osvojim Ligu šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/279306/murinjo-pred-inter-zelim-pobedu-i-priliku-da-sa-realom-osvojim-ligu-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 09. 2026. у 17:49",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Macut čestitao osvajačima medalja na Mediteranskim igrama: Još jednom ste Srbiju učinili ponosnom",
-      "url": "https://www.tanjug.rs/sport/fudbal/279219/macut-cestitao-osvajacima-medalja-na-mediteranskim-igrama-jos-jednom-ste-srbiju-ucinili-ponosnom/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 09. 2026. у 13:18",
+      "naslov": "Gaštarov u reprezentaciji Srbije? : &quot;Učinićemo sve što možemo&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265522/ranko-stojic-o-gastarovu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 09. 2026. у 15:30",
       "slika": null
     },
     {
-      "naslov": "FK Partizan: Tražimo izuzeće Minakovića, zahtevamo strane sudije na najvećim mečevima",
-      "url": "https://www.tanjug.rs/sport/fudbal/279215/fk-partizan-trazimo-izuzece-minakovica-zahtevamo-strane-sudije-na-najvecim-mecevima/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 09. 2026. у 13:10",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Crvene zvezde Rade Krunić zbog povrede četiri nedelje van terena",
-      "url": "https://www.tanjug.rs/sport/fudbal/279181/fudbaler-crvene-zvezde-rade-krunic-zbog-povrede-cetiri-nedelje-van-terena/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 09. 2026. у 12:07",
-      "slika": null
-    },
-    {
-      "naslov": "Vardi ponovo u Engleskoj",
-      "url": "https://www.b92.net/sport/fudbal/vesti/265562/dzejmi-vardi-u-barnliju/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "7. 09. 2026. у 17:34",
-      "slika": null
-    },
-    {
-      "naslov": "Barbarez objavio spisak BiH za Ligu nacija: Džeko predvodi &quot;Zmajeve&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/265527/spisak-fudbalske-reprezentacije-bih/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "7. 09. 2026. у 15:45",
+      "naslov": "Partizan se oglasio posle derbija!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265455/partizan-se-oglasio-posle-derbija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 09. 2026. у 12:26",
       "slika": null
     }
   ]
