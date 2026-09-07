@@ -1,76 +1,76 @@
 {
-  "azurirano": "2026-09-07T05:27:59.906566+00:00",
-  "azurirano_sr": "7. 09. 2026. у 07:27",
+  "azurirano": "2026-09-07T10:35:12.399917+00:00",
+  "azurirano_sr": "7. 09. 2026. у 12:35",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Zvezda ne može bez Ivanića! Partizan se potukao na Marakani, ali skupo platio greške",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-ne-moze-bez-ivanica-partizan-se-potukao-na-marakani-ali-skupo-platio-greske/553307",
+      "naslov": "Priča Milanovog čudesnog dečaka: Het-trik makazicama i Ambrozinijevo poređenje sa Robinjom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prica-milanovog-cudesnog-decaka-hettrik-makazicama-i-ambrozinijevo-poreenje-sa-robinjom/553347",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 09. 2026. у 23:05",
+      "datum": "7. 09. 2026. у 13:36",
       "slika": null
     },
     {
-      "naslov": "Bam-bam Dijeng i Ivanićevo iskupljenje za Zvezdin preokret u 11 minuta (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bambam-dijeng-i-ivanicevo-iskupljenje-za-zvezdin-preokret-u-11-minuta-video/553297",
+      "naslov": "Vreme je da Italija upozna malo zrelijeg Lazara Jovanovića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vreme-je-da-italija-upozna-malo-zrelijeg-lazara-jovanovica/553354",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 09. 2026. у 21:39",
+      "datum": "7. 09. 2026. у 13:01",
       "slika": null
     },
     {
-      "naslov": "Bor zna da igra takmičarski fudbal, Nađova Dubočica doživela treći poraz u poslednja četiri kola",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bor-zna-da-igra-takmicarski-fudbal-naova-dubocica-dozivela-treci-poraz-u-poslednja-cetiri-kola/553290",
+      "naslov": "Vajnaldum stigao kod Rajkovića i Simića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vajnaldum-stigao-kod-rajkovica-i-simica/553351",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 09. 2026. у 21:10",
+      "datum": "7. 09. 2026. у 12:36",
       "slika": null
     },
     {
-      "naslov": "Điga nezamenjiv u Vulverhemptonu, ali Vukovi imaju drugu najgoru odbranu u Čempionšipu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/iga-nezamenjiv-u-vulverhemptonu-ali-vukovi-imaju-drugu-najgoru-odbranu-u-cempionsipu/553285",
+      "naslov": "Raport sa srpskoligaških terena: Treneri lete kao konfete",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-treneri-lete-kao-konfete/553344",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 09. 2026. у 19:49",
+      "datum": "7. 09. 2026. у 11:45",
       "slika": null
     },
     {
-      "naslov": "Rijera: Nisam zadovoljan kako smo fizički izgledali, pred nama je mnogo posla",
-      "url": "https://www.tanjug.rs/sport/fudbal/279060/rijera-nisam-zadovoljan-kako-smo-fizicki-izgledali-pred-nama-je-mnogo-posla/vest",
+      "naslov": "Fudbaler Crvene zvezde Rade Krunić zbog povrede četiri nedelje van terena",
+      "url": "https://www.tanjug.rs/sport/fudbal/279181/fudbaler-crvene-zvezde-rade-krunic-zbog-povrede-cetiri-nedelje-van-terena/vest",
       "izvor": "Танјуг",
-      "datum": "6. 09. 2026. у 22:56",
+      "datum": "7. 09. 2026. у 12:07",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Juventusa golom u 90+2. minutu došli do remija protiv Milana",
-      "url": "https://www.tanjug.rs/sport/fudbal/279071/fudbaleri-juventusa-golom-u-902-minutu-dosli-do-remija-protiv-milana/vest",
+      "naslov": "Minut ćutanja uoči utakmica Lige šampiona za žrtve poplava u Nepalu",
+      "url": "https://www.tanjug.rs/sport/fudbal/279176/minut-cutanja-uoci-utakmica-lige-sampiona-za-zrtve-poplava-u-nepalu/vest",
       "izvor": "Танјуг",
-      "datum": "6. 09. 2026. у 22:53",
+      "datum": "7. 09. 2026. у 11:52",
       "slika": null
     },
     {
-      "naslov": "Ilić: Kriterijum suđenja nije bio isti, Zvezda je toliko iznad da joj to ne treba",
-      "url": "https://www.tanjug.rs/sport/fudbal/279061/ilic-kriterijum-sudenja-nije-bio-isti-zvezda-je-toliko-iznad-da-joj-to-ne-treba/vest",
+      "naslov": "Nenad Minaković sudi meč između fudbalera Štutgarta i Vikinga u Ligi šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/279154/nenad-minakovic-sudi-mec-izmedu-fudbalera-stutgarta-i-vikinga-u-ligi-sampiona/vest",
       "izvor": "Танјуг",
-      "datum": "6. 09. 2026. у 22:47",
+      "datum": "7. 09. 2026. у 11:10",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Crvene zvezde posle preokreta pobedili Partizan u 180. večitom derbiju",
-      "url": "https://www.tanjug.rs/sport/fudbal/279056/fudbaleri-crvene-zvezde-posle-preokreta-pobedili-partizan-u-180-vecitom-derbiju/vest",
+      "naslov": "Španski fudbaler Kristijan Teljo završio igračku karijeru",
+      "url": "https://www.tanjug.rs/sport/fudbal/279145/spanski-fudbaler-kristijan-teljo-zavrsio-igracku-karijeru/vest",
       "izvor": "Танјуг",
-      "datum": "6. 09. 2026. у 21:09",
+      "datum": "7. 09. 2026. у 10:39",
       "slika": null
     },
     {
-      "naslov": "Voša preokretom zabila još jedan ekser – Zemun zakucan za dno tabele",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265341/vojvodina-pobedila-zemun-21-8-kolo-superlige-srbije/vest",
+      "naslov": "Saopštenje Partizana posle 180. večitog derbija",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265455/saopstenje-partizana-posle-180-vecitog-derbija/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "6. 09. 2026. у 23:08",
+      "datum": "7. 09. 2026. у 12:26",
       "slika": null
     },
     {
-      "naslov": "Partizan u problemu – pobeda crveno-belih; Rijera nezadovoljan; Ilić o suđenju: &quot;Ovo Zvezdi ne treba&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265265/uzivo-fk-crvena-zvezda-fk-partizan-180-veciti-derbi-superliga-srbije-prenos/vest",
+      "naslov": "Krunić mora na pauzu – Zvezda se oglasila",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265443/rade-krunic-pauzira-cetiri-nedelje-zbog-povrede-na-derbiju/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "6. 09. 2026. у 23:00",
+      "datum": "7. 09. 2026. у 12:00",
       "slika": null
     }
   ]
