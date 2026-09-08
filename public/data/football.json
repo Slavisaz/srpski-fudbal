@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-09-08T09:19:02.120764+00:00",
-  "azurirano_sr": "8. 09. 2026. у 11:19",
+  "azurirano": "2026-09-08T13:41:07.345862+00:00",
+  "azurirano_sr": "8. 09. 2026. у 15:41",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Kontinuitet ili najskuplja rekonstrukcija?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kontinuitet-ili-najskuplja-rekonstrukcija/553419",
+      "naslov": "Prvi put od dolaska u Bornmut Đorđe Petrović će preći na klupu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-put-od-dolaska-u-bornmut-ore-petrovic-ce-preci-na-klupu/553434",
       "izvor": "Мозарт Спорт",
-      "datum": "8. 09. 2026. у 12:57",
+      "datum": "8. 09. 2026. у 17:14",
       "slika": null
     },
     {
-      "naslov": "Najbolji igrač osmog kola Mozzart Bet Superlige: Sve je u fudbalu prolazno, osim klase Mirka Ivanića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najbolji-igrac-osmog-kola-mozzart-bet-superlige-sve-je-u-fudbalu-prolazno-osim-klase-mirka-ivanica/553415",
+      "naslov": "Kao u filmskom scenariju: Devetoligaški golman iz Londona izabran da vlada kraljevstvom u Ugandi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kao-u-filmskom-scenariju-devetoligaski-golman-iz-londona-izabran-da-vlada-kraljevstvom-u-ugandi/553431",
       "izvor": "Мозарт Спорт",
-      "datum": "8. 09. 2026. у 12:12",
+      "datum": "8. 09. 2026. у 15:29",
       "slika": null
     },
     {
-      "naslov": "Vreme je! Premijum pet - aduti, mane, rosteri, transferi, ko je najbliži trofeju...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vreme-je-premijum-pet-aduti-mane-rosteri-transferi-ko-je-najblizi-trofeju/553395",
+      "naslov": "Aris raskinuo sa Kerkezom godinu dana pre isteka ugovora",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/aris-raskinuo-sa-kerkezom-godinu-dana-pre-isteka-ugovora/553430",
       "izvor": "Мозарт Спорт",
-      "datum": "8. 09. 2026. у 10:43",
+      "datum": "8. 09. 2026. у 15:10",
       "slika": null
     },
     {
-      "naslov": "T kao Taki, S kao Saša, C kao carevi! Voždovac umalo kao Plavi protiv Slovenije u Belgiji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/t-kao-taki-s-kao-sasa-c-kao-carevi-vozdovac-umalo-kao-plavi-protiv-slovenije-u-belgiji/553392",
+      "naslov": "Srbi i LŠ: Više nego lani, pomoć stiže sa istoka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbi-i-ls-vise-nego-lani-pomoc-stize-sa-istoka/553426",
       "izvor": "Мозарт Спорт",
-      "datum": "7. 09. 2026. у 21:55",
+      "datum": "8. 09. 2026. у 14:56",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaler Napolija Skot Mektomini uspešno operisan",
+      "url": "https://www.tanjug.rs/sport/fudbal/279529/fudbaler-napolija-skot-mektomini-uspesno-operisan/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 09. 2026. у 14:38",
+      "slika": null
+    },
+    {
+      "naslov": "Španac Hesus Hil Manzano sudi meč između fudbalera Fenerbahčea i Rome u prvom kolu Lige šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/279505/spanac-hesus-hil-manzano-sudi-mec-izmedu-fudbalera-fenerbahcea-i-rome-u-prvom-kolu-lige-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 09. 2026. у 13:12",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Remi fudbalera OFK Beograda i IMT-a, bizaran autogol Čančarevića",
-      "url": "https://www.tanjug.rs/sport/fudbal/279362/remi-fudbalera-ofk-beograda-i-imt-a-bizaran-autogol-cancarevica/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 09. 2026. у 22:19",
-      "slika": null
-    },
-    {
-      "naslov": "Paolo Vanoli posle tri meseca ponovo trener fudbalera Fiorentine",
-      "url": "https://www.tanjug.rs/sport/fudbal/279335/paolo-vanoli-posle-tri-meseca-ponovo-trener-fudbalera-fiorentine/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 09. 2026. у 19:34",
+      "naslov": "PAOK zove Zdjelara",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265696/sasa-zdjelar-mozda-ode-u-paok/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "8. 09. 2026. у 11:50",
       "slika": null
     },
     {
