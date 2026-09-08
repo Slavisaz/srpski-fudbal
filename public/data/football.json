@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-08T13:41:07.345862+00:00",
-  "azurirano_sr": "8. 09. 2026. у 15:41",
+  "azurirano": "2026-09-08T17:30:05.821687+00:00",
+  "azurirano_sr": "8. 09. 2026. у 19:30",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "UŽIVO – LIGA ŠAMPIONA: AEK vodi, evrogol Marina! Vila opet vodi, Buendija matirao (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-aek-vodi-evrogol-marina-vila-opet-vodi-buendija-matirao-video/553447",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 09. 2026. у 21:13",
+      "slika": null
+    },
     {
       "naslov": "Prvi put od dolaska u Bornmut Đorđe Petrović će preći na klupu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-put-od-dolaska-u-bornmut-ore-petrovic-ce-preci-na-klupu/553434",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Srbi i LŠ: Više nego lani, pomoć stiže sa istoka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbi-i-ls-vise-nego-lani-pomoc-stize-sa-istoka/553426",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 09. 2026. у 14:56",
+      "naslov": "Objavljen spisak fudbalera nominovanih za Zlatnu loptu, na listi i Lionel Mesi",
+      "url": "https://www.tanjug.rs/sport/fudbal/279565/objavljen-spisak-fudbalera-nominovanih-za-zlatnu-loptu-na-listi-i-lionel-mesi/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 09. 2026. у 17:12",
+      "slika": null
+    },
+    {
+      "naslov": "Engleski fudbaler Remi Ris-Doten novo pojačanje Čukaričkog",
+      "url": "https://www.tanjug.rs/sport/fudbal/279569/engleski-fudbaler-remi-ris-doten-novo-pojacanje-cukarickog/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 09. 2026. у 16:59",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/279505/spanac-hesus-hil-manzano-sudi-mec-izmedu-fudbalera-fenerbahcea-i-rome-u-prvom-kolu-lige-sampiona/vest",
       "izvor": "Танјуг",
       "datum": "8. 09. 2026. у 13:12",
-      "slika": null
-    },
-    {
-      "naslov": "Trener Atletika Dijego Simeone poveo 24 fudbalera na meč protiv Liverpula u LŠ",
-      "url": "https://www.tanjug.rs/sport/fudbal/279447/trener-atletika-dijego-simeone-poveo-24-fudbalera-na-mec-protiv-liverpula-u-ls/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 09. 2026. у 10:46",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Lacija posle preokreta pobedili Udineze u trećem kolu Serije A",
-      "url": "https://www.tanjug.rs/sport/fudbal/279374/fudbaleri-lacija-posle-preokreta-pobedili-udineze-u-trecem-kolu-serije-a/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 09. 2026. у 23:34",
       "slika": null
     },
     {
