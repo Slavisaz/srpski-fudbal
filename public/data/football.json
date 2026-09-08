@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-09-08T17:30:05.821687+00:00",
-  "azurirano_sr": "8. 09. 2026. у 19:30",
+  "azurirano": "2026-09-08T20:06:39.447242+00:00",
+  "azurirano_sr": "8. 09. 2026. у 22:06",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "UŽIVO – LIGA ŠAMPIONA: AEK vodi, evrogol Marina! Vila opet vodi, Buendija matirao (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-aek-vodi-evrogol-marina-vila-opet-vodi-buendija-matirao-video/553447",
+      "naslov": "Gradi imperiju i razgranava mrežu: Mesi kupuje još jedan klub u Španiji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gradi-imperiju-i-razgranava-mrezu-mesi-kupuje-jos-jedan-klub-u-spaniji/553458",
       "izvor": "Мозарт Спорт",
-      "datum": "8. 09. 2026. у 21:13",
+      "datum": "8. 09. 2026. у 23:40",
       "slika": null
     },
     {
-      "naslov": "Prvi put od dolaska u Bornmut Đorđe Petrović će preći na klupu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-put-od-dolaska-u-bornmut-ore-petrovic-ce-preci-na-klupu/553434",
+      "naslov": "Bešiktaš ne da na Vlahovića: Neprihvatljivo! FS Turske pokazao neprijateljski stav prema našem klubu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/besiktas-ne-da-na-vlahovica-neprihvatljivo-fs-turske-pokazao-neprijateljski-stav-prema-nasem-klubu/553457",
       "izvor": "Мозарт Спорт",
-      "datum": "8. 09. 2026. у 17:14",
+      "datum": "8. 09. 2026. у 23:32",
       "slika": null
     },
     {
-      "naslov": "Kao u filmskom scenariju: Devetoligaški golman iz Londona izabran da vlada kraljevstvom u Ugandi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kao-u-filmskom-scenariju-devetoligaski-golman-iz-londona-izabran-da-vlada-kraljevstvom-u-ugandi/553431",
+      "naslov": "POLUVREME – LIGA ŠAMPIONA: Realov čas fudbala Nerazurima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/poluvreme-liga-sampiona-realov-cas-fudbala-nerazurima/553447",
       "izvor": "Мозарт Спорт",
-      "datum": "8. 09. 2026. у 15:29",
+      "datum": "8. 09. 2026. у 22:48",
       "slika": null
     },
     {
-      "naslov": "Aris raskinuo sa Kerkezom godinu dana pre isteka ugovora",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/aris-raskinuo-sa-kerkezom-godinu-dana-pre-isteka-ugovora/553430",
+      "naslov": "Usud poznatih i skupih veterana: Bizarni kiksevi Zomera uništili Briž i otreznili uspavanu Vilu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/usud-poznatih-i-skupih-veterana-bizarni-kiksevi-zomera-unistili-briz-i-otreznili-uspavanu-vilu/553454",
       "izvor": "Мозарт Спорт",
-      "datum": "8. 09. 2026. у 15:10",
+      "datum": "8. 09. 2026. у 22:42",
+      "slika": null
+    },
+    {
+      "naslov": "Nikolićev AEK upisao prvenac u Ligi šampiona, VAR poništio gol Joviću",
+      "url": "https://www.tanjug.rs/sport/fudbal/279630/nikolicev-aek-upisao-prvenac-u-ligi-sampiona-var-ponistio-gol-jovicu/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 09. 2026. у 21:12",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Španac Hesus Hil Manzano sudi meč između fudbalera Fenerbahčea i Rome u prvom kolu Lige šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/279505/spanac-hesus-hil-manzano-sudi-mec-izmedu-fudbalera-fenerbahcea-i-rome-u-prvom-kolu-lige-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 09. 2026. у 13:12",
+      "naslov": "Čukarički doveo mladog Engleza iz Bornmuta – Petrović ga savetovao",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265852/remi-ris-doten-potpisao-za-cukaricki/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "8. 09. 2026. у 20:30",
       "slika": null
     },
     {
@@ -71,13 +78,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265642/bizaran-gol-umalo-kostao-imt-spasio-ga-novi-biser/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "7. 09. 2026. у 22:00",
-      "slika": null
-    },
-    {
-      "naslov": "Gaštarov u reprezentaciji Srbije? : &quot;Učinićemo sve što možemo&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265522/ranko-stojic-o-gastarovu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 09. 2026. у 15:30",
       "slika": null
     }
   ]
