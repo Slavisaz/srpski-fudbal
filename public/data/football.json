@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-09T05:01:04.661167+00:00",
-  "azurirano_sr": "9. 09. 2026. у 07:01",
+  "azurirano": "2026-09-09T09:29:08.972780+00:00",
+  "azurirano_sr": "9. 09. 2026. у 11:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Opasna i pogubna iluzija elitnih klubova: Ko cicijaši na crti, propašće na najvećoj sceni",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/opasna-i-pogubna-iluzija-elitnih-klubova-ko-cicijasi-na-crti-propasce-na-najvecoj-sceni/553485",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 09. 2026. у 13:08",
+      "slika": null
+    },
+    {
+      "naslov": "AEK ima balkansku koloniju, pravi je i PAOK: Živković i Ugrešić dobili hrvatsko društvo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/aek-ima-balkansku-koloniju-pravi-je-i-paok-zivkovic-i-ugresic-dobili-hrvatsko-drustvo/553484",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 09. 2026. у 12:32",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET (-), sreda, 313.567 dinara: Znao je da pada kada je pocrveneo Itan Embape",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-sreda-313567-dinara-znao-je-da-pada-kada-je-pocrveneo-itan-embape/553478",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 09. 2026. у 10:38",
+      "slika": null
+    },
     {
       "naslov": "Sila prirode: Hulk ima četiri banke, ali je i dalje fudbalski kiborg",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sila-prirode-hulk-ima-cetiri-banke-ali-je-i-dalje-fudbalski-kiborg/553470",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Šta li je Inter mislio celog leta? Golman i odbrana kao na otrovnim pečurkama, Embape stigao Raula",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sta-li-je-inter-mislio-celog-leta-golman-i-odbrana-kao-na-otrovnim-pecurkama-embape-stigao-raula/553465",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 09. 2026. у 00:58",
+      "naslov": "Belgijski golman Tibo Kurtoa propušta utakmice u Ligi nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/279712/belgijski-golman-tibo-kurtoa-propusta-utakmice-u-ligi-nacija/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 09. 2026. у 10:44",
       "slika": null
     },
     {
-      "naslov": "Gradi imperiju i razgranava mrežu: Mesi kupuje još jedan klub u Španiji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gradi-imperiju-i-razgranava-mrezu-mesi-kupuje-jos-jedan-klub-u-spaniji/553458",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 09. 2026. у 23:40",
-      "slika": null
-    },
-    {
-      "naslov": "Bešiktaš ne da na Vlahovića: Neprihvatljivo! FS Turske pokazao neprijateljski stav prema našem klubu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/besiktas-ne-da-na-vlahovica-neprihvatljivo-fs-turske-pokazao-neprijateljski-stav-prema-nasem-klubu/553457",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 09. 2026. у 23:32",
+      "naslov": "Murinjo: Zadovoljan sam pobedom, meč je bio spektakularan",
+      "url": "https://www.tanjug.rs/sport/fudbal/279701/murinjo-zadovoljan-sam-pobedom-mec-je-bio-spektakularan/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 09. 2026. у 10:13",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/279630/nikolicev-aek-upisao-prvenac-u-ligi-sampiona-var-ponistio-gol-jovicu/vest",
       "izvor": "Танјуг",
       "datum": "8. 09. 2026. у 21:12",
-      "slika": null
-    },
-    {
-      "naslov": "Objavljen spisak fudbalera nominovanih za Zlatnu loptu, na listi i Lionel Mesi",
-      "url": "https://www.tanjug.rs/sport/fudbal/279565/objavljen-spisak-fudbalera-nominovanih-za-zlatnu-loptu-na-listi-i-lionel-mesi/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 09. 2026. у 17:12",
-      "slika": null
-    },
-    {
-      "naslov": "Engleski fudbaler Remi Ris-Doten novo pojačanje Čukaričkog",
-      "url": "https://www.tanjug.rs/sport/fudbal/279569/engleski-fudbaler-remi-ris-doten-novo-pojacanje-cukarickog/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 09. 2026. у 16:59",
       "slika": null
     },
     {
