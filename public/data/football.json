@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-09T09:29:08.972780+00:00",
-  "azurirano_sr": "9. 09. 2026. у 11:29",
+  "azurirano": "2026-09-09T13:49:25.921759+00:00",
+  "azurirano_sr": "9. 09. 2026. у 15:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Pusti fudbal, čuvaj srce: Ako ne poslušam lekare, može da bude svašta",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pusti-fudbal-cuvaj-srce-ako-ne-poslusam-lekare-moze-da-bude-svasta/553490",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 09. 2026. у 13:55",
+      "slika": null
+    },
     {
       "naslov": "Opasna i pogubna iluzija elitnih klubova: Ko cicijaši na crti, propašće na najvećoj sceni",
       "url": "https://www.mozzartsport.com/fudbal/vesti/opasna-i-pogubna-iluzija-elitnih-klubova-ko-cicijasi-na-crti-propasce-na-najvecoj-sceni/553485",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Sila prirode: Hulk ima četiri banke, ali je i dalje fudbalski kiborg",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sila-prirode-hulk-ima-cetiri-banke-ali-je-i-dalje-fudbalski-kiborg/553470",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 09. 2026. у 03:54",
+      "naslov": "FK Partizan: Besplatan ulaz na utakmicu protiv Vojvodine",
+      "url": "https://www.tanjug.rs/sport/fudbal/279758/fk-partizan-besplatan-ulaz-na-utakmicu-protiv-vojvodine/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 09. 2026. у 12:45",
+      "slika": null
+    },
+    {
+      "naslov": "Selektor Australije Toni Popović: Odbio sam da produžim ugovor do Svetskog prvenstva 2030. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/279728/selektor-australije-toni-popovic-odbio-sam-da-produzim-ugovor-do-svetskog-prvenstva-2030-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 09. 2026. у 11:32",
       "slika": null
     },
     {
@@ -46,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Murinjo i Real bolji od Intera, Haland za pobedu Sitija u Portu",
-      "url": "https://www.tanjug.rs/sport/fudbal/279642/murinjo-i-real-bolji-od-intera-haland-za-pobedu-sitija-u-portu/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 09. 2026. у 23:05",
-      "slika": null
-    },
-    {
-      "naslov": "Nikolićev AEK upisao prvenac u Ligi šampiona, VAR poništio gol Joviću",
-      "url": "https://www.tanjug.rs/sport/fudbal/279630/nikolicev-aek-upisao-prvenac-u-ligi-sampiona-var-ponistio-gol-jovicu/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 09. 2026. у 21:12",
-      "slika": null
-    },
-    {
-      "naslov": "Čukarički doveo mladog Engleza iz Bornmuta – Petrović ga savetovao",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265852/remi-ris-doten-potpisao-za-cukaricki/vest",
+      "naslov": "Partizan pomerio utakmicu, pa izdao saopštenje FOTO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266131/fk-partizan-slobodan-ulaz-na-utakmicu-protiv-vojvodine/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "8. 09. 2026. у 20:30",
+      "datum": "9. 09. 2026. у 15:30",
       "slika": null
     },
     {
-      "naslov": "PAOK zove Zdjelara",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265696/sasa-zdjelar-mozda-ode-u-paok/vest",
+      "naslov": "Analiza suđenja &quot;večitog&quot; derbija – čist penal za Zvezdu, napravljena je jedna greška VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266093/analiza-sudjenja-180-vecitog-derbija/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "8. 09. 2026. у 11:50",
-      "slika": null
-    },
-    {
-      "naslov": "Bizaran gol umalo koštao IMT – spasio ga novi biser",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/265642/bizaran-gol-umalo-kostao-imt-spasio-ga-novi-biser/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 09. 2026. у 22:00",
+      "datum": "9. 09. 2026. у 14:00",
       "slika": null
     }
   ]
