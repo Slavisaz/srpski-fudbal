@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-08T22:34:03.766227+00:00",
-  "azurirano_sr": "9. 09. 2026. у 00:34",
+  "azurirano": "2026-09-09T00:29:49.820398+00:00",
+  "azurirano_sr": "9. 09. 2026. у 02:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Sila prirode: Hulk ima četiri banke, ali je i dalje fudbalski kiborg",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sila-prirode-hulk-ima-cetiri-banke-ali-je-i-dalje-fudbalski-kiborg/553470",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 09. 2026. у 03:54",
+      "slika": null
+    },
     {
       "naslov": "Šta li je Inter mislio celog leta? Golman i odbrana kao na otrovnim pečurkama, Embape stigao Raula",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sta-li-je-inter-mislio-celog-leta-golman-i-odbrana-kao-na-otrovnim-pecurkama-embape-stigao-raula/553465",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/besiktas-ne-da-na-vlahovica-neprihvatljivo-fs-turske-pokazao-neprijateljski-stav-prema-nasem-klubu/553457",
       "izvor": "Мозарт Спорт",
       "datum": "8. 09. 2026. у 23:32",
-      "slika": null
-    },
-    {
-      "naslov": "LIGA ŠAMPIONA - KRAJ",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/liga-sampiona-kraj/553447",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 09. 2026. у 22:48",
       "slika": null
     },
     {
