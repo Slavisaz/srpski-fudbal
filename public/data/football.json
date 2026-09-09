@@ -1,11 +1,18 @@
 {
-  "azurirano": "2026-09-09T17:19:54.564741+00:00",
-  "azurirano_sr": "9. 09. 2026. у 19:19",
+  "azurirano": "2026-09-09T19:50:31.644781+00:00",
+  "azurirano_sr": "9. 09. 2026. у 21:50",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "UŽIVO - LIGA ŠAMPIONA: Barsa majstorijama do 2:0, Demirović raspucan (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-barsa-majstorijama-do-20-demirovic-raspucan-video/553516",
+      "naslov": "Srbin, Bosanac, ’Hrvat’ i Švabe – nije vic, nego Liga šampiona! Het-trik Demirovića za 12 minuta",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-bosanac-hrvat-i-svabe-nije-vic-nego-liga-sampiona-hettrik-demirovica-za-12-minuta/553524",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 09. 2026. у 22:39",
+      "slika": null
+    },
+    {
+      "naslov": "UŽIVO - LIGA ŠAMPIONA: Ljorente načeo mrežu Liverpula (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-ljorente-naceo-mrezu-liverpula-video/553516",
       "izvor": "Мозарт Спорт",
       "datum": "9. 09. 2026. у 21:16",
       "slika": null
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "AEK ima balkansku koloniju, pravi je i PAOK: Živković i Ugrešić dobili hrvatsko društvo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/aek-ima-balkansku-koloniju-pravi-je-i-paok-zivkovic-i-ugresic-dobili-hrvatsko-drustvo/553484",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 09. 2026. у 12:32",
+      "naslov": "Fudbaleri Barselone ubedljivo pobedili Fejenord, Štutgart savladao Viking u Ligi šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/279917/fudbaleri-barselone-ubedljivo-pobedili-fejenord-stutgart-savladao-viking-u-ligi-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 09. 2026. у 20:41",
+      "slika": null
+    },
+    {
+      "naslov": "Štefan Lihtštajner nije više trener fudbalera Bazela",
+      "url": "https://www.tanjug.rs/sport/fudbal/279902/stefan-lihtstajner-nije-vise-trener-fudbalera-bazela/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 09. 2026. у 19:53",
+      "slika": null
+    },
+    {
+      "naslov": "Mesi postaje većinski vlasnik španskog drugoligaša Eldensea",
+      "url": "https://www.tanjug.rs/sport/fudbal/279892/mesi-postaje-vecinski-vlasnik-spanskog-drugoligasa-eldensea/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 09. 2026. у 19:28",
       "slika": null
     },
     {
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Rijera pred Radnik: Svi moraju da budu spremni i da se osećaju važnim",
-      "url": "https://www.tanjug.rs/sport/fudbal/279865/rijera-pred-radnik-svi-moraju-da-budu-spremni-i-da-se-osecaju-vaznim/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 09. 2026. у 17:57",
-      "slika": null
-    },
-    {
-      "naslov": "FK Partizan: Besplatan ulaz na utakmicu protiv Vojvodine",
-      "url": "https://www.tanjug.rs/sport/fudbal/279758/fk-partizan-besplatan-ulaz-na-utakmicu-protiv-vojvodine/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 09. 2026. у 12:45",
-      "slika": null
-    },
-    {
-      "naslov": "Selektor Australije Toni Popović: Odbio sam da produžim ugovor do Svetskog prvenstva 2030. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/279728/selektor-australije-toni-popovic-odbio-sam-da-produzim-ugovor-do-svetskog-prvenstva-2030-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 09. 2026. у 11:32",
+      "naslov": "Bivši reprezentativac Srbije sada igra za Crnu Goru",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266201/andrej-djuric-dobio-poziv-u-reprezentaciju-crne-gore/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 09. 2026. у 19:30",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266154/fudbaler-partizana-podneo-zahtev-za-srpsko-drzavljanstvo/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "9. 09. 2026. у 19:15",
-      "slika": null
-    },
-    {
-      "naslov": "Mijatović: &quot;Pobogu, brate, ja navijam za Partizan, vi za Zvezdu – što ne možemo zajedno?!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266193/predrag-mijatovic-o-fudbalu-u-regionu-fali-strpljenja/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "9. 09. 2026. у 18:45",
       "slika": null
     }
   ]
