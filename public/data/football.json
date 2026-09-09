@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-09T19:50:31.644781+00:00",
-  "azurirano_sr": "9. 09. 2026. у 21:50",
+  "azurirano": "2026-09-09T21:59:42.629184+00:00",
+  "azurirano_sr": "9. 09. 2026. у 23:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Čelsi kao Novak Đoković iz najboljih dana: Od 0:2 do „seta“ protiv Lidsa za prolaz dalje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/celsi-kao-novak-okovic-iz-najboljih-dana-od-02-do-seta-protiv-lidsa-za-prolaz-dalje/553536",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 09. 2026. у 01:29",
+      "slika": null
+    },
     {
       "naslov": "Srbin, Bosanac, ’Hrvat’ i Švabe – nije vic, nego Liga šampiona! Het-trik Demirovića za 12 minuta",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-bosanac-hrvat-i-svabe-nije-vic-nego-liga-sampiona-hettrik-demirovica-za-12-minuta/553524",
@@ -11,8 +18,8 @@
       "slika": null
     },
     {
-      "naslov": "UŽIVO - LIGA ŠAMPIONA: Ljorente načeo mrežu Liverpula (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-ljorente-naceo-mrezu-liverpula-video/553516",
+      "naslov": "KRAJ - LIGA ŠAMPIONA",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-sampiona/553516",
       "izvor": "Мозарт Спорт",
       "datum": "9. 09. 2026. у 21:16",
       "slika": null
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Opasna i pogubna iluzija elitnih klubova: Ko cicijaši na crti, propašće na najvećoj sceni",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/opasna-i-pogubna-iluzija-elitnih-klubova-ko-cicijasi-na-crti-propasce-na-najvecoj-sceni/553485",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 09. 2026. у 13:08",
+      "naslov": "Preokret Liverpula protiv Atletika, PSŽ ubedljiv, Arsenal \"osvojio\" Napulj",
+      "url": "https://www.tanjug.rs/sport/fudbal/279950/preokret-liverpula-protiv-atletika-psz-ubedljiv-arsenal-osvojio-napulj/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 09. 2026. у 22:59",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/279892/mesi-postaje-vecinski-vlasnik-spanskog-drugoligasa-eldensea/vest",
       "izvor": "Танјуг",
       "datum": "9. 09. 2026. у 19:28",
-      "slika": null
-    },
-    {
-      "naslov": "Dik Advokat ostaje selektor fudbalera Kurasaa do 31. jula 2027. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/279877/dik-advokat-ostaje-selektor-fudbalera-kurasaa-do-31-jula-2027-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 09. 2026. у 18:19",
       "slika": null
     },
     {
