@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-09T13:49:25.921759+00:00",
-  "azurirano_sr": "9. 09. 2026. у 15:49",
+  "azurirano": "2026-09-09T17:19:54.564741+00:00",
+  "azurirano_sr": "9. 09. 2026. у 19:19",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "UŽIVO - LIGA ŠAMPIONA: Barsa majstorijama do 2:0, Demirović raspucan (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-barsa-majstorijama-do-20-demirovic-raspucan-video/553516",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 09. 2026. у 21:16",
+      "slika": null
+    },
     {
       "naslov": "Pusti fudbal, čuvaj srce: Ako ne poslušam lekare, može da bude svašta",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pusti-fudbal-cuvaj-srce-ako-ne-poslusam-lekare-moze-da-bude-svasta/553490",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "LUDI TIKET (-), sreda, 313.567 dinara: Znao je da pada kada je pocrveneo Itan Embape",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-sreda-313567-dinara-znao-je-da-pada-kada-je-pocrveneo-itan-embape/553478",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 09. 2026. у 10:38",
+      "naslov": "Dik Advokat ostaje selektor fudbalera Kurasaa do 31. jula 2027. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/279877/dik-advokat-ostaje-selektor-fudbalera-kurasaa-do-31-jula-2027-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 09. 2026. у 18:19",
+      "slika": null
+    },
+    {
+      "naslov": "Rijera pred Radnik: Svi moraju da budu spremni i da se osećaju važnim",
+      "url": "https://www.tanjug.rs/sport/fudbal/279865/rijera-pred-radnik-svi-moraju-da-budu-spremni-i-da-se-osecaju-vaznim/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 09. 2026. у 17:57",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Belgijski golman Tibo Kurtoa propušta utakmice u Ligi nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/279712/belgijski-golman-tibo-kurtoa-propusta-utakmice-u-ligi-nacija/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 09. 2026. у 10:44",
-      "slika": null
-    },
-    {
-      "naslov": "Murinjo: Zadovoljan sam pobedom, meč je bio spektakularan",
-      "url": "https://www.tanjug.rs/sport/fudbal/279701/murinjo-zadovoljan-sam-pobedom-mec-je-bio-spektakularan/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 09. 2026. у 10:13",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan pomerio utakmicu, pa izdao saopštenje FOTO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266131/fk-partizan-slobodan-ulaz-na-utakmicu-protiv-vojvodine/vest",
+      "naslov": "Partizan rešava problem stranaca: Samson podneo zahtev za srpski pasoš",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266154/fudbaler-partizana-podneo-zahtev-za-srpsko-drzavljanstvo/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 09. 2026. у 15:30",
+      "datum": "9. 09. 2026. у 19:15",
       "slika": null
     },
     {
-      "naslov": "Analiza suđenja &quot;večitog&quot; derbija – čist penal za Zvezdu, napravljena je jedna greška VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266093/analiza-sudjenja-180-vecitog-derbija/vest",
+      "naslov": "Mijatović: &quot;Pobogu, brate, ja navijam za Partizan, vi za Zvezdu – što ne možemo zajedno?!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266193/predrag-mijatovic-o-fudbalu-u-regionu-fali-strpljenja/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 09. 2026. у 14:00",
+      "datum": "9. 09. 2026. у 18:45",
       "slika": null
     }
   ]
