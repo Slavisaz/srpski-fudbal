@@ -1,11 +1,18 @@
 {
-  "azurirano": "2026-09-10T21:00:04.506392+00:00",
-  "azurirano_sr": "10. 09. 2026. у 23:00",
+  "azurirano": "2026-09-10T22:57:42.144903+00:00",
+  "azurirano_sr": "11. 09. 2026. у 00:57",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "LIGA ŠAMPIONA - UŽIVO : Golčina Maksimovića! Bizarna scena u Pragu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/liga-sampiona-uzivo-golcina-maksimovica-bizarna-scena-u-pragu/553593",
+      "naslov": "Ima Srbija igrača za elitu! Sevnula Andrijina leva – Komu svaka čast (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ima-srbija-igraca-za-elitu-sevnula-andrijina-leva-komu-svaka-cast-video/553610",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 09. 2026. у 00:55",
+      "slika": null
+    },
+    {
+      "naslov": "LIGA ŠAMPIONA - KRAJ: Potpuna ludnica u Pragu!!! Puče petarda u Minhenu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/liga-sampiona-kraj-potpuna-ludnica-u-pragu-puce-petarda-u-minhenu/553593",
       "izvor": "Мозарт Спорт",
       "datum": "10. 09. 2026. у 23:05",
       "slika": null
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "In memoriam: Ajazdin Nuhi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/in-memoriam-ajazdin-nuhi/553568",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 09. 2026. у 15:06",
+      "naslov": "Bajern pobedio Bode Glimt, Maksimović strelac za Lajpcig u porazu od Koma u Ligi šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/280216/bajern-pobedio-bode-glimt-maksimovic-strelac-za-lajpcig-u-porazu-od-koma-u-ligi-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 09. 2026. у 23:11",
+      "slika": null
+    },
+    {
+      "naslov": "Ismail Kartal nije više trener fudbalera Fenerbahčea",
+      "url": "https://www.tanjug.rs/sport/fudbal/280213/ismail-kartal-nije-vise-trener-fudbalera-fenerbahcea/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 09. 2026. у 22:55",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Remi u Surdulici, fudbaleri Radnika i Crvene zvezde odigrali bez golova",
-      "url": "https://www.tanjug.rs/sport/fudbal/280197/remi-u-surdulici-fudbaleri-radnika-i-crvene-zvezde-odigrali-bez-golova/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 09. 2026. у 21:00",
-      "slika": null
-    },
-    {
-      "naslov": "Bez pobednika u Istanbulu, fudbaleri Fenerbahčea i Rome odigrali nerešeno u Ligi šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/280194/bez-pobednika-u-istanbulu-fudbaleri-fenerbahcea-i-rome-odigrali-nereseno-u-ligi-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 09. 2026. у 20:41",
-      "slika": null
-    },
-    {
-      "naslov": "Surdulica ostala Zvezdina neosvojiva tvrđava – Radnik odoleo šampionu!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266470/uzivo-radnik-crvena-zvezda-superliga-3kolo/vest",
+      "naslov": "Koković: &quot;Treba nam još malo vremena da uhvatimo balans&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266496/radomir-kokovic-konferencija-pred-zeleznicar-macva/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 09. 2026. у 21:45",
+      "datum": "10. 09. 2026. у 23:45",
       "slika": null
     },
     {
-      "naslov": "Rijera: &quot;Falio je samo gol&quot;; Rendulić: &quot;Zadovoljan sam bodom&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266547/trener-crvene-zvezde-albert-rijera-posle-remija-sa-radnikom/vest",
+      "naslov": "OFK Beograd završio dva ozbiljna pojačanja",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266466/nikola-maras-u-ofk-beogradu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 09. 2026. у 21:00",
+      "datum": "10. 09. 2026. у 23:30",
       "slika": null
     }
   ]
