@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-10T11:44:17.979183+00:00",
-  "azurirano_sr": "10. 09. 2026. у 13:44",
+  "azurirano": "2026-09-10T15:10:42.967054+00:00",
+  "azurirano_sr": "10. 09. 2026. у 17:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "FSS pozvao osnovne škole i fudbalske školice: Besplatno na Grke i Holanđane",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fss-pozvao-osnovne-skole-i-fudbalske-skolice-besplatno-na-grke-i-holanane/553580",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 09. 2026. у 16:33",
+      "slika": null
+    },
+    {
+      "naslov": "Veliko pojačanje za Želju: Pantović u Pančevu restartuje karijeru",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/veliko-pojacanje-za-zelju-pantovic-u-pancevu-restartuje-karijeru/553570",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 09. 2026. у 15:24",
+      "slika": null
+    },
     {
       "naslov": "In memoriam: Ajazdin Nuhi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/in-memoriam-ajazdin-nuhi/553568",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Van Bronkhorst: Barselona je najbolji tim na svetu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/van-bronkhorst-barselona-je-najbolji-tim-na-svetu/553550",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 09. 2026. у 11:35",
+      "naslov": "Dušan Tadić se vraća u reprezentaciju Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/280139/dusan-tadic-se-vraca-u-reprezentaciju-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 09. 2026. у 16:42",
       "slika": null
     },
     {
-      "naslov": "LUDI TIKET, četvrtak, 65.899 dinara: Doktorska disertacija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-cetvrtak-65899-dinara-doktorska-disertacija/553548",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 09. 2026. у 10:31",
+      "naslov": "Preminuo nekadašnji fudbaler Partizana Ajazdin Nuhi",
+      "url": "https://www.tanjug.rs/sport/fudbal/280104/preminuo-nekadasnji-fudbaler-partizana-ajazdin-nuhi/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 09. 2026. у 15:10",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Barselone ubedljivo pobedili Fejenord, Štutgart savladao Viking u Ligi šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/279917/fudbaleri-barselone-ubedljivo-pobedili-fejenord-stutgart-savladao-viking-u-ligi-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 09. 2026. у 20:41",
-      "slika": null
-    },
-    {
-      "naslov": "Štefan Lihtštajner nije više trener fudbalera Bazela",
-      "url": "https://www.tanjug.rs/sport/fudbal/279902/stefan-lihtstajner-nije-vise-trener-fudbalera-bazela/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 09. 2026. у 19:53",
-      "slika": null
-    },
-    {
-      "naslov": "Bivši fudbaler Partizana izvršio samoubistvo",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266376/ajazdin-nuhi-izvrsio-samoubistvo/vest",
+      "naslov": "Višemilionska ponuda stigla u Humsku",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266479/al-sardza-hoce-dembu-seka-poslala-visemilionsku-ponudu-partizanu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 09. 2026. у 12:25",
+      "datum": "10. 09. 2026. у 17:05",
       "slika": null
     },
     {
-      "naslov": "Zvezda na dan utakmice šalje štopera u Radnik",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266347/niksa-blagojevic-prelazi-iz-crvene-zvezde-u-radnik/vest",
+      "naslov": "Partizan se oprostio od Nuhija",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266437/partizan-se-oglasio-povodom-smrti-ajazdija-nuhija/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 09. 2026. у 11:15",
+      "datum": "10. 09. 2026. у 15:00",
       "slika": null
     }
   ]
