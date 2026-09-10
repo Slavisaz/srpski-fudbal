@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-10T15:10:42.967054+00:00",
-  "azurirano_sr": "10. 09. 2026. у 17:10",
+  "azurirano": "2026-09-10T18:24:28.544892+00:00",
+  "azurirano_sr": "10. 09. 2026. у 20:24",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "LIGA ŠAMPIONA - UŽIVO: Egal u Istanbulu, Andrija Maksimović u startnoj postavi Lajpciga",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/liga-sampiona-uzivo-egal-u-istanbulu-andrija-maksimovic-u-startnoj-postavi-lajpciga/553593",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 09. 2026. у 20:56",
+      "slika": null
+    },
     {
       "naslov": "FSS pozvao osnovne škole i fudbalske školice: Besplatno na Grke i Holanđane",
       "url": "https://www.mozzartsport.com/fudbal/vesti/fss-pozvao-osnovne-skole-i-fudbalske-skolice-besplatno-na-grke-i-holanane/553580",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Bode Glimt – anomalija u svetu fudbala: Imaju li Bavarci razloga za strah?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bode-glimt-anomalija-u-svetu-fudbala-imaju-li-bavarci-razloga-za-strah/553566",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 09. 2026. у 14:37",
+      "naslov": "Real Madrid spremio novi ugovor za turskog fudbalera Ardu Gulera",
+      "url": "https://www.tanjug.rs/sport/fudbal/280168/real-madrid-spremio-novi-ugovor-za-turskog-fudbalera-ardu-gulera/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 09. 2026. у 18:41",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Preokret Liverpula protiv Atletika, PSŽ ubedljiv, Arsenal \"osvojio\" Napulj",
-      "url": "https://www.tanjug.rs/sport/fudbal/279950/preokret-liverpula-protiv-atletika-psz-ubedljiv-arsenal-osvojio-napulj/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 09. 2026. у 22:59",
+      "naslov": "Zvezdine muke i dalje traju – &quot;krompir&quot; u Surdulici!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266470/uzivo-radnik-crvena-zvezda-superliga-3kolo/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 09. 2026. у 20:19",
       "slika": null
     },
     {
-      "naslov": "Višemilionska ponuda stigla u Humsku",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266479/al-sardza-hoce-dembu-seka-poslala-visemilionsku-ponudu-partizanu/vest",
+      "naslov": "Pantović se vraća u srpski fudbal",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266414/milos-pantovic-dolazi-na-pozajmicu-u-zeleznicar/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 09. 2026. у 17:05",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan se oprostio od Nuhija",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266437/partizan-se-oglasio-povodom-smrti-ajazdija-nuhija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 09. 2026. у 15:00",
+      "datum": "10. 09. 2026. у 19:55",
       "slika": null
     }
   ]
