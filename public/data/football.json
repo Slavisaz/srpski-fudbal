@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-11T22:00:08.903018+00:00",
-  "azurirano_sr": "12. 09. 2026. у 00:00",
+  "azurirano": "2026-09-11T23:57:17.759663+00:00",
+  "azurirano_sr": "12. 09. 2026. у 01:57",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Propao transfer Rišarlisona u Vasko da Gamu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/propao-transfer-risarlisona-u-vasko-da-gamu/553707",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 09. 2026. у 03:21",
+      "slika": null
+    },
     {
       "naslov": "Prevrtljiv hitac Kuljevića odlučio derbi dojučerašnjih superligaša",
       "url": "https://www.mozzartsport.com/fudbal/vesti/prevrtljiv-hitac-kuljevica-odlucio-derbi-dojucerasnjih-superligasa/553696",
@@ -25,13 +32,6 @@
       "slika": null
     },
     {
-      "naslov": "Simić posle meča na Old Trafordu: Da naučimo da izbegavamo proste greške",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/simic-posle-meca-na-old-trafordu-da-naucimo-da-izbegavamo-proste-greske/553665",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 09. 2026. у 17:40",
-      "slika": null
-    },
-    {
       "naslov": "Davorin Tošić dvostruki strelac za pobedu Železničara protiv Mačve",
       "url": "https://www.tanjug.rs/sport/fudbal/280479/davorin-tosic-dvostruki-strelac-za-pobedu-zeleznicara-protiv-macve/vest",
       "izvor": "Танјуг",
@@ -46,17 +46,17 @@
       "slika": null
     },
     {
+      "naslov": "Dejan Zukić uoči utakmice protiv Partizana: Idemo u Beograd da damo sve od sebe i osvojimo tri boda",
+      "url": "https://www.tanjug.rs/sport/fudbal/280409/dejan-zukic-uoci-utakmice-protiv-partizana-idemo-u-beograd-da-damo-sve-od-sebe-i-osvojimo-tri-boda/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 09. 2026. у 16:37",
+      "slika": null
+    },
+    {
       "naslov": "Milutin Vidosaljević prešao iz Vojvodine na pozajmicu u ruski Akron",
       "url": "https://www.tanjug.rs/sport/fudbal/280334/milutin-vidosaljevic-presao-iz-vojvodine-na-pozajmicu-u-ruski-akron/vest",
       "izvor": "Танјуг",
       "datum": "11. 09. 2026. у 13:12",
-      "slika": null
-    },
-    {
-      "naslov": "Fabregas: Istorijska noć za Komo, ostaćemo skromni i naporno ćemo raditi",
-      "url": "https://www.tanjug.rs/sport/fudbal/280269/fabregas-istorijska-noc-za-komo-ostacemo-skromni-i-naporno-cemo-raditi/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 09. 2026. у 10:18",
       "slika": null
     },
     {
