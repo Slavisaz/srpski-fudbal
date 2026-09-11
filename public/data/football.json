@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-09-11T17:20:11.075342+00:00",
-  "azurirano_sr": "11. 09. 2026. у 19:20",
+  "azurirano": "2026-09-11T19:49:36.080057+00:00",
+  "azurirano_sr": "11. 09. 2026. у 21:49",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Nikola Maraš novi fudbaler OFK Beograda",
+      "url": "https://www.tanjug.rs/sport/fudbal/280444/nikola-maras-novi-fudbaler-ofk-beograda/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 09. 2026. у 19:10",
+      "slika": null
+    },
+    {
       "naslov": "Milutin Vidosaljević prešao iz Vojvodine na pozajmicu u ruski Akron",
       "url": "https://www.tanjug.rs/sport/fudbal/280334/milutin-vidosaljevic-presao-iz-vojvodine-na-pozajmicu-u-ruski-akron/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Ismail Kartal nije više trener fudbalera Fenerbahčea",
-      "url": "https://www.tanjug.rs/sport/fudbal/280213/ismail-kartal-nije-vise-trener-fudbalera-fenerbahcea/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 09. 2026. у 22:55",
+      "naslov": "Jovanović branio sve, ali nije imao rešenje za Željinog Tošića",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266849/jovanovic-branio-sve-ali-nije-imao-resenje-za-zeljinog-tosica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "11. 09. 2026. у 20:53",
       "slika": null
     },
     {
-      "naslov": "Zukić: &quot;Partizanova pozicija na tabeli ne oslikava igrački kadar&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266809/dejan-zukic-pred-partizan-vojvodina/vest",
+      "naslov": "OFK Beograd dobio veliko pojačanje",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266830/nikola-maras-u-ofk-beogradu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "11. 09. 2026. у 18:10",
-      "slika": null
-    },
-    {
-      "naslov": "Partizanov defanzivac lider među talentima u regionu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266794/vukasin-djurdjevic-prvi-na-listi-cies-istrazivanja/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "11. 09. 2026. у 17:40",
+      "datum": "11. 09. 2026. у 19:37",
       "slika": null
     }
   ]
