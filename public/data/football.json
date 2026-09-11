@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-09-11T09:49:57.823197+00:00",
-  "azurirano_sr": "11. 09. 2026. у 11:49",
+  "azurirano": "2026-09-11T13:51:47.528545+00:00",
+  "azurirano_sr": "11. 09. 2026. у 15:51",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "L'arte di vivere: Dom je tamo gde ti je lepo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/larte-di-vivere-dom-je-tamo-gde-ti-je-lepo/553643",
+      "naslov": "Simić posle meča na Old Trafordu: Da naučimo da izbegavamo proste greške",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/simic-posle-meca-na-old-trafordu-da-naucimo-da-izbegavamo-proste-greske/553665",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 09. 2026. у 13:23",
+      "datum": "11. 09. 2026. у 17:40",
       "slika": null
     },
     {
-      "naslov": "Lepo je videti starog Musijalu: Hoću da se opet radujem i uživam u fudbalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lepo-je-videti-starog-musijalu-hocu-da-se-opet-radujem-i-uzivam-u-fudbalu/553620",
+      "naslov": "Još jedna ostavka u Skupštini Partizana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedna-ostavka-u-skupstini-partizana/553664",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 09. 2026. у 03:39",
+      "datum": "11. 09. 2026. у 17:19",
       "slika": null
     },
     {
-      "naslov": "Ima Srbija igrača za elitu! Sevnula Andrijina leva – Komu svaka čast (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ima-srbija-igraca-za-elitu-sevnula-andrijina-leva-komu-svaka-cast-video/553610",
+      "naslov": "Novi projekat Anderlehta – iz kadeta direktno u prvi tim",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/novi-projekat-anderlehta-iz-kadeta-direktno-u-prvi-tim/553659",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 09. 2026. у 00:55",
+      "datum": "11. 09. 2026. у 16:24",
       "slika": null
     },
     {
-      "naslov": "LIGA ŠAMPIONA - KRAJ: Potpuna ludnica u Pragu!!! Puče petarda u Minhenu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/liga-sampiona-kraj-potpuna-ludnica-u-pragu-puce-petarda-u-minhenu/553593",
+      "naslov": "Fudbalski globtroter Marko Kerkez: Nova adresa – Lučani",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalski-globtroter-marko-kerkez-nova-adresa-lucani/553655",
       "izvor": "Мозарт Спорт",
-      "datum": "10. 09. 2026. у 23:05",
+      "datum": "11. 09. 2026. у 15:37",
+      "slika": null
+    },
+    {
+      "naslov": "Milutin Vidosaljević prešao iz Vojvodine na pozajmicu u ruski Akron",
+      "url": "https://www.tanjug.rs/sport/fudbal/280334/milutin-vidosaljevic-presao-iz-vojvodine-na-pozajmicu-u-ruski-akron/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 09. 2026. у 13:12",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Nastavlja se Superliga Srbije, Zvezda gostuje IMT-u, Partizan čeka Vojvodinu",
-      "url": "https://www.tanjug.rs/sport/fudbal/280205/nastavlja-se-superliga-srbije-zvezda-gostuje-imt-u-partizan-ceka-vojvodinu/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 09. 2026. у 22:02",
+      "naslov": "Kerkez ponovo u srpskom fudbalu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266775/marko-kerkez-pojacao-mladost-iz-lucana/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "11. 09. 2026. у 15:45",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266496/radomir-kokovic-konferencija-pred-zeleznicar-macva/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 09. 2026. у 23:45",
-      "slika": null
-    },
-    {
-      "naslov": "OFK Beograd završio dva ozbiljna pojačanja",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266466/nikola-maras-u-ofk-beogradu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 09. 2026. у 23:30",
       "slika": null
     }
   ]
