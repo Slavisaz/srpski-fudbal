@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-11T13:51:47.528545+00:00",
-  "azurirano_sr": "11. 09. 2026. у 15:51",
+  "azurirano": "2026-09-11T17:20:11.075342+00:00",
+  "azurirano_sr": "11. 09. 2026. у 19:20",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "TSC jača bedem isped gola: Potpisao nekadašnji igrač Milvola",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tsc-jaca-bedem-isped-gola-potpisao-nekadasnji-igrac-milvola/553677",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 09. 2026. у 20:54",
+      "slika": null
+    },
+    {
+      "naslov": "Izvršni odbor FSS održan, datuma Skupštine još nema",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/izvrsni-odbor-fss-odrzan-datuma-skupstine-jos-nema/553663",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 09. 2026. у 17:56",
+      "slika": null
+    },
     {
       "naslov": "Simić posle meča na Old Trafordu: Da naučimo da izbegavamo proste greške",
       "url": "https://www.mozzartsport.com/fudbal/vesti/simic-posle-meca-na-old-trafordu-da-naucimo-da-izbegavamo-proste-greske/553665",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedna-ostavka-u-skupstini-partizana/553664",
       "izvor": "Мозарт Спорт",
       "datum": "11. 09. 2026. у 17:19",
-      "slika": null
-    },
-    {
-      "naslov": "Novi projekat Anderlehta – iz kadeta direktno u prvi tim",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/novi-projekat-anderlehta-iz-kadeta-direktno-u-prvi-tim/553659",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 09. 2026. у 16:24",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalski globtroter Marko Kerkez: Nova adresa – Lučani",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalski-globtroter-marko-kerkez-nova-adresa-lucani/553655",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 09. 2026. у 15:37",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Kerkez ponovo u srpskom fudbalu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266775/marko-kerkez-pojacao-mladost-iz-lucana/vest",
+      "naslov": "Zukić: &quot;Partizanova pozicija na tabeli ne oslikava igrački kadar&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266809/dejan-zukic-pred-partizan-vojvodina/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "11. 09. 2026. у 15:45",
+      "datum": "11. 09. 2026. у 18:10",
       "slika": null
     },
     {
-      "naslov": "Koković: &quot;Treba nam još malo vremena da uhvatimo balans&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266496/radomir-kokovic-konferencija-pred-zeleznicar-macva/vest",
+      "naslov": "Partizanov defanzivac lider među talentima u regionu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266794/vukasin-djurdjevic-prvi-na-listi-cies-istrazivanja/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 09. 2026. у 23:45",
+      "datum": "11. 09. 2026. у 17:40",
       "slika": null
     }
   ]
