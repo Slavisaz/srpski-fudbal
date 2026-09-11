@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-11T05:19:33.882696+00:00",
-  "azurirano_sr": "11. 09. 2026. у 07:19",
+  "azurirano": "2026-09-11T09:49:57.823197+00:00",
+  "azurirano_sr": "11. 09. 2026. у 11:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "L'arte di vivere: Dom je tamo gde ti je lepo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/larte-di-vivere-dom-je-tamo-gde-ti-je-lepo/553643",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 09. 2026. у 13:23",
+      "slika": null
+    },
     {
       "naslov": "Lepo je videti starog Musijalu: Hoću da se opet radujem i uživam u fudbalu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/lepo-je-videti-starog-musijalu-hocu-da-se-opet-radujem-i-uzivam-u-fudbalu/553620",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "FSS pozvao osnovne škole i fudbalske školice: Besplatno na Grke i Holanđane",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fss-pozvao-osnovne-skole-i-fudbalske-skolice-besplatno-na-grke-i-holanane/553580",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 09. 2026. у 16:33",
+      "naslov": "Fabregas: Istorijska noć za Komo, ostaćemo skromni i naporno ćemo raditi",
+      "url": "https://www.tanjug.rs/sport/fudbal/280269/fabregas-istorijska-noc-za-komo-ostacemo-skromni-i-naporno-cemo-raditi/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 09. 2026. у 10:18",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/280205/nastavlja-se-superliga-srbije-zvezda-gostuje-imt-u-partizan-ceka-vojvodinu/vest",
       "izvor": "Танјуг",
       "datum": "10. 09. 2026. у 22:02",
-      "slika": null
-    },
-    {
-      "naslov": "Albert Rijera: Nedostajao je samo gol, ali sam zadovoljan",
-      "url": "https://www.tanjug.rs/sport/fudbal/280199/albert-rijera-nedostajao-je-samo-gol-ali-sam-zadovoljan/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 09. 2026. у 21:19",
       "slika": null
     },
     {
