@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-11T19:49:36.080057+00:00",
-  "azurirano_sr": "11. 09. 2026. у 21:49",
+  "azurirano": "2026-09-11T22:00:08.903018+00:00",
+  "azurirano_sr": "12. 09. 2026. у 00:00",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Prevrtljiv hitac Kuljevića odlučio derbi dojučerašnjih superligaša",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prevrtljiv-hitac-kuljevica-odlucio-derbi-dojucerasnjih-superligasa/553696",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 09. 2026. у 00:30",
+      "slika": null
+    },
     {
       "naslov": "TSC jača bedem isped gola: Potpisao nekadašnji igrač Milvola",
       "url": "https://www.mozzartsport.com/fudbal/vesti/tsc-jaca-bedem-isped-gola-potpisao-nekadasnji-igrac-milvola/553677",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Još jedna ostavka u Skupštini Partizana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedna-ostavka-u-skupstini-partizana/553664",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 09. 2026. у 17:19",
+      "naslov": "Davorin Tošić dvostruki strelac za pobedu Železničara protiv Mačve",
+      "url": "https://www.tanjug.rs/sport/fudbal/280479/davorin-tosic-dvostruki-strelac-za-pobedu-zeleznicara-protiv-macve/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 09. 2026. у 22:23",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/280269/fabregas-istorijska-noc-za-komo-ostacemo-skromni-i-naporno-cemo-raditi/vest",
       "izvor": "Танјуг",
       "datum": "11. 09. 2026. у 10:18",
-      "slika": null
-    },
-    {
-      "naslov": "Bajern pobedio Bode Glimt, Maksimović strelac za Lajpcig u porazu od Koma u Ligi šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/280216/bajern-pobedio-bode-glimt-maksimovic-strelac-za-lajpcig-u-porazu-od-koma-u-ligi-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 09. 2026. у 23:11",
       "slika": null
     },
     {
