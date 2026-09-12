@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-09-12T19:24:07.525863+00:00",
-  "azurirano_sr": "12. 09. 2026. у 21:24",
+  "azurirano": "2026-09-12T21:29:42.990636+00:00",
+  "azurirano_sr": "12. 09. 2026. у 23:29",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Real Madrida ubedljivi protiv Rajo Valjekana, dva gola Mbapea",
+      "url": "https://www.tanjug.rs/sport/fudbal/280674/fudbaleri-real-madrida-ubedljivi-protiv-rajo-valjekana-dva-gola-mbapea/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 09. 2026. у 23:03",
+      "slika": null
+    },
+    {
+      "naslov": "Arsenal šampionski do pobede u Sanderlendu, \"bomba\" Gimaraeša i odbranjen penal Raje",
+      "url": "https://www.tanjug.rs/sport/fudbal/280672/arsenal-sampionski-do-pobede-u-sanderlendu-bomba-gimaraesa-i-odbranjen-penal-raje/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 09. 2026. у 22:56",
+      "slika": null
+    },
+    {
       "naslov": "Hal osvojio bod na gostovanju Čelsiju, remi Liverpula i Fulama",
       "url": "https://www.tanjug.rs/sport/fudbal/280624/hal-osvojio-bod-na-gostovanju-celsiju-remi-liverpula-i-fulama/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Ilić: U Partizanu je stalno biti ili ne biti, idemo na pobedu protiv Vojvodine",
-      "url": "https://www.tanjug.rs/sport/fudbal/280546/ilic-u-partizanu-je-stalno-biti-ili-ne-biti-idemo-na-pobedu-protiv-vojvodine/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 09. 2026. у 11:16",
-      "slika": null
-    },
-    {
-      "naslov": "Davorin Tošić dvostruki strelac za pobedu Železničara protiv Mačve",
-      "url": "https://www.tanjug.rs/sport/fudbal/280479/davorin-tosic-dvostruki-strelac-za-pobedu-zeleznicara-protiv-macve/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 09. 2026. у 22:23",
+      "naslov": "Radnički razneo Mladost",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267087/radnicki-razneo-mladost/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 09. 2026. у 22:24",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267071/cukaricki-i-novi-pazar-podelili-bodove-na-banovom-brdu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 09. 2026. у 20:44",
-      "slika": null
-    },
-    {
-      "naslov": "Loše vesti za Srbiju!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267040/nikola-milenkovic-se-povredio-pred-ligu-nacija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 09. 2026. у 19:04",
       "slika": null
     }
   ]
