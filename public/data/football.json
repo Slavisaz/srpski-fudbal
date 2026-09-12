@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-09-12T07:20:32.821840+00:00",
-  "azurirano_sr": "12. 09. 2026. у 09:20",
+  "azurirano": "2026-09-12T11:38:55.735431+00:00",
+  "azurirano_sr": "12. 09. 2026. у 13:38",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Propao transfer Rišarlisona u Vasko da Gamu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/propao-transfer-risarlisona-u-vasko-da-gamu/553707",
+      "naslov": "Srpski fudbal pred ogromnim problemom: Staje lopta 1. novembra!?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-fudbal-pred-ogromnim-problemom-staje-lopta-1-novembra/553724",
       "izvor": "Мозарт Спорт",
-      "datum": "12. 09. 2026. у 03:21",
+      "datum": "12. 09. 2026. у 14:01",
       "slika": null
     },
     {
-      "naslov": "Prevrtljiv hitac Kuljevića odlučio derbi dojučerašnjih superligaša",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prevrtljiv-hitac-kuljevica-odlucio-derbi-dojucerasnjih-superligasa/553696",
+      "naslov": "Ranjeni Milioneri na startu sezone, ali Kovačeva žuta vojska gazi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ranjeni-milioneri-na-startu-sezone-ali-kovaceva-zuta-vojska-gazi/553717",
       "izvor": "Мозарт Спорт",
-      "datum": "12. 09. 2026. у 00:30",
+      "datum": "12. 09. 2026. у 11:58",
       "slika": null
     },
     {
-      "naslov": "TSC jača bedem isped gola: Potpisao nekadašnji igrač Milvola",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tsc-jaca-bedem-isped-gola-potpisao-nekadasnji-igrac-milvola/553677",
+      "naslov": "Odrastanje u podrumu i rad za šankom: Kad će pauza? Nije ti ovo fudbal… I nije dvogled, to su dedine naočare",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/odrastanje-u-podrumu-i-rad-za-sankom-kad-ce-pauza-nije-ti-ovo-fudbal-i-nije-dvogled-to-su-dedine-naocare/553715",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 09. 2026. у 20:54",
+      "datum": "12. 09. 2026. у 11:56",
       "slika": null
     },
     {
-      "naslov": "Izvršni odbor FSS održan, datuma Skupštine još nema",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/izvrsni-odbor-fss-odrzan-datuma-skupstine-jos-nema/553663",
+      "naslov": "Radionica Sergeja Jakirovića za pokvarene igračke",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/radionica-sergeja-jakirovica-za-pokvarene-igracke/553716",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 09. 2026. у 17:56",
+      "datum": "12. 09. 2026. у 11:55",
+      "slika": null
+    },
+    {
+      "naslov": "Ilić: U Partizanu je stalno biti ili ne biti, idemo na pobedu protiv Vojvodine",
+      "url": "https://www.tanjug.rs/sport/fudbal/280546/ilic-u-partizanu-je-stalno-biti-ili-ne-biti-idemo-na-pobedu-protiv-vojvodine/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 09. 2026. у 11:16",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Milutin Vidosaljević prešao iz Vojvodine na pozajmicu u ruski Akron",
-      "url": "https://www.tanjug.rs/sport/fudbal/280334/milutin-vidosaljevic-presao-iz-vojvodine-na-pozajmicu-u-ruski-akron/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 09. 2026. у 13:12",
+      "naslov": "Otkriveno zašto je Rijera zamenio Korejca posle 19 minuta",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266955/otkriveno-zasto-je-rijera-zamenio-korejca-posle-19-minuta/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 09. 2026. у 13:30",
       "slika": null
     },
     {
-      "naslov": "Jovanović branio sve, ali nije imao rešenje za Željinog Tošića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266849/jovanovic-branio-sve-ali-nije-imao-resenje-za-zeljinog-tosica/vest",
+      "naslov": "Surdulički Panter za B92.sport: &quot;Lepo je osvrnuti se kada dođu rezultati – Docić mi čestitao posle penala&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266926/lazar-radojicic-za-b92sport-radnik-surdulica-crvena-zvezda-intervju/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "11. 09. 2026. у 20:53",
-      "slika": null
-    },
-    {
-      "naslov": "OFK Beograd dobio veliko pojačanje",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266830/nikola-maras-u-ofk-beogradu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "11. 09. 2026. у 19:37",
+      "datum": "12. 09. 2026. у 11:00",
       "slika": null
     }
   ]
