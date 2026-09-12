@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-12T17:16:15.353154+00:00",
-  "azurirano_sr": "12. 09. 2026. у 19:16",
+  "azurirano": "2026-09-12T19:24:07.525863+00:00",
+  "azurirano_sr": "12. 09. 2026. у 21:24",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Šok u Pireju, OFI tukao skupoceni Olimpijakos posle 36 godina; navijači zviždali jedni drugima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sok-u-pireju-ofi-tukao-skupoceni-olimpijakos-posle-36-godina-navijaci-zvizdali-jedni-drugima/553765",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 09. 2026. у 22:40",
+      "slika": null
+    },
     {
       "naslov": "Senzacija u Primeri: Blistao na Mundijalitu, luduje po Španiji, biće to veliki transfer jednog dana",
       "url": "https://www.mozzartsport.com/fudbal/vesti/senzacija-u-primeri-blistao-na-mundijalitu-luduje-po-spaniji-bice-to-veliki-transfer-jednog-dana/553743",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-fudbal-pred-ogromnim-problemom-staje-lopta-1-novembra/553724",
       "izvor": "Мозарт Спорт",
       "datum": "12. 09. 2026. у 14:01",
-      "slika": null
-    },
-    {
-      "naslov": "Ranjeni Milioneri na startu sezone, ali Kovačeva žuta vojska gazi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ranjeni-milioneri-na-startu-sezone-ali-kovaceva-zuta-vojska-gazi/553717",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 09. 2026. у 11:58",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Čukarički i Novi Pazar remizirali, autogol Stankovića odlučio bodove na Banovom brdu!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267071/cukaricki-i-novi-pazar-podelili-bodove-na-banovom-brdu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 09. 2026. у 20:44",
+      "slika": null
+    },
+    {
       "naslov": "Loše vesti za Srbiju!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267040/nikola-milenkovic-se-povredio-pred-ligu-nacija/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 09. 2026. у 19:04",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera: &quot;Svesni smo šta moramo da popravimo&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266996/rijera-svesni-smo-sta-moramo-da-popravimo/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 09. 2026. у 15:15",
       "slika": null
     }
   ]
