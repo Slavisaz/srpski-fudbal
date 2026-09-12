@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-12T14:21:18.693402+00:00",
-  "azurirano_sr": "12. 09. 2026. у 16:21",
+  "azurirano": "2026-09-12T17:16:15.353154+00:00",
+  "azurirano_sr": "12. 09. 2026. у 19:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Senzacija u Primeri: Blistao na Mundijalitu, luduje po Španiji, biće to veliki transfer jednog dana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/senzacija-u-primeri-blistao-na-mundijalitu-luduje-po-spaniji-bice-to-veliki-transfer-jednog-dana/553743",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 09. 2026. у 18:15",
+      "slika": null
+    },
     {
       "naslov": "Elitni fudbal se ne igra sa domaćim fudbalerima",
       "url": "https://www.mozzartsport.com/fudbal/vesti/elitni-fudbal-se-ne-igra-sa-domacim-fudbalerima/553741",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Odrastanje u podrumu i rad za šankom: Kad će pauza? Nije ti ovo fudbal… I nije dvogled, to su dedine naočare",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/odrastanje-u-podrumu-i-rad-za-sankom-kad-ce-pauza-nije-ti-ovo-fudbal-i-nije-dvogled-to-su-dedine-naocare/553715",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 09. 2026. у 11:56",
+      "naslov": "Hal osvojio bod na gostovanju Čelsiju, remi Liverpula i Fulama",
+      "url": "https://www.tanjug.rs/sport/fudbal/280624/hal-osvojio-bod-na-gostovanju-celsiju-remi-liverpula-i-fulama/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 09. 2026. у 18:29",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Nikola Maraš novi fudbaler OFK Beograda",
-      "url": "https://www.tanjug.rs/sport/fudbal/280444/nikola-maras-novi-fudbaler-ofk-beograda/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 09. 2026. у 19:10",
+      "naslov": "Loše vesti za Srbiju!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267040/nikola-milenkovic-se-povredio-pred-ligu-nacija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "12. 09. 2026. у 19:04",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266996/rijera-svesni-smo-sta-moramo-da-popravimo/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 09. 2026. у 15:15",
-      "slika": null
-    },
-    {
-      "naslov": "Otkriveno zašto je Rijera zamenio Korejca posle 19 minuta",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/266955/otkriveno-zasto-je-rijera-zamenio-korejca-posle-19-minuta/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 09. 2026. у 13:30",
       "slika": null
     }
   ]
