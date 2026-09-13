@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-09-13T21:43:04.014966+00:00",
-  "azurirano_sr": "13. 09. 2026. у 23:43",
+  "azurirano": "2026-09-13T23:32:12.816982+00:00",
+  "azurirano_sr": "14. 09. 2026. у 01:32",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -15,20 +15,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/zemun-konacno-ima-novog-trenera-vodice-ga-stranac/553812",
       "izvor": "Мозарт Спорт",
       "datum": "13. 09. 2026. у 15:12",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalski \"rock and roll\" se vratio u grad: Najubedljivija pobeda Radničkog u Mozzart Bet Superligi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalski-rock-and-roll-se-vratio-u-grad-najubedljivija-pobeda-radnickog-u-mozzart-bet-superligi/553803",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 09. 2026. у 14:23",
-      "slika": null
-    },
-    {
-      "naslov": "Moćni šampion Evrope dao malo fore rivalima, vreme je da se upali mašina sa Parka prinčeva",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mocni-sampion-evrope-dao-malo-fore-rivalima-vreme-je-da-se-upali-masina-sa-parka-princeva/553807",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 09. 2026. у 13:33",
       "slika": null
     },
     {
@@ -71,6 +57,20 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267244/uzivo-imt-crvena-zvezda-superliga-srbije-9-kolo-live-prenos/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "13. 09. 2026. у 20:51",
+      "slika": null
+    },
+    {
+      "naslov": "Ilić: &quot;Nema šta mnogo da se priča kad se izgubi&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267263/izjava-sase-ilica-nakon-poraza-od-vojvodine/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 09. 2026. у 19:16",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezdino dete izabralo Crnu Goru: &quot;San je postao stvarnost&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/267199/zvezdino-dete-izabralo-crnu-goru-san-je-postao-stvarnost/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "13. 09. 2026. у 16:15",
       "slika": null
     }
   ]
