@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-09-13T14:38:05.438432+00:00",
-  "azurirano_sr": "13. 09. 2026. у 16:38",
+  "azurirano": "2026-09-13T17:37:17.947404+00:00",
+  "azurirano_sr": "13. 09. 2026. у 19:37",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Vojvodine bolji od Partizana u Humskoj, crno-beli pretposlednji na tabeli",
+      "url": "https://www.tanjug.rs/sport/fudbal/280822/fudbaleri-vojvodine-bolji-od-partizana-u-humskoj-crno-beli-pretposlednji-na-tabeli/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 09. 2026. у 19:05",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Brajtona ubedljivo pobedili Koventri u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/280803/fudbaleri-brajtona-ubedljivo-pobedili-koventri-u-premijer-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 09. 2026. у 17:11",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Rendžersa u polufinalu škotskog Liga kupa",
       "url": "https://www.tanjug.rs/sport/fudbal/280793/fudbaleri-rendzersa-u-polufinalu-skotskog-liga-kupa/vest",
       "izvor": "Танјуг",
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Belgijski golman Tibo Kurtoa pregovara sa Realom o novom ugovoru",
-      "url": "https://www.tanjug.rs/sport/fudbal/280731/belgijski-golman-tibo-kurtoa-pregovara-sa-realom-o-novom-ugovoru/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 09. 2026. у 10:57",
-      "slika": null
-    },
-    {
-      "naslov": "Remi fudbalera Intera iz Majamija i Nešvila u derbi meču MLS lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/280725/remi-fudbalera-intera-iz-majamija-i-nesvila-u-derbi-mecu-mls-lige/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 09. 2026. у 10:08",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan igra još jedan derbi – poznati sastavi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267222/uzivo-partizan-vojvodina-9-kolo-superlige-live-prenos-gde-gledati/vest",
+      "naslov": "Zvezda vodi protiv IMT-a",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267244/uzivo-imt-crvena-zvezda-superliga-srbije-9-kolo-live-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "13. 09. 2026. у 16:34",
+      "datum": "13. 09. 2026. у 19:31",
       "slika": null
     },
     {
-      "naslov": "Zemun našao novog trenera",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267196/djordji-mojsov-novi-trener-zemuna/vest",
+      "naslov": "Ilić: &quot;Nema šta mnogo da se priča kad se izgubi&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267263/izjava-sase-ilica-nakon-poraza-od-vojvodine/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "13. 09. 2026. у 14:33",
+      "datum": "13. 09. 2026. у 19:16",
       "slika": null
     }
   ]
