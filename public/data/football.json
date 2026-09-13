@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-13T10:34:43.829453+00:00",
-  "azurirano_sr": "13. 09. 2026. у 12:34",
+  "azurirano": "2026-09-13T14:38:05.438432+00:00",
+  "azurirano_sr": "13. 09. 2026. у 16:38",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zemun konačno ima novog trenera, vodiće ga stranac",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zemun-konacno-ima-novog-trenera-vodice-ga-stranac/553812",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 09. 2026. у 15:12",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbalski \"rock and roll\" se vratio u grad: Najubedljivija pobeda Radničkog u Mozzart Bet Superligi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalski-rock-and-roll-se-vratio-u-grad-najubedljivija-pobeda-radnickog-u-mozzart-bet-superligi/553803",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 09. 2026. у 14:23",
+      "slika": null
+    },
     {
       "naslov": "Moćni šampion Evrope dao malo fore rivalima, vreme je da se upali mašina sa Parka prinčeva",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mocni-sampion-evrope-dao-malo-fore-rivalima-vreme-je-da-se-upali-masina-sa-parka-princeva/553807",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Prvi Old Firm sezone: Leto evropskih brodoloma, Srbi u drugom planu u plavom delu Glazgova",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-old-firm-sezone-leto-evropskih-brodoloma-srbi-u-drugom-planu-u-plavom-delu-glazgova/553793",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 09. 2026. у 11:12",
+      "naslov": "Fudbaleri Rendžersa u polufinalu škotskog Liga kupa",
+      "url": "https://www.tanjug.rs/sport/fudbal/280793/fudbaleri-rendzersa-u-polufinalu-skotskog-liga-kupa/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 09. 2026. у 16:06",
       "slika": null
     },
     {
-      "naslov": "Šok u Pireju, OFI tukao skupoceni Olimpijakos posle 36 godina; navijači zviždali jedni drugima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sok-u-pireju-ofi-tukao-skupoceni-olimpijakos-posle-36-godina-navijaci-zvizdali-jedni-drugima/553765",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 09. 2026. у 22:40",
+      "naslov": "Eugen Polanski nije više trener fudbalera Borusije Menhengladbah",
+      "url": "https://www.tanjug.rs/sport/fudbal/280746/eugen-polanski-nije-vise-trener-fudbalera-borusije-menhengladbah/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 09. 2026. у 12:28",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Radničkog iz Kragujevca \"petardom\" protiv Mladosti, remi Čukaričkog i Pazara",
-      "url": "https://www.tanjug.rs/sport/fudbal/280678/fudbaleri-radnickog-iz-kragujevca-petardom-protiv-mladosti-remi-cukarickog-i-pazara/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 09. 2026. у 23:23",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Real Madrida ubedljivi protiv Rajo Valjekana, dva gola Mbapea",
-      "url": "https://www.tanjug.rs/sport/fudbal/280674/fudbaleri-real-madrida-ubedljivi-protiv-rajo-valjekana-dva-gola-mbapea/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 09. 2026. у 23:03",
-      "slika": null
-    },
-    {
-      "naslov": "Radnički razneo Mladost",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267087/radnicki-razneo-mladost/vest",
+      "naslov": "Partizan igra još jedan derbi – poznati sastavi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267222/uzivo-partizan-vojvodina-9-kolo-superlige-live-prenos-gde-gledati/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 09. 2026. у 22:24",
+      "datum": "13. 09. 2026. у 16:34",
       "slika": null
     },
     {
-      "naslov": "Čukarički i Novi Pazar remizirali, autogol Stankovića odlučio bodove na Banovom brdu!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267071/cukaricki-i-novi-pazar-podelili-bodove-na-banovom-brdu/vest",
+      "naslov": "Zemun našao novog trenera",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267196/djordji-mojsov-novi-trener-zemuna/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 09. 2026. у 20:44",
+      "datum": "13. 09. 2026. у 14:33",
       "slika": null
     }
   ]
