@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-13T05:36:05.109930+00:00",
-  "azurirano_sr": "13. 09. 2026. у 07:36",
+  "azurirano": "2026-09-13T10:34:43.829453+00:00",
+  "azurirano_sr": "13. 09. 2026. у 12:34",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Moćni šampion Evrope dao malo fore rivalima, vreme je da se upali mašina sa Parka prinčeva",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mocni-sampion-evrope-dao-malo-fore-rivalima-vreme-je-da-se-upali-masina-sa-parka-princeva/553807",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 09. 2026. у 13:33",
+      "slika": null
+    },
+    {
+      "naslov": "Nejmar platio 2.000.000 evra i doveo Kutinja! Brate moj, idemo po titulu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nejmar-platio-2000000-evra-i-doveo-kutinja-brate-moj-idemo-po-titulu/553806",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 09. 2026. у 13:30",
+      "slika": null
+    },
+    {
+      "naslov": "Prvi Old Firm sezone: Leto evropskih brodoloma, Srbi u drugom planu u plavom delu Glazgova",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-old-firm-sezone-leto-evropskih-brodoloma-srbi-u-drugom-planu-u-plavom-delu-glazgova/553793",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 09. 2026. у 11:12",
+      "slika": null
+    },
     {
       "naslov": "Šok u Pireju, OFI tukao skupoceni Olimpijakos posle 36 godina; navijači zviždali jedni drugima",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sok-u-pireju-ofi-tukao-skupoceni-olimpijakos-posle-36-godina-navijaci-zvizdali-jedni-drugima/553765",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Senzacija u Primeri: Blistao na Mundijalitu, luduje po Španiji, biće to veliki transfer jednog dana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/senzacija-u-primeri-blistao-na-mundijalitu-luduje-po-spaniji-bice-to-veliki-transfer-jednog-dana/553743",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 09. 2026. у 18:15",
+      "naslov": "Belgijski golman Tibo Kurtoa pregovara sa Realom o novom ugovoru",
+      "url": "https://www.tanjug.rs/sport/fudbal/280731/belgijski-golman-tibo-kurtoa-pregovara-sa-realom-o-novom-ugovoru/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 09. 2026. у 10:57",
       "slika": null
     },
     {
-      "naslov": "Elitni fudbal se ne igra sa domaćim fudbalerima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/elitni-fudbal-se-ne-igra-sa-domacim-fudbalerima/553741",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 09. 2026. у 18:06",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbal pred ogromnim problemom: Staje lopta 1. novembra!?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-fudbal-pred-ogromnim-problemom-staje-lopta-1-novembra/553724",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 09. 2026. у 14:01",
+      "naslov": "Remi fudbalera Intera iz Majamija i Nešvila u derbi meču MLS lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/280725/remi-fudbalera-intera-iz-majamija-i-nesvila-u-derbi-mecu-mls-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 09. 2026. у 10:08",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/280674/fudbaleri-real-madrida-ubedljivi-protiv-rajo-valjekana-dva-gola-mbapea/vest",
       "izvor": "Танјуг",
       "datum": "12. 09. 2026. у 23:03",
-      "slika": null
-    },
-    {
-      "naslov": "Arsenal šampionski do pobede u Sanderlendu, \"bomba\" Gimaraeša i odbranjen penal Raje",
-      "url": "https://www.tanjug.rs/sport/fudbal/280672/arsenal-sampionski-do-pobede-u-sanderlendu-bomba-gimaraesa-i-odbranjen-penal-raje/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 09. 2026. у 22:56",
-      "slika": null
-    },
-    {
-      "naslov": "Hal osvojio bod na gostovanju Čelsiju, remi Liverpula i Fulama",
-      "url": "https://www.tanjug.rs/sport/fudbal/280624/hal-osvojio-bod-na-gostovanju-celsiju-remi-liverpula-i-fulama/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 09. 2026. у 18:29",
       "slika": null
     },
     {
