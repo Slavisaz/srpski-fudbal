@@ -1,69 +1,76 @@
 {
-  "azurirano": "2026-09-14T06:49:12.286988+00:00",
-  "azurirano_sr": "14. 09. 2026. у 08:49",
+  "azurirano": "2026-09-14T13:23:45.374663+00:00",
+  "azurirano_sr": "14. 09. 2026. у 15:23",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Kad tabela ne govori sve: Independijente i San Lorenco za novi korak u Klausuri",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kad-tabela-ne-govori-sve-independijente-i-san-lorenco-za-novi-korak-u-klausuri/553824",
+      "naslov": "Runjaić: Jovanović je spreman, igraće ako nam zatreba",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/runjaic-jovanovic-je-spreman-igrace-ako-nam-zatreba/553935",
       "izvor": "Мозарт Спорт",
-      "datum": "13. 09. 2026. у 22:25",
+      "datum": "14. 09. 2026. у 16:34",
       "slika": null
     },
     {
-      "naslov": "Rijera: Tri boda, pobeda i sačuvana mreža, to je najvažnije",
-      "url": "https://www.tanjug.rs/sport/fudbal/280851/rijera-tri-boda-pobeda-i-sacuvana-mreza-to-je-najvaznije/vest",
+      "naslov": "Osmi Makedonac srpskog fudbala, doveden da od Zemuna napravi ofanzivniji tim",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/osmi-makedonac-srpskog-fudbala-doveden-da-od-zemuna-napravi-ofanzivniji-tim/553931",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 09. 2026. у 15:50",
+      "slika": null
+    },
+    {
+      "naslov": "Ančeloti pravi novi Brazil: U današnjem fudbalu bitan je tim, a ne talentovani pojedinac",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/anceloti-pravi-novi-brazil-u-danasnjem-fudbalu-bitan-je-tim-a-ne-talentovani-pojedinac/553923",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 09. 2026. у 14:17",
+      "slika": null
+    },
+    {
+      "naslov": "Železničar predstavio Pantovića: Ovde mogu da se vratim na pravi put",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zeleznicar-predstavio-pantovica-ovde-mogu-da-se-vratim-na-pravi-put/553918",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 09. 2026. у 13:18",
+      "slika": null
+    },
+    {
+      "naslov": "Miloš Pantović na pozajmici u Železničaru do kraja sezone",
+      "url": "https://www.tanjug.rs/sport/fudbal/280994/milos-pantovic-na-pozajmici-u-zeleznicaru-do-kraja-sezone/vest",
       "izvor": "Танјуг",
-      "datum": "13. 09. 2026. у 21:24",
+      "datum": "14. 09. 2026. у 12:48",
       "slika": null
     },
     {
-      "naslov": "Kostov za pobedu fudbalera Zvezde protiv IMT-a u Loznici",
-      "url": "https://www.tanjug.rs/sport/fudbal/280842/kostov-za-pobedu-fudbalera-zvezde-protiv-imt-a-u-loznici/vest",
+      "naslov": "Sudijska organizacija Premijer lige priznala grešku kod gola Halanda",
+      "url": "https://www.tanjug.rs/sport/fudbal/280956/sudijska-organizacija-premijer-lige-priznala-gresku-kod-gola-halanda/vest",
       "izvor": "Танјуг",
-      "datum": "13. 09. 2026. у 20:51",
+      "datum": "14. 09. 2026. у 11:24",
       "slika": null
     },
     {
-      "naslov": "Saša Ilić: Nema šta mnogo da se priča kad se izgubi",
-      "url": "https://www.tanjug.rs/sport/fudbal/280831/sasa-ilic-nema-sta-mnogo-da-se-prica-kad-se-izgubi/vest",
+      "naslov": "Jamal: Mislim da zaslužujem da osvojim \"Zlatnu loptu\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/280948/jamal-mislim-da-zasluzujem-da-osvojim-zlatnu-loptu/vest",
       "izvor": "Танјуг",
-      "datum": "13. 09. 2026. у 19:46",
+      "datum": "14. 09. 2026. у 11:10",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Sitija sa igračem manje savladali Junajted u derbiju Mančestera",
-      "url": "https://www.tanjug.rs/sport/fudbal/280830/fudbaleri-sitija-sa-igracem-manje-savladali-junajted-u-derbiju-mancestera/vest",
+      "naslov": "Spaleti: Boli poraz od Sasuola, nismo zaslužili da izgubimo",
+      "url": "https://www.tanjug.rs/sport/fudbal/280935/spaleti-boli-poraz-od-sasuola-nismo-zasluzili-da-izgubimo/vest",
       "izvor": "Танјуг",
-      "datum": "13. 09. 2026. у 19:42",
+      "datum": "14. 09. 2026. у 10:48",
       "slika": null
     },
     {
-      "naslov": "Rijera: &quot;Sudite nam u maju&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267281/izjava-alberta-rijere-nakon-trijumfa-zvezde-nad-imt-om-10/vest",
+      "naslov": "Miloš Pantović novi igrač Železničara",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267420/milos-pantovic-novi-igrac-zeleznicara/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "13. 09. 2026. у 21:06",
+      "datum": "14. 09. 2026. у 14:30",
       "slika": null
     },
     {
-      "naslov": "Zvezda strepela do kraja – minimalac protiv IMT-a",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267244/uzivo-imt-crvena-zvezda-superliga-srbije-9-kolo-live-prenos/vest",
+      "naslov": "Ovo se Partizanu nije dogodilo skoro 50 godina",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267437/partizan-posle-skoro-50-godina-ponovo-strepi-za-opstanak/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "13. 09. 2026. у 20:51",
-      "slika": null
-    },
-    {
-      "naslov": "Ilić: &quot;Nema šta mnogo da se priča kad se izgubi&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267263/izjava-sase-ilica-nakon-poraza-od-vojvodine/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 09. 2026. у 19:16",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezdino dete izabralo Crnu Goru: &quot;San je postao stvarnost&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/267199/zvezdino-dete-izabralo-crnu-goru-san-je-postao-stvarnost/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "13. 09. 2026. у 16:15",
+      "datum": "14. 09. 2026. у 13:15",
       "slika": null
     },
     {
@@ -71,6 +78,13 @@
       "url": "https://www.b92.net/sport/fudbal/vesti/267172/filipe-kutinjo-dosao-u-santos/vest",
       "izvor": "Б92 Фудбал",
       "datum": "13. 09. 2026. у 15:04",
+      "slika": null
+    },
+    {
+      "naslov": "Srbin digao glas zbog Italijana: &quot;Nije mi pružio ruku, kao da sam Ciganin&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/267153/srbin-digao-glas-zbog-italijana-nije-mi-pruzio-ruku-kao-da-sam-ciganin/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "13. 09. 2026. у 13:36",
       "slika": null
     }
   ]
