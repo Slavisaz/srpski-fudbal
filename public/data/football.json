@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-14T18:43:36.258548+00:00",
-  "azurirano_sr": "14. 09. 2026. у 20:43",
+  "azurirano": "2026-09-14T22:03:36.890078+00:00",
+  "azurirano_sr": "15. 09. 2026. у 00:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Atomski fudbal na Madrigalu - 40 šuteva, 20 u okvir i so na ranu Viljareala; mogla da pukne i petarda (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/atomski-fudbal-na-madrigalu-40-suteva-20-u-okvir-i-so-na-ranu-viljareala-mogla-da-pukne-i-petarda-video/553954",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 09. 2026. у 01:16",
+      "slika": null
+    },
     {
       "naslov": "Iz kopački u fotelju: Huan Mata se ne vraća u Melburn, ali ostaje suvlasnik Viktorija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/iz-kopacki-u-fotelju-huan-mata-se-ne-vraca-u-melburn-ali-ostaje-suvlasnik-viktorija/553942",
@@ -25,52 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Osmi Makedonac srpskog fudbala, doveden da od Zemuna napravi ofanzivniji tim",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/osmi-makedonac-srpskog-fudbala-doveden-da-od-zemuna-napravi-ofanzivniji-tim/553931",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 09. 2026. у 15:50",
-      "slika": null
-    },
-    {
-      "naslov": "Strahinja Stojković novo pojačanje OFK Beograda",
-      "url": "https://www.tanjug.rs/sport/fudbal/281129/strahinja-stojkovic-novo-pojacanje-ofk-beograda/vest",
+      "naslov": "Fudbaleri Betisa pobedili Viljareal u španskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/281198/fudbaleri-betisa-pobedili-viljareal-u-spanskom-prvenstvu/vest",
       "izvor": "Танјуг",
-      "datum": "14. 09. 2026. у 18:01",
+      "datum": "14. 09. 2026. у 23:00",
       "slika": null
     },
     {
-      "naslov": "Fudbaler PSŽ-a Ašraf Hakimi zadobio povredu desne noge",
-      "url": "https://www.tanjug.rs/sport/fudbal/281117/fudbaler-psz-a-asraf-hakimi-zadobio-povredu-desne-noge/vest",
+      "naslov": "Fudbaleri Lidsa ubedljivi protiv Njukasla u četvrtom kolu Premijer lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/281197/fudbaleri-lidsa-ubedljivi-protiv-njukasla-u-cetvrtom-kolu-premijer-lige/vest",
       "izvor": "Танјуг",
-      "datum": "14. 09. 2026. у 17:25",
+      "datum": "14. 09. 2026. у 22:59",
       "slika": null
     },
     {
-      "naslov": "Miloš Pantović na pozajmici u Železničaru do kraja sezone",
-      "url": "https://www.tanjug.rs/sport/fudbal/280994/milos-pantovic-na-pozajmici-u-zeleznicaru-do-kraja-sezone/vest",
+      "naslov": "Fudbaleri Intera posle preokreta savladali Udineze u Seriji A",
+      "url": "https://www.tanjug.rs/sport/fudbal/281193/fudbaleri-intera-posle-preokreta-savladali-udineze-u-seriji-a/vest",
       "izvor": "Танјуг",
-      "datum": "14. 09. 2026. у 12:48",
+      "datum": "14. 09. 2026. у 22:42",
       "slika": null
     },
     {
-      "naslov": "Sudijska organizacija Premijer lige priznala grešku kod gola Halanda",
-      "url": "https://www.tanjug.rs/sport/fudbal/280956/sudijska-organizacija-premijer-lige-priznala-gresku-kod-gola-halanda/vest",
+      "naslov": "Filipe Kutinjo novi fudbaler Santosa",
+      "url": "https://www.tanjug.rs/sport/fudbal/281181/filipe-kutinjo-novi-fudbaler-santosa/vest",
       "izvor": "Танјуг",
-      "datum": "14. 09. 2026. у 11:24",
+      "datum": "14. 09. 2026. у 21:22",
       "slika": null
     },
     {
-      "naslov": "Partizanu u danu isplatio 800.000 evra bivšim igračima",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267530/partizan-vratio-oko-800000-evra-duga/vest",
+      "naslov": "OFK Beograd vratio Zvezdino dete",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267611/ofk-beograd-vratio-zvezdino-dete/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "14. 09. 2026. у 18:15",
+      "datum": "14. 09. 2026. у 23:35",
       "slika": null
     },
     {
-      "naslov": "Austrija &quot;ukrala&quot; velikog talenta od Srbije – Marković dobio poziv u seniorski tim",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267519/austrija-preduhitrila-srbiju-pozvala-vasilija-markovica-u-prvi-tim/vest",
+      "naslov": "Mačva dovela ozbiljno pojačanje",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267578/stefan-colovic-pojacao-macvu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "14. 09. 2026. у 16:30",
+      "datum": "14. 09. 2026. у 21:45",
       "slika": null
     }
   ]
