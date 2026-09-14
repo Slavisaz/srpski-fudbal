@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-14T13:23:45.374663+00:00",
-  "azurirano_sr": "14. 09. 2026. у 15:23",
+  "azurirano": "2026-09-14T18:43:36.258548+00:00",
+  "azurirano_sr": "14. 09. 2026. у 20:43",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Iz kopački u fotelju: Huan Mata se ne vraća u Melburn, ali ostaje suvlasnik Viktorija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/iz-kopacki-u-fotelju-huan-mata-se-ne-vraca-u-melburn-ali-ostaje-suvlasnik-viktorija/553942",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 09. 2026. у 17:31",
+      "slika": null
+    },
+    {
+      "naslov": "Srbija izgubila bitku za velikog talenta: Austrijanci pozvali Markovića u A tim",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-izgubila-bitku-za-velikog-talenta-austrijanci-pozvali-markovica-u-a-tim/553939",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 09. 2026. у 17:22",
+      "slika": null
+    },
     {
       "naslov": "Runjaić: Jovanović je spreman, igraće ako nam zatreba",
       "url": "https://www.mozzartsport.com/fudbal/vesti/runjaic-jovanovic-je-spreman-igrace-ako-nam-zatreba/553935",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Ančeloti pravi novi Brazil: U današnjem fudbalu bitan je tim, a ne talentovani pojedinac",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/anceloti-pravi-novi-brazil-u-danasnjem-fudbalu-bitan-je-tim-a-ne-talentovani-pojedinac/553923",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 09. 2026. у 14:17",
+      "naslov": "Strahinja Stojković novo pojačanje OFK Beograda",
+      "url": "https://www.tanjug.rs/sport/fudbal/281129/strahinja-stojkovic-novo-pojacanje-ofk-beograda/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 09. 2026. у 18:01",
       "slika": null
     },
     {
-      "naslov": "Železničar predstavio Pantovića: Ovde mogu da se vratim na pravi put",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zeleznicar-predstavio-pantovica-ovde-mogu-da-se-vratim-na-pravi-put/553918",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 09. 2026. у 13:18",
+      "naslov": "Fudbaler PSŽ-a Ašraf Hakimi zadobio povredu desne noge",
+      "url": "https://www.tanjug.rs/sport/fudbal/281117/fudbaler-psz-a-asraf-hakimi-zadobio-povredu-desne-noge/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 09. 2026. у 17:25",
       "slika": null
     },
     {
@@ -46,45 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Jamal: Mislim da zaslužujem da osvojim \"Zlatnu loptu\"",
-      "url": "https://www.tanjug.rs/sport/fudbal/280948/jamal-mislim-da-zasluzujem-da-osvojim-zlatnu-loptu/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 09. 2026. у 11:10",
-      "slika": null
-    },
-    {
-      "naslov": "Spaleti: Boli poraz od Sasuola, nismo zaslužili da izgubimo",
-      "url": "https://www.tanjug.rs/sport/fudbal/280935/spaleti-boli-poraz-od-sasuola-nismo-zasluzili-da-izgubimo/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 09. 2026. у 10:48",
-      "slika": null
-    },
-    {
-      "naslov": "Miloš Pantović novi igrač Železničara",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267420/milos-pantovic-novi-igrac-zeleznicara/vest",
+      "naslov": "Partizanu u danu isplatio 800.000 evra bivšim igračima",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267530/partizan-vratio-oko-800000-evra-duga/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "14. 09. 2026. у 14:30",
+      "datum": "14. 09. 2026. у 18:15",
       "slika": null
     },
     {
-      "naslov": "Ovo se Partizanu nije dogodilo skoro 50 godina",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267437/partizan-posle-skoro-50-godina-ponovo-strepi-za-opstanak/vest",
+      "naslov": "Austrija &quot;ukrala&quot; velikog talenta od Srbije – Marković dobio poziv u seniorski tim",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267519/austrija-preduhitrila-srbiju-pozvala-vasilija-markovica-u-prvi-tim/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "14. 09. 2026. у 13:15",
-      "slika": null
-    },
-    {
-      "naslov": "Nejmar doveo velikog prijatelja u Santos",
-      "url": "https://www.b92.net/sport/fudbal/vesti/267172/filipe-kutinjo-dosao-u-santos/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "13. 09. 2026. у 15:04",
-      "slika": null
-    },
-    {
-      "naslov": "Srbin digao glas zbog Italijana: &quot;Nije mi pružio ruku, kao da sam Ciganin&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/267153/srbin-digao-glas-zbog-italijana-nije-mi-pruzio-ruku-kao-da-sam-ciganin/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "13. 09. 2026. у 13:36",
+      "datum": "14. 09. 2026. у 16:30",
       "slika": null
     }
   ]
