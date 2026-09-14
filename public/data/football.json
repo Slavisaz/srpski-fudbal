@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-09-13T23:32:12.816982+00:00",
-  "azurirano_sr": "14. 09. 2026. у 01:32",
+  "azurirano": "2026-09-14T01:30:04.872806+00:00",
+  "azurirano_sr": "14. 09. 2026. у 03:30",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -8,13 +8,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/kad-tabela-ne-govori-sve-independijente-i-san-lorenco-za-novi-korak-u-klausuri/553824",
       "izvor": "Мозарт Спорт",
       "datum": "13. 09. 2026. у 22:25",
-      "slika": null
-    },
-    {
-      "naslov": "Zemun konačno ima novog trenera, vodiće ga stranac",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zemun-konacno-ima-novog-trenera-vodice-ga-stranac/553812",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 09. 2026. у 15:12",
       "slika": null
     },
     {
@@ -71,6 +64,13 @@
       "url": "https://www.b92.net/sport/fudbal/vesti/267199/zvezdino-dete-izabralo-crnu-goru-san-je-postao-stvarnost/vest",
       "izvor": "Б92 Фудбал",
       "datum": "13. 09. 2026. у 16:15",
+      "slika": null
+    },
+    {
+      "naslov": "Nejmar doveo velikog prijatelja u Santos",
+      "url": "https://www.b92.net/sport/fudbal/vesti/267172/filipe-kutinjo-dosao-u-santos/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "13. 09. 2026. у 15:04",
       "slika": null
     }
   ]
