@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-15T05:08:09.701757+00:00",
-  "azurirano_sr": "15. 09. 2026. у 07:08",
+  "azurirano": "2026-09-15T10:01:01.268972+00:00",
+  "azurirano_sr": "15. 09. 2026. у 12:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (utorak, 15. septembar): Liga kup Engleske i mečevi Primere su primarne teme",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-15-septembar-liga-kup-engleske-i-mecevi-primere-su-primarne-teme/553941",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 09. 2026. у 10:15",
+      "slika": null
+    },
     {
       "naslov": "Atomski fudbal na Madrigalu - 40 šuteva, 20 u okvir i so na ranu Viljareala; mogla da pukne i petarda (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/atomski-fudbal-na-madrigalu-40-suteva-20-u-okvir-i-so-na-ranu-viljareala-mogla-da-pukne-i-petarda-video/553954",
@@ -25,38 +32,31 @@
       "slika": null
     },
     {
-      "naslov": "Runjaić: Jovanović je spreman, igraće ako nam zatreba",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/runjaic-jovanovic-je-spreman-igrace-ako-nam-zatreba/553935",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 09. 2026. у 16:34",
+      "naslov": "Beograd domaćin finala Lige Evrope 2029. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/281286/beograd-domacin-finala-lige-evrope-2029-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 09. 2026. у 11:37",
       "slika": null
     },
     {
-      "naslov": "Jovan Damjanović nije više trener fudbalera OFK Beograda",
-      "url": "https://www.tanjug.rs/sport/fudbal/281210/jovan-damjanovic-nije-vise-trener-fudbalera-ofk-beograda/vest",
+      "naslov": "FK Crvena zvezda: Počela onlajn prodaja ulaznica za meč protiv Radničkog iz Niša",
+      "url": "https://www.tanjug.rs/sport/fudbal/281283/fk-crvena-zvezda-pocela-onlajn-prodaja-ulaznica-za-mec-protiv-radnickog-iz-nisa/vest",
       "izvor": "Танјуг",
-      "datum": "14. 09. 2026. у 23:59",
+      "datum": "15. 09. 2026. у 11:13",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Betisa pobedili Viljareal u španskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/281198/fudbaleri-betisa-pobedili-viljareal-u-spanskom-prvenstvu/vest",
+      "naslov": "Klop u četvrtak objavljuje spisak igrača za mečeve sa Srbijom, Holandijom i Grčkom",
+      "url": "https://www.tanjug.rs/sport/fudbal/281276/klop-u-cetvrtak-objavljuje-spisak-igraca-za-meceve-sa-srbijom-holandijom-i-grckom/vest",
       "izvor": "Танјуг",
-      "datum": "14. 09. 2026. у 23:00",
+      "datum": "15. 09. 2026. у 10:51",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Lidsa ubedljivi protiv Njukasla u četvrtom kolu Premijer lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/281197/fudbaleri-lidsa-ubedljivi-protiv-njukasla-u-cetvrtom-kolu-premijer-lige/vest",
+      "naslov": "Rodri: Nije bilo lako odbiti Real Madrid, Flik i Deko me ubedili da dođem u Barselonu",
+      "url": "https://www.tanjug.rs/sport/fudbal/281256/rodri-nije-bilo-lako-odbiti-real-madrid-flik-i-deko-me-ubedili-da-dodem-u-barselonu/vest",
       "izvor": "Танјуг",
-      "datum": "14. 09. 2026. у 22:59",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Intera posle preokreta savladali Udineze u Seriji A",
-      "url": "https://www.tanjug.rs/sport/fudbal/281193/fudbaleri-intera-posle-preokreta-savladali-udineze-u-seriji-a/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 09. 2026. у 22:42",
+      "datum": "15. 09. 2026. у 09:59",
       "slika": null
     },
     {
