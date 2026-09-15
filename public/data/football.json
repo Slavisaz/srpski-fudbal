@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-15T10:01:01.268972+00:00",
-  "azurirano_sr": "15. 09. 2026. у 12:01",
+  "azurirano": "2026-09-15T14:45:12.871828+00:00",
+  "azurirano_sr": "15. 09. 2026. у 16:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "De Zerbi hrabri “osećajnog momka” Solankea pred susret sa Liverpulom na Enfildu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/de-zerbi-hrabri-osecajnog-momka-solankea-pred-susret-sa-liverpulom-na-enfildu/553985",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 09. 2026. у 14:06",
+      "slika": null
+    },
     {
       "naslov": "NAJAVA DANA (utorak, 15. septembar): Liga kup Engleske i mečevi Primere su primarne teme",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-15-septembar-liga-kup-engleske-i-mecevi-primere-su-primarne-teme/553941",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Srbija izgubila bitku za velikog talenta: Austrijanci pozvali Markovića u A tim",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-izgubila-bitku-za-velikog-talenta-austrijanci-pozvali-markovica-u-a-tim/553939",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 09. 2026. у 17:22",
+      "naslov": "Flik: Jamal zaslužuje \"Zlatnu loptu\", on je izuzetan igrač",
+      "url": "https://www.tanjug.rs/sport/fudbal/281377/flik-jamal-zasluzuje-zlatnu-loptu-on-je-izuzetan-igrac/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 09. 2026. у 15:14",
+      "slika": null
+    },
+    {
+      "naslov": "Radujko: Ponosni smo na poverenje UEFA, a zašto 2029. u finalu Lige Evrope ne bi bio naš klub",
+      "url": "https://www.tanjug.rs/sport/fudbal/281351/radujko-ponosni-smo-na-poverenje-uefa-a-zasto-2029-u-finalu-lige-evrope-ne-bi-bio-nas-klub/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 09. 2026. у 13:56",
+      "slika": null
+    },
+    {
+      "naslov": "Finale Lige Evrope veliko priznanje za FSS i potvrda poverenja u Srbiju",
+      "url": "https://www.tanjug.rs/sport/fudbal/281307/finale-lige-evrope-veliko-priznanje-za-fss-i-potvrda-poverenja-u-srbiju/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 09. 2026. у 12:05",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/281286/beograd-domacin-finala-lige-evrope-2029-godine/vest",
       "izvor": "Танјуг",
       "datum": "15. 09. 2026. у 11:37",
-      "slika": null
-    },
-    {
-      "naslov": "FK Crvena zvezda: Počela onlajn prodaja ulaznica za meč protiv Radničkog iz Niša",
-      "url": "https://www.tanjug.rs/sport/fudbal/281283/fk-crvena-zvezda-pocela-onlajn-prodaja-ulaznica-za-mec-protiv-radnickog-iz-nisa/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 09. 2026. у 11:13",
-      "slika": null
-    },
-    {
-      "naslov": "Klop u četvrtak objavljuje spisak igrača za mečeve sa Srbijom, Holandijom i Grčkom",
-      "url": "https://www.tanjug.rs/sport/fudbal/281276/klop-u-cetvrtak-objavljuje-spisak-igraca-za-meceve-sa-srbijom-holandijom-i-grckom/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 09. 2026. у 10:51",
-      "slika": null
-    },
-    {
-      "naslov": "Rodri: Nije bilo lako odbiti Real Madrid, Flik i Deko me ubedili da dođem u Barselonu",
-      "url": "https://www.tanjug.rs/sport/fudbal/281256/rodri-nije-bilo-lako-odbiti-real-madrid-flik-i-deko-me-ubedili-da-dodem-u-barselonu/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 09. 2026. у 09:59",
       "slika": null
     },
     {
