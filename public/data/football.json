@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-09-14T22:03:36.890078+00:00",
-  "azurirano_sr": "15. 09. 2026. у 00:03",
+  "azurirano": "2026-09-15T00:28:29.862302+00:00",
+  "azurirano_sr": "15. 09. 2026. у 02:28",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Jovan Damjanović nije više trener fudbalera OFK Beograda",
+      "url": "https://www.tanjug.rs/sport/fudbal/281210/jovan-damjanovic-nije-vise-trener-fudbalera-ofk-beograda/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 09. 2026. у 23:59",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Betisa pobedili Viljareal u španskom prvenstvu",
       "url": "https://www.tanjug.rs/sport/fudbal/281198/fudbaleri-betisa-pobedili-viljareal-u-spanskom-prvenstvu/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/281193/fudbaleri-intera-posle-preokreta-savladali-udineze-u-seriji-a/vest",
       "izvor": "Танјуг",
       "datum": "14. 09. 2026. у 22:42",
-      "slika": null
-    },
-    {
-      "naslov": "Filipe Kutinjo novi fudbaler Santosa",
-      "url": "https://www.tanjug.rs/sport/fudbal/281181/filipe-kutinjo-novi-fudbaler-santosa/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 09. 2026. у 21:22",
       "slika": null
     },
     {
