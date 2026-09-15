@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-15T21:38:12.515009+00:00",
-  "azurirano_sr": "15. 09. 2026. у 23:38",
+  "azurirano": "2026-09-15T23:40:35.578469+00:00",
+  "azurirano_sr": "16. 09. 2026. у 01:40",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Rezzime dana (utorak): Premijerligaši bez greške u Liga kupu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-utorak-premijerligasi-bez-greske-u-liga-kupu/554029",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 09. 2026. у 01:34",
+      "slika": null
+    },
     {
       "naslov": "Samo mu dajte loptu u sklonite se: Brant je tata-mata za Holandiju i ovakav Ajaks (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/samo-mu-dajte-loptu-u-sklonite-se-brant-je-tatamata-za-holandiju-i-ovakav-ajaks-video/554021",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "NAJAVA DANA (utorak, 15. septembar): Liga kup Engleske i mečevi Primere su primarne teme",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-15-septembar-liga-kup-engleske-i-mecevi-primere-su-primarne-teme/553941",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 09. 2026. у 10:15",
+      "naslov": "Real se \"kockao\" u Elčeu, Espi ponovo junak u 90+1. minutu",
+      "url": "https://www.tanjug.rs/sport/fudbal/281507/real-se-kockao-u-elceu-espi-ponovo-junak-u-901-minutu/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 09. 2026. у 23:36",
+      "slika": null
+    },
+    {
+      "naslov": "Liverpul bolji od Totenhema, Arsenal rutinski do osmine finala Liga kupa",
+      "url": "https://www.tanjug.rs/sport/fudbal/281504/liverpul-bolji-od-totenhema-arsenal-rutinski-do-osmine-finala-liga-kupa/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 09. 2026. у 23:22",
       "slika": null
     },
     {
@@ -46,20 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Radujko: Ponosni smo na poverenje UEFA, a zašto 2029. u finalu Lige Evrope ne bi bio naš klub",
-      "url": "https://www.tanjug.rs/sport/fudbal/281351/radujko-ponosni-smo-na-poverenje-uefa-a-zasto-2029-u-finalu-lige-evrope-ne-bi-bio-nas-klub/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 09. 2026. у 13:56",
-      "slika": null
-    },
-    {
-      "naslov": "Finale Lige Evrope veliko priznanje za FSS i potvrda poverenja u Srbiju",
-      "url": "https://www.tanjug.rs/sport/fudbal/281307/finale-lige-evrope-veliko-priznanje-za-fss-i-potvrda-poverenja-u-srbiju/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 09. 2026. у 12:05",
-      "slika": null
-    },
-    {
       "naslov": "Ozbiljan problem za Zemun – kapiten doživeo tešku povredu",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267872/mladen-zivkovic-kapiten-fk-zemun-doziveo-tesku-povredu-kolena/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,10 +67,10 @@
       "slika": null
     },
     {
-      "naslov": "Ajaks pruža ruku bivšem vezisti Totenhema",
-      "url": "https://www.b92.net/sport/fudbal/vesti/267839/ajaks-pruza-ruku-bivsem-vezisti-totenhema/vest",
+      "naslov": "Nije kraj – poznato kada Mesi igra poslednji meč za Argentinu",
+      "url": "https://www.b92.net/sport/fudbal/vesti/267937/evo-kada-ce-se-lionel-mesi-zvanicno-oprostiti-od-argentine/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "15. 09. 2026. у 22:40",
+      "datum": "15. 09. 2026. у 23:40",
       "slika": null
     },
     {
