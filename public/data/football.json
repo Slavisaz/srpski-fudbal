@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-16T06:41:49.887458+00:00",
-  "azurirano_sr": "16. 09. 2026. у 08:41",
+  "azurirano": "2026-09-16T12:02:30.703694+00:00",
+  "azurirano_sr": "16. 09. 2026. у 14:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Završen Kerikov medeni mesec, Amorimov duh lebdi Teatrom snova",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zavrsen-kerikov-medeni-mesec-amorimov-duh-lebdi-teatrom-snova/554059",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 09. 2026. у 15:36",
+      "slika": null
+    },
+    {
+      "naslov": "Kreće Liga Evrope: Zvučnija nego prošle sezone za italijanske “ale”, desetorica Srba sanjaju Frankfurt",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/krece-liga-evrope-zvucnija-nego-prosle-sezone-za-italijanske-ale-desetorica-srba-sanjaju-frankfurt/554040",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 09. 2026. у 11:53",
+      "slika": null
+    },
+    {
+      "naslov": "Najava dana (sreda, 16. septembar): Liga Evrope otvara svoja vrata, a igraju i odbojkaši Srbije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-sreda-16-septembar-liga-evrope-otvara-svoja-vrata-a-igraju-i-odbojkasi-srbije/553997",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 09. 2026. у 10:15",
+      "slika": null
+    },
     {
       "naslov": "Rezzime dana (utorak): Premijerligaši bez greške u Liga kupu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-utorak-premijerligasi-bez-greske-u-liga-kupu/554029",
@@ -11,24 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Samo mu dajte loptu u sklonite se: Brant je tata-mata za Holandiju i ovakav Ajaks (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/samo-mu-dajte-loptu-u-sklonite-se-brant-je-tatamata-za-holandiju-i-ovakav-ajaks-video/554021",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 09. 2026. у 23:50",
+      "naslov": "Žoze Murinjo: Očigledno je da postoji problem, ne rešavamo utakmice kada imamo priliku",
+      "url": "https://www.tanjug.rs/sport/fudbal/281556/zoze-murinjo-ocigledno-je-da-postoji-problem-ne-resavamo-utakmice-kada-imamo-priliku/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 09. 2026. у 10:33",
       "slika": null
     },
     {
-      "naslov": "Za kraj ludog leta u Pireju: Stiže zamena za El Kabija od 10.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/za-kraj-ludog-leta-u-pireju-stize-zamena-za-el-kabija-od-10000000-evra/554005",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 09. 2026. у 18:40",
+      "naslov": "Mesi se na stadionu \"Monumental\" oprašta od Argentine na utakmici protiv Benina",
+      "url": "https://www.tanjug.rs/sport/fudbal/281547/mesi-se-na-stadionu-monumental-oprasta-od-argentine-na-utakmici-protiv-benina/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 09. 2026. у 09:57",
       "slika": null
     },
     {
-      "naslov": "De Zerbi hrabri “osećajnog momka” Solankea pred susret sa Liverpulom na Enfildu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/de-zerbi-hrabri-osecajnog-momka-solankea-pred-susret-sa-liverpulom-na-enfildu/553985",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 09. 2026. у 14:06",
+      "naslov": "Večeras počinje Liga Evrope, fudbaleri Omonije dočekuju Seltu, Benfika gostuje Milanu",
+      "url": "https://www.tanjug.rs/sport/fudbal/281540/veceras-pocinje-liga-evrope-fudbaleri-omonije-docekuju-seltu-benfika-gostuje-milanu/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 09. 2026. у 09:19",
       "slika": null
     },
     {
@@ -39,52 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Liverpul bolji od Totenhema, Arsenal rutinski do osmine finala Liga kupa",
-      "url": "https://www.tanjug.rs/sport/fudbal/281504/liverpul-bolji-od-totenhema-arsenal-rutinski-do-osmine-finala-liga-kupa/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 09. 2026. у 23:22",
-      "slika": null
-    },
-    {
-      "naslov": "Sergej Milinković-Savić strelac za Al Hilal u azijskoj Ligi šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/281494/sergej-milinkovic-savic-strelac-za-al-hilal-u-azijskoj-ligi-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 09. 2026. у 22:26",
-      "slika": null
-    },
-    {
-      "naslov": "Flik: Jamal zaslužuje \"Zlatnu loptu\", on je izuzetan igrač",
-      "url": "https://www.tanjug.rs/sport/fudbal/281377/flik-jamal-zasluzuje-zlatnu-loptu-on-je-izuzetan-igrac/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 09. 2026. у 15:14",
-      "slika": null
-    },
-    {
-      "naslov": "Ozbiljan problem za Zemun – kapiten doživeo tešku povredu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267872/mladen-zivkovic-kapiten-fk-zemun-doziveo-tesku-povredu-kolena/vest",
+      "naslov": "Zvezdin igrač na &quot;komšijskom&quot; spisku – ništa od Srbije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268073/matej-gastarov-na-spisku-selektora-severne-makedonije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "15. 09. 2026. у 18:37",
+      "datum": "16. 09. 2026. у 13:45",
       "slika": null
     },
     {
-      "naslov": "Bruno Duarte junak u Brazilu VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/267949/bruno-duarte-postigao-prvi-gol-za-vasko-da-gamu/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "16. 09. 2026. у 08:10",
-      "slika": null
-    },
-    {
-      "naslov": "OFK Beograd vratio Zvezdino dete",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267611/ofk-beograd-vratio-zvezdino-dete/vest",
+      "naslov": "&quot;Partizan postao parodija od kluba&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268056/ljubomir-vorkapic-partizan-je-parodija-od-kluba/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "14. 09. 2026. у 23:35",
-      "slika": null
-    },
-    {
-      "naslov": "Mačva dovela ozbiljno pojačanje",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/267578/stefan-colovic-pojacao-macvu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 09. 2026. у 21:45",
+      "datum": "16. 09. 2026. у 13:00",
       "slika": null
     }
   ]
