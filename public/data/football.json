@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-16T12:02:30.703694+00:00",
-  "azurirano_sr": "16. 09. 2026. у 14:02",
+  "azurirano": "2026-09-16T16:42:40.490627+00:00",
+  "azurirano_sr": "16. 09. 2026. у 18:42",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Murinjov otrov iz bočice",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/murinjov-otrov-iz-bocice/554067",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 09. 2026. у 19:26",
+      "slika": null
+    },
+    {
+      "naslov": "Novi vetrovi u Zrenjaninu: Nenad Gavrić prvi potpis Jagoša Vukovića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/novi-vetrovi-u-zrenjaninu-nenad-gavric-prvi-potpis-jagosa-vukovica/554063",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 09. 2026. у 17:13",
+      "slika": null
+    },
     {
       "naslov": "Završen Kerikov medeni mesec, Amorimov duh lebdi Teatrom snova",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zavrsen-kerikov-medeni-mesec-amorimov-duh-lebdi-teatrom-snova/554059",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Najava dana (sreda, 16. septembar): Liga Evrope otvara svoja vrata, a igraju i odbojkaši Srbije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-sreda-16-septembar-liga-evrope-otvara-svoja-vrata-a-igraju-i-odbojkasi-srbije/553997",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 09. 2026. у 10:15",
+      "naslov": "Predsednik FS Nemačke Nojendorf: Važno je da se stane na kraj \"Infantinovom sistemu\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/281661/predsednik-fs-nemacke-nojendorf-vazno-je-da-se-stane-na-kraj-infantinovom-sistemu/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 09. 2026. у 16:40",
       "slika": null
     },
     {
-      "naslov": "Rezzime dana (utorak): Premijerligaši bez greške u Liga kupu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-utorak-premijerligasi-bez-greske-u-liga-kupu/554029",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 09. 2026. у 01:34",
+      "naslov": "Rijera: Moramo da budemo efikasniji, siguran sam da ćemo u narednom meču biti bolji",
+      "url": "https://www.tanjug.rs/sport/fudbal/281647/rijera-moramo-da-budemo-efikasniji-siguran-sam-da-cemo-u-narednom-mecu-biti-bolji/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 09. 2026. у 16:03",
+      "slika": null
+    },
+    {
+      "naslov": "Mareska: Igrali smo neverovatno protiv Junajteda, znamo da je napravljena greška",
+      "url": "https://www.tanjug.rs/sport/fudbal/281621/mareska-igrali-smo-neverovatno-protiv-junajteda-znamo-da-je-napravljena-greska/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 09. 2026. у 14:36",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Mesi se na stadionu \"Monumental\" oprašta od Argentine na utakmici protiv Benina",
-      "url": "https://www.tanjug.rs/sport/fudbal/281547/mesi-se-na-stadionu-monumental-oprasta-od-argentine-na-utakmici-protiv-benina/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 09. 2026. у 09:57",
-      "slika": null
-    },
-    {
-      "naslov": "Večeras počinje Liga Evrope, fudbaleri Omonije dočekuju Seltu, Benfika gostuje Milanu",
-      "url": "https://www.tanjug.rs/sport/fudbal/281540/veceras-pocinje-liga-evrope-fudbaleri-omonije-docekuju-seltu-benfika-gostuje-milanu/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 09. 2026. у 09:19",
-      "slika": null
-    },
-    {
-      "naslov": "Real se \"kockao\" u Elčeu, Espi ponovo junak u 90+1. minutu",
-      "url": "https://www.tanjug.rs/sport/fudbal/281507/real-se-kockao-u-elceu-espi-ponovo-junak-u-901-minutu/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 09. 2026. у 23:36",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezdin igrač na &quot;komšijskom&quot; spisku – ništa od Srbije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268073/matej-gastarov-na-spisku-selektora-severne-makedonije/vest",
+      "naslov": "Zvezda lakša za 1.000.000 – kažnjen i Partizan",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268164/fss-kaznio-crvenu-zvezdu-i-partizan-posle-vecitog-derbija/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 09. 2026. у 13:45",
+      "datum": "16. 09. 2026. у 18:26",
       "slika": null
     },
     {
-      "naslov": "&quot;Partizan postao parodija od kluba&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268056/ljubomir-vorkapic-partizan-je-parodija-od-kluba/vest",
+      "naslov": "Koković pred Zvezdu: &quot;Imamo sličnu ideju – biće zanimljivo&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268147/radomir-kokovic-pred-mec-zeleznicar-crvena-zvezda-u-superligi-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 09. 2026. у 13:00",
+      "datum": "16. 09. 2026. у 17:30",
       "slika": null
     }
   ]
