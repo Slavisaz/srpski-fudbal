@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-17T14:51:06.719156+00:00",
-  "azurirano_sr": "17. 09. 2026. у 16:51",
+  "azurirano": "2026-09-17T18:37:11.817516+00:00",
+  "azurirano_sr": "17. 09. 2026. у 20:37",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvezda delegirala Terzića u FSS, Džajić ne može da bude predsednik",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-delegirala-terzica-u-fss-dzajic-ne-moze-da-bude-predsednik/554158",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 09. 2026. у 21:35",
+      "slika": null
+    },
+    {
+      "naslov": "Veliki potpis IMT-a: Jedno od najzvučnijih imena u srpskom fudbalu, stigao bivši golgeter Lige 1",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/veliki-potpis-imta-jedno-od-najzvucnijih-imena-u-srpskom-fudbalu-stigao-bivsi-golgeter-lige-1/554157",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 09. 2026. у 21:33",
+      "slika": null
+    },
+    {
+      "naslov": "FS Srbije konačno dobija predsednika, rok za prijavu kandidata 2. oktobar",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fs-srbije-konacno-dobija-predsednika-rok-za-prijavu-kandidata-2-oktobar/554152",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 09. 2026. у 19:50",
+      "slika": null
+    },
     {
       "naslov": "Marko Živković napustio Humsku posle pet i po godina i karijeru će pokušati da oživi u Loznici",
       "url": "https://www.mozzartsport.com/fudbal/vesti/marko-zivkovic-napustio-humsku-posle-pet-i-po-godina-i-karijeru-ce-pokusati-da-ozivi-u-loznici/554141",
@@ -11,66 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Frank Riberi ode u trenere: Fudbal mora da bude kao vrhunsko odelo sašiveno po meri",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/frank-riberi-ode-u-trenere-fudbal-mora-da-bude-kao-vrhunsko-odelo-sasiveno-po-meri/554139",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 09. 2026. у 16:56",
-      "slika": null
-    },
-    {
-      "naslov": "Apel za spas Partizana: Uprava da ispuni obećanje i ode – bez daljeg odlaganja da podnesu ostavke",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/apel-za-spas-partizana-uprava-da-ispuni-obecanje-i-ode-bez-daljeg-odlaganja-da-podnesu-ostavke/554136",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 09. 2026. у 16:46",
-      "slika": null
-    },
-    {
-      "naslov": "Vasilije Adžić naširoko o svemu: Matić mi je kao stariji brat, možda sam zaslužio da igram više u Juventusu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vasilije-adzic-nasiroko-o-svemu-matic-mi-je-kao-stariji-brat-mozda-sam-zasluzio-da-igram-vise-u-juventusu/554127",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 09. 2026. у 14:38",
-      "slika": null
-    },
-    {
-      "naslov": "Klop objavio dva spiska sa 44 fudbalera za mečeve protiv Holandije, Grčke i Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/281827/klop-objavio-dva-spiska-sa-44-fudbalera-za-meceve-protiv-holandije-grcke-i-srbije/vest",
+      "naslov": "Fransoa Kamano novi fudbaler IMT-a",
+      "url": "https://www.tanjug.rs/sport/fudbal/281985/fransoa-kamano-novi-fudbaler-imt-a/vest",
       "izvor": "Танјуг",
-      "datum": "17. 09. 2026. у 11:00",
+      "datum": "17. 09. 2026. у 20:06",
       "slika": null
     },
     {
-      "naslov": "Tod Boli nije više predsednik Čelsija",
-      "url": "https://www.tanjug.rs/sport/fudbal/281807/tod-boli-nije-vise-predsednik-celsija/vest",
+      "naslov": "Đoan Garsija doživeo lakšu povredu, neizvestan nastup protiv Sevilje",
+      "url": "https://www.tanjug.rs/sport/fudbal/281971/doan-garsija-doziveo-laksu-povredu-neizvestan-nastup-protiv-sevilje/vest",
       "izvor": "Танјуг",
-      "datum": "17. 09. 2026. у 09:48",
+      "datum": "17. 09. 2026. у 18:37",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Intera osvojili Kup šampiona, Mesi postigao 100. gol za klub iz Majamija",
-      "url": "https://www.tanjug.rs/sport/fudbal/281798/fudbaleri-intera-osvojili-kup-sampiona-mesi-postigao-100-gol-za-klub-iz-majamija/vest",
+      "naslov": "Konstitutivna sednica Skupštine Fudbalskog saveza Srbije zakazana za 17. oktobar",
+      "url": "https://www.tanjug.rs/sport/fudbal/281957/konstitutivna-sednica-skupstine-fudbalskog-saveza-srbije-zakazana-za-17-oktobar/vest",
       "izvor": "Танјуг",
-      "datum": "17. 09. 2026. у 08:58",
+      "datum": "17. 09. 2026. у 17:48",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Barselone \"sedmicom\" protiv Rasinga do maksimalnih \"šest od šest\"",
-      "url": "https://www.tanjug.rs/sport/fudbal/281771/fudbaleri-barselone-sedmicom-protiv-rasinga-do-maksimalnih-sest-od-sest/vest",
+      "naslov": "Fudbaler Intera Džon Stons zbog povrede mesec dana van terena",
+      "url": "https://www.tanjug.rs/sport/fudbal/281920/fudbaler-intera-dzon-stons-zbog-povrede-mesec-dana-van-terena/vest",
       "izvor": "Танјуг",
-      "datum": "16. 09. 2026. у 23:35",
+      "datum": "17. 09. 2026. у 15:44",
       "slika": null
     },
     {
-      "naslov": "Savić ponovo o utakmici sa Partizanom: &quot;Nismo bili ni na 50 odsto&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268412/marko-savic-pred-utakmicu-sa-imt/vest",
+      "naslov": "Zvezda daje gol, a u Pančevu haos: &quot;Pažnja, ovo je uzbuna! Napustite zgradu!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268493/prekid-u-pancevu-upalio-se-i-alarm-a-zvezda-dala-gol/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 09. 2026. у 16:00",
+      "datum": "17. 09. 2026. у 20:30",
       "slika": null
     },
     {
-      "naslov": "Apel za spas Partizana: &quot;Tražimo ostavku aktuelne uprave&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268375/apel-za-spas-partizana-se-ponovo-oglasio/vest",
+      "naslov": "Zvezda vodi u Pančevu – upalio se alarm, prekid, pa gol",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268454/uzivo-zeleznicar-crvena-zvezda-live-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 09. 2026. у 14:15",
+      "datum": "17. 09. 2026. у 20:20",
       "slika": null
     }
   ]
