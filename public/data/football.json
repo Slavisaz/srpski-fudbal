@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-17T21:42:36.536722+00:00",
-  "azurirano_sr": "17. 09. 2026. у 23:42",
+  "azurirano": "2026-09-17T23:40:58.280587+00:00",
+  "azurirano_sr": "18. 09. 2026. у 01:40",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbin otvorio dušu Špancima: Pre dve godine sam hteo da batalim fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-otvorio-dusu-spancima-pre-dve-godine-sam-hteo-da-batalim-fudbal/554184",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 09. 2026. у 02:48",
+      "slika": null
+    },
+    {
+      "naslov": "REZZIME DANA (četvrtak): Drugoligaš upropastio mnoge tikete, Zvezda se provukla",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-cetvrtak-drugoligas-upropastio-mnoge-tikete-zvezda-se-provukla/554177",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 09. 2026. у 01:27",
+      "slika": null
+    },
     {
       "naslov": "Istorijsko veče malenog Torensea: Preživeli 24 šuta u Norveškoj i pobedili na debiju u Evropi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/istorijsko-vece-malenog-torensea-preziveli-24-suta-u-norveskoj-i-pobedili-na-debiju-u-evropi/554179",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/drugi-tim-sitija-odradio-laksi-trening-noric-nemocan-protiv-graana/554176",
       "izvor": "Мозарт Спорт",
       "datum": "18. 09. 2026. у 00:18",
-      "slika": null
-    },
-    {
-      "naslov": "Marko, šta im uradi? AEK spakovao osam komada, rival pocrneo od sramote",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/marko-sta-im-uradi-aek-spakovao-osam-komada-rival-pocrneo-od-sramote/554166",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 09. 2026. у 23:44",
-      "slika": null
-    },
-    {
-      "naslov": "Gudelju zvižduci u moru aplauza: Betisov fudbal je melem za oči",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gudelju-zvizduci-u-moru-aplauza-betisov-fudbal-je-melem-za-oci/554165",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 09. 2026. у 23:00",
       "slika": null
     },
     {
