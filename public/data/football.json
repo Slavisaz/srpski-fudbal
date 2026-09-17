@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-17T00:37:36.558357+00:00",
-  "azurirano_sr": "17. 09. 2026. у 02:37",
+  "azurirano": "2026-09-17T05:17:34.180581+00:00",
+  "azurirano_sr": "17. 09. 2026. у 07:17",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Mesi je svemoguć! Gol glavom i asistencija za 49. trofej u karijeri",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mesi-je-svemoguc-gol-glavom-i-asistencija-za-49-trofej-u-karijeri/554106",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 09. 2026. у 06:46",
+      "slika": null
+    },
     {
       "naslov": "Najveći baksuz srpskog fudbala: Mladen Živković opet teško povređen",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najveci-baksuz-srpskog-fudbala-mladen-zivkovic-opet-tesko-povreen/554084",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/zrenjanine-dobro-dosao-nazad-na-fudbalsku-mapu-srbije-autogol-u-36-sekundi-taki-pogaa-i-grudima/554083",
       "izvor": "Мозарт Спорт",
       "datum": "16. 09. 2026. у 22:04",
-      "slika": null
-    },
-    {
-      "naslov": "FSS kažnjava: Zvezda plaća 1.000.000 dinara, Novi Pazar 400.000, Partizan 300.000",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fss-kaznjava-zvezda-placa-1000000-dinara-novi-pazar-400000-partizan-300000/554077",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 09. 2026. у 20:41",
       "slika": null
     },
     {
