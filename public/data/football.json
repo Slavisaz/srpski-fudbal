@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-17T05:17:34.180581+00:00",
-  "azurirano_sr": "17. 09. 2026. у 07:17",
+  "azurirano": "2026-09-17T10:03:19.878295+00:00",
+  "azurirano_sr": "17. 09. 2026. у 12:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ovo još nismo videli: Klopove ludorije i 44 imena u dve ekipe, Srbija protiv B tima Nemačke",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ovo-jos-nismo-videli-klopove-ludorije-i-44-imena-u-dve-ekipe-srbija-protiv-b-tima-nemacke/554119",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 09. 2026. у 12:35",
+      "slika": null
+    },
     {
       "naslov": "Mesi je svemoguć! Gol glavom i asistencija za 49. trofej u karijeri",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mesi-je-svemoguc-gol-glavom-i-asistencija-za-49-trofej-u-karijeri/554106",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Zrenjanine, dobro došao nazad na fudbalsku mapu Srbije! Autogol u 36. sekundi, Taki pogađa i grudima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zrenjanine-dobro-dosao-nazad-na-fudbalsku-mapu-srbije-autogol-u-36-sekundi-taki-pogaa-i-grudima/554083",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 09. 2026. у 22:04",
+      "naslov": "Klop objavio dva spiska sa 44 fudbalera za mečeve protiv Holandije, Grčke i Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/281827/klop-objavio-dva-spiska-sa-44-fudbalera-za-meceve-protiv-holandije-grcke-i-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 09. 2026. у 11:00",
+      "slika": null
+    },
+    {
+      "naslov": "Tod Boli nije više predsednik Čelsija",
+      "url": "https://www.tanjug.rs/sport/fudbal/281807/tod-boli-nije-vise-predsednik-celsija/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 09. 2026. у 09:48",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Intera osvojili Kup šampiona, Mesi postigao 100. gol za klub iz Majamija",
+      "url": "https://www.tanjug.rs/sport/fudbal/281798/fudbaleri-intera-osvojili-kup-sampiona-mesi-postigao-100-gol-za-klub-iz-majamija/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 09. 2026. у 08:58",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Mančester Junajted vodio 2:0, pa ispao od Brajtona u Liga kupu",
-      "url": "https://www.tanjug.rs/sport/fudbal/281770/mancester-junajted-vodio-20-pa-ispao-od-brajtona-u-liga-kupu/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 09. 2026. у 23:21",
-      "slika": null
-    },
-    {
-      "naslov": "Počela grupna faza LE: Benfika bolja od Milana na San Siru, remi Hapoela i Dinama",
-      "url": "https://www.tanjug.rs/sport/fudbal/281766/pocela-grupna-faza-le-benfika-bolja-od-milana-na-san-siru-remi-hapoela-i-dinama/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 09. 2026. у 22:59",
-      "slika": null
-    },
-    {
-      "naslov": "Predsednik FS Nemačke Nojendorf: Važno je da se stane na kraj \"Infantinovom sistemu\"",
-      "url": "https://www.tanjug.rs/sport/fudbal/281661/predsednik-fs-nemacke-nojendorf-vazno-je-da-se-stane-na-kraj-infantinovom-sistemu/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 09. 2026. у 16:40",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina nagrađuje &quot;nesuđenog&quot; reprezentativca Srbije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268128/vojvodina-spremila-novi-ugovor-za-lukasa-barosa/vest",
+      "naslov": "Otac se izlanuo – Paunović zvao dvojac iz Vojvodine",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268319/petar-sukacev-u-a-reprezentaciji-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 09. 2026. у 19:53",
+      "datum": "17. 09. 2026. у 11:20",
       "slika": null
     },
     {
-      "naslov": "Zvezda lakša za 1.000.000 – kažnjen i Partizan",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268164/fss-kaznio-crvenu-zvezdu-i-partizan-posle-vecitog-derbija/vest",
+      "naslov": "Mladost ne staje – još jedno ozbiljno pojačanje u Lučanima",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268252/branko-jovicic-u-mladosti-iz-lucana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 09. 2026. у 18:26",
+      "datum": "17. 09. 2026. у 10:25",
       "slika": null
     }
   ]
