@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-18T06:17:47.448858+00:00",
-  "azurirano_sr": "18. 09. 2026. у 08:17",
+  "azurirano": "2026-09-18T11:22:49.066971+00:00",
+  "azurirano_sr": "18. 09. 2026. у 13:22",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Paunović o Tadiću: Dušan je simbol isceljenja našeg fudbala, može da igra i na EP",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/paunovic-o-tadicu-dusan-je-simbol-isceljenja-naseg-fudbala-moze-da-igra-i-na-ep/554211",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 09. 2026. у 14:29",
+      "slika": null
+    },
+    {
+      "naslov": "Markec ponovo u srpskom fudbalu! Nosiće belo-crni dres",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/markec-ponovo-u-srpskom-fudbalu-nosice-belocrni-dres/554201",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 09. 2026. у 12:44",
+      "slika": null
+    },
     {
       "naslov": "Srbin otvorio dušu Špancima: Pre dve godine sam hteo da batalim fudbal",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbin-otvorio-dusu-spancima-pre-dve-godine-sam-hteo-da-batalim-fudbal/554184",
@@ -18,59 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Istorijsko veče malenog Torensea: Preživeli 24 šuta u Norveškoj i pobedili na debiju u Evropi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/istorijsko-vece-malenog-torensea-preziveli-24-suta-u-norveskoj-i-pobedili-na-debiju-u-evropi/554179",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 09. 2026. у 01:03",
-      "slika": null
-    },
-    {
-      "naslov": "Drugi tim Sitija odradio lakši trening: Norič nemoćan protiv Građana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/drugi-tim-sitija-odradio-laksi-trening-noric-nemocan-protiv-graana/554176",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 09. 2026. у 00:18",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Juventusa ubedljivi protiv NEC-a,Rojal Union savladao Viktoriju Plzenj u LE",
-      "url": "https://www.tanjug.rs/sport/fudbal/282022/fudbaleri-juventusa-ubedljivi-protiv-nec-arojal-union-savladao-viktoriju-plzenj-u-le/vest",
+      "naslov": "Paunović: Tadić simbol ozdravljenja reprezentacije, igraće u kvalifikacijama za EP",
+      "url": "https://www.tanjug.rs/sport/fudbal/282145/paunovic-tadic-simbol-ozdravljenja-reprezentacije-igrace-u-kvalifikacijama-za-ep/vest",
       "izvor": "Танјуг",
-      "datum": "17. 09. 2026. у 23:21",
+      "datum": "18. 09. 2026. у 12:38",
       "slika": null
     },
     {
-      "naslov": "Koković: Imali smo zrelije šanse, nismo zaslužili poraz",
-      "url": "https://www.tanjug.rs/sport/fudbal/282023/kokovic-imali-smo-zrelije-sanse-nismo-zasluzili-poraz/vest",
+      "naslov": "Tuhel objavio spisak za Ligu nacija, povratak Palmera i Arnolda",
+      "url": "https://www.tanjug.rs/sport/fudbal/282142/tuhel-objavio-spisak-za-ligu-nacija-povratak-palmera-i-arnolda/vest",
       "izvor": "Танјуг",
-      "datum": "17. 09. 2026. у 23:21",
+      "datum": "18. 09. 2026. у 12:31",
       "slika": null
     },
     {
-      "naslov": "Rijera: Teško je pobediti u Pančevu, ne donosimo dobre odluke u napadu",
-      "url": "https://www.tanjug.rs/sport/fudbal/282018/rijera-tesko-je-pobediti-u-pancevu-ne-donosimo-dobre-odluke-u-napadu/vest",
+      "naslov": "Paunović: Verujem u bolje vreme, potrebno nam je isceljenje i strpljenje",
+      "url": "https://www.tanjug.rs/sport/fudbal/282133/paunovic-verujem-u-bolje-vreme-potrebno-nam-je-isceljenje-i-strpljenje/vest",
       "izvor": "Танјуг",
-      "datum": "17. 09. 2026. у 22:40",
+      "datum": "18. 09. 2026. у 12:16",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Mančester sitija izborili plasman u osminu finala Liga kupa",
-      "url": "https://www.tanjug.rs/sport/fudbal/282012/fudbaleri-mancester-sitija-izborili-plasman-u-osminu-finala-liga-kupa/vest",
+      "naslov": "Lazar Marković novi fudbaler Čukaričkog",
+      "url": "https://www.tanjug.rs/sport/fudbal/282100/lazar-markovic-novi-fudbaler-cukarickog/vest",
       "izvor": "Танјуг",
-      "datum": "17. 09. 2026. у 22:28",
+      "datum": "18. 09. 2026. у 10:57",
       "slika": null
     },
     {
-      "naslov": "Zaboravljeni desni bek Partizana završio u drugoj ligi",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268450/zaboravljeni-desni-bek-partizana-ima-novi-klub/vest",
+      "naslov": "Paunović nudio ostavku, vratio Tadića i najavio ozdravljenje Srbije: &quot;Ima disciplinovanih&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268623/konferencija-za-medije-veljka-paunovica-pred-meceve-srbije-protiv-grcke-i-holandije-u-ligi-nacija/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 09. 2026. у 23:15",
+      "datum": "18. 09. 2026. у 12:40",
       "slika": null
     },
     {
-      "naslov": "Rijera: &quot;Svi gledate negativno!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268527/rijera-posle-pobede-u-pancevu/vest",
+      "naslov": "Lazar Marković potpisao za Čukarički",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268603/lazar-markovic-u-cukarickom/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 09. 2026. у 22:39",
+      "datum": "18. 09. 2026. у 10:50",
       "slika": null
     }
   ]
