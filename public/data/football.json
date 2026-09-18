@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-18T18:17:05.554660+00:00",
-  "azurirano_sr": "18. 09. 2026. у 20:17",
+  "azurirano": "2026-09-18T20:56:50.940153+00:00",
+  "azurirano_sr": "18. 09. 2026. у 22:56",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Još jedna cigla u Smederevskoj tvrđavi – Aleksandar Lutovac",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedna-cigla-u-smederevskoj-tvravi-aleksandar-lutovac/554259",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 09. 2026. у 22:04",
+      "slika": null
+    },
     {
       "naslov": "Počela prodaja karata za sve tri Zvezdine utakmice u Ligi konferencije",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pocela-prodaja-karata-za-sve-tri-zvezdine-utakmice-u-ligi-konferencije/554255",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/solak-kupio-jos-jedan-fudbalski-klub/554225",
       "izvor": "Мозарт Спорт",
       "datum": "18. 09. 2026. у 15:59",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić: Partizan u nikad goroj situaciji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sasa-ilic-partizan-u-nikad-goroj-situaciji/554222",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 09. 2026. у 15:51",
       "slika": null
     },
     {
