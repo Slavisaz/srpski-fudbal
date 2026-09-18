@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-18T20:56:50.940153+00:00",
-  "azurirano_sr": "18. 09. 2026. у 22:56",
+  "azurirano": "2026-09-18T22:56:56.718066+00:00",
+  "azurirano_sr": "19. 09. 2026. у 00:56",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nije Elče maler, već fudbalski švaler! Dmitrović posle kiksa primao evrogolove",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nije-elce-maler-vec-fudbalski-svaler-dmitrovic-posle-kiksa-primao-evrogolove/554279",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 09. 2026. у 01:11",
+      "slika": null
+    },
     {
       "naslov": "Još jedna cigla u Smederevskoj tvrđavi – Aleksandar Lutovac",
       "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedna-cigla-u-smederevskoj-tvravi-aleksandar-lutovac/554259",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Šolak kupio još jedan fudbalski klub",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/solak-kupio-jos-jedan-fudbalski-klub/554225",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 09. 2026. у 15:59",
+      "naslov": "Težak poraz fudbalera Čelsija na gostovanju Brentfordu",
+      "url": "https://www.tanjug.rs/sport/fudbal/282308/tezak-poraz-fudbalera-celsija-na-gostovanju-brentfordu/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 09. 2026. у 22:57",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Bajerna \"sedmicom\" do trijumfa protiv Union Berlina, Kejnova \"stotka\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/282307/fudbaleri-bajerna-sedmicom-do-trijumfa-protiv-union-berlina-kejnova-stotka/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 09. 2026. у 22:51",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/282231/mirkovic-odredio-spisak-mlade-fudbalske-reprezentacije-srbije-za-prijateljske-meceve/vest",
       "izvor": "Танјуг",
       "datum": "18. 09. 2026. у 15:47",
-      "slika": null
-    },
-    {
-      "naslov": "Kecmanović i Butvilas sutra otvaraju duel između Srbije i Litvanije",
-      "url": "https://www.tanjug.rs/sport/fudbal/282227/kecmanovic-i-butvilas-sutra-otvaraju-duel-izmedu-srbije-i-litvanije/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 09. 2026. у 15:33",
-      "slika": null
-    },
-    {
-      "naslov": "De la Fuente odredio spisak fudbalera Španije za Ligu nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/282225/de-la-fuente-odredio-spisak-fudbalera-spanije-za-ligu-nacija/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 09. 2026. у 15:21",
       "slika": null
     },
     {
