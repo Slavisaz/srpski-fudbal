@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-19T18:46:44.293633+00:00",
-  "azurirano_sr": "19. 09. 2026. у 20:46",
+  "azurirano": "2026-09-19T21:03:52.827234+00:00",
+  "azurirano_sr": "19. 09. 2026. у 23:03",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Slučajni prolaznici, bežite, Frankenštajn hoda ulicama Amsterdama: Ajaks ili melje ili pada u kanal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/slucajni-prolaznici-bezite-frankenstajn-hoda-ulicama-amsterdama-ajaks-ili-melje-ili-pada-u-kanal/554370",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 09. 2026. у 00:12",
+      "slika": null
+    },
+    {
+      "naslov": "Razvedrilo se u kišnom gradu, ali su sevale fudbalske munje i gromovi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/razvedrilo-se-u-kisnom-gradu-ali-su-sevale-fudbalske-munje-i-gromovi/554356",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 09. 2026. у 22:34",
+      "slika": null
+    },
     {
       "naslov": "Protiv Intera 2:0 nije dovoljno! Roma blistala 45 minuta, pa teškom mukom sačuvala bod u derbiju",
       "url": "https://www.mozzartsport.com/fudbal/vesti/protiv-intera-20-nije-dovoljno-roma-blistala-45-minuta-pa-teskom-mukom-sacuvala-bod-u-derbiju/554351",
@@ -18,59 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Afrikanci na korak od finala sa Pari Sen Žermenom, Srušen dvostruki uzastopni šampion Azije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/afrikanci-na-korak-od-finala-sa-pari-sen-zermenom-srusen-dvostruki-uzastopni-sampion-azije/554343",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 09. 2026. у 21:11",
-      "slika": null
-    },
-    {
-      "naslov": "Napadač kojeg je IMT prodao u Italiju za 1.000.000 evra ponovo u srpskom fudbalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/napadac-kojeg-je-imt-prodao-u-italiju-za-1000000-evra-ponovo-u-srpskom-fudbalu/554326",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 09. 2026. у 19:13",
-      "slika": null
-    },
-    {
-      "naslov": "Kraj Arsenalove serije, Brajton ubedljiv protiv šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/282432/kraj-arsenalove-serije-brajton-ubedljiv-protiv-sampiona/vest",
+      "naslov": "Saša Ilić: Pokazali smo karakter sa 10 igrača",
+      "url": "https://www.tanjug.rs/sport/fudbal/282455/sasa-ilic-pokazali-smo-karakter-sa-10-igraca/vest",
       "izvor": "Танјуг",
-      "datum": "19. 09. 2026. у 17:58",
+      "datum": "19. 09. 2026. у 21:29",
       "slika": null
     },
     {
-      "naslov": "FK Zvezda: Besplatan ulaz za \"Super zvezdaše\" i decu do 14 godina protiv Radničkog",
-      "url": "https://www.tanjug.rs/sport/fudbal/282417/fk-zvezda-besplatan-ulaz-za-super-zvezdase-i-decu-do-14-godina-protiv-radnickog/vest",
+      "naslov": "Košarkaši Real Madrida se \"osvetili\" Olimpijakosu i osvojili Superkup Evrolige",
+      "url": "https://www.tanjug.rs/sport/fudbal/282454/kosarkasi-real-madrida-se-osvetili-olimpijakosu-i-osvojili-superkup-evrolige/vest",
       "izvor": "Танјуг",
-      "datum": "19. 09. 2026. у 16:08",
+      "datum": "19. 09. 2026. у 21:22",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Aston vile savladali Totenhem za prvi trijumf ove sezone u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/282409/fudbaleri-aston-vile-savladali-totenhem-za-prvi-trijumf-ove-sezone-u-premijer-ligi/vest",
+      "naslov": "Osam golova u Surdulici, fudbaleri Partizana sa igračem manje \"izvukli\" bod",
+      "url": "https://www.tanjug.rs/sport/fudbal/282453/osam-golova-u-surdulici-fudbaleri-partizana-sa-igracem-manje-izvukli-bod/vest",
       "izvor": "Танјуг",
-      "datum": "19. 09. 2026. у 15:38",
+      "datum": "19. 09. 2026. у 21:12",
       "slika": null
     },
     {
-      "naslov": "Marko Neđić uoči meča protiv Zvezde: Hoćemo da se nadigravamo i napravimo što bolji rezultat",
-      "url": "https://www.tanjug.rs/sport/fudbal/282378/marko-nedic-uoci-meca-protiv-zvezde-hocemo-da-se-nadigravamo-i-napravimo-sto-bolji-rezultat/vest",
+      "naslov": "Rijera: Želimo da pobedimo Radnički i na pauzu odemo srećni",
+      "url": "https://www.tanjug.rs/sport/fudbal/282444/rijera-zelimo-da-pobedimo-radnicki-i-na-pauzu-odemo-srecni/vest",
       "izvor": "Танјуг",
-      "datum": "19. 09. 2026. у 13:11",
+      "datum": "19. 09. 2026. у 19:53",
       "slika": null
     },
     {
-      "naslov": "Neverovatan meč u Surdulici, Partizan je živ – 4:4!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268982/superliga-srbije-10-kolo-radnik-surdulica-partizan-uzivo-prenos-gde-gledati/vest",
+      "naslov": "Rijera: &quot;Nisam zadovoljan, želim bolje&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269035/izjava-alberta-rijere-pred-mec-zvezde-i-radnicog-u-nisu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "19. 09. 2026. у 20:33",
+      "datum": "19. 09. 2026. у 22:00",
       "slika": null
     },
     {
-      "naslov": "Heroj derbija omladinaca: Rakić golom Zvezdi pokazao da je Partizanova budućnost svetla!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269019/heroj-derbija-omladinaca-rakic-golom-zvezdi-pokazao-da-je-partizanova-buducnost-svetla/vest",
+      "naslov": "Fešta na Karaburmi – osam golova i slom &quot;romantičara&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269034/festa-na-karaburmi-osam-golova-i-slom-romanticara/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "19. 09. 2026. у 19:23",
+      "datum": "19. 09. 2026. у 21:18",
       "slika": null
     }
   ]
