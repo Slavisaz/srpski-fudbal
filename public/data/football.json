@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-19T16:31:35.219228+00:00",
-  "azurirano_sr": "19. 09. 2026. у 18:31",
+  "azurirano": "2026-09-19T18:46:44.293633+00:00",
+  "azurirano_sr": "19. 09. 2026. у 20:46",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Protiv Intera 2:0 nije dovoljno! Roma blistala 45 minuta, pa teškom mukom sačuvala bod u derbiju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/protiv-intera-20-nije-dovoljno-roma-blistala-45-minuta-pa-teskom-mukom-sacuvala-bod-u-derbiju/554351",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 09. 2026. у 21:58",
+      "slika": null
+    },
+    {
+      "naslov": "Možda je vreme da Luj Viton uđe u ekskluzivni fudbalski butik",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mozda-je-vreme-da-luj-viton-ue-u-ekskluzivni-fudbalski-butik/554348",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 09. 2026. у 21:40",
+      "slika": null
+    },
+    {
+      "naslov": "Afrikanci na korak od finala sa Pari Sen Žermenom, Srušen dvostruki uzastopni šampion Azije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/afrikanci-na-korak-od-finala-sa-pari-sen-zermenom-srusen-dvostruki-uzastopni-sampion-azije/554343",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 09. 2026. у 21:11",
+      "slika": null
+    },
     {
       "naslov": "Napadač kojeg je IMT prodao u Italiju za 1.000.000 evra ponovo u srpskom fudbalu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/napadac-kojeg-je-imt-prodao-u-italiju-za-1000000-evra-ponovo-u-srpskom-fudbalu/554326",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Umalo se Den nije srušio, Vest Hem se izvukao! Zbog ovog derbija tresu se londonski dokovi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/umalo-se-den-nije-srusio-vest-hem-se-izvukao-zbog-ovog-derbija-tresu-se-londonski-dokovi/554309",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 09. 2026. у 17:22",
-      "slika": null
-    },
-    {
-      "naslov": "Čista emocija! (FOTO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cista-emocija-foto/554308",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 09. 2026. у 16:37",
-      "slika": null
-    },
-    {
-      "naslov": "Adria forum u Beogradu, govore Marko Nikolić, Žarko Lazetić, Karlo Kudićini, Damir Skomina...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/adria-forum-u-beogradu-govore-marko-nikolic-zarko-lazetic-karlo-kudicini-damir-skomina/554303",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 09. 2026. у 15:13",
+      "naslov": "Kraj Arsenalove serije, Brajton ubedljiv protiv šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/282432/kraj-arsenalove-serije-brajton-ubedljiv-protiv-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 09. 2026. у 17:58",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Počeo \"Zvezdin kup 2026\" za mlade džudiste; Stojan Vujko: Svi ste već šampioni",
-      "url": "https://www.tanjug.rs/sport/fudbal/282370/poceo-zvezdin-kup-2026-za-mlade-dzudiste-stojan-vujko-svi-ste-vec-sampioni/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 09. 2026. у 11:54",
-      "slika": null
-    },
-    {
-      "naslov": "Poznati sastavi u Surdulici – Partizan traži izlaz iz najgore situacije u istoriji",
+      "naslov": "Neverovatan meč u Surdulici, Partizan je živ – 4:4!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268982/superliga-srbije-10-kolo-radnik-surdulica-partizan-uzivo-prenos-gde-gledati/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "19. 09. 2026. у 18:06",
+      "datum": "19. 09. 2026. у 20:33",
       "slika": null
     },
     {
-      "naslov": "Koković: &quot;Moramo da budemo pravi protiv Čukaričkog&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268990/izjava-radomira-kokovica-pred-mec-zeleznicara-i-cukarickog/vest",
+      "naslov": "Heroj derbija omladinaca: Rakić golom Zvezdi pokazao da je Partizanova budućnost svetla!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269019/heroj-derbija-omladinaca-rakic-golom-zvezdi-pokazao-da-je-partizanova-buducnost-svetla/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "19. 09. 2026. у 17:45",
+      "datum": "19. 09. 2026. у 19:23",
       "slika": null
     }
   ]
