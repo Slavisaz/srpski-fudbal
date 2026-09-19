@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-19T09:28:17.377293+00:00",
-  "azurirano_sr": "19. 09. 2026. у 11:28",
+  "azurirano": "2026-09-19T13:16:35.342209+00:00",
+  "azurirano_sr": "19. 09. 2026. у 15:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Čista emocija! (FOTO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cista-emocija-foto/554308",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 09. 2026. у 16:37",
+      "slika": null
+    },
+    {
+      "naslov": "Adria forum u Beogradu, govore Marko Nikolić, Žarko Lazetić, Karlo Kudićini, Damir Skomina...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/adria-forum-u-beogradu-govore-marko-nikolic-zarko-lazetic-karlo-kudicini-damir-skomina/554303",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 09. 2026. у 15:13",
+      "slika": null
+    },
+    {
+      "naslov": "Laportina otrovna strelica ka Realu: Kad su u problemu, promene zemljište i - nikom ništa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/laportina-otrovna-strelica-ka-realu-kad-su-u-problemu-promene-zemljiste-i-nikom-nista/554300",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 09. 2026. у 14:33",
+      "slika": null
+    },
     {
       "naslov": "Najava dana (subota, 19. septembar): Roma i Inter na čelu parade fudbalskih dešavanja",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-subota-19-septembar-roma-i-inter-na-celu-parade-fudbalskih-desavanja/554215",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Nije Elče maler, već fudbalski švaler! Dmitrović posle kiksa primao evrogolove",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nije-elce-maler-vec-fudbalski-svaler-dmitrovic-posle-kiksa-primao-evrogolove/554279",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 09. 2026. у 01:11",
+      "naslov": "Marko Neđić uoči meča protiv Zvezde: Hoćemo da se nadigravamo i napravimo što bolji rezultat",
+      "url": "https://www.tanjug.rs/sport/fudbal/282378/marko-nedic-uoci-meca-protiv-zvezde-hocemo-da-se-nadigravamo-i-napravimo-sto-bolji-rezultat/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 09. 2026. у 13:11",
       "slika": null
     },
     {
-      "naslov": "Još jedna cigla u Smederevskoj tvrđavi – Aleksandar Lutovac",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedna-cigla-u-smederevskoj-tvravi-aleksandar-lutovac/554259",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 09. 2026. у 22:04",
-      "slika": null
-    },
-    {
-      "naslov": "Počela prodaja karata za sve tri Zvezdine utakmice u Ligi konferencije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pocela-prodaja-karata-za-sve-tri-zvezdine-utakmice-u-ligi-konferencije/554255",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 09. 2026. у 21:45",
+      "naslov": "Počeo \"Zvezdin kup 2026\" za mlade džudiste; Stojan Vujko: Svi ste već šampioni",
+      "url": "https://www.tanjug.rs/sport/fudbal/282370/poceo-zvezdin-kup-2026-za-mlade-dzudiste-stojan-vujko-svi-ste-vec-sampioni/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 09. 2026. у 11:54",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Težak poraz fudbalera Čelsija na gostovanju Brentfordu",
-      "url": "https://www.tanjug.rs/sport/fudbal/282308/tezak-poraz-fudbalera-celsija-na-gostovanju-brentfordu/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 09. 2026. у 22:57",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Bajerna \"sedmicom\" do trijumfa protiv Union Berlina, Kejnova \"stotka\"",
-      "url": "https://www.tanjug.rs/sport/fudbal/282307/fudbaleri-bajerna-sedmicom-do-trijumfa-protiv-union-berlina-kejnova-stotka/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 09. 2026. у 22:51",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan na neugodnom ispitu u Surdulici – Zvezda čeka Nišlije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268884/superliga-srbije-najava-10-kola/vest",
+      "naslov": "Zvezda pustila u prodaju ulaznice za duel sa Radničkim iz Niša",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268936/zvezda-pustila-u-prodaju-ulaznice-za-duel-sa-radnickim-iz-nisa/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "19. 09. 2026. у 11:00",
+      "datum": "19. 09. 2026. у 15:00",
       "slika": null
     },
     {
-      "naslov": "Problem za Paunovića – povredio se reprezentativac",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268869/aleksa-terzic-pod-upitnikom-za-srbiju/vest",
+      "naslov": "Bez pobednika u omladinskom derbiju – Partizan može da žali za pobedom VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268921/omladinci-zvezda-i-partizana-remizirali-11/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "19. 09. 2026. у 08:45",
+      "datum": "19. 09. 2026. у 12:00",
       "slika": null
     }
   ]
