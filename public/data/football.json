@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-19T13:16:35.342209+00:00",
-  "azurirano_sr": "19. 09. 2026. у 15:16",
+  "azurirano": "2026-09-19T16:31:35.219228+00:00",
+  "azurirano_sr": "19. 09. 2026. у 18:31",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Napadač kojeg je IMT prodao u Italiju za 1.000.000 evra ponovo u srpskom fudbalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/napadac-kojeg-je-imt-prodao-u-italiju-za-1000000-evra-ponovo-u-srpskom-fudbalu/554326",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 09. 2026. у 19:13",
+      "slika": null
+    },
+    {
+      "naslov": "Umalo se Den nije srušio, Vest Hem se izvukao! Zbog ovog derbija tresu se londonski dokovi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/umalo-se-den-nije-srusio-vest-hem-se-izvukao-zbog-ovog-derbija-tresu-se-londonski-dokovi/554309",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 09. 2026. у 17:22",
+      "slika": null
+    },
     {
       "naslov": "Čista emocija! (FOTO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/cista-emocija-foto/554308",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Laportina otrovna strelica ka Realu: Kad su u problemu, promene zemljište i - nikom ništa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/laportina-otrovna-strelica-ka-realu-kad-su-u-problemu-promene-zemljiste-i-nikom-nista/554300",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 09. 2026. у 14:33",
+      "naslov": "FK Zvezda: Besplatan ulaz za \"Super zvezdaše\" i decu do 14 godina protiv Radničkog",
+      "url": "https://www.tanjug.rs/sport/fudbal/282417/fk-zvezda-besplatan-ulaz-za-super-zvezdase-i-decu-do-14-godina-protiv-radnickog/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 09. 2026. у 16:08",
       "slika": null
     },
     {
-      "naslov": "Najava dana (subota, 19. septembar): Roma i Inter na čelu parade fudbalskih dešavanja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-subota-19-septembar-roma-i-inter-na-celu-parade-fudbalskih-desavanja/554215",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 09. 2026. у 10:08",
+      "naslov": "Fudbaleri Aston vile savladali Totenhem za prvi trijumf ove sezone u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/282409/fudbaleri-aston-vile-savladali-totenhem-za-prvi-trijumf-ove-sezone-u-premijer-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 09. 2026. у 15:38",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Preminuo legendarni italijanski fudbaler Sandro Macola",
-      "url": "https://www.tanjug.rs/sport/fudbal/282363/preminuo-legendarni-italijanski-fudbaler-sandro-macola/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 09. 2026. у 10:59",
-      "slika": null
-    },
-    {
-      "naslov": "Nastavlja se Superliga, Zvezda dočekuje Radnički iz Niša, Partizan gostuje Radniku",
-      "url": "https://www.tanjug.rs/sport/fudbal/282346/nastavlja-se-superliga-zvezda-docekuje-radnicki-iz-nisa-partizan-gostuje-radniku/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 09. 2026. у 09:14",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda pustila u prodaju ulaznice za duel sa Radničkim iz Niša",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268936/zvezda-pustila-u-prodaju-ulaznice-za-duel-sa-radnickim-iz-nisa/vest",
+      "naslov": "Poznati sastavi u Surdulici – Partizan traži izlaz iz najgore situacije u istoriji",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268982/superliga-srbije-10-kolo-radnik-surdulica-partizan-uzivo-prenos-gde-gledati/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "19. 09. 2026. у 15:00",
+      "datum": "19. 09. 2026. у 18:06",
       "slika": null
     },
     {
-      "naslov": "Bez pobednika u omladinskom derbiju – Partizan može da žali za pobedom VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268921/omladinci-zvezda-i-partizana-remizirali-11/vest",
+      "naslov": "Koković: &quot;Moramo da budemo pravi protiv Čukaričkog&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/268990/izjava-radomira-kokovica-pred-mec-zeleznicara-i-cukarickog/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "19. 09. 2026. у 12:00",
+      "datum": "19. 09. 2026. у 17:45",
       "slika": null
     }
   ]
