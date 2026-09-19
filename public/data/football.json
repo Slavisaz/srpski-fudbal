@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-19T21:03:52.827234+00:00",
-  "azurirano_sr": "19. 09. 2026. у 23:03",
+  "azurirano": "2026-09-19T22:53:28.574610+00:00",
+  "azurirano_sr": "20. 09. 2026. у 00:53",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Rafinjalonaaa!!! Ovo je nemoguće zaustaviti, fudbalska sila kakva nije viđena godinama",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rafinjalonaaa-ovo-je-nemoguce-zaustaviti-fudbalska-sila-kakva-nije-viena-godinama/554379",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 09. 2026. у 01:03",
+      "slika": null
+    },
     {
       "naslov": "Slučajni prolaznici, bežite, Frankenštajn hoda ulicama Amsterdama: Ajaks ili melje ili pada u kanal",
       "url": "https://www.mozzartsport.com/fudbal/vesti/slucajni-prolaznici-bezite-frankenstajn-hoda-ulicama-amsterdama-ajaks-ili-melje-ili-pada-u-kanal/554370",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Možda je vreme da Luj Viton uđe u ekskluzivni fudbalski butik",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mozda-je-vreme-da-luj-viton-ue-u-ekskluzivni-fudbalski-butik/554348",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 09. 2026. у 21:40",
+      "naslov": "Barselona \"sedam od sedam\", het-trik nezaustavljivog Rafinje za pobedu u Sevilji",
+      "url": "https://www.tanjug.rs/sport/fudbal/282469/barselona-sedam-od-sedam-het-trik-nezaustavljivog-rafinje-za-pobedu-u-sevilji/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 09. 2026. у 22:59",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Rijera: Želimo da pobedimo Radnički i na pauzu odemo srećni",
-      "url": "https://www.tanjug.rs/sport/fudbal/282444/rijera-zelimo-da-pobedimo-radnicki-i-na-pauzu-odemo-srecni/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 09. 2026. у 19:53",
+      "naslov": "&quot;Žile, uz tebe smo&quot; – emotivna podrška Zemunaca za svog golmana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269040/zile-uz-tebe-smo-emotivna-podrska-zemunaca-za-svog-golmana/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 09. 2026. у 23:55",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269035/izjava-alberta-rijere-pred-mec-zvezde-i-radnicog-u-nisu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 09. 2026. у 22:00",
-      "slika": null
-    },
-    {
-      "naslov": "Fešta na Karaburmi – osam golova i slom &quot;romantičara&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269034/festa-na-karaburmi-osam-golova-i-slom-romanticara/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 09. 2026. у 21:18",
       "slika": null
     }
   ]
