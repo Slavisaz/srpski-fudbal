@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-20T05:08:05.562283+00:00",
-  "azurirano_sr": "20. 09. 2026. у 07:08",
+  "azurirano": "2026-09-20T09:45:00.326143+00:00",
+  "azurirano_sr": "20. 09. 2026. у 11:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Grci nikad moćniji, nikad talentovaniji... Srbija ima zbog čega da strahuje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/grci-nikad-mocniji-nikad-talentovaniji-srbija-ima-zbog-cega-da-strahuje/554401",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 09. 2026. у 13:07",
+      "slika": null
+    },
+    {
+      "naslov": "Tek što je debitovao za Juventus, Grabara završio sezonu! Ništa od otkupa...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tek-sto-je-debitovao-za-juventus-grabara-zavrsio-sezonu-nista-od-otkupa/554395",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 09. 2026. у 12:44",
+      "slika": null
+    },
+    {
+      "naslov": "Old Firm – sada ključa u zeleno-belom delu Glazgova, Mekinis juri Smitov poduhvat iz 1991.",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/old-firm-sada-kljuca-u-zelenobelom-delu-glazgova-mekinis-juri-smitov-poduhvat-iz-1991/554396",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 09. 2026. у 11:35",
+      "slika": null
+    },
     {
       "naslov": "Rafinjalonaaa!!! Ovo je nemoguće zaustaviti, fudbalska sila kakva nije viđena godinama",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rafinjalonaaa-ovo-je-nemoguce-zaustaviti-fudbalska-sila-kakva-nije-viena-godinama/554379",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Slučajni prolaznici, bežite, Frankenštajn hoda ulicama Amsterdama: Ajaks ili melje ili pada u kanal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/slucajni-prolaznici-bezite-frankenstajn-hoda-ulicama-amsterdama-ajaks-ili-melje-ili-pada-u-kanal/554370",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 09. 2026. у 00:12",
+      "naslov": "Frenk Lampard: Nadam se da nam je pobeda protiv Notingem Foresta donela samopouzdanje",
+      "url": "https://www.tanjug.rs/sport/fudbal/282515/frenk-lampard-nadam-se-da-nam-je-pobeda-protiv-notingem-foresta-donela-samopouzdanje/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 09. 2026. у 10:47",
       "slika": null
     },
     {
-      "naslov": "Razvedrilo se u kišnom gradu, ali su sevale fudbalske munje i gromovi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/razvedrilo-se-u-kisnom-gradu-ali-su-sevale-fudbalske-munje-i-gromovi/554356",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 09. 2026. у 22:34",
-      "slika": null
-    },
-    {
-      "naslov": "Protiv Intera 2:0 nije dovoljno! Roma blistala 45 minuta, pa teškom mukom sačuvala bod u derbiju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/protiv-intera-20-nije-dovoljno-roma-blistala-45-minuta-pa-teskom-mukom-sacuvala-bod-u-derbiju/554351",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 09. 2026. у 21:58",
+      "naslov": "Dejan Joveljić strelac za Sijetl u remiju protiv Kolorada u MLS ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/282511/dejan-joveljic-strelac-za-sijetl-u-remiju-protiv-kolorada-u-mls-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 09. 2026. у 09:35",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Košarkaši Real Madrida se \"osvetili\" Olimpijakosu i osvojili Superkup Evrolige",
-      "url": "https://www.tanjug.rs/sport/fudbal/282454/kosarkasi-real-madrida-se-osvetili-olimpijakosu-i-osvojili-superkup-evrolige/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 09. 2026. у 21:22",
-      "slika": null
-    },
-    {
-      "naslov": "Osam golova u Surdulici, fudbaleri Partizana sa igračem manje \"izvukli\" bod",
-      "url": "https://www.tanjug.rs/sport/fudbal/282453/osam-golova-u-surdulici-fudbaleri-partizana-sa-igracem-manje-izvukli-bod/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 09. 2026. у 21:12",
+      "naslov": "Srđan Jovanović vređao Milana Vukotića VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269076/srdjan-jovanovic-vredjao-milana-vukotica-video/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "20. 09. 2026. у 09:12",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269040/zile-uz-tebe-smo-emotivna-podrska-zemunaca-za-svog-golmana/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 09. 2026. у 23:55",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera: &quot;Nisam zadovoljan, želim bolje&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269035/izjava-alberta-rijere-pred-mec-zvezde-i-radnicog-u-nisu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 09. 2026. у 22:00",
       "slika": null
     }
   ]
