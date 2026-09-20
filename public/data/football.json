@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-20T09:45:00.326143+00:00",
-  "azurirano_sr": "20. 09. 2026. у 11:45",
+  "azurirano": "2026-09-20T13:42:29.306382+00:00",
+  "azurirano_sr": "20. 09. 2026. у 15:42",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Glazgovom vladaju Policajci! Rendžers drugi put u nedelju dana razbio najvećeg rivala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/glazgovom-vladaju-policajci-rendzers-drugi-put-u-nedelju-dana-razbio-najveceg-rivala/554413",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 09. 2026. у 17:02",
+      "slika": null
+    },
+    {
+      "naslov": "Vladimir Jugović u Skupštini FSS",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vladimir-jugovic-u-skupstini-fss/554412",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 09. 2026. у 15:35",
+      "slika": null
+    },
     {
       "naslov": "Grci nikad moćniji, nikad talentovaniji... Srbija ima zbog čega da strahuje",
       "url": "https://www.mozzartsport.com/fudbal/vesti/grci-nikad-mocniji-nikad-talentovaniji-srbija-ima-zbog-cega-da-strahuje/554401",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Old Firm – sada ključa u zeleno-belom delu Glazgova, Mekinis juri Smitov poduhvat iz 1991.",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/old-firm-sada-kljuca-u-zelenobelom-delu-glazgova-mekinis-juri-smitov-poduhvat-iz-1991/554396",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 09. 2026. у 11:35",
+      "naslov": "Fudbaleri Rendžersa pobedili Seltik u \"Old firmu\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/282558/fudbaleri-rendzersa-pobedili-seltik-u-old-firmu/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 09. 2026. у 15:17",
       "slika": null
     },
     {
-      "naslov": "Rafinjalonaaa!!! Ovo je nemoguće zaustaviti, fudbalska sila kakva nije viđena godinama",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rafinjalonaaa-ovo-je-nemoguce-zaustaviti-fudbalska-sila-kakva-nije-viena-godinama/554379",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 09. 2026. у 01:03",
+      "naslov": "Remi fudbalera Fiorentine i Napolija u Seriji A",
+      "url": "https://www.tanjug.rs/sport/fudbal/282548/remi-fudbalera-fiorentine-i-napolija-u-seriji-a/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 09. 2026. у 14:32",
+      "slika": null
+    },
+    {
+      "naslov": "Selektor Grčke Ivan Jovanović saopštio spisak fudbalera za mečeve protiv Srbije, Nemačke i Holandije",
+      "url": "https://www.tanjug.rs/sport/fudbal/282526/selektor-grcke-ivan-jovanovic-saopstio-spisak-fudbalera-za-meceve-protiv-srbije-nemacke-i-holandije/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 09. 2026. у 12:23",
       "slika": null
     },
     {
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Dejan Joveljić strelac za Sijetl u remiju protiv Kolorada u MLS ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/282511/dejan-joveljic-strelac-za-sijetl-u-remiju-protiv-kolorada-u-mls-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 09. 2026. у 09:35",
-      "slika": null
-    },
-    {
-      "naslov": "Barselona \"sedam od sedam\", het-trik nezaustavljivog Rafinje za pobedu u Sevilji",
-      "url": "https://www.tanjug.rs/sport/fudbal/282469/barselona-sedam-od-sedam-het-trik-nezaustavljivog-rafinje-za-pobedu-u-sevilji/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 09. 2026. у 22:59",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić: Pokazali smo karakter sa 10 igrača",
-      "url": "https://www.tanjug.rs/sport/fudbal/282455/sasa-ilic-pokazali-smo-karakter-sa-10-igraca/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 09. 2026. у 21:29",
+      "naslov": "Dve godine, dva puta 5:3 protiv OFK Beograda – Dudić časti igrače",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269136/dve-godine-dva-puta-53-protiv-ofk-beograda-dudic-casti-igrace/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "20. 09. 2026. у 14:12",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269076/srdjan-jovanovic-vredjao-milana-vukotica-video/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "20. 09. 2026. у 09:12",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Žile, uz tebe smo&quot; – emotivna podrška Zemunaca za svog golmana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269040/zile-uz-tebe-smo-emotivna-podrska-zemunaca-za-svog-golmana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 09. 2026. у 23:55",
       "slika": null
     }
   ]
