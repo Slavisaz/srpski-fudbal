@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-20T13:42:29.306382+00:00",
-  "azurirano_sr": "20. 09. 2026. у 15:42",
+  "azurirano": "2026-09-20T16:59:03.170675+00:00",
+  "azurirano_sr": "20. 09. 2026. у 18:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Komo sve promašio, ali drugi put će da uđe… Igrao se fudbal na Stripeu (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/komo-sve-promasio-ali-drugi-put-ce-da-ue-igrao-se-fudbal-na-stripeu-video/554437",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 09. 2026. у 19:14",
+      "slika": null
+    },
+    {
+      "naslov": "Džastin Klajvert propušta oba meča protiv Srbije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dzastin-klajvert-propusta-oba-meca-protiv-srbije/554435",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 09. 2026. у 18:56",
+      "slika": null
+    },
     {
       "naslov": "Glazgovom vladaju Policajci! Rendžers drugi put u nedelju dana razbio najvećeg rivala",
       "url": "https://www.mozzartsport.com/fudbal/vesti/glazgovom-vladaju-policajci-rendzers-drugi-put-u-nedelju-dana-razbio-najveceg-rivala/554413",
@@ -18,59 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Grci nikad moćniji, nikad talentovaniji... Srbija ima zbog čega da strahuje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/grci-nikad-mocniji-nikad-talentovaniji-srbija-ima-zbog-cega-da-strahuje/554401",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 09. 2026. у 13:07",
-      "slika": null
-    },
-    {
-      "naslov": "Tek što je debitovao za Juventus, Grabara završio sezonu! Ništa od otkupa...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tek-sto-je-debitovao-za-juventus-grabara-zavrsio-sezonu-nista-od-otkupa/554395",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 09. 2026. у 12:44",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Rendžersa pobedili Seltik u \"Old firmu\"",
-      "url": "https://www.tanjug.rs/sport/fudbal/282558/fudbaleri-rendzersa-pobedili-seltik-u-old-firmu/vest",
+      "naslov": "Fudbaleri Atletika pobedili Real u madridskom derbiju",
+      "url": "https://www.tanjug.rs/sport/fudbal/282606/fudbaleri-atletika-pobedili-real-u-madridskom-derbiju/vest",
       "izvor": "Танјуг",
-      "datum": "20. 09. 2026. у 15:17",
+      "datum": "20. 09. 2026. у 18:27",
       "slika": null
     },
     {
-      "naslov": "Remi fudbalera Fiorentine i Napolija u Seriji A",
-      "url": "https://www.tanjug.rs/sport/fudbal/282548/remi-fudbalera-fiorentine-i-napolija-u-seriji-a/vest",
+      "naslov": "Fudbaleri Bajer Leverkuzena nadigrali Lajpcig u četvrtom kolu Bundeslige",
+      "url": "https://www.tanjug.rs/sport/fudbal/282595/fudbaleri-bajer-leverkuzena-nadigrali-lajpcig-u-cetvrtom-kolu-bundeslige/vest",
       "izvor": "Танјуг",
-      "datum": "20. 09. 2026. у 14:32",
+      "datum": "20. 09. 2026. у 17:41",
       "slika": null
     },
     {
-      "naslov": "Selektor Grčke Ivan Jovanović saopštio spisak fudbalera za mečeve protiv Srbije, Nemačke i Holandije",
-      "url": "https://www.tanjug.rs/sport/fudbal/282526/selektor-grcke-ivan-jovanovic-saopstio-spisak-fudbalera-za-meceve-protiv-srbije-nemacke-i-holandije/vest",
+      "naslov": "Fudbaleri Frozinonea naneli prvi poraz Komu ove sezone",
+      "url": "https://www.tanjug.rs/sport/fudbal/282592/fudbaleri-frozinonea-naneli-prvi-poraz-komu-ove-sezone/vest",
       "izvor": "Танјуг",
-      "datum": "20. 09. 2026. у 12:23",
+      "datum": "20. 09. 2026. у 17:36",
       "slika": null
     },
     {
-      "naslov": "Frenk Lampard: Nadam se da nam je pobeda protiv Notingem Foresta donela samopouzdanje",
-      "url": "https://www.tanjug.rs/sport/fudbal/282515/frenk-lampard-nadam-se-da-nam-je-pobeda-protiv-notingem-foresta-donela-samopouzdanje/vest",
+      "naslov": "Fudbaleri Mančester sitija savladali Sanderlend za prvo mesto na tabeli Premijer lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/282585/fudbaleri-mancester-sitija-savladali-sanderlend-za-prvo-mesto-na-tabeli-premijer-lige/vest",
       "izvor": "Танјуг",
-      "datum": "20. 09. 2026. у 10:47",
+      "datum": "20. 09. 2026. у 17:17",
       "slika": null
     },
     {
-      "naslov": "Dve godine, dva puta 5:3 protiv OFK Beograda – Dudić časti igrače",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269136/dve-godine-dva-puta-53-protiv-ofk-beograda-dudic-casti-igrace/vest",
+      "naslov": "Zvezda protiv Radničkog na &quot;Marakani&quot; – poznati sastavi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269190/uzivo-crvena-zvezda-radnicki-nis-superliga-srbije-live-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "20. 09. 2026. у 14:12",
+      "datum": "20. 09. 2026. у 18:00",
       "slika": null
     },
     {
-      "naslov": "Srđan Jovanović vređao Milana Vukotića VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269076/srdjan-jovanovic-vredjao-milana-vukotica-video/vest",
+      "naslov": "Vladimir Jugović ulazi u FSS",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269197/vladimir-jugovic-ulazi-u-fss/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "20. 09. 2026. у 09:12",
+      "datum": "20. 09. 2026. у 17:14",
       "slika": null
     }
   ]
