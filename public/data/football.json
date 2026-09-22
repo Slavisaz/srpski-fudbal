@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-22T14:48:34.088381+00:00",
-  "azurirano_sr": "22. 09. 2026. у 16:48",
+  "azurirano": "2026-09-22T18:20:43.389758+00:00",
+  "azurirano_sr": "22. 09. 2026. у 20:20",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Miloje otvoreno: Srbija se vrti u krug, kod nas se uvek dogodi nešto neobjašnjivo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/miloje-otvoreno-srbija-se-vrti-u-krug-kod-nas-se-uvek-dogodi-nesto-neobjasnjivo/554577",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 09. 2026. у 19:53",
+      "slika": null
+    },
+    {
+      "naslov": "Kako je Žotina smrt razorila Liverpul: Pitali smo se – koja je svrha? Nije nam stalo do fudbala…",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-je-zotina-smrt-razorila-liverpul-pitali-smo-se-koja-je-svrha-nije-nam-stalo-do-fudbala/554578",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 09. 2026. у 19:42",
+      "slika": null
+    },
+    {
+      "naslov": "Šta kažete, nema kartona? Kang In Li 'otkinuo nogu' Valverdeu – otišao ligament skočnog zgloba",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sta-kazete-nema-kartona-kang-in-li-otkinuo-nogu-valverdeu-otisao-ligament-skocnog-zgloba/554573",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 09. 2026. у 18:38",
+      "slika": null
+    },
     {
       "naslov": "Radovan Krivokapić okupio novu generaciju kadeta: Tu su i igrači Dortmunda, Monaka, Augzburga...",
       "url": "https://www.mozzartsport.com/fudbal/vesti/radovan-krivokapic-okupio-novu-generaciju-kadeta-tu-su-i-igraci-dortmunda-monaka-augzburga/554571",
@@ -11,66 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Karlo Kudićini za Mozzart Sport: Srbija ima odličnu generaciju golmana; Italija dobila prave ljude",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/karlo-kudicini-za-mozzart-sport-srbija-ima-odlicnu-generaciju-golmana-italija-dobila-prave-ljude/554562",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 09. 2026. у 15:19",
-      "slika": null
-    },
-    {
-      "naslov": "Veliki udarac za Paunovića: Srbija bez Vlahovića!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/veliki-udarac-za-paunovica-srbija-bez-vlahovica/554552",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 09. 2026. у 11:22",
-      "slika": null
-    },
-    {
-      "naslov": "Rankove anegdote: Francuz zbog žene izabrao manju platu, ubeđivao sam roditelje da šalju decu u školu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rankove-anegdote-francuz-zbog-zene-izabrao-manju-platu-ubeivao-sam-roditelje-da-salju-decu-u-skolu/554537",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 09. 2026. у 10:46",
-      "slika": null
-    },
-    {
-      "naslov": "Krivokapić objavio spisak kadetske reprezentacije Srbije za prijateljske mečeve",
-      "url": "https://www.tanjug.rs/sport/fudbal/283119/krivokapic-objavio-spisak-kadetske-reprezentacije-srbije-za-prijateljske-meceve/vest",
+      "naslov": "Dejan Gavrilović: Ideja \"Adria football foruma\" je edukacija i povezivanje regiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/283182/dejan-gavrilovic-ideja-adria-football-foruma-je-edukacija-i-povezivanje-regiona/vest",
       "izvor": "Танјуг",
-      "datum": "22. 09. 2026. у 14:52",
+      "datum": "22. 09. 2026. у 18:33",
       "slika": null
     },
     {
-      "naslov": "Tadić: Kao da nikada nisam ni odlazio, tu sam da pomognem Srbiji",
-      "url": "https://www.tanjug.rs/sport/fudbal/283071/tadic-kao-da-nikada-nisam-ni-odlazio-tu-sam-da-pomognem-srbiji/vest",
+      "naslov": "Senka Knežević: \"Triglav osiguranje\" želi da iskaže zahvalnost \"Adria football forumu\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/283181/senka-knezevic-triglav-osiguranje-zeli-da-iskaze-zahvalnost-adria-football-forumu/vest",
       "izvor": "Танјуг",
-      "datum": "22. 09. 2026. у 13:16",
+      "datum": "22. 09. 2026. у 18:32",
       "slika": null
     },
     {
-      "naslov": "Šveđanin Glen Niberg sudi meč između fudbalera Srbije i Grčke u Ligi nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/283003/svedanin-glen-niberg-sudi-mec-izmedu-fudbalera-srbije-i-grcke-u-ligi-nacija/vest",
+      "naslov": "Fudbaleri Partizana igraju u nedelju prijateljsku utakmicu protiv ruske Rodine",
+      "url": "https://www.tanjug.rs/sport/fudbal/283178/fudbaleri-partizana-igraju-u-nedelju-prijateljsku-utakmicu-protiv-ruske-rodine/vest",
       "izvor": "Танјуг",
-      "datum": "22. 09. 2026. у 10:18",
+      "datum": "22. 09. 2026. у 18:15",
       "slika": null
     },
     {
-      "naslov": "De la Fuente: Španac bi trebalo da dobije \"Zlatnu loptu\"",
-      "url": "https://www.tanjug.rs/sport/fudbal/282983/de-la-fuente-spanac-bi-trebalo-da-dobije-zlatnu-loptu/vest",
+      "naslov": "Aleksander Blesin novi trener fudbalera Borusije Menhengladbah",
+      "url": "https://www.tanjug.rs/sport/fudbal/283164/aleksander-blesin-novi-trener-fudbalera-borusije-menhengladbah/vest",
       "izvor": "Танјуг",
-      "datum": "22. 09. 2026. у 09:02",
+      "datum": "22. 09. 2026. у 17:15",
       "slika": null
     },
     {
-      "naslov": "&quot;Vreme napada u fudbalu će biti ograničeno&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269697/milan-rastavac-predvidja-da-bi-vreme-napada-u-fudbalu-moglo-da-bude-ograniceno/vest",
+      "naslov": "Gordan Petrić ponovo u reprezentaciji Srbije",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269724/gordan-petric-u-mladoj-reprezentaciji-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "22. 09. 2026. у 13:12",
+      "datum": "22. 09. 2026. у 19:00",
       "slika": null
     },
     {
-      "naslov": "Dušan Tadić: &quot;Kao da nikada nisam odlazio&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269664/izjava-dusana-tadica-i-povratku-u-reprezentaciju-srbije/vest",
+      "naslov": "Milojević: &quot;Paunović došao u pogrešnom trenutku&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269804/vladan-milojevic-srbija-se-stalno-vrti-u-krug/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "22. 09. 2026. у 11:38",
+      "datum": "22. 09. 2026. у 18:45",
       "slika": null
     }
   ]
