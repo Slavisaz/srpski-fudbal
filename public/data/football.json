@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-09-22T18:20:43.389758+00:00",
-  "azurirano_sr": "22. 09. 2026. у 20:20",
+  "azurirano": "2026-09-22T21:27:05.026378+00:00",
+  "azurirano_sr": "22. 09. 2026. у 23:27",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Srpski arbitar Milanović sudiće mečeve na Svetskom prvenstvu za igrače do 17 godina",
+      "url": "https://www.tanjug.rs/sport/fudbal/283221/srpski-arbitar-milanovic-sudice-meceve-na-svetskom-prvenstvu-za-igrace-do-17-godina/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 09. 2026. у 21:28",
+      "slika": null
+    },
+    {
       "naslov": "Dejan Gavrilović: Ideja \"Adria football foruma\" je edukacija i povezivanje regiona",
       "url": "https://www.tanjug.rs/sport/fudbal/283182/dejan-gavrilovic-ideja-adria-football-foruma-je-edukacija-i-povezivanje-regiona/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Aleksander Blesin novi trener fudbalera Borusije Menhengladbah",
-      "url": "https://www.tanjug.rs/sport/fudbal/283164/aleksander-blesin-novi-trener-fudbalera-borusije-menhengladbah/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 09. 2026. у 17:15",
+      "naslov": "Kostov na ceni – našao se u odabranom društvu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269856/vasilije-kostov-sesti-najbolji-u21-igrac-van-liga-petice/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 09. 2026. у 22:25",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269724/gordan-petric-u-mladoj-reprezentaciji-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 09. 2026. у 19:00",
-      "slika": null
-    },
-    {
-      "naslov": "Milojević: &quot;Paunović došao u pogrešnom trenutku&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269804/vladan-milojevic-srbija-se-stalno-vrti-u-krug/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 09. 2026. у 18:45",
       "slika": null
     }
   ]
