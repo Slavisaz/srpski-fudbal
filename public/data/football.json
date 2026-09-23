@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-09-23T06:43:51.032041+00:00",
-  "azurirano_sr": "23. 09. 2026. у 08:43",
+  "azurirano": "2026-09-23T12:12:45.832941+00:00",
+  "azurirano_sr": "23. 09. 2026. у 14:12",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Barsa opet napušta Kamp Nou: Cena projekta već 1,8 milijardi evra, dug raste na 2,6 milijardi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/barsa-opet-napusta-kamp-nou-cena-projekta-vec-18-milijardi-evra-dug-raste-na-26-milijardi/554602",
+      "naslov": "Ko osvaja Ligu nacija? Srbija 14. favorit",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ko-osvaja-ligu-nacija-srbija-14-favorit/554629",
       "izvor": "Мозарт Спорт",
-      "datum": "23. 09. 2026. у 05:01",
+      "datum": "23. 09. 2026. у 15:30",
       "slika": null
     },
     {
-      "naslov": "Jamal: Neću da budem bolji od Pelea i Mesija, već ono što sam; osvojim li Zlatnu loptu, hoću još pet",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jamal-necu-da-budem-bolji-od-pelea-i-mesija-vec-ono-sto-sam-osvojim-li-zlatnu-loptu-hocu-jos-pet/554598",
+      "naslov": "Nova \"FIFA\" kao surovo ogledalo srpskog fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nova-fifa-kao-surovo-ogledalo-srpskog-fudbala/554623",
       "izvor": "Мозарт Спорт",
-      "datum": "23. 09. 2026. у 01:49",
+      "datum": "23. 09. 2026. у 14:51",
       "slika": null
     },
     {
-      "naslov": "Miloje otvoreno: Srbija se vrti u krug, kod nas se uvek dogodi nešto neobjašnjivo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/miloje-otvoreno-srbija-se-vrti-u-krug-kod-nas-se-uvek-dogodi-nesto-neobjasnjivo/554577",
+      "naslov": "Ni Stanković, ni Piksi – Hrvat novi trener Ludogoreca",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ni-stankovic-ni-piksi-hrvat-novi-trener-ludogoreca/554618",
       "izvor": "Мозарт Спорт",
-      "datum": "22. 09. 2026. у 19:53",
+      "datum": "23. 09. 2026. у 13:07",
       "slika": null
     },
     {
-      "naslov": "Kako je Žotina smrt razorila Liverpul: Pitali smo se – koja je svrha? Nije nam stalo do fudbala…",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-je-zotina-smrt-razorila-liverpul-pitali-smo-se-koja-je-svrha-nije-nam-stalo-do-fudbala/554578",
+      "naslov": "Mendi se prisetio Dijazovog penala: Znao sam da će biti \"panenka\", taj trofej vredi više od LŠ",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mendi-se-prisetio-dijazovog-penala-znao-sam-da-ce-biti-panenka-taj-trofej-vredi-vise-od-ls/554615",
       "izvor": "Мозарт Спорт",
-      "datum": "22. 09. 2026. у 19:42",
+      "datum": "23. 09. 2026. у 12:46",
+      "slika": null
+    },
+    {
+      "naslov": "Havijer Agire novi trener fudbalera Valensije",
+      "url": "https://www.tanjug.rs/sport/fudbal/283321/havijer-agire-novi-trener-fudbalera-valensije/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 09. 2026. у 11:23",
+      "slika": null
+    },
+    {
+      "naslov": "Stefan Džodić: Velika je čast biti pozvan i nositi dres Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/283306/stefan-dzodic-velika-je-cast-biti-pozvan-i-nositi-dres-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 09. 2026. у 10:44",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Senka Knežević: \"Triglav osiguranje\" želi da iskaže zahvalnost \"Adria football forumu\"",
-      "url": "https://www.tanjug.rs/sport/fudbal/283181/senka-knezevic-triglav-osiguranje-zeli-da-iskaze-zahvalnost-adria-football-forumu/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 09. 2026. у 18:32",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Partizana igraju u nedelju prijateljsku utakmicu protiv ruske Rodine",
-      "url": "https://www.tanjug.rs/sport/fudbal/283178/fudbaleri-partizana-igraju-u-nedelju-prijateljsku-utakmicu-protiv-ruske-rodine/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 09. 2026. у 18:15",
+      "naslov": "Debitant u dresu Srbije: &quot;Sve deluje kao san&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269957/stefan-dzodic-prvi-put-u-reprezentaciji-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "23. 09. 2026. у 11:04",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269887/radoslav-batak-postaje-novi-trener-ofk-beograda/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "23. 09. 2026. у 08:10",
-      "slika": null
-    },
-    {
-      "naslov": "Kostov na ceni – našao se u odabranom društvu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269856/vasilije-kostov-sesti-najbolji-u21-igrac-van-liga-petice/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 09. 2026. у 22:25",
       "slika": null
     }
   ]
