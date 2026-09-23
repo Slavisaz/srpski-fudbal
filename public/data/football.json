@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-09-23T01:46:31.394707+00:00",
-  "azurirano_sr": "23. 09. 2026. у 03:46",
+  "azurirano": "2026-09-23T06:43:51.032041+00:00",
+  "azurirano_sr": "23. 09. 2026. у 08:43",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "OFK Beograd pronašao novog trenera",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269887/radoslav-batak-postaje-novi-trener-ofk-beograda/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "23. 09. 2026. у 08:10",
+      "slika": null
+    },
+    {
       "naslov": "Kostov na ceni – našao se u odabranom društvu",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269856/vasilije-kostov-sesti-najbolji-u21-igrac-van-liga-petice/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 09. 2026. у 22:25",
-      "slika": null
-    },
-    {
-      "naslov": "Gordan Petrić ponovo u reprezentaciji Srbije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/269724/gordan-petric-u-mladoj-reprezentaciji-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 09. 2026. у 19:00",
       "slika": null
     }
   ]
