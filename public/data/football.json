@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-09-24T10:23:20.194465+00:00",
-  "azurirano_sr": "24. 09. 2026. у 12:23",
+  "azurirano": "2026-09-24T15:16:28.593826+00:00",
+  "azurirano_sr": "24. 09. 2026. у 17:16",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Ispovest Vinčenca Jakinte: Bio sam svetski šampion, sada sam mafijaš; već deset godina živim noćnu moru",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ispovest-vincenca-jakinte-bio-sam-svetski-sampion-sada-sam-mafijas-vec-deset-godina-zivim-nocnu-moru/554684",
+      "naslov": "Tedić o Gvardioli, Salibi i Vlahoviću: Sanjam o reprezentaciji, ali trebaju mi dobre igre u klubu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tedic-o-gvardioli-salibi-i-vlahovicu-sanjam-o-reprezentaciji-ali-trebaju-mi-dobre-igre-u-klubu/554712",
       "izvor": "Мозарт Спорт",
-      "datum": "24. 09. 2026. у 12:19",
+      "datum": "24. 09. 2026. у 17:59",
       "slika": null
     },
     {
-      "naslov": "Nulta tačka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nulta-tacka/554685",
+      "naslov": "Srbiju napada čudo od deteta i kandidat za igrača meseca Premijer lige",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbiju-napada-cudo-od-deteta-i-kandidat-za-igraca-meseca-premijer-lige/554700",
       "izvor": "Мозарт Спорт",
-      "datum": "24. 09. 2026. у 12:16",
+      "datum": "24. 09. 2026. у 15:23",
       "slika": null
     },
     {
-      "naslov": "Da se podsetimo, zašto Liga nacija ima ogromnu važnost za Srbiju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/da-se-podsetimo-zasto-liga-nacija-ima-ogromnu-vaznost-za-srbiju/554673",
+      "naslov": "Smanjio se broj afričkih reprezentativaca u Mozzart Bet Superligi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/smanjio-se-broj-africkih-reprezentativaca-u-mozzart-bet-superligi/554696",
       "izvor": "Мозарт Спорт",
-      "datum": "24. 09. 2026. у 11:07",
+      "datum": "24. 09. 2026. у 14:39",
       "slika": null
     },
     {
-      "naslov": "LUDI TIKET, četvrtak, 257.237 dinara: Ko kaže da je 13 baksuzan broj?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-cetvrtak-257237-dinara-ko-kaze-da-je-13-baksuzan-broj/554672",
+      "naslov": "Matija Nastasić bi mogao da se vrati u italijanski fudbal, pominje se kao kandidat novog člana Serije B",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/matija-nastasic-bi-mogao-da-se-vrati-u-italijanski-fudbal-pominje-se-kao-kandidat-novog-clana-serije-b/554697",
       "izvor": "Мозарт Спорт",
-      "datum": "24. 09. 2026. у 10:34",
+      "datum": "24. 09. 2026. у 14:33",
+      "slika": null
+    },
+    {
+      "naslov": "PAOK će ugostiti fudbalere Partizana 14. novembra u sklopu proslave veka postojanja",
+      "url": "https://www.tanjug.rs/sport/fudbal/283701/paok-ce-ugostiti-fudbalere-partizana-14-novembra-u-sklopu-proslave-veka-postojanja/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 09. 2026. у 13:21",
       "slika": null
     },
     {
@@ -53,10 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Obamejang se povredio i mora na operaciju, očekuje ga pauza od dva meseca",
-      "url": "https://www.tanjug.rs/sport/fudbal/283553/obamejang-se-povredio-i-mora-na-operaciju-ocekuje-ga-pauza-od-dva-meseca/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 09. 2026. у 22:14",
+      "naslov": "Istina je – Srbija protiv Grčke igra (i) za EURO 2028",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/270433/uspeh-protiv-grcke-i-u-ligi-nacija-je-vazan-za-srbiju-zbog-euro-2028/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 09. 2026. у 17:12",
+      "slika": null
+    },
+    {
+      "naslov": "Velika čast za srpskog sudiju",
+      "url": "https://www.b92.net/sport/fudbal/vesti/270278/velika-cast-za-srpskog-sudiju/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "24. 09. 2026. у 15:22",
       "slika": null
     },
     {
