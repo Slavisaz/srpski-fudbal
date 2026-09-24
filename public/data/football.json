@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-24T15:16:28.593826+00:00",
-  "azurirano_sr": "24. 09. 2026. у 17:16",
+  "azurirano": "2026-09-24T19:12:48.080911+00:00",
+  "azurirano_sr": "24. 09. 2026. у 21:12",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "UŽIVO: Srbija - Grčka 1:0, Andrija Živković!!!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-srbija-grcka-10-andrija-zivkovic/554725",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 09. 2026. у 21:35",
+      "slika": null
+    },
+    {
+      "naslov": "Virc, Bajern i gde je istina u celoj priči...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/virc-bajern-i-gde-je-istina-u-celoj-prici/554723",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 09. 2026. у 21:29",
+      "slika": null
+    },
     {
       "naslov": "Tedić o Gvardioli, Salibi i Vlahoviću: Sanjam o reprezentaciji, ali trebaju mi dobre igre u klubu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/tedic-o-gvardioli-salibi-i-vlahovicu-sanjam-o-reprezentaciji-ali-trebaju-mi-dobre-igre-u-klubu/554712",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Smanjio se broj afričkih reprezentativaca u Mozzart Bet Superligi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/smanjio-se-broj-africkih-reprezentativaca-u-mozzart-bet-superligi/554696",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 09. 2026. у 14:39",
+      "naslov": "Paunovićev tim za Grčku: Simić i Cvetković od prvog minuta",
+      "url": "https://www.tanjug.rs/sport/fudbal/283832/paunovicev-tim-za-grcku-simic-i-cvetkovic-od-prvog-minuta/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 09. 2026. у 19:38",
       "slika": null
     },
     {
-      "naslov": "Matija Nastasić bi mogao da se vrati u italijanski fudbal, pominje se kao kandidat novog člana Serije B",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/matija-nastasic-bi-mogao-da-se-vrati-u-italijanski-fudbal-pominje-se-kao-kandidat-novog-clana-serije-b/554697",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 09. 2026. у 14:33",
+      "naslov": "Fudbaler Reala Ibrahima Konate zbog povrede van terena dve do tri nedelje",
+      "url": "https://www.tanjug.rs/sport/fudbal/283821/fudbaler-reala-ibrahima-konate-zbog-povrede-van-terena-dve-do-tri-nedelje/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 09. 2026. у 18:58",
+      "slika": null
+    },
+    {
+      "naslov": "Remi omladinaca Srbije i Bugarske na startu turnira \"Stevan Ćele Vilotić\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/283815/remi-omladinaca-srbije-i-bugarske-na-startu-turnira-stevan-cele-vilotic/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 09. 2026. у 18:41",
       "slika": null
     },
     {
@@ -39,27 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Mančester Junajteda Leni Joro naknadno pozvan u reprezentaciju Francuske",
-      "url": "https://www.tanjug.rs/sport/fudbal/283646/fudbaler-mancester-junajteda-leni-joro-naknadno-pozvan-u-reprezentaciju-francuske/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 09. 2026. у 11:04",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski arbitar Milan Milanović sudiće meč Island - Estonija u Ligi nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/283641/srpski-arbitar-milan-milanovic-sudice-mec-island-estonija-u-ligi-nacija/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 09. 2026. у 10:46",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Srbije večeras dočekuju Grčku na startu Lige nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/283611/fudbaleri-srbije-veceras-docekuju-grcku-na-startu-lige-nacija/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 09. 2026. у 08:58",
-      "slika": null
-    },
-    {
       "naslov": "Istina je – Srbija protiv Grčke igra (i) za EURO 2028",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/270433/uspeh-protiv-grcke-i-u-ligi-nacija-je-vazan-za-srbiju-zbog-euro-2028/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,10 +67,10 @@
       "slika": null
     },
     {
-      "naslov": "Velika čast za srpskog sudiju",
-      "url": "https://www.b92.net/sport/fudbal/vesti/270278/velika-cast-za-srpskog-sudiju/vest",
+      "naslov": "Srbija povela, pa totalno stala",
+      "url": "https://www.b92.net/sport/fudbal/vesti/270462/uzivo-liga-nacija-srbija-grcka-prenos-gde-gledati/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "24. 09. 2026. у 15:22",
+      "datum": "24. 09. 2026. у 21:03",
       "slika": null
     },
     {
