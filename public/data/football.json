@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-09-25T05:19:54.955055+00:00",
-  "azurirano_sr": "25. 09. 2026. у 07:19",
+  "azurirano": "2026-09-25T10:16:16.717622+00:00",
+  "azurirano_sr": "25. 09. 2026. у 12:16",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Tadić: Dešavale se čudne stvari, mogli smo bolje da reagujemo kod drugog gola",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tadic-desavale-se-cudne-stvari-mogli-smo-bolje-da-reagujemo-kod-drugog-gola/554758",
+      "naslov": "Petorica Grka vrede kao ceo srpski fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/petorica-grka-vrede-kao-ceo-srpski-fudbal/554783",
       "izvor": "Мозарт Спорт",
-      "datum": "25. 09. 2026. у 01:38",
+      "datum": "25. 09. 2026. у 14:07",
       "slika": null
     },
     {
-      "naslov": "OCENE - SRBIJA: Sergej i Tadić mogu zajedno, ali imaju li s kim?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ocene-srbija-sergej-i-tadic-mogu-zajedno-ali-imaju-li-s-kim/554757",
+      "naslov": "Opremite kućnu apoteku, kreće dugo isceljenje od fudbalske depresije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/opremite-kucnu-apoteku-krece-dugo-isceljenje-od-fudbalske-depresije/554781",
       "izvor": "Мозарт Спорт",
-      "datum": "25. 09. 2026. у 01:37",
+      "datum": "25. 09. 2026. у 12:59",
       "slika": null
     },
     {
-      "naslov": "Rezzime dana (četvrtak): Gde bi nam bio kraj da su nam fudbaleri dobri kao kladioci Mozzarta...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-cetvrtak-gde-bi-nam-bio-kraj-da-su-nam-fudbaleri-dobri-kao-kladioci-mozzarta/554762",
+      "naslov": "Bez dobrih vesti sa Marakane: Srbija u „brejku“ zaostatka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bez-dobrih-vesti-sa-marakane-srbija-u-brejku-zaostatka/554774",
       "izvor": "Мозарт Спорт",
-      "datum": "25. 09. 2026. у 01:33",
+      "datum": "25. 09. 2026. у 11:52",
       "slika": null
     },
     {
-      "naslov": "Potop na Marakani! Grčki čas fudbala, Srbija odmah proklizala u Ligi nacija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/potop-na-marakani-grcki-cas-fudbala-srbija-odmah-proklizala-u-ligi-nacija/554747",
+      "naslov": "Najava dana (petak, 25. septembar): Partizan Mozzart Bet protiv Milana, a tu je i Liga nacija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-petak-25-septembar-partizan-mozzart-bet-protiv-milana-a-tu-je-i-liga-nacija/554709",
       "izvor": "Мозарт Спорт",
-      "datum": "25. 09. 2026. у 00:43",
+      "datum": "25. 09. 2026. у 10:09",
+      "slika": null
+    },
+    {
+      "naslov": "Poljski arbitar Šimon Marćinjak sudiće meč Srbija - Holandija",
+      "url": "https://www.tanjug.rs/sport/fudbal/283932/poljski-arbitar-simon-marcinjak-sudice-mec-srbija-holandija/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 09. 2026. у 10:40",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Paunovićev tim za Grčku: Simić i Cvetković od prvog minuta",
-      "url": "https://www.tanjug.rs/sport/fudbal/283832/paunovicev-tim-za-grcku-simic-i-cvetkovic-od-prvog-minuta/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 09. 2026. у 19:38",
+      "naslov": "Teško da možete da zamislite ko je najbolji igrač Superlige",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/270426/abu-fani-najbolji-igrac-superlige/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 09. 2026. у 11:00",
       "slika": null
     },
     {
-      "naslov": "Paunović emotivan: &quot;Ja sam kriv, naredio sam im!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/270550/konferencija-za-medije-veljka-paunovica-posle-meca-srbija-grcka-12/vest",
+      "naslov": "Sam pao, sam se ubio",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/270494/liga-nacija-1-kolo-grupe-a2-srbija-grcka-ocene/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "25. 09. 2026. у 00:05",
-      "slika": null
-    },
-    {
-      "naslov": "Paunović posle šokantnog poraza: &quot;Bolno i poučno&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/270538/izjava-veljka-paunovica-posle-poraza-srbije-od-grcke-12-u-ligi-nacija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "24. 09. 2026. у 22:58",
+      "datum": "25. 09. 2026. у 08:12",
       "slika": null
     }
   ]
