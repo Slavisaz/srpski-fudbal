@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-25T15:17:43.159081+00:00",
-  "azurirano_sr": "25. 09. 2026. у 17:17",
+  "azurirano": "2026-09-25T19:17:23.291248+00:00",
+  "azurirano_sr": "25. 09. 2026. у 21:17",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Sinoć nas 90+5 zavio u crno, danas podigao: Reprezentacija do 18 godina srušila Rusiju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sinoc-nas-905-zavio-u-crno-danas-podigao-reprezentacija-do-18-godina-srusila-rusiju/554816",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 09. 2026. у 20:53",
+      "slika": null
+    },
+    {
+      "naslov": "Novi Maksimir već na udaru: Liči na kutiju za alat, gradimo najskuplji spomenik komunizmu u Zagrebu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/novi-maksimir-vec-na-udaru-lici-na-kutiju-za-alat-gradimo-najskuplji-spomenik-komunizmu-u-zagrebu/554813",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 09. 2026. у 20:14",
+      "slika": null
+    },
+    {
+      "naslov": "Tuhelova poruka upozorenja Palmeru: Propušta previše prilika",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tuhelova-poruka-upozorenja-palmeru-propusta-previse-prilika/554810",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 09. 2026. у 19:31",
+      "slika": null
+    },
     {
       "naslov": "Nemiri u mladoj reprezentaciji: Bata Mirković odstranio malog Laneta",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nemiri-u-mladoj-reprezentaciji-bata-mirkovic-odstranio-malog-laneta/554799",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Roberto Karlos: Izgubio sam 99 odsto onoga što sam zaradio od fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/roberto-karlos-izgubio-sam-99-odsto-onoga-sto-sam-zaradio-od-fudbala/554798",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 09. 2026. у 16:06",
+      "naslov": "Mlada fudbalska reprezentacija Srbije nadigrala Irak u prijateljskom meču",
+      "url": "https://www.tanjug.rs/sport/fudbal/284118/mlada-fudbalska-reprezentacija-srbije-nadigrala-irak-u-prijateljskom-mecu/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 09. 2026. у 20:19",
       "slika": null
     },
     {
-      "naslov": "Dijeng će morati da se dokaže Vijeri kroz igre u dresu Zvezde",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dijeng-ce-morati-da-se-dokaze-vijeri-kroz-igre-u-dresu-zvezde/554793",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 09. 2026. у 15:12",
-      "slika": null
-    },
-    {
-      "naslov": "Petorica Grka vrede kao ceo srpski fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/petorica-grka-vrede-kao-ceo-srpski-fudbal/554783",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 09. 2026. у 14:07",
+      "naslov": "Mlađa omladinska reprezentacija Srbije savladala Rusiju u prijateljskoj utakmici",
+      "url": "https://www.tanjug.rs/sport/fudbal/284105/mlada-omladinska-reprezentacija-srbije-savladala-rusiju-u-prijateljskoj-utakmici/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 09. 2026. у 19:32",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/283996/cetiri-vodece-evropske-lige-pozvale-na-reforme-u-svetskoj-fudbalskoj-federaciji/vest",
       "izvor": "Танјуг",
       "datum": "25. 09. 2026. у 13:32",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler tzv. Kosova Vedat Murići podigao majicu s porukom koja veliča vođe tzv. OVK",
-      "url": "https://www.tanjug.rs/sport/fudbal/283994/fudbaler-tzv-kosova-vedat-murici-podigao-majicu-s-porukom-koja-velica-vode-tzv-ovk/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 09. 2026. у 13:26",
-      "slika": null
-    },
-    {
-      "naslov": "Poljski arbitar Šimon Marćinjak sudiće meč Srbija - Holandija",
-      "url": "https://www.tanjug.rs/sport/fudbal/283932/poljski-arbitar-simon-marcinjak-sudice-mec-srbija-holandija/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 09. 2026. у 10:40",
       "slika": null
     },
     {
