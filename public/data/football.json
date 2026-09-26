@@ -1,62 +1,76 @@
 {
-  "azurirano": "2026-09-26T05:29:26.172485+00:00",
-  "azurirano_sr": "26. 09. 2026. у 07:29",
-  "vesti_24h": 8,
+  "azurirano": "2026-09-26T10:04:39.469582+00:00",
+  "azurirano_sr": "26. 09. 2026. у 12:04",
+  "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Salah i Marmuš nedovoljni za Angolu, Vozinja primio tri gola u prvom meču posle Mundijala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/salah-i-marmus-nedovoljni-za-angolu-vozinja-primio-tri-gola-u-prvom-mecu-posle-mundijala/554840",
+      "naslov": "De la Fuenteova pretnja: Najbolje od Španije tek dolazi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/de-la-fuenteova-pretnja-najbolje-od-spanije-tek-dolazi/554871",
       "izvor": "Мозарт Спорт",
-      "datum": "26. 09. 2026. у 01:23",
+      "datum": "26. 09. 2026. у 13:23",
       "slika": null
     },
     {
-      "naslov": "BiH zaustavila Levandovskog, Bajraktarević igrao fudbal sa plaže i probacio loptu Kivioru kroz noge",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bih-zaustavila-levandovskog-bajraktarevic-igrao-fudbal-sa-plaze-i-probacio-loptu-kivioru-kroz-noge/554835",
+      "naslov": "Liga nacija se ove godine igra malo drugačije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/liga-nacija-se-ove-godine-igra-malo-drugacije/554862",
       "izvor": "Мозарт Спорт",
-      "datum": "26. 09. 2026. у 00:48",
+      "datum": "26. 09. 2026. у 12:08",
       "slika": null
     },
     {
-      "naslov": "Sinoć nas u 90+5 zavio u crno, danas podigao: Reprezentacija do 18 godina srušila Rusiju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sinoc-nas-u-905-zavio-u-crno-danas-podigao-reprezentacija-do-18-godina-srusila-rusiju/554816",
+      "naslov": "Damir Skomina: Regionalna liga je iluzija, gotova priča",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/damir-skomina-regionalna-liga-je-iluzija-gotova-prica/554859",
       "izvor": "Мозарт Спорт",
-      "datum": "25. 09. 2026. у 20:53",
+      "datum": "26. 09. 2026. у 11:27",
       "slika": null
     },
     {
-      "naslov": "Novi Maksimir već na udaru: Liči na kutiju za alat, gradimo najskuplji spomenik komunizmu u Zagrebu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/novi-maksimir-vec-na-udaru-lici-na-kutiju-za-alat-gradimo-najskuplji-spomenik-komunizmu-u-zagrebu/554813",
+      "naslov": "Najava dana (subota, 26. septembar): Liga nacija uz Engleze i Špance, plus derbi Mozzart Bet PLS-a",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-subota-26-septembar-liga-nacija-uz-engleze-i-spance-plus-derbi-mozzart-bet-plsa/554797",
       "izvor": "Мозарт Спорт",
-      "datum": "25. 09. 2026. у 20:14",
+      "datum": "26. 09. 2026. у 10:00",
       "slika": null
     },
     {
-      "naslov": "Košarkaši Valensije pobedili Bešiktaš u prvom kolu Evrolige",
-      "url": "https://www.tanjug.rs/sport/fudbal/284130/kosarkasi-valensije-pobedili-besiktas-u-prvom-kolu-evrolige/vest",
+      "naslov": "Manćini: Mogli smo do izjednačenja, moramo da ostavimo iza sebe kvalifikacije za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/284207/mancini-mogli-smo-do-izjednacenja-moramo-da-ostavimo-iza-sebe-kvalifikacije-za-svetsko-prvenstvo/vest",
       "izvor": "Танјуг",
-      "datum": "25. 09. 2026. у 21:19",
+      "datum": "26. 09. 2026. у 11:29",
       "slika": null
     },
     {
-      "naslov": "Mlada fudbalska reprezentacija Srbije nadigrala Irak u prijateljskom meču",
-      "url": "https://www.tanjug.rs/sport/fudbal/284118/mlada-fudbalska-reprezentacija-srbije-nadigrala-irak-u-prijateljskom-mecu/vest",
+      "naslov": "UEFA kaznila Partizan sa 42.000 evra i zatvaranjem dela stadiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/284210/uefa-kaznila-partizan-sa-42000-evra-i-zatvaranjem-dela-stadiona/vest",
       "izvor": "Танјуг",
-      "datum": "25. 09. 2026. у 20:19",
+      "datum": "26. 09. 2026. у 11:17",
       "slika": null
     },
     {
-      "naslov": "Mlađa omladinska reprezentacija Srbije savladala Rusiju u prijateljskoj utakmici",
-      "url": "https://www.tanjug.rs/sport/fudbal/284105/mlada-omladinska-reprezentacija-srbije-savladala-rusiju-u-prijateljskoj-utakmici/vest",
+      "naslov": "Zidan: Imamo prostora za napredak, Mbape povredio koleno i vraća se u Real",
+      "url": "https://www.tanjug.rs/sport/fudbal/284195/zidan-imamo-prostora-za-napredak-mbape-povredio-koleno-i-vraca-se-u-real/vest",
       "izvor": "Танјуг",
-      "datum": "25. 09. 2026. у 19:32",
+      "datum": "26. 09. 2026. у 10:12",
       "slika": null
     },
     {
-      "naslov": "Slaviša Jokanović novi trener fudbalera Bazela",
-      "url": "https://www.tanjug.rs/sport/fudbal/284045/slavisa-jokanovic-novi-trener-fudbalera-bazela/vest",
+      "naslov": "Francuska nadigrala Tursku na Zidanovom debiju, Mbape dao gol pa se povredio",
+      "url": "https://www.tanjug.rs/sport/fudbal/284155/francuska-nadigrala-tursku-na-zidanovom-debiju-mbape-dao-gol-pa-se-povredio/vest",
       "izvor": "Танјуг",
-      "datum": "25. 09. 2026. у 15:26",
+      "datum": "25. 09. 2026. у 23:15",
+      "slika": null
+    },
+    {
+      "naslov": "&quot;Orlovi&quot; dobili važne vesti pred duel sa Holandijom",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/270892/holandija-oslabljena-stize-u-beograd-na-mec-protiv-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 09. 2026. у 09:30",
+      "slika": null
+    },
+    {
+      "naslov": "&quot;Bura&quot; među Orlićima – Bata Mirković izbacio Lazara Jovanovića",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/270726/zoran-mirkovic-izbacio-lazara-jovanovica-iz-reprezentacije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 09. 2026. у 15:00",
       "slika": null
     }
   ]
