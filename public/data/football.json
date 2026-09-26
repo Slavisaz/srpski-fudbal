@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-26T17:48:25.876516+00:00",
-  "azurirano_sr": "26. 09. 2026. у 19:48",
+  "azurirano": "2026-09-26T20:11:13.647359+00:00",
+  "azurirano_sr": "26. 09. 2026. у 22:11",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "SRBIJA – TIM ZA HOLANDIJU: Bez mnogo promena, prilika za Babića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-tim-za-holandiju-bez-mnogo-promena-prilika-za-babica/554914",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 09. 2026. у 23:00",
+      "slika": null
+    },
     {
       "naslov": "Jamal: Fudbal je mehanizovan, ali postojimo Pedri i ja... Ne igram zbog novca, nego radi zabave",
       "url": "https://www.mozzartsport.com/fudbal/vesti/jamal-fudbal-je-mehanizovan-ali-postojimo-pedri-i-ja-ne-igram-zbog-novca-nego-radi-zabave/554901",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Liga nacija se ove godine igra malo drugačije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/liga-nacija-se-ove-godine-igra-malo-drugacije/554862",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 09. 2026. у 12:08",
+      "naslov": "Ćavi: Moramo da pobedimo Srbiju na istorijskom stadionu",
+      "url": "https://www.tanjug.rs/sport/fudbal/284333/cavi-moramo-da-pobedimo-srbiju-na-istorijskom-stadionu/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 09. 2026. у 21:08",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Republike Irske nosiće crne trake na rukama protiv Izraela",
+      "url": "https://www.tanjug.rs/sport/fudbal/284324/fudbaleri-republike-irske-nosice-crne-trake-na-rukama-protiv-izraela/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 09. 2026. у 20:43",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/284249/tadic-poznajem-reprezentaciju-holandije-igrao-sam-sa-vecinom-od-njih/vest",
       "izvor": "Танјуг",
       "datum": "26. 09. 2026. у 14:39",
-      "slika": null
-    },
-    {
-      "naslov": "Paunović: Holandija opasna iz tranzicije, moramo da pokažemo naš inat u teškom trenutku",
-      "url": "https://www.tanjug.rs/sport/fudbal/284245/paunovic-holandija-opasna-iz-tranzicije-moramo-da-pokazemo-nas-inat-u-teskom-trenutku/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 09. 2026. у 14:20",
-      "slika": null
-    },
-    {
-      "naslov": "Karlik Džons MVP prvog kola Evrolige",
-      "url": "https://www.tanjug.rs/sport/fudbal/284223/karlik-dzons-mvp-prvog-kola-evrolige/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 09. 2026. у 12:21",
       "slika": null
     },
     {
