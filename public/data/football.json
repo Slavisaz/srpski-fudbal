@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-26T14:21:35.965586+00:00",
-  "azurirano_sr": "26. 09. 2026. у 16:21",
+  "azurirano": "2026-09-26T17:48:25.876516+00:00",
+  "azurirano_sr": "26. 09. 2026. у 19:48",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Jamal: Fudbal je mehanizovan, ali postojimo Pedri i ja... Ne igram zbog novca, nego radi zabave",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jamal-fudbal-je-mehanizovan-ali-postojimo-pedri-i-ja-ne-igram-zbog-novca-nego-radi-zabave/554901",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 09. 2026. у 20:10",
+      "slika": null
+    },
     {
       "naslov": "Selektor Bugarske: Naš cilj je B Liga nacija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/selektor-bugarske-nas-cilj-je-b-liga-nacija/554876",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Damir Skomina: Regionalna liga je iluzija, gotova priča",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/damir-skomina-regionalna-liga-je-iluzija-gotova-prica/554859",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 09. 2026. у 11:27",
+      "naslov": "Rasel: Prva polovina trke je bila prilično lagana, Ferstapen je bio veoma brz na kraju",
+      "url": "https://www.tanjug.rs/sport/fudbal/284270/rasel-prva-polovina-trke-je-bila-prilicno-lagana-ferstapen-je-bio-veoma-brz-na-kraju/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 09. 2026. у 16:13",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Vili Sanjol nije više selektor fudbalera Gruzije",
-      "url": "https://www.tanjug.rs/sport/fudbal/284213/vili-sanjol-nije-vise-selektor-fudbalera-gruzije/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 09. 2026. у 11:51",
+      "naslov": "Vazura bez komentara o Partizanu: &quot;Ne verujem u glasine oko Vlahovića&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271006/vazura-bez-komentara-o-partizanu-ne-verujem-u-glasine-oko-vlahovica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 09. 2026. у 19:05",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/270959/goran-vukovic-napustio-fk-partizan-i-ide-u-bazel-sa-jokanovicem/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "26. 09. 2026. у 14:30",
-      "slika": null
-    },
-    {
-      "naslov": "Paunović otkrio peh Srbije pred Holandiju: &quot;Da se to desilo – bili bismo prvi&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/270957/paunovic-i-tadic-konferencija-za-medije-pred-srbija-holandija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 09. 2026. у 14:03",
       "slika": null
     }
   ]
