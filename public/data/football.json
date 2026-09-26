@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-09-26T20:11:13.647359+00:00",
-  "azurirano_sr": "26. 09. 2026. у 22:11",
+  "azurirano": "2026-09-26T22:45:53.239416+00:00",
+  "azurirano_sr": "27. 09. 2026. у 00:45",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Copy Argentina, paste Španija: Englezi imali svetskog prvaka u šaci, Baena ih okrenuo naglavačke",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/copy-argentina-paste-spanija-englezi-imali-svetskog-prvaka-u-saci-baena-ih-okrenuo-naglavacke/554922",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 09. 2026. у 00:46",
+      "slika": null
+    },
     {
       "naslov": "SRBIJA – TIM ZA HOLANDIJU: Bez mnogo promena, prilika za Babića",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-tim-za-holandiju-bez-mnogo-promena-prilika-za-babica/554914",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "De la Fuenteova pretnja: Najbolje od Španije tek dolazi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/de-la-fuenteova-pretnja-najbolje-od-spanije-tek-dolazi/554871",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 09. 2026. у 13:23",
+      "naslov": "Spektakl na Vembliju: Fudbaleri Španije posle preokreta savladali Englesku",
+      "url": "https://www.tanjug.rs/sport/fudbal/284349/spektakl-na-vembliju-fudbaleri-spanije-posle-preokreta-savladali-englesku/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 09. 2026. у 22:52",
+      "slika": null
+    },
+    {
+      "naslov": "Izraelski fudbalski savez: Fudbal i politika moraju ostati odvojeni",
+      "url": "https://www.tanjug.rs/sport/fudbal/284343/izraelski-fudbalski-savez-fudbal-i-politika-moraju-ostati-odvojeni/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 09. 2026. у 21:50",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/284324/fudbaleri-republike-irske-nosice-crne-trake-na-rukama-protiv-izraela/vest",
       "izvor": "Танјуг",
       "datum": "26. 09. 2026. у 20:43",
-      "slika": null
-    },
-    {
-      "naslov": "Rasel: Prva polovina trke je bila prilično lagana, Ferstapen je bio veoma brz na kraju",
-      "url": "https://www.tanjug.rs/sport/fudbal/284270/rasel-prva-polovina-trke-je-bila-prilicno-lagana-ferstapen-je-bio-veoma-brz-na-kraju/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 09. 2026. у 16:13",
-      "slika": null
-    },
-    {
-      "naslov": "Tadić: Poznajem reprezentaciju Holandije, igrao sam sa većinom od njih",
-      "url": "https://www.tanjug.rs/sport/fudbal/284249/tadic-poznajem-reprezentaciju-holandije-igrao-sam-sa-vecinom-od-njih/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 09. 2026. у 14:39",
       "slika": null
     },
     {
