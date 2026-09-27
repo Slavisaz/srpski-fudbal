@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-27T19:14:42.402544+00:00",
-  "azurirano_sr": "27. 09. 2026. у 21:14",
+  "azurirano": "2026-09-27T22:11:46.230707+00:00",
+  "azurirano_sr": "28. 09. 2026. у 00:11",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Izašli, nisu se rukovali i razbili ih! Irci dobili političko-fudbalsku bitku protiv Izraela",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/izasli-nisu-se-rukovali-i-razbili-ih-irci-dobili-politickofudbalsku-bitku-protiv-izraela/554994",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 09. 2026. у 00:36",
+      "slika": null
+    },
+    {
+      "naslov": "Srpski štoper iz Atletiko Madrida otišao kod Pirla",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-stoper-iz-atletiko-madrida-otisao-kod-pirla/554992",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 09. 2026. у 00:12",
+      "slika": null
+    },
+    {
+      "naslov": "Zadovoljstvo u taboru Orlova i pored novog poraza: Fantastično, pokazatelj za ubuduće",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zadovoljstvo-u-taboru-orlova-i-pored-novog-poraza-fantasticno-pokazatelj-za-ubuduce/554986",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 09. 2026. у 22:58",
+      "slika": null
+    },
     {
       "naslov": "OCENE - SRBIJA: VMS ponovo najbolji, Strahinja bez straha, ali Srbija bez lopte",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ocene-srbija-vms-ponovo-najbolji-strahinja-bez-straha-ali-srbija-bez-lopte/554980",
@@ -11,59 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Narandžasto, ne volim te, narandžasto! Blagi pomak, ali Srbija nije za ovaj nivo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/narandzasto-ne-volim-te-narandzasto-blagi-pomak-ali-srbija-nije-za-ovaj-nivo/554974",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 09. 2026. у 21:51",
-      "slika": null
-    },
-    {
-      "naslov": "Poseta bolja, ali ne zadovoljava",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/poseta-bolja-ali-ne-zadovoljava/554971",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 09. 2026. у 20:02",
-      "slika": null
-    },
-    {
-      "naslov": "KRAJ: Srbija – Holandija 1:2",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-srbija-holandija-12/554966",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 09. 2026. у 19:47",
-      "slika": null
-    },
-    {
-      "naslov": "Ćavi Ernandez: Zasluženo smo pobedili, ali možemo da igramo bolje",
-      "url": "https://www.tanjug.rs/sport/fudbal/284535/cavi-ernandez-zasluzeno-smo-pobedili-ali-mozemo-da-igramo-bolje/vest",
+      "naslov": "Fudbaleri Portugala kao gosti pobedili Norvešku, Kristijano Ronaldo ostao na klupi",
+      "url": "https://www.tanjug.rs/sport/fudbal/284561/fudbaleri-portugala-kao-gosti-pobedili-norvesku-kristijano-ronaldo-ostao-na-klupi/vest",
       "izvor": "Танјуг",
-      "datum": "27. 09. 2026. у 20:54",
+      "datum": "27. 09. 2026. у 22:53",
       "slika": null
     },
     {
-      "naslov": "Veljko Paunović: Čestitam Holandiji, ali i našim momcima, vidljiv veliki napredak u igri",
-      "url": "https://www.tanjug.rs/sport/fudbal/284533/veljko-paunovic-cestitam-holandiji-ali-i-nasim-momcima-vidljiv-veliki-napredak-u-igri/vest",
+      "naslov": "Fudbaleri Grčke kao gosti pobedili Nemačku u Ligi nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/284559/fudbaleri-grcke-kao-gosti-pobedili-nemacku-u-ligi-nacija/vest",
       "izvor": "Танјуг",
-      "datum": "27. 09. 2026. у 20:21",
+      "datum": "27. 09. 2026. у 22:47",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Srbije poraženi od Holandije u Ligi nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/284378/fudbaleri-srbije-porazeni-od-holandije-u-ligi-nacija/vest",
+      "naslov": "Irski fudbaleri odbili da se rukuju sa reprezentativcima Izraela",
+      "url": "https://www.tanjug.rs/sport/fudbal/284552/irski-fudbaleri-odbili-da-se-rukuju-sa-reprezentativcima-izraela/vest",
       "izvor": "Танјуг",
-      "datum": "27. 09. 2026. у 20:01",
+      "datum": "27. 09. 2026. у 22:12",
       "slika": null
     },
     {
-      "naslov": "Fudbaler Švedske Aleksander Isak neće igrati naredna tri meča u Ligi nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/284519/fudbaler-svedske-aleksander-isak-nece-igrati-naredna-tri-meca-u-ligi-nacija/vest",
+      "naslov": "Veljko Paunović: Sudijska odluka kod penala nije bila tačna, a ni kriterijum nije bio isti",
+      "url": "https://www.tanjug.rs/sport/fudbal/284533/veljko-paunovic-sudijska-odluka-kod-penala-nije-bila-tacna-a-ni-kriterijum-nije-bio-isti/vest",
       "izvor": "Танјуг",
-      "datum": "27. 09. 2026. у 19:09",
+      "datum": "27. 09. 2026. у 21:23",
       "slika": null
     },
     {
       "naslov": "Srbija na skeneru B92.sport: Rotacije, rotacije...",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271236/skener-srbije-u-mecu-protiv-holandije-u-2-kolu-lige-nacija-2026/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "27. 09. 2026. у 21:07",
+      "datum": "27. 09. 2026. у 21:10",
       "slika": null
     },
     {
