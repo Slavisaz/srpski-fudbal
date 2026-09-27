@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-27T11:09:47.228015+00:00",
-  "azurirano_sr": "27. 09. 2026. у 13:09",
+  "azurirano": "2026-09-27T15:37:58.810726+00:00",
+  "azurirano_sr": "27. 09. 2026. у 17:37",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "SASTAVI: Srbija – Holandija, Paunović potpuno izmenio tim, Tadić i Jović na klupi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sastavi-srbija-holandija-paunovic-potpuno-izmenio-tim-tadic-i-jovic-na-klupi/554966",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 09. 2026. у 18:27",
+      "slika": null
+    },
+    {
+      "naslov": "Srbija u drugom šeširu: Kako bi na današnji dan izgledao žreb za kvalifikacije za EP",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-u-drugom-sesiru-kako-bi-na-danasnji-dan-izgledao-zreb-za-kvalifikacije-za-ep/554960",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 09. 2026. у 15:24",
+      "slika": null
+    },
+    {
+      "naslov": "Aruabarena i Boka pred izazovom, ide im dobro, ali Rasing je stara boljka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/aruabarena-i-boka-pred-izazovom-ide-im-dobro-ali-rasing-je-stara-boljka/554957",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 09. 2026. у 15:09",
+      "slika": null
+    },
     {
       "naslov": "Siti izabrao da vara i mora da bude kažnjen! Šta je sve Liverpul mogao da doživi da je bilo po propisima?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/siti-izabrao-da-vara-i-mora-da-bude-kaznjen-sta-je-sve-liverpul-mogao-da-dozivi-da-je-bilo-po-propisima/554939",
@@ -11,52 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Može inat, može glad, ali mora i više fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/moze-inat-moze-glad-ali-mora-i-vise-fudbala/554935",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 09. 2026. у 11:32",
-      "slika": null
-    },
-    {
-      "naslov": "Copy Argentina, paste Španija: Englezi imali svetskog prvaka u šaci, Baena ih okrenuo naglavačke",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/copy-argentina-paste-spanija-englezi-imali-svetskog-prvaka-u-saci-baena-ih-okrenuo-naglavacke/554922",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 09. 2026. у 00:46",
-      "slika": null
-    },
-    {
-      "naslov": "SRBIJA – TIM ZA HOLANDIJU: Bez mnogo promena, prilika za Babića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-tim-za-holandiju-bez-mnogo-promena-prilika-za-babica/554914",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 09. 2026. у 23:00",
-      "slika": null
-    },
-    {
-      "naslov": "Nenad Minaković sudi meč između fudbalera Škotske i Švajcarske u Ligi nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/284417/nenad-minakovic-sudi-mec-izmedu-fudbalera-skotske-i-svajcarske-u-ligi-nacija/vest",
+      "naslov": "Fudbaleri Partizana poraženi od ruske Rodine u prijateljskom meču",
+      "url": "https://www.tanjug.rs/sport/fudbal/284492/fudbaleri-partizana-porazeni-od-ruske-rodine-u-prijateljskom-mecu/vest",
       "izvor": "Танјуг",
-      "datum": "27. 09. 2026. у 12:11",
+      "datum": "27. 09. 2026. у 17:21",
       "slika": null
     },
     {
-      "naslov": "FS Španije podnosi kandidaturu za organizaciju Završnog turnira Lige nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/284395/fs-spanije-podnosi-kandidaturu-za-organizaciju-zavrsnog-turnira-lige-nacija/vest",
+      "naslov": "Veljko Paunović napravio sedam izmena za meč protiv Holandije, Tadić i Jović na klupi",
+      "url": "https://www.tanjug.rs/sport/fudbal/284485/veljko-paunovic-napravio-sedam-izmena-za-mec-protiv-holandije-tadic-i-jovic-na-klupi/vest",
       "izvor": "Танјуг",
-      "datum": "27. 09. 2026. у 10:26",
+      "datum": "27. 09. 2026. у 16:53",
       "slika": null
     },
     {
-      "naslov": "Pobede fudbalera Nešvila, Dalasa, Čikaga i LA Galaksija u MLS ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/284387/pobede-fudbalera-nesvila-dalasa-cikaga-i-la-galaksija-u-mls-ligi/vest",
+      "naslov": "Manćini skratio spisak fudbalera za duel sa Turskom, ostavio 10 igrača u Italiji",
+      "url": "https://www.tanjug.rs/sport/fudbal/284464/mancini-skratio-spisak-fudbalera-za-duel-sa-turskom-ostavio-10-igraca-u-italiji/vest",
       "izvor": "Танјуг",
-      "datum": "27. 09. 2026. у 09:42",
+      "datum": "27. 09. 2026. у 15:02",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Srbije večeras dočekuju Holandiju u drugom kolu Lige nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/284378/fudbaleri-srbije-veceras-docekuju-holandiju-u-drugom-kolu-lige-nacija/vest",
+      "naslov": "Švedski fudbaleri Isak i Ekdal zbog povreda ne igraju protiv Poljske, BiH i Rumunije",
+      "url": "https://www.tanjug.rs/sport/fudbal/284446/svedski-fudbaleri-isak-i-ekdal-zbog-povreda-ne-igraju-protiv-poljske-bih-i-rumunije/vest",
       "izvor": "Танјуг",
-      "datum": "27. 09. 2026. у 09:02",
+      "datum": "27. 09. 2026. у 13:43",
+      "slika": null
+    },
+    {
+      "naslov": "Paunović precrtao petoricu pred Holandiju i iznenadio sve",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271174/srbija-holandija-paunovic-odredio-23-igraca-petorica-precrtana/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 09. 2026. у 13:47",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271147/albert-rijera-stopirao-odlazak-elsnika-iz-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "27. 09. 2026. у 12:30",
-      "slika": null
-    },
-    {
-      "naslov": "Oglasio se Lazar Jovanović posle izbacivanja iz reprezentacije: &quot;Ne moraju svi da me vole&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271133/poruka-lazar-jovanovica-posle-izbacivanja-iz-reprezentacije-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 09. 2026. у 11:18",
       "slika": null
     }
   ]
