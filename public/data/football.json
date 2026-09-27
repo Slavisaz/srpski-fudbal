@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-27T05:56:41.343764+00:00",
-  "azurirano_sr": "27. 09. 2026. у 07:56",
+  "azurirano": "2026-09-27T11:09:47.228015+00:00",
+  "azurirano_sr": "27. 09. 2026. у 13:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Siti izabrao da vara i mora da bude kažnjen! Šta je sve Liverpul mogao da doživi da je bilo po propisima?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/siti-izabrao-da-vara-i-mora-da-bude-kaznjen-sta-je-sve-liverpul-mogao-da-dozivi-da-je-bilo-po-propisima/554939",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 09. 2026. у 11:51",
+      "slika": null
+    },
+    {
+      "naslov": "Može inat, može glad, ali mora i više fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/moze-inat-moze-glad-ali-mora-i-vise-fudbala/554935",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 09. 2026. у 11:32",
+      "slika": null
+    },
     {
       "naslov": "Copy Argentina, paste Španija: Englezi imali svetskog prvaka u šaci, Baena ih okrenuo naglavačke",
       "url": "https://www.mozzartsport.com/fudbal/vesti/copy-argentina-paste-spanija-englezi-imali-svetskog-prvaka-u-saci-baena-ih-okrenuo-naglavacke/554922",
@@ -18,59 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Jamal: Fudbal je mehanizovan, ali postojimo Pedri i ja... Ne igram zbog novca, nego radi zabave",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jamal-fudbal-je-mehanizovan-ali-postojimo-pedri-i-ja-ne-igram-zbog-novca-nego-radi-zabave/554901",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 09. 2026. у 20:10",
-      "slika": null
-    },
-    {
-      "naslov": "Selektor Bugarske: Naš cilj je B Liga nacija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/selektor-bugarske-nas-cilj-je-b-liga-nacija/554876",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 09. 2026. у 14:20",
-      "slika": null
-    },
-    {
-      "naslov": "Spektakl na Vembliju: Fudbaleri Španije posle preokreta savladali Englesku",
-      "url": "https://www.tanjug.rs/sport/fudbal/284349/spektakl-na-vembliju-fudbaleri-spanije-posle-preokreta-savladali-englesku/vest",
+      "naslov": "Nenad Minaković sudi meč između fudbalera Škotske i Švajcarske u Ligi nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/284417/nenad-minakovic-sudi-mec-izmedu-fudbalera-skotske-i-svajcarske-u-ligi-nacija/vest",
       "izvor": "Танјуг",
-      "datum": "26. 09. 2026. у 22:52",
+      "datum": "27. 09. 2026. у 12:11",
       "slika": null
     },
     {
-      "naslov": "Izraelski fudbalski savez: Fudbal i politika moraju ostati odvojeni",
-      "url": "https://www.tanjug.rs/sport/fudbal/284343/izraelski-fudbalski-savez-fudbal-i-politika-moraju-ostati-odvojeni/vest",
+      "naslov": "FS Španije podnosi kandidaturu za organizaciju Završnog turnira Lige nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/284395/fs-spanije-podnosi-kandidaturu-za-organizaciju-zavrsnog-turnira-lige-nacija/vest",
       "izvor": "Танјуг",
-      "datum": "26. 09. 2026. у 21:50",
+      "datum": "27. 09. 2026. у 10:26",
       "slika": null
     },
     {
-      "naslov": "Ćavi: Moramo da pobedimo Srbiju na istorijskom stadionu",
-      "url": "https://www.tanjug.rs/sport/fudbal/284333/cavi-moramo-da-pobedimo-srbiju-na-istorijskom-stadionu/vest",
+      "naslov": "Pobede fudbalera Nešvila, Dalasa, Čikaga i LA Galaksija u MLS ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/284387/pobede-fudbalera-nesvila-dalasa-cikaga-i-la-galaksija-u-mls-ligi/vest",
       "izvor": "Танјуг",
-      "datum": "26. 09. 2026. у 21:08",
+      "datum": "27. 09. 2026. у 09:42",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Republike Irske nosiće crne trake na rukama protiv Izraela",
-      "url": "https://www.tanjug.rs/sport/fudbal/284324/fudbaleri-republike-irske-nosice-crne-trake-na-rukama-protiv-izraela/vest",
+      "naslov": "Fudbaleri Srbije večeras dočekuju Holandiju u drugom kolu Lige nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/284378/fudbaleri-srbije-veceras-docekuju-holandiju-u-drugom-kolu-lige-nacija/vest",
       "izvor": "Танјуг",
-      "datum": "26. 09. 2026. у 20:43",
+      "datum": "27. 09. 2026. у 09:02",
       "slika": null
     },
     {
-      "naslov": "Vazura bez komentara o Partizanu: &quot;Ne verujem u glasine oko Vlahovića&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271006/vazura-bez-komentara-o-partizanu-ne-verujem-u-glasine-oko-vlahovica/vest",
+      "naslov": "Rijerino &quot;stop&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271147/albert-rijera-stopirao-odlazak-elsnika-iz-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 09. 2026. у 19:05",
+      "datum": "27. 09. 2026. у 12:30",
       "slika": null
     },
     {
-      "naslov": "Pao odlazak iz Partizana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/270959/goran-vukovic-napustio-fk-partizan-i-ide-u-bazel-sa-jokanovicem/vest",
+      "naslov": "Oglasio se Lazar Jovanović posle izbacivanja iz reprezentacije: &quot;Ne moraju svi da me vole&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271133/poruka-lazar-jovanovica-posle-izbacivanja-iz-reprezentacije-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 09. 2026. у 14:30",
+      "datum": "27. 09. 2026. у 11:18",
       "slika": null
     }
   ]
