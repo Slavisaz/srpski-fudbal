@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-09-28T19:34:57.147047+00:00",
-  "azurirano_sr": "28. 09. 2026. у 21:34",
+  "azurirano": "2026-09-28T23:53:48.623641+00:00",
+  "azurirano_sr": "29. 09. 2026. у 01:53",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Italije ubedljivi protiv Turske, Olise doneo pobedu Francuskoj nad Belgijom",
+      "url": "https://www.tanjug.rs/sport/fudbal/284902/fudbaleri-italije-ubedljivi-protiv-turske-olise-doneo-pobedu-francuskoj-nad-belgijom/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 09. 2026. у 22:48",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Crne Gore golom u 89. minutu do pobede protiv Jermenije",
       "url": "https://www.tanjug.rs/sport/fudbal/284858/fudbaleri-crne-gore-golom-u-89-minutu-do-pobede-protiv-jermenije/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Paunović pozvao golmana Dragana Rosića za mečeve protiv Nemačke i Holandije",
-      "url": "https://www.tanjug.rs/sport/fudbal/284822/paunovic-pozvao-golmana-dragana-rosica-za-meceve-protiv-nemacke-i-holandije/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 09. 2026. у 17:41",
+      "naslov": "Nove promene u reprezentaciji Srbije!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271609/veljko-paunovic-prekomandovao-ognjena-mimovica-u-a-reprezentaciju/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 09. 2026. у 22:10",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271563/dragan-mrdja-o-partizanu-crvenoj-zvezdi-i-vojvodini/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 09. 2026. у 19:15",
-      "slika": null
-    },
-    {
-      "naslov": "Partizanu se povredio još jedan stranac",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271549/saka-traore-se-povredio-na-treningu-partizana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 09. 2026. у 18:34",
       "slika": null
     }
   ]
