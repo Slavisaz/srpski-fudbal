@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-28T05:53:31.583152+00:00",
-  "azurirano_sr": "28. 09. 2026. у 07:53",
+  "azurirano": "2026-09-28T12:02:29.108022+00:00",
+  "azurirano_sr": "28. 09. 2026. у 14:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Raport sa srpskoligaških terena: Timok ‘poplavio’ Jagodinu, T6 Nika i Veternik na čelu tabele",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-timok-poplavio-jagodinu-t6-nika-i-veternik-na-celu-tabele/555014",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 09. 2026. у 12:43",
+      "slika": null
+    },
+    {
+      "naslov": "Zidan: U fudbalu je sve prolazno, želim da svi pamte ove trenutke",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zidan-u-fudbalu-je-sve-prolazno-zelim-da-svi-pamte-ove-trenutke/555012",
+      "izvor": "Мозарт Спорт",
+      "datum": "28. 09. 2026. у 12:28",
+      "slika": null
+    },
     {
       "naslov": "Rasing više nije bauk: Magična glava Enera Valensije za Bokino polufinale Kupa",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rasing-vise-nije-bauk-magicna-glava-enera-valensije-za-bokino-polufinale-kupa/554999",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/izasli-nisu-se-rukovali-i-razbili-ih-irci-dobili-politickofudbalsku-bitku-protiv-izraela/554994",
       "izvor": "Мозарт Спорт",
       "datum": "28. 09. 2026. у 00:36",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski štoper iz Atletiko Madrida otišao kod Pirla",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-stoper-iz-atletiko-madrida-otisao-kod-pirla/554992",
-      "izvor": "Мозарт Спорт",
-      "datum": "28. 09. 2026. у 00:12",
-      "slika": null
-    },
-    {
-      "naslov": "Zadovoljstvo u taboru Orlova i pored novog poraza: Fantastično, pokazatelj za ubuduće",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zadovoljstvo-u-taboru-orlova-i-pored-novog-poraza-fantasticno-pokazatelj-za-ubuduce/554986",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 09. 2026. у 22:58",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Srbija na skeneru B92.sport: Rotacije, rotacije...",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271236/skener-srbije-u-mecu-protiv-holandije-u-2-kolu-lige-nacija-2026/vest",
+      "naslov": "Vukotića čeka skoro mesec dana pauze",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271407/partizan-u-problemu-vukotica-ceka-skoro-mesec-dana-pauze/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "27. 09. 2026. у 21:10",
+      "datum": "28. 09. 2026. у 12:13",
       "slika": null
     },
     {
-      "naslov": "Paunović: &quot;Sudijski kriterijum nije bio isti – penal premekan&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271270/konferencija-za-medije-veljka-paunovica-nakon-poraza-od-holandije/vest",
+      "naslov": "Iluzija elite",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271295/analiza-utakmice-srbija-holandija-i-ucinka-u-ligi-nacija-2026/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "27. 09. 2026. у 20:51",
+      "datum": "28. 09. 2026. у 08:00",
       "slika": null
     }
   ]
