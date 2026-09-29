@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-09-29T20:13:11.814893+00:00",
-  "azurirano_sr": "29. 09. 2026. у 22:13",
+  "azurirano": "2026-09-29T23:42:55.248413+00:00",
+  "azurirano_sr": "30. 09. 2026. у 01:42",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Košarkaši Partizana savladali Pariz u drugom kolu Evrolige",
+      "url": "https://www.tanjug.rs/sport/fudbal/285193/kosarkasi-partizana-savladali-pariz-u-drugom-kolu-evrolige/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 09. 2026. у 22:51",
+      "slika": null
+    },
+    {
       "naslov": "Ubedljiva pobeda Fenerbahčea protiv Bajerna u Evroligi",
       "url": "https://www.tanjug.rs/sport/fudbal/285186/ubedljiva-pobeda-fenerbahcea-protiv-bajerna-u-evroligi/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/285155/mancester-siti-nismo-krivi-za-krsenje-finansijskih-pravila-premijer-ligezalicemo-se/vest",
       "izvor": "Танјуг",
       "datum": "29. 09. 2026. у 19:19",
-      "slika": null
-    },
-    {
-      "naslov": "Mančester siti proglašen krivim za sve prekršaje finansijskih pravila Premijer lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/285146/mancester-siti-proglasen-krivim-za-sve-prekrsaje-finansijskih-pravila-premijer-lige/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 09. 2026. у 18:34",
       "slika": null
     },
     {
