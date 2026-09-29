@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-29T15:41:40.263525+00:00",
-  "azurirano_sr": "29. 09. 2026. у 17:41",
+  "azurirano": "2026-09-29T20:13:11.814893+00:00",
+  "azurirano_sr": "29. 09. 2026. у 22:13",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dalsio, Beto, Đurtus i Frankulino Đu: Divlji psi jači nego ikad, rastrgli Nigeriju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dalsio-beto-urtus-i-frankulino-u-divlji-psi-jaci-nego-ikad-rastrgli-nigeriju/555119",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 09. 2026. у 22:28",
+      "slika": null
+    },
+    {
+      "naslov": "Ekspresna reakcija Sitija: Razočarani smo i iznenađeni, postoji skup neoborivih dokaza da smo nevini",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ekspresna-reakcija-sitija-razocarani-smo-i-iznenaeni-postoji-skup-neoborivih-dokaza-da-smo-nevini/555112",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 09. 2026. у 20:52",
+      "slika": null
+    },
+    {
+      "naslov": "Tužna slika srpskog fudbala: Mađari odrali Nikolićeve omladince",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tuzna-slika-srpskog-fudbala-maari-odrali-nikoliceve-omladince/555111",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 09. 2026. у 20:43",
+      "slika": null
+    },
     {
       "naslov": "Kvinsi Menig na probi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kvinsi-menig-na-probi/555088",
@@ -11,52 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Buongiorno Italia: Premijer liga pravi razliku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-premijer-liga-pravi-razliku/555083",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 09. 2026. у 14:14",
-      "slika": null
-    },
-    {
-      "naslov": "Španija na 50 odsto svetskih trofeja u fudbalu, ali zarađuje pet puta manje od Francuske, Nemačke…",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/spanija-na-50-odsto-svetskih-trofeja-u-fudbalu-ali-zarauje-pet-puta-manje-od-francuske-nemacke/555077",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 09. 2026. у 12:33",
-      "slika": null
-    },
-    {
-      "naslov": "Pre dve godine drugoligaš, danas junak Francuske: Fabregasov dar Zidanu – Lukas da Kunja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pre-dve-godine-drugoligas-danas-junak-francuske-fabregasov-dar-zidanu-lukas-da-kunja/555076",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 09. 2026. у 12:26",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Brazila pobedili Australiju, povredio se Rafinja",
-      "url": "https://www.tanjug.rs/sport/fudbal/285035/fudbaleri-brazila-pobedili-australiju-povredio-se-rafinja/vest",
+      "naslov": "Ubedljiva pobeda Fenerbahčea protiv Bajerna u Evroligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/285186/ubedljiva-pobeda-fenerbahcea-protiv-bajerna-u-evroligi/vest",
       "izvor": "Танјуг",
-      "datum": "29. 09. 2026. у 14:17",
+      "datum": "29. 09. 2026. у 21:49",
       "slika": null
     },
     {
-      "naslov": "FIFA tužila UEFA-u sudu za širinje dezinformacija i uznemiravanje Infantina",
-      "url": "https://www.tanjug.rs/sport/fudbal/285018/fifa-tuzila-uefa-u-sudu-za-sirinje-dezinformacija-i-uznemiravanje-infantina/vest",
+      "naslov": "Omladinci Srbije poraženi od Mađarske na turniru \"Stevan Ćele Vilotić\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/285164/omladinci-srbije-porazeni-od-madarske-na-turniru-stevan-cele-vilotic/vest",
       "izvor": "Танјуг",
-      "datum": "29. 09. 2026. у 13:40",
+      "datum": "29. 09. 2026. у 20:02",
       "slika": null
     },
     {
-      "naslov": "Zidan: Odmah sam znao da će Olise dati gol, dominirali smo i zasluženo pobedili",
-      "url": "https://www.tanjug.rs/sport/fudbal/284971/zidan-odmah-sam-znao-da-ce-olise-dati-gol-dominirali-smo-i-zasluzeno-pobedili/vest",
+      "naslov": "Mančester siti: Nismo krivi za kršenje finansijskih pravila Premijer lige,žalićemo se",
+      "url": "https://www.tanjug.rs/sport/fudbal/285155/mancester-siti-nismo-krivi-za-krsenje-finansijskih-pravila-premijer-ligezalicemo-se/vest",
       "izvor": "Танјуг",
-      "datum": "29. 09. 2026. у 11:11",
+      "datum": "29. 09. 2026. у 19:19",
       "slika": null
     },
     {
-      "naslov": "Espen Eskas sudi utakmicu između fudbalera Nemačke i Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/284953/espen-eskas-sudi-utakmicu-izmedu-fudbalera-nemacke-i-srbije/vest",
+      "naslov": "Mančester siti proglašen krivim za sve prekršaje finansijskih pravila Premijer lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/285146/mancester-siti-proglasen-krivim-za-sve-prekrsaje-finansijskih-pravila-premijer-lige/vest",
       "izvor": "Танјуг",
-      "datum": "29. 09. 2026. у 10:23",
+      "datum": "29. 09. 2026. у 18:34",
+      "slika": null
+    },
+    {
+      "naslov": "Izabrao Austriju, debitovao, a onda stigla vest koja budi nadu Srbiji",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271863/vasilije-markovic-moze-da-promeni-reprezentaciju-srbija-jos-ima-sansu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 09. 2026. у 18:08",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271831/savo-pavicevic-podneo-ostavku-na-mesto-trenera-fk-spartak-subotica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "29. 09. 2026. у 17:40",
-      "slika": null
-    },
-    {
-      "naslov": "Sjajne vesti stigle u Humsku!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271851/fk-partizan-prosao-uefa-monitoring/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 09. 2026. у 17:25",
       "slika": null
     }
   ]
