@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-09-29T09:05:38.400470+00:00",
-  "azurirano_sr": "29. 09. 2026. у 11:05",
+  "azurirano": "2026-09-29T15:41:40.263525+00:00",
+  "azurirano_sr": "29. 09. 2026. у 17:41",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kvinsi Menig na probi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kvinsi-menig-na-probi/555088",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 09. 2026. у 15:26",
+      "slika": null
+    },
+    {
+      "naslov": "Buongiorno Italia: Premijer liga pravi razliku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-premijer-liga-pravi-razliku/555083",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 09. 2026. у 14:14",
+      "slika": null
+    },
     {
       "naslov": "Španija na 50 odsto svetskih trofeja u fudbalu, ali zarađuje pet puta manje od Francuske, Nemačke…",
       "url": "https://www.mozzartsport.com/fudbal/vesti/spanija-na-50-odsto-svetskih-trofeja-u-fudbalu-ali-zarauje-pet-puta-manje-od-francuske-nemacke/555077",
@@ -11,24 +25,31 @@
       "slika": null
     },
     {
-      "naslov": "Pre dve godine drugoligaš, danas junak Francuske: Fabregasov dar Zidanu – Lukas Da Kunja",
+      "naslov": "Pre dve godine drugoligaš, danas junak Francuske: Fabregasov dar Zidanu – Lukas da Kunja",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pre-dve-godine-drugoligas-danas-junak-francuske-fabregasov-dar-zidanu-lukas-da-kunja/555076",
       "izvor": "Мозарт Спорт",
       "datum": "29. 09. 2026. у 12:26",
       "slika": null
     },
     {
-      "naslov": "Najava dana (utorak, 29. septembar): Liga nacija i večiti na evroligaškoj sceni",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-29-septembar-liga-nacija-i-veciti-na-evroligaskoj-sceni/555032",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 09. 2026. у 10:20",
+      "naslov": "Fudbaleri Brazila pobedili Australiju, povredio se Rafinja",
+      "url": "https://www.tanjug.rs/sport/fudbal/285035/fudbaleri-brazila-pobedili-australiju-povredio-se-rafinja/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 09. 2026. у 14:17",
       "slika": null
     },
     {
-      "naslov": "Fudbalska odiseja Duleta Cvetinovića: Od “kude ste našli ovog Teletabisa” do čuvanja Tirama i Matete",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalska-odiseja-duleta-cvetinovica-od-kude-ste-nasli-ovog-teletabisa-do-cuvanja-tirama-i-matete/555067",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 09. 2026. у 10:16",
+      "naslov": "FIFA tužila UEFA-u sudu za širinje dezinformacija i uznemiravanje Infantina",
+      "url": "https://www.tanjug.rs/sport/fudbal/285018/fifa-tuzila-uefa-u-sudu-za-sirinje-dezinformacija-i-uznemiravanje-infantina/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 09. 2026. у 13:40",
+      "slika": null
+    },
+    {
+      "naslov": "Zidan: Odmah sam znao da će Olise dati gol, dominirali smo i zasluženo pobedili",
+      "url": "https://www.tanjug.rs/sport/fudbal/284971/zidan-odmah-sam-znao-da-ce-olise-dati-gol-dominirali-smo-i-zasluzeno-pobedili/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 09. 2026. у 11:11",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fernando Batista nije više selektor fudbalera Kostarike, Brajan Ruiz preuzma dužnost",
-      "url": "https://www.tanjug.rs/sport/fudbal/284947/fernando-batista-nije-vise-selektor-fudbalera-kostarike-brajan-ruiz-preuzma-duznost/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 09. 2026. у 10:04",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Italije ubedljivi protiv Turske, Olise doneo pobedu Francuskoj nad Belgijom",
-      "url": "https://www.tanjug.rs/sport/fudbal/284902/fudbaleri-italije-ubedljivi-protiv-turske-olise-doneo-pobedu-francuskoj-nad-belgijom/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 09. 2026. у 22:48",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Crne Gore golom u 89. minutu do pobede protiv Jermenije",
-      "url": "https://www.tanjug.rs/sport/fudbal/284858/fudbaleri-crne-gore-golom-u-89-minutu-do-pobede-protiv-jermenije/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 09. 2026. у 19:54",
-      "slika": null
-    },
-    {
-      "naslov": "Određen sudija za Nemačka – Srbija: Zvezdi je delio pravdu pred debakl",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271708/espen-eskas-glavni-sudija-meca-nemacka-srbija-u-ligi-nacija/vest",
+      "naslov": "Savo Pavićević podneo ostavku",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271831/savo-pavicevic-podneo-ostavku-na-mesto-trenera-fk-spartak-subotica/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "29. 09. 2026. у 10:50",
+      "datum": "29. 09. 2026. у 17:40",
       "slika": null
     },
     {
-      "naslov": "Nove promene u reprezentaciji Srbije!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271609/veljko-paunovic-prekomandovao-ognjena-mimovica-u-a-reprezentaciju/vest",
+      "naslov": "Sjajne vesti stigle u Humsku!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271851/fk-partizan-prosao-uefa-monitoring/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "28. 09. 2026. у 22:10",
+      "datum": "29. 09. 2026. у 17:25",
       "slika": null
     }
   ]
