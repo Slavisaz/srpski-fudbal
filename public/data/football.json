@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-09-30T02:24:09.278004+00:00",
-  "azurirano_sr": "30. 09. 2026. у 04:24",
+  "azurirano": "2026-09-30T08:44:47.741883+00:00",
+  "azurirano_sr": "30. 09. 2026. у 10:44",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kad je Stepi uhvatio Klopa sa cigarom: Da sam znao da puši… Bio je sa loptom na “ti”",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kad-je-stepi-uhvatio-klopa-sa-cigarom-da-sam-znao-da-pusi-bio-je-sa-loptom-na-ti/555158",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 09. 2026. у 12:22",
+      "slika": null
+    },
+    {
+      "naslov": "Ubijen gazda bugarskog prvoligaša",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ubijen-gazda-bugarskog-prvoligasa/555155",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 09. 2026. у 12:21",
+      "slika": null
+    },
+    {
+      "naslov": "Najava dana (sreda, 30. septembar): Evroliga uz Panatinaikos, nešto fudbala i Evrokup",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-sreda-30-septembar-evroliga-uz-panatinaikos-nesto-fudbala-i-evrokup/555086",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 09. 2026. у 10:20",
+      "slika": null
+    },
     {
       "naslov": "Dalsio, Beto, Đurtus i Frankulino Đu: Divlji psi jači nego ikad, rastrgli Nigeriju",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dalsio-beto-urtus-i-frankulino-u-divlji-psi-jaci-nego-ikad-rastrgli-nigeriju/555119",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Ekspresna reakcija Sitija: Razočarani smo i iznenađeni, postoji skup neoborivih dokaza da smo nevini",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ekspresna-reakcija-sitija-razocarani-smo-i-iznenaeni-postoji-skup-neoborivih-dokaza-da-smo-nevini/555112",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 09. 2026. у 20:52",
-      "slika": null
-    },
-    {
-      "naslov": "Tužna slika srpskog fudbala: Mađari odrali Nikolićeve omladince",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tuzna-slika-srpskog-fudbala-maari-odrali-nikoliceve-omladince/555111",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 09. 2026. у 20:43",
-      "slika": null
-    },
-    {
-      "naslov": "Kvinsi Menig na probi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kvinsi-menig-na-probi/555088",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 09. 2026. у 15:26",
+      "naslov": "Fudbaleri Španije pobedili Hrvatsku, Engleska bolja od Češke u Ligi nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/285224/fudbaleri-spanije-pobedili-hrvatsku-engleska-bolja-od-ceske-u-ligi-nacija/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 09. 2026. у 23:00",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Mančester siti: Nismo krivi za kršenje finansijskih pravila Premijer lige,žalićemo se",
-      "url": "https://www.tanjug.rs/sport/fudbal/285155/mancester-siti-nismo-krivi-za-krsenje-finansijskih-pravila-premijer-ligezalicemo-se/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 09. 2026. у 19:19",
+      "naslov": "Ljajić doneo lepe vesti za navijače Partizana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271999/rasim-ljajic-o-partizanovom-prolasku-monitoringa-od-strane-uefa/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "30. 09. 2026. у 09:47",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271863/vasilije-markovic-moze-da-promeni-reprezentaciju-srbija-jos-ima-sansu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "29. 09. 2026. у 18:08",
-      "slika": null
-    },
-    {
-      "naslov": "Savo Pavićević podneo ostavku",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/271831/savo-pavicevic-podneo-ostavku-na-mesto-trenera-fk-spartak-subotica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 09. 2026. у 17:40",
       "slika": null
     }
   ]
