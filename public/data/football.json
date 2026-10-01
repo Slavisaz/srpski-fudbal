@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-10-01T02:25:49.830533+00:00",
-  "azurirano_sr": "1. 10. 2026. у 04:25",
+  "azurirano": "2026-10-01T09:10:53.915387+00:00",
+  "azurirano_sr": "1. 10. 2026. у 11:10",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "SRBIJA – TIM ZA NEMAČKU: Palica u Tadićevim rukama, šansa za Mimovića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-tim-za-nemacku-palica-u-tadicevim-rukama-sansa-za-mimovica/555210",
+      "naslov": "Nemci na Srbiju sa moćnom napadačkom četvorkom i značajno skupljim timom nego u prva dva meča",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nemci-na-srbiju-sa-mocnom-napadackom-cetvorkom-i-znacajno-skupljim-timom-nego-u-prva-dva-meca/555235",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 09. 2026. у 23:12",
+      "datum": "1. 10. 2026. у 12:41",
       "slika": null
     },
     {
-      "naslov": "Uzbunjivač udara na Infantina: Sve je znao još 2014, pomogao Sitiju da nadmudri Istražnu komoru",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzbunjivac-udara-na-infantina-sve-je-znao-jos-2014-pomogao-sitiju-da-nadmudri-istraznu-komoru/555205",
+      "naslov": "Klop stao u odbranu crnoputih igrača: Najveći problem današnjice je što svako može da iznese mišljenje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/klop-stao-u-odbranu-crnoputih-igraca-najveci-problem-danasnjice-je-sto-svako-moze-da-iznese-misljenje/555234",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 09. 2026. у 22:51",
+      "datum": "1. 10. 2026. у 11:48",
       "slika": null
     },
     {
-      "naslov": "Jirgen Klop: Ne znam šta je problem srpskog fudbala... Volim Andriju Maksimovića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jirgen-klop-ne-znam-sta-je-problem-srpskog-fudbala-volim-andriju-maksimovica/555202",
+      "naslov": "“Nikad slabija“ Srbija protiv “mediokritetske“ Nemačke",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nikad-slabija-srbija-protiv-mediokritetske-nemacke/555230",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 09. 2026. у 22:18",
+      "datum": "1. 10. 2026. у 10:52",
       "slika": null
     },
     {
-      "naslov": "Upoznajte Janoša Žemberija… I njegov život u politici, biznisu i fudbalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/upoznajte-janosa-zemberija-i-njegov-zivot-u-politici-biznisu-i-fudbalu/555186",
+      "naslov": "Severna Koreja i fenomen ženskog fudbala: Ne za platu, nego za život u Pjongangu i ljubav druga Kima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/severna-koreja-i-fenomen-zenskog-fudbala-ne-za-platu-nego-za-zivot-u-pjongangu-i-ljubav-druga-kima/555185",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 09. 2026. у 18:02",
+      "datum": "1. 10. 2026. у 10:13",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Argentine ubedljivo pobedili Boliviju u prijateljskoj utakmici",
+      "url": "https://www.tanjug.rs/sport/fudbal/285537/fudbaleri-argentine-ubedljivo-pobedili-boliviju-u-prijateljskoj-utakmici/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 10. 2026. у 09:36",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Srbije večeras gostuju Nemačkoj u Ligi nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/285530/fudbaleri-srbije-veceras-gostuju-nemackoj-u-ligi-nacija/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 10. 2026. у 09:19",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Klop: Srbija ima veliko iskustvo i poseban mentalitet",
-      "url": "https://www.tanjug.rs/sport/fudbal/285448/klop-srbija-ima-veliko-iskustvo-i-poseban-mentalitet/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 09. 2026. у 19:38",
-      "slika": null
-    },
-    {
-      "naslov": "Paunović: Nemačka je moćna reprezentacija i želi reakciju posle lošeg starta",
-      "url": "https://www.tanjug.rs/sport/fudbal/285446/paunovic-nemacka-je-mocna-reprezentacija-i-zeli-reakciju-posle-loseg-starta/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 09. 2026. у 19:30",
+      "naslov": "Strpite se – proces traje",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272275/najava-utakmice-izmedju-srbije-i-nemacke-u-okviru-lige-nacija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 10. 2026. у 08:25",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272256/b92sport-u-minhenu-na-nemacka-srbija-javljanje-aleksandra-stajkovca/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "30. 09. 2026. у 21:21",
-      "slika": null
-    },
-    {
-      "naslov": "Paunovićev tim za Nemačku – najveća dilema zadnja linija, moguća promena formacije?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272169/potencijalni-sastav-srbije-za-duel-sa-nemackom/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "30. 09. 2026. у 20:22",
       "slika": null
     }
   ]
