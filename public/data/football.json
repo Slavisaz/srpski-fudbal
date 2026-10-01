@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-01T09:10:53.915387+00:00",
-  "azurirano_sr": "1. 10. 2026. у 11:10",
+  "azurirano": "2026-10-01T16:23:31.492892+00:00",
+  "azurirano_sr": "1. 10. 2026. у 18:23",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Alternativna istorija fudbala: Kome idu Sitijevi uspesi?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/alternativna-istorija-fudbala-kome-idu-sitijevi-uspesi/555254",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 10. 2026. у 15:36",
+      "slika": null
+    },
+    {
+      "naslov": "Buongiorno Italia: Zidanova reprezentacija vredi duplo više od Manćinijeve",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-zidanova-reprezentacija-vredi-duplo-vise-od-mancinijeve/555248",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 10. 2026. у 14:44",
+      "slika": null
+    },
     {
       "naslov": "Nemci na Srbiju sa moćnom napadačkom četvorkom i značajno skupljim timom nego u prva dva meča",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nemci-na-srbiju-sa-mocnom-napadackom-cetvorkom-i-znacajno-skupljim-timom-nego-u-prva-dva-meca/555235",
@@ -18,45 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "“Nikad slabija“ Srbija protiv “mediokritetske“ Nemačke",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nikad-slabija-srbija-protiv-mediokritetske-nemacke/555230",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 10. 2026. у 10:52",
-      "slika": null
-    },
-    {
-      "naslov": "Severna Koreja i fenomen ženskog fudbala: Ne za platu, nego za život u Pjongangu i ljubav druga Kima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/severna-koreja-i-fenomen-zenskog-fudbala-ne-za-platu-nego-za-zivot-u-pjongangu-i-ljubav-druga-kima/555185",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 10. 2026. у 10:13",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Argentine ubedljivo pobedili Boliviju u prijateljskoj utakmici",
-      "url": "https://www.tanjug.rs/sport/fudbal/285537/fudbaleri-argentine-ubedljivo-pobedili-boliviju-u-prijateljskoj-utakmici/vest",
+      "naslov": "Mirković uvrstio Bukinca, Petrovića, Vidojevića i Trifunovića u mladu reprezentaciju",
+      "url": "https://www.tanjug.rs/sport/fudbal/285778/mirkovic-uvrstio-bukinca-petrovica-vidojevica-i-trifunovica-u-mladu-reprezentaciju/vest",
       "izvor": "Танјуг",
-      "datum": "1. 10. 2026. у 09:36",
+      "datum": "1. 10. 2026. у 17:59",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Srbije večeras gostuju Nemačkoj u Ligi nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/285530/fudbaleri-srbije-veceras-gostuju-nemackoj-u-ligi-nacija/vest",
+      "naslov": "Predsednik Fudbalskog saveza Italije Đovani Malago pod istragom",
+      "url": "https://www.tanjug.rs/sport/fudbal/285775/predsednik-fudbalskog-saveza-italije-dovani-malago-pod-istragom/vest",
       "izvor": "Танјуг",
-      "datum": "1. 10. 2026. у 09:19",
+      "datum": "1. 10. 2026. у 17:46",
       "slika": null
     },
     {
-      "naslov": "Fudbaler Portugala Kristijano Ronaldo zvanično saopštio da je napustio reprezentaciju",
-      "url": "https://www.tanjug.rs/sport/fudbal/285463/fudbaler-portugala-kristijano-ronaldo-zvanicno-saopstio-da-je-napustio-reprezentaciju/vest",
+      "naslov": "Fudbalski klub Real podneo prijavu UEFA protiv Barselone zbog \"slučaja Negreira\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/285761/fudbalski-klub-real-podneo-prijavu-uefa-protiv-barselone-zbog-slucaja-negreira/vest",
       "izvor": "Танјуг",
-      "datum": "30. 09. 2026. у 21:09",
+      "datum": "1. 10. 2026. у 17:11",
       "slika": null
     },
     {
-      "naslov": "Holandski fudbaler Žan Pol van Heke neće igrati protiv Grčke i Srbije u Ligi nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/285462/holandski-fudbaler-zan-pol-van-heke-nece-igrati-protiv-grcke-i-srbije-u-ligi-nacija/vest",
+      "naslov": "Engleski fudbaler Niko O'Rajli zbog povrede neće igrati protiv Hrvatske i Češke",
+      "url": "https://www.tanjug.rs/sport/fudbal/285753/engleski-fudbaler-niko-orajli-zbog-povrede-nece-igrati-protiv-hrvatske-i-ceske/vest",
       "izvor": "Танјуг",
-      "datum": "30. 09. 2026. у 20:19",
+      "datum": "1. 10. 2026. у 17:02",
+      "slika": null
+    },
+    {
+      "naslov": "Partizan gradi internat",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272502/fk-partizan-poceo-da-gradi-internat/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 10. 2026. у 17:30",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272275/najava-utakmice-izmedju-srbije-i-nemacke-u-okviru-lige-nacija/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "1. 10. 2026. у 08:25",
-      "slika": null
-    },
-    {
-      "naslov": "B92.sport u Minhenu – za Klopa jedno pitanje, Paunović ništa ne garantuje VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272256/b92sport-u-minhenu-na-nemacka-srbija-javljanje-aleksandra-stajkovca/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "30. 09. 2026. у 21:21",
       "slika": null
     }
   ]
