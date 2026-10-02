@@ -1,41 +1,41 @@
 {
-  "azurirano": "2026-10-01T21:06:46.456292+00:00",
-  "azurirano_sr": "1. 10. 2026. у 23:06",
+  "azurirano": "2026-10-02T00:42:15.822899+00:00",
+  "azurirano_sr": "2. 10. 2026. у 02:42",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Može se i bez Ronalda, još kako može! Ramos i Bruno se igrali fudbala u Danskoj",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/moze-se-i-bez-ronalda-jos-kako-moze-ramos-i-bruno-se-igrali-fudbala-u-danskoj/555288",
+      "naslov": "Gubimo 12:0, a sudija nadoknađuje minut... (FOTO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gubimo-120-a-sudija-nadoknauje-minut-foto/555305",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 10. 2026. у 03:55",
+      "slika": null
+    },
+    {
+      "naslov": "Rezzime dana (četvrtak): Srbija nije iznenadila, Velšani iznad očekivanja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-cetvrtak-srbija-nije-iznenadila-velsani-iznad-ocekivanja/555299",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 10. 2026. у 01:44",
+      "slika": null
+    },
+    {
+      "naslov": "OCENE - SRBIJA:  Da ne beše Petrovića... Sve se svelo na jedan Kostićev beg",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ocene-srbija-da-ne-bese-petrovica-sve-se-svelo-na-jedan-kosticev-beg/555291",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 10. 2026. у 01:09",
+      "slika": null
+    },
+    {
+      "naslov": "Može se bez Ronalda, još kako može! Ramos i Bruno se igrali fudbala u Danskoj",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/moze-se-bez-ronalda-jos-kako-moze-ramos-i-bruno-se-igrali-fudbala-u-danskoj/555288",
       "izvor": "Мозарт Спорт",
       "datum": "2. 10. 2026. у 00:48",
-      "slika": null
-    },
-    {
-      "naslov": "Semafor laže u Minhenu: Nemačka - Srbija 28:1 u šutevima! “A” divizija za Orlove kao agonija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/semafor-laze-u-minhenu-nemacka-srbija-281-u-sutevima-a-divizija-za-orlove-kao-agonija/555290",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 10. 2026. у 00:34",
-      "slika": null
-    },
-    {
-      "naslov": "Poslednja prilika za spas sezone",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/poslednja-prilika-za-spas-sezone/555261",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 10. 2026. у 23:41",
-      "slika": null
-    },
-    {
-      "naslov": "Real podgrejao 'Negreiru' dokumentom na 50.000 strana! Ocinkario Barsu kod UEFA i traži hitnu istragu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/real-podgrejao-negreiru-dokumentom-na-50000-strana-ocinkario-barsu-kod-uefa-i-trazi-hitnu-istragu/555280",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 10. 2026. у 23:02",
       "slika": null
     },
     {
       "naslov": "Fudbaleri Srbije poraženi od Nemačke u Ligi nacija",
       "url": "https://www.tanjug.rs/sport/fudbal/285530/fudbaleri-srbije-porazeni-od-nemacke-u-ligi-nacija/vest",
       "izvor": "Танјуг",
-      "datum": "1. 10. 2026. у 22:39",
+      "datum": "1. 10. 2026. у 22:49",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Florijanov ples hipnotisao nedoraslu Srbiju",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272516/liga-nacija-3-kolo-a-divizije-nemacka-srbija-20/vest",
+      "naslov": "Paunović: &quot;Kod nas na Balkanu je tako –  sa kojim pravom mislimo da znamo više?&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272593/paunovic-posle-poraza-srbije-od-nemacke-moramo-da-se-promenimo-treba-nam-vreme/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 10. 2026. у 23:03",
+      "datum": "1. 10. 2026. у 23:46",
       "slika": null
     },
     {
-      "naslov": "Paunović kratak: &quot;Neke stvari se ponavljaju&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272591/izjava-veljka-paunovica-nakon-poraza-od-nemacke-u-ligi-nacija/vest",
+      "naslov": "Florijanov ples hipnotisao nedoraslu Srbiju",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272516/liga-nacija-3-kolo-a-divizije-nemacka-srbija-20/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 10. 2026. у 23:01",
+      "datum": "1. 10. 2026. у 23:36",
       "slika": null
     }
   ]
