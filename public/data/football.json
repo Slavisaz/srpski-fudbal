@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-02T12:31:36.431721+00:00",
-  "azurirano_sr": "2. 10. 2026. у 14:31",
+  "azurirano": "2026-10-02T17:59:14.472742+00:00",
+  "azurirano_sr": "2. 10. 2026. у 19:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Tenzije u Portugaliji: Sukob navijača i reakcija policije zbog Ronalda i Žezusa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tenzije-u-portugaliji-sukob-navijaca-i-reakcija-policije-zbog-ronalda-i-zezusa/555350",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 10. 2026. у 18:36",
+      "slika": null
+    },
+    {
+      "naslov": "Naravno da se umešala politika: Emirati “prete” Englezima zbog Sitija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/naravno-da-se-umesala-politika-emirati-prete-englezima-zbog-sitija/555348",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 10. 2026. у 17:33",
+      "slika": null
+    },
     {
       "naslov": "Luda ideja De Laurentisa: Ukinimo poluvreme! Neka mi liga pomogne da povećam vrednost Napolija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/luda-ideja-de-laurentisa-ukinimo-poluvreme-neka-mi-liga-pomogne-da-povecam-vrednost-napolija/555324",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Za “verujte u proces“ potrebno je malo više od 20-81",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/za-verujte-u-proces-potrebno-je-malo-vise-od-2081/555320",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 10. 2026. у 12:24",
-      "slika": null
-    },
-    {
-      "naslov": "MOZZART ANALIZZA: Zašto lopta ne ide napred i šta Srbija zapravo gradi?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mozzart-analizza-zasto-lopta-ne-ide-napred-i-sta-srbija-zapravo-gradi/555310",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 10. 2026. у 10:33",
+      "naslov": "Selektor Španije Luis de la Fuente naknadno pozvao Karlosa Espija u reprezentaciju",
+      "url": "https://www.tanjug.rs/sport/fudbal/286090/selektor-spanije-luis-de-la-fuente-naknadno-pozvao-karlosa-espija-u-reprezentaciju/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 10. 2026. у 17:56",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Litvanski arbitar Donatas Rumšas sudiće meč Holandija - Srbija u Ligi nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/285928/litvanski-arbitar-donatas-rumsas-sudice-mec-holandija-srbija-u-ligi-nacija/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 10. 2026. у 10:45",
+      "naslov": "&quot;Bomba&quot; u Superligi - bundesligaško pojačanje u Zemunu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272843/nikole-dovedan-stize-u-zemun/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 10. 2026. у 18:13",
       "slika": null
     },
     {
-      "naslov": "UEFA odredila: Evo ko sudi Srbiji protiv Holandije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272707/litvanski-arbitar-donatas-rumsas-sudi-mec-holandija-srbija-u-ln/vest",
+      "naslov": "Rastali se Zvezda i Rodrigao",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272823/crvena-zvezda-i-rodrigao-se-rastali/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 10. 2026. у 13:18",
-      "slika": null
-    },
-    {
-      "naslov": "Pet miliona od države stiže u Humsku",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272743/partizan-renovira-stadion-u-humskoj-u-obnovu-drzava-ulaze-oko-pet-miliona-evra/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 10. 2026. у 13:06",
+      "datum": "2. 10. 2026. у 17:00",
       "slika": null
     }
   ]
