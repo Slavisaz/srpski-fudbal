@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-03T21:28:17.531325+00:00",
-  "azurirano_sr": "3. 10. 2026. у 23:28",
+  "azurirano": "2026-10-03T23:58:03.017436+00:00",
+  "azurirano_sr": "4. 10. 2026. у 01:58",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Drugoligaš spakovao Jokanoviću sedam komada, Šaćiri morao u bolnicu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/drugoligas-spakovao-jokanovicu-sedam-komada-saciri-morao-u-bolnicu/555441",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 10. 2026. у 01:17",
+      "slika": null
+    },
     {
       "naslov": "Tužan trenutak ex-yu fudbala: Škoti se naigrali fudbala u Skoplju, izgubila i Slovenija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/tuzan-trenutak-exyu-fudbala-skoti-se-naigrali-fudbala-u-skoplju-izgubila-i-slovenija/555439",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-tim-za-holandiju-samardzic-od-starta-nova-sansa-za-simica/555433",
       "izvor": "Мозарт Спорт",
       "datum": "3. 10. 2026. у 22:56",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalski masakr u Rijeci: Rujevica videla najbolju Tuhelovu Englesku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalski-masakr-u-rijeci-rujevica-videla-najbolju-tuhelovu-englesku/555426",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 10. 2026. у 21:52",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Rijad Marez pronašao novi klub",
+      "url": "https://www.b92.net/sport/fudbal/vesti/273095/marez-nastavlja-karijeru-u-kataru/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "3. 10. 2026. у 23:51",
+      "slika": null
+    },
+    {
       "naslov": "Modrić posle 0:7: &quot;Prvi put osećam sram&quot;",
       "url": "https://www.b92.net/sport/fudbal/vesti/273144/modric-posle-07-prvi-put-osecam-sram/vest",
       "izvor": "Б92 Фудбал",
       "datum": "3. 10. 2026. у 23:21",
-      "slika": null
-    },
-    {
-      "naslov": "Anri čestitao Ibrahimoviću na srpskom FOTO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/273093/tijeri-anri-cestitao-zlatanu-ibrahimovicu-rodjendan-na-srpskom-jeziku/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "3. 10. 2026. у 23:06",
       "slika": null
     },
     {
