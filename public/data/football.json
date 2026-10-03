@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-03T14:53:54.378347+00:00",
-  "azurirano_sr": "3. 10. 2026. у 16:53",
+  "azurirano": "2026-10-03T18:21:31.849376+00:00",
+  "azurirano_sr": "3. 10. 2026. у 20:21",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Fudbalski masakr u Rijeci: Rujevica videla najbolju Tuhelovu Englesku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalski-masakr-u-rijeci-rujevica-videla-najbolju-tuhelovu-englesku/555426",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 10. 2026. у 21:52",
+      "slika": null
+    },
+    {
+      "naslov": "Voša napunila mrežu rumunskog drugoligaša",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vosa-napunila-mrezu-rumunskog-drugoligasa/555424",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 10. 2026. у 21:03",
+      "slika": null
+    },
     {
       "naslov": "LUDI TIKET (-), nedelja, 1.119.151 dinara: Da su omladinci bili precizniji...",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-nedelja-1119151-dinara-da-su-omladinci-bili-precizniji/555387",
@@ -11,17 +25,24 @@
       "slika": null
     },
     {
-      "naslov": "Tenzije u Portugaliji: Sukob navijača i reakcija policije zbog Ronalda i Žezusa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tenzije-u-portugaliji-sukob-navijaca-i-reakcija-policije-zbog-ronalda-i-zezusa/555350",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 10. 2026. у 18:36",
+      "naslov": "Fudbaleri Engleske pobedili Hrvatsku 7:0 i naneli joj najteži poraz u istoriji",
+      "url": "https://www.tanjug.rs/sport/fudbal/286318/fudbaleri-engleske-pobedili-hrvatsku-70-i-naneli-joj-najtezi-poraz-u-istoriji/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 10. 2026. у 19:56",
       "slika": null
     },
     {
-      "naslov": "Naravno da se umešala politika: Emirati “prete” Englezima zbog Sitija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/naravno-da-se-umesala-politika-emirati-prete-englezima-zbog-sitija/555348",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 10. 2026. у 17:33",
+      "naslov": "Fudbaleri Brazila kao gosti deklasirali Indiju u prijateljskom meču",
+      "url": "https://www.tanjug.rs/sport/fudbal/286301/fudbaleri-brazila-kao-gosti-deklasirali-indiju-u-prijateljskom-mecu/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 10. 2026. у 18:06",
+      "slika": null
+    },
+    {
+      "naslov": "Predsednik FIFA Đani Infantino biće gost kongresa Afričke fudbalske federacije",
+      "url": "https://www.tanjug.rs/sport/fudbal/286288/predsednik-fifa-dani-infantino-bice-gost-kongresa-africke-fudbalske-federacije/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 10. 2026. у 16:52",
       "slika": null
     },
     {
@@ -32,24 +53,31 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Srbije odradili trening u Minhenu pred utakmicu protiv Holandije",
-      "url": "https://www.tanjug.rs/sport/fudbal/286226/fudbaleri-srbije-odradili-trening-u-minhenu-pred-utakmicu-protiv-holandije/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 10. 2026. у 12:46",
+      "naslov": "Kejn oduševljen posle demoliranja Hrvatske: &quot;Neverovatno&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/273116/hari-kejn-izjava-engleska-pobedila-hrvatsku-70-uefa-liga-nacija/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "3. 10. 2026. у 20:20",
       "slika": null
     },
     {
-      "naslov": "Zinedin Zidan: Zadovoljan sam igrom, zaslužili smo bolji rezultat protiv Italije",
-      "url": "https://www.tanjug.rs/sport/fudbal/286212/zinedin-zidan-zadovoljan-sam-igrom-zasluzili-smo-bolji-rezultat-protiv-italije/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 10. 2026. у 12:01",
+      "naslov": "Hrvati osuli paljbu posle istorijske bruke: &quot;Ovo je bilo užasno, jadna deca...&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/273113/hrvatski-mediji-o-debaklu-reprezentacije-protiv-engleske/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "3. 10. 2026. у 20:10",
       "slika": null
     },
     {
-      "naslov": "Rafinja najbolji fudbaler španske La lige u septembru",
-      "url": "https://www.tanjug.rs/sport/fudbal/286200/rafinja-najbolji-fudbaler-spanske-la-lige-u-septembru/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 10. 2026. у 11:00",
+      "naslov": "Najteži poraz Hrvatske u istoriji – 0:7!",
+      "url": "https://www.b92.net/sport/fudbal/vesti/273077/uzivo-hrvatska-engleska-lajv-prenos/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "3. 10. 2026. у 19:48",
+      "slika": null
+    },
+    {
+      "naslov": "Tenzije u Portugaliji: Sukob navijača i reakcija policije zbog Ronalda i Žezusa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tenzije-u-portugaliji-sukob-navijaca-i-reakcija-policije-zbog-ronalda-i-zezusa/555350",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 10. 2026. у 18:36",
       "slika": null
     },
     {
@@ -71,13 +99,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272823/crvena-zvezda-i-rodrigao-se-rastali/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "2. 10. 2026. у 17:00",
-      "slika": null
-    },
-    {
-      "naslov": "Luda ideja De Laurentisa: Ukinimo poluvreme! Neka mi liga pomogne da povećam vrednost Napolija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/luda-ideja-de-laurentisa-ukinimo-poluvreme-neka-mi-liga-pomogne-da-povecam-vrednost-napolija/555324",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 10. 2026. у 14:24",
       "slika": null
     }
   ]
