@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-10-03T10:39:50.116457+00:00",
-  "azurirano_sr": "3. 10. 2026. у 12:39",
+  "azurirano": "2026-10-03T14:53:54.378347+00:00",
+  "azurirano_sr": "3. 10. 2026. у 16:53",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -25,10 +25,17 @@
       "slika": null
     },
     {
-      "naslov": "Luda ideja De Laurentisa: Ukinimo poluvreme! Neka mi liga pomogne da povećam vrednost Napolija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/luda-ideja-de-laurentisa-ukinimo-poluvreme-neka-mi-liga-pomogne-da-povecam-vrednost-napolija/555324",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 10. 2026. у 14:24",
+      "naslov": "Lidija Stojkanović objavila spisak fudbalerki Srbije za baraž sa Finskom",
+      "url": "https://www.tanjug.rs/sport/fudbal/286254/lidija-stojkanovic-objavila-spisak-fudbalerki-srbije-za-baraz-sa-finskom/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 10. 2026. у 14:40",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Srbije odradili trening u Minhenu pred utakmicu protiv Holandije",
+      "url": "https://www.tanjug.rs/sport/fudbal/286226/fudbaleri-srbije-odradili-trening-u-minhenu-pred-utakmicu-protiv-holandije/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 10. 2026. у 12:46",
       "slika": null
     },
     {
@@ -46,20 +53,6 @@
       "slika": null
     },
     {
-      "naslov": "Remi fudbalera Francuske i Italije, Belgija savladala Tursku u Ligi nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/286150/remi-fudbalera-francuske-i-italije-belgija-savladala-tursku-u-ligi-nacija/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 10. 2026. у 23:01",
-      "slika": null
-    },
-    {
-      "naslov": "Remi fudbalera Bosne i Hercegovine i Švedske na oproštaju Edina Džeka od reprezentacije",
-      "url": "https://www.tanjug.rs/sport/fudbal/286148/remi-fudbalera-bosne-i-hercegovine-i-svedske-na-oprostaju-edina-dzeka-od-reprezentacije/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 10. 2026. у 22:50",
-      "slika": null
-    },
-    {
       "naslov": "Rusi nadigrali &quot;orliće&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272872/mladi-fudbaleri-srbije-porazeni-od-rusije-u-prijateljskoj-utakmici-u-staroj-pazovi/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,6 +64,20 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272843/nikole-dovedan-stize-u-zemun/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "2. 10. 2026. у 18:13",
+      "slika": null
+    },
+    {
+      "naslov": "Rastali se Zvezda i Rodrigao",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272823/crvena-zvezda-i-rodrigao-se-rastali/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "2. 10. 2026. у 17:00",
+      "slika": null
+    },
+    {
+      "naslov": "Luda ideja De Laurentisa: Ukinimo poluvreme! Neka mi liga pomogne da povećam vrednost Napolija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/luda-ideja-de-laurentisa-ukinimo-poluvreme-neka-mi-liga-pomogne-da-povecam-vrednost-napolija/555324",
+      "izvor": "Мозарт Спорт",
+      "datum": "2. 10. 2026. у 14:24",
       "slika": null
     }
   ]
