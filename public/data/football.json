@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-10-03T18:21:31.849376+00:00",
-  "azurirano_sr": "3. 10. 2026. у 20:21",
+  "azurirano": "2026-10-03T21:28:17.531325+00:00",
+  "azurirano_sr": "3. 10. 2026. у 23:28",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Tužan trenutak ex-yu fudbala: Škoti se naigrali fudbala u Skoplju, izgubila i Slovenija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tuzan-trenutak-exyu-fudbala-skoti-se-naigrali-fudbala-u-skoplju-izgubila-i-slovenija/555439",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 10. 2026. у 00:38",
+      "slika": null
+    },
+    {
+      "naslov": "Modrić posle debakla: Ovako se ne igra fudbal, za 20 godina prvi put osećam sramotu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/modric-posle-debakla-ovako-se-ne-igra-fudbal-za-20-godina-prvi-put-osecam-sramotu/555437",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 10. 2026. у 00:21",
+      "slika": null
+    },
+    {
+      "naslov": "SRBIJA – tim za Holandiju: Samardžić od starta, nova šansa za Simića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-tim-za-holandiju-samardzic-od-starta-nova-sansa-za-simica/555433",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 10. 2026. у 22:56",
+      "slika": null
+    },
     {
       "naslov": "Fudbalski masakr u Rijeci: Rujevica videla najbolju Tuhelovu Englesku",
       "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalski-masakr-u-rijeci-rujevica-videla-najbolju-tuhelovu-englesku/555426",
@@ -11,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Voša napunila mrežu rumunskog drugoligaša",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vosa-napunila-mrezu-rumunskog-drugoligasa/555424",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 10. 2026. у 21:03",
+      "naslov": "Fudbaleri Španije pobedili Češku u Ligi nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/286337/fudbaleri-spanije-pobedili-cesku-u-ligi-nacija/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 10. 2026. у 22:42",
       "slika": null
     },
     {
-      "naslov": "LUDI TIKET (-), nedelja, 1.119.151 dinara: Da su omladinci bili precizniji...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-nedelja-1119151-dinara-da-su-omladinci-bili-precizniji/555387",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 10. 2026. у 10:00",
+      "naslov": "Slaven Bilić: Razočarani smo, žao mi je navijača i dece koja su bila na utakmici",
+      "url": "https://www.tanjug.rs/sport/fudbal/286327/slaven-bilic-razocarani-smo-zao-mi-je-navijaca-i-dece-koja-su-bila-na-utakmici/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 10. 2026. у 21:16",
+      "slika": null
+    },
+    {
+      "naslov": "Paunović: Utakmica protiv Holandije nova prilika da se popravi utisak",
+      "url": "https://www.tanjug.rs/sport/fudbal/286323/paunovic-utakmica-protiv-holandije-nova-prilika-da-se-popravi-utisak/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 10. 2026. у 20:45",
       "slika": null
     },
     {
@@ -32,52 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Brazila kao gosti deklasirali Indiju u prijateljskom meču",
-      "url": "https://www.tanjug.rs/sport/fudbal/286301/fudbaleri-brazila-kao-gosti-deklasirali-indiju-u-prijateljskom-mecu/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 10. 2026. у 18:06",
-      "slika": null
-    },
-    {
-      "naslov": "Predsednik FIFA Đani Infantino biće gost kongresa Afričke fudbalske federacije",
-      "url": "https://www.tanjug.rs/sport/fudbal/286288/predsednik-fifa-dani-infantino-bice-gost-kongresa-africke-fudbalske-federacije/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 10. 2026. у 16:52",
-      "slika": null
-    },
-    {
-      "naslov": "Lidija Stojkanović objavila spisak fudbalerki Srbije za baraž sa Finskom",
-      "url": "https://www.tanjug.rs/sport/fudbal/286254/lidija-stojkanovic-objavila-spisak-fudbalerki-srbije-za-baraz-sa-finskom/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 10. 2026. у 14:40",
-      "slika": null
-    },
-    {
-      "naslov": "Kejn oduševljen posle demoliranja Hrvatske: &quot;Neverovatno&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/273116/hari-kejn-izjava-engleska-pobedila-hrvatsku-70-uefa-liga-nacija/vest",
+      "naslov": "Modrić posle 0:7: &quot;Prvi put osećam sram&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/273144/modric-posle-07-prvi-put-osecam-sram/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "3. 10. 2026. у 20:20",
+      "datum": "3. 10. 2026. у 23:21",
       "slika": null
     },
     {
-      "naslov": "Hrvati osuli paljbu posle istorijske bruke: &quot;Ovo je bilo užasno, jadna deca...&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/273113/hrvatski-mediji-o-debaklu-reprezentacije-protiv-engleske/vest",
+      "naslov": "Anri čestitao Ibrahimoviću na srpskom FOTO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/273093/tijeri-anri-cestitao-zlatanu-ibrahimovicu-rodjendan-na-srpskom-jeziku/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "3. 10. 2026. у 20:10",
-      "slika": null
-    },
-    {
-      "naslov": "Najteži poraz Hrvatske u istoriji – 0:7!",
-      "url": "https://www.b92.net/sport/fudbal/vesti/273077/uzivo-hrvatska-engleska-lajv-prenos/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "3. 10. 2026. у 19:48",
-      "slika": null
-    },
-    {
-      "naslov": "Tenzije u Portugaliji: Sukob navijača i reakcija policije zbog Ronalda i Žezusa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tenzije-u-portugaliji-sukob-navijaca-i-reakcija-policije-zbog-ronalda-i-zezusa/555350",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 10. 2026. у 18:36",
+      "datum": "3. 10. 2026. у 23:06",
       "slika": null
     },
     {
