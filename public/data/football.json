@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-03T05:47:09.571348+00:00",
-  "azurirano_sr": "3. 10. 2026. у 07:47",
+  "azurirano": "2026-10-03T10:39:50.116457+00:00",
+  "azurirano_sr": "3. 10. 2026. у 12:39",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "LUDI TIKET (-), nedelja, 1.119.151 dinara: Da su omladinci bili precizniji...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-nedelja-1119151-dinara-da-su-omladinci-bili-precizniji/555387",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 10. 2026. у 10:00",
+      "slika": null
+    },
     {
       "naslov": "Tenzije u Portugaliji: Sukob navijača i reakcija policije zbog Ronalda i Žezusa",
       "url": "https://www.mozzartsport.com/fudbal/vesti/tenzije-u-portugaliji-sukob-navijaca-i-reakcija-policije-zbog-ronalda-i-zezusa/555350",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Kakve Spartance ima Jovanović: Povređen i neće da izađe sa terena?! Šta ću mu?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kakve-spartance-ima-jovanovic-povreen-i-nece-da-izae-sa-terena-sta-cu-mu/555322",
-      "izvor": "Мозарт Спорт",
-      "datum": "2. 10. 2026. у 12:45",
+      "naslov": "Zinedin Zidan: Zadovoljan sam igrom, zaslužili smo bolji rezultat protiv Italije",
+      "url": "https://www.tanjug.rs/sport/fudbal/286212/zinedin-zidan-zadovoljan-sam-igrom-zasluzili-smo-bolji-rezultat-protiv-italije/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 10. 2026. у 12:01",
+      "slika": null
+    },
+    {
+      "naslov": "Rafinja najbolji fudbaler španske La lige u septembru",
+      "url": "https://www.tanjug.rs/sport/fudbal/286200/rafinja-najbolji-fudbaler-spanske-la-lige-u-septembru/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 10. 2026. у 11:00",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/286148/remi-fudbalera-bosne-i-hercegovine-i-svedske-na-oprostaju-edina-dzeka-od-reprezentacije/vest",
       "izvor": "Танјуг",
       "datum": "2. 10. 2026. у 22:50",
-      "slika": null
-    },
-    {
-      "naslov": "Crvena zvezda raskinula ugovor sa brazilskim fudbalerom Rodrigaom",
-      "url": "https://www.tanjug.rs/sport/fudbal/286125/crvena-zvezda-raskinula-ugovor-sa-brazilskim-fudbalerom-rodrigaom/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 10. 2026. у 20:23",
-      "slika": null
-    },
-    {
-      "naslov": "Mladi fudbaleri Srbije poraženi od Rusije u prijateljskoj utakmici u Staroj Pazovi",
-      "url": "https://www.tanjug.rs/sport/fudbal/286119/mladi-fudbaleri-srbije-porazeni-od-rusije-u-prijateljskoj-utakmici-u-staroj-pazovi/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 10. 2026. у 20:14",
       "slika": null
     },
     {
