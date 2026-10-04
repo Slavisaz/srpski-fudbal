@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-04T04:13:50.238196+00:00",
-  "azurirano_sr": "4. 10. 2026. у 06:13",
+  "azurirano": "2026-10-04T10:34:46.231074+00:00",
+  "azurirano_sr": "4. 10. 2026. у 12:34",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Najava dana (nedelja, 4. oktobar): Srbija, Zvezda i Đoković u centru sportskog dana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-nedelja-4-oktobar-srbija-zvezda-i-okovic-u-centru-sportskog-dana/555413",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 10. 2026. у 09:52",
+      "slika": null
+    },
     {
       "naslov": "Drugoligaš spakovao Jokanoviću sedam komada, Šaćiri morao u bolnicu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/drugoligas-spakovao-jokanovicu-sedam-komada-saciri-morao-u-bolnicu/555441",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "SRBIJA – tim za Holandiju: Samardžić od starta, nova šansa za Simića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-tim-za-holandiju-samardzic-od-starta-nova-sansa-za-simica/555433",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 10. 2026. у 22:56",
+      "naslov": "Fudbaleri Argentine ubedljivo pobedili Burkinu Faso, SAD savladale Meksiko",
+      "url": "https://www.tanjug.rs/sport/fudbal/286397/fudbaleri-argentine-ubedljivo-pobedili-burkinu-faso-sad-savladale-meksiko/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 10. 2026. у 09:56",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Srbije igraju večeras protiv Holandije u Ligi nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/286393/fudbaleri-srbije-igraju-veceras-protiv-holandije-u-ligi-nacija/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 10. 2026. у 09:38",
+      "slika": null
+    },
+    {
+      "naslov": "JSD Partizan danas slavi 81. rođendan",
+      "url": "https://www.tanjug.rs/sport/fudbal/286384/jsd-partizan-danas-slavi-81-rodendan/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 10. 2026. у 09:06",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Slaven Bilić: Razočarani smo, žao mi je navijača i dece koja su bila na utakmici",
-      "url": "https://www.tanjug.rs/sport/fudbal/286327/slaven-bilic-razocarani-smo-zao-mi-je-navijaca-i-dece-koja-su-bila-na-utakmici/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 10. 2026. у 21:16",
+      "naslov": "Šta je smislio selektor za kraj bolnog ciklusa?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273089/najava-utakmice-holandija-srbija-u-4-kolu-a-lige-nacija-2026/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 10. 2026. у 10:00",
       "slika": null
     },
     {
-      "naslov": "Paunović: Utakmica protiv Holandije nova prilika da se popravi utisak",
-      "url": "https://www.tanjug.rs/sport/fudbal/286323/paunovic-utakmica-protiv-holandije-nova-prilika-da-se-popravi-utisak/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 10. 2026. у 20:45",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Engleske pobedili Hrvatsku 7:0 i naneli joj najteži poraz u istoriji",
-      "url": "https://www.tanjug.rs/sport/fudbal/286318/fudbaleri-engleske-pobedili-hrvatsku-70-i-naneli-joj-najtezi-poraz-u-istoriji/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 10. 2026. у 19:56",
-      "slika": null
-    },
-    {
-      "naslov": "Rijad Marez pronašao novi klub",
-      "url": "https://www.b92.net/sport/fudbal/vesti/273095/marez-nastavlja-karijeru-u-kataru/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "3. 10. 2026. у 23:51",
-      "slika": null
-    },
-    {
-      "naslov": "Modrić posle 0:7: &quot;Prvi put osećam sram&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/273144/modric-posle-07-prvi-put-osecam-sram/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "3. 10. 2026. у 23:21",
+      "naslov": "Partizan slavi 81. rođendan",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273174/jsd-partizan-danas-slavi-81-rodjendan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 10. 2026. у 09:45",
       "slika": null
     },
     {
@@ -78,20 +78,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272872/mladi-fudbaleri-srbije-porazeni-od-rusije-u-prijateljskoj-utakmici-u-staroj-pazovi/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "2. 10. 2026. у 20:05",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Bomba&quot; u Superligi - bundesligaško pojačanje u Zemunu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272843/nikole-dovedan-stize-u-zemun/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 10. 2026. у 18:13",
-      "slika": null
-    },
-    {
-      "naslov": "Rastali se Zvezda i Rodrigao",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272823/crvena-zvezda-i-rodrigao-se-rastali/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 10. 2026. у 17:00",
       "slika": null
     }
   ]
