@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-10-04T10:34:46.231074+00:00",
-  "azurirano_sr": "4. 10. 2026. у 12:34",
+  "azurirano": "2026-10-04T15:28:51.689471+00:00",
+  "azurirano_sr": "4. 10. 2026. у 17:28",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbija na Holandiju bez Kostova, Sukačeva i Džodića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-na-holandiju-bez-kostova-sukaceva-i-dzodica/555479",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 10. 2026. у 18:53",
+      "slika": null
+    },
+    {
+      "naslov": "Skaloni u susret Mesijevom odlasku: Ništa više neće biti isto",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/skaloni-u-susret-mesijevom-odlasku-nista-vise-nece-biti-isto/555477",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 10. 2026. у 18:25",
+      "slika": null
+    },
+    {
+      "naslov": "Ameri imaju novu veliku zvezdu! Najmlađi strelac u istoriji reprezentacije, Siti ga kaparisao još sa 14",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ameri-imaju-novu-veliku-zvezdu-najmlai-strelac-u-istoriji-reprezentacije-siti-ga-kaparisao-jos-sa-14/555463",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 10. 2026. у 14:44",
+      "slika": null
+    },
     {
       "naslov": "Najava dana (nedelja, 4. oktobar): Srbija, Zvezda i Đoković u centru sportskog dana",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-nedelja-4-oktobar-srbija-zvezda-i-okovic-u-centru-sportskog-dana/555413",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Drugoligaš spakovao Jokanoviću sedam komada, Šaćiri morao u bolnicu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/drugoligas-spakovao-jokanovicu-sedam-komada-saciri-morao-u-bolnicu/555441",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 10. 2026. у 01:17",
+      "naslov": "Košarkaši Reala pobedili Obradoiro uoči duela sa Partizanom u Evroligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/286460/kosarkasi-reala-pobedili-obradoiro-uoci-duela-sa-partizanom-u-evroligi/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 10. 2026. у 15:03",
       "slika": null
     },
     {
-      "naslov": "Tužan trenutak ex-yu fudbala: Škoti se naigrali fudbala u Skoplju, izgubila i Slovenija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tuzan-trenutak-exyu-fudbala-skoti-se-naigrali-fudbala-u-skoplju-izgubila-i-slovenija/555439",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 10. 2026. у 00:38",
-      "slika": null
-    },
-    {
-      "naslov": "Modrić posle debakla: Ovako se ne igra fudbal, za 20 godina prvi put osećam sramotu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/modric-posle-debakla-ovako-se-ne-igra-fudbal-za-20-godina-prvi-put-osecam-sramotu/555437",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 10. 2026. у 00:21",
+      "naslov": "Zidan: Imao sam sreću da treniram Ronalda, pomogao mi je da osvojim mnogo trofeja",
+      "url": "https://www.tanjug.rs/sport/fudbal/286448/zidan-imao-sam-srecu-da-treniram-ronalda-pomogao-mi-je-da-osvojim-mnogo-trofeja/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 10. 2026. у 14:16",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "JSD Partizan danas slavi 81. rođendan",
-      "url": "https://www.tanjug.rs/sport/fudbal/286384/jsd-partizan-danas-slavi-81-rodendan/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 10. 2026. у 09:06",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Španije pobedili Češku u Ligi nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/286337/fudbaleri-spanije-pobedili-cesku-u-ligi-nacija/vest",
-      "izvor": "Танјуг",
-      "datum": "3. 10. 2026. у 22:42",
+      "naslov": "Rođendansko saopštenje Partizana: &quot;Bilo je turbulentno, ali...&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273267/rodjendansko-saopstenje-partizana-bilo-je-turbulentno-ali/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 10. 2026. у 15:00",
       "slika": null
     },
     {
@@ -64,20 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273089/najava-utakmice-holandija-srbija-u-4-kolu-a-lige-nacija-2026/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 10. 2026. у 10:00",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan slavi 81. rođendan",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273174/jsd-partizan-danas-slavi-81-rodjendan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 10. 2026. у 09:45",
-      "slika": null
-    },
-    {
-      "naslov": "Rusi nadigrali &quot;orliće&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/272872/mladi-fudbaleri-srbije-porazeni-od-rusije-u-prijateljskoj-utakmici-u-staroj-pazovi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 10. 2026. у 20:05",
       "slika": null
     }
   ]
