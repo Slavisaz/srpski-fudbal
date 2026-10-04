@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-04T18:43:26.929555+00:00",
-  "azurirano_sr": "4. 10. 2026. у 20:43",
+  "azurirano": "2026-10-04T21:57:15.450016+00:00",
+  "azurirano_sr": "4. 10. 2026. у 23:57",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "OCENE - SRBIJA: Tako se kalio čelik! Tadićevo još nije prošlo, a Cvetkovićevo vreme je došlo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ocene-srbija-tako-se-kalio-celik-tadicevo-jos-nije-proslo-a-cvetkovicevo-vreme-je-doslo/555516",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 10. 2026. у 01:28",
+      "slika": null
+    },
+    {
+      "naslov": "Tadić: Cvetković i Gudelj za svetlu budućnost srpskog fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tadic-cvetkovic-i-gudelj-za-svetlu-buducnost-srpskog-fudbala/555513",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 10. 2026. у 00:57",
+      "slika": null
+    },
     {
       "naslov": "Trener otišao, agonija ostala: Spartak kod kuće primio šest komada od doskorašnjeg srpskoligaša",
       "url": "https://www.mozzartsport.com/fudbal/vesti/trener-otisao-agonija-ostala-spartak-kod-kuce-primio-sest-komada-od-doskorasnjeg-srpskoligasa/555495",
@@ -11,24 +25,17 @@
       "slika": null
     },
     {
-      "naslov": "SASTAVI: Holandija - Srbija, Stefan Gudelj od starta, Cvetković u napadu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sastavi-holandija-srbija-stefan-gudelj-od-starta-cvetkovic-u-napadu/555491",
+      "naslov": "KRAJ: Holandija - Srbija 2:1",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-holandija-srbija-21/555491",
       "izvor": "Мозарт Спорт",
       "datum": "4. 10. 2026. у 21:34",
       "slika": null
     },
     {
-      "naslov": "Srbija na Holandiju bez Kostova, Sukačeva i Džodića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-na-holandiju-bez-kostova-sukaceva-i-dzodica/555479",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 10. 2026. у 18:53",
-      "slika": null
-    },
-    {
-      "naslov": "Skaloni u susret Mesijevom odlasku: Ništa više neće biti isto",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/skaloni-u-susret-mesijevom-odlasku-nista-vise-nece-biti-isto/555477",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 10. 2026. у 18:25",
+      "naslov": "Fudbaleri Srbije poraženi od Holandije, domaćin u Ajndhovenu \"odbranio\" pobedu",
+      "url": "https://www.tanjug.rs/sport/fudbal/286550/fudbaleri-srbije-porazeni-od-holandije-domacin-u-ajndhovenu-odbranio-pobedu/vest",
+      "izvor": "Танјуг",
+      "datum": "4. 10. 2026. у 22:44",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Zidan: Imao sam sreću da treniram Ronalda, pomogao mi je da osvojim mnogo trofeja",
-      "url": "https://www.tanjug.rs/sport/fudbal/286448/zidan-imao-sam-srecu-da-treniram-ronalda-pomogao-mi-je-da-osvojim-mnogo-trofeja/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 10. 2026. у 14:16",
+      "naslov": "Prvenac za Srbiju, pa reči kapitena: Tadić posebno pohvalio Cvetkovića, pa dobio odgovor",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273361/dusan-tadic-i-mihajlo-cvetkovic-izjave-posle-poraza-srbije-od-holandije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 10. 2026. у 23:04",
       "slika": null
     },
     {
-      "naslov": "Natho: &quot;Trebao sam da budem direktor Partizana&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273306/izjava-bibarsa-natha-o-partizanu-i-reprezentaciji-izraela/vest",
+      "naslov": "Paunović besan zbog suđenja: &quot;Holandiji nije potrebna takva pomoć!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273362/izjava-veljka-paunovica-posle-utakmice-holandija-srbija-21/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 10. 2026. у 18:26",
-      "slika": null
-    },
-    {
-      "naslov": "Paunović &quot;precrtao&quot; još trojicu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273300/veljko-paunovic-ne-racuna-na-vasilija-kostova-petra-sukaceva-i-stefana-dzodica-protiv-holandije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 10. 2026. у 17:58",
+      "datum": "4. 10. 2026. у 23:02",
       "slika": null
     }
   ]
