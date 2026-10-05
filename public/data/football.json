@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-05T12:59:53.304113+00:00",
-  "azurirano_sr": "5. 10. 2026. у 14:59",
+  "azurirano": "2026-10-05T21:09:55.417250+00:00",
+  "azurirano_sr": "5. 10. 2026. у 23:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbi i Rusi na ivici tuče: Orlići poravnali račune",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbi-i-rusi-na-ivici-tuce-orlici-poravnali-racune/555573",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 10. 2026. у 21:59",
+      "slika": null
+    },
     {
       "naslov": "Špic južnoameričkog kova: Romario – Lautaro... Cvetković je nešto između",
       "url": "https://www.mozzartsport.com/fudbal/vesti/spic-juznoamerickog-kova-romario-lautaro-cvetkovic-je-nesto-izmeu/555550",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Raport sa srpskoligaških terena: Duplo slavlje u Užicu, Timok se baš razgoropadio",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/raport-sa-srpskoligaskih-terena-duplo-slavlje-u-uzicu-timok-se-bas-razgoropadio/555534",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 10. 2026. у 11:24",
+      "naslov": "Mlada fudbalska reprezentacija Srbije savladala Rusiju u prijateljskom meču",
+      "url": "https://www.tanjug.rs/sport/fudbal/286845/mlada-fudbalska-reprezentacija-srbije-savladala-rusiju-u-prijateljskom-mecu/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 10. 2026. у 20:23",
+      "slika": null
+    },
+    {
+      "naslov": "Paunović propušta meč protiv Nemačke zbog žutih kartona: Sudija u Ajndhovenu me pogrešno razumeo",
+      "url": "https://www.tanjug.rs/sport/fudbal/286820/paunovic-propusta-mec-protiv-nemacke-zbog-zutih-kartona-sudija-u-ajndhovenu-me-pogresno-razumeo/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 10. 2026. у 18:31",
+      "slika": null
+    },
+    {
+      "naslov": "FK Crvena zvezda: Uz podršku navijača i pozitivnu tradiciju protiv Danaca čekamo okršaj sa Kopenhagenom",
+      "url": "https://www.tanjug.rs/sport/fudbal/286760/fk-crvena-zvezda-uz-podrsku-navijaca-i-pozitivnu-tradiciju-protiv-danaca-cekamo-okrsaj-sa-kopenhagenom/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 10. 2026. у 15:25",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Proensa: Ronaldo predstavlja najveći simbol portugalskog identiteta",
-      "url": "https://www.tanjug.rs/sport/fudbal/286649/proensa-ronaldo-predstavlja-najveci-simbol-portugalskog-identiteta/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 10. 2026. у 12:08",
-      "slika": null
-    },
-    {
-      "naslov": "Rašović: Oradea je odlična ekipa, pred nama nije nimalo lak zadatak",
-      "url": "https://www.tanjug.rs/sport/fudbal/286636/rasovic-oradea-je-odlicna-ekipa-pred-nama-nije-nimalo-lak-zadatak/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 10. 2026. у 11:36",
-      "slika": null
-    },
-    {
-      "naslov": "Engleski fudbaler Aleks Skot zbog povrede propušta meč sa Češkom u Ligi nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/286615/engleski-fudbaler-aleks-skot-zbog-povrede-propusta-mec-sa-ceskom-u-ligi-nacija/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 10. 2026. у 10:49",
-      "slika": null
-    },
-    {
-      "naslov": "Paunović već ima glavobolje zbog novembra",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273556/srbija-bez-dvojice-vezista-protiv-nemacke-lukic-i-maksimovic-suspendovani/vest",
+      "naslov": "Kerkez u Bačkoj Topoli",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273674/milos-kerkez-uzivo-gledao-tsc-graficar/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 10. 2026. у 14:43",
+      "datum": "5. 10. 2026. у 20:37",
       "slika": null
     },
     {
-      "naslov": "Stigla potvrda iz Humske – renoviranje stadiona počinje za 45 dana?!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273546/partizan-krece-u-renoviranje-stadiona-radovi-bi-mogli-da-pocnu-za-45-dana/vest",
+      "naslov": "&quot;Svima je lako da igraju sa Tadićem&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273508/lazar-samardzic-izjava-posle-poraza-srbije-od-holandije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 10. 2026. у 14:17",
+      "datum": "5. 10. 2026. у 15:10",
       "slika": null
     }
   ]
