@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-04T21:57:15.450016+00:00",
-  "azurirano_sr": "4. 10. 2026. у 23:57",
+  "azurirano": "2026-10-05T00:23:31.546624+00:00",
+  "azurirano_sr": "5. 10. 2026. у 02:23",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Jovanovićev bod zlata vredan: Nemačka, Holandija, ali i Srbija – jako kvalitetne reprezentacije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jovanovicev-bod-zlata-vredan-nemacka-holandija-ali-i-srbija-jako-kvalitetne-reprezentacije/555519",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 10. 2026. у 02:52",
+      "slika": null
+    },
+    {
+      "naslov": "Ćavi: Srbija nema bod, ali ima top tim",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cavi-srbija-nema-bod-ali-ima-top-tim/555518",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 10. 2026. у 01:44",
+      "slika": null
+    },
     {
       "naslov": "OCENE - SRBIJA: Tako se kalio čelik! Tadićevo još nije prošlo, a Cvetkovićevo vreme je došlo",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ocene-srbija-tako-se-kalio-celik-tadicevo-jos-nije-proslo-a-cvetkovicevo-vreme-je-doslo/555516",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/tadic-cvetkovic-i-gudelj-za-svetlu-buducnost-srpskog-fudbala/555513",
       "izvor": "Мозарт Спорт",
       "datum": "5. 10. 2026. у 00:57",
-      "slika": null
-    },
-    {
-      "naslov": "Trener otišao, agonija ostala: Spartak kod kuće primio šest komada od doskorašnjeg srpskoligaša",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/trener-otisao-agonija-ostala-spartak-kod-kuce-primio-sest-komada-od-doskorasnjeg-srpskoligasa/555495",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 10. 2026. у 21:59",
-      "slika": null
-    },
-    {
-      "naslov": "KRAJ: Holandija - Srbija 2:1",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-holandija-srbija-21/555491",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 10. 2026. у 21:34",
       "slika": null
     },
     {
