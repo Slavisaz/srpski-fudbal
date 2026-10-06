@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-06T15:03:09.091665+00:00",
-  "azurirano_sr": "6. 10. 2026. у 17:03",
+  "azurirano": "2026-10-06T20:08:34.531020+00:00",
+  "azurirano_sr": "6. 10. 2026. у 22:08",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Gordon? Na istom je nivou kao Jamal! Kad sam prvi put video Rodrija, bio je sitan, ali...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gordon-na-istom-je-nivou-kao-jamal-kad-sam-prvi-put-video-rodrija-bio-je-sitan-ali/555646",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 10. 2026. у 19:36",
+      "slika": null
+    },
     {
       "naslov": "Dan kad mu je cela Engleska oprostila",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dan-kad-mu-je-cela-engleska-oprostila/555628",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Početak Zizuove ere obećava: Fudbal koji volimo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pocetak-zizuove-ere-obecava-fudbal-koji-volimo/555601",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 10. 2026. у 11:58",
+      "naslov": "UEFA prati razvoj situacije i razmatra eventualne pravne korake protiv Mančester sitija",
+      "url": "https://www.tanjug.rs/sport/fudbal/287161/uefa-prati-razvoj-situacije-i-razmatra-eventualne-pravne-korake-protiv-mancester-sitija/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 10. 2026. у 18:31",
       "slika": null
     },
     {
@@ -46,17 +53,31 @@
       "slika": null
     },
     {
+      "naslov": "Novi odlazak iz Partizana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273824/nebojsa-avramovic-napustio-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "6. 10. 2026. у 19:48",
+      "slika": null
+    },
+    {
+      "naslov": "Muk na &quot;Poljudu&quot; – Španija izjednačila protiv Hrvatske!",
+      "url": "https://www.b92.net/sport/fudbal/vesti/273906/a-liga-nacija-4-kolo-hrvatska-spanija-uzivo-prenos-gde-gledati/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "6. 10. 2026. у 22:03",
+      "slika": null
+    },
+    {
+      "naslov": "Iz &quot;slobodnjaka&quot; u večnost – Son novi rekorder Koreje VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/273893/iz-slobodnjaka-u-vecnost-son-novi-rekorder-koreje-video/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "6. 10. 2026. у 21:55",
+      "slika": null
+    },
+    {
       "naslov": "Mlada fudbalska reprezentacija Srbije savladala Rusiju u prijateljskom meču",
       "url": "https://www.tanjug.rs/sport/fudbal/286845/mlada-fudbalska-reprezentacija-srbije-savladala-rusiju-u-prijateljskom-mecu/vest",
       "izvor": "Танјуг",
       "datum": "5. 10. 2026. у 20:23",
-      "slika": null
-    },
-    {
-      "naslov": "Paunović propušta meč protiv Nemačke zbog žutih kartona: Sudija u Ajndhovenu me pogrešno razumeo",
-      "url": "https://www.tanjug.rs/sport/fudbal/286820/paunovic-propusta-mec-protiv-nemacke-zbog-zutih-kartona-sudija-u-ajndhovenu-me-pogresno-razumeo/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 10. 2026. у 18:31",
       "slika": null
     },
     {
@@ -67,24 +88,10 @@
       "slika": null
     },
     {
-      "naslov": "&quot;Ja sam već bogat, ne moram da trčim&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/273784/ja-sam-vec-bogat-ne-moram-da-trcim/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "6. 10. 2026. у 16:40",
-      "slika": null
-    },
-    {
       "naslov": "&quot;Svima je lako da igraju sa Tadićem&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273508/lazar-samardzic-izjava-posle-poraza-srbije-od-holandije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "5. 10. 2026. у 15:10",
-      "slika": null
-    },
-    {
-      "naslov": "Paunović već ima glavobolje zbog novembra",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273556/srbija-bez-dvojice-vezista-protiv-nemacke-lukic-i-maksimovic-suspendovani/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "5. 10. 2026. у 14:43",
       "slika": null
     }
   ]
