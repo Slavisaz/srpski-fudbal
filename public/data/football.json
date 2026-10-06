@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-05T21:09:55.417250+00:00",
-  "azurirano_sr": "5. 10. 2026. у 23:09",
+  "azurirano": "2026-10-06T01:40:36.127847+00:00",
+  "azurirano_sr": "6. 10. 2026. у 03:40",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Rezzime dana (ponedeljak): Liga nacija nije sekirazzija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-ponedeljak-liga-nacija-nije-sekirazzija/555578",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 10. 2026. у 23:34",
+      "slika": null
+    },
     {
       "naslov": "Srbi i Rusi na ivici tuče: Orlići poravnali račune",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbi-i-rusi-na-ivici-tuce-orlici-poravnali-racune/555573",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Konačno ponovo u srpskom fudbalu: Vladimir Jugović preuzeo sportsku politiku Vojvodine",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/konacno-ponovo-u-srpskom-fudbalu-vladimir-jugovic-preuzeo-sportsku-politiku-vojvodine/555539",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 10. 2026. у 11:48",
+      "naslov": "Olise i Due doneli preokret Francuskoj protiv Belgije, Italija savladala Tursku u Ligi nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/286873/olise-i-due-doneli-preokret-francuskoj-protiv-belgije-italija-savladala-tursku-u-ligi-nacija/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 10. 2026. у 22:48",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/286760/fk-crvena-zvezda-uz-podrsku-navijaca-i-pozitivnu-tradiciju-protiv-danaca-cekamo-okrsaj-sa-kopenhagenom/vest",
       "izvor": "Танјуг",
       "datum": "5. 10. 2026. у 15:25",
-      "slika": null
-    },
-    {
-      "naslov": "Ezri Konsa zbog povrede napustio kamp reprezentacije Engleske",
-      "url": "https://www.tanjug.rs/sport/fudbal/286670/ezri-konsa-zbog-povrede-napustio-kamp-reprezentacije-engleske/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 10. 2026. у 12:41",
       "slika": null
     },
     {
