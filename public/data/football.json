@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-10-06T08:06:37.117358+00:00",
-  "azurirano_sr": "6. 10. 2026. у 10:06",
+  "azurirano": "2026-10-06T15:03:09.091665+00:00",
+  "azurirano_sr": "6. 10. 2026. у 17:03",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Dok drugi ulažu u nekretnine, Mesi kupuje klubove po Španiji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dok-drugi-ulazu-u-nekretnine-mesi-kupuje-klubove-po-spaniji/555598",
+      "naslov": "Dan kad mu je cela Engleska oprostila",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dan-kad-mu-je-cela-engleska-oprostila/555628",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 10. 2026. у 11:35",
+      "datum": "6. 10. 2026. у 15:56",
       "slika": null
     },
     {
-      "naslov": "Najava dana (utorak, 6. oktobar): Liga nacija je na tapetu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-6-oktobar-liga-nacija-je-na-tapetu/555559",
+      "naslov": "Ajserik: Vlahović nema kvalitet za Barsu ili Juventus",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ajserik-vlahovic-nema-kvalitet-za-barsu-ili-juventus/555617",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 10. 2026. у 10:20",
+      "datum": "6. 10. 2026. у 14:06",
       "slika": null
     },
     {
-      "naslov": "Rezzime dana (ponedeljak): Liga nacija nije sekirazzija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-ponedeljak-liga-nacija-nije-sekirazzija/555578",
+      "naslov": "Odeš u Arabiju i zaboraviš na fudbal: Što da treniram kad sam bogat čovek",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/odes-u-arabiju-i-zaboravis-na-fudbal-sto-da-treniram-kad-sam-bogat-covek/555606",
       "izvor": "Мозарт Спорт",
-      "datum": "5. 10. 2026. у 23:34",
+      "datum": "6. 10. 2026. у 12:25",
       "slika": null
     },
     {
-      "naslov": "Srbi i Rusi na ivici tuče: Orlići poravnali račune",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbi-i-rusi-na-ivici-tuce-orlici-poravnali-racune/555573",
+      "naslov": "Početak Zizuove ere obećava: Fudbal koji volimo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pocetak-zizuove-ere-obecava-fudbal-koji-volimo/555601",
       "izvor": "Мозарт Спорт",
-      "datum": "5. 10. 2026. у 21:59",
+      "datum": "6. 10. 2026. у 11:58",
+      "slika": null
+    },
+    {
+      "naslov": "Srpski fudbaler Dušan Vlahović biće spreman za meč Bešiktaša i Kodžaelija",
+      "url": "https://www.tanjug.rs/sport/fudbal/286950/srpski-fudbaler-dusan-vlahovic-bice-spreman-za-mec-besiktasa-i-kodzaelija/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 10. 2026. у 10:49",
       "slika": null
     },
     {
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "FK Crvena zvezda: Uz podršku navijača i pozitivnu tradiciju protiv Danaca čekamo okršaj sa Kopenhagenom",
-      "url": "https://www.tanjug.rs/sport/fudbal/286760/fk-crvena-zvezda-uz-podrsku-navijaca-i-pozitivnu-tradiciju-protiv-danaca-cekamo-okrsaj-sa-kopenhagenom/vest",
-      "izvor": "Танјуг",
-      "datum": "5. 10. 2026. у 15:25",
-      "slika": null
-    },
-    {
       "naslov": "Kerkez u Bačkoj Topoli",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273674/milos-kerkez-uzivo-gledao-tsc-graficar/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,10 +67,24 @@
       "slika": null
     },
     {
+      "naslov": "&quot;Ja sam već bogat, ne moram da trčim&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/273784/ja-sam-vec-bogat-ne-moram-da-trcim/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "6. 10. 2026. у 16:40",
+      "slika": null
+    },
+    {
       "naslov": "&quot;Svima je lako da igraju sa Tadićem&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273508/lazar-samardzic-izjava-posle-poraza-srbije-od-holandije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "5. 10. 2026. у 15:10",
+      "slika": null
+    },
+    {
+      "naslov": "Paunović već ima glavobolje zbog novembra",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273556/srbija-bez-dvojice-vezista-protiv-nemacke-lukic-i-maksimovic-suspendovani/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "5. 10. 2026. у 14:43",
       "slika": null
     }
   ]
