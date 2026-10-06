@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-06T01:40:36.127847+00:00",
-  "azurirano_sr": "6. 10. 2026. у 03:40",
+  "azurirano": "2026-10-06T08:06:37.117358+00:00",
+  "azurirano_sr": "6. 10. 2026. у 10:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dok drugi ulažu u nekretnine, Mesi kupuje klubove po Španiji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dok-drugi-ulazu-u-nekretnine-mesi-kupuje-klubove-po-spaniji/555598",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 10. 2026. у 11:35",
+      "slika": null
+    },
+    {
+      "naslov": "Najava dana (utorak, 6. oktobar): Liga nacija je na tapetu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-6-oktobar-liga-nacija-je-na-tapetu/555559",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 10. 2026. у 10:20",
+      "slika": null
+    },
     {
       "naslov": "Rezzime dana (ponedeljak): Liga nacija nije sekirazzija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-ponedeljak-liga-nacija-nije-sekirazzija/555578",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbi-i-rusi-na-ivici-tuce-orlici-poravnali-racune/555573",
       "izvor": "Мозарт Спорт",
       "datum": "5. 10. 2026. у 21:59",
-      "slika": null
-    },
-    {
-      "naslov": "Špic južnoameričkog kova: Romario – Lautaro... Cvetković je nešto između",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/spic-juznoamerickog-kova-romario-lautaro-cvetkovic-je-nesto-izmeu/555550",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 10. 2026. у 15:22",
-      "slika": null
-    },
-    {
-      "naslov": "Predsednikovo viđenje: Ronaldo i Žezus su povezani 'pupčanom vrpcom', desio se nesporazum...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/predsednikovo-vienje-ronaldo-i-zezus-su-povezani-pupcanom-vrpcom-desio-se-nesporazum/555538",
-      "izvor": "Мозарт Спорт",
-      "datum": "5. 10. 2026. у 12:04",
       "slika": null
     },
     {
