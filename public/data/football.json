@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-10-07T02:42:22.054258+00:00",
-  "azurirano_sr": "7. 10. 2026. у 04:42",
+  "azurirano": "2026-10-07T09:15:44.518098+00:00",
+  "azurirano_sr": "7. 10. 2026. у 11:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Mađari osam godina veruju istom selektoru, može li Srbija Paunoviću da pokloni makar pet za proces?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/maari-osam-godina-veruju-istom-selektoru-moze-li-srbija-paunovicu-da-pokloni-makar-pet-za-proces/555693",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 10. 2026. у 12:46",
+      "slika": null
+    },
+    {
+      "naslov": "Posle četiri kola Srbija na poziciji za baraž",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/posle-cetiri-kola-srbija-na-poziciji-za-baraz/555672",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 10. 2026. у 11:55",
+      "slika": null
+    },
+    {
+      "naslov": "Najava dana (sreda, 7. oktobar): Nešto fudbala, Evroliga i vaterpolo uz Novi Beograd",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-sreda-7-oktobar-nesto-fudbala-evroliga-i-vaterpolo-uz-novi-beograd/555633",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 10. 2026. у 10:20",
+      "slika": null
+    },
     {
       "naslov": "Argentina pre i posle Mesija: Četiri trofeja i rekordi koji govore više od reči",
       "url": "https://www.mozzartsport.com/fudbal/vesti/argentina-pre-i-posle-mesija-cetiri-trofeja-i-rekordi-koji-govore-vise-od-reci/555679",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Leov oproštaj uz žestoke uvrede: Monumental se okrenuo protiv predsednika Saveza",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/leov-oprostaj-uz-zestoke-uvrede-monumental-se-okrenuo-protiv-predsednika-saveza/555675",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 10. 2026. у 04:07",
+      "naslov": "Mesijeve emotivne reči nakon oproštaja od Argentine: Bila je čast, ostvario sam snove",
+      "url": "https://www.tanjug.rs/sport/fudbal/287270/mesijeve-emotivne-reci-nakon-oprostaja-od-argentine-bila-je-cast-ostvario-sam-snove/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 10. 2026. у 08:20",
       "slika": null
     },
     {
-      "naslov": "Velikani ispratili Mesija u penziju: Ronaldinjo, Nejmar, Suarez, Modrić... I helikopter iznad Rosarija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/velikani-ispratili-mesija-u-penziju-ronaldinjo-nejmar-suarez-modric-i-helikopter-iznad-rosarija/555674",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 10. 2026. у 03:36",
-      "slika": null
-    },
-    {
-      "naslov": "Kejnovo veče na Vembliju - jedan rekord podebljan, drugi izjednačen! Poraz Češke slavi i Srbija...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kejnovo-vece-na-vembliju-jedan-rekord-podebljan-drugi-izjednacen-poraz-ceske-slavi-i-srbija/555669",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 10. 2026. у 00:50",
+      "naslov": "Mesi sa oprostio od Argentine golom i sa dve asistencije u pobedi protiv Benina",
+      "url": "https://www.tanjug.rs/sport/fudbal/287260/mesi-sa-oprostio-od-argentine-golom-i-sa-dve-asistencije-u-pobedi-protiv-benina/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 10. 2026. у 06:53",
       "slika": null
     },
     {
@@ -46,45 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Kristijano Ronaldo: Ako budem fizički spreman, spreman sam da pobeđujem za reprezentaciju",
-      "url": "https://www.tanjug.rs/sport/fudbal/287217/kristijano-ronaldo-ako-budem-fizicki-spreman-spreman-sam-da-pobedujem-za-reprezentaciju/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 10. 2026. у 22:15",
-      "slika": null
-    },
-    {
-      "naslov": "UEFA prati razvoj situacije i razmatra eventualne pravne korake protiv Mančester sitija",
-      "url": "https://www.tanjug.rs/sport/fudbal/287161/uefa-prati-razvoj-situacije-i-razmatra-eventualne-pravne-korake-protiv-mancester-sitija/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 10. 2026. у 18:31",
-      "slika": null
-    },
-    {
-      "naslov": "Novi odlazak iz Partizana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273824/nebojsa-avramovic-napustio-partizan/vest",
+      "naslov": "Verovali ili ne – Srbija bliža ostanku u A diviziji Lige nacija",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274107/stanje-na-tabeli-lige-nacija-posle-4-kola-i-borba-srbije-za-baraz/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "6. 10. 2026. у 19:48",
+      "datum": "7. 10. 2026. у 10:38",
       "slika": null
     },
     {
-      "naslov": "Novi skandal trese FIFA: Neregistrovan fudbaler igrao Mundijal?!",
-      "url": "https://www.b92.net/sport/fudbal/vesti/273910/lionel-mpasi-iz-dr-konga-igrao-neregistrovan-na-mundijalu-2026/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "6. 10. 2026. у 23:55",
-      "slika": null
-    },
-    {
-      "naslov": "Kerkez u Bačkoj Topoli",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273674/milos-kerkez-uzivo-gledao-tsc-graficar/vest",
+      "naslov": "Vratio se Rijerin čovek od poverenja",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274044/rade-krunic-se-oporavio-od-povrede/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 10. 2026. у 20:37",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Svima je lako da igraju sa Tadićem&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/273508/lazar-samardzic-izjava-posle-poraza-srbije-od-holandije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "5. 10. 2026. у 15:10",
+      "datum": "7. 10. 2026. у 09:36",
       "slika": null
     }
   ]
