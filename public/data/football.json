@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-10-08T07:20:14.909674+00:00",
-  "azurirano_sr": "8. 10. 2026. у 09:20",
+  "azurirano": "2026-10-08T14:39:44.988059+00:00",
+  "azurirano_sr": "8. 10. 2026. у 16:39",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Ilija Stolica: Jesmo li mi brzi ili vešti? I kakav fudbal želimo da igramo? Jer od toga sve polazi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ilija-stolica-jesmo-li-mi-brzi-ili-vesti-i-kakav-fudbal-zelimo-da-igramo-jer-od-toga-sve-polazi/555615",
+      "naslov": "Romario podržava Kristijana: Što da trpi sramotu drugi put? Trebalo je da otera selektora dođavola",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/romario-podrzava-kristijana-sto-da-trpi-sramotu-drugi-put-trebalo-je-da-otera-selektora-doavola/555779",
       "izvor": "Мозарт Спорт",
-      "datum": "8. 10. 2026. у 09:59",
+      "datum": "8. 10. 2026. у 17:23",
       "slika": null
     },
     {
-      "naslov": "Od čelnika i trenera večitih, preko sedmorice selektora, do sportskog direktora Vojvodine",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/od-celnika-i-trenera-vecitih-preko-sedmorice-selektora-do-sportskog-direktora-vojvodine/555725",
+      "naslov": "Žoze Murinjo: Fudbal doživljava transformaciju, ne evoluciju, tri godine u Realu kao 30",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zoze-murinjo-fudbal-dozivljava-transformaciju-ne-evoluciju-tri-godine-u-realu-kao-30/555775",
       "izvor": "Мозарт Спорт",
-      "datum": "7. 10. 2026. у 20:02",
+      "datum": "8. 10. 2026. у 16:52",
       "slika": null
     },
     {
-      "naslov": "Aleksandar Stanković: Probao sam krišom da ponovim tatin gol sa centra, ali mnogo je teško",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/aleksandar-stankovic-probao-sam-krisom-da-ponovim-tatin-gol-sa-centra-ali-mnogo-je-tesko/555724",
+      "naslov": "Vošin zaokret u sportskoj politici, povratak korenima i gde je tu Vladimir Jugović",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vosin-zaokret-u-sportskoj-politici-povratak-korenima-i-gde-je-tu-vladimir-jugovic/555768",
       "izvor": "Мозарт Спорт",
-      "datum": "7. 10. 2026. у 19:45",
+      "datum": "8. 10. 2026. у 15:51",
       "slika": null
     },
     {
-      "naslov": "David Silva se vratio iz penzije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/david-silva-se-vratio-iz-penzije/555716",
+      "naslov": "Buongiorno Italia: Koliko vredi Pio Espozito – 100.000.000 evra?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-koliko-vredi-pio-espozito-100000000-evra/555769",
       "izvor": "Мозарт Спорт",
-      "datum": "7. 10. 2026. у 17:01",
+      "datum": "8. 10. 2026. у 15:36",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaler Intera Kurtis Džons zbog povrede neće igrati oko tri nedelje",
+      "url": "https://www.tanjug.rs/sport/fudbal/287798/fudbaler-intera-kurtis-dzons-zbog-povrede-nece-igrati-oko-tri-nedelje/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 10. 2026. у 15:45",
       "slika": null
     },
     {
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Ubedljiva pobeda košarkaša Spartaka protiv Rasta Fehte na startu Lige šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/287574/ubedljiva-pobeda-kosarkasa-spartaka-protiv-rasta-fehte-na-startu-lige-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 10. 2026. у 22:01",
-      "slika": null
-    },
-    {
       "naslov": "Istorijski dan za srpski fudbal: Otvorena prva Akademija za školovanje sportskih radnika",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274309/fudbalski-savez-regiona-zapadne-srbije-otvorio-je-prvu-akademiju-za-skolovanje-sportskih-radnika-u-srbiji/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,6 +71,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274301/svecano-otvoren-teren-andrija-delibasic-u-sc-partizan-teleoptik/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "7. 10. 2026. у 19:32",
+      "slika": null
+    },
+    {
+      "naslov": "Zbiljić: &quot;Zvezda će se sigurno ljutiti...&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274182/dragoljub-zbiljic-o-dolasku-jugovica-u-vojvodinu-zvezda-ce-se-ljutiti/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "7. 10. 2026. у 14:10",
       "slika": null
     }
   ]
