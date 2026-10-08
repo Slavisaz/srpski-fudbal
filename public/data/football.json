@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-08T01:11:31.325560+00:00",
-  "azurirano_sr": "8. 10. 2026. у 03:11",
+  "azurirano": "2026-10-08T07:20:14.909674+00:00",
+  "azurirano_sr": "8. 10. 2026. у 09:20",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ilija Stolica: Jesmo li mi brzi ili vešti? I kakav fudbal želimo da igramo? Jer od toga sve polazi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ilija-stolica-jesmo-li-mi-brzi-ili-vesti-i-kakav-fudbal-zelimo-da-igramo-jer-od-toga-sve-polazi/555615",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 10. 2026. у 09:59",
+      "slika": null
+    },
     {
       "naslov": "Od čelnika i trenera večitih, preko sedmorice selektora, do sportskog direktora Vojvodine",
       "url": "https://www.mozzartsport.com/fudbal/vesti/od-celnika-i-trenera-vecitih-preko-sedmorice-selektora-do-sportskog-direktora-vojvodine/555725",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/david-silva-se-vratio-iz-penzije/555716",
       "izvor": "Мозарт Спорт",
       "datum": "7. 10. 2026. у 17:01",
-      "slika": null
-    },
-    {
-      "naslov": "Jugović objasnio zašto baš Voša: Zbiljić bio najkonkretniji i postavio najjednostavnije pitanje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jugovic-objasnio-zasto-bas-vosa-zbiljic-bio-najkonkretniji-i-postavio-najjednostavnije-pitanje/555707",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 10. 2026. у 14:59",
       "slika": null
     },
     {
