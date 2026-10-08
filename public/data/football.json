@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-10-07T21:29:35.084716+00:00",
-  "azurirano_sr": "7. 10. 2026. у 23:29",
+  "azurirano": "2026-10-08T01:11:31.325560+00:00",
+  "azurirano_sr": "8. 10. 2026. у 03:11",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Deklan Rajs blizu dogovora sa Arsenalom o novom ugovoru",
+      "url": "https://www.tanjug.rs/sport/fudbal/287593/deklan-rajs-blizu-dogovora-sa-arsenalom-o-novom-ugovoru/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 10. 2026. у 23:33",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaler Ajaksa Kasper Dolberg uspešno operisan",
+      "url": "https://www.tanjug.rs/sport/fudbal/287590/fudbaler-ajaksa-kasper-dolberg-uspesno-operisan/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 10. 2026. у 23:12",
+      "slika": null
+    },
+    {
       "naslov": "Mesi: Već mi nedostaje igranje za reprezentaciju, ali znam da donosim pravu odluku",
       "url": "https://www.tanjug.rs/sport/fudbal/287580/mesi-vec-mi-nedostaje-igranje-za-reprezentaciju-ali-znam-da-donosim-pravu-odluku/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/287574/ubedljiva-pobeda-kosarkasa-spartaka-protiv-rasta-fehte-na-startu-lige-sampiona/vest",
       "izvor": "Танјуг",
       "datum": "7. 10. 2026. у 22:01",
-      "slika": null
-    },
-    {
-      "naslov": "Nekadašnji švajcarski fudbaler Ramon Vega najavio kandidaturu za predsednika FIFA",
-      "url": "https://www.tanjug.rs/sport/fudbal/287550/nekadasnji-svajcarski-fudbaler-ramon-vega-najavio-kandidaturu-za-predsednika-fifa/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 10. 2026. у 20:01",
-      "slika": null
-    },
-    {
-      "naslov": "Zvanično otvorena prva Akademija za školovanje sportskih radnika u srpskom fudbalu",
-      "url": "https://www.tanjug.rs/sport/fudbal/287539/zvanicno-otvorena-prva-akademija-za-skolovanje-sportskih-radnika-u-srpskom-fudbalu/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 10. 2026. у 19:32",
       "slika": null
     },
     {
