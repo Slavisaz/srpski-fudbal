@@ -1,34 +1,55 @@
 {
-  "azurirano": "2026-10-09T06:13:39.295307+00:00",
-  "azurirano_sr": "9. 10. 2026. у 08:13",
+  "azurirano": "2026-10-09T13:15:47.742024+00:00",
+  "azurirano_sr": "9. 10. 2026. у 15:15",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "MVP Jorgandžija: Šej Gildžes Aleksander kupio akcije Atletiko Madrida",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mvp-jorgandzija-sej-gildzes-aleksander-kupio-akcije-atletiko-madrida/555821",
+      "naslov": "Vraća nam se klupski fudbal: Besni Enfild čeka “fantastični“ Siti, FlaFlu derbi u Riju, goreće i u Atini",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vraca-nam-se-klupski-fudbal-besni-enfild-ceka-fantasticni-siti-flaflu-derbi-u-riju-gorece-i-u-atini/555834",
       "izvor": "Мозарт Спорт",
-      "datum": "9. 10. 2026. у 04:01",
+      "datum": "9. 10. 2026. у 12:01",
       "slika": null
     },
     {
-      "naslov": "Almerija blindira Srbina - ugovor do 2032, otkupna klauzula 40.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/almerija-blindira-srbina-ugovor-do-2032-otkupna-klauzula-40000000-evra/555814",
+      "naslov": "Čista blagodet ili atentat na fudbal - 30 godina od prvog Bosmanovog transfera",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cista-blagodet-ili-atentat-na-fudbal-30-godina-od-prvog-bosmanovog-transfera/555820",
       "izvor": "Мозарт Спорт",
-      "datum": "9. 10. 2026. у 01:00",
+      "datum": "9. 10. 2026. у 11:50",
       "slika": null
     },
     {
-      "naslov": "Infantina teraju iz FIFA, svi hoće da Čeferin ostane u UEFA - i četvrti put",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/infantina-teraju-iz-fifa-svi-hoce-da-ceferin-ostane-u-uefa-i-cetvrti-put/555792",
+      "naslov": "Najbolje ocenjeni: Petru Sukačevu prva etapa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najbolje-ocenjeni-petru-sukacevu-prva-etapa/555828",
       "izvor": "Мозарт Спорт",
-      "datum": "8. 10. 2026. у 21:00",
+      "datum": "9. 10. 2026. у 10:57",
       "slika": null
     },
     {
-      "naslov": "Kraj jedne od najčudnijih karijera u modernom fudbalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-jedne-od-najcudnijih-karijera-u-modernom-fudbalu/555772",
+      "naslov": "Najava dana (petak, 9. oktobar): Lige petice ponovo u akciji, a tu je i Evroliga",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-petak-9-oktobar-lige-petice-ponovo-u-akciji-a-tu-je-i-evroliga/555774",
       "izvor": "Мозарт Спорт",
-      "datum": "8. 10. 2026. у 18:05",
+      "datum": "9. 10. 2026. у 10:20",
+      "slika": null
+    },
+    {
+      "naslov": "Srpski fudbaler Nemanja Radonjić potpisao za Čukarički",
+      "url": "https://www.tanjug.rs/sport/fudbal/288049/srpski-fudbaler-nemanja-radonjic-potpisao-za-cukaricki/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 10. 2026. у 13:17",
+      "slika": null
+    },
+    {
+      "naslov": "Mladi fudbaleri Danske igraće protiv Holandije u baražu za EURO 2027",
+      "url": "https://www.tanjug.rs/sport/fudbal/288017/mladi-fudbaleri-danske-igrace-protiv-holandije-u-barazu-za-euro-2027/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 10. 2026. у 12:13",
+      "slika": null
+    },
+    {
+      "naslov": "Fridkin grupa želi da proda većinski paket akcija Fudbalskog kluba Everton",
+      "url": "https://www.tanjug.rs/sport/fudbal/287986/fridkin-grupa-zeli-da-proda-vecinski-paket-akcija-fudbalskog-kluba-everton/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 10. 2026. у 10:33",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Ćavi Espart dogovorio produženje ugovora sa Barselonom do 2030. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/287895/cavi-espart-dogovorio-produzenje-ugovora-sa-barselonom-do-2030-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 10. 2026. у 21:37",
+      "naslov": "Konačno – Nemanja Radonjić našao novi klub!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274806/nemanja-radonjic-u-cukarickom/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 10. 2026. у 12:16",
       "slika": null
     },
     {
       "naslov": "FSS: Žreb parova 1/16 finala Kupa Srbije 12. oktobra",
-      "url": "https://www.tanjug.rs/sport/fudbal/287846/fss-zreb-parova-116-finala-kupa-srbije-12-oktobra/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 10. 2026. у 18:05",
-      "slika": null
-    },
-    {
-      "naslov": "Čeferin prihvatio da se kandiduje za novi mandat na čelu UEFA",
-      "url": "https://www.tanjug.rs/sport/fudbal/287823/ceferin-prihvatio-da-se-kandiduje-za-novi-mandat-na-celu-uefa/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 10. 2026. у 17:49",
-      "slika": null
-    },
-    {
-      "naslov": "Holanđani prate vezistu Partizana: &quot;Dobro se razvija, ali...&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274599/aleks-zekovic-na-skeneru-holandskih-medija/vest",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274604/fss-zreb-parova-116-finala-kupa-srbije-12-oktobra/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "8. 10. 2026. у 19:45",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Iznenađen sam što Bahar nije uspeo u Zvezdi&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274402/idan-vered-o-baraku-baharu-na-klupi-crvene-zvezde/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "8. 10. 2026. у 18:31",
+      "datum": "8. 10. 2026. у 21:57",
       "slika": null
     }
   ]
