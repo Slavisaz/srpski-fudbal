@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-08T20:06:21.125559+00:00",
-  "azurirano_sr": "8. 10. 2026. у 22:06",
+  "azurirano": "2026-10-09T00:16:26.014113+00:00",
+  "azurirano_sr": "9. 10. 2026. у 02:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Almerija blindira Srbina - ugovor do 2032, otkupna klauzula 40.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/almerija-blindira-srbina-ugovor-do-2032-otkupna-klauzula-40000000-evra/555814",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 10. 2026. у 01:00",
+      "slika": null
+    },
     {
       "naslov": "Infantina teraju iz FIFA, svi hoće da Čeferin ostane u UEFA - i četvrti put",
       "url": "https://www.mozzartsport.com/fudbal/vesti/infantina-teraju-iz-fifa-svi-hoce-da-ceferin-ostane-u-uefa-i-cetvrti-put/555792",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Žoze Murinjo: Fudbal doživljava transformaciju, ne evoluciju, tri godine u Realu kao 30",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zoze-murinjo-fudbal-dozivljava-transformaciju-ne-evoluciju-tri-godine-u-realu-kao-30/555775",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 10. 2026. у 16:52",
+      "naslov": "Ćavi Espart dogovorio produženje ugovora sa Barselonom do 2030. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/287895/cavi-espart-dogovorio-produzenje-ugovora-sa-barselonom-do-2030-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 10. 2026. у 21:37",
       "slika": null
     },
     {
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Deklan Rajs blizu dogovora sa Arsenalom o novom ugovoru",
-      "url": "https://www.tanjug.rs/sport/fudbal/287593/deklan-rajs-blizu-dogovora-sa-arsenalom-o-novom-ugovoru/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 10. 2026. у 23:33",
-      "slika": null
-    },
-    {
       "naslov": "Holanđani prate vezistu Partizana: &quot;Dobro se razvija, ali...&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274599/aleks-zekovic-na-skeneru-holandskih-medija/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274402/idan-vered-o-baraku-baharu-na-klupi-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "8. 10. 2026. у 18:31",
-      "slika": null
-    },
-    {
-      "naslov": "Istorijski dan za srpski fudbal: Otvorena prva Akademija za školovanje sportskih radnika",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274309/fudbalski-savez-regiona-zapadne-srbije-otvorio-je-prvu-akademiju-za-skolovanje-sportskih-radnika-u-srbiji/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 10. 2026. у 19:45",
       "slika": null
     }
   ]
