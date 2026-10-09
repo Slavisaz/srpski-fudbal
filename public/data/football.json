@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-10-09T13:15:47.742024+00:00",
-  "azurirano_sr": "9. 10. 2026. у 15:15",
+  "azurirano": "2026-10-09T18:50:05.217112+00:00",
+  "azurirano_sr": "9. 10. 2026. у 20:50",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbija izgubila u Finskoj, juriće dva gola zaostatka u Staroj Pazovi i ostanak u trci za Mundijal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-izgubila-u-finskoj-jurice-dva-gola-zaostatka-u-staroj-pazovi-i-ostanak-u-trci-za-mundijal/555878",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 10. 2026. у 22:14",
+      "slika": null
+    },
+    {
+      "naslov": "Otvorio se Kike Setjen: U Barsi sam imao igrače od 80.000.000 evra koji ne razumeju fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/otvorio-se-kike-setjen-u-barsi-sam-imao-igrace-od-80000000-evra-koji-ne-razumeju-fudbal/555875",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 10. 2026. у 20:58",
+      "slika": null
+    },
+    {
+      "naslov": "Kostov i dalje među deset najvrednijih igrača sveta do 18 godina, Cvetkovićev bum u najavi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kostov-i-dalje-meu-deset-najvrednijih-igraca-sveta-do-18-godina-cvetkovicev-bum-u-najavi/555861",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 10. 2026. у 19:45",
+      "slika": null
+    },
     {
       "naslov": "Vraća nam se klupski fudbal: Besni Enfild čeka “fantastični“ Siti, FlaFlu derbi u Riju, goreće i u Atini",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vraca-nam-se-klupski-fudbal-besni-enfild-ceka-fantasticni-siti-flaflu-derbi-u-riju-gorece-i-u-atini/555834",
@@ -11,66 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Čista blagodet ili atentat na fudbal - 30 godina od prvog Bosmanovog transfera",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cista-blagodet-ili-atentat-na-fudbal-30-godina-od-prvog-bosmanovog-transfera/555820",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 10. 2026. у 11:50",
-      "slika": null
-    },
-    {
-      "naslov": "Najbolje ocenjeni: Petru Sukačevu prva etapa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najbolje-ocenjeni-petru-sukacevu-prva-etapa/555828",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 10. 2026. у 10:57",
-      "slika": null
-    },
-    {
-      "naslov": "Najava dana (petak, 9. oktobar): Lige petice ponovo u akciji, a tu je i Evroliga",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-petak-9-oktobar-lige-petice-ponovo-u-akciji-a-tu-je-i-evroliga/555774",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 10. 2026. у 10:20",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Nemanja Radonjić potpisao za Čukarički",
-      "url": "https://www.tanjug.rs/sport/fudbal/288049/srpski-fudbaler-nemanja-radonjic-potpisao-za-cukaricki/vest",
+      "naslov": "Vićenco Montela nije više selektor fudbalera Turske",
+      "url": "https://www.tanjug.rs/sport/fudbal/288247/vicenco-montela-nije-vise-selektor-fudbalera-turske/vest",
       "izvor": "Танјуг",
-      "datum": "9. 10. 2026. у 13:17",
+      "datum": "9. 10. 2026. у 20:33",
       "slika": null
     },
     {
-      "naslov": "Mladi fudbaleri Danske igraće protiv Holandije u baražu za EURO 2027",
-      "url": "https://www.tanjug.rs/sport/fudbal/288017/mladi-fudbaleri-danske-igrace-protiv-holandije-u-barazu-za-euro-2027/vest",
+      "naslov": "Fudbalerke Srbije poražene od Finske u prvom meču polufinala baraža za Svetsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/288235/fudbalerke-srbije-porazene-od-finske-u-prvom-mecu-polufinala-baraza-za-svetsko-prvenstvo/vest",
       "izvor": "Танјуг",
-      "datum": "9. 10. 2026. у 12:13",
+      "datum": "9. 10. 2026. у 19:47",
       "slika": null
     },
     {
-      "naslov": "Fridkin grupa želi da proda većinski paket akcija Fudbalskog kluba Everton",
-      "url": "https://www.tanjug.rs/sport/fudbal/287986/fridkin-grupa-zeli-da-proda-vecinski-paket-akcija-fudbalskog-kluba-everton/vest",
+      "naslov": "UEFA kaznila Fudbalski savez Srbije sa 129.500 evra, protiv Nemačke uz ograničeno prisustvo publike",
+      "url": "https://www.tanjug.rs/sport/fudbal/288223/uefa-kaznila-fudbalski-savez-srbije-sa-129500-evra-protiv-nemacke-uz-ograniceno-prisustvo-publike/vest",
       "izvor": "Танјуг",
-      "datum": "9. 10. 2026. у 10:33",
+      "datum": "9. 10. 2026. у 18:52",
       "slika": null
     },
     {
-      "naslov": "Nastavlja se fudbalska Superliga Srbije: Zvezda u Kragujevcu, Partizan čeka Pazarce",
-      "url": "https://www.tanjug.rs/sport/fudbal/287947/nastavlja-se-fudbalska-superliga-srbije-zvezda-u-kragujevcu-partizan-ceka-pazarce/vest",
+      "naslov": "Rijera: Radnički je fizički jaka ekipa koja mnogo trči, znam Dudića iz Slovenije",
+      "url": "https://www.tanjug.rs/sport/fudbal/288195/rijera-radnicki-je-fizicki-jaka-ekipa-koja-mnogo-trci-znam-dudica-iz-slovenije/vest",
       "izvor": "Танјуг",
-      "datum": "9. 10. 2026. у 08:07",
+      "datum": "9. 10. 2026. у 17:52",
       "slika": null
     },
     {
-      "naslov": "Konačno – Nemanja Radonjić našao novi klub!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274806/nemanja-radonjic-u-cukarickom/vest",
+      "naslov": "Srbija poražena u Finskoj: Milivojević vratila nadu, ali &quot;orlice&quot; čeka težak zadatak u revanšu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274972/srbija-porazena-od-finske-u-barazu-za-svetsko-prvenstvo/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 10. 2026. у 12:16",
+      "datum": "9. 10. 2026. у 19:57",
       "slika": null
     },
     {
-      "naslov": "FSS: Žreb parova 1/16 finala Kupa Srbije 12. oktobra",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274604/fss-zreb-parova-116-finala-kupa-srbije-12-oktobra/vest",
+      "naslov": "Bivši napadač Partizana: &quot;Barak Bahar me je slagao!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274958/djordje-jovanovic-o-partizanu-makabi-haifi-i-baraku-baharu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "8. 10. 2026. у 21:57",
+      "datum": "9. 10. 2026. у 19:20",
       "slika": null
     }
   ]
