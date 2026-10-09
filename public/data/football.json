@@ -1,11 +1,11 @@
 {
-  "azurirano": "2026-10-09T18:50:05.217112+00:00",
-  "azurirano_sr": "9. 10. 2026. у 20:50",
+  "azurirano": "2026-10-09T22:55:53.115844+00:00",
+  "azurirano_sr": "10. 10. 2026. у 00:55",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Srbija izgubila u Finskoj, juriće dva gola zaostatka u Staroj Pazovi i ostanak u trci za Mundijal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-izgubila-u-finskoj-jurice-dva-gola-zaostatka-u-staroj-pazovi-i-ostanak-u-trci-za-mundijal/555878",
+      "naslov": "Srbija izgubila u Finskoj, juriće dva gola zaostatka u Pazovi i ostanak u trci za Mundijal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-izgubila-u-finskoj-jurice-dva-gola-zaostatka-u-pazovi-i-ostanak-u-trci-za-mundijal/555878",
       "izvor": "Мозарт Спорт",
       "datum": "9. 10. 2026. у 22:14",
       "slika": null
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Remi fudbalera Borusije i Verdera u petom kolu Bundeslige",
+      "url": "https://www.tanjug.rs/sport/fudbal/288268/remi-fudbalera-borusije-i-verdera-u-petom-kolu-bundeslige/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 10. 2026. у 22:44",
+      "slika": null
+    },
+    {
       "naslov": "Vićenco Montela nije više selektor fudbalera Turske",
       "url": "https://www.tanjug.rs/sport/fudbal/288247/vicenco-montela-nije-vise-selektor-fudbalera-turske/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Rijera: Radnički je fizički jaka ekipa koja mnogo trči, znam Dudića iz Slovenije",
-      "url": "https://www.tanjug.rs/sport/fudbal/288195/rijera-radnicki-je-fizicki-jaka-ekipa-koja-mnogo-trci-znam-dudica-iz-slovenije/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 10. 2026. у 17:52",
+      "naslov": "Kakva čast – Kostov u top 10 najvrednijih mladih igrača na svetu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274945/kakva-cast-kostov-u-top-10-najvrednijih-mladih-igraca-na-svetu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 10. 2026. у 21:16",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274972/srbija-porazena-od-finske-u-barazu-za-svetsko-prvenstvo/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "9. 10. 2026. у 19:57",
-      "slika": null
-    },
-    {
-      "naslov": "Bivši napadač Partizana: &quot;Barak Bahar me je slagao!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/274958/djordje-jovanovic-o-partizanu-makabi-haifi-i-baraku-baharu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "9. 10. 2026. у 19:20",
       "slika": null
     }
   ]
