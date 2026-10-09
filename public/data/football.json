@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-09T00:16:26.014113+00:00",
-  "azurirano_sr": "9. 10. 2026. у 02:16",
+  "azurirano": "2026-10-09T06:13:39.295307+00:00",
+  "azurirano_sr": "9. 10. 2026. у 08:13",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "MVP Jorgandžija: Šej Gildžes Aleksander kupio akcije Atletiko Madrida",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mvp-jorgandzija-sej-gildzes-aleksander-kupio-akcije-atletiko-madrida/555821",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 10. 2026. у 04:01",
+      "slika": null
+    },
     {
       "naslov": "Almerija blindira Srbina - ugovor do 2032, otkupna klauzula 40.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/almerija-blindira-srbina-ugovor-do-2032-otkupna-klauzula-40000000-evra/555814",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Romario podržava Kristijana: Što da trpi sramotu drugi put? Trebalo je da otera selektora dođavola",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/romario-podrzava-kristijana-sto-da-trpi-sramotu-drugi-put-trebalo-je-da-otera-selektora-doavola/555779",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 10. 2026. у 17:23",
+      "naslov": "Nastavlja se fudbalska Superliga Srbije: Zvezda u Kragujevcu, Partizan čeka Pazarce",
+      "url": "https://www.tanjug.rs/sport/fudbal/287947/nastavlja-se-fudbalska-superliga-srbije-zvezda-u-kragujevcu-partizan-ceka-pazarce/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 10. 2026. у 08:07",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/287823/ceferin-prihvatio-da-se-kandiduje-za-novi-mandat-na-celu-uefa/vest",
       "izvor": "Танјуг",
       "datum": "8. 10. 2026. у 17:49",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Intera Kurtis Džons zbog povrede neće igrati oko tri nedelje",
-      "url": "https://www.tanjug.rs/sport/fudbal/287798/fudbaler-intera-kurtis-dzons-zbog-povrede-nece-igrati-oko-tri-nedelje/vest",
-      "izvor": "Танјуг",
-      "datum": "8. 10. 2026. у 15:45",
       "slika": null
     },
     {
