@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-10T18:44:33.943148+00:00",
-  "azurirano_sr": "10. 10. 2026. у 20:44",
+  "azurirano": "2026-10-10T22:00:11.439156+00:00",
+  "azurirano_sr": "11. 10. 2026. у 00:00",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Gonzalez: Mesi je naša snaga, dođite i uživajte u ovom što je ostalo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/gonzalez-mesi-je-nasa-snaga-doite-i-uzivajte-u-ovom-sto-je-ostalo/555937",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 10. 2026. у 00:14",
+      "slika": null
+    },
+    {
+      "naslov": "Rijera: Komplikujemo fudbal, zapitajte se šta sam uradio na poluvremenu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rijera-komplikujemo-fudbal-zapitajte-se-sta-sam-uradio-na-poluvremenu/555982",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 10. 2026. у 23:21",
+      "slika": null
+    },
     {
       "naslov": "Inter se uželeo fudbala, Parma mu sama otvorila vrata",
       "url": "https://www.mozzartsport.com/fudbal/vesti/inter-se-uzeleo-fudbala-parma-mu-sama-otvorila-vrata/555971",
@@ -18,59 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Dinamu ništa ne pomaže: Džaba kijamet na Poljudu i nadoknada od 16 minuta, Hajduk ponovo na vrhu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dinamu-nista-ne-pomaze-dzaba-kijamet-na-poljudu-i-nadoknada-od-16-minuta-hajduk-ponovo-na-vrhu/555947",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 10. 2026. у 19:19",
-      "slika": null
-    },
-    {
-      "naslov": "Srbi ispisali istoriju: Južni Melburn srušio Viktori u finalu Kupa Australije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbi-ispisali-istoriju-juzni-melburn-srusio-viktori-u-finalu-kupa-australije/555952",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 10. 2026. у 19:02",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Lugana pobedili Lucern pred utakmicu protiv Crvene zvezde",
-      "url": "https://www.tanjug.rs/sport/fudbal/288452/fudbaleri-lugana-pobedili-lucern-pred-utakmicu-protiv-crvene-zvezde/vest",
+      "naslov": "Diomande prvencem doneo trijumf Real Madridu protiv Viljareala",
+      "url": "https://www.tanjug.rs/sport/fudbal/288491/diomande-prvencem-doneo-trijumf-real-madridu-protiv-viljareala/vest",
       "izvor": "Танјуг",
-      "datum": "10. 10. 2026. у 20:13",
+      "datum": "10. 10. 2026. у 23:06",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Intera trijumfovali protiv Parme u Seriji A",
-      "url": "https://www.tanjug.rs/sport/fudbal/288451/fudbaleri-intera-trijumfovali-protiv-parme-u-seriji-a/vest",
+      "naslov": "Fudbaleri Pari Sen Žermena savladali Le Man, remi Monaka i Tuluza u francuskoj ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/288489/fudbaleri-pari-sen-zermena-savladali-le-man-remi-monaka-i-tuluza-u-francuskoj-ligi/vest",
       "izvor": "Танјуг",
-      "datum": "10. 10. 2026. у 20:10",
+      "datum": "10. 10. 2026. у 23:02",
       "slika": null
     },
     {
-      "naslov": "Remi fudbalera Čukaričkog i Mačve u 11. kolu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/288438/remi-fudbalera-cukarickog-i-macve-u-11-kolu-superlige-srbije/vest",
+      "naslov": "Fudbaleri Napolija nadigrali Frozinone u šestom kolu Serije A",
+      "url": "https://www.tanjug.rs/sport/fudbal/288483/fudbaleri-napolija-nadigrali-frozinone-u-sestom-kolu-serije-a/vest",
       "izvor": "Танјуг",
-      "datum": "10. 10. 2026. у 18:59",
+      "datum": "10. 10. 2026. у 22:41",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Atletiko Madrida nadigrali Alaves u španskom prvenstvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/288423/fudbaleri-atletiko-madrida-nadigrali-alaves-u-spanskom-prvenstvu/vest",
+      "naslov": "Dudić: U prvom poluvremenu smo bili bolji, želim Zvezdi sreću protiv Lugana",
+      "url": "https://www.tanjug.rs/sport/fudbal/288478/dudic-u-prvom-poluvremenu-smo-bili-bolji-zelim-zvezdi-srecu-protiv-lugana/vest",
       "izvor": "Танјуг",
-      "datum": "10. 10. 2026. у 18:19",
+      "datum": "10. 10. 2026. у 22:19",
       "slika": null
     },
     {
-      "naslov": "Zvezda ide ka pobedi",
+      "naslov": "Koković: &quot;Ne smemo da upadnemo u klopku&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275140/trener-zeleznicara-radomir-kokovic-pred-mec-protiv-zemuna-u-superligi-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 10. 2026. у 23:35",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezda prespavala prvo, pa razbila Radnički u drugom poluvremenu",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275178/uzivo-radnicki-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 10. 2026. у 20:35",
-      "slika": null
-    },
-    {
-      "naslov": "Čuka vodila 2:0, pa jedva izbegla poraz",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275192/superliga-srbije-11-kolo-cukaricki-macva-22-izvestaj/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 10. 2026. у 18:54",
+      "datum": "10. 10. 2026. у 21:15",
       "slika": null
     }
   ]
