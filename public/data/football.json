@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-10-10T01:59:39.487905+00:00",
-  "azurirano_sr": "10. 10. 2026. у 03:59",
+  "azurirano": "2026-10-10T08:10:58.910302+00:00",
+  "azurirano_sr": "10. 10. 2026. у 10:10",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Edegor: Artetin produžetak ugovora nas je sve podigao, idemo još jače protiv Lidsa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/edegor-artetin-produzetak-ugovora-nas-je-sve-podigao-idemo-jos-jace-protiv-lidsa/555909",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 10. 2026. у 11:19",
+      "slika": null
+    },
+    {
+      "naslov": "Finale Kupa Australije: Nišlija traži svoje mesto uz Puškaša i Postekoglua",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/finale-kupa-australije-nislija-trazi-svoje-mesto-uz-puskasa-i-postekoglua/555852",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 10. 2026. у 10:12",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET, subota, 688.983 dinara: Zna čovek fudbala, a i klađenja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-subota-688983-dinara-zna-covek-fudbala-a-i-klaenja/555901",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 10. 2026. у 09:13",
+      "slika": null
+    },
     {
       "naslov": "Srbija izgubila u Finskoj, juriće dva gola zaostatka u Pazovi i ostanak u trci za Mundijal",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-izgubila-u-finskoj-jurice-dva-gola-zaostatka-u-pazovi-i-ostanak-u-trci-za-mundijal/555878",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Otvorio se Kike Setjen: U Barsi sam imao igrače od 80.000.000 evra koji ne razumeju fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/otvorio-se-kike-setjen-u-barsi-sam-imao-igrace-od-80000000-evra-koji-ne-razumeju-fudbal/555875",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 10. 2026. у 20:58",
-      "slika": null
-    },
-    {
-      "naslov": "Kostov i dalje među deset najvrednijih igrača sveta do 18 godina, Cvetkovićev bum u najavi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kostov-i-dalje-meu-deset-najvrednijih-igraca-sveta-do-18-godina-cvetkovicev-bum-u-najavi/555861",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 10. 2026. у 19:45",
-      "slika": null
-    },
-    {
-      "naslov": "Vraća nam se klupski fudbal: Besni Enfild čeka “fantastični“ Siti, FlaFlu derbi u Riju, goreće i u Atini",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vraca-nam-se-klupski-fudbal-besni-enfild-ceka-fantasticni-siti-flaflu-derbi-u-riju-gorece-i-u-atini/555834",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 10. 2026. у 12:01",
+      "naslov": "Miror: Ronaldu preti suspenzija do šest meseci nakon sukoba sa selektorom",
+      "url": "https://www.tanjug.rs/sport/fudbal/288292/miror-ronaldu-preti-suspenzija-do-sest-meseci-nakon-sukoba-sa-selektorom/vest",
+      "izvor": "Танјуг",
+      "datum": "10. 10. 2026. у 07:42",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/288235/fudbalerke-srbije-porazene-od-finske-u-prvom-mecu-polufinala-baraza-za-svetsko-prvenstvo/vest",
       "izvor": "Танјуг",
       "datum": "9. 10. 2026. у 19:47",
-      "slika": null
-    },
-    {
-      "naslov": "UEFA kaznila Fudbalski savez Srbije sa 129.500 evra, protiv Nemačke uz ograničeno prisustvo publike",
-      "url": "https://www.tanjug.rs/sport/fudbal/288223/uefa-kaznila-fudbalski-savez-srbije-sa-129500-evra-protiv-nemacke-uz-ograniceno-prisustvo-publike/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 10. 2026. у 18:52",
       "slika": null
     },
     {
