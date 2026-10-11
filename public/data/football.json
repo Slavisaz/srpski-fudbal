@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-11T18:05:27.030076+00:00",
-  "azurirano_sr": "11. 10. 2026. у 20:05",
+  "azurirano": "2026-10-11T21:49:38.174580+00:00",
+  "azurirano_sr": "11. 10. 2026. у 23:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Milan je kostur od tima koji bolje od ovoga i ne može (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/milan-je-kostur-od-tima-koji-bolje-od-ovoga-i-ne-moze-video/556075",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 10. 2026. у 22:16",
+      "slika": null
+    },
     {
       "naslov": "Ljutiti Gasperini: Isključenje Malena pokvarilo meč, fudbal se ne sastoji od \"frejmova\"",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ljutiti-gasperini-iskljucenje-malena-pokvarilo-mec-fudbal-se-ne-sastoji-od-frejmova/556055",
@@ -18,38 +25,38 @@
       "slika": null
     },
     {
-      "naslov": "Zenica je ponovo fudbalski grad: Sarajevo stiže na usijano Bilino polje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zenica-je-ponovo-fudbalski-grad-sarajevo-stize-na-usijano-bilino-polje/556009",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 10. 2026. у 11:15",
+      "naslov": "Fudbaleri Juventusa i Kaljarija odigrali nerešeno 1:1",
+      "url": "https://www.tanjug.rs/sport/fudbal/288696/fudbaleri-juventusa-i-kaljarija-odigrali-nereseno-11/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 10. 2026. у 22:47",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Mančester Sitija pobedili Liverpul u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/288659/fudbaleri-mancester-sitija-pobedili-liverpul-u-premijer-ligi/vest",
+      "naslov": "Fudbaleri Olimpijakosa pobedili večitog rivala Panatinaikos rezultatom 1:0",
+      "url": "https://www.tanjug.rs/sport/fudbal/288686/fudbaleri-olimpijakosa-pobedili-vecitog-rivala-panatinaikos-rezultatom-10/vest",
       "izvor": "Танјуг",
-      "datum": "11. 10. 2026. у 19:24",
+      "datum": "11. 10. 2026. у 22:17",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Partizana minimalno savladali Novi Pazar za prekid loše serije",
-      "url": "https://www.tanjug.rs/sport/fudbal/288656/fudbaleri-partizana-minimalno-savladali-novi-pazar-za-prekid-lose-serije/vest",
+      "naslov": "Fudbaleri Železničara kao gosti ubedljivo pobedili Zemun",
+      "url": "https://www.tanjug.rs/sport/fudbal/288678/fudbaleri-zeleznicara-kao-gosti-ubedljivo-pobedili-zemun/vest",
       "izvor": "Танјуг",
-      "datum": "11. 10. 2026. у 18:56",
+      "datum": "11. 10. 2026. у 21:40",
       "slika": null
     },
     {
-      "naslov": "Holandski stručnjak Klarens Sedorf novi trener Korintijansa",
-      "url": "https://www.tanjug.rs/sport/fudbal/288640/holandski-strucnjak-klarens-sedorf-novi-trener-korintijansa/vest",
+      "naslov": "Saša Ilić: Ovo su za nas izuzetno bitna tri boda",
+      "url": "https://www.tanjug.rs/sport/fudbal/288669/sasa-ilic-ovo-su-za-nas-izuzetno-bitna-tri-boda/vest",
       "izvor": "Танјуг",
-      "datum": "11. 10. 2026. у 17:35",
+      "datum": "11. 10. 2026. у 20:26",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Vojvodine deklasirali Radnički u Nišu",
-      "url": "https://www.tanjug.rs/sport/fudbal/288635/fudbaleri-vojvodine-deklasirali-radnicki-u-nisu/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 10. 2026. у 16:54",
+      "naslov": "Železničar prejak za Zemun – prvenac Plavšića, i to kakav!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275426/superliga-srbije-11-kolo-zemun-zeleznicar-03-izvestaj/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "11. 10. 2026. у 20:50",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275360/superliga-srbije-11-kolo-partizan-novi-pazar-21-izvestaj-utakmice/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "11. 10. 2026. у 18:50",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina u četvrtoj brzini projurila kroz Niš",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275367/superliga-srbije-11-kolo-radnicki-nis-vojvodina-14-izvestaj/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "11. 10. 2026. у 16:50",
       "slika": null
     }
   ]
