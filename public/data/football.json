@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-11T06:27:54.082872+00:00",
-  "azurirano_sr": "11. 10. 2026. у 08:27",
+  "azurirano": "2026-10-11T13:15:20.707151+00:00",
+  "azurirano_sr": "11. 10. 2026. у 15:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Rijera odstranio Kataija iz tima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rijera-odstranio-kataija-iz-tima/556028",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 10. 2026. у 15:05",
+      "slika": null
+    },
+    {
+      "naslov": "Zenica je ponovo fudbalski grad: Sarajevo stiže na usijano Bilino polje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zenica-je-ponovo-fudbalski-grad-sarajevo-stize-na-usijano-bilino-polje/556009",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 10. 2026. у 11:15",
+      "slika": null
+    },
     {
       "naslov": "Gonzalez: Mesi je naša snaga, dođite i uživajte u ovom što je ostalo",
       "url": "https://www.mozzartsport.com/fudbal/vesti/gonzalez-mesi-je-nasa-snaga-doite-i-uzivajte-u-ovom-sto-je-ostalo/555937",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Inter se uželeo fudbala, Parma mu sama otvorila vrata",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/inter-se-uzeleo-fudbala-parma-mu-sama-otvorila-vrata/555971",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 10. 2026. у 21:50",
-      "slika": null
-    },
-    {
-      "naslov": "Čuka ponovo zaribala i završila u blatu: Pobeda se čeka skoro dva meseca",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cuka-ponovo-zaribala-i-zavrsila-u-blatu-pobeda-se-ceka-skoro-dva-meseca/555948",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 10. 2026. у 20:53",
+      "naslov": "Srpski fudbaler Dejan Joveljić strelac za Sijetl u pobedi protiv Nju Inglanda",
+      "url": "https://www.tanjug.rs/sport/fudbal/288535/srpski-fudbaler-dejan-joveljic-strelac-za-sijetl-u-pobedi-protiv-nju-inglanda/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 10. 2026. у 09:35",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Dudić: U prvom poluvremenu smo bili bolji, želim Zvezdi sreću protiv Lugana",
-      "url": "https://www.tanjug.rs/sport/fudbal/288478/dudic-u-prvom-poluvremenu-smo-bili-bolji-zelim-zvezdi-srecu-protiv-lugana/vest",
-      "izvor": "Танјуг",
-      "datum": "10. 10. 2026. у 22:19",
+      "naslov": "Rijera izbacio Kataija!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275321/albert-rijera-izbacio-kataija-iz-tima/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "11. 10. 2026. у 13:09",
       "slika": null
     },
     {
-      "naslov": "Koković: &quot;Ne smemo da upadnemo u klopku&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275140/trener-zeleznicara-radomir-kokovic-pred-mec-protiv-zemuna-u-superligi-srbije/vest",
+      "naslov": "&quot;Tužno je šta se dešava sa Partizanom&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275257/dzevad-prekazi-o-situaciji-u-fk-partizan-i-veljku-paunovicu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 10. 2026. у 23:35",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda prespavala prvo, pa razbila Radnički u drugom poluvremenu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275178/uzivo-radnicki-zvezda/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 10. 2026. у 21:15",
+      "datum": "11. 10. 2026. у 08:31",
       "slika": null
     }
   ]
