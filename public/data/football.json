@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-11T13:15:20.707151+00:00",
-  "azurirano_sr": "11. 10. 2026. у 15:15",
+  "azurirano": "2026-10-11T18:05:27.030076+00:00",
+  "azurirano_sr": "11. 10. 2026. у 20:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ljutiti Gasperini: Isključenje Malena pokvarilo meč, fudbal se ne sastoji od \"frejmova\"",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ljutiti-gasperini-iskljucenje-malena-pokvarilo-mec-fudbal-se-ne-sastoji-od-frejmova/556055",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 10. 2026. у 19:42",
+      "slika": null
+    },
     {
       "naslov": "Rijera odstranio Kataija iz tima",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rijera-odstranio-kataija-iz-tima/556028",
@@ -18,59 +25,52 @@
       "slika": null
     },
     {
-      "naslov": "Gonzalez: Mesi je naša snaga, dođite i uživajte u ovom što je ostalo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/gonzalez-mesi-je-nasa-snaga-doite-i-uzivajte-u-ovom-sto-je-ostalo/555937",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 10. 2026. у 00:14",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera: Komplikujemo fudbal, zapitajte se šta sam uradio na poluvremenu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rijera-komplikujemo-fudbal-zapitajte-se-sta-sam-uradio-na-poluvremenu/555982",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 10. 2026. у 23:21",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski fudbaler Dejan Joveljić strelac za Sijetl u pobedi protiv Nju Inglanda",
-      "url": "https://www.tanjug.rs/sport/fudbal/288535/srpski-fudbaler-dejan-joveljic-strelac-za-sijetl-u-pobedi-protiv-nju-inglanda/vest",
+      "naslov": "Fudbaleri Mančester Sitija pobedili Liverpul u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/288659/fudbaleri-mancester-sitija-pobedili-liverpul-u-premijer-ligi/vest",
       "izvor": "Танјуг",
-      "datum": "11. 10. 2026. у 09:35",
+      "datum": "11. 10. 2026. у 19:24",
       "slika": null
     },
     {
-      "naslov": "Diomande prvencem doneo trijumf Real Madridu protiv Viljareala",
-      "url": "https://www.tanjug.rs/sport/fudbal/288491/diomande-prvencem-doneo-trijumf-real-madridu-protiv-viljareala/vest",
+      "naslov": "Fudbaleri Partizana minimalno savladali Novi Pazar za prekid loše serije",
+      "url": "https://www.tanjug.rs/sport/fudbal/288656/fudbaleri-partizana-minimalno-savladali-novi-pazar-za-prekid-lose-serije/vest",
       "izvor": "Танјуг",
-      "datum": "10. 10. 2026. у 23:06",
+      "datum": "11. 10. 2026. у 18:56",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Pari Sen Žermena savladali Le Man, remi Monaka i Tuluza u francuskoj ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/288489/fudbaleri-pari-sen-zermena-savladali-le-man-remi-monaka-i-tuluza-u-francuskoj-ligi/vest",
+      "naslov": "Holandski stručnjak Klarens Sedorf novi trener Korintijansa",
+      "url": "https://www.tanjug.rs/sport/fudbal/288640/holandski-strucnjak-klarens-sedorf-novi-trener-korintijansa/vest",
       "izvor": "Танјуг",
-      "datum": "10. 10. 2026. у 23:02",
+      "datum": "11. 10. 2026. у 17:35",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Napolija nadigrali Frozinone u šestom kolu Serije A",
-      "url": "https://www.tanjug.rs/sport/fudbal/288483/fudbaleri-napolija-nadigrali-frozinone-u-sestom-kolu-serije-a/vest",
+      "naslov": "Fudbaleri Vojvodine deklasirali Radnički u Nišu",
+      "url": "https://www.tanjug.rs/sport/fudbal/288635/fudbaleri-vojvodine-deklasirali-radnicki-u-nisu/vest",
       "izvor": "Танјуг",
-      "datum": "10. 10. 2026. у 22:41",
+      "datum": "11. 10. 2026. у 16:54",
       "slika": null
     },
     {
-      "naslov": "Rijera izbacio Kataija!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275321/albert-rijera-izbacio-kataija-iz-tima/vest",
+      "naslov": "Saša Ilić: &quot;Tri dobre stvari posle dužeg vremena&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275397/izjava-sase-ilica-posle-utakmice-partizan-novi-pazar-10-u-11-kolu-superlige-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "11. 10. 2026. у 13:09",
+      "datum": "11. 10. 2026. у 19:00",
       "slika": null
     },
     {
-      "naslov": "&quot;Tužno je šta se dešava sa Partizanom&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275257/dzevad-prekazi-o-situaciji-u-fk-partizan-i-veljku-paunovicu/vest",
+      "naslov": "Rezervisti probudili Partizan – pobeda posle 42 dana! VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275360/superliga-srbije-11-kolo-partizan-novi-pazar-21-izvestaj-utakmice/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "11. 10. 2026. у 08:31",
+      "datum": "11. 10. 2026. у 18:50",
+      "slika": null
+    },
+    {
+      "naslov": "Vojvodina u četvrtoj brzini projurila kroz Niš",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275367/superliga-srbije-11-kolo-radnicki-nis-vojvodina-14-izvestaj/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "11. 10. 2026. у 16:50",
       "slika": null
     }
   ]
