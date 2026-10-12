@@ -1,76 +1,76 @@
 {
-  "azurirano": "2026-10-12T06:34:31.272139+00:00",
-  "azurirano_sr": "12. 10. 2026. у 08:34",
+  "azurirano": "2026-10-12T16:00:00.865312+00:00",
+  "azurirano_sr": "12. 10. 2026. у 18:00",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Milan je kostur od tima koji bolje od ovoga i ne može (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/milan-je-kostur-od-tima-koji-bolje-od-ovoga-i-ne-moze-video/556075",
+      "naslov": "Progovorio Nikolo Zaniolo: Murinjo vas čini posebnim, Gasperini vizionar, Premijer liga NBA fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/progovorio-nikolo-zaniolo-murinjo-vas-cini-posebnim-gasperini-vizionar-premijer-liga-nba-fudbala/556141",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 10. 2026. у 22:16",
+      "datum": "12. 10. 2026. у 19:02",
       "slika": null
     },
     {
-      "naslov": "Ljutiti Gasperini: Isključenje Malena pokvarilo meč, fudbal se ne sastoji od \"frejmova\"",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ljutiti-gasperini-iskljucenje-malena-pokvarilo-mec-fudbal-se-ne-sastoji-od-frejmova/556055",
+      "naslov": "Žreb Mozzart Bet Kupa Srbije: Partizan u Valjevu, Zvezda u reprizi polufinala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zreb-mozzart-bet-kupa-srbije-partizan-u-valjevu-zvezda-u-reprizi-polufinala/556126",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 10. 2026. у 19:42",
+      "datum": "12. 10. 2026. у 16:15",
       "slika": null
     },
     {
-      "naslov": "Rijera odstranio Kataija iz tima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rijera-odstranio-kataija-iz-tima/556028",
+      "naslov": "Opet se priča o kletvi Milanove devetke: Kako je Gonsalo za 40 dana postao Ghostalo...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/opet-se-prica-o-kletvi-milanove-devetke-kako-je-gonsalo-za-40-dana-postao-ghostalo/556125",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 10. 2026. у 15:05",
+      "datum": "12. 10. 2026. у 15:55",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Juventusa i Kaljarija odigrali nerešeno 1:1",
-      "url": "https://www.tanjug.rs/sport/fudbal/288696/fudbaleri-juventusa-i-kaljarija-odigrali-nereseno-11/vest",
+      "naslov": "Ronaldov intervju velikom prijatelju: Ja sam najbolji u istoriji fudbala i tačka",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ronaldov-intervju-velikom-prijatelju-ja-sam-najbolji-u-istoriji-fudbala-i-tacka/556106",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 10. 2026. у 12:39",
+      "slika": null
+    },
+    {
+      "naslov": "Španski stručnjak Jagoba Arasate vratio se na mesto trenera Osasune",
+      "url": "https://www.tanjug.rs/sport/fudbal/288949/spanski-strucnjak-jagoba-arasate-vratio-se-na-mesto-trenera-osasune/vest",
       "izvor": "Танјуг",
-      "datum": "11. 10. 2026. у 22:47",
+      "datum": "12. 10. 2026. у 16:26",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Olimpijakosa pobedili večitog rivala Panatinaikos rezultatom 1:0",
-      "url": "https://www.tanjug.rs/sport/fudbal/288686/fudbaleri-olimpijakosa-pobedili-vecitog-rivala-panatinaikos-rezultatom-10/vest",
+      "naslov": "UEFA smanjila kaznu fudbaleru Zvezde Osmanu Bukariju sa tri na dva meča",
+      "url": "https://www.tanjug.rs/sport/fudbal/288902/uefa-smanjila-kaznu-fudbaleru-zvezde-osmanu-bukariju-sa-tri-na-dva-meca/vest",
       "izvor": "Танјуг",
-      "datum": "11. 10. 2026. у 22:17",
+      "datum": "12. 10. 2026. у 14:59",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Železničara kao gosti ubedljivo pobedili Zemun",
-      "url": "https://www.tanjug.rs/sport/fudbal/288678/fudbaleri-zeleznicara-kao-gosti-ubedljivo-pobedili-zemun/vest",
+      "naslov": "Fudbaleri Crvene zvezde protiv Jedinstva iz Uba u šesnaestini finala Kupa Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/288881/fudbaleri-crvene-zvezde-protiv-jedinstva-iz-uba-u-sesnaestini-finala-kupa-srbije/vest",
       "izvor": "Танјуг",
-      "datum": "11. 10. 2026. у 21:40",
+      "datum": "12. 10. 2026. у 14:30",
       "slika": null
     },
     {
-      "naslov": "Saša Ilić: Ovo su za nas izuzetno bitna tri boda",
-      "url": "https://www.tanjug.rs/sport/fudbal/288669/sasa-ilic-ovo-su-za-nas-izuzetno-bitna-tri-boda/vest",
+      "naslov": "Nemanja Radonjić: Znam šta se od mene očekuje u Čukaričkom",
+      "url": "https://www.tanjug.rs/sport/fudbal/288862/nemanja-radonjic-znam-sta-se-od-mene-ocekuje-u-cukarickom/vest",
       "izvor": "Танјуг",
-      "datum": "11. 10. 2026. у 20:26",
+      "datum": "12. 10. 2026. у 13:54",
       "slika": null
     },
     {
-      "naslov": "Železničar prejak za Zemun – prvenac Plavšića, i to kakav!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275426/superliga-srbije-11-kolo-zemun-zeleznicar-03-izvestaj/vest",
+      "naslov": "Zvezda i Partizan saznali rivale u Kupu Srbije!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275621/zreb-za-kup-srbije-partizan-protiv-buducnosti-zvezda-protiv-jedinstva-u-116f/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "11. 10. 2026. у 20:50",
+      "datum": "12. 10. 2026. у 14:21",
       "slika": null
     },
     {
-      "naslov": "Saša Ilić: &quot;Tri dobre stvari posle dužeg vremena&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275397/izjava-sase-ilica-posle-utakmice-partizan-novi-pazar-10-u-11-kolu-superlige-srbije/vest",
+      "naslov": "Rijera prelomio: Aleksandar Stajkovac stiže u Zvezdu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275617/aleksandar-stajkovac-kondicioni-trener-fk-crvena-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "11. 10. 2026. у 19:00",
-      "slika": null
-    },
-    {
-      "naslov": "Rezervisti probudili Partizan – pobeda posle 42 dana! VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275360/superliga-srbije-11-kolo-partizan-novi-pazar-21-izvestaj-utakmice/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "11. 10. 2026. у 18:50",
+      "datum": "12. 10. 2026. у 14:08",
       "slika": null
     }
   ]
