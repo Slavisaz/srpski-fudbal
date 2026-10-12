@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-12T16:00:00.865312+00:00",
-  "azurirano_sr": "12. 10. 2026. у 18:00",
+  "azurirano": "2026-10-12T22:46:59.015036+00:00",
+  "azurirano_sr": "13. 10. 2026. у 00:46",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Savić će biti na slatkim mukama: Stefan Stanisavljević je profil modernog napadača i gladan je",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/savic-ce-biti-na-slatkim-mukama-stefan-stanisavljevic-je-profil-modernog-napadaca-i-gladan-je/556153",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 10. 2026. у 20:55",
+      "slika": null
+    },
+    {
+      "naslov": "Postoji li nagrada za promašaj godine? Serija C daje kandidata (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/postoji-li-nagrada-za-promasaj-godine-serija-c-daje-kandidata-video/556152",
+      "izvor": "Мозарт Спорт",
+      "datum": "12. 10. 2026. у 20:37",
+      "slika": null
+    },
     {
       "naslov": "Progovorio Nikolo Zaniolo: Murinjo vas čini posebnim, Gasperini vizionar, Premijer liga NBA fudbala",
       "url": "https://www.mozzartsport.com/fudbal/vesti/progovorio-nikolo-zaniolo-murinjo-vas-cini-posebnim-gasperini-vizionar-premijer-liga-nba-fudbala/556141",
@@ -18,59 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Opet se priča o kletvi Milanove devetke: Kako je Gonsalo za 40 dana postao Ghostalo...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/opet-se-prica-o-kletvi-milanove-devetke-kako-je-gonsalo-za-40-dana-postao-ghostalo/556125",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 10. 2026. у 15:55",
-      "slika": null
-    },
-    {
-      "naslov": "Ronaldov intervju velikom prijatelju: Ja sam najbolji u istoriji fudbala i tačka",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ronaldov-intervju-velikom-prijatelju-ja-sam-najbolji-u-istoriji-fudbala-i-tacka/556106",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 10. 2026. у 12:39",
-      "slika": null
-    },
-    {
-      "naslov": "Španski stručnjak Jagoba Arasate vratio se na mesto trenera Osasune",
-      "url": "https://www.tanjug.rs/sport/fudbal/288949/spanski-strucnjak-jagoba-arasate-vratio-se-na-mesto-trenera-osasune/vest",
+      "naslov": "Fudbaleri Levantea i Sevilje odigrali nerešeno u španskom prvenstvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/289054/fudbaleri-levantea-i-sevilje-odigrali-nereseno-u-spanskom-prvenstvu/vest",
       "izvor": "Танјуг",
-      "datum": "12. 10. 2026. у 16:26",
+      "datum": "12. 10. 2026. у 23:16",
       "slika": null
     },
     {
-      "naslov": "UEFA smanjila kaznu fudbaleru Zvezde Osmanu Bukariju sa tri na dva meča",
-      "url": "https://www.tanjug.rs/sport/fudbal/288902/uefa-smanjila-kaznu-fudbaleru-zvezde-osmanu-bukariju-sa-tri-na-dva-meca/vest",
+      "naslov": "Fudbaleri Koventrija ubedljivi protiv Njukasla u šestom kolu Premijer lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/289052/fudbaleri-koventrija-ubedljivi-protiv-njukasla-u-sestom-kolu-premijer-lige/vest",
       "izvor": "Танјуг",
-      "datum": "12. 10. 2026. у 14:59",
+      "datum": "12. 10. 2026. у 23:10",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Crvene zvezde protiv Jedinstva iz Uba u šesnaestini finala Kupa Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/288881/fudbaleri-crvene-zvezde-protiv-jedinstva-iz-uba-u-sesnaestini-finala-kupa-srbije/vest",
+      "naslov": "Fudbaleri Torina nadigrali Udineze u Seriji A",
+      "url": "https://www.tanjug.rs/sport/fudbal/289049/fudbaleri-torina-nadigrali-udineze-u-seriji-a/vest",
       "izvor": "Танјуг",
-      "datum": "12. 10. 2026. у 14:30",
+      "datum": "12. 10. 2026. у 22:47",
       "slika": null
     },
     {
-      "naslov": "Nemanja Radonjić: Znam šta se od mene očekuje u Čukaričkom",
-      "url": "https://www.tanjug.rs/sport/fudbal/288862/nemanja-radonjic-znam-sta-se-od-mene-ocekuje-u-cukarickom/vest",
+      "naslov": "Remi fudbalera Mladosti i OFK Beograda u 11. kolu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/289044/remi-fudbalera-mladosti-i-ofk-beograda-u-11-kolu-superlige-srbije/vest",
       "izvor": "Танјуг",
-      "datum": "12. 10. 2026. у 13:54",
+      "datum": "12. 10. 2026. у 22:08",
       "slika": null
     },
     {
-      "naslov": "Zvezda i Partizan saznali rivale u Kupu Srbije!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275621/zreb-za-kup-srbije-partizan-protiv-buducnosti-zvezda-protiv-jedinstva-u-116f/vest",
+      "naslov": "Rijera objasnio kaznu Kataiju: &quot;Došao sam da pobeđujem, a ne da stičem prijatelje&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275783/rijera-o-izbacivanju-kataija-iz-tima/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 10. 2026. у 14:21",
+      "datum": "12. 10. 2026. у 22:13",
       "slika": null
     },
     {
-      "naslov": "Rijera prelomio: Aleksandar Stajkovac stiže u Zvezdu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275617/aleksandar-stajkovac-kondicioni-trener-fk-crvena-zvezda/vest",
+      "naslov": "&quot;Nula&quot; u Lučanima",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275781/nula-u-lucanima/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "12. 10. 2026. у 14:08",
+      "datum": "12. 10. 2026. у 22:00",
       "slika": null
     }
   ]
