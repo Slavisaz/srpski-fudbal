@@ -1,13 +1,27 @@
 {
-  "azurirano": "2026-10-13T17:45:16.295313+00:00",
-  "azurirano_sr": "13. 10. 2026. у 19:45",
+  "azurirano": "2026-10-13T21:57:53.644414+00:00",
+  "azurirano_sr": "13. 10. 2026. у 23:57",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "UŽIVO - Liga šampiona: Sabahu poništen gol! Sporting poveo u Lansu, strelac Suarez",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-sabahu-ponisten-gol-sporting-poveo-u-lansu-strelac-suarez/556224",
+      "naslov": "Sedam minuta fudbalske eksplozije u Londonu: Sve je lakše kad Saka i Edegor priskoče u pomoć",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sedam-minuta-fudbalske-eksplozije-u-londonu-sve-je-lakse-kad-saka-i-edegor-priskoce-u-pomoc/556248",
       "izvor": "Мозарт Спорт",
-      "datum": "13. 10. 2026. у 21:32",
+      "datum": "14. 10. 2026. у 00:57",
+      "slika": null
+    },
+    {
+      "naslov": "Bez Paredesa u bitku za finale: Bombonjera čeka prvi korak, Vasko vreba šansu iz senke",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bez-paredesa-u-bitku-za-finale-bombonjera-ceka-prvi-korak-vasko-vreba-sansu-iz-senke/556208",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 10. 2026. у 00:08",
+      "slika": null
+    },
+    {
+      "naslov": "KRAJ - Liga šampiona",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-sampiona/556224",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 10. 2026. у 22:49",
       "slika": null
     },
     {
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Alvarez u tišini nastavlja da radi na transferu u Barselonu...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/alvarez-u-tisini-nastavlja-da-radi-na-transferu-u-barselonu/556226",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 10. 2026. у 21:05",
-      "slika": null
-    },
-    {
-      "naslov": "Otišao Vardi nižih liga: Zdepasti pesnik šesnaesterca, čuvar duše starog engleskog fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/otisao-vardi-nizih-liga-zdepasti-pesnik-sesnaesterca-cuvar-duse-starog-engleskog-fudbala/556218",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 10. 2026. у 19:30",
+      "naslov": "Fudbaleri Briža bolji od Intera u Milanu, Bajernu samo bod protiv Vikinga",
+      "url": "https://www.tanjug.rs/sport/fudbal/289365/fudbaleri-briza-bolji-od-intera-u-milanu-bajernu-samo-bod-protiv-vikinga/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 10. 2026. у 23:11",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Trener Pari Sen Žermen-a Luis Enrike poveo 23 fudbalera na duel sa Mančester sitijem u LŠ",
-      "url": "https://www.tanjug.rs/sport/fudbal/289237/trener-pari-sen-zermen-a-luis-enrike-poveo-23-fudbalera-na-duel-sa-mancester-sitijem-u-ls/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 10. 2026. у 15:24",
+      "naslov": "I Novi Pazar traži novog trenera",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276042/rastali-se-novi-pazar-i-strahinja-pandurovic/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 10. 2026. у 21:15",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276061/fudbalerke-srbije-izgubile-od-finske-u-barazu-za-mundijal/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "13. 10. 2026. у 18:52",
-      "slika": null
-    },
-    {
-      "naslov": "Blagojević: &quot;Poštujem Mijatovića, ali su nam se stavovi razilazili oko nekih stvari&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276010/srdjan-blagojevic-o-partizanu-i-predragu-mijatovicu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 10. 2026. у 17:48",
       "slika": null
     }
   ]
