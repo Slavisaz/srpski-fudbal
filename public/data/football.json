@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-13T03:12:11.768415+00:00",
-  "azurirano_sr": "13. 10. 2026. у 05:12",
+  "azurirano": "2026-10-13T10:31:31.706224+00:00",
+  "azurirano_sr": "13. 10. 2026. у 12:31",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kako je propao Šerkijev transfer u Pari Sen Žermen",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-je-propao-serkijev-transfer-u-pari-sen-zermen/556178",
+      "izvor": "Мозарт Спорт",
+      "datum": "13. 10. 2026. у 10:59",
+      "slika": null
+    },
     {
       "naslov": "Savić će biti na slatkim mukama: Stefan Stanisavljević je profil modernog napadača i gladan je",
       "url": "https://www.mozzartsport.com/fudbal/vesti/savic-ce-biti-na-slatkim-mukama-stefan-stanisavljevic-je-profil-modernog-napadaca-i-gladan-je/556153",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Žreb Mozzart Bet Kupa Srbije: Partizan u Valjevu, Zvezda u reprizi polufinala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zreb-mozzart-bet-kupa-srbije-partizan-u-valjevu-zvezda-u-reprizi-polufinala/556126",
-      "izvor": "Мозарт Спорт",
-      "datum": "12. 10. 2026. у 16:15",
+      "naslov": "Miloš Milanović sudi meč između fudbalera Leha i Leverkuzena u Ligi Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/289144/milos-milanovic-sudi-mec-izmedu-fudbalera-leha-i-leverkuzena-u-ligi-evrope/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 10. 2026. у 11:55",
+      "slika": null
+    },
+    {
+      "naslov": "Dani Karvahal potpisao ugovor sa Hetafeom do juna 2027. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/289132/dani-karvahal-potpisao-ugovor-sa-hetafeom-do-juna-2027-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 10. 2026. у 11:23",
+      "slika": null
+    },
+    {
+      "naslov": "Nemac Florijan Badštubner sudi meč između fudbalera Lugana i Crvene zvezde u Ligi konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/289114/nemac-florijan-badstubner-sudi-mec-izmedu-fudbalera-lugana-i-crvene-zvezde-u-ligi-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "13. 10. 2026. у 10:27",
       "slika": null
     },
     {
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Koventrija ubedljivi protiv Njukasla u šestom kolu Premijer lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/289052/fudbaleri-koventrija-ubedljivi-protiv-njukasla-u-sestom-kolu-premijer-lige/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 10. 2026. у 23:10",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Torina nadigrali Udineze u Seriji A",
-      "url": "https://www.tanjug.rs/sport/fudbal/289049/fudbaleri-torina-nadigrali-udineze-u-seriji-a/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 10. 2026. у 22:47",
-      "slika": null
-    },
-    {
-      "naslov": "Remi fudbalera Mladosti i OFK Beograda u 11. kolu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/289044/remi-fudbalera-mladosti-i-ofk-beograda-u-11-kolu-superlige-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "12. 10. 2026. у 22:08",
+      "naslov": "Ništa od dogovora Stolice i Čukaričkog",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275883/ilija-stolica-nece-biti-trener-cukarickog/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "13. 10. 2026. у 11:16",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275783/rijera-o-izbacivanju-kataija-iz-tima/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "12. 10. 2026. у 22:13",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Nula&quot; u Lučanima",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/275781/nula-u-lucanima/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "12. 10. 2026. у 22:00",
       "slika": null
     }
   ]
