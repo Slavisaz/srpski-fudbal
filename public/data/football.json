@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-14T10:27:39.111654+00:00",
-  "azurirano_sr": "14. 10. 2026. у 12:27",
+  "azurirano": "2026-10-14T15:18:44.526017+00:00",
+  "azurirano_sr": "14. 10. 2026. у 17:18",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Roma i Komo za obraz italijanskog fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/roma-i-komo-za-obraz-italijanskog-fudbala/556296",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 10. 2026. у 15:13",
+      "slika": null
+    },
+    {
+      "naslov": "Tamo gde su položili oružje Siti, Inter, Sporting, Porto, Zvezda, Dinamo...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tamo-gde-su-polozili-oruzje-siti-inter-sporting-porto-zvezda-dinamo/556290",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 10. 2026. у 14:19",
+      "slika": null
+    },
     {
       "naslov": "NAJAVA DANA (sreda, 14. oktobar): Praznik fudbala u Mančesteru",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-sreda-14-oktobar-praznik-fudbala-u-mancesteru/556262",
@@ -18,45 +32,31 @@
       "slika": null
     },
     {
-      "naslov": "Bez Paredesa u bitku za finale: Bombonjera čeka prvi korak, Vasko vreba šansu iz senke",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bez-paredesa-u-bitku-za-finale-bombonjera-ceka-prvi-korak-vasko-vreba-sansu-iz-senke/556208",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 10. 2026. у 00:08",
-      "slika": null
-    },
-    {
-      "naslov": "KRAJ - Liga šampiona",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-sampiona/556224",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 10. 2026. у 22:49",
-      "slika": null
-    },
-    {
-      "naslov": "Kerik: Razočaran sam, morali smo više da izvučemo protiv Atletika",
-      "url": "https://www.tanjug.rs/sport/fudbal/289475/kerik-razocaran-sam-morali-smo-vise-da-izvucemo-protiv-atletika/vest",
+      "naslov": "Trener Fulama Alvaro Arbeloa kažnjen sa 25.000 funti zbog izjava na račun sudija",
+      "url": "https://www.tanjug.rs/sport/fudbal/289628/trener-fulama-alvaro-arbeloa-kaznjen-sa-25000-funti-zbog-izjava-na-racun-sudija/vest",
       "izvor": "Танјуг",
-      "datum": "14. 10. 2026. у 11:18",
+      "datum": "14. 10. 2026. у 15:57",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Crvene zvezde otputovali u Lugano, osim Kataija nema ni Ivanića",
-      "url": "https://www.tanjug.rs/sport/fudbal/289450/fudbaleri-crvene-zvezde-otputovali-u-lugano-osim-kataija-nema-ni-ivanica/vest",
+      "naslov": "Strahinja Pavlović produžio ugovor sa Milanom do 2031. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/289584/strahinja-pavlovic-produzio-ugovor-sa-milanom-do-2031-godine/vest",
       "izvor": "Танјуг",
-      "datum": "14. 10. 2026. у 10:30",
+      "datum": "14. 10. 2026. у 14:37",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Briža bolji od Intera u Milanu, Bajernu samo bod protiv Vikinga",
-      "url": "https://www.tanjug.rs/sport/fudbal/289365/fudbaleri-briza-bolji-od-intera-u-milanu-bajernu-samo-bod-protiv-vikinga/vest",
+      "naslov": "Vlahović propušta utakmicu protiv Hofenhajma zbog stomačnih problema",
+      "url": "https://www.tanjug.rs/sport/fudbal/289557/vlahovic-propusta-utakmicu-protiv-hofenhajma-zbog-stomacnih-problema/vest",
       "izvor": "Танјуг",
-      "datum": "13. 10. 2026. у 23:11",
+      "datum": "14. 10. 2026. у 13:57",
       "slika": null
     },
     {
-      "naslov": "Fudbalerke Srbije novim porazom od Finske eliminisane u plej-ofu za plasman na Svetsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/289308/fudbalerke-srbije-novim-porazom-od-finske-eliminisane-u-plej-ofu-za-plasman-na-svetsko-prvenstvo/vest",
+      "naslov": "Počinje Liga konferencije, fudbaleri Crvene zvezde debituju u takmičenju",
+      "url": "https://www.tanjug.rs/sport/fudbal/289497/pocinje-liga-konferencije-fudbaleri-crvene-zvezde-debituju-u-takmicenju/vest",
       "izvor": "Танјуг",
-      "datum": "13. 10. 2026. у 18:58",
+      "datum": "14. 10. 2026. у 12:06",
       "slika": null
     },
     {
