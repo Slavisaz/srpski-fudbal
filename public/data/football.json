@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-14T05:29:44.642415+00:00",
-  "azurirano_sr": "14. 10. 2026. у 07:29",
+  "azurirano": "2026-10-14T10:27:39.111654+00:00",
+  "azurirano_sr": "14. 10. 2026. у 12:27",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (sreda, 14. oktobar): Praznik fudbala u Mančesteru",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-sreda-14-oktobar-praznik-fudbala-u-mancesteru/556262",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 10. 2026. у 10:00",
+      "slika": null
+    },
     {
       "naslov": "Sedam minuta fudbalske eksplozije u Londonu: Sve je lakše kad Saka i Edegor priskoče u pomoć",
       "url": "https://www.mozzartsport.com/fudbal/vesti/sedam-minuta-fudbalske-eksplozije-u-londonu-sve-je-lakse-kad-saka-i-edegor-priskoce-u-pomoc/556248",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Finska po običaju, podučava Srbiju sportu: Posle košarke i odbojke, dobila nas i u fudbalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/finska-po-obicaju-poducava-srbiju-sportu-posle-kosarke-i-odbojke-dobila-nas-i-u-fudbalu/556230",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 10. 2026. у 21:07",
+      "naslov": "Kerik: Razočaran sam, morali smo više da izvučemo protiv Atletika",
+      "url": "https://www.tanjug.rs/sport/fudbal/289475/kerik-razocaran-sam-morali-smo-vise-da-izvucemo-protiv-atletika/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 10. 2026. у 11:18",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Crvene zvezde otputovali u Lugano, osim Kataija nema ni Ivanića",
+      "url": "https://www.tanjug.rs/sport/fudbal/289450/fudbaleri-crvene-zvezde-otputovali-u-lugano-osim-kataija-nema-ni-ivanica/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 10. 2026. у 10:30",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/289308/fudbalerke-srbije-novim-porazom-od-finske-eliminisane-u-plej-ofu-za-plasman-na-svetsko-prvenstvo/vest",
       "izvor": "Танјуг",
       "datum": "13. 10. 2026. у 18:58",
-      "slika": null
-    },
-    {
-      "naslov": "Strahinja Pandurović nije više trener fudbalera Novog Pazara",
-      "url": "https://www.tanjug.rs/sport/fudbal/289296/strahinja-pandurovic-nije-vise-trener-fudbalera-novog-pazara/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 10. 2026. у 18:13",
-      "slika": null
-    },
-    {
-      "naslov": "Nikola Drinčić se vratio na mesto trenera niškog Radničkog",
-      "url": "https://www.tanjug.rs/sport/fudbal/289260/nikola-drincic-se-vratio-na-mesto-trenera-niskog-radnickog/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 10. 2026. у 16:17",
       "slika": null
     },
     {
