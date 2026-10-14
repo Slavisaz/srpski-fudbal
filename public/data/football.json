@@ -1,11 +1,11 @@
 {
-  "azurirano": "2026-10-14T19:27:24.461192+00:00",
-  "azurirano_sr": "14. 10. 2026. у 21:27",
+  "azurirano": "2026-10-14T22:27:51.462473+00:00",
+  "azurirano_sr": "15. 10. 2026. у 00:27",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "UŽIVO - LIGA ŠAMPIONA: AEK umalo do brzog vođstva (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-aek-umalo-do-brzog-vostva-video/556314",
+      "naslov": "KRAJ - LIGA ŠAMPIONA (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-sampiona-video/556314",
       "izvor": "Мозарт Спорт",
       "datum": "14. 10. 2026. у 23:01",
       "slika": null
@@ -32,17 +32,24 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri PSŽ-a pobedili Mančester siti, Real preokretom do trijumfa protiv Rome u Ligi šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/289705/fudbaleri-psz-a-pobedili-mancester-siti-real-preokretom-do-trijumfa-protiv-rome-u-ligi-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 10. 2026. у 23:12",
+      "slika": null
+    },
+    {
+      "naslov": "Davide Nikola novi trener fudbalera Venecije",
+      "url": "https://www.tanjug.rs/sport/fudbal/289711/davide-nikola-novi-trener-fudbalera-venecije/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 10. 2026. у 21:25",
+      "slika": null
+    },
+    {
       "naslov": "Vinisijus suspendovan na četiri utakmice, propušta \"El Klasiko\" protiv Barselone",
       "url": "https://www.tanjug.rs/sport/fudbal/289706/vinisijus-suspendovan-na-cetiri-utakmice-propusta-el-klasiko-protiv-barselone/vest",
       "izvor": "Танјуг",
       "datum": "14. 10. 2026. у 21:01",
-      "slika": null
-    },
-    {
-      "naslov": "Het-trik Barkole u pobedi Liverpula protiv LASK-a, Fejenord nadigrao Komo u Ligi šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/289705/het-trik-barkole-u-pobedi-liverpula-protiv-lask-a-fejenord-nadigrao-komo-u-ligi-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 10. 2026. у 20:50",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Krunić: Nadam se da ćemo se pokazati u najboljem svetlu protiv Lugana",
-      "url": "https://www.tanjug.rs/sport/fudbal/289675/krunic-nadam-se-da-cemo-se-pokazati-u-najboljem-svetlu-protiv-lugana/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 10. 2026. у 18:58",
+      "naslov": "Nenad Lalatović ponovo u Pazaru",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276427/nenad-lalatovic-se-vraca-u-novi-pazar/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 10. 2026. у 21:36",
       "slika": null
     },
     {
@@ -64,34 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276369/milan-borjan-prokomentarisao-suspenziju-aleksandra-kataija/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "14. 10. 2026. у 20:34",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan dobio novog sponzora",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276381/kompanija-nishman-postala-sponzor-partizana/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 10. 2026. у 18:27",
-      "slika": null
-    },
-    {
-      "naslov": "I Novi Pazar traži novog trenera",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276042/rastali-se-novi-pazar-i-strahinja-pandurovic/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 10. 2026. у 21:15",
-      "slika": null
-    },
-    {
-      "naslov": "Venger izlazi na crtu Infantinu?",
-      "url": "https://www.b92.net/sport/fudbal/vesti/276027/arsen-venger-se-kandiduje-za-predsednika-fifa/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "13. 10. 2026. у 20:31",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Problem sa Ronaldom je mogao da se reši privatno&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/276055/problem-sa-ronaldom-je-mogao-da-se-resi-privatno/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "13. 10. 2026. у 18:28",
       "slika": null
     }
   ]
