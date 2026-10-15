@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-15T09:51:56.462138+00:00",
-  "azurirano_sr": "15. 10. 2026. у 11:51",
+  "azurirano": "2026-10-15T14:28:14.755362+00:00",
+  "azurirano_sr": "15. 10. 2026. у 16:28",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Od \"igraćemo na evropskoj sceni\" do \"hvala na svemu\": Stanojević napustio Karagumruk",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/od-igracemo-na-evropskoj-sceni-do-hvala-na-svemu-stanojevic-napustio-karagumruk/556383",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 10. 2026. у 17:07",
+      "slika": null
+    },
+    {
+      "naslov": "Darko Kovačević: Vlahović će se kajati što je otišao, Juveu bi dobro došao napadač poput mene",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/darko-kovacevic-vlahovic-ce-se-kajati-sto-je-otisao-juveu-bi-dobro-dosao-napadac-poput-mene/556364",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 10. 2026. у 14:39",
+      "slika": null
+    },
     {
       "naslov": "Konatara čeka meč dosadašnje karijere - protiv Brajtona u Engleskoj",
       "url": "https://www.mozzartsport.com/fudbal/vesti/konatara-ceka-mec-dosadasnje-karijere-protiv-brajtona-u-engleskoj/556361",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "NAJAVA DANA (četvrtak, 15. oktobar): Kreće Liga konferencije, igraju i crno-beli",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-cetvrtak-15-oktobar-krece-liga-konferencije-igraju-i-crnobeli/556307",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 10. 2026. у 10:10",
+      "naslov": "Srpski stručnjak Aleksandar Stanojević nije više trener fudbalera Karagumruka",
+      "url": "https://www.tanjug.rs/sport/fudbal/289947/srpski-strucnjak-aleksandar-stanojevic-nije-vise-trener-fudbalera-karagumruka/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 10. 2026. у 14:59",
       "slika": null
     },
     {
-      "naslov": "KRAJ - LIGA ŠAMPIONA (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-sampiona-video/556314",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 10. 2026. у 23:01",
+      "naslov": "Fudbaler Intera Lautaro Martinez povredio butni mišić, pauza",
+      "url": "https://www.tanjug.rs/sport/fudbal/289938/fudbaler-intera-lautaro-martinez-povredio-butni-misic-pauza/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 10. 2026. у 14:49",
+      "slika": null
+    },
+    {
+      "naslov": "Nenad Lalatović posle pet meseci ponovo trener fudbalera Novog Pazara",
+      "url": "https://www.tanjug.rs/sport/fudbal/289898/nenad-lalatovic-posle-pet-meseci-ponovo-trener-fudbalera-novog-pazara/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 10. 2026. у 13:41",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Crvene zvezde večeras gostuju Luganu na startu Lige konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/289784/fudbaleri-crvene-zvezde-veceras-gostuju-luganu-na-startu-lige-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 10. 2026. у 09:34",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri PSŽ-a pobedili Mančester siti, Real preokretom do trijumfa protiv Rome u Ligi šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/289705/fudbaleri-psz-a-pobedili-mancester-siti-real-preokretom-do-trijumfa-protiv-rome-u-ligi-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 10. 2026. у 23:12",
-      "slika": null
-    },
-    {
-      "naslov": "Davide Nikola novi trener fudbalera Venecije",
-      "url": "https://www.tanjug.rs/sport/fudbal/289711/davide-nikola-novi-trener-fudbalera-venecije/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 10. 2026. у 21:25",
-      "slika": null
-    },
-    {
-      "naslov": "FIFA kaznila Trajal",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276504/fifa-suspendovala-trajal/vest",
+      "naslov": "Lalatović napravio šou na konferenciji: &quot;Uželeo sam se pazarskih trotineta&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276626/nenad-lalatovic-konferencija-za-medije-po-povratku-u-fk-novi-pazar/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "15. 10. 2026. у 09:51",
+      "datum": "15. 10. 2026. у 14:30",
       "slika": null
     },
     {
-      "naslov": "Nenad Lalatović ponovo u Pazaru",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276427/nenad-lalatovic-se-vraca-u-novi-pazar/vest",
+      "naslov": "Lalatović se vratio brže nego što je otišao!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276606/nenad-lalatovic-posle-pet-meseci-ponovo-trener-novog-pazara/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "14. 10. 2026. у 21:36",
+      "datum": "15. 10. 2026. у 13:46",
       "slika": null
     }
   ]
