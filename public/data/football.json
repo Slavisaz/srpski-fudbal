@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-10-15T14:28:14.755362+00:00",
-  "azurirano_sr": "15. 10. 2026. у 16:28",
+  "azurirano": "2026-10-15T18:28:35.259887+00:00",
+  "azurirano_sr": "15. 10. 2026. у 20:28",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Crvene zvezde i Lugana igraju nerešeno 1:1 na poluvremenu",
+      "url": "https://www.tanjug.rs/sport/fudbal/290050/fudbaleri-crvene-zvezde-i-lugana-igraju-nereseno-11-na-poluvremenu/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 10. 2026. у 19:35",
+      "slika": null
+    },
+    {
+      "naslov": "Predsednik FIFA Đani Infantino uputio izvinjenje Savetu FIFA zbog plana o prodaji Svetskih prvenstava",
+      "url": "https://www.tanjug.rs/sport/fudbal/290023/predsednik-fifa-dani-infantino-uputio-izvinjenje-savetu-fifa-zbog-plana-o-prodaji-svetskih-prvenstava/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 10. 2026. у 18:10",
+      "slika": null
+    },
+    {
+      "naslov": "Rijera odredio startnu postavu Crvene zvezde u Luganu, Gaštarov i Lučić starteri",
+      "url": "https://www.tanjug.rs/sport/fudbal/290020/rijera-odredio-startnu-postavu-crvene-zvezde-u-luganu-gastarov-i-lucic-starteri/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 10. 2026. у 17:46",
+      "slika": null
+    },
+    {
       "naslov": "Srpski stručnjak Aleksandar Stanojević nije više trener fudbalera Karagumruka",
       "url": "https://www.tanjug.rs/sport/fudbal/289947/srpski-strucnjak-aleksandar-stanojevic-nije-vise-trener-fudbalera-karagumruka/vest",
       "izvor": "Танјуг",
@@ -39,24 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Intera Lautaro Martinez povredio butni mišić, pauza",
-      "url": "https://www.tanjug.rs/sport/fudbal/289938/fudbaler-intera-lautaro-martinez-povredio-butni-misic-pauza/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 10. 2026. у 14:49",
-      "slika": null
-    },
-    {
-      "naslov": "Nenad Lalatović posle pet meseci ponovo trener fudbalera Novog Pazara",
-      "url": "https://www.tanjug.rs/sport/fudbal/289898/nenad-lalatovic-posle-pet-meseci-ponovo-trener-fudbalera-novog-pazara/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 10. 2026. у 13:41",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Palmeirasa pobedili Fluminense u prvom meču polufinala Kopa Libertadores",
-      "url": "https://www.tanjug.rs/sport/fudbal/289815/fudbaleri-palmeirasa-pobedili-fluminense-u-prvom-mecu-polufinala-kopa-libertadores/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 10. 2026. у 10:51",
+      "naslov": "Novi skandal u Partizanu – Saša Ilić izbacio Dembu Seka iz tima!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276683/sasa-ilic-izbacio-dembu-seka-iz-tima-partizana-zbog-sukoba-sa-saigracem/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 10. 2026. у 16:50",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276626/nenad-lalatovic-konferencija-za-medije-po-povratku-u-fk-novi-pazar/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "15. 10. 2026. у 14:30",
-      "slika": null
-    },
-    {
-      "naslov": "Lalatović se vratio brže nego što je otišao!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276606/nenad-lalatovic-posle-pet-meseci-ponovo-trener-novog-pazara/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 10. 2026. у 13:46",
       "slika": null
     }
   ]
