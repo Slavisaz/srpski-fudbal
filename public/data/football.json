@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-10-15T05:11:41.654452+00:00",
-  "azurirano_sr": "15. 10. 2026. у 07:11",
+  "azurirano": "2026-10-15T09:51:56.462138+00:00",
+  "azurirano_sr": "15. 10. 2026. у 11:51",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Konatara čeka meč dosadašnje karijere - protiv Brajtona u Engleskoj",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/konatara-ceka-mec-dosadasnje-karijere-protiv-brajtona-u-engleskoj/556361",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 10. 2026. у 12:37",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET, četvrtak, 911.747: Ono kad gađaš samo jedan tip, a dobitak ode u nebo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-cetvrtak-911747-ono-kad-gaas-samo-jedan-tip-a-dobitak-ode-u-nebo/556348",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 10. 2026. у 11:04",
+      "slika": null
+    },
+    {
+      "naslov": "NAJAVA DANA (četvrtak, 15. oktobar): Kreće Liga konferencije, igraju i crno-beli",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-cetvrtak-15-oktobar-krece-liga-konferencije-igraju-i-crnobeli/556307",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 10. 2026. у 10:10",
+      "slika": null
+    },
     {
       "naslov": "KRAJ - LIGA ŠAMPIONA (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-sampiona-video/556314",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Krunić: Liga konferencije nam nije bila cilj",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/krunic-liga-konferencije-nam-nije-bila-cilj/556319",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 10. 2026. у 21:29",
+      "naslov": "Fudbaleri Palmeirasa pobedili Fluminense u prvom meču polufinala Kopa Libertadores",
+      "url": "https://www.tanjug.rs/sport/fudbal/289815/fudbaleri-palmeirasa-pobedili-fluminense-u-prvom-mecu-polufinala-kopa-libertadores/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 10. 2026. у 10:51",
       "slika": null
     },
     {
-      "naslov": "Rijad Marez u pustinjskoj tvrđavi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rijad-marez-u-pustinjskoj-tvravi/556315",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 10. 2026. у 20:18",
-      "slika": null
-    },
-    {
-      "naslov": "Roma i Komo za obraz italijanskog fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/roma-i-komo-za-obraz-italijanskog-fudbala/556296",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 10. 2026. у 15:13",
+      "naslov": "Fudbaleri Crvene zvezde večeras gostuju Luganu na startu Lige konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/289784/fudbaleri-crvene-zvezde-veceras-gostuju-luganu-na-startu-lige-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 10. 2026. у 09:34",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Vinisijus suspendovan na četiri utakmice, propušta \"El Klasiko\" protiv Barselone",
-      "url": "https://www.tanjug.rs/sport/fudbal/289706/vinisijus-suspendovan-na-cetiri-utakmice-propusta-el-klasiko-protiv-barselone/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 10. 2026. у 21:01",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera: Sutra je kvalifikaciona utakmica, hajde da počnemo sa tri boda",
-      "url": "https://www.tanjug.rs/sport/fudbal/289685/rijera-sutra-je-kvalifikaciona-utakmica-hajde-da-pocnemo-sa-tri-boda/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 10. 2026. у 19:29",
+      "naslov": "FIFA kaznila Trajal",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276504/fifa-suspendovala-trajal/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 10. 2026. у 09:51",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276427/nenad-lalatovic-se-vraca-u-novi-pazar/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "14. 10. 2026. у 21:36",
-      "slika": null
-    },
-    {
-      "naslov": "Oglasio se Borjan zbog suspenzije Kataija",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276369/milan-borjan-prokomentarisao-suspenziju-aleksandra-kataija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 10. 2026. у 20:34",
       "slika": null
     }
   ]
