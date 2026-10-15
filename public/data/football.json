@@ -1,62 +1,62 @@
 {
-  "azurirano": "2026-10-15T18:28:35.259887+00:00",
-  "azurirano_sr": "15. 10. 2026. у 20:28",
+  "azurirano": "2026-10-15T21:36:30.872086+00:00",
+  "azurirano_sr": "15. 10. 2026. у 23:36",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Od \"igraćemo na evropskoj sceni\" do \"hvala na svemu\": Stanojević napustio Karagumruk",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/od-igracemo-na-evropskoj-sceni-do-hvala-na-svemu-stanojevic-napustio-karagumruk/556383",
+      "naslov": "Dosta je bilo bajki o nezainteresovanosti: Klubovi iz \"liga petice\" siloviti u Ligi konferencije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dosta-je-bilo-bajki-o-nezainteresovanosti-klubovi-iz-liga-petice-siloviti-u-ligi-konferencije/556432",
       "izvor": "Мозарт Спорт",
-      "datum": "15. 10. 2026. у 17:07",
+      "datum": "16. 10. 2026. у 01:04",
       "slika": null
     },
     {
-      "naslov": "Darko Kovačević: Vlahović će se kajati što je otišao, Juveu bi dobro došao napadač poput mene",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/darko-kovacevic-vlahovic-ce-se-kajati-sto-je-otisao-juveu-bi-dobro-dosao-napadac-poput-mene/556364",
+      "naslov": "Lučić posle poraza u Luganu: Sami smo krivi, skupo smo platili naše greške",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lucic-posle-poraza-u-luganu-sami-smo-krivi-skupo-smo-platili-nase-greske/556424",
       "izvor": "Мозарт Спорт",
-      "datum": "15. 10. 2026. у 14:39",
+      "datum": "16. 10. 2026. у 00:09",
       "slika": null
     },
     {
-      "naslov": "Konatara čeka meč dosadašnje karijere - protiv Brajtona u Engleskoj",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/konatara-ceka-mec-dosadasnje-karijere-protiv-brajtona-u-engleskoj/556361",
+      "naslov": "Estudijantes pred vratima sna dugog 17 godina: Roho se vratio po iskupljenje, Flamengo oslabljen",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/estudijantes-pred-vratima-sna-dugog-17-godina-roho-se-vratio-po-iskupljenje-flamengo-oslabljen/556381",
       "izvor": "Мозарт Спорт",
-      "datum": "15. 10. 2026. у 12:37",
+      "datum": "16. 10. 2026. у 00:02",
       "slika": null
     },
     {
-      "naslov": "LUDI TIKET, četvrtak, 911.747: Ono kad gađaš samo jedan tip, a dobitak ode u nebo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-cetvrtak-911747-ono-kad-gaas-samo-jedan-tip-a-dobitak-ode-u-nebo/556348",
+      "naslov": "Drugoligaš bio na tri minuta do čuda: Sanderlend u nadoknadi sprečio bruku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/drugoligas-bio-na-tri-minuta-do-cuda-sanderlend-u-nadoknadi-sprecio-bruku/556411",
       "izvor": "Мозарт Спорт",
-      "datum": "15. 10. 2026. у 11:04",
+      "datum": "15. 10. 2026. у 22:55",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Crvene zvezde i Lugana igraju nerešeno 1:1 na poluvremenu",
-      "url": "https://www.tanjug.rs/sport/fudbal/290050/fudbaleri-crvene-zvezde-i-lugana-igraju-nereseno-11-na-poluvremenu/vest",
+      "naslov": "Rijera: UEFA mora da istraži ovo, možda nas ne žele u Evropi",
+      "url": "https://www.tanjug.rs/sport/fudbal/290071/rijera-uefa-mora-da-istrazi-ovo-mozda-nas-ne-zele-u-evropi/vest",
       "izvor": "Танјуг",
-      "datum": "15. 10. 2026. у 19:35",
+      "datum": "15. 10. 2026. у 21:48",
       "slika": null
     },
     {
-      "naslov": "Predsednik FIFA Đani Infantino uputio izvinjenje Savetu FIFA zbog plana o prodaji Svetskih prvenstava",
-      "url": "https://www.tanjug.rs/sport/fudbal/290023/predsednik-fifa-dani-infantino-uputio-izvinjenje-savetu-fifa-zbog-plana-o-prodaji-svetskih-prvenstava/vest",
+      "naslov": "Košarkaši Partizana poraženi od Fenerbahčea u Istanbulu",
+      "url": "https://www.tanjug.rs/sport/fudbal/290070/kosarkasi-partizana-porazeni-od-fenerbahcea-u-istanbulu/vest",
       "izvor": "Танјуг",
-      "datum": "15. 10. 2026. у 18:10",
+      "datum": "15. 10. 2026. у 21:47",
       "slika": null
     },
     {
-      "naslov": "Rijera odredio startnu postavu Crvene zvezde u Luganu, Gaštarov i Lučić starteri",
-      "url": "https://www.tanjug.rs/sport/fudbal/290020/rijera-odredio-startnu-postavu-crvene-zvezde-u-luganu-gastarov-i-lucic-starteri/vest",
+      "naslov": "Fudbaleri Hajduka pobedili Ajaks u Splitu, meč prekidan, navijači veličali nacizam",
+      "url": "https://www.tanjug.rs/sport/fudbal/290066/fudbaleri-hajduka-pobedili-ajaks-u-splitu-mec-prekidan-navijaci-velicali-nacizam/vest",
       "izvor": "Танјуг",
-      "datum": "15. 10. 2026. у 17:46",
+      "datum": "15. 10. 2026. у 21:17",
       "slika": null
     },
     {
-      "naslov": "Srpski stručnjak Aleksandar Stanojević nije više trener fudbalera Karagumruka",
-      "url": "https://www.tanjug.rs/sport/fudbal/289947/srpski-strucnjak-aleksandar-stanojevic-nije-vise-trener-fudbalera-karagumruka/vest",
+      "naslov": "Nemanja Gudelj strelac za Hetafe u remiju protiv Univerzitatee",
+      "url": "https://www.tanjug.rs/sport/fudbal/290062/nemanja-gudelj-strelac-za-hetafe-u-remiju-protiv-univerzitatee/vest",
       "izvor": "Танјуг",
-      "datum": "15. 10. 2026. у 14:59",
+      "datum": "15. 10. 2026. у 20:58",
       "slika": null
     },
     {
