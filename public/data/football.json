@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-16T15:30:16.552564+00:00",
-  "azurirano_sr": "16. 10. 2026. у 17:30",
+  "azurirano": "2026-10-16T18:55:30.779038+00:00",
+  "azurirano_sr": "16. 10. 2026. у 20:55",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dan kada je fudbalsko Božanstvo kročilo na teren",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dan-kada-je-fudbalsko-bozanstvo-krocilo-na-teren/556500",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 10. 2026. у 20:11",
+      "slika": null
+    },
     {
       "naslov": "Mnogi su u Barseloni bili protiv Pedrijevog dolaska",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mnogi-su-u-barseloni-bili-protiv-pedrijevog-dolaska/556493",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Kako je propao transfer Nika Vilijamsa u Barsu: Nije mu garantovala da će igrati",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-je-propao-transfer-nika-vilijamsa-u-barsu-nije-mu-garantovala-da-ce-igrati/556465",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 10. 2026. у 14:12",
+      "naslov": "Fudbaleri Radnika savladali Radnički iz Niša u Superligi Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/290342/fudbaleri-radnika-savladali-radnicki-iz-nisa-u-superligi-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 10. 2026. у 19:01",
       "slika": null
     },
     {
@@ -53,45 +60,24 @@
       "slika": null
     },
     {
-      "naslov": "Hajduk: Izvinjavamo se UEFA i Ajaksu, spremni smo da snosimo odgovornost",
-      "url": "https://www.tanjug.rs/sport/fudbal/290176/hajduk-izvinjavamo-se-uefa-i-ajaksu-spremni-smo-da-snosimo-odgovornost/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 10. 2026. у 11:30",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan presekao posle incidenta: Sek do daljeg izbačen iz ekipe, kazna i za Čumića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276964/fk-partizan-kaznio-seka-i-cumica-demba-van-ekipa-do-daljeg/vest",
+      "naslov": "Pobeda Radnika u senci Minakovićeve brljotine",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277038/superliga-srbije-12-kolo-radnik-radnicki-nis-20-izvestaj/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 10. 2026. у 14:33",
+      "datum": "16. 10. 2026. у 18:59",
       "slika": null
     },
     {
-      "naslov": "Infantino se izvinio – i pokajao",
-      "url": "https://www.b92.net/sport/fudbal/vesti/276686/djani-infantino-se-izvinio-zbog-plana-prodaje-svetskog-prvenstva/vest",
+      "naslov": "Tadić otvorio dušu: &quot;Možda je to kraj&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277018/dusan-tadic-o-zeljama-za-kraj-reprezentativne-karijere/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "16. 10. 2026. у 17:40",
+      "slika": null
+    },
+    {
+      "naslov": "Mesi 23+12 – Inter u plej-ofu VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/276509/mesi-2312-inter-u-plej-ofu-video/vest",
       "izvor": "Б92 Фудбал",
-      "datum": "15. 10. 2026. у 22:05",
-      "slika": null
-    },
-    {
-      "naslov": "Novi skandal u Partizanu – Saša Ilić izbacio Dembu Seka iz tima!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276683/sasa-ilic-izbacio-dembu-seka-iz-tima-partizana-zbog-sukoba-sa-saigracem/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 10. 2026. у 16:50",
-      "slika": null
-    },
-    {
-      "naslov": "Lalatović napravio šou na konferenciji: &quot;Uželeo sam se pazarskih trotineta&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/276626/nenad-lalatovic-konferencija-za-medije-po-povratku-u-fk-novi-pazar/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "15. 10. 2026. у 14:30",
-      "slika": null
-    },
-    {
-      "naslov": "Stanojević dobio otkaz u Turskoj",
-      "url": "https://www.b92.net/sport/fudbal/vesti/276642/aleksandar-stanojevic-dobio-otkaz-u-turskoj/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "15. 10. 2026. у 14:57",
+      "datum": "15. 10. 2026. у 17:45",
       "slika": null
     }
   ]
