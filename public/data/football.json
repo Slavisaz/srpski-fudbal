@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-10-16T18:55:30.779038+00:00",
-  "azurirano_sr": "16. 10. 2026. у 20:55",
+  "azurirano": "2026-10-16T21:49:02.370677+00:00",
+  "azurirano_sr": "16. 10. 2026. у 23:49",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Ratkov asistent u remiju fudbalera Deportiva i Levantea",
+      "url": "https://www.tanjug.rs/sport/fudbal/290394/ratkov-asistent-u-remiju-fudbalera-deportiva-i-levantea/vest",
+      "izvor": "Танјуг",
+      "datum": "16. 10. 2026. у 23:30",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Radnika savladali Radnički iz Niša u Superligi Srbije",
       "url": "https://www.tanjug.rs/sport/fudbal/290342/fudbaleri-radnika-savladali-radnicki-iz-nisa-u-superligi-srbije/vest",
       "izvor": "Танјуг",
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Kapiten fudbalera Čelsija Ris Džejms uspešno operisan",
-      "url": "https://www.tanjug.rs/sport/fudbal/290209/kapiten-fudbalera-celsija-ris-dzejms-uspesno-operisan/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 10. 2026. у 12:55",
-      "slika": null
-    },
-    {
       "naslov": "Pobeda Radnika u senci Minakovićeve brljotine",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277038/superliga-srbije-12-kolo-radnik-radnicki-nis-20-izvestaj/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277018/dusan-tadic-o-zeljama-za-kraj-reprezentativne-karijere/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "16. 10. 2026. у 17:40",
-      "slika": null
-    },
-    {
-      "naslov": "Mesi 23+12 – Inter u plej-ofu VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/276509/mesi-2312-inter-u-plej-ofu-video/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "15. 10. 2026. у 17:45",
       "slika": null
     }
   ]
