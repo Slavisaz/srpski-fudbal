@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-17T14:21:39.698788+00:00",
-  "azurirano_sr": "17. 10. 2026. у 16:21",
+  "azurirano": "2026-10-17T17:18:58.272787+00:00",
+  "azurirano_sr": "17. 10. 2026. у 19:18",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Bravo, Alekse, ljubi te Čolo: Baenin fudbal je mešavina umetnosti i ludila (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bravo-alekse-ljubi-te-colo-baenin-fudbal-je-mesavina-umetnosti-i-ludila-video/556558",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 10. 2026. у 18:17",
+      "slika": null
+    },
     {
       "naslov": "Kartal u negativnoj istoriji Fenera, nastup Lukakua pod upitnikom",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kartal-u-negativnoj-istoriji-fenera-nastup-lukakua-pod-upitnikom/556554",
@@ -25,52 +32,52 @@
       "slika": null
     },
     {
-      "naslov": "Seržo Konseisao: Uslovi u Milanu nisu bili idealni, Kardinale nikad nije došao u Milanelo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/serzo-konseisao-uslovi-u-milanu-nisu-bili-idealni-kardinale-nikad-nije-dosao-u-milanelo/556539",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 10. 2026. у 13:08",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Atletiko Madrida golom Baene u 89. minutu pobedili Espanjol",
-      "url": "https://www.tanjug.rs/sport/fudbal/290525/fudbaleri-atletiko-madrida-golom-baene-u-89-minutu-pobedili-espanjol/vest",
+      "naslov": "Zoran Govedarica novi direktor omladinske škole OFK Beograda",
+      "url": "https://www.tanjug.rs/sport/fudbal/290555/zoran-govedarica-novi-direktor-omladinske-skole-ofk-beograda/vest",
       "izvor": "Танјуг",
-      "datum": "17. 10. 2026. у 16:03",
+      "datum": "17. 10. 2026. у 18:56",
       "slika": null
     },
     {
-      "naslov": "Rijera: Igrači su željni utakmica, siguran sam u podršku zvezdaša protiv Mladosti",
-      "url": "https://www.tanjug.rs/sport/fudbal/290522/rijera-igraci-su-zeljni-utakmica-siguran-sam-u-podrsku-zvezdasa-protiv-mladosti/vest",
+      "naslov": "Fudbaleri Venecije nadigrali Napoli, Filip Stanković odbranio penal De Brujneu",
+      "url": "https://www.tanjug.rs/sport/fudbal/290536/fudbaleri-venecije-nadigrali-napoli-filip-stankovic-odbranio-penal-de-brujneu/vest",
       "izvor": "Танјуг",
-      "datum": "17. 10. 2026. у 15:52",
+      "datum": "17. 10. 2026. у 18:18",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Čelsija nadigrali Everton u sedmom kolu Premijer lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/290520/fudbaleri-celsija-nadigrali-everton-u-sedmom-kolu-premijer-lige/vest",
+      "naslov": "Fudbaleri Sitija savladali Ipsvič za \"sedam od sedam\", pobede Liverpula i Čelsija",
+      "url": "https://www.tanjug.rs/sport/fudbal/290544/fudbaleri-sitija-savladali-ipsvic-za-sedam-od-sedam-pobede-liverpula-i-celsija/vest",
       "izvor": "Танјуг",
-      "datum": "17. 10. 2026. у 15:41",
+      "datum": "17. 10. 2026. у 18:15",
       "slika": null
     },
     {
-      "naslov": "Ilić: Sek je suspendovan jer nije hteo da se izvini, Partizan mora da menja DNK",
-      "url": "https://www.tanjug.rs/sport/fudbal/290491/ilic-sek-je-suspendovan-jer-nije-hteo-da-se-izvini-partizan-mora-da-menja-dnk/vest",
+      "naslov": "Koković: Partizan ima ozbiljan individualan kvalitet, hoćemo da im pariramo",
+      "url": "https://www.tanjug.rs/sport/fudbal/290539/kokovic-partizan-ima-ozbiljan-individualan-kvalitet-hocemo-da-im-pariramo/vest",
       "izvor": "Танјуг",
-      "datum": "17. 10. 2026. у 13:46",
+      "datum": "17. 10. 2026. у 17:06",
       "slika": null
     },
     {
-      "naslov": "Saša Ilić zagrmeo na konferenciji: &quot;Seku sam dao šansu, ali on je to odbio&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277196/sasa-ilic-konferencija-pred-duel-sa-zeleznicarom/vest",
+      "naslov": "Zukić načeo, Veličković dotukao Šumadince – Voša &quot;za petama&quot; Zvezdi",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277290/zukic-naceo-velickovic-dotukao-sumadince-vosa-za-petama-zvezdi/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 10. 2026. у 13:14",
+      "datum": "17. 10. 2026. у 18:57",
       "slika": null
     },
     {
-      "naslov": "Pobeda Radnika u senci Minakovićeve brljotine",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277038/superliga-srbije-12-kolo-radnik-radnicki-nis-20-izvestaj/vest",
+      "naslov": "Rijera: &quot;Bili smo dobri u Luganu, ali ne savršeni&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277259/albert-rijera-pred-duel-sa-mladost-lucani/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "16. 10. 2026. у 18:59",
+      "datum": "17. 10. 2026. у 17:17",
+      "slika": null
+    },
+    {
+      "naslov": "Španci kažnjeni zbog islamofobičnih parola",
+      "url": "https://www.b92.net/sport/fudbal/vesti/277009/spanci-kaznjeni-zbog-islamofobicnih-parola/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "16. 10. 2026. у 18:10",
       "slika": null
     }
   ]
