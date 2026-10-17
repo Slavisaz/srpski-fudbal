@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-17T11:32:29.514967+00:00",
-  "azurirano_sr": "17. 10. 2026. у 13:32",
+  "azurirano": "2026-10-17T14:21:39.698788+00:00",
+  "azurirano_sr": "17. 10. 2026. у 16:21",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kartal u negativnoj istoriji Fenera, nastup Lukakua pod upitnikom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kartal-u-negativnoj-istoriji-fenera-nastup-lukakua-pod-upitnikom/556554",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 10. 2026. у 15:40",
+      "slika": null
+    },
     {
       "naslov": "Krasnodar u dubiozi, Mostovoj proziva Musajeva: Gde si kad je najteže?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/krasnodar-u-dubiozi-mostovoj-proziva-musajeva-gde-si-kad-je-najteze/556547",
@@ -25,38 +32,31 @@
       "slika": null
     },
     {
-      "naslov": "LUDI TIKET, subota, 412.500 dinara: Samo tri para, a od dobitka se vrti glava",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-subota-412500-dinara-samo-tri-para-a-od-dobitka-se-vrti-glava/556529",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 10. 2026. у 11:03",
+      "naslov": "Fudbaleri Atletiko Madrida golom Baene u 89. minutu pobedili Espanjol",
+      "url": "https://www.tanjug.rs/sport/fudbal/290525/fudbaleri-atletiko-madrida-golom-baene-u-89-minutu-pobedili-espanjol/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 10. 2026. у 16:03",
       "slika": null
     },
     {
-      "naslov": "FK Crvena zvezda: Karte za Kopenhagen od sutra u prodaji na blagajnama",
-      "url": "https://www.tanjug.rs/sport/fudbal/290470/fk-crvena-zvezda-karte-za-kopenhagen-od-sutra-u-prodaji-na-blagajnama/vest",
+      "naslov": "Rijera: Igrači su željni utakmica, siguran sam u podršku zvezdaša protiv Mladosti",
+      "url": "https://www.tanjug.rs/sport/fudbal/290522/rijera-igraci-su-zeljni-utakmica-siguran-sam-u-podrsku-zvezdasa-protiv-mladosti/vest",
       "izvor": "Танјуг",
-      "datum": "17. 10. 2026. у 12:10",
+      "datum": "17. 10. 2026. у 15:52",
       "slika": null
     },
     {
-      "naslov": "Ratkov asistent u remiju fudbalera Deportiva i Levantea",
-      "url": "https://www.tanjug.rs/sport/fudbal/290394/ratkov-asistent-u-remiju-fudbalera-deportiva-i-levantea/vest",
+      "naslov": "Fudbaleri Čelsija nadigrali Everton u sedmom kolu Premijer lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/290520/fudbaleri-celsija-nadigrali-everton-u-sedmom-kolu-premijer-lige/vest",
       "izvor": "Танјуг",
-      "datum": "16. 10. 2026. у 23:30",
+      "datum": "17. 10. 2026. у 15:41",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Radnika savladali Radnički iz Niša u Superligi Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/290342/fudbaleri-radnika-savladali-radnicki-iz-nisa-u-superligi-srbije/vest",
+      "naslov": "Ilić: Sek je suspendovan jer nije hteo da se izvini, Partizan mora da menja DNK",
+      "url": "https://www.tanjug.rs/sport/fudbal/290491/ilic-sek-je-suspendovan-jer-nije-hteo-da-se-izvini-partizan-mora-da-menja-dnk/vest",
       "izvor": "Танјуг",
-      "datum": "16. 10. 2026. у 19:01",
-      "slika": null
-    },
-    {
-      "naslov": "Nedić: Svi smo na terenu videli da je prvi gol Lugana postignut iz čistog ofsajda",
-      "url": "https://www.tanjug.rs/sport/fudbal/290264/nedic-svi-smo-na-terenu-videli-da-je-prvi-gol-lugana-postignut-iz-cistog-ofsajda/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 10. 2026. у 15:15",
+      "datum": "17. 10. 2026. у 13:46",
       "slika": null
     },
     {
