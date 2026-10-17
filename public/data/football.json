@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-10-17T07:06:17.661391+00:00",
-  "azurirano_sr": "17. 10. 2026. у 09:06",
+  "azurirano": "2026-10-17T11:32:29.514967+00:00",
+  "azurirano_sr": "17. 10. 2026. у 13:32",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Dan kada je fudbalsko Božanstvo kročilo na teren",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dan-kada-je-fudbalsko-bozanstvo-krocilo-na-teren/556500",
+      "naslov": "Krasnodar u dubiozi, Mostovoj proziva Musajeva: Gde si kad je najteže?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/krasnodar-u-dubiozi-mostovoj-proziva-musajeva-gde-si-kad-je-najteze/556547",
       "izvor": "Мозарт Спорт",
-      "datum": "16. 10. 2026. у 20:11",
+      "datum": "17. 10. 2026. у 14:28",
       "slika": null
     },
     {
-      "naslov": "Mnogi su u Barseloni bili protiv Pedrijevog dolaska",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mnogi-su-u-barseloni-bili-protiv-pedrijevog-dolaska/556493",
+      "naslov": "Jovetić: Sirene za uzbunu kao sudijski zvižduk, molili smo se da NATO ne da gol",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jovetic-sirene-za-uzbunu-kao-sudijski-zvizduk-molili-smo-se-da-nato-ne-da-gol/556535",
       "izvor": "Мозарт Спорт",
-      "datum": "16. 10. 2026. у 19:02",
+      "datum": "17. 10. 2026. у 13:18",
       "slika": null
     },
     {
-      "naslov": "Srbija 30. u Evropi, ove sezone 37",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-30-u-evropi-ove-sezone-37/556474",
+      "naslov": "Seržo Konseisao: Uslovi u Milanu nisu bili idealni, Kardinale nikad nije došao u Milanelo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/serzo-konseisao-uslovi-u-milanu-nisu-bili-idealni-kardinale-nikad-nije-dosao-u-milanelo/556539",
       "izvor": "Мозарт Спорт",
-      "datum": "16. 10. 2026. у 14:52",
+      "datum": "17. 10. 2026. у 13:08",
       "slika": null
     },
     {
-      "naslov": "Van Gal veruje da je oštećen zbog varanja Sitija: Dobio sam otkaz, usledila je patnja...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/van-gal-veruje-da-je-ostecen-zbog-varanja-sitija-dobio-sam-otkaz-usledila-je-patnja/556467",
+      "naslov": "LUDI TIKET, subota, 412.500 dinara: Samo tri para, a od dobitka se vrti glava",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-subota-412500-dinara-samo-tri-para-a-od-dobitka-se-vrti-glava/556529",
       "izvor": "Мозарт Спорт",
-      "datum": "16. 10. 2026. у 14:46",
+      "datum": "17. 10. 2026. у 11:03",
+      "slika": null
+    },
+    {
+      "naslov": "FK Crvena zvezda: Karte za Kopenhagen od sutra u prodaji na blagajnama",
+      "url": "https://www.tanjug.rs/sport/fudbal/290470/fk-crvena-zvezda-karte-za-kopenhagen-od-sutra-u-prodaji-na-blagajnama/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 10. 2026. у 12:10",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Terzić: Sezonu koristimo da spremimo tim za naredne kvalifikacije za Ligu šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/290232/terzic-sezonu-koristimo-da-spremimo-tim-za-naredne-kvalifikacije-za-ligu-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "16. 10. 2026. у 14:06",
+      "naslov": "Saša Ilić zagrmeo na konferenciji: &quot;Seku sam dao šansu, ali on je to odbio&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277196/sasa-ilic-konferencija-pred-duel-sa-zeleznicarom/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 10. 2026. у 13:14",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277038/superliga-srbije-12-kolo-radnik-radnicki-nis-20-izvestaj/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "16. 10. 2026. у 18:59",
-      "slika": null
-    },
-    {
-      "naslov": "Tadić otvorio dušu: &quot;Možda je to kraj&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277018/dusan-tadic-o-zeljama-za-kraj-reprezentativne-karijere/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 10. 2026. у 17:40",
       "slika": null
     }
   ]
