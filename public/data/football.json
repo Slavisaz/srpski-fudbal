@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-10-17T19:28:19.908069+00:00",
-  "azurirano_sr": "17. 10. 2026. у 21:28",
+  "azurirano": "2026-10-17T21:34:23.740764+00:00",
+  "azurirano_sr": "17. 10. 2026. у 23:34",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Kamenjašević bio gost Zbiljiću na utakmici FK Vojvodina - Radnički 1923",
+      "url": "https://www.tanjug.rs/sport/fudbal/290580/kamenjasevic-bio-gost-zbiljicu-na-utakmici-fk-vojvodina-radnicki-1923/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 10. 2026. у 21:30",
+      "slika": null
+    },
+    {
       "naslov": "Novi ubedljiv trijumf fudbalera Barselone, \"petarda\" protiv Betisa u Sevilji",
       "url": "https://www.tanjug.rs/sport/fudbal/290575/novi-ubedljiv-trijumf-fudbalera-barselone-petarda-protiv-betisa-u-sevilji/vest",
       "izvor": "Танјуг",
@@ -53,13 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Zoran Govedarica novi direktor omladinske škole OFK Beograda",
-      "url": "https://www.tanjug.rs/sport/fudbal/290555/zoran-govedarica-novi-direktor-omladinske-skole-ofk-beograda/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 10. 2026. у 18:56",
-      "slika": null
-    },
-    {
       "naslov": "&quot;Romantika&quot; nije prošla u Šapcu",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277317/romantika-nije-prosla-u-sapcu/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,6 +71,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277290/zukic-naceo-velickovic-dotukao-sumadince-vosa-za-petama-zvezdi/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "17. 10. 2026. у 19:00",
+      "slika": null
+    },
+    {
+      "naslov": "Inovacija u svetu fudbala – elektronski karton",
+      "url": "https://www.b92.net/sport/fudbal/vesti/277059/inovacija-u-svetu-fudbala-elektronski-karton/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "16. 10. 2026. у 21:55",
       "slika": null
     },
     {
