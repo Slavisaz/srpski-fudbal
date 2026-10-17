@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-17T17:18:58.272787+00:00",
-  "azurirano_sr": "17. 10. 2026. у 19:18",
+  "azurirano": "2026-10-17T19:28:19.908069+00:00",
+  "azurirano_sr": "17. 10. 2026. у 21:28",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Španski fudbal ovo nije video 58 godina! Moćna Barsa preorala i Kartuhu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/spanski-fudbal-ovo-nije-video-58-godina-mocna-barsa-preorala-i-kartuhu/556592",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 10. 2026. у 22:41",
+      "slika": null
+    },
     {
       "naslov": "Bravo, Alekse, ljubi te Čolo: Baenin fudbal je mešavina umetnosti i ludila (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bravo-alekse-ljubi-te-colo-baenin-fudbal-je-mesavina-umetnosti-i-ludila-video/556558",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Jovetić: Sirene za uzbunu kao sudijski zvižduk, molili smo se da NATO ne da gol",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jovetic-sirene-za-uzbunu-kao-sudijski-zvizduk-molili-smo-se-da-nato-ne-da-gol/556535",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 10. 2026. у 13:18",
+      "naslov": "Novi ubedljiv trijumf fudbalera Barselone, \"petarda\" protiv Betisa u Sevilji",
+      "url": "https://www.tanjug.rs/sport/fudbal/290575/novi-ubedljiv-trijumf-fudbalera-barselone-petarda-protiv-betisa-u-sevilji/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 10. 2026. у 20:49",
+      "slika": null
+    },
+    {
+      "naslov": "Prvenac Maksimovića u Bundesligi u teškom porazu Lajpciga od Bajerna",
+      "url": "https://www.tanjug.rs/sport/fudbal/290573/prvenac-maksimovica-u-bundesligi-u-teskom-porazu-lajpciga-od-bajerna/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 10. 2026. у 20:42",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Vojvodine bolji od Radničkog, Zukić promašio penal, pa rešio pobednika",
+      "url": "https://www.tanjug.rs/sport/fudbal/290562/fudbaleri-vojvodine-bolji-od-radnickog-zukic-promasio-penal-pa-resio-pobednika/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 10. 2026. у 19:26",
       "slika": null
     },
     {
@@ -39,38 +60,24 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Venecije nadigrali Napoli, Filip Stanković odbranio penal De Brujneu",
-      "url": "https://www.tanjug.rs/sport/fudbal/290536/fudbaleri-venecije-nadigrali-napoli-filip-stankovic-odbranio-penal-de-brujneu/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 10. 2026. у 18:18",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Sitija savladali Ipsvič za \"sedam od sedam\", pobede Liverpula i Čelsija",
-      "url": "https://www.tanjug.rs/sport/fudbal/290544/fudbaleri-sitija-savladali-ipsvic-za-sedam-od-sedam-pobede-liverpula-i-celsija/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 10. 2026. у 18:15",
-      "slika": null
-    },
-    {
-      "naslov": "Koković: Partizan ima ozbiljan individualan kvalitet, hoćemo da im pariramo",
-      "url": "https://www.tanjug.rs/sport/fudbal/290539/kokovic-partizan-ima-ozbiljan-individualan-kvalitet-hocemo-da-im-pariramo/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 10. 2026. у 17:06",
+      "naslov": "&quot;Romantika&quot; nije prošla u Šapcu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277317/romantika-nije-prosla-u-sapcu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 10. 2026. у 21:00",
       "slika": null
     },
     {
       "naslov": "Zukić načeo, Veličković dotukao Šumadince – Voša &quot;za petama&quot; Zvezdi",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277290/zukic-naceo-velickovic-dotukao-sumadince-vosa-za-petama-zvezdi/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 10. 2026. у 18:57",
+      "datum": "17. 10. 2026. у 19:00",
       "slika": null
     },
     {
-      "naslov": "Rijera: &quot;Bili smo dobri u Luganu, ali ne savršeni&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277259/albert-rijera-pred-duel-sa-mladost-lucani/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 10. 2026. у 17:17",
+      "naslov": "Bilić: &quot;Nisam očekivao razgovore o mojoj smeni tako brzo&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/277023/bilic-nisam-ocekivao-razgovore-o-mojoj-smeni-tako-brzo/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "16. 10. 2026. у 21:24",
       "slika": null
     },
     {
