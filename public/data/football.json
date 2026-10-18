@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-18T05:51:45.024448+00:00",
-  "azurirano_sr": "18. 10. 2026. у 07:51",
+  "azurirano": "2026-10-18T09:57:10.985624+00:00",
+  "azurirano_sr": "18. 10. 2026. у 11:57",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Koji je plafon ovog tima Vojvodine?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/koji-je-plafon-ovog-tima-vojvodine/556628",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 10. 2026. у 13:13",
+      "slika": null
+    },
     {
       "naslov": "Španski fudbal ovo nije video 58 godina! Moćna Barsa preorala i Kartuhu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/spanski-fudbal-ovo-nije-video-58-godina-mocna-barsa-preorala-i-kartuhu/556592",
@@ -18,17 +25,24 @@
       "slika": null
     },
     {
-      "naslov": "Kartal u negativnoj istoriji Fenera, nastup Lukakua pod upitnikom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kartal-u-negativnoj-istoriji-fenera-nastup-lukakua-pod-upitnikom/556554",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 10. 2026. у 15:40",
+      "naslov": "Mesi postigao dva gola u pobedi protiv Atlante i došao do \"kote 936\" u karijeri",
+      "url": "https://www.tanjug.rs/sport/fudbal/290669/mesi-postigao-dva-gola-u-pobedi-protiv-atlante-i-dosao-do-kote-936-u-karijeri/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 10. 2026. у 11:27",
       "slika": null
     },
     {
-      "naslov": "Krasnodar u dubiozi, Mostovoj proziva Musajeva: Gde si kad je najteže?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/krasnodar-u-dubiozi-mostovoj-proziva-musajeva-gde-si-kad-je-najteze/556547",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 10. 2026. у 14:28",
+      "naslov": "Golman Čelsija Emilijano Martinez operisan posle preloma vilice, pauza šest nedelja",
+      "url": "https://www.tanjug.rs/sport/fudbal/290646/golman-celsija-emilijano-martinez-operisan-posle-preloma-vilice-pauza-sest-nedelja/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 10. 2026. у 09:09",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Crvene zvezde danas dočekuju Mladost, besplatan ulaz za decu do 14 godina",
+      "url": "https://www.tanjug.rs/sport/fudbal/290644/fudbaleri-crvene-zvezde-danas-docekuju-mladost-besplatan-ulaz-za-decu-do-14-godina/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 10. 2026. у 08:53",
       "slika": null
     },
     {
@@ -39,24 +53,10 @@
       "slika": null
     },
     {
-      "naslov": "Novi ubedljiv trijumf fudbalera Barselone, \"petarda\" protiv Betisa u Sevilji",
-      "url": "https://www.tanjug.rs/sport/fudbal/290575/novi-ubedljiv-trijumf-fudbalera-barselone-petarda-protiv-betisa-u-sevilji/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 10. 2026. у 20:49",
-      "slika": null
-    },
-    {
-      "naslov": "Prvenac Maksimovića u Bundesligi u teškom porazu Lajpciga od Bajerna",
-      "url": "https://www.tanjug.rs/sport/fudbal/290573/prvenac-maksimovica-u-bundesligi-u-teskom-porazu-lajpciga-od-bajerna/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 10. 2026. у 20:42",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Vojvodine bolji od Radničkog, Zukić promašio penal, pa rešio pobednika",
-      "url": "https://www.tanjug.rs/sport/fudbal/290562/fudbaleri-vojvodine-bolji-od-radnickog-zukic-promasio-penal-pa-resio-pobednika/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 10. 2026. у 19:26",
+      "naslov": "Partizanov spori voz na brzim pančevačkim šinama",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277024/najava-utakmice-12-kola-superlige-srbije-zeleznicar-partizan/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 10. 2026. у 08:00",
       "slika": null
     },
     {
@@ -85,13 +85,6 @@
       "url": "https://www.b92.net/sport/fudbal/vesti/277023/bilic-nisam-ocekivao-razgovore-o-mojoj-smeni-tako-brzo/vest",
       "izvor": "Б92 Фудбал",
       "datum": "16. 10. 2026. у 21:24",
-      "slika": null
-    },
-    {
-      "naslov": "Španci kažnjeni zbog islamofobičnih parola",
-      "url": "https://www.b92.net/sport/fudbal/vesti/277009/spanci-kaznjeni-zbog-islamofobicnih-parola/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "16. 10. 2026. у 18:10",
       "slika": null
     }
   ]
