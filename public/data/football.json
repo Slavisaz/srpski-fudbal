@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-18T13:43:03.316951+00:00",
-  "azurirano_sr": "18. 10. 2026. у 15:43",
+  "azurirano": "2026-10-18T16:55:47.608075+00:00",
+  "azurirano_sr": "18. 10. 2026. у 18:55",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Jedan od najvećih promašaja u karijeri Marka Arnautovića (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jedan-od-najvecih-promasaja-u-karijeri-marka-arnautovica-video/556662",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 10. 2026. у 19:15",
+      "slika": null
+    },
+    {
+      "naslov": "Kerik eksperimentisao, tumbao i opet nije pomoglo: Junajted na jednoj pobedi posle sedam kola",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kerik-eksperimentisao-tumbao-i-opet-nije-pomoglo-junajted-na-jednoj-pobedi-posle-sedam-kola/556666",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 10. 2026. у 19:00",
+      "slika": null
+    },
     {
       "naslov": "Prvi strelac Serije A o Siniši Mihajloviću: Biću mu zauvek zahvalan što me je lansirao u prvi tim",
       "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-strelac-serije-a-o-sinisi-mihajlovicu-bicu-mu-zauvek-zahvalan-sto-me-je-lansirao-u-prvi-tim/556630",
@@ -18,59 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Španski fudbal ovo nije video 58 godina! Moćna Barsa preorala i Kartuhu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/spanski-fudbal-ovo-nije-video-58-godina-mocna-barsa-preorala-i-kartuhu/556592",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 10. 2026. у 22:41",
-      "slika": null
-    },
-    {
-      "naslov": "Mesi postigao dva gola u pobedi protiv Atlante i došao do \"kote 936\" u karijeri",
-      "url": "https://www.tanjug.rs/sport/fudbal/290669/mesi-postigao-dva-gola-u-pobedi-protiv-atlante-i-dosao-do-kote-936-u-karijeri/vest",
+      "naslov": "Fudbaleri Crvene zvezde deklasirali lučansku Mladost",
+      "url": "https://www.tanjug.rs/sport/fudbal/290644/fudbaleri-crvene-zvezde-deklasirali-lucansku-mladost/vest",
       "izvor": "Танјуг",
-      "datum": "18. 10. 2026. у 11:27",
+      "datum": "18. 10. 2026. у 18:02",
       "slika": null
     },
     {
-      "naslov": "Golman Čelsija Emilijano Martinez operisan posle preloma vilice, pauza šest nedelja",
-      "url": "https://www.tanjug.rs/sport/fudbal/290646/golman-celsija-emilijano-martinez-operisan-posle-preloma-vilice-pauza-sest-nedelja/vest",
+      "naslov": "Fudbaler Pari Sen Žermena Nuno Mendeš mora na pauzu zbog povrede butnog mišića",
+      "url": "https://www.tanjug.rs/sport/fudbal/290742/fudbaler-pari-sen-zermena-nuno-mendes-mora-na-pauzu-zbog-povrede-butnog-misica/vest",
       "izvor": "Танјуг",
-      "datum": "18. 10. 2026. у 09:09",
+      "datum": "18. 10. 2026. у 17:23",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Crvene zvezde danas dočekuju Mladost, besplatan ulaz za decu do 14 godina",
-      "url": "https://www.tanjug.rs/sport/fudbal/290644/fudbaleri-crvene-zvezde-danas-docekuju-mladost-besplatan-ulaz-za-decu-do-14-godina/vest",
+      "naslov": "Fudbaleri Lidsa i Mančester Junajteda odigrali nerešeno 1:1 u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/290738/fudbaleri-lidsa-i-mancester-junajteda-odigrali-nereseno-11-u-premijer-ligi/vest",
       "izvor": "Танјуг",
-      "datum": "18. 10. 2026. у 08:53",
+      "datum": "18. 10. 2026. у 16:59",
       "slika": null
     },
     {
-      "naslov": "Kamenjašević bio gost Zbiljiću na utakmici FK Vojvodina - Radnički 1923",
-      "url": "https://www.tanjug.rs/sport/fudbal/290580/kamenjasevic-bio-gost-zbiljicu-na-utakmici-fk-vojvodina-radnicki-1923/vest",
+      "naslov": "Fudbaleri Novog Pazara poraženi od IMT-a na povratku Nenada Lalatovića na klupu",
+      "url": "https://www.tanjug.rs/sport/fudbal/290727/fudbaleri-novog-pazara-porazeni-od-imt-a-na-povratku-nenada-lalatovica-na-klupu/vest",
       "izvor": "Танјуг",
-      "datum": "17. 10. 2026. у 21:30",
+      "datum": "18. 10. 2026. у 15:57",
       "slika": null
     },
     {
-      "naslov": "Rijera napravio promenu na golu – vratio se Katai",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277453/uzivo-superliga-srbije-12-kolo-crvena-zvezda-mladost-lucani-gde-gledati-prenos/vest",
+      "naslov": "Partizan gubi u Pančevu!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277474/uzivo-zeleznicar-partizan-lajv-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 10. 2026. у 15:11",
+      "datum": "18. 10. 2026. у 18:46",
       "slika": null
     },
     {
-      "naslov": "Partizanov spori voz na brzim pančevačkim šinama",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277024/najava-utakmice-12-kola-superlige-srbije-zeleznicar-partizan/vest",
+      "naslov": "Lalatović besneo posle poraza Novog Pazara: &quot;Da mu nije oca, nikada ne bi sudio&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277511/nenad-lalatovic-konferencija-za-medije-posle-poraza-novog-pazara-od-imt-a/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 10. 2026. у 08:00",
-      "slika": null
-    },
-    {
-      "naslov": "Koković pred Partizan: &quot;Očekujem zanimljivu utakmicu – dva tima koja neće odstupati od svog načina igre&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277261/kokovic-pred-partizan-ocekujem-zanimljivu-utakmicu-dva-tima-koja-nece-odstupati-od-svog-nacina-igre/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 10. 2026. у 23:45",
+      "datum": "18. 10. 2026. у 18:43",
       "slika": null
     },
     {
