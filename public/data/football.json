@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-18T19:05:22.396409+00:00",
-  "azurirano_sr": "18. 10. 2026. у 21:05",
+  "azurirano": "2026-10-18T21:25:32.945060+00:00",
+  "azurirano_sr": "18. 10. 2026. у 23:25",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Mnogi su ga zaboravili... Deki se vraća posle 526 dana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mnogi-su-ga-zaboravili-deki-se-vraca-posle-526-dana/556702",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 10. 2026. у 00:17",
+      "slika": null
+    },
     {
       "naslov": "Veljko Nikolić posle godinu dana postigao gol – zapravo, golčinu! (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/veljko-nikolic-posle-godinu-dana-postigao-gol-zapravo-golcinu-video/556695",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Kerik eksperimentisao, tumbao i opet nije pomoglo: Junajted na jednoj pobedi posle sedam kola",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kerik-eksperimentisao-tumbao-i-opet-nije-pomoglo-junajted-na-jednoj-pobedi-posle-sedam-kola/556666",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 10. 2026. у 19:00",
+      "naslov": "Saša Ilić: Zadovoljan sam zalaganjem, neću pričati o suđenju",
+      "url": "https://www.tanjug.rs/sport/fudbal/290780/sasa-ilic-zadovoljan-sam-zalaganjem-necu-pricati-o-sudenju/vest",
+      "izvor": "Танјуг",
+      "datum": "18. 10. 2026. у 21:29",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Arsenala pobedili Notingem Forest u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/290765/fudbaleri-arsenala-pobedili-notingem-forest-u-premijer-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 10. 2026. у 19:29",
+      "naslov": "Partizanov oštar protest posle utakmice u Pančevu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277572/saopstenje-partizana-povodom-sudjenja-na-utakmici-protiv-zeleznicara/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 10. 2026. у 23:05",
       "slika": null
     },
     {
-      "naslov": "Partizan posrnuo i u Pančevu – igrači oterani od navijača",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277474/uzivo-zeleznicar-partizan-lajv-prenos/vest",
+      "naslov": "Koković posle rušenja Partizana: &quot;Najavio sam da je to ključ&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277552/konferencija-za-medije-radomira-kokovica-posle-zeleznicar-partizan-10/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 10. 2026. у 20:44",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan tik iznad zone ispadanja, Zvezda suvereno prva – ovako izgleda tabela Superlige",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277545/tabela-superlige-posle-12-kola-partizan-11-zvezda-prva/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 10. 2026. у 20:43",
+      "datum": "18. 10. 2026. у 21:28",
       "slika": null
     }
   ]
