@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-18T09:57:10.985624+00:00",
-  "azurirano_sr": "18. 10. 2026. у 11:57",
+  "azurirano": "2026-10-18T13:43:03.316951+00:00",
+  "azurirano_sr": "18. 10. 2026. у 15:43",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Prvi strelac Serije A o Siniši Mihajloviću: Biću mu zauvek zahvalan što me je lansirao u prvi tim",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-strelac-serije-a-o-sinisi-mihajlovicu-bicu-mu-zauvek-zahvalan-sto-me-je-lansirao-u-prvi-tim/556630",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 10. 2026. у 13:52",
+      "slika": null
+    },
     {
       "naslov": "Koji je plafon ovog tima Vojvodine?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/koji-je-plafon-ovog-tima-vojvodine/556628",
@@ -15,13 +22,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/spanski-fudbal-ovo-nije-video-58-godina-mocna-barsa-preorala-i-kartuhu/556592",
       "izvor": "Мозарт Спорт",
       "datum": "17. 10. 2026. у 22:41",
-      "slika": null
-    },
-    {
-      "naslov": "Bravo, Alekse, ljubi te Čolo: Baenin fudbal je mešavina umetnosti i ludila (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bravo-alekse-ljubi-te-colo-baenin-fudbal-je-mesavina-umetnosti-i-ludila-video/556558",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 10. 2026. у 18:17",
       "slika": null
     },
     {
@@ -53,6 +53,13 @@
       "slika": null
     },
     {
+      "naslov": "Rijera napravio promenu na golu – vratio se Katai",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277453/uzivo-superliga-srbije-12-kolo-crvena-zvezda-mladost-lucani-gde-gledati-prenos/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "18. 10. 2026. у 15:11",
+      "slika": null
+    },
+    {
       "naslov": "Partizanov spori voz na brzim pančevačkim šinama",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277024/najava-utakmice-12-kola-superlige-srbije-zeleznicar-partizan/vest",
       "izvor": "Б92 Српски фудбал",
@@ -67,24 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "&quot;Romantika&quot; nije prošla u Šapcu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277317/romantika-nije-prosla-u-sapcu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "17. 10. 2026. у 21:00",
-      "slika": null
-    },
-    {
       "naslov": "Inovacija u svetu fudbala – elektronski karton",
       "url": "https://www.b92.net/sport/fudbal/vesti/277059/inovacija-u-svetu-fudbala-elektronski-karton/vest",
       "izvor": "Б92 Фудбал",
       "datum": "16. 10. 2026. у 21:55",
-      "slika": null
-    },
-    {
-      "naslov": "Bilić: &quot;Nisam očekivao razgovore o mojoj smeni tako brzo&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/277023/bilic-nisam-ocekivao-razgovore-o-mojoj-smeni-tako-brzo/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "16. 10. 2026. у 21:24",
       "slika": null
     }
   ]
