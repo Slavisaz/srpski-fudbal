@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-18T16:55:47.608075+00:00",
-  "azurirano_sr": "18. 10. 2026. у 18:55",
+  "azurirano": "2026-10-18T19:05:22.396409+00:00",
+  "azurirano_sr": "18. 10. 2026. у 21:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Veljko Nikolić posle godinu dana postigao gol – zapravo, golčinu! (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/veljko-nikolic-posle-godinu-dana-postigao-gol-zapravo-golcinu-video/556695",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 10. 2026. у 22:51",
+      "slika": null
+    },
+    {
+      "naslov": "Senzacije u Kupu Belgije – trećeligaš eliminisao Gent, drugoligaš Anderleht",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/senzacije-u-kupu-belgije-treceligas-eliminisao-gent-drugoligas-anderleht/556688",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 10. 2026. у 22:14",
+      "slika": null
+    },
     {
       "naslov": "Jedan od najvećih promašaja u karijeri Marka Arnautovića (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/jedan-od-najvecih-promasaja-u-karijeri-marka-arnautovica-video/556662",
@@ -18,66 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Prvi strelac Serije A o Siniši Mihajloviću: Biću mu zauvek zahvalan što me je lansirao u prvi tim",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-strelac-serije-a-o-sinisi-mihajlovicu-bicu-mu-zauvek-zahvalan-sto-me-je-lansirao-u-prvi-tim/556630",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 10. 2026. у 13:52",
-      "slika": null
-    },
-    {
-      "naslov": "Koji je plafon ovog tima Vojvodine?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/koji-je-plafon-ovog-tima-vojvodine/556628",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 10. 2026. у 13:13",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Crvene zvezde deklasirali lučansku Mladost",
-      "url": "https://www.tanjug.rs/sport/fudbal/290644/fudbaleri-crvene-zvezde-deklasirali-lucansku-mladost/vest",
+      "naslov": "Fudbaleri Partizana poraženi na gostovanju Železničaru",
+      "url": "https://www.tanjug.rs/sport/fudbal/290773/fudbaleri-partizana-porazeni-na-gostovanju-zeleznicaru/vest",
       "izvor": "Танјуг",
-      "datum": "18. 10. 2026. у 18:02",
+      "datum": "18. 10. 2026. у 20:43",
       "slika": null
     },
     {
-      "naslov": "Fudbaler Pari Sen Žermena Nuno Mendeš mora na pauzu zbog povrede butnog mišića",
-      "url": "https://www.tanjug.rs/sport/fudbal/290742/fudbaler-pari-sen-zermena-nuno-mendes-mora-na-pauzu-zbog-povrede-butnog-misica/vest",
+      "naslov": "Fudbaleri Kopenhagena odigrali 1:1 protiv Arhusa pred gostovanje Crvenoj zvezdi",
+      "url": "https://www.tanjug.rs/sport/fudbal/290769/fudbaleri-kopenhagena-odigrali-11-protiv-arhusa-pred-gostovanje-crvenoj-zvezdi/vest",
       "izvor": "Танјуг",
-      "datum": "18. 10. 2026. у 17:23",
+      "datum": "18. 10. 2026. у 20:06",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Lidsa i Mančester Junajteda odigrali nerešeno 1:1 u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/290738/fudbaleri-lidsa-i-mancester-junajteda-odigrali-nereseno-11-u-premijer-ligi/vest",
+      "naslov": "Fudbaleri Milana savladali Atalantu u Seriji A",
+      "url": "https://www.tanjug.rs/sport/fudbal/290768/fudbaleri-milana-savladali-atalantu-u-seriji-a/vest",
       "izvor": "Танјуг",
-      "datum": "18. 10. 2026. у 16:59",
+      "datum": "18. 10. 2026. у 20:00",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Novog Pazara poraženi od IMT-a na povratku Nenada Lalatovića na klupu",
-      "url": "https://www.tanjug.rs/sport/fudbal/290727/fudbaleri-novog-pazara-porazeni-od-imt-a-na-povratku-nenada-lalatovica-na-klupu/vest",
+      "naslov": "Fudbaleri Arsenala pobedili Notingem Forest u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/290765/fudbaleri-arsenala-pobedili-notingem-forest-u-premijer-ligi/vest",
       "izvor": "Танјуг",
-      "datum": "18. 10. 2026. у 15:57",
+      "datum": "18. 10. 2026. у 19:29",
       "slika": null
     },
     {
-      "naslov": "Partizan gubi u Pančevu!",
+      "naslov": "Partizan posrnuo i u Pančevu – igrači oterani od navijača",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277474/uzivo-zeleznicar-partizan-lajv-prenos/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 10. 2026. у 18:46",
+      "datum": "18. 10. 2026. у 20:44",
       "slika": null
     },
     {
-      "naslov": "Lalatović besneo posle poraza Novog Pazara: &quot;Da mu nije oca, nikada ne bi sudio&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277511/nenad-lalatovic-konferencija-za-medije-posle-poraza-novog-pazara-od-imt-a/vest",
+      "naslov": "Partizan tik iznad zone ispadanja, Zvezda suvereno prva – ovako izgleda tabela Superlige",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277545/tabela-superlige-posle-12-kola-partizan-11-zvezda-prva/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 10. 2026. у 18:43",
-      "slika": null
-    },
-    {
-      "naslov": "Inovacija u svetu fudbala – elektronski karton",
-      "url": "https://www.b92.net/sport/fudbal/vesti/277059/inovacija-u-svetu-fudbala-elektronski-karton/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "16. 10. 2026. у 21:55",
+      "datum": "18. 10. 2026. у 20:43",
       "slika": null
     }
   ]
