@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-10-19T01:25:37.547472+00:00",
-  "azurirano_sr": "19. 10. 2026. у 03:25",
+  "azurirano": "2026-10-19T06:24:14.176914+00:00",
+  "azurirano_sr": "19. 10. 2026. у 08:24",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Da li smo gledali istu utakmicu?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277576/analiza-utakmice-zeleznicar-partizan-10-i-izjave-sase-ilica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 10. 2026. у 08:00",
+      "slika": null
+    },
+    {
       "naslov": "Partizanov oštar protest posle utakmice u Pančevu",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277572/saopstenje-partizana-povodom-sudjenja-na-utakmici-protiv-zeleznicara/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "18. 10. 2026. у 23:05",
-      "slika": null
-    },
-    {
-      "naslov": "Koković posle rušenja Partizana: &quot;Najavio sam da je to ključ&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277552/konferencija-za-medije-radomira-kokovica-posle-zeleznicar-partizan-10/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "18. 10. 2026. у 21:28",
       "slika": null
     }
   ]
