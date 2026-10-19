@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-10-19T13:41:40.959583+00:00",
-  "azurirano_sr": "19. 10. 2026. у 15:41",
+  "azurirano": "2026-10-19T19:28:21.346876+00:00",
+  "azurirano_sr": "19. 10. 2026. у 21:28",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Festival fudbala u Subotici: Spartak i Borac odigrali po meri TSC-a",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/festival-fudbala-u-subotici-spartak-i-borac-odigrali-po-meri-tsca/556764",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 10. 2026. у 22:08",
+      "slika": null
+    },
+    {
+      "naslov": "'Skromni', iskreni Embape: Karijera mi je za desetku! Kad kažem da sam najbolji, to je zato što u to verujem",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/skromni-iskreni-embape-karijera-mi-je-za-desetku-kad-kazem-da-sam-najbolji-to-je-zato-sto-u-to-verujem/556758",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 10. 2026. у 20:56",
+      "slika": null
+    },
+    {
+      "naslov": "Spartak vratio Karaklajića u srpski fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/spartak-vratio-karaklajica-u-srpski-fudbal/556747",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 10. 2026. у 18:03",
+      "slika": null
+    },
     {
       "naslov": "Nikola Krstović 72 vs 14 Zvezdinih napadača nakon njega 221, 200, 107, 97, 5…",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nikola-krstovic-72-vs-14-zvezdinih-napadaca-nakon-njega-221-200-107-97-5/556741",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Otišao nemački kralj transfera: Milanu neophodan takav fudbalski trgovac",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/otisao-nemacki-kralj-transfera-milanu-neophodan-takav-fudbalski-trgovac/556735",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 10. 2026. у 15:13",
+      "naslov": "Fudbalski savez Portugala kaznio Ronalda sa 30 dana suspenzije i 255 evra",
+      "url": "https://www.tanjug.rs/sport/fudbal/291018/fudbalski-savez-portugala-kaznio-ronalda-sa-30-dana-suspenzije-i-255-evra/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 10. 2026. у 20:34",
       "slika": null
     },
     {
-      "naslov": "Zamislite da je kralj fudbalske analitike (po)slušao navijače...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zamislite-da-je-kralj-fudbalske-analitike-poslusao-navijace/556722",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 10. 2026. у 13:15",
-      "slika": null
-    },
-    {
-      "naslov": "Pravila, pravila... Milošević ne može kao Mudrinski",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pravila-pravila-milosevic-ne-moze-kao-mudrinski/556727",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 10. 2026. у 13:08",
+      "naslov": "Mančester Siti čeka kazna oduzimanja bodova i izvesna selidba u niži rang?",
+      "url": "https://www.tanjug.rs/sport/fudbal/290982/mancester-siti-ceka-kazna-oduzimanja-bodova-i-izvesna-selidba-u-nizi-rang/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 10. 2026. у 18:09",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Lacija bolji od Juventusa u Torinu za deobu prvog mesta sa Interom",
-      "url": "https://www.tanjug.rs/sport/fudbal/290795/fudbaleri-lacija-bolji-od-juventusa-u-torinu-za-deobu-prvog-mesta-sa-interom/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 10. 2026. у 23:33",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Reala ubedljivo savladali Sevilju, dva gola Mbapea",
-      "url": "https://www.tanjug.rs/sport/fudbal/290794/fudbaleri-reala-ubedljivo-savladali-sevilju-dva-gola-mbapea/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 10. 2026. у 23:28",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Ja navijam za Srbiju&quot;: Najmlađi navijači uz &quot;orlove&quot; protiv Nemačke",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277741/ja-navijam-za-srbiju-najmladji-navijaci-uz-orlove-protiv-nemacke/vest",
+      "naslov": "Haos i tuča posle meča Novog Pazara i OFK Beograda – podeljeno šest crvenih kartona",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277879/haos-u-omladinskoj-ligi-srbije-tuca-na-mecu-novi-pazar-ofk-beograd/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "19. 10. 2026. у 15:04",
+      "datum": "19. 10. 2026. у 21:17",
       "slika": null
     },
     {
-      "naslov": "Haos u Partizanu: Ilić dva puta nudio ostavku – odbijeno!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277725/partizan-dva-puta-odbio-ostavku-sase-ilica/vest",
+      "naslov": "&quot;Partizan me zvao dva puta pre Zvezde&quot;; &quot;Stanojeviću sam rekao da je Grobar, ali...&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277855/pesic-bez-zadrske-o-partizanu-zvezdi-i-stanojevicu-dva-puta-su-me-zvali-pre-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "19. 10. 2026. у 14:09",
+      "datum": "19. 10. 2026. у 20:08",
       "slika": null
     }
   ]
