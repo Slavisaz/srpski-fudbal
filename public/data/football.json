@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-10-19T06:24:14.176914+00:00",
-  "azurirano_sr": "19. 10. 2026. у 08:24",
+  "azurirano": "2026-10-19T13:41:40.959583+00:00",
+  "azurirano_sr": "19. 10. 2026. у 15:41",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Mnogi su ga zaboravili... Deki se vraća posle 526 dana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mnogi-su-ga-zaboravili-deki-se-vraca-posle-526-dana/556702",
+      "naslov": "Nikola Krstović 72 vs 14 Zvezdinih napadača nakon njega 221, 200, 107, 97, 5…",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nikola-krstovic-72-vs-14-zvezdinih-napadaca-nakon-njega-221-200-107-97-5/556741",
       "izvor": "Мозарт Спорт",
-      "datum": "19. 10. 2026. у 00:17",
+      "datum": "19. 10. 2026. у 17:14",
       "slika": null
     },
     {
-      "naslov": "Veljko Nikolić posle godinu dana postigao gol – zapravo, golčinu! (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/veljko-nikolic-posle-godinu-dana-postigao-gol-zapravo-golcinu-video/556695",
+      "naslov": "Otišao nemački kralj transfera: Milanu neophodan takav fudbalski trgovac",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/otisao-nemacki-kralj-transfera-milanu-neophodan-takav-fudbalski-trgovac/556735",
       "izvor": "Мозарт Спорт",
-      "datum": "18. 10. 2026. у 22:51",
+      "datum": "19. 10. 2026. у 15:13",
       "slika": null
     },
     {
-      "naslov": "Senzacije u Kupu Belgije – trećeligaš eliminisao Gent, drugoligaš Anderleht",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/senzacije-u-kupu-belgije-treceligas-eliminisao-gent-drugoligas-anderleht/556688",
+      "naslov": "Zamislite da je kralj fudbalske analitike (po)slušao navijače...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zamislite-da-je-kralj-fudbalske-analitike-poslusao-navijace/556722",
       "izvor": "Мозарт Спорт",
-      "datum": "18. 10. 2026. у 22:14",
+      "datum": "19. 10. 2026. у 13:15",
       "slika": null
     },
     {
-      "naslov": "Jedan od najvećih promašaja u karijeri Marka Arnautovića (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jedan-od-najvecih-promasaja-u-karijeri-marka-arnautovica-video/556662",
+      "naslov": "Pravila, pravila... Milošević ne može kao Mudrinski",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pravila-pravila-milosevic-ne-moze-kao-mudrinski/556727",
       "izvor": "Мозарт Спорт",
-      "datum": "18. 10. 2026. у 19:15",
+      "datum": "19. 10. 2026. у 13:08",
+      "slika": null
+    },
+    {
+      "naslov": "FK Crvena zvezda: Kruniću uoči meča protiv Kopenhagena dres sa brojem 100 povodom jubileja",
+      "url": "https://www.tanjug.rs/sport/fudbal/290904/fk-crvena-zvezda-krunicu-uoci-meca-protiv-kopenhagena-dres-sa-brojem-100-povodom-jubileja/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 10. 2026. у 14:08",
+      "slika": null
+    },
+    {
+      "naslov": "Nastavlja se Liga šampiona, PSŽ dočekuje Barselonu, Bajern i Arsenal igraju u Minhenu",
+      "url": "https://www.tanjug.rs/sport/fudbal/290878/nastavlja-se-liga-sampiona-psz-docekuje-barselonu-bajern-i-arsenal-igraju-u-minhenu/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 10. 2026. у 12:30",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "FK Partizan: Umesto praznika fudbala videli smo demonstraciju sudijske samovolje",
-      "url": "https://www.tanjug.rs/sport/fudbal/290792/fk-partizan-umesto-praznika-fudbala-videli-smo-demonstraciju-sudijske-samovolje/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 10. 2026. у 23:22",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić: Zadovoljan sam zalaganjem, neću pričati o suđenju",
-      "url": "https://www.tanjug.rs/sport/fudbal/290780/sasa-ilic-zadovoljan-sam-zalaganjem-necu-pricati-o-sudenju/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 10. 2026. у 21:29",
-      "slika": null
-    },
-    {
-      "naslov": "Da li smo gledali istu utakmicu?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277576/analiza-utakmice-zeleznicar-partizan-10-i-izjave-sase-ilica/vest",
+      "naslov": "&quot;Ja navijam za Srbiju&quot;: Najmlađi navijači uz &quot;orlove&quot; protiv Nemačke",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277741/ja-navijam-za-srbiju-najmladji-navijaci-uz-orlove-protiv-nemacke/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "19. 10. 2026. у 08:00",
+      "datum": "19. 10. 2026. у 15:04",
       "slika": null
     },
     {
-      "naslov": "Partizanov oštar protest posle utakmice u Pančevu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277572/saopstenje-partizana-povodom-sudjenja-na-utakmici-protiv-zeleznicara/vest",
+      "naslov": "Haos u Partizanu: Ilić dva puta nudio ostavku – odbijeno!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277725/partizan-dva-puta-odbio-ostavku-sase-ilica/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 10. 2026. у 23:05",
+      "datum": "19. 10. 2026. у 14:09",
       "slika": null
     }
   ]
