@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-19T19:28:21.346876+00:00",
-  "azurirano_sr": "19. 10. 2026. у 21:28",
+  "azurirano": "2026-10-19T22:59:32.988293+00:00",
+  "azurirano_sr": "20. 10. 2026. у 00:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Mogao bi malo češće taj tim-bilding u Marbelji: Totenhem sa dve rakete konačno probio led",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mogao-bi-malo-cesce-taj-timbilding-u-marbelji-totenhem-sa-dve-rakete-konacno-probio-led/556771",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 10. 2026. у 01:01",
+      "slika": null
+    },
     {
       "naslov": "Festival fudbala u Subotici: Spartak i Borac odigrali po meri TSC-a",
       "url": "https://www.mozzartsport.com/fudbal/vesti/festival-fudbala-u-subotici-spartak-i-borac-odigrali-po-meri-tsca/556764",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Nikola Krstović 72 vs 14 Zvezdinih napadača nakon njega 221, 200, 107, 97, 5…",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nikola-krstovic-72-vs-14-zvezdinih-napadaca-nakon-njega-221-200-107-97-5/556741",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 10. 2026. у 17:14",
+      "naslov": "Fudbaleri Totenhema bolji od Koventrija za prvenac ove sezone u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/291045/fudbaleri-totenhema-bolji-od-koventrija-za-prvenac-ove-sezone-u-premijer-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 10. 2026. у 23:18",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Nastavlja se Liga šampiona, PSŽ dočekuje Barselonu, Bajern i Arsenal igraju u Minhenu",
-      "url": "https://www.tanjug.rs/sport/fudbal/290878/nastavlja-se-liga-sampiona-psz-docekuje-barselonu-bajern-i-arsenal-igraju-u-minhenu/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 10. 2026. у 12:30",
+      "naslov": "&quot;Partizan je oštećen protiv Železničara!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277888/zdravko-jokic-partizan-ostecen-protiv-zeleznicara-jurcevic-nije-trebalo-da-dobije-crveni-karton/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 10. 2026. у 22:30",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277879/haos-u-omladinskoj-ligi-srbije-tuca-na-mecu-novi-pazar-ofk-beograd/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 10. 2026. у 21:17",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Partizan me zvao dva puta pre Zvezde&quot;; &quot;Stanojeviću sam rekao da je Grobar, ali...&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277855/pesic-bez-zadrske-o-partizanu-zvezdi-i-stanojevicu-dva-puta-su-me-zvali-pre-zvezde/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 10. 2026. у 20:08",
       "slika": null
     }
   ]
