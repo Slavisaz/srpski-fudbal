@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-10-20T16:28:34.079740+00:00",
-  "azurirano_sr": "20. 10. 2026. у 18:28",
+  "azurirano": "2026-10-20T20:04:15.383157+00:00",
+  "azurirano_sr": "20. 10. 2026. у 22:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "UŽIVO - LIGA ŠAMPIONA: PSŽ poveo u velikom derbiju! (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-psz-poveo-u-velikom-derbiju-video/556823",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 10. 2026. у 22:41",
+      "slika": null
+    },
+    {
+      "naslov": "Uzalud bačenih 100.000.000: Fenerovi \"Galaktikosi\" nastavili da se brukaju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzalud-bacenih-100000000-fenerovi-galaktikosi-nastavili-da-se-brukaju/556830",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 10. 2026. у 22:39",
+      "slika": null
+    },
+    {
+      "naslov": "Liga šampiona tek počela, a zbog Mozzart Relax-a mnogi se već raduju (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/liga-sampiona-tek-pocela-a-zbog-mozzart-relaxa-mnogi-se-vec-raduju-video/556824",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 10. 2026. у 21:07",
+      "slika": null
+    },
     {
       "naslov": "Izdali ste nas i moraćete da platite! Real traži od 'izdajnika' da podele troškove propale Superlige",
       "url": "https://www.mozzartsport.com/fudbal/vesti/izdali-ste-nas-i-moracete-da-platite-real-trazi-od-izdajnika-da-podele-troskove-propale-superlige/556808",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Četiri utakmice Kupa Srbije pomerene za novembar",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cetiri-utakmice-kupa-srbije-pomerene-za-novembar/556789",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 10. 2026. у 12:32",
+      "naslov": "Slavija iz Praga u 90. minutu do boda protiv Fenerbahčea, Dortmund bolji od Sabaha",
+      "url": "https://www.tanjug.rs/sport/fudbal/291304/slavija-iz-praga-u-90-minutu-do-boda-protiv-fenerbahcea-dortmund-bolji-od-sabaha/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 10. 2026. у 21:15",
       "slika": null
     },
     {
-      "naslov": "NAJAVA DANA (utorak, 20. oktobar): Prinčevi fudbala na Parku prinčeva",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-20-oktobar-princevi-fudbala-na-parku-princeva/556751",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 10. 2026. у 10:12",
-      "slika": null
-    },
-    {
-      "naslov": "Mogao bi malo češće taj tim-bilding u Marbelji: Totenhem sa dve rakete konačno probio led",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mogao-bi-malo-cesce-taj-timbilding-u-marbelji-totenhem-sa-dve-rakete-konacno-probio-led/556771",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 10. 2026. у 01:01",
+      "naslov": "Sergej Jalčin novi selektor fudbalske reprezentacije Turske",
+      "url": "https://www.tanjug.rs/sport/fudbal/291272/sergej-jalcin-novi-selektor-fudbalske-reprezentacije-turske/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 10. 2026. у 18:26",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/291183/kapiten-partizana-vanja-marinkovic-vraca-se-timskim-treninzima-u-punom-ritmu/vest",
       "izvor": "Танјуг",
       "datum": "20. 10. 2026. у 13:38",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski arbitar Pavle Ilić sudiće meč Kauno Žalgiris - Bran u Ligi konferencija",
-      "url": "https://www.tanjug.rs/sport/fudbal/291133/srpski-arbitar-pavle-ilic-sudice-mec-kauno-zalgiris-bran-u-ligi-konferencija/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 10. 2026. у 11:44",
-      "slika": null
-    },
-    {
-      "naslov": "Srpski arbitar Nenad Minaković sudiće meč između fudbalera Šturma i Marselja",
-      "url": "https://www.tanjug.rs/sport/fudbal/291112/srpski-arbitar-nenad-minakovic-sudice-mec-izmedu-fudbalera-sturma-i-marselja/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 10. 2026. у 10:58",
       "slika": null
     },
     {
