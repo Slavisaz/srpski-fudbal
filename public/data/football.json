@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-20T11:59:39.139825+00:00",
-  "azurirano_sr": "20. 10. 2026. у 13:59",
+  "azurirano": "2026-10-20T16:28:34.079740+00:00",
+  "azurirano_sr": "20. 10. 2026. у 18:28",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Izdali ste nas i moraćete da platite! Real traži od 'izdajnika' da podele troškove propale Superlige",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/izdali-ste-nas-i-moracete-da-platite-real-trazi-od-izdajnika-da-podele-troskove-propale-superlige/556808",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 10. 2026. у 16:57",
+      "slika": null
+    },
     {
       "naslov": "Četiri utakmice Kupa Srbije pomerene za novembar",
       "url": "https://www.mozzartsport.com/fudbal/vesti/cetiri-utakmice-kupa-srbije-pomerene-za-novembar/556789",
@@ -11,8 +18,8 @@
       "slika": null
     },
     {
-      "naslov": "NAJAVA DANA (ponedeljak, 19. oktobar): Prinčevi fudbala na Parku prinčeva",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-ponedeljak-19-oktobar-princevi-fudbala-na-parku-princeva/556751",
+      "naslov": "NAJAVA DANA (utorak, 20. oktobar): Prinčevi fudbala na Parku prinčeva",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-20-oktobar-princevi-fudbala-na-parku-princeva/556751",
       "izvor": "Мозарт Спорт",
       "datum": "20. 10. 2026. у 10:12",
       "slika": null
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Festival fudbala u Subotici: Spartak i Borac odigrali po meri TSC-a",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/festival-fudbala-u-subotici-spartak-i-borac-odigrali-po-meri-tsca/556764",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 10. 2026. у 22:08",
+      "naslov": "Fan zona za najmlađe zvezdaše uoči utakmice protiv Kopenhagena",
+      "url": "https://www.tanjug.rs/sport/fudbal/291222/fan-zona-za-najmlade-zvezdase-uoci-utakmice-protiv-kopenhagena/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 10. 2026. у 15:31",
+      "slika": null
+    },
+    {
+      "naslov": "Kapiten Partizana Vanja Marinković vraća se timskim treninzima u punom ritmu",
+      "url": "https://www.tanjug.rs/sport/fudbal/291183/kapiten-partizana-vanja-marinkovic-vraca-se-timskim-treninzima-u-punom-ritmu/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 10. 2026. у 13:38",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Rumunski sudija Petresku biće glavni arbitar u duelu fudbalera Zvezde i Kopenhagena",
-      "url": "https://www.tanjug.rs/sport/fudbal/291104/rumunski-sudija-petresku-bice-glavni-arbitar-u-duelu-fudbalera-zvezde-i-kopenhagena/vest",
-      "izvor": "Танјуг",
-      "datum": "20. 10. 2026. у 10:41",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Totenhema bolji od Koventrija za prvenac ove sezone u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/291045/fudbaleri-totenhema-bolji-od-koventrija-za-prvenac-ove-sezone-u-premijer-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 10. 2026. у 23:18",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić čeka pojačanje iz sopstvenih redova",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278006/milan-vukotic-se-vraca-treninzima-partizana-posle-povrede/vest",
+      "naslov": "Dobro poznato lice opet na &quot;Marakani&quot; FOTO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278091/gelor-kanga-na-treningu-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "20. 10. 2026. у 13:45",
+      "datum": "20. 10. 2026. у 16:45",
       "slika": null
     },
     {
-      "naslov": "Dobre vesti za Srbiju – kapiten nije teže povređen",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278005/dobre-vesti-za-srbiju-kapiten-nije-teze-povredjen/vest",
+      "naslov": "Oglasio se De Bleker: &quot;Partizan nije oštećen u Pančevu!&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278088/frenk-de-bleker-o-sudjenju-na-utakmicama-12-kola-superlige-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "20. 10. 2026. у 12:37",
+      "datum": "20. 10. 2026. у 16:32",
       "slika": null
     }
   ]
