@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-20T06:32:13.634187+00:00",
-  "azurirano_sr": "20. 10. 2026. у 08:32",
+  "azurirano": "2026-10-20T11:59:39.139825+00:00",
+  "azurirano_sr": "20. 10. 2026. у 13:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Četiri utakmice Kupa Srbije pomerene za novembar",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cetiri-utakmice-kupa-srbije-pomerene-za-novembar/556789",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 10. 2026. у 12:32",
+      "slika": null
+    },
     {
       "naslov": "NAJAVA DANA (ponedeljak, 19. oktobar): Prinčevi fudbala na Parku prinčeva",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-ponedeljak-19-oktobar-princevi-fudbala-na-parku-princeva/556751",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "'Skromni', iskreni Embape: Karijera mi je za desetku! Kad kažem da sam najbolji, to je zato što u to verujem",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/skromni-iskreni-embape-karijera-mi-je-za-desetku-kad-kazem-da-sam-najbolji-to-je-zato-sto-u-to-verujem/556758",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 10. 2026. у 20:56",
+      "naslov": "Srpski arbitar Pavle Ilić sudiće meč Kauno Žalgiris - Bran u Ligi konferencija",
+      "url": "https://www.tanjug.rs/sport/fudbal/291133/srpski-arbitar-pavle-ilic-sudice-mec-kauno-zalgiris-bran-u-ligi-konferencija/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 10. 2026. у 11:44",
+      "slika": null
+    },
+    {
+      "naslov": "Srpski arbitar Nenad Minaković sudiće meč između fudbalera Šturma i Marselja",
+      "url": "https://www.tanjug.rs/sport/fudbal/291112/srpski-arbitar-nenad-minakovic-sudice-mec-izmedu-fudbalera-sturma-i-marselja/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 10. 2026. у 10:58",
+      "slika": null
+    },
+    {
+      "naslov": "Rumunski sudija Petresku biće glavni arbitar u duelu fudbalera Zvezde i Kopenhagena",
+      "url": "https://www.tanjug.rs/sport/fudbal/291104/rumunski-sudija-petresku-bice-glavni-arbitar-u-duelu-fudbalera-zvezde-i-kopenhagena/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 10. 2026. у 10:41",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbalski savez Portugala kaznio Ronalda sa 30 dana suspenzije i 255 evra",
-      "url": "https://www.tanjug.rs/sport/fudbal/291018/fudbalski-savez-portugala-kaznio-ronalda-sa-30-dana-suspenzije-i-255-evra/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 10. 2026. у 20:34",
-      "slika": null
-    },
-    {
-      "naslov": "Mančester Siti čeka kazna oduzimanja bodova i izvesna selidba u niži rang?",
-      "url": "https://www.tanjug.rs/sport/fudbal/290982/mancester-siti-ceka-kazna-oduzimanja-bodova-i-izvesna-selidba-u-nizi-rang/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 10. 2026. у 18:09",
-      "slika": null
-    },
-    {
-      "naslov": "FK Crvena zvezda: Kruniću uoči meča protiv Kopenhagena dres sa brojem 100 povodom jubileja",
-      "url": "https://www.tanjug.rs/sport/fudbal/290904/fk-crvena-zvezda-krunicu-uoci-meca-protiv-kopenhagena-dres-sa-brojem-100-povodom-jubileja/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 10. 2026. у 14:08",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Partizan je oštećen protiv Železničara!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277888/zdravko-jokic-partizan-ostecen-protiv-zeleznicara-jurcevic-nije-trebalo-da-dobije-crveni-karton/vest",
+      "naslov": "Saša Ilić čeka pojačanje iz sopstvenih redova",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278006/milan-vukotic-se-vraca-treninzima-partizana-posle-povrede/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "19. 10. 2026. у 22:30",
+      "datum": "20. 10. 2026. у 13:45",
       "slika": null
     },
     {
-      "naslov": "Haos i tuča posle meča Novog Pazara i OFK Beograda – podeljeno šest crvenih kartona",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/277879/haos-u-omladinskoj-ligi-srbije-tuca-na-mecu-novi-pazar-ofk-beograd/vest",
+      "naslov": "Dobre vesti za Srbiju – kapiten nije teže povređen",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278005/dobre-vesti-za-srbiju-kapiten-nije-teze-povredjen/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "19. 10. 2026. у 21:17",
+      "datum": "20. 10. 2026. у 12:37",
       "slika": null
     }
   ]
