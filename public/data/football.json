@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-20T01:36:48.574993+00:00",
-  "azurirano_sr": "20. 10. 2026. у 03:36",
+  "azurirano": "2026-10-20T06:32:13.634187+00:00",
+  "azurirano_sr": "20. 10. 2026. у 08:32",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (ponedeljak, 19. oktobar): Prinčevi fudbala na Parku prinčeva",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-ponedeljak-19-oktobar-princevi-fudbala-na-parku-princeva/556751",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 10. 2026. у 10:12",
+      "slika": null
+    },
     {
       "naslov": "Mogao bi malo češće taj tim-bilding u Marbelji: Totenhem sa dve rakete konačno probio led",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mogao-bi-malo-cesce-taj-timbilding-u-marbelji-totenhem-sa-dve-rakete-konacno-probio-led/556771",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/skromni-iskreni-embape-karijera-mi-je-za-desetku-kad-kazem-da-sam-najbolji-to-je-zato-sto-u-to-verujem/556758",
       "izvor": "Мозарт Спорт",
       "datum": "19. 10. 2026. у 20:56",
-      "slika": null
-    },
-    {
-      "naslov": "Spartak vratio Karaklajića u srpski fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/spartak-vratio-karaklajica-u-srpski-fudbal/556747",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 10. 2026. у 18:03",
       "slika": null
     },
     {
