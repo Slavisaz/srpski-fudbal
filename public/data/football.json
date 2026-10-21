@@ -1,11 +1,11 @@
 {
-  "azurirano": "2026-10-21T20:31:17.848367+00:00",
-  "azurirano_sr": "21. 10. 2026. у 22:31",
+  "azurirano": "2026-10-21T23:32:41.623300+00:00",
+  "azurirano_sr": "22. 10. 2026. у 01:32",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "UŽIVO - LIGA ŠAMPIONA: Nastavlja se okršaj na Alijanc Areni",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-nastavlja-se-okrsaj-na-alijanc-areni/556899",
+      "naslov": "KRAJ - LIGA ŠAMPIONA",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-sampiona/556899",
       "izvor": "Мозарт Спорт",
       "datum": "21. 10. 2026. у 22:36",
       "slika": null
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Remi fudbalera Bajerna i Arsenala, Real Madrid ubedljiv protiv Lajpciga u Ligi šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/291620/remi-fudbalera-bajerna-i-arsenala-real-madrid-ubedljiv-protiv-lajpciga-u-ligi-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 10. 2026. у 23:01",
+      "slika": null
+    },
+    {
+      "naslov": "Hajduk: UEFA nas kaznila jednom utakmicom bez navijača i 96.000 evra zbog pirotehnike",
+      "url": "https://www.tanjug.rs/sport/fudbal/291618/hajduk-uefa-nas-kaznila-jednom-utakmicom-bez-navijaca-i-96000-evra-zbog-pirotehnike/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 10. 2026. у 22:36",
+      "slika": null
+    },
+    {
       "naslov": "Svenson: Znamo da je Zvezda veliki klub sa tradicijom, pred nama je težak zadatak",
       "url": "https://www.tanjug.rs/sport/fudbal/291613/svenson-znamo-da-je-zvezda-veliki-klub-sa-tradicijom-pred-nama-je-tezak-zadatak/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/291605/fudbaleri-koma-ubedljivo-pobedili-mancester-junajted-u-ligi-sampiona/vest",
       "izvor": "Танјуг",
       "datum": "21. 10. 2026. у 20:45",
-      "slika": null
-    },
-    {
-      "naslov": "Dani Olmo povređen, propušta \"El Klasiko\" i neće igrati mesec dana",
-      "url": "https://www.tanjug.rs/sport/fudbal/291554/dani-olmo-povreden-propusta-el-klasiko-i-nece-igrati-mesec-dana/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 10. 2026. у 16:39",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera pred Kopenhagen: Imamo plan, želimo da pobedimo",
-      "url": "https://www.tanjug.rs/sport/fudbal/291491/rijera-pred-kopenhagen-imamo-plan-zelimo-da-pobedimo/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 10. 2026. у 13:53",
       "slika": null
     },
     {
