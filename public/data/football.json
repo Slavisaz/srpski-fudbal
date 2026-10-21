@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-21T06:21:02.724744+00:00",
-  "azurirano_sr": "21. 10. 2026. у 08:21",
+  "azurirano": "2026-10-21T12:02:17.305377+00:00",
+  "azurirano_sr": "21. 10. 2026. у 14:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "U Feneru proklinju sreću, Kartal dok ga teraju poručuje: Pobedićemo Galatu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/u-feneru-proklinju-srecu-kartal-dok-ga-teraju-porucuje-pobedicemo-galatu/556862",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 10. 2026. у 13:51",
+      "slika": null
+    },
+    {
+      "naslov": "NBA Liga šampiona",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nba-liga-sampiona/556853",
+      "izvor": "Мозарт Спорт",
+      "datum": "21. 10. 2026. у 11:28",
+      "slika": null
+    },
     {
       "naslov": "Flik: Bolji su, ali Liga šampiona se ne osvaja u oktobru",
       "url": "https://www.mozzartsport.com/fudbal/vesti/flik-bolji-su-ali-liga-sampiona-se-ne-osvaja-u-oktobru/556843",
@@ -18,45 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Rezzime dana (utorak): Veče atomskog fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-utorak-vece-atomskog-fudbala/556836",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 10. 2026. у 00:34",
-      "slika": null
-    },
-    {
-      "naslov": "KRAJ - LIGA ŠAMPIONA (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-sampiona-video/556823",
-      "izvor": "Мозарт Спорт",
-      "datum": "20. 10. 2026. у 22:41",
-      "slika": null
-    },
-    {
-      "naslov": "PSŽ u derbiju Lige šampiona naneo prvi poraz Barseloni u sezoni, Siti ubedljiv protiv AEK-a",
-      "url": "https://www.tanjug.rs/sport/fudbal/291320/psz-u-derbiju-lige-sampiona-naneo-prvi-poraz-barseloni-u-sezoni-siti-ubedljiv-protiv-aek-a/vest",
+      "naslov": "Kanga pred Kopenhagen: Voleo bih da neko \"ponovi\" moj gol protiv Krasnodara",
+      "url": "https://www.tanjug.rs/sport/fudbal/291459/kanga-pred-kopenhagen-voleo-bih-da-neko-ponovi-moj-gol-protiv-krasnodara/vest",
       "izvor": "Танјуг",
-      "datum": "20. 10. 2026. у 22:58",
+      "datum": "21. 10. 2026. у 12:59",
       "slika": null
     },
     {
-      "naslov": "Slavija iz Praga u 90. minutu do boda protiv Fenerbahčea, Dortmund bolji od Sabaha",
-      "url": "https://www.tanjug.rs/sport/fudbal/291304/slavija-iz-praga-u-90-minutu-do-boda-protiv-fenerbahcea-dortmund-bolji-od-sabaha/vest",
+      "naslov": "Kapiten fudbalera Bajerna Jozua Kimih neće igrati protiv Arsenala zbog smrti oca",
+      "url": "https://www.tanjug.rs/sport/fudbal/291431/kapiten-fudbalera-bajerna-jozua-kimih-nece-igrati-protiv-arsenala-zbog-smrti-oca/vest",
       "izvor": "Танјуг",
-      "datum": "20. 10. 2026. у 21:15",
+      "datum": "21. 10. 2026. у 11:55",
       "slika": null
     },
     {
-      "naslov": "Sergej Jalčin novi selektor fudbalske reprezentacije Turske",
-      "url": "https://www.tanjug.rs/sport/fudbal/291272/sergej-jalcin-novi-selektor-fudbalske-reprezentacije-turske/vest",
+      "naslov": "Fudbaler PSŽ-a Hviča Kvarachelija pokidao ligamente kolena desne noge",
+      "url": "https://www.tanjug.rs/sport/fudbal/291424/fudbaler-psz-a-hvica-kvarachelija-pokidao-ligamente-kolena-desne-noge/vest",
       "izvor": "Танјуг",
-      "datum": "20. 10. 2026. у 18:26",
+      "datum": "21. 10. 2026. у 11:44",
       "slika": null
     },
     {
-      "naslov": "Fan zona za najmlađe zvezdaše uoči utakmice protiv Kopenhagena",
-      "url": "https://www.tanjug.rs/sport/fudbal/291222/fan-zona-za-najmlade-zvezdase-uoci-utakmice-protiv-kopenhagena/vest",
+      "naslov": "Fudbaleri Borusije Dortmund odbili da se tuširaju na stadionu u Bakuu zbog bakterije",
+      "url": "https://www.tanjug.rs/sport/fudbal/291423/fudbaleri-borusije-dortmund-odbili-da-se-tusiraju-na-stadionu-u-bakuu-zbog-bakterije/vest",
       "izvor": "Танјуг",
-      "datum": "20. 10. 2026. у 15:31",
+      "datum": "21. 10. 2026. у 11:43",
+      "slika": null
+    },
+    {
+      "naslov": "FSS obustavio postupak protiv Dejana Stankovića",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278258/fss-obustavio-postupak-protiv-dejana-stankovica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "21. 10. 2026. у 09:23",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278091/gelor-kanga-na-treningu-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "20. 10. 2026. у 16:45",
-      "slika": null
-    },
-    {
-      "naslov": "Oglasio se De Bleker: &quot;Partizan nije oštećen u Pančevu!&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278088/frenk-de-bleker-o-sudjenju-na-utakmicama-12-kola-superlige-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "20. 10. 2026. у 16:32",
       "slika": null
     }
   ]
