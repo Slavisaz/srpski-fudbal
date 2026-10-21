@@ -1,13 +1,13 @@
 {
-  "azurirano": "2026-10-21T17:03:18.301618+00:00",
-  "azurirano_sr": "21. 10. 2026. у 19:03",
+  "azurirano": "2026-10-21T20:31:17.848367+00:00",
+  "azurirano_sr": "21. 10. 2026. у 22:31",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "UŽIVO - LIGA ŠAMPIONA: Mančester kapitulirao u drugom minutu, u Lilu dva gola u prvih sedam minuta",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-mancester-kapitulirao-u-drugom-minutu-u-lilu-dva-gola-u-prvih-sedam-minuta/556899",
+      "naslov": "UŽIVO - LIGA ŠAMPIONA: Nastavlja se okršaj na Alijanc Areni",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona-nastavlja-se-okrsaj-na-alijanc-areni/556899",
       "izvor": "Мозарт Спорт",
-      "datum": "21. 10. 2026. у 20:55",
+      "datum": "21. 10. 2026. у 22:36",
       "slika": null
     },
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Svenson: Znamo da je Zvezda veliki klub sa tradicijom, pred nama je težak zadatak",
+      "url": "https://www.tanjug.rs/sport/fudbal/291613/svenson-znamo-da-je-zvezda-veliki-klub-sa-tradicijom-pred-nama-je-tezak-zadatak/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 10. 2026. у 21:45",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Koma ubedljivo pobedili Mančester junajted u Ligi šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/291605/fudbaleri-koma-ubedljivo-pobedili-mancester-junajted-u-ligi-sampiona/vest",
+      "izvor": "Танјуг",
+      "datum": "21. 10. 2026. у 20:45",
+      "slika": null
+    },
+    {
       "naslov": "Dani Olmo povređen, propušta \"El Klasiko\" i neće igrati mesec dana",
       "url": "https://www.tanjug.rs/sport/fudbal/291554/dani-olmo-povreden-propusta-el-klasiko-i-nece-igrati-mesec-dana/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/291491/rijera-pred-kopenhagen-imamo-plan-zelimo-da-pobedimo/vest",
       "izvor": "Танјуг",
       "datum": "21. 10. 2026. у 13:53",
-      "slika": null
-    },
-    {
-      "naslov": "Kanga pred Kopenhagen: Voleo bih da neko \"ponovi\" moj gol protiv Krasnodara",
-      "url": "https://www.tanjug.rs/sport/fudbal/291459/kanga-pred-kopenhagen-voleo-bih-da-neko-ponovi-moj-gol-protiv-krasnodara/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 10. 2026. у 12:59",
-      "slika": null
-    },
-    {
-      "naslov": "Kapiten fudbalera Bajerna Jozua Kimih neće igrati protiv Arsenala zbog smrti oca",
-      "url": "https://www.tanjug.rs/sport/fudbal/291431/kapiten-fudbalera-bajerna-jozua-kimih-nece-igrati-protiv-arsenala-zbog-smrti-oca/vest",
-      "izvor": "Танјуг",
-      "datum": "21. 10. 2026. у 11:55",
       "slika": null
     },
     {
