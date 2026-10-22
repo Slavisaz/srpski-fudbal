@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-22T20:34:21.031847+00:00",
-  "azurirano_sr": "22. 10. 2026. у 22:34",
+  "azurirano": "2026-10-22T23:31:31.864517+00:00",
+  "azurirano_sr": "23. 10. 2026. у 01:31",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "A sad, zna se - luda euforija u Splitu! Hajduk se šepuri u TOP 8",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/a-sad-zna-se-luda-euforija-u-splitu-hajduk-se-sepuri-u-top-8/557001",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 10. 2026. у 01:25",
+      "slika": null
+    },
     {
       "naslov": "Kraj bojkota: Real ponovo ima predstavnike na ceremoniji Zlatne lopte",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-bojkota-real-ponovo-ima-predstavnike-na-ceremoniji-zlatne-lopte/556965",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Sad i Koventri češlja Kostova: Sjajno se kreće između linija, ima veliki uticaj na seniorski fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sad-i-koventri-ceslja-kostova-sjajno-se-krece-izmeu-linija-ima-veliki-uticaj-na-seniorski-fudbal/556947",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 10. 2026. у 14:40",
+      "naslov": "Fudbaleri Borca iz Banjaluke nadigrali Kups u Ligi konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/291915/fudbaleri-borca-iz-banjaluke-nadigrali-kups-u-ligi-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 10. 2026. у 23:21",
+      "slika": null
+    },
+    {
+      "naslov": "Rijera: Stvaramo šanse, ali moramo da ih iskoristimo i budemo efikasni",
+      "url": "https://www.tanjug.rs/sport/fudbal/291891/rijera-stvaramo-sanse-ali-moramo-da-ih-iskoristimo-i-budemo-efikasni/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 10. 2026. у 22:49",
       "slika": null
     },
     {
@@ -39,13 +53,6 @@
       "slika": null
     },
     {
-      "naslov": "Rijera: Stvaramo šanse, ali moramo da ih iskoristimo i budemo efikasni",
-      "url": "https://www.tanjug.rs/sport/fudbal/291891/rijera-stvaramo-sanse-ali-moramo-da-ih-iskoristimo-i-budemo-efikasni/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 10. 2026. у 21:15",
-      "slika": null
-    },
-    {
       "naslov": "Remi fudbalera Juventusa i Rena u drugom kolu Lige Evrope",
       "url": "https://www.tanjug.rs/sport/fudbal/291890/remi-fudbalera-juventusa-i-rena-u-drugom-kolu-lige-evrope/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Lugana ubedljivi protiv Hetafea, Krajova bolja od Eskaldesa u LK",
-      "url": "https://www.tanjug.rs/sport/fudbal/291888/fudbaleri-lugana-ubedljivi-protiv-hetafea-krajova-bolja-od-eskaldesa-u-lk/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 10. 2026. у 21:00",
+      "naslov": "FSS se oglasio pred duel sa Nemačkom",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278776/fss-se-oglasio-pred-duel-sa-nemackom/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 10. 2026. у 23:52",
       "slika": null
     },
     {
@@ -64,20 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278751/nenad-lalatovic-konferencija-za-medije-pred-radnicki-nis-novi-pazar/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 10. 2026. у 21:25",
-      "slika": null
-    },
-    {
-      "naslov": "Koković: &quot;Sledeća utakmica je mali derbi&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278714/izjava-radomira-kokovica-pred-mec-imt-zeleznicar-u-13-kolu-superlige-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 10. 2026. у 18:37",
-      "slika": null
-    },
-    {
-      "naslov": "Srbin član Sudijske komisije Fudbalskog saveza Turske",
-      "url": "https://www.b92.net/sport/fudbal/vesti/278429/igor-radojicic-u-fudbalskom-savezu-turske/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "21. 10. 2026. у 19:35",
       "slika": null
     }
   ]
