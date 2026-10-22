@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-22T12:18:33.372647+00:00",
-  "azurirano_sr": "22. 10. 2026. у 14:18",
+  "azurirano": "2026-10-22T17:16:57.841427+00:00",
+  "azurirano_sr": "22. 10. 2026. у 19:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kraj bojkota: Real ponovo ima predstavnike na ceremoniji Zlatne lopte",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-bojkota-real-ponovo-ima-predstavnike-na-ceremoniji-zlatne-lopte/556965",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 10. 2026. у 19:01",
+      "slika": null
+    },
+    {
+      "naslov": "Došlo vreme da košarka kupuje fudbal u Napulju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/doslo-vreme-da-kosarka-kupuje-fudbal-u-napulju/556960",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 10. 2026. у 17:16",
+      "slika": null
+    },
     {
       "naslov": "Van Gal: Ligu šampiona danas mogu da igraju Kurta i Murta",
       "url": "https://www.mozzartsport.com/fudbal/vesti/van-gal-ligu-sampiona-danas-mogu-da-igraju-kurta-i-murta/556948",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Desetkovani NEC na Maksimiru: Zagrepčani neće videti Dušana Tadića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/desetkovani-nec-na-maksimiru-zagrepcani-nece-videti-dusana-tadica/556943",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 10. 2026. у 13:07",
-      "slika": null
-    },
-    {
-      "naslov": "Borčev evropski put vodi preko KuPS-a, Banjaluka čeka Fince",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/borcev-evropski-put-vodi-preko-kupsa-banjaluka-ceka-fince/556932",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 10. 2026. у 11:22",
+      "naslov": "Rijera odredio tim za Kopenhagen: Ista postava kao protiv Lugana",
+      "url": "https://www.tanjug.rs/sport/fudbal/291839/rijera-odredio-tim-za-kopenhagen-ista-postava-kao-protiv-lugana/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 10. 2026. у 17:47",
       "slika": null
     },
     {
@@ -53,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Skaloni ostaje selektor fudbalera Argentine do 2030. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/291695/skaloni-ostaje-selektor-fudbalera-argentine-do-2030-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 10. 2026. у 10:43",
+      "naslov": "Koković: &quot;Sledeća utakmica je mali derbi&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278714/izjava-radomira-kokovica-pred-mec-imt-zeleznicar-u-13-kolu-superlige-srbije/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 10. 2026. у 18:37",
       "slika": null
     },
     {
-      "naslov": "Zvezda &quot;blindirala&quot; dvojicu bisera",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278444/stefan-gudelj-i-matej-gastarov-potpisali-ugovor-sa-zvezdom-do-2031-godine/vest",
+      "naslov": "UEFA spustila rampu Srbiji",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278739/srbija-nemacka-ipak-bez-publike/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "21. 10. 2026. у 17:58",
-      "slika": null
-    },
-    {
-      "naslov": "Preokret u Humskoj: Sek se izvinio i vratio treninzima Partizana!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278379/demba-sek-vracen-na-treninge-fk-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 10. 2026. у 14:37",
-      "slika": null
-    },
-    {
-      "naslov": "FSS obustavio postupak protiv Dejana Stankovića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278258/fss-obustavio-postupak-protiv-dejana-stankovica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "21. 10. 2026. у 09:23",
+      "datum": "22. 10. 2026. у 18:13",
       "slika": null
     }
   ]
