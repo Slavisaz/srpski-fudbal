@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-10-22T17:16:57.841427+00:00",
-  "azurirano_sr": "22. 10. 2026. у 19:16",
+  "azurirano": "2026-10-22T20:34:21.031847+00:00",
+  "azurirano_sr": "22. 10. 2026. у 22:34",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,31 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Rijera odredio tim za Kopenhagen: Ista postava kao protiv Lugana",
-      "url": "https://www.tanjug.rs/sport/fudbal/291839/rijera-odredio-tim-za-kopenhagen-ista-postava-kao-protiv-lugana/vest",
+      "naslov": "Elšnik: Izmene nisu donele promene; Kostov: Video sam da lopta ide u gol",
+      "url": "https://www.tanjug.rs/sport/fudbal/291898/elsnik-izmene-nisu-donele-promene-kostov-video-sam-da-lopta-ide-u-gol/vest",
       "izvor": "Танјуг",
-      "datum": "22. 10. 2026. у 17:47",
+      "datum": "22. 10. 2026. у 21:52",
       "slika": null
     },
     {
-      "naslov": "Rajs: Kejn zaslužuje Zlatnu loptu, nestvarno je dobar fudbaler",
-      "url": "https://www.tanjug.rs/sport/fudbal/291744/rajs-kejn-zasluzuje-zlatnu-loptu-nestvarno-je-dobar-fudbaler/vest",
+      "naslov": "Rijera: Stvaramo šanse, ali moramo da ih iskoristimo i budemo efikasni",
+      "url": "https://www.tanjug.rs/sport/fudbal/291891/rijera-stvaramo-sanse-ali-moramo-da-ih-iskoristimo-i-budemo-efikasni/vest",
       "izvor": "Танјуг",
-      "datum": "22. 10. 2026. у 13:14",
+      "datum": "22. 10. 2026. у 21:15",
       "slika": null
     },
     {
-      "naslov": "Zvezda uoči Kopenhagena podsetila na pobedu iz 1986. godine: Neka se ponovi Rozenborg",
-      "url": "https://www.tanjug.rs/sport/fudbal/291742/zvezda-uoci-kopenhagena-podsetila-na-pobedu-iz-1986-godine-neka-se-ponovi-rozenborg/vest",
+      "naslov": "Remi fudbalera Juventusa i Rena u drugom kolu Lige Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/291890/remi-fudbalera-juventusa-i-rena-u-drugom-kolu-lige-evrope/vest",
       "izvor": "Танјуг",
-      "datum": "22. 10. 2026. у 13:06",
+      "datum": "22. 10. 2026. у 21:08",
       "slika": null
     },
     {
-      "naslov": "Nastavlja se Superliga Srbije, sutra četiri utakmice, Zvezda u nedelju na Karaburmi",
-      "url": "https://www.tanjug.rs/sport/fudbal/291716/nastavlja-se-superliga-srbije-sutra-cetiri-utakmice-zvezda-u-nedelju-na-karaburmi/vest",
+      "naslov": "Fudbaleri Lugana ubedljivi protiv Hetafea, Krajova bolja od Eskaldesa u LK",
+      "url": "https://www.tanjug.rs/sport/fudbal/291888/fudbaleri-lugana-ubedljivi-protiv-hetafea-krajova-bolja-od-eskaldesa-u-lk/vest",
       "izvor": "Танјуг",
-      "datum": "22. 10. 2026. у 11:53",
+      "datum": "22. 10. 2026. у 21:00",
+      "slika": null
+    },
+    {
+      "naslov": "Lalatović hvali: &quot;Sudiće nam naš najbolji sudija&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278751/nenad-lalatovic-konferencija-za-medije-pred-radnicki-nis-novi-pazar/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 10. 2026. у 21:25",
       "slika": null
     },
     {
@@ -67,10 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "UEFA spustila rampu Srbiji",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278739/srbija-nemacka-ipak-bez-publike/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 10. 2026. у 18:13",
+      "naslov": "Srbin član Sudijske komisije Fudbalskog saveza Turske",
+      "url": "https://www.b92.net/sport/fudbal/vesti/278429/igor-radojicic-u-fudbalskom-savezu-turske/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "21. 10. 2026. у 19:35",
       "slika": null
     }
   ]
