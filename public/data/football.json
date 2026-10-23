@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-23T20:01:45.624566+00:00",
-  "azurirano_sr": "23. 10. 2026. у 22:01",
+  "azurirano": "2026-10-23T23:00:14.465313+00:00",
+  "azurirano_sr": "24. 10. 2026. у 01:00",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Umalo Malaga da pobegne sa dna: Jedino ona i Avr nikog nisu dobili u „ligama petice“",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/umalo-malaga-da-pobegne-sa-dna-jedino-ona-i-avr-nikog-nisu-dobili-u-ligama-petice/557090",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 10. 2026. у 01:11",
+      "slika": null
+    },
+    {
+      "naslov": "Dosta je bilo dosade i proseka: Ovaj Torino igra lep fudbal i ređa pobede (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dosta-je-bilo-dosade-i-proseka-ovaj-torino-igra-lep-fudbal-i-rea-pobede-video/557078",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 10. 2026. у 00:48",
+      "slika": null
+    },
     {
       "naslov": "Pazarci oslabljeni na Čairu: Odbrana na remontu, traži se i novi \"osigurač\"",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pazarci-oslabljeni-na-cairu-odbrana-na-remontu-trazi-se-i-novi-osigurac/557046",
@@ -18,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "A sad, zna se - luda euforija u Splitu! Hajduk se šepuri u TOP 8",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/a-sad-zna-se-luda-euforija-u-splitu-hajduk-se-sepuri-u-top-8/557001",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 10. 2026. у 01:25",
+      "naslov": "Džabari Parker nije više košarkaš Partizana",
+      "url": "https://www.tanjug.rs/sport/fudbal/292170/dzabari-parker-nije-vise-kosarkas-partizana/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 10. 2026. у 23:44",
+      "slika": null
+    },
+    {
+      "naslov": "Remi fudbalera Ipsviča i Notingem Foresta u osmom kolu Premijer lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/292167/remi-fudbalera-ipsvica-i-notingem-foresta-u-osmom-kolu-premijer-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 10. 2026. у 23:11",
+      "slika": null
+    },
+    {
+      "naslov": "Sergej strelac i asistent u pobedi fudbalera Al Hilala protiv Al Kadisije",
+      "url": "https://www.tanjug.rs/sport/fudbal/292162/sergej-strelac-i-asistent-u-pobedi-fudbalera-al-hilala-protiv-al-kadisije/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 10. 2026. у 22:58",
       "slika": null
     },
     {
@@ -29,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/292131/fudbaleri-zeleznicara-pobedili-imt-zemun-protiv-macve-do-prvog-trijumfa-ove-sezone/vest",
       "izvor": "Танјуг",
       "datum": "23. 10. 2026. у 20:22",
-      "slika": null
-    },
-    {
-      "naslov": "Utakmica između fudbalera PSŽ-a i Liona pomerena za ponedeljak zbog protesta",
-      "url": "https://www.tanjug.rs/sport/fudbal/292128/utakmica-izmedu-fudbalera-psz-a-i-liona-pomerena-za-ponedeljak-zbog-protesta/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 10. 2026. у 19:51",
-      "slika": null
-    },
-    {
-      "naslov": "Vensanu Kompaniju pozlilo posle treninga Bajerna, prevezen u bolnicu",
-      "url": "https://www.tanjug.rs/sport/fudbal/292110/vensanu-kompaniju-pozlilo-posle-treninga-bajerna-prevezen-u-bolnicu/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 10. 2026. у 18:34",
-      "slika": null
-    },
-    {
-      "naslov": "Mladi fudbaler Strahinja Baucal produžio ugovor sa Crvenom zvezdom do 2029. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/292107/mladi-fudbaler-strahinja-baucal-produzio-ugovor-sa-crvenom-zvezdom-do-2029-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 10. 2026. у 18:18",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278983/konferencij-sase-ilica-pred-partizan-cukaricki-u-13-kolu-superlige-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "23. 10. 2026. у 14:19",
-      "slika": null
-    },
-    {
-      "naslov": "Poruka iz Vojvodine: &quot;Može i Zvezda nekad da padne&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278816/izjava-marka-savica-pred-mec-mladost-lucani-vojvodina-u-13-kolu-superlige/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 10. 2026. у 10:08",
       "slika": null
     }
   ]
