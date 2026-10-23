@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-23T06:32:55.050921+00:00",
-  "azurirano_sr": "23. 10. 2026. у 08:32",
+  "azurirano": "2026-10-23T11:58:56.461515+00:00",
+  "azurirano_sr": "23. 10. 2026. у 13:58",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Pazarci oslabljeni na Čairu: Odbrana na remontu, traži se i novi \"osigurač\"",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pazarci-oslabljeni-na-cairu-odbrana-na-remontu-trazi-se-i-novi-osigurac/557046",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 10. 2026. у 14:54",
+      "slika": null
+    },
+    {
+      "naslov": "NAJAVA DANA (petak, 23. oktobar): Lige petice, Evroliga, Mozzart Bet Superliga...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-petak-23-oktobar-lige-petice-evroliga-mozzart-bet-superliga/557027",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 10. 2026. у 11:30",
+      "slika": null
+    },
     {
       "naslov": "A sad, zna se - luda euforija u Splitu! Hajduk se šepuri u TOP 8",
       "url": "https://www.mozzartsport.com/fudbal/vesti/a-sad-zna-se-luda-euforija-u-splitu-hajduk-se-sepuri-u-top-8/557001",
@@ -18,17 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Došlo vreme da košarka kupuje fudbal u Napulju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/doslo-vreme-da-kosarka-kupuje-fudbal-u-napulju/556960",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 10. 2026. у 17:16",
+      "naslov": "Finale Interkontinentalnog kupa igraće se 16. decembra u Dohi",
+      "url": "https://www.tanjug.rs/sport/fudbal/292028/finale-interkontinentalnog-kupa-igrace-se-16-decembra-u-dohi/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 10. 2026. у 12:36",
       "slika": null
     },
     {
-      "naslov": "Van Gal: Ligu šampiona danas mogu da igraju Kurta i Murta",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/van-gal-ligu-sampiona-danas-mogu-da-igraju-kurta-i-murta/556948",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 10. 2026. у 14:42",
+      "naslov": "Azijska fudbalska konfederacija podržala Infantina za novi predsednički mandat u FIFA",
+      "url": "https://www.tanjug.rs/sport/fudbal/291991/azijska-fudbalska-konfederacija-podrzala-infantina-za-novi-predsednicki-mandat-u-fifa/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 10. 2026. у 10:44",
+      "slika": null
+    },
+    {
+      "naslov": "U finalu Kopa Libertadores igraće fudbaleri Estudijantesa i Palmeirasa",
+      "url": "https://www.tanjug.rs/sport/fudbal/291964/u-finalu-kopa-libertadores-igrace-fudbaleri-estudijantesa-i-palmeirasa/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 10. 2026. у 09:30",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Rijera: Stvaramo šanse, ali moramo da ih iskoristimo i budemo efikasni",
-      "url": "https://www.tanjug.rs/sport/fudbal/291891/rijera-stvaramo-sanse-ali-moramo-da-ih-iskoristimo-i-budemo-efikasni/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 10. 2026. у 22:49",
-      "slika": null
-    },
-    {
-      "naslov": "Elšnik: Izmene nisu donele promene; Kostov: Video sam da lopta ide u gol",
-      "url": "https://www.tanjug.rs/sport/fudbal/291898/elsnik-izmene-nisu-donele-promene-kostov-video-sam-da-lopta-ide-u-gol/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 10. 2026. у 21:52",
-      "slika": null
-    },
-    {
-      "naslov": "Remi fudbalera Juventusa i Rena u drugom kolu Lige Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/291890/remi-fudbalera-juventusa-i-rena-u-drugom-kolu-lige-evrope/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 10. 2026. у 21:08",
-      "slika": null
-    },
-    {
-      "naslov": "Englezi opet &quot;merkaju&quot; Kostova",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278720/koventri-prati-vasilija-kostova/vest",
+      "naslov": "Poruka iz Vojvodine: &quot;Može i Zvezda nekad da padne&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278816/izjava-marka-savica-pred-mec-mladost-lucani-vojvodina-u-13-kolu-superlige/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 10. 2026. у 08:13",
+      "datum": "23. 10. 2026. у 10:08",
       "slika": null
     },
     {
-      "naslov": "FSS se oglasio pred duel sa Nemačkom",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278776/fss-se-oglasio-pred-duel-sa-nemackom/vest",
+      "naslov": "BiH &quot;krade&quot; Srbiji štopera od 5.000.000 evra?! VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278874/ahmed-hadzimujovic-hoce-li-stoper-novog-pazara-izabrati-bih-umesto-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "22. 10. 2026. у 23:52",
+      "datum": "23. 10. 2026. у 09:30",
       "slika": null
     }
   ]
