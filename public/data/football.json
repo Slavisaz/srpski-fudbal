@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-10-24T19:34:23.001425+00:00",
-  "azurirano_sr": "24. 10. 2026. у 21:34",
+  "azurirano": "2026-10-24T21:49:49.945573+00:00",
+  "azurirano_sr": "24. 10. 2026. у 23:49",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Infantino: Imam podršku velike većine svetskog fudbala",
+      "url": "https://www.tanjug.rs/sport/fudbal/292356/infantino-imam-podrsku-velike-vecine-svetskog-fudbala/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 10. 2026. у 22:08",
+      "slika": null
+    },
+    {
+      "naslov": "Saša Ilić odlučio da napusti mesto trenera Partizana",
+      "url": "https://www.tanjug.rs/sport/fudbal/292347/sasa-ilic-odlucio-da-napusti-mesto-trenera-partizana/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 10. 2026. у 21:47",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Totenhema kao gosti pobedili Čelsi u Premijer ligi",
       "url": "https://www.tanjug.rs/sport/fudbal/292329/fudbaleri-totenhema-kao-gosti-pobedili-celsi-u-premijer-ligi/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Arsenala savladali Everton i izjednačili se sa Sitijem na vrhu tabele",
-      "url": "https://www.tanjug.rs/sport/fudbal/292299/fudbaleri-arsenala-savladali-everton-i-izjednacili-se-sa-sitijem-na-vrhu-tabele/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 10. 2026. у 17:58",
-      "slika": null
-    },
-    {
-      "naslov": "Dva gola Đokovića za pobedu fudbalera Čukaričkog protiv Partizana u Humskoj",
-      "url": "https://www.tanjug.rs/sport/fudbal/292298/dva-gola-dokovica-za-pobedu-fudbalera-cukarickog-protiv-partizana-u-humskoj/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 10. 2026. у 17:58",
+      "naslov": "Saša Ilić napustio Partizan!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279296/sasa-ilic-otisao-iz-partizana/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "24. 10. 2026. у 21:52",
       "slika": null
     },
     {
@@ -67,10 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "&quot;Normalno da mi nije drago zbog Partizana&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279272/lazar-markovic-o-situaciji-u-fk-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "24. 10. 2026. у 19:47",
+      "naslov": "Mesiju uručeno važno priznanje u Španiji – iz ruku princeze VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/vesti/279086/mesiju-uruceno-vazno-priznanje-u-spaniji-iz-ruku-princeze-video/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "23. 10. 2026. у 22:11",
       "slika": null
     }
   ]
