@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-10-24T06:02:48.464513+00:00",
-  "azurirano_sr": "24. 10. 2026. у 08:02",
+  "azurirano": "2026-10-24T10:46:06.385182+00:00",
+  "azurirano_sr": "24. 10. 2026. у 12:46",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Rođendan na Koševu: Željo želi da pokvari slavlje, meč koji je mnogo više od fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/roendan-na-kosevu-zeljo-zeli-da-pokvari-slavlje-mec-koji-je-mnogo-vise-od-fudbala/557107",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 10. 2026. у 12:28",
+      "slika": null
+    },
+    {
+      "naslov": "Televisa presenta: Flamengo traži finale preko žalbe, a njegova zvezda Žoržinjo možda pao na dopingu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/televisa-presenta-flamengo-trazi-finale-preko-zalbe-a-njegova-zvezda-zorzinjo-mozda-pao-na-dopingu/557106",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 10. 2026. у 12:27",
+      "slika": null
+    },
+    {
+      "naslov": "Alonso otvorio trenersku svesku: Šta je \"ukrao\" od Beniteza, Murinja, Ančelotija i Gvardiole",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/alonso-otvorio-trenersku-svesku-sta-je-ukrao-od-beniteza-murinja-ancelotija-i-gvardiole/557083",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 10. 2026. у 10:38",
+      "slika": null
+    },
     {
       "naslov": "Umalo Malaga da pobegne sa dna: Jedino ona i Avr nikog nisu dobili u „ligama petice“",
       "url": "https://www.mozzartsport.com/fudbal/vesti/umalo-malaga-da-pobegne-sa-dna-jedino-ona-i-avr-nikog-nisu-dobili-u-ligama-petice/557090",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Dosta je bilo dosade i proseka: Ovaj Torino igra lep fudbal i ređa pobede (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dosta-je-bilo-dosade-i-proseka-ovaj-torino-igra-lep-fudbal-i-rea-pobede-video/557078",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 10. 2026. у 00:48",
+      "naslov": "Crvena zvezda deseta na svetu u oblasti razvoja mladih fudbalera",
+      "url": "https://www.tanjug.rs/sport/fudbal/292236/crvena-zvezda-deseta-na-svetu-u-oblasti-razvoja-mladih-fudbalera/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 10. 2026. у 12:00",
       "slika": null
     },
     {
-      "naslov": "Pazarci oslabljeni na Čairu: Odbrana na remontu, traži se i novi \"osigurač\"",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pazarci-oslabljeni-na-cairu-odbrana-na-remontu-trazi-se-i-novi-osigurac/557046",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 10. 2026. у 14:54",
-      "slika": null
-    },
-    {
-      "naslov": "NAJAVA DANA (petak, 23. oktobar): Lige petice, Evroliga, Mozzart Bet Superliga...",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-petak-23-oktobar-lige-petice-evroliga-mozzart-bet-superliga/557027",
-      "izvor": "Мозарт Спорт",
-      "datum": "23. 10. 2026. у 11:30",
+      "naslov": "Trener Bajerna Vensan Kompani zbog bolesti neće voditi ekipu najmanje tri nedelje",
+      "url": "https://www.tanjug.rs/sport/fudbal/292237/trener-bajerna-vensan-kompani-zbog-bolesti-nece-voditi-ekipu-najmanje-tri-nedelje/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 10. 2026. у 11:54",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Sergej strelac i asistent u pobedi fudbalera Al Hilala protiv Al Kadisije",
-      "url": "https://www.tanjug.rs/sport/fudbal/292162/sergej-strelac-i-asistent-u-pobedi-fudbalera-al-hilala-protiv-al-kadisije/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 10. 2026. у 22:58",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Železničara pobedili IMT, Zemun protiv Mačve do prvog trijumfa ove sezone",
-      "url": "https://www.tanjug.rs/sport/fudbal/292131/fudbaleri-zeleznicara-pobedili-imt-zemun-protiv-macve-do-prvog-trijumfa-ove-sezone/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 10. 2026. у 20:22",
-      "slika": null
-    },
-    {
-      "naslov": "Prva pobeda Zemuna, Jamajčanin obradovao Lalatovića, Pančevci su ozbiljni",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279075/prva-pobeda-zemuna-lalatovic-slavi-jamajcanina-pancevci-su-ozbiljni/vest",
+      "naslov": "Veliko priznanje za Crvenu zvezdu: Crveno-beli među deset najboljih klubova sveta!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279150/crvena-zvezda-medju-10-najboljih-klubova-sveta-u-razvoju-fudbalera/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 10. 2026. у 20:00",
+      "datum": "24. 10. 2026. у 10:30",
       "slika": null
     },
     {
-      "naslov": "Saša Ilić: &quot;Ne može Sek odmah da se vrati u tim&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/278983/konferencij-sase-ilica-pred-partizan-cukaricki-u-13-kolu-superlige-srbije/vest",
+      "naslov": "Rijera precrtao još jednog fudbalera Zvezde?!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279156/milos-veljkovic-bi-mogao-na-zimu-da-napusti-crvenu-zvezdu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "23. 10. 2026. у 14:19",
+      "datum": "24. 10. 2026. у 10:15",
       "slika": null
     }
   ]
