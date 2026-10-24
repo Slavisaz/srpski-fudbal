@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-24T14:07:29.545939+00:00",
-  "azurirano_sr": "24. 10. 2026. у 16:07",
+  "azurirano": "2026-10-24T17:23:11.431547+00:00",
+  "azurirano_sr": "24. 10. 2026. у 19:23",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Borac bi u elitu, a nije pobedio nijednog eks superligaša",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/borac-bi-u-elitu-a-nije-pobedio-nijednog-eks-superligasa/557153",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 10. 2026. у 20:18",
+      "slika": null
+    },
+    {
+      "naslov": "Dok drugi odmaraju, Duvikas rešeta! Otkad se pojavio u ligama petice nije bio ovako efikasan",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dok-drugi-odmaraju-duvikas-reseta-otkad-se-pojavio-u-ligama-petice-nije-bio-ovako-efikasan/557147",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 10. 2026. у 19:14",
+      "slika": null
+    },
     {
       "naslov": "Kako je Fikret Međedović doveo Diksona u Novi Pazar: Moj najbolji potez i buduća najveća prodaja",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kako-je-fikret-meedovic-doveo-diksona-u-novi-pazar-moj-najbolji-potez-i-buduca-najveca-prodaja/557132",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Krasnodar bi da ispije \"Baltik\" votku za kraj crne serije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/krasnodar-bi-da-ispije-baltik-votku-za-kraj-crne-serije/557124",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 10. 2026. у 15:21",
+      "naslov": "Fudbaleri Arsenala savladali Everton i izjednačili se sa Sitijem na vrhu tabele",
+      "url": "https://www.tanjug.rs/sport/fudbal/292299/fudbaleri-arsenala-savladali-everton-i-izjednacili-se-sa-sitijem-na-vrhu-tabele/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 10. 2026. у 17:58",
       "slika": null
     },
     {
-      "naslov": "Rođendan na Koševu: Željo želi da pokvari slavlje, meč koji je mnogo više od fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/roendan-na-kosevu-zeljo-zeli-da-pokvari-slavlje-mec-koji-je-mnogo-vise-od-fudbala/557107",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 10. 2026. у 12:28",
+      "naslov": "Dva gola Đokovića za pobedu fudbalera Čukaričkog protiv Partizana u Humskoj",
+      "url": "https://www.tanjug.rs/sport/fudbal/292298/dva-gola-dokovica-za-pobedu-fudbalera-cukarickog-protiv-partizana-u-humskoj/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 10. 2026. у 17:58",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Pogodak Kostova protiv Kopenhagena zvanično najlepši u drugom kolu Lige konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/292256/pogodak-kostova-protiv-kopenhagena-zvanicno-najlepsi-u-drugom-kolu-lige-konferencije/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 10. 2026. у 13:58",
-      "slika": null
-    },
-    {
-      "naslov": "Crvena zvezda deseta na svetu u oblasti razvoja mladih fudbalera",
-      "url": "https://www.tanjug.rs/sport/fudbal/292236/crvena-zvezda-deseta-na-svetu-u-oblasti-razvoja-mladih-fudbalera/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 10. 2026. у 12:00",
-      "slika": null
-    },
-    {
-      "naslov": "Igra Partizan!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279212/uzivo-prenos-partizan-cukaricki-fudbal-superliga-13-kolo/vest",
+      "naslov": "Nemoć Partizana – katastrofa u Humskoj i 7. poraz crno-belih",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279212/uzivo-prenos-partizan-izgubio-od-cukarickog-02-fudbal-superliga-13-kolo/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "24. 10. 2026. у 16:00",
+      "datum": "24. 10. 2026. у 18:45",
       "slika": null
     },
     {
-      "naslov": "Rijera: &quot;Videćete neka iznenađenja sa naše strane&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279226/rijera-najavio-iznenadjenja-za-ofk-beograd-zvezda-oslabljena-na-karaburmi/vest",
+      "naslov": "Partizan tone sve dublje – na korak od zone ispadanja!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279264/tabela-sls-posle-novog-kiksa-fk-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "24. 10. 2026. у 15:18",
+      "datum": "24. 10. 2026. у 18:38",
       "slika": null
     }
   ]
