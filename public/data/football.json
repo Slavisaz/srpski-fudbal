@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-24T17:23:11.431547+00:00",
-  "azurirano_sr": "24. 10. 2026. у 19:23",
+  "azurirano": "2026-10-24T19:34:23.001425+00:00",
+  "azurirano_sr": "24. 10. 2026. у 21:34",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Aleksa Janković junak azerbejdžanskog prvoligaša (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/aleksa-jankovic-junak-azerbejdzanskog-prvoligasa-video/557171",
+      "izvor": "Мозарт Спорт",
+      "datum": "24. 10. 2026. у 23:15",
+      "slika": null
+    },
     {
       "naslov": "Borac bi u elitu, a nije pobedio nijednog eks superligaša",
       "url": "https://www.mozzartsport.com/fudbal/vesti/borac-bi-u-elitu-a-nije-pobedio-nijednog-eks-superligasa/557153",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Kašćelan krenuo Ilićevim stopama – preuzeo bugarskog prvoligaša",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kascelan-krenuo-ilicevim-stopama-preuzeo-bugarskog-prvoligasa/557134",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 10. 2026. у 16:18",
+      "naslov": "Fudbaleri Totenhema kao gosti pobedili Čelsi u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/292329/fudbaleri-totenhema-kao-gosti-pobedili-celsi-u-premijer-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 10. 2026. у 20:30",
+      "slika": null
+    },
+    {
+      "naslov": "Remi fudbalera Mladosti i Vojvodine u Lučanima",
+      "url": "https://www.tanjug.rs/sport/fudbal/292325/remi-fudbalera-mladosti-i-vojvodine-u-lucanima/vest",
+      "izvor": "Танјуг",
+      "datum": "24. 10. 2026. у 19:59",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Kraj Sitijeve serije, dva gola Džeksona za pobedu fudbalera Aston Vile u derbiju",
-      "url": "https://www.tanjug.rs/sport/fudbal/292279/kraj-sitijeve-serije-dva-gola-dzeksona-za-pobedu-fudbalera-aston-vile-u-derbiju/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 10. 2026. у 15:23",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda bez četvorice protiv OFK Beograda; Rijera: Videćete neka iznenađenja",
-      "url": "https://www.tanjug.rs/sport/fudbal/292264/zvezda-bez-cetvorice-protiv-ofk-beograda-rijera-videcete-neka-iznenadenja/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 10. 2026. у 14:35",
-      "slika": null
-    },
-    {
-      "naslov": "Nemoć Partizana – katastrofa u Humskoj i 7. poraz crno-belih",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279212/uzivo-prenos-partizan-izgubio-od-cukarickog-02-fudbal-superliga-13-kolo/vest",
+      "naslov": "Zvezda trlja ruke – Voša se okliznula",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279274/zvezda-trlja-ruke-vosa-se-okliznula/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "24. 10. 2026. у 18:45",
+      "datum": "24. 10. 2026. у 20:12",
       "slika": null
     },
     {
-      "naslov": "Partizan tone sve dublje – na korak od zone ispadanja!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279264/tabela-sls-posle-novog-kiksa-fk-partizan/vest",
+      "naslov": "&quot;Normalno da mi nije drago zbog Partizana&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279272/lazar-markovic-o-situaciji-u-fk-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "24. 10. 2026. у 18:38",
+      "datum": "24. 10. 2026. у 19:47",
       "slika": null
     }
   ]
