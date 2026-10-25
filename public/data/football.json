@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-25T06:52:25.086135+00:00",
-  "azurirano_sr": "25. 10. 2026. у 07:52",
+  "azurirano": "2026-10-25T12:06:49.442145+00:00",
+  "azurirano_sr": "25. 10. 2026. у 13:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Novi trener Brage veruje Miloševiću, očekuje se da opet bude starter",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/novi-trener-brage-veruje-milosevicu-ocekuje-se-da-opet-bude-starter/557216",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 10. 2026. у 12:46",
+      "slika": null
+    },
+    {
+      "naslov": "Verovali ili ne: Ovo će biti prvi El Klasiko Lamina Jamala na Nou Kampu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/verovali-ili-ne-ovo-ce-biti-prvi-el-klasiko-lamina-jamala-na-nou-kampu/557211",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 10. 2026. у 12:14",
+      "slika": null
+    },
     {
       "naslov": "Aleksa Janković junak azerbejdžanskog prvoligaša (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/aleksa-jankovic-junak-azerbejdzanskog-prvoligasa-video/557171",
@@ -18,17 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Dok drugi odmaraju, Duvikas rešeta! Otkad se pojavio u ligama petice nije bio ovako efikasan",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dok-drugi-odmaraju-duvikas-reseta-otkad-se-pojavio-u-ligama-petice-nije-bio-ovako-efikasan/557147",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 10. 2026. у 19:14",
+      "naslov": "Preminuo nekadašnji golman Partizana Darko Božović",
+      "url": "https://www.tanjug.rs/sport/fudbal/292441/preminuo-nekadasnji-golman-partizana-darko-bozovic/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 10. 2026. у 11:17",
       "slika": null
     },
     {
-      "naslov": "Kako je Fikret Međedović doveo Diksona u Novi Pazar: Moj najbolji potez i buduća najveća prodaja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kako-je-fikret-meedovic-doveo-diksona-u-novi-pazar-moj-najbolji-potez-i-buduca-najveca-prodaja/557132",
-      "izvor": "Мозарт Спорт",
-      "datum": "24. 10. 2026. у 16:23",
+      "naslov": "Pomirenje na pomolu: Alvarez se izvinio navijačima madridskog Atletika",
+      "url": "https://www.tanjug.rs/sport/fudbal/292440/pomirenje-na-pomolu-alvarez-se-izvinio-navijacima-madridskog-atletika/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 10. 2026. у 11:13",
       "slika": null
     },
     {
@@ -46,20 +60,6 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Totenhema kao gosti pobedili Čelsi u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/292329/fudbaleri-totenhema-kao-gosti-pobedili-celsi-u-premijer-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 10. 2026. у 20:30",
-      "slika": null
-    },
-    {
-      "naslov": "Remi fudbalera Mladosti i Vojvodine u Lučanima",
-      "url": "https://www.tanjug.rs/sport/fudbal/292325/remi-fudbalera-mladosti-i-vojvodine-u-lucanima/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 10. 2026. у 19:59",
-      "slika": null
-    },
-    {
       "naslov": "Saša Ilić napustio Partizan!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279296/sasa-ilic-otisao-iz-partizana/vest",
       "izvor": "Б92 Српски фудбал",
@@ -71,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279274/zvezda-trlja-ruke-vosa-se-okliznula/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "24. 10. 2026. у 20:12",
-      "slika": null
-    },
-    {
-      "naslov": "Mesiju uručeno važno priznanje u Španiji – iz ruku princeze VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/vesti/279086/mesiju-uruceno-vazno-priznanje-u-spaniji-iz-ruku-princeze-video/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "23. 10. 2026. у 22:11",
       "slika": null
     }
   ]
