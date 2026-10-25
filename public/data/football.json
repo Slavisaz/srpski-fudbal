@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-10-25T12:06:49.442145+00:00",
-  "azurirano_sr": "25. 10. 2026. у 13:06",
+  "azurirano": "2026-10-25T16:04:22.995122+00:00",
+  "azurirano_sr": "25. 10. 2026. у 17:04",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Intera sa dva gola u nadoknadi vremena do pobede protiv Fiorentine",
+      "url": "https://www.tanjug.rs/sport/fudbal/292491/fudbaleri-intera-sa-dva-gola-u-nadoknadi-vremena-do-pobede-protiv-fiorentine/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 10. 2026. у 14:44",
+      "slika": null
+    },
+    {
+      "naslov": "Golman Reala Tibo Kurtoa zbog gripa propušta večerašnji “El Klasiko” protiv Barselone",
+      "url": "https://www.tanjug.rs/sport/fudbal/292465/golman-reala-tibo-kurtoa-zbog-gripa-propusta-vecerasnji-el-klasiko-protiv-barselone/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 10. 2026. у 12:54",
+      "slika": null
+    },
+    {
       "naslov": "Preminuo nekadašnji golman Partizana Darko Božović",
       "url": "https://www.tanjug.rs/sport/fudbal/292441/preminuo-nekadasnji-golman-partizana-darko-bozovic/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Infantino: Imam podršku velike većine svetskog fudbala",
-      "url": "https://www.tanjug.rs/sport/fudbal/292356/infantino-imam-podrsku-velike-vecine-svetskog-fudbala/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 10. 2026. у 22:08",
-      "slika": null
-    },
-    {
-      "naslov": "Saša Ilić odlučio da napusti mesto trenera Partizana",
-      "url": "https://www.tanjug.rs/sport/fudbal/292347/sasa-ilic-odlucio-da-napusti-mesto-trenera-partizana/vest",
-      "izvor": "Танјуг",
-      "datum": "24. 10. 2026. у 21:47",
+      "naslov": "Zvezda vodi – Katai probio bunker na Karaburmi!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279451/uzivo-ofk-beograd-crvena-zvezda-13-kolo-sls/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 10. 2026. у 16:49",
       "slika": null
     },
     {
@@ -67,10 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "Zvezda trlja ruke – Voša se okliznula",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279274/zvezda-trlja-ruke-vosa-se-okliznula/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "24. 10. 2026. у 20:12",
+      "naslov": "Ronaldov košmar – gol koji je slavio nije mu pripisan",
+      "url": "https://www.b92.net/sport/fudbal/vesti/279213/ronaldov-kosmar-gol-koji-je-slavio-mu-nije-pripisan/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "24. 10. 2026. у 14:51",
       "slika": null
     }
   ]
