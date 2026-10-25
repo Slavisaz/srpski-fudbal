@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-25T21:17:37.368585+00:00",
-  "azurirano_sr": "25. 10. 2026. у 22:17",
+  "azurirano": "2026-10-25T23:18:43.748886+00:00",
+  "azurirano_sr": "26. 10. 2026. у 00:18",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Modrićev potez otvorio put, Hačinson završio posao: Milan se oporavio od debakla",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/modricev-potez-otvorio-put-hacinson-zavrsio-posao-milan-se-oporavio-od-debakla/557257",
+      "izvor": "Мозарт Спорт",
+      "datum": "25. 10. 2026. у 23:44",
+      "slika": null
+    },
     {
       "naslov": "Novi het-trik najpoželjnijeg mladoženje fudbalske Evrope: Nemci ga već imaju, a Italijani se nadaju",
       "url": "https://www.mozzartsport.com/fudbal/vesti/novi-hettrik-najpozeljnijeg-mladozenje-fudbalske-evrope-nemci-ga-vec-imaju-a-italijani-se-nadaju/557242",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Verovali ili ne: Ovo će biti prvi El Klasiko Lamina Jamala na Nou Kampu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/verovali-ili-ne-ovo-ce-biti-prvi-el-klasiko-lamina-jamala-na-nou-kampu/557211",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 10. 2026. у 12:14",
+      "naslov": "Mbape sa dva gola doneo pobedu Realu u El Klasiku i prekinuo seriju Barselone",
+      "url": "https://www.tanjug.rs/sport/fudbal/292602/mbape-sa-dva-gola-doneo-pobedu-realu-u-el-klasiku-i-prekinuo-seriju-barselone/vest",
+      "izvor": "Танјуг",
+      "datum": "25. 10. 2026. у 23:03",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Novi debakl Junajteda, Bornmut ubedljiv na \"Old Trafordu\", Liverpul bolji od Brajtona",
-      "url": "https://www.tanjug.rs/sport/fudbal/292521/novi-debakl-junajteda-bornmut-ubedljiv-na-old-trafordu-liverpul-bolji-od-brajtona/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 10. 2026. у 16:56",
+      "naslov": "Rijera doneo važnu odluku posle pobede nad OFK Beogradom",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279528/crvena-zvezda-podelila-mlade-igrace-pred-kup-srbije-i-ligu-sampiona-za-mlade/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "25. 10. 2026. у 22:19",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279509/tabela-superlige-srbije-posle-13-kola/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 10. 2026. у 19:43",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera: &quot;Očekivao sam...&quot;; Batak: &quot;Mogli smo i da pobedimo&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279483/alebrt-rijara-izjava-posle-ofk-beigrad-zvezda/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 10. 2026. у 18:08",
       "slika": null
     }
   ]
