@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-10-26T19:20:47.567033+00:00",
-  "azurirano_sr": "26. 10. 2026. у 20:20",
+  "azurirano": "2026-10-26T23:10:16.979351+00:00",
+  "azurirano_sr": "27. 10. 2026. у 00:10",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Kristijano Ronaldo pozvan u reprezentaciju Portugala za utakmice u novembru",
+      "url": "https://www.tanjug.rs/sport/fudbal/292824/kristijano-ronaldo-pozvan-u-reprezentaciju-portugala-za-utakmice-u-novembru/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 10. 2026. у 21:27",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaler Barselone Ćavi Espart pauziraće sedam nedelja zbog povrede skočnog zgloba",
       "url": "https://www.tanjug.rs/sport/fudbal/292770/fudbaler-barselone-cavi-espart-pauzirace-sedam-nedelja-zbog-povrede-skocnog-zgloba/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/292680/aleksandar-stanojevic-novi-trener-fudbalera-partizana/vest",
       "izvor": "Танјуг",
       "datum": "26. 10. 2026. у 11:25",
-      "slika": null
-    },
-    {
-      "naslov": "Mbape sa dva gola doneo pobedu Realu u El Klasiku i prekinuo seriju Barselone",
-      "url": "https://www.tanjug.rs/sport/fudbal/292602/mbape-sa-dva-gola-doneo-pobedu-realu-u-el-klasiku-i-prekinuo-seriju-barselone/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 10. 2026. у 23:03",
       "slika": null
     },
     {
