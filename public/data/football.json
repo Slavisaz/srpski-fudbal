@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-10-26T13:15:54.173439+00:00",
-  "azurirano_sr": "26. 10. 2026. у 14:15",
+  "azurirano": "2026-10-26T19:20:47.567033+00:00",
+  "azurirano_sr": "26. 10. 2026. у 20:20",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Stefan Čupić: Stanojević vraća autoritet u svlačionicu Partizana, očekujem osvajanje Kupa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stefan-cupic-stanojevic-vraca-autoritet-u-svlacionicu-partizana-ocekujem-osvajanje-kupa/557290",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 10. 2026. у 20:41",
+      "slika": null
+    },
+    {
+      "naslov": "Ešli Jang o dovođenju Kontea u Junajted: To bi bila katastrofa, ne testira igrače, nego upravu i vlasnike",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/esli-jang-o-dovoenju-kontea-u-junajted-to-bi-bila-katastrofa-ne-testira-igrace-nego-upravu-i-vlasnike/557300",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 10. 2026. у 17:54",
+      "slika": null
+    },
+    {
+      "naslov": "Slavilo se u nedelju u Šimkentu: Antiću titula u Kazahstanu, smeši se i dupla kruna",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/slavilo-se-u-nedelju-u-simkentu-anticu-titula-u-kazahstanu-smesi-se-i-dupla-kruna/557296",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 10. 2026. у 17:20",
+      "slika": null
+    },
     {
       "naslov": "Uroš Račić opet asistent u Grčkoj: Nije tako lako kao što izgleda",
       "url": "https://www.mozzartsport.com/fudbal/vesti/uros-racic-opet-asistent-u-grckoj-nije-tako-lako-kao-sto-izgleda/557287",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Zlatna lopta kroz brojke: Real, Ronaldo i Nemci - drugačija istorija fudbala",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zlatna-lopta-kroz-brojke-real-ronaldo-i-nemci-drugacija-istorija-fudbala/557239",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 10. 2026. у 13:19",
-      "slika": null
-    },
-    {
-      "naslov": "Lazetiću jermenska liga po meri, ovako nije bio efikasan od kadetskih dana",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/lazeticu-jermenska-liga-po-meri-ovako-nije-bio-efikasan-od-kadetskih-dana/557270",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 10. 2026. у 12:16",
-      "slika": null
-    },
-    {
-      "naslov": "Modrićev potez otvorio put, Hačinson završio posao: Milan se oporavio od debakla",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/modricev-potez-otvorio-put-hacinson-zavrsio-posao-milan-se-oporavio-od-debakla/557257",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 10. 2026. у 23:44",
+      "naslov": "Fudbaler Barselone Ćavi Espart pauziraće sedam nedelja zbog povrede skočnog zgloba",
+      "url": "https://www.tanjug.rs/sport/fudbal/292770/fudbaler-barselone-cavi-espart-pauzirace-sedam-nedelja-zbog-povrede-skocnog-zgloba/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 10. 2026. у 15:40",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Rijera: Važna tri boda, najbolji smo tim u zemlji i svi žele da nas pobede",
-      "url": "https://www.tanjug.rs/sport/fudbal/292554/rijera-vazna-tri-boda-najbolji-smo-tim-u-zemlji-i-svi-zele-da-nas-pobede/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 10. 2026. у 19:07",
+      "naslov": "Zvezda napravila rez pred Ligu šampiona",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279765/aleksa-stojanovic-napustio-juniore-crvene-zvezde-i-prelazi-u-graficar/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 10. 2026. у 20:05",
       "slika": null
     },
     {
-      "naslov": "Stanojević: &quot;To je ludost koja se ne kontroliše&quot;; &quot;Marko Nikolić me pitao...&quot; VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279622/uzivo-aleksandar-stanojevic-konferencija-u-humskoj/vest",
+      "naslov": "&quot;Da nastavimo da se borimo za naš Partizan&quot; FOTO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279751/fk-partizan-objava/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 10. 2026. у 13:30",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Sale pravi čovek za nas&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279644/radosav-petrovic-o-aleksandru-stanojevicu-on-je-pravi-covek-za-nas/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 10. 2026. у 13:11",
+      "datum": "26. 10. 2026. у 19:00",
       "slika": null
     }
   ]
