@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-10-26T06:18:53.597038+00:00",
-  "azurirano_sr": "26. 10. 2026. у 07:18",
+  "azurirano": "2026-10-26T13:15:54.173439+00:00",
+  "azurirano_sr": "26. 10. 2026. у 14:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Uroš Račić opet asistent u Grčkoj: Nije tako lako kao što izgleda",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/uros-racic-opet-asistent-u-grckoj-nije-tako-lako-kao-sto-izgleda/557287",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 10. 2026. у 14:38",
+      "slika": null
+    },
+    {
+      "naslov": "Zlatna lopta kroz brojke: Real, Ronaldo i Nemci - drugačija istorija fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zlatna-lopta-kroz-brojke-real-ronaldo-i-nemci-drugacija-istorija-fudbala/557239",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 10. 2026. у 13:19",
+      "slika": null
+    },
+    {
+      "naslov": "Lazetiću jermenska liga po meri, ovako nije bio efikasan od kadetskih dana",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lazeticu-jermenska-liga-po-meri-ovako-nije-bio-efikasan-od-kadetskih-dana/557270",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 10. 2026. у 12:16",
+      "slika": null
+    },
     {
       "naslov": "Modrićev potez otvorio put, Hačinson završio posao: Milan se oporavio od debakla",
       "url": "https://www.mozzartsport.com/fudbal/vesti/modricev-potez-otvorio-put-hacinson-zavrsio-posao-milan-se-oporavio-od-debakla/557257",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Novi het-trik najpoželjnijeg mladoženje fudbalske Evrope: Nemci ga već imaju, a Italijani se nadaju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/novi-hettrik-najpozeljnijeg-mladozenje-fudbalske-evrope-nemci-ga-vec-imaju-a-italijani-se-nadaju/557242",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 10. 2026. у 19:25",
+      "naslov": "Stanojević: Znam u kakvoj je situaciji Parizan, došao sam da pomognem",
+      "url": "https://www.tanjug.rs/sport/fudbal/292733/stanojevic-znam-u-kakvoj-je-situaciji-parizan-dosao-sam-da-pomognem/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 10. 2026. у 13:33",
       "slika": null
     },
     {
-      "naslov": "Zvezda uz usporeni snimak od fudbala obrnula krug i otišla na plus osam (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-uz-usporeni-snimak-od-fudbala-obrnula-krug-i-otisla-na-plus-osam-video/557240",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 10. 2026. у 18:57",
-      "slika": null
-    },
-    {
-      "naslov": "Novi trener Brage veruje Miloševiću, očekuje se da opet bude starter",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/novi-trener-brage-veruje-milosevicu-ocekuje-se-da-opet-bude-starter/557216",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 10. 2026. у 12:46",
+      "naslov": "Aleksandar Stanojević novi trener fudbalera Partizana",
+      "url": "https://www.tanjug.rs/sport/fudbal/292680/aleksandar-stanojevic-novi-trener-fudbalera-partizana/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 10. 2026. у 11:25",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Katai za pobedu fudbalera Zvezde protiv OFK Beograda na Karaburmi",
-      "url": "https://www.tanjug.rs/sport/fudbal/292536/katai-za-pobedu-fudbalera-zvezde-protiv-ofk-beograda-na-karaburmi/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 10. 2026. у 17:54",
-      "slika": null
-    },
-    {
-      "naslov": "Spektakl Atalante i Frozinonea sa osam golova, Terzić strelac",
-      "url": "https://www.tanjug.rs/sport/fudbal/292526/spektakl-atalante-i-frozinonea-sa-osam-golova-terzic-strelac/vest",
-      "izvor": "Танјуг",
-      "datum": "25. 10. 2026. у 17:16",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera doneo važnu odluku posle pobede nad OFK Beogradom",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279528/crvena-zvezda-podelila-mlade-igrace-pred-kup-srbije-i-ligu-sampiona-za-mlade/vest",
+      "naslov": "Stanojević: &quot;To je ludost koja se ne kontroliše&quot;; &quot;Marko Nikolić me pitao...&quot; VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279622/uzivo-aleksandar-stanojevic-konferencija-u-humskoj/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "25. 10. 2026. у 22:19",
+      "datum": "26. 10. 2026. у 13:30",
       "slika": null
     },
     {
-      "naslov": "Partizan u ponoru, Zvezda beži svima: Tabela Superlige izgleda nestvarno posle 13. kola",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279509/tabela-superlige-srbije-posle-13-kola/vest",
+      "naslov": "&quot;Sale pravi čovek za nas&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279644/radosav-petrovic-o-aleksandru-stanojevicu-on-je-pravi-covek-za-nas/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "25. 10. 2026. у 19:43",
+      "datum": "26. 10. 2026. у 13:11",
       "slika": null
     }
   ]
