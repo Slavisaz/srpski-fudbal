@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-10-27T07:34:21.866162+00:00",
-  "azurirano_sr": "27. 10. 2026. у 08:34",
+  "azurirano": "2026-10-27T13:30:51.942799+00:00",
+  "azurirano_sr": "27. 10. 2026. у 14:30",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "NAJAVA DANA (utorak, 27. oktobar): Zvezda u Evroligi, Arsenal u gostima kod četvrtoligaša",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-27-oktobar-zvezda-u-evroligi-arsenal-u-gostima-kod-cetvrtoligasa/557280",
+      "naslov": "Karecas preskače kup i sprema se za Bajern, Verder želi da pokvari Dortmundovu žurku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/karecas-preskace-kup-i-sprema-se-za-bajern-verder-zeli-da-pokvari-dortmundovu-zurku/557347",
       "izvor": "Мозарт Спорт",
-      "datum": "27. 10. 2026. у 09:00",
+      "datum": "27. 10. 2026. у 13:46",
       "slika": null
     },
     {
-      "naslov": "Čekao je, patio i sanjao, a sada mu se svet klanja: Hari Kejn osvojio Zlatnu loptu!",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cekao-je-patio-i-sanjao-a-sada-mu-se-svet-klanja-hari-kejn-osvojio-zlatnu-loptu/557318",
+      "naslov": "Milijaš pred kup: Prvenstvo u prvom planu, ali nećemo ići da izgubimo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/milijas-pred-kup-prvenstvo-u-prvom-planu-ali-necemo-ici-da-izgubimo/557343",
       "izvor": "Мозарт Спорт",
-      "datum": "27. 10. 2026. у 00:55",
+      "datum": "27. 10. 2026. у 12:46",
       "slika": null
     },
     {
-      "naslov": "Stefan Čupić: Stanojević vraća autoritet u svlačionicu Partizana, očekujem osvajanje Kupa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/stefan-cupic-stanojevic-vraca-autoritet-u-svlacionicu-partizana-ocekujem-osvajanje-kupa/557290",
+      "naslov": "Krasnodar u krizi, Musajev grmi: To je neprihvatljivo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/krasnodar-u-krizi-musajev-grmi-to-je-neprihvatljivo/557342",
       "izvor": "Мозарт Спорт",
-      "datum": "26. 10. 2026. у 20:41",
+      "datum": "27. 10. 2026. у 12:40",
       "slika": null
     },
     {
-      "naslov": "Ešli Jang o dovođenju Kontea u Junajted: To bi bila katastrofa, ne testira igrače, nego upravu i vlasnike",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/esli-jang-o-dovoenju-kontea-u-junajted-to-bi-bila-katastrofa-ne-testira-igrace-nego-upravu-i-vlasnike/557300",
+      "naslov": "Arsenal se vraća na Hajberi, ali ne onaj stari, već tamo gde caruje vetar",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/arsenal-se-vraca-na-hajberi-ali-ne-onaj-stari-vec-tamo-gde-caruje-vetar/557337",
       "izvor": "Мозарт Спорт",
-      "datum": "26. 10. 2026. у 17:54",
+      "datum": "27. 10. 2026. у 11:48",
+      "slika": null
+    },
+    {
+      "naslov": "Ulaznice za Kup utakmicu Jedinstvo Ub - Crvena zvezda dostupne i na \"Marakani\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/292925/ulaznice-za-kup-utakmicu-jedinstvo-ub-crvena-zvezda-dostupne-i-na-marakani/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 10. 2026. у 12:09",
+      "slika": null
+    },
+    {
+      "naslov": "Kilijan Mbape izgubio nekoliko ugovora u Kini zbog neumesne šale na račun Mao Cedunga",
+      "url": "https://www.tanjug.rs/sport/fudbal/292904/kilijan-mbape-izgubio-nekoliko-ugovora-u-kini-zbog-neumesne-sale-na-racun-mao-cedunga/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 10. 2026. у 11:09",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Barselone Ćavi Espart pauziraće sedam nedelja zbog povrede skočnog zgloba",
-      "url": "https://www.tanjug.rs/sport/fudbal/292770/fudbaler-barselone-cavi-espart-pauzirace-sedam-nedelja-zbog-povrede-skocnog-zgloba/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 10. 2026. у 15:40",
+      "naslov": "Arsenal ponovo na Hajberiju",
+      "url": "https://www.b92.net/sport/fudbal/vesti/279877/arsenal-i-flitvud-igraju-na-hajberiju/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "27. 10. 2026. у 13:38",
       "slika": null
     },
     {
-      "naslov": "Stanojević: Znam u kakvoj je situaciji Parizan, došao sam da pomognem",
-      "url": "https://www.tanjug.rs/sport/fudbal/292733/stanojevic-znam-u-kakvoj-je-situaciji-parizan-dosao-sam-da-pomognem/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 10. 2026. у 13:33",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda napravila rez pred Ligu šampiona",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279765/aleksa-stojanovic-napustio-juniore-crvene-zvezde-i-prelazi-u-graficar/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 10. 2026. у 20:05",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Da nastavimo da se borimo za naš Partizan&quot; FOTO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279751/fk-partizan-objava/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 10. 2026. у 19:00",
+      "naslov": "Argentinci ne priznaju rezultate Zlatne lopte: &quot;Mesi je za nas uvek najbolji&quot;",
+      "url": "https://www.b92.net/sport/fudbal/vesti/279850/argentinci-prokomentarisali-ishod-dodele-zlatne-lopte/vest",
+      "izvor": "Б92 Фудбал",
+      "datum": "27. 10. 2026. у 12:00",
       "slika": null
     }
   ]
