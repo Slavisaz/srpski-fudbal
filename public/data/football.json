@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-27T18:51:28.111958+00:00",
-  "azurirano_sr": "27. 10. 2026. у 19:51",
+  "azurirano": "2026-10-27T22:39:59.608444+00:00",
+  "azurirano_sr": "27. 10. 2026. у 23:39",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Senzacija u Kupu Kralja: Dmitrović primio četiri gola od četvrtoligaša, amateri eliminisali Espanjol",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/senzacija-u-kupu-kralja-dmitrovic-primio-cetiri-gola-od-cetvrtoligasa-amateri-eliminisali-espanjol/557386",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 10. 2026. у 23:05",
+      "slika": null
+    },
+    {
+      "naslov": "Maksimović platio ceh isključenju saigrača: Demikelis ga žrtvovao na poluvremenu, Lajpcig preokrenuo u drugom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/maksimovic-platio-ceh-iskljucenju-saigraca-demikelis-ga-zrtvovao-na-poluvremenu-lajpcig-preokrenuo-u-drugom/557379",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 10. 2026. у 21:20",
+      "slika": null
+    },
     {
       "naslov": "Lokalni sinovi ponovo žele da režiraju bajku: Mačva iz prekida eliminisala Napredak",
       "url": "https://www.mozzartsport.com/fudbal/vesti/lokalni-sinovi-ponovo-zele-da-reziraju-bajku-macva-iz-prekida-eliminisala-napredak/557368",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Karecas preskače kup i sprema se za Bajern, Verder želi da pokvari Dortmundovu žurku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/karecas-preskace-kup-i-sprema-se-za-bajern-verder-zeli-da-pokvari-dortmundovu-zurku/557347",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 10. 2026. у 13:46",
-      "slika": null
-    },
-    {
-      "naslov": "Milijaš pred kup: Prvenstvo u prvom planu, ali nećemo ići da izgubimo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/milijas-pred-kup-prvenstvo-u-prvom-planu-ali-necemo-ici-da-izgubimo/557343",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 10. 2026. у 12:46",
+      "naslov": "Lacio nastavio da \"gazi\", šest golova i dva promašena penala protiv Sasuola",
+      "url": "https://www.tanjug.rs/sport/fudbal/293092/lacio-nastavio-da-gazi-sest-golova-i-dva-promasena-penala-protiv-sasuola/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 10. 2026. у 21:10",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Čelsija Žoao Pedro mora na pauzu zbog povrede butnog mišića",
-      "url": "https://www.tanjug.rs/sport/fudbal/293015/fudbaler-celsija-zoao-pedro-mora-na-pauzu-zbog-povrede-butnog-misica/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 10. 2026. у 15:52",
+      "naslov": "Lalatović: &quot;Želim finale sa Partizanom – kad pronađem ljubav života, vodiću Mančester junajted",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280003/lalatovic-zelim-finale-sa-partizanom-kad-pronadjem-ljubav-zivota-vodicu-mancester-junajted/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 10. 2026. у 21:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280022/rijera-racunam-na-arnautovica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "27. 10. 2026. у 18:40",
-      "slika": null
-    },
-    {
-      "naslov": "Stanojević vraća Dembu Seka",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279978/aleksandar-stanojevic-demba-sek-konkurise-za-tim/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 10. 2026. у 17:05",
       "slika": null
     }
   ]
