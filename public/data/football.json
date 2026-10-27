@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-27T02:01:20.398367+00:00",
-  "azurirano_sr": "27. 10. 2026. у 03:01",
+  "azurirano": "2026-10-27T07:34:21.866162+00:00",
+  "azurirano_sr": "27. 10. 2026. у 08:34",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (utorak, 27. oktobar): Zvezda u Evroligi, Arsenal u gostima kod četvrtoligaša",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-27-oktobar-zvezda-u-evroligi-arsenal-u-gostima-kod-cetvrtoligasa/557280",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 10. 2026. у 09:00",
+      "slika": null
+    },
     {
       "naslov": "Čekao je, patio i sanjao, a sada mu se svet klanja: Hari Kejn osvojio Zlatnu loptu!",
       "url": "https://www.mozzartsport.com/fudbal/vesti/cekao-je-patio-i-sanjao-a-sada-mu-se-svet-klanja-hari-kejn-osvojio-zlatnu-loptu/557318",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/esli-jang-o-dovoenju-kontea-u-junajted-to-bi-bila-katastrofa-ne-testira-igrace-nego-upravu-i-vlasnike/557300",
       "izvor": "Мозарт Спорт",
       "datum": "26. 10. 2026. у 17:54",
-      "slika": null
-    },
-    {
-      "naslov": "Slavilo se u nedelju u Šimkentu: Antiću titula u Kazahstanu, smeši se i dupla kruna",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/slavilo-se-u-nedelju-u-simkentu-anticu-titula-u-kazahstanu-smesi-se-i-dupla-kruna/557296",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 10. 2026. у 17:20",
       "slika": null
     },
     {
