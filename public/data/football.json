@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-27T13:30:51.942799+00:00",
-  "azurirano_sr": "27. 10. 2026. у 14:30",
+  "azurirano": "2026-10-27T18:51:28.111958+00:00",
+  "azurirano_sr": "27. 10. 2026. у 19:51",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Lokalni sinovi ponovo žele da režiraju bajku: Mačva iz prekida eliminisala Napredak",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lokalni-sinovi-ponovo-zele-da-reziraju-bajku-macva-iz-prekida-eliminisala-napredak/557368",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 10. 2026. у 20:33",
+      "slika": null
+    },
+    {
+      "naslov": "Lalatović pred Voždovac: Kup sam uzeo jednom, kasnije je došao milionski ugovor u Arabiji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lalatovic-pred-vozdovac-kup-sam-uzeo-jednom-kasnije-je-dosao-milionski-ugovor-u-arabiji/557364",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 10. 2026. у 17:31",
+      "slika": null
+    },
     {
       "naslov": "Karecas preskače kup i sprema se za Bajern, Verder želi da pokvari Dortmundovu žurku",
       "url": "https://www.mozzartsport.com/fudbal/vesti/karecas-preskace-kup-i-sprema-se-za-bajern-verder-zeli-da-pokvari-dortmundovu-zurku/557347",
@@ -18,59 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Krasnodar u krizi, Musajev grmi: To je neprihvatljivo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/krasnodar-u-krizi-musajev-grmi-to-je-neprihvatljivo/557342",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 10. 2026. у 12:40",
-      "slika": null
-    },
-    {
-      "naslov": "Arsenal se vraća na Hajberi, ali ne onaj stari, već tamo gde caruje vetar",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/arsenal-se-vraca-na-hajberi-ali-ne-onaj-stari-vec-tamo-gde-caruje-vetar/557337",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 10. 2026. у 11:48",
-      "slika": null
-    },
-    {
-      "naslov": "Ulaznice za Kup utakmicu Jedinstvo Ub - Crvena zvezda dostupne i na \"Marakani\"",
-      "url": "https://www.tanjug.rs/sport/fudbal/292925/ulaznice-za-kup-utakmicu-jedinstvo-ub-crvena-zvezda-dostupne-i-na-marakani/vest",
+      "naslov": "Mbape se izvinio zbog komentara o bivšem kineskom lideru Mao Cedungu",
+      "url": "https://www.tanjug.rs/sport/fudbal/293057/mbape-se-izvinio-zbog-komentara-o-bivsem-kineskom-lideru-mao-cedungu/vest",
       "izvor": "Танјуг",
-      "datum": "27. 10. 2026. у 12:09",
+      "datum": "27. 10. 2026. у 18:27",
       "slika": null
     },
     {
-      "naslov": "Kilijan Mbape izgubio nekoliko ugovora u Kini zbog neumesne šale na račun Mao Cedunga",
-      "url": "https://www.tanjug.rs/sport/fudbal/292904/kilijan-mbape-izgubio-nekoliko-ugovora-u-kini-zbog-neumesne-sale-na-racun-mao-cedunga/vest",
+      "naslov": "Željko Tanasković na otvaranju SP u fudbalu za srednjoškolce",
+      "url": "https://www.tanjug.rs/sport/fudbal/293053/zeljko-tanaskovic-na-otvaranju-sp-u-fudbalu-za-srednjoskolce/vest",
       "izvor": "Танјуг",
-      "datum": "27. 10. 2026. у 11:09",
+      "datum": "27. 10. 2026. у 18:03",
       "slika": null
     },
     {
-      "naslov": "Hari Kejn osvajač Zlatne lopte \"Frans fudbala\" za najboljeg fudbalera na svetu",
-      "url": "https://www.tanjug.rs/sport/fudbal/292847/hari-kejn-osvajac-zlatne-lopte-frans-fudbala-za-najboljeg-fudbalera-na-svetu/vest",
+      "naslov": "Stanojević: Čim dođe novi trener energija je bolja, znaju se naša očekivanja",
+      "url": "https://www.tanjug.rs/sport/fudbal/292733/stanojevic-cim-dode-novi-trener-energija-je-bolja-znaju-se-nasa-ocekivanja/vest",
       "izvor": "Танјуг",
-      "datum": "26. 10. 2026. у 23:55",
+      "datum": "27. 10. 2026. у 16:40",
       "slika": null
     },
     {
-      "naslov": "Kristijano Ronaldo pozvan u reprezentaciju Portugala za utakmice u novembru",
-      "url": "https://www.tanjug.rs/sport/fudbal/292824/kristijano-ronaldo-pozvan-u-reprezentaciju-portugala-za-utakmice-u-novembru/vest",
+      "naslov": "Fudbaler Čelsija Žoao Pedro mora na pauzu zbog povrede butnog mišića",
+      "url": "https://www.tanjug.rs/sport/fudbal/293015/fudbaler-celsija-zoao-pedro-mora-na-pauzu-zbog-povrede-butnog-misica/vest",
       "izvor": "Танјуг",
-      "datum": "26. 10. 2026. у 21:27",
+      "datum": "27. 10. 2026. у 15:52",
       "slika": null
     },
     {
-      "naslov": "Arsenal ponovo na Hajberiju",
-      "url": "https://www.b92.net/sport/fudbal/vesti/279877/arsenal-i-flitvud-igraju-na-hajberiju/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "27. 10. 2026. у 13:38",
+      "naslov": "Rijera: &quot;Računam na Arnautovića&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280022/rijera-racunam-na-arnautovica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 10. 2026. у 18:40",
       "slika": null
     },
     {
-      "naslov": "Argentinci ne priznaju rezultate Zlatne lopte: &quot;Mesi je za nas uvek najbolji&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/279850/argentinci-prokomentarisali-ishod-dodele-zlatne-lopte/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "27. 10. 2026. у 12:00",
+      "naslov": "Stanojević vraća Dembu Seka",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/279978/aleksandar-stanojevic-demba-sek-konkurise-za-tim/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "27. 10. 2026. у 17:05",
       "slika": null
     }
   ]
