@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-26T23:10:16.979351+00:00",
-  "azurirano_sr": "27. 10. 2026. у 00:10",
+  "azurirano": "2026-10-27T02:01:20.398367+00:00",
+  "azurirano_sr": "27. 10. 2026. у 03:01",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Čekao je, patio i sanjao, a sada mu se svet klanja: Hari Kejn osvojio Zlatnu loptu!",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cekao-je-patio-i-sanjao-a-sada-mu-se-svet-klanja-hari-kejn-osvojio-zlatnu-loptu/557318",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 10. 2026. у 00:55",
+      "slika": null
+    },
     {
       "naslov": "Stefan Čupić: Stanojević vraća autoritet u svlačionicu Partizana, očekujem osvajanje Kupa",
       "url": "https://www.mozzartsport.com/fudbal/vesti/stefan-cupic-stanojevic-vraca-autoritet-u-svlacionicu-partizana-ocekujem-osvajanje-kupa/557290",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Uroš Račić opet asistent u Grčkoj: Nije tako lako kao što izgleda",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uros-racic-opet-asistent-u-grckoj-nije-tako-lako-kao-sto-izgleda/557287",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 10. 2026. у 14:38",
+      "naslov": "Hari Kejn osvajač Zlatne lopte \"Frans fudbala\" za najboljeg fudbalera na svetu",
+      "url": "https://www.tanjug.rs/sport/fudbal/292847/hari-kejn-osvajac-zlatne-lopte-frans-fudbala-za-najboljeg-fudbalera-na-svetu/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 10. 2026. у 23:55",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/292733/stanojevic-znam-u-kakvoj-je-situaciji-parizan-dosao-sam-da-pomognem/vest",
       "izvor": "Танјуг",
       "datum": "26. 10. 2026. у 13:33",
-      "slika": null
-    },
-    {
-      "naslov": "Aleksandar Stanojević novi trener fudbalera Partizana",
-      "url": "https://www.tanjug.rs/sport/fudbal/292680/aleksandar-stanojevic-novi-trener-fudbalera-partizana/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 10. 2026. у 11:25",
       "slika": null
     },
     {
