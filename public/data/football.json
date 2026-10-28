@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-10-27T22:39:59.608444+00:00",
-  "azurirano_sr": "27. 10. 2026. у 23:39",
+  "azurirano": "2026-10-28T01:40:21.763304+00:00",
+  "azurirano_sr": "28. 10. 2026. у 02:40",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Arsenal eliminisan u Liga kupu od četvrtoligaša Flitvuda",
+      "url": "https://www.tanjug.rs/sport/fudbal/293111/arsenal-eliminisan-u-liga-kupu-od-cetvrtoligasa-flitvuda/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 10. 2026. у 23:19",
+      "slika": null
+    },
+    {
       "naslov": "Lacio nastavio da \"gazi\", šest golova i dva promašena penala protiv Sasuola",
       "url": "https://www.tanjug.rs/sport/fudbal/293092/lacio-nastavio-da-gazi-sest-golova-i-dva-promasena-penala-protiv-sasuola/vest",
       "izvor": "Танјуг",
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/293053/zeljko-tanaskovic-na-otvaranju-sp-u-fudbalu-za-srednjoskolce/vest",
       "izvor": "Танјуг",
       "datum": "27. 10. 2026. у 18:03",
-      "slika": null
-    },
-    {
-      "naslov": "Stanojević: Čim dođe novi trener energija je bolja, znaju se naša očekivanja",
-      "url": "https://www.tanjug.rs/sport/fudbal/292733/stanojevic-cim-dode-novi-trener-energija-je-bolja-znaju-se-nasa-ocekivanja/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 10. 2026. у 16:40",
       "slika": null
     },
     {
