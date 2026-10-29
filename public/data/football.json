@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-10-29T08:49:49.063319+00:00",
-  "azurirano_sr": "29. 10. 2026. у 09:49",
+  "azurirano": "2026-10-29T15:37:09.727027+00:00",
+  "azurirano_sr": "29. 10. 2026. у 16:37",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Siti sve bliže trofeju koji brani",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/siti-sve-blize-trofeju-koji-brani/557498",
+      "naslov": "Trener Portsmuta hvali Milovanovića: Dosta dobro se adaptirao na engleski fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/trener-portsmuta-hvali-milovanovica-dosta-dobro-se-adaptirao-na-engleski-fudbal/557534",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 10. 2026. у 10:33",
+      "datum": "29. 10. 2026. у 17:02",
       "slika": null
     },
     {
-      "naslov": "FS Obrenovca traži ostavku Nikole Lazetića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fs-obrenovca-trazi-ostavku-nikole-lazetica/557496",
+      "naslov": "Azijski kup uprkos raketama i strahu: Australijanci traže garancije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/azijski-kup-uprkos-raketama-i-strahu-australijanci-traze-garancije/557527",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 10. 2026. у 10:19",
+      "datum": "29. 10. 2026. у 15:59",
       "slika": null
     },
     {
-      "naslov": "Skromni Njukasl ove sezone: Može li trofej Liga kupa opet da završi na severu Engleske?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/skromni-njukasl-ove-sezone-moze-li-trofej-liga-kupa-opet-da-zavrsi-na-severu-engleske/557494",
+      "naslov": "Savić: Nedopustivo je da Vojvodina izgubi od trećeligaša, moramo da napravimo reakciju",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/savic-nedopustivo-je-da-vojvodina-izgubi-od-treceligasa-moramo-da-napravimo-reakciju/557522",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 10. 2026. у 10:14",
+      "datum": "29. 10. 2026. у 15:30",
       "slika": null
     },
     {
-      "naslov": "Železničar na tri boda od Vojvodine, ali Koković poručuje: Ne gledam tabelu, važno je da rastemo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zeleznicar-na-tri-boda-od-vojvodine-ali-kokovic-porucuje-ne-gledam-tabelu-vazno-je-da-rastemo/557492",
+      "naslov": "Šest niželigaša u osmini finala Kupa Srbije kao posebna opomena za Partizan, Železničar i Radnički",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sest-nizeligasa-u-osmini-finala-kupa-srbije-kao-posebna-opomena-za-partizan-zeleznicar-i-radnicki/557516",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 10. 2026. у 09:51",
+      "datum": "29. 10. 2026. у 14:05",
+      "slika": null
+    },
+    {
+      "naslov": "Trener Bajerna Vensan Kompani vratiće se na klupu 20. novembra",
+      "url": "https://www.tanjug.rs/sport/fudbal/293480/trener-bajerna-vensan-kompani-vratice-se-na-klupu-20-novembra/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 10. 2026. у 11:27",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Inter sa dva autogola pobedio Veneciju u \"derbiju Stanković\", poraz Milana od Bolonje",
-      "url": "https://www.tanjug.rs/sport/fudbal/293371/inter-sa-dva-autogola-pobedio-veneciju-u-derbiju-stankovic-poraz-milana-od-bolonje/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 10. 2026. у 20:26",
+      "naslov": "Lalatović: &quot;Mogao sam u Leverkuzen, Šalke i Marselj&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280553/nenad-lalatovic-otkrio-zasto-nije-otisao-u-bajer-leverkuzen-salke-i-olimpik-marselj/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 10. 2026. у 16:22",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280335/albert-rijera-posle-pobeda-u-kupu-srbije/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "28. 10. 2026. у 21:01",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda &quot;petardom&quot; u Ubu krenula u Kupu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280282/kup-jedinstvo-ub-crvena-zvezda-live-tv-prenos-gde-gledati-arena-sport/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 10. 2026. у 20:48",
       "slika": null
     }
   ]
