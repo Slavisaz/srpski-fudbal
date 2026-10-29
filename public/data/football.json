@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-29T15:37:09.727027+00:00",
-  "azurirano_sr": "29. 10. 2026. у 16:37",
+  "azurirano": "2026-10-29T20:31:20.056195+00:00",
+  "azurirano_sr": "29. 10. 2026. у 21:31",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Došlo vreme da naplati 74 gola... Beljov transfer i do 30.000.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/doslo-vreme-da-naplati-74-gola-beljov-transfer-i-do-30000000-evra/557547",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 10. 2026. у 20:54",
+      "slika": null
+    },
+    {
+      "naslov": "Mihajlo Banjac dao gol posle 11 meseci (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mihajlo-banjac-dao-gol-posle-11-meseci-video/557542",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 10. 2026. у 18:16",
+      "slika": null
+    },
     {
       "naslov": "Trener Portsmuta hvali Milovanovića: Dosta dobro se adaptirao na engleski fudbal",
       "url": "https://www.mozzartsport.com/fudbal/vesti/trener-portsmuta-hvali-milovanovica-dosta-dobro-se-adaptirao-na-engleski-fudbal/557534",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Savić: Nedopustivo je da Vojvodina izgubi od trećeligaša, moramo da napravimo reakciju",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/savic-nedopustivo-je-da-vojvodina-izgubi-od-treceligasa-moramo-da-napravimo-reakciju/557522",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 10. 2026. у 15:30",
-      "slika": null
-    },
-    {
-      "naslov": "Šest niželigaša u osmini finala Kupa Srbije kao posebna opomena za Partizan, Železničar i Radnički",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sest-nizeligasa-u-osmini-finala-kupa-srbije-kao-posebna-opomena-za-partizan-zeleznicar-i-radnicki/557516",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 10. 2026. у 14:05",
+      "naslov": "Upravni odbor Fudbalskog kluba Radnički iz Niša podneo ostavku",
+      "url": "https://www.tanjug.rs/sport/fudbal/293673/upravni-odbor-fudbalskog-kluba-radnicki-iz-nisa-podneo-ostavku/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 10. 2026. у 19:18",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Zvezde ubedljivi protiv Jedinstva u Ubu za osminu finala Kupa Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/293377/fudbaleri-zvezde-ubedljivi-protiv-jedinstva-u-ubu-za-osminu-finala-kupa-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 10. 2026. у 21:10",
+      "naslov": "Fudbalska porodica se oprostila od Darka Božovića",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280590/komemoracija-darku-bozovicu-macku/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 10. 2026. у 18:38",
       "slika": null
     },
     {
-      "naslov": "Lalatović: &quot;Mogao sam u Leverkuzen, Šalke i Marselj&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280553/nenad-lalatovic-otkrio-zasto-nije-otisao-u-bajer-leverkuzen-salke-i-olimpik-marselj/vest",
+      "naslov": "Uprava Radničkog podnela kolektivnu ostavku posle poraza od Partizana",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280592/uprava-fk-radnicki-nis-podnela-kolektivnu-ostavku/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "29. 10. 2026. у 16:22",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera: &quot;Ko to uradi – zna da će imati problem&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280335/albert-rijera-posle-pobeda-u-kupu-srbije/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "28. 10. 2026. у 21:01",
+      "datum": "29. 10. 2026. у 18:25",
       "slika": null
     }
   ]
