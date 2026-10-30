@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-10-30T17:07:22.243538+00:00",
-  "azurirano_sr": "30. 10. 2026. у 18:07",
+  "azurirano": "2026-10-30T21:26:37.816630+00:00",
+  "azurirano_sr": "30. 10. 2026. у 22:26",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri PSŽ-a ubedljivi protiv Avra, het-trik Hakimija",
+      "url": "https://www.tanjug.rs/sport/fudbal/293958/fudbaleri-psz-a-ubedljivi-protiv-avra-het-trik-hakimija/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 10. 2026. у 21:43",
+      "slika": null
+    },
+    {
+      "naslov": "Kristijan Pulišić produžio ugovor sa Milanom do 30. juna 2031. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/293945/kristijan-pulisic-produzio-ugovor-sa-milanom-do-30-juna-2031-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 10. 2026. у 20:32",
+      "slika": null
+    },
+    {
       "naslov": "Albert Rijera: Cilj je da ne izgubimo nijedan meč u Superligi i da imamo što više pobeda",
       "url": "https://www.tanjug.rs/sport/fudbal/293874/albert-rijera-cilj-je-da-ne-izgubimo-nijedan-mec-u-superligi-i-da-imamo-sto-vise-pobeda/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/293862/fudbalski-savez-srbije-domacin-prve-sesije-uefa-o-borbi-protiv-namestanja-utakmica/vest",
       "izvor": "Танјуг",
       "datum": "30. 10. 2026. у 14:47",
-      "slika": null
-    },
-    {
-      "naslov": "Patrik Motsepe: Afrički fudbal podržava Đanija Infantina",
-      "url": "https://www.tanjug.rs/sport/fudbal/293842/patrik-motsepe-africki-fudbal-podrzava-danija-infantina/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 10. 2026. у 13:43",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalski Afrički kup nacija će se ponovo održavati na svake dve godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/293791/fudbalski-africki-kup-nacija-ce-se-ponovo-odrzavati-na-svake-dve-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 10. 2026. у 11:10",
       "slika": null
     },
     {
