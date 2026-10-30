@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-30T11:35:20.462770+00:00",
-  "azurirano_sr": "30. 10. 2026. у 12:35",
+  "azurirano": "2026-10-30T17:07:22.243538+00:00",
+  "azurirano_sr": "30. 10. 2026. у 18:07",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kapetan Amerika dobio ugovor života: Milan dao Pulišiću veliku povišicu, sad je samo Rabio plaćeniji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kapetan-amerika-dobio-ugovor-zivota-milan-dao-pulisicu-veliku-povisicu-sad-je-samo-rabio-placeniji/557611",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 10. 2026. у 18:01",
+      "slika": null
+    },
+    {
+      "naslov": "Doći će mejl i Feliks odlazi - Siti ili Junajted; Dortmund se ništa ne pita",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/doci-ce-mejl-i-feliks-odlazi-siti-ili-junajted-dortmund-se-nista-ne-pita/557594",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 10. 2026. у 14:03",
+      "slika": null
+    },
     {
       "naslov": "Mituljikić čeka Klub Briž",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mituljikic-ceka-klub-briz/557590",
@@ -18,66 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Učena nije standardan u Zvezdi, ali mašta o reprezentaciji: Nisam u žurbi, osećam se dobro",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ucena-nije-standardan-u-zvezdi-ali-masta-o-reprezentaciji-nisam-u-zurbi-osecam-se-dobro/557577",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 10. 2026. у 10:14",
-      "slika": null
-    },
-    {
-      "naslov": "Najava dana (petak, 30. oktobar): Partizan Mozzart Bet sa Žalgirisom i fudbal širom kontinenta",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-petak-30-oktobar-partizan-mozzart-bet-sa-zalgirisom-i-fudbal-sirom-kontinenta/557526",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 10. 2026. у 09:14",
-      "slika": null
-    },
-    {
-      "naslov": "Nastavlja se Superliga Srbije, fudbaleri Zvezde gostuju Mačvi, Partizan čeka Zemun",
-      "url": "https://www.tanjug.rs/sport/fudbal/293745/nastavlja-se-superliga-srbije-fudbaleri-zvezde-gostuju-macvi-partizan-ceka-zemun/vest",
+      "naslov": "Albert Rijera: Cilj je da ne izgubimo nijedan meč u Superligi i da imamo što više pobeda",
+      "url": "https://www.tanjug.rs/sport/fudbal/293874/albert-rijera-cilj-je-da-ne-izgubimo-nijedan-mec-u-superligi-i-da-imamo-sto-vise-pobeda/vest",
       "izvor": "Танјуг",
-      "datum": "30. 10. 2026. у 08:55",
+      "datum": "30. 10. 2026. у 15:36",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Evertona izborili plasman u četvrtfinale Liga kupa",
-      "url": "https://www.tanjug.rs/sport/fudbal/293711/fudbaleri-evertona-izborili-plasman-u-cetvrtfinale-liga-kupa/vest",
+      "naslov": "Fudbalski savez Srbije domaćin prve sesije UEFA o borbi protiv nameštanja utakmica",
+      "url": "https://www.tanjug.rs/sport/fudbal/293862/fudbalski-savez-srbije-domacin-prve-sesije-uefa-o-borbi-protiv-namestanja-utakmica/vest",
       "izvor": "Танјуг",
-      "datum": "29. 10. 2026. у 23:12",
+      "datum": "30. 10. 2026. у 14:47",
       "slika": null
     },
     {
-      "naslov": "Upravni odbor Fudbalskog kluba Radnički iz Niša podneo ostavku",
-      "url": "https://www.tanjug.rs/sport/fudbal/293673/upravni-odbor-fudbalskog-kluba-radnicki-iz-nisa-podneo-ostavku/vest",
+      "naslov": "Patrik Motsepe: Afrički fudbal podržava Đanija Infantina",
+      "url": "https://www.tanjug.rs/sport/fudbal/293842/patrik-motsepe-africki-fudbal-podrzava-danija-infantina/vest",
       "izvor": "Танјуг",
-      "datum": "29. 10. 2026. у 19:18",
+      "datum": "30. 10. 2026. у 13:43",
       "slika": null
     },
     {
-      "naslov": "&quot;Da smo zadržali Maksimovića, usporili bi Kostova&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280573/marko-marin-o-funkcionisanju-i-skoli-crvene-zvezde/vest",
+      "naslov": "Fudbalski Afrički kup nacija će se ponovo održavati na svake dve godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/293791/fudbalski-africki-kup-nacija-ce-se-ponovo-odrzavati-na-svake-dve-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 10. 2026. у 11:10",
+      "slika": null
+    },
+    {
+      "naslov": "Rijera: &quot;Cilj je da ne izgubimo nijedan meč u Superligi&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280864/albert-rijera-izjava-pred-duel-zvezde-i-macve-u-kupu-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "29. 10. 2026. у 23:50",
+      "datum": "30. 10. 2026. у 16:13",
       "slika": null
     },
     {
-      "naslov": "Trener Vojvodine: &quot;Ne upirem prst ni u koga, ali ovo je nedopustivo&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280574/marko-savic-izjava-posle-ispadanja-iz-kupa-srbije-i-pred-mec-sa-ofk-beogradom/vest",
+      "naslov": "Zvezda bez Ivanića u Šapcu – Rijera objasnio razlog",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280862/povredio-se-mirko-ivanic/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "29. 10. 2026. у 23:30",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalska porodica se oprostila od Darka Božovića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280590/komemoracija-darku-bozovicu-macku/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 10. 2026. у 18:38",
-      "slika": null
-    },
-    {
-      "naslov": "Trener Bajerna Vensan Kompani vratiće se na klupu 20. novembra",
-      "url": "https://www.tanjug.rs/sport/fudbal/293480/trener-bajerna-vensan-kompani-vratice-se-na-klupu-20-novembra/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 10. 2026. у 11:27",
+      "datum": "30. 10. 2026. у 15:59",
       "slika": null
     }
   ]
