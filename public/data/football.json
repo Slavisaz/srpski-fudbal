@@ -1,34 +1,41 @@
 {
-  "azurirano": "2026-10-30T05:38:38.868607+00:00",
-  "azurirano_sr": "30. 10. 2026. у 06:38",
+  "azurirano": "2026-10-30T11:35:20.462770+00:00",
+  "azurirano_sr": "30. 10. 2026. у 12:35",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Matijase, drma ti se klupa: Everton išamarao Njukasl i čekirao kartu za četvrtfinale",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/matijase-drma-ti-se-klupa-everton-isamarao-njukasl-i-cekirao-kartu-za-cetvrtfinale/557558",
+      "naslov": "Mituljikić čeka Klub Briž",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mituljikic-ceka-klub-briz/557590",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 10. 2026. у 23:37",
+      "datum": "30. 10. 2026. у 12:53",
       "slika": null
     },
     {
-      "naslov": "Clássico dos Milhões: Vasko traži iskupljenje, Flamengo čuva tron",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/classico-dos-milhoes-vasko-trazi-iskupljenje-flamengo-cuva-tron/557529",
+      "naslov": "PRELAZZI: Jedina ljubav kapetana Pikara",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-jedina-ljubav-kapetana-pikara/557586",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 10. 2026. у 23:16",
+      "datum": "30. 10. 2026. у 12:08",
       "slika": null
     },
     {
-      "naslov": "Došlo vreme da naplati 74 gola... Beljov transfer i do 30.000.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/doslo-vreme-da-naplati-74-gola-beljov-transfer-i-do-30000000-evra/557547",
+      "naslov": "Učena nije standardan u Zvezdi, ali mašta o reprezentaciji: Nisam u žurbi, osećam se dobro",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ucena-nije-standardan-u-zvezdi-ali-masta-o-reprezentaciji-nisam-u-zurbi-osecam-se-dobro/557577",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 10. 2026. у 20:54",
+      "datum": "30. 10. 2026. у 10:14",
       "slika": null
     },
     {
-      "naslov": "Mihajlo Banjac dao gol posle 11 meseci (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mihajlo-banjac-dao-gol-posle-11-meseci-video/557542",
+      "naslov": "Najava dana (petak, 30. oktobar): Partizan Mozzart Bet sa Žalgirisom i fudbal širom kontinenta",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-petak-30-oktobar-partizan-mozzart-bet-sa-zalgirisom-i-fudbal-sirom-kontinenta/557526",
       "izvor": "Мозарт Спорт",
-      "datum": "29. 10. 2026. у 18:16",
+      "datum": "30. 10. 2026. у 09:14",
+      "slika": null
+    },
+    {
+      "naslov": "Nastavlja se Superliga Srbije, fudbaleri Zvezde gostuju Mačvi, Partizan čeka Zemun",
+      "url": "https://www.tanjug.rs/sport/fudbal/293745/nastavlja-se-superliga-srbije-fudbaleri-zvezde-gostuju-macvi-partizan-ceka-zemun/vest",
+      "izvor": "Танјуг",
+      "datum": "30. 10. 2026. у 08:55",
       "slika": null
     },
     {
@@ -43,13 +50,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/293673/upravni-odbor-fudbalskog-kluba-radnicki-iz-nisa-podneo-ostavku/vest",
       "izvor": "Танјуг",
       "datum": "29. 10. 2026. у 19:18",
-      "slika": null
-    },
-    {
-      "naslov": "Trener Bajerna Vensan Kompani vratiće se na klupu 20. novembra",
-      "url": "https://www.tanjug.rs/sport/fudbal/293480/trener-bajerna-vensan-kompani-vratice-se-na-klupu-20-novembra/vest",
-      "izvor": "Танјуг",
-      "datum": "29. 10. 2026. у 11:27",
       "slika": null
     },
     {
@@ -74,10 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Liverpula posle \"penal drame\" eliminisali Čelsi iz Liga kupa",
-      "url": "https://www.tanjug.rs/sport/fudbal/293394/fudbaleri-liverpula-posle-penal-drame-eliminisali-celsi-iz-liga-kupa/vest",
+      "naslov": "Trener Bajerna Vensan Kompani vratiće se na klupu 20. novembra",
+      "url": "https://www.tanjug.rs/sport/fudbal/293480/trener-bajerna-vensan-kompani-vratice-se-na-klupu-20-novembra/vest",
       "izvor": "Танјуг",
-      "datum": "28. 10. 2026. у 23:21",
+      "datum": "29. 10. 2026. у 11:27",
       "slika": null
     }
   ]
