@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-29T20:31:20.056195+00:00",
-  "azurirano_sr": "29. 10. 2026. у 21:31",
+  "azurirano": "2026-10-30T00:09:22.613311+00:00",
+  "azurirano_sr": "30. 10. 2026. у 01:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Matijase, drma ti se klupa: Everton išamarao Njukasl i čekirao kartu za četvrtfinale",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/matijase-drma-ti-se-klupa-everton-isamarao-njukasl-i-cekirao-kartu-za-cetvrtfinale/557558",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 10. 2026. у 23:37",
+      "slika": null
+    },
+    {
+      "naslov": "Clássico dos Milhões: Vasko traži iskupljenje, Flamengo čuva tron",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/classico-dos-milhoes-vasko-trazi-iskupljenje-flamengo-cuva-tron/557529",
+      "izvor": "Мозарт Спорт",
+      "datum": "29. 10. 2026. у 23:16",
+      "slika": null
+    },
     {
       "naslov": "Došlo vreme da naplati 74 gola... Beljov transfer i do 30.000.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/doslo-vreme-da-naplati-74-gola-beljov-transfer-i-do-30000000-evra/557547",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Trener Portsmuta hvali Milovanovića: Dosta dobro se adaptirao na engleski fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/trener-portsmuta-hvali-milovanovica-dosta-dobro-se-adaptirao-na-engleski-fudbal/557534",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 10. 2026. у 17:02",
-      "slika": null
-    },
-    {
-      "naslov": "Azijski kup uprkos raketama i strahu: Australijanci traže garancije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/azijski-kup-uprkos-raketama-i-strahu-australijanci-traze-garancije/557527",
-      "izvor": "Мозарт Спорт",
-      "datum": "29. 10. 2026. у 15:59",
+      "naslov": "Fudbaleri Evertona izborili plasman u četvrtfinale Liga kupa",
+      "url": "https://www.tanjug.rs/sport/fudbal/293711/fudbaleri-evertona-izborili-plasman-u-cetvrtfinale-liga-kupa/vest",
+      "izvor": "Танјуг",
+      "datum": "29. 10. 2026. у 23:12",
       "slika": null
     },
     {
@@ -46,17 +53,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Liverpula posle \"penal drame\" eliminisali Čelsi iz Liga kupa",
-      "url": "https://www.tanjug.rs/sport/fudbal/293394/fudbaleri-liverpula-posle-penal-drame-eliminisali-celsi-iz-liga-kupa/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 10. 2026. у 23:21",
+      "naslov": "&quot;Da smo zadržali Maksimovića, usporili bi Kostova&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280573/marko-marin-o-funkcionisanju-i-skoli-crvene-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 10. 2026. у 23:50",
       "slika": null
     },
     {
-      "naslov": "Rijera: Nema lakih utakmica, trofeje osvaja ekipa",
-      "url": "https://www.tanjug.rs/sport/fudbal/293382/rijera-nema-lakih-utakmica-trofeje-osvaja-ekipa/vest",
-      "izvor": "Танјуг",
-      "datum": "28. 10. 2026. у 21:46",
+      "naslov": "Trener Vojvodine: &quot;Ne upirem prst ni u koga, ali ovo je nedopustivo&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280574/marko-savic-izjava-posle-ispadanja-iz-kupa-srbije-i-pred-mec-sa-ofk-beogradom/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 10. 2026. у 23:30",
       "slika": null
     },
     {
@@ -67,10 +74,10 @@
       "slika": null
     },
     {
-      "naslov": "Uprava Radničkog podnela kolektivnu ostavku posle poraza od Partizana",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280592/uprava-fk-radnicki-nis-podnela-kolektivnu-ostavku/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 10. 2026. у 18:25",
+      "naslov": "Fudbaleri Liverpula posle \"penal drame\" eliminisali Čelsi iz Liga kupa",
+      "url": "https://www.tanjug.rs/sport/fudbal/293394/fudbaleri-liverpula-posle-penal-drame-eliminisali-celsi-iz-liga-kupa/vest",
+      "izvor": "Танјуг",
+      "datum": "28. 10. 2026. у 23:21",
       "slika": null
     }
   ]
