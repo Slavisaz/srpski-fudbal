@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-31T06:25:07.544718+00:00",
-  "azurirano_sr": "31. 10. 2026. у 07:25",
+  "azurirano": "2026-10-31T12:52:01.611313+00:00",
+  "azurirano_sr": "31. 10. 2026. у 13:52",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ozbiljna zamka za Rijeru – šabačko blato 2018. godine uprljalo Vladana Milojevića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ozbiljna-zamka-za-rijeru-sabacko-blato-2018-godine-uprljalo-vladana-milojevica/557661",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 10. 2026. у 11:22",
+      "slika": null
+    },
+    {
+      "naslov": "PRELAZZI: Rosoneri iz grada penzosa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-rosoneri-iz-grada-penzosa/557653",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 10. 2026. у 10:11",
+      "slika": null
+    },
     {
       "naslov": "Viljareal je velikodušan domaćin, deli šakom i kapom - častio se i Espanjol",
       "url": "https://www.mozzartsport.com/fudbal/vesti/viljareal-je-velikodusan-domacin-deli-sakom-i-kapom-castio-se-i-espanjol/557642",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Kapetan Amerika dobio ugovor života: Milan dao Pulišiću veliku povišicu, sad je samo Rabio plaćeniji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kapetan-amerika-dobio-ugovor-zivota-milan-dao-pulisicu-veliku-povisicu-sad-je-samo-rabio-placeniji/557611",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 10. 2026. у 18:01",
-      "slika": null
-    },
-    {
-      "naslov": "Doći će mejl i Feliks odlazi - Siti ili Junajted; Dortmund se ništa ne pita",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/doci-ce-mejl-i-feliks-odlazi-siti-ili-junajted-dortmund-se-nista-ne-pita/557594",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 10. 2026. у 14:03",
+      "naslov": "Aleksandar Stanojević: Drago mi je što igramo kod kuće, spremamo tri utakmice u nedelju dana",
+      "url": "https://www.tanjug.rs/sport/fudbal/294035/aleksandar-stanojevic-drago-mi-je-sto-igramo-kod-kuce-spremamo-tri-utakmice-u-nedelju-dana/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 10. 2026. у 11:31",
       "slika": null
     },
     {
@@ -53,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbalski savez Srbije domaćin prve sesije UEFA o borbi protiv nameštanja utakmica",
-      "url": "https://www.tanjug.rs/sport/fudbal/293862/fudbalski-savez-srbije-domacin-prve-sesije-uefa-o-borbi-protiv-namestanja-utakmica/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 10. 2026. у 14:47",
+      "naslov": "Stanojević &quot;zagrmeo&quot; pred Zemun: &quot;To je jedina stvar koja me zanima!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281011/aleksandar-stanojevic-konferencija-za-medije-pred-partizan-zemun/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "31. 10. 2026. у 11:00",
       "slika": null
     },
     {
-      "naslov": "Rijera: &quot;Cilj je da ne izgubimo nijedan meč u Superligi&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280864/albert-rijera-izjava-pred-duel-zvezde-i-macve-u-kupu-srbije/vest",
+      "naslov": "Predrag Rajković više neće braniti za Srbiju!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280985/predrag-rajkovic-se-povlaci-iz-reprezentacije-srbije-vise-nece-braniti-za-orlove/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "30. 10. 2026. у 16:13",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda bez Ivanića u Šapcu – Rijera objasnio razlog",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280862/povredio-se-mirko-ivanic/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "30. 10. 2026. у 15:59",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Da smo zadržali Maksimovića, usporili bi Kostova&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280573/marko-marin-o-funkcionisanju-i-skoli-crvene-zvezde/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "29. 10. 2026. у 23:50",
+      "datum": "31. 10. 2026. у 08:45",
       "slika": null
     }
   ]
