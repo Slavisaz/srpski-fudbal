@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-10-31T17:23:30.251992+00:00",
-  "azurirano_sr": "31. 10. 2026. у 18:23",
+  "azurirano": "2026-10-31T20:30:09.143140+00:00",
+  "azurirano_sr": "31. 10. 2026. у 21:30",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Ozbiljna zamka za Rijeru – šabačko blato 2018. godine uprljalo Vladana Milojevića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ozbiljna-zamka-za-rijeru-sabacko-blato-2018-godine-uprljalo-vladana-milojevica/557661",
+      "naslov": "Za Nedeljkovića i Dragojevića nema mesta u Rendžersu ni u Liga kupu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/za-nedeljkovica-i-dragojevica-nema-mesta-u-rendzersu-ni-u-liga-kupu/557715",
       "izvor": "Мозарт Спорт",
-      "datum": "31. 10. 2026. у 11:22",
+      "datum": "31. 10. 2026. у 21:56",
       "slika": null
     },
     {
-      "naslov": "PRELAZZI: Rosoneri iz grada penzosa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-rosoneri-iz-grada-penzosa/557653",
+      "naslov": "Momci, uživanje je gledati vas: Taj divni, predivni Betis i docent fudbala Isko",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/momci-uzivanje-je-gledati-vas-taj-divni-predivni-betis-i-docent-fudbala-isko/557705",
       "izvor": "Мозарт Спорт",
-      "datum": "31. 10. 2026. у 10:11",
+      "datum": "31. 10. 2026. у 21:31",
       "slika": null
     },
     {
-      "naslov": "Viljareal je velikodušan domaćin, deli šakom i kapom - častio se i Espanjol",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/viljareal-je-velikodusan-domacin-deli-sakom-i-kapom-castio-se-i-espanjol/557642",
+      "naslov": "Mihailo Ivanović je gladan fudbala, a to je dokazao odličnom asistencijom (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mihailo-ivanovic-je-gladan-fudbala-a-to-je-dokazao-odlicnom-asistencijom-video/557711",
       "izvor": "Мозарт Спорт",
-      "datum": "31. 10. 2026. у 00:30",
+      "datum": "31. 10. 2026. у 21:22",
       "slika": null
     },
     {
-      "naslov": "Traje čarolija seoskog bundesligaša: Umetničko delo od makazica i lepršava igra vredna petog mesta",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/traje-carolija-seoskog-bundesligasa-umetnicko-delo-od-makazica-i-leprsava-igra-vredna-petog-mesta/557637",
+      "naslov": "Magičan fudbal Raja za raju: Lopta kroz tunel, protivnici na ringišpil (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/magican-fudbal-raja-za-raju-lopta-kroz-tunel-protivnici-na-ringispil-video/557698",
       "izvor": "Мозарт Спорт",
-      "datum": "30. 10. 2026. у 23:45",
+      "datum": "31. 10. 2026. у 19:19",
+      "slika": null
+    },
+    {
+      "naslov": "Rijera: Veoma sam zadoviljan, uživao sam gledajući kako igramo",
+      "url": "https://www.tanjug.rs/sport/fudbal/294130/rijera-veoma-sam-zadoviljan-uzivao-sam-gledajuci-kako-igramo/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 10. 2026. у 20:18",
+      "slika": null
+    },
+    {
+      "naslov": "Het-trik Dijenga i Elšnik za pobedu fudbalera Zvezde protiv Mačve u Šapcu",
+      "url": "https://www.tanjug.rs/sport/fudbal/294114/het-trik-dijenga-i-elsnik-za-pobedu-fudbalera-zvezde-protiv-macve-u-sapcu/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 10. 2026. у 18:52",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Čelsija pobedili Mančester Junajted u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/294072/fudbaleri-celsija-pobedili-mancester-junajted-u-premijer-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 10. 2026. у 15:37",
-      "slika": null
-    },
-    {
-      "naslov": "Aleksandar Stanojević: Drago mi je što igramo kod kuće, spremamo tri utakmice u nedelju dana",
-      "url": "https://www.tanjug.rs/sport/fudbal/294035/aleksandar-stanojevic-drago-mi-je-sto-igramo-kod-kuce-spremamo-tri-utakmice-u-nedelju-dana/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 10. 2026. у 11:31",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda ispustila 2:0 u Šapcu! VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281077/uzivo-macva-zvezda/vest",
+      "naslov": "Rijera: &quot;Moglo je da bude 4:0&quot;; Glušica: &quot;Mogu da budem zadovoljan&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281123/zvezda-macva-izjave-trenera/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "31. 10. 2026. у 18:12",
+      "datum": "31. 10. 2026. у 19:12",
       "slika": null
     },
     {
-      "naslov": "Dudić: &quot;Ne provocirajte Lalatovića, zaslužio je veliki pozdrav&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281070/dudic-pozvao-navijace-na-fer-docek-lalatovica/vest",
+      "naslov": "Dijeng het-trikom spasao Zvezdu u Šapcu! VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281077/superliga-srbije-14-kolo-macva-crvena-zvezda-24-12/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "31. 10. 2026. у 15:15",
+      "datum": "31. 10. 2026. у 18:51",
       "slika": null
     }
   ]
