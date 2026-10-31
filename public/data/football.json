@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-10-30T21:26:37.816630+00:00",
-  "azurirano_sr": "30. 10. 2026. у 22:26",
+  "azurirano": "2026-10-31T00:55:28.580698+00:00",
+  "azurirano_sr": "31. 10. 2026. у 01:55",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Viljareal je velikodušan domaćin, deli šakom i kapom - častio se i Espanjol",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/viljareal-je-velikodusan-domacin-deli-sakom-i-kapom-castio-se-i-espanjol/557642",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 10. 2026. у 00:30",
+      "slika": null
+    },
+    {
+      "naslov": "Traje čarolija seoskog bundesligaša: Umetničko delo od makazica i lepršava igra vredna petog mesta",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/traje-carolija-seoskog-bundesligasa-umetnicko-delo-od-makazica-i-leprsava-igra-vredna-petog-mesta/557637",
+      "izvor": "Мозарт Спорт",
+      "datum": "30. 10. 2026. у 23:45",
+      "slika": null
+    },
     {
       "naslov": "Kapetan Amerika dobio ugovor života: Milan dao Pulišiću veliku povišicu, sad je samo Rabio plaćeniji",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kapetan-amerika-dobio-ugovor-zivota-milan-dao-pulisicu-veliku-povisicu-sad-je-samo-rabio-placeniji/557611",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/doci-ce-mejl-i-feliks-odlazi-siti-ili-junajted-dortmund-se-nista-ne-pita/557594",
       "izvor": "Мозарт Спорт",
       "datum": "30. 10. 2026. у 14:03",
-      "slika": null
-    },
-    {
-      "naslov": "Mituljikić čeka Klub Briž",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mituljikic-ceka-klub-briz/557590",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 10. 2026. у 12:53",
-      "slika": null
-    },
-    {
-      "naslov": "PRELAZZI: Jedina ljubav kapetana Pikara",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prelazzi-jedina-ljubav-kapetana-pikara/557586",
-      "izvor": "Мозарт Спорт",
-      "datum": "30. 10. 2026. у 12:08",
       "slika": null
     },
     {
@@ -71,6 +71,13 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280862/povredio-se-mirko-ivanic/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "30. 10. 2026. у 15:59",
+      "slika": null
+    },
+    {
+      "naslov": "&quot;Da smo zadržali Maksimovića, usporili bi Kostova&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280573/marko-marin-o-funkcionisanju-i-skoli-crvene-zvezde/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "29. 10. 2026. у 23:50",
       "slika": null
     }
   ]
