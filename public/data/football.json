@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-10-31T12:52:01.611313+00:00",
-  "azurirano_sr": "31. 10. 2026. у 13:52",
+  "azurirano": "2026-10-31T17:23:30.251992+00:00",
+  "azurirano_sr": "31. 10. 2026. у 18:23",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,27 @@
       "slika": null
     },
     {
+      "naslov": "Drugi uzastopni poraz Sitija, Brajton odneo bodove sa \"Etihada\", autogol Milenkovića",
+      "url": "https://www.tanjug.rs/sport/fudbal/294101/drugi-uzastopni-poraz-sitija-brajton-odneo-bodove-sa-etihada-autogol-milenkovica/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 10. 2026. у 18:03",
+      "slika": null
+    },
+    {
+      "naslov": "Navaro: Očekuje nas nimalo laka utakmica protiv tima koji je jedno od iznenađenja",
+      "url": "https://www.tanjug.rs/sport/fudbal/294082/navaro-ocekuje-nas-nimalo-laka-utakmica-protiv-tima-koji-je-jedno-od-iznenadenja/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 10. 2026. у 16:30",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Čelsija pobedili Mančester Junajted u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/294072/fudbaleri-celsija-pobedili-mancester-junajted-u-premijer-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 10. 2026. у 15:37",
+      "slika": null
+    },
+    {
       "naslov": "Aleksandar Stanojević: Drago mi je što igramo kod kuće, spremamo tri utakmice u nedelju dana",
       "url": "https://www.tanjug.rs/sport/fudbal/294035/aleksandar-stanojevic-drago-mi-je-sto-igramo-kod-kuce-spremamo-tri-utakmice-u-nedelju-dana/vest",
       "izvor": "Танјуг",
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri PSŽ-a ubedljivi protiv Avra, het-trik Hakimija",
-      "url": "https://www.tanjug.rs/sport/fudbal/293958/fudbaleri-psz-a-ubedljivi-protiv-avra-het-trik-hakimija/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 10. 2026. у 21:43",
-      "slika": null
-    },
-    {
-      "naslov": "Kristijan Pulišić produžio ugovor sa Milanom do 30. juna 2031. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/293945/kristijan-pulisic-produzio-ugovor-sa-milanom-do-30-juna-2031-godine/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 10. 2026. у 20:32",
-      "slika": null
-    },
-    {
-      "naslov": "Albert Rijera: Cilj je da ne izgubimo nijedan meč u Superligi i da imamo što više pobeda",
-      "url": "https://www.tanjug.rs/sport/fudbal/293874/albert-rijera-cilj-je-da-ne-izgubimo-nijedan-mec-u-superligi-i-da-imamo-sto-vise-pobeda/vest",
-      "izvor": "Танјуг",
-      "datum": "30. 10. 2026. у 15:36",
-      "slika": null
-    },
-    {
-      "naslov": "Stanojević &quot;zagrmeo&quot; pred Zemun: &quot;To je jedina stvar koja me zanima!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281011/aleksandar-stanojevic-konferencija-za-medije-pred-partizan-zemun/vest",
+      "naslov": "Zvezda ispustila 2:0 u Šapcu! VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281077/uzivo-macva-zvezda/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "31. 10. 2026. у 11:00",
+      "datum": "31. 10. 2026. у 18:12",
       "slika": null
     },
     {
-      "naslov": "Predrag Rajković više neće braniti za Srbiju!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280985/predrag-rajkovic-se-povlaci-iz-reprezentacije-srbije-vise-nece-braniti-za-orlove/vest",
+      "naslov": "Dudić: &quot;Ne provocirajte Lalatovića, zaslužio je veliki pozdrav&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281070/dudic-pozvao-navijace-na-fer-docek-lalatovica/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "31. 10. 2026. у 08:45",
+      "datum": "31. 10. 2026. у 15:15",
       "slika": null
     }
   ]
