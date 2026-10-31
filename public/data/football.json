@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-10-31T20:30:09.143140+00:00",
-  "azurirano_sr": "31. 10. 2026. у 21:30",
+  "azurirano": "2026-10-31T23:33:11.333706+00:00",
+  "azurirano_sr": "1. 11. 2026. у 00:33",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Bliži se okupljanje Orlova, Mihajlo Cvetković diže borbenu gotovost",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/blizi-se-okupljanje-orlova-mihajlo-cvetkovic-dize-borbenu-gotovost/557726",
+      "izvor": "Мозарт Спорт",
+      "datum": "31. 10. 2026. у 23:43",
+      "slika": null
+    },
     {
       "naslov": "Za Nedeljkovića i Dragojevića nema mesta u Rendžersu ni u Liga kupu",
       "url": "https://www.mozzartsport.com/fudbal/vesti/za-nedeljkovica-i-dragojevica-nema-mesta-u-rendzersu-ni-u-liga-kupu/557715",
@@ -25,10 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Magičan fudbal Raja za raju: Lopta kroz tunel, protivnici na ringišpil (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/magican-fudbal-raja-za-raju-lopta-kroz-tunel-protivnici-na-ringispil-video/557698",
-      "izvor": "Мозарт Спорт",
-      "datum": "31. 10. 2026. у 19:19",
+      "naslov": "\"Šestica\" fudbalera Barselone protiv Alavesa u La Ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/294159/sestica-fudbalera-barselone-protiv-alavesa-u-la-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 10. 2026. у 22:59",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Milana u gradskom derbiju bolji od Intera",
+      "url": "https://www.tanjug.rs/sport/fudbal/294157/fudbaleri-milana-u-gradskom-derbiju-bolji-od-intera/vest",
+      "izvor": "Танјуг",
+      "datum": "31. 10. 2026. у 22:43",
       "slika": null
     },
     {
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/294114/het-trik-dijenga-i-elsnik-za-pobedu-fudbalera-zvezde-protiv-macve-u-sapcu/vest",
       "izvor": "Танјуг",
       "datum": "31. 10. 2026. у 18:52",
-      "slika": null
-    },
-    {
-      "naslov": "Drugi uzastopni poraz Sitija, Brajton odneo bodove sa \"Etihada\", autogol Milenkovića",
-      "url": "https://www.tanjug.rs/sport/fudbal/294101/drugi-uzastopni-poraz-sitija-brajton-odneo-bodove-sa-etihada-autogol-milenkovica/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 10. 2026. у 18:03",
-      "slika": null
-    },
-    {
-      "naslov": "Navaro: Očekuje nas nimalo laka utakmica protiv tima koji je jedno od iznenađenja",
-      "url": "https://www.tanjug.rs/sport/fudbal/294082/navaro-ocekuje-nas-nimalo-laka-utakmica-protiv-tima-koji-je-jedno-od-iznenadenja/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 10. 2026. у 16:30",
       "slika": null
     },
     {
