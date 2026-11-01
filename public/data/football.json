@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-11-01T09:32:28.559720+00:00",
-  "azurirano_sr": "1. 11. 2026. у 10:32",
+  "azurirano": "2026-11-01T16:16:16.325318+00:00",
+  "azurirano_sr": "1. 11. 2026. у 17:16",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Bliži se okupljanje Orlova, Mihajlo Cvetković diže borbenu gotovost",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/blizi-se-okupljanje-orlova-mihajlo-cvetkovic-dize-borbenu-gotovost/557726",
+      "naslov": "Pala Grobina, slavi se titula: Kvartet srpskih fudbalera krunisan u Letoniji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pala-grobina-slavi-se-titula-kvartet-srpskih-fudbalera-krunisan-u-letoniji/557781",
       "izvor": "Мозарт Спорт",
-      "datum": "31. 10. 2026. у 23:43",
+      "datum": "1. 11. 2026. у 17:51",
       "slika": null
     },
     {
-      "naslov": "Za Nedeljkovića i Dragojevića nema mesta u Rendžersu ni u Liga kupu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/za-nedeljkovica-i-dragojevica-nema-mesta-u-rendzersu-ni-u-liga-kupu/557715",
+      "naslov": "Strpljenju došao kraj, Dinamo traži trenera: Poraz od novog prvoligaša presudio Kovačeviću",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/strpljenju-dosao-kraj-dinamo-trazi-trenera-poraz-od-novog-prvoligasa-presudio-kovacevicu/557777",
       "izvor": "Мозарт Спорт",
-      "datum": "31. 10. 2026. у 21:56",
+      "datum": "1. 11. 2026. у 17:26",
       "slika": null
     },
     {
-      "naslov": "Momci, uživanje je gledati vas: Taj divni, predivni Betis i docent fudbala Isko",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/momci-uzivanje-je-gledati-vas-taj-divni-predivni-betis-i-docent-fudbala-isko/557705",
+      "naslov": "Petica kao nada, Keln želi da izbegne crni rekord",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/petica-kao-nada-keln-zeli-da-izbegne-crni-rekord/557756",
       "izvor": "Мозарт Спорт",
-      "datum": "31. 10. 2026. у 21:31",
+      "datum": "1. 11. 2026. у 13:25",
       "slika": null
     },
     {
-      "naslov": "Mihailo Ivanović je gladan fudbala, a to je dokazao odličnom asistencijom (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mihailo-ivanovic-je-gladan-fudbala-a-to-je-dokazao-odlicnom-asistencijom-video/557711",
+      "naslov": "Bam, bam, Bamba! Brzina odluke koju zahteva moderan fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bam-bam-bamba-brzina-odluke-koju-zahteva-moderan-fudbal/557754",
       "izvor": "Мозарт Спорт",
-      "datum": "31. 10. 2026. у 21:22",
+      "datum": "1. 11. 2026. у 12:41",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Koma nadigrali Veneciju u 10. kolu Serije A",
+      "url": "https://www.tanjug.rs/sport/fudbal/294259/fudbaleri-koma-nadigrali-veneciju-u-10-kolu-serije-a/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 11. 2026. у 14:43",
+      "slika": null
+    },
+    {
+      "naslov": "Mario Kovačević nije više trener fudbalera Dinama iz Zagreba",
+      "url": "https://www.tanjug.rs/sport/fudbal/294255/mario-kovacevic-nije-vise-trener-fudbalera-dinama-iz-zagreba/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 11. 2026. у 14:33",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Rijera: Veoma sam zadoviljan, uživao sam gledajući kako igramo",
-      "url": "https://www.tanjug.rs/sport/fudbal/294130/rijera-veoma-sam-zadoviljan-uzivao-sam-gledajuci-kako-igramo/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 10. 2026. у 20:18",
-      "slika": null
-    },
-    {
-      "naslov": "Het-trik Dijenga i Elšnik za pobedu fudbalera Zvezde protiv Mačve u Šapcu",
-      "url": "https://www.tanjug.rs/sport/fudbal/294114/het-trik-dijenga-i-elsnik-za-pobedu-fudbalera-zvezde-protiv-macve-u-sapcu/vest",
-      "izvor": "Танјуг",
-      "datum": "31. 10. 2026. у 18:52",
-      "slika": null
-    },
-    {
-      "naslov": "Železničar raste – odbijeno 2.800.000 evra!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281214/zeleznicar-odbio-2800000-evra-za-simaa-pedra/vest",
+      "naslov": "Stanojević opet u Humskoj – prve šanse za Partizan",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281249/uzivo-superliga-partizan-zemun-live-prenos-gde-gledati/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 11. 2026. у 10:18",
+      "datum": "1. 11. 2026. у 17:10",
       "slika": null
     },
     {
-      "naslov": "Rijera: &quot;Moglo je da bude 4:0&quot;; Glušica: &quot;Mogu da budem zadovoljan&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281123/zvezda-macva-izjave-trenera/vest",
+      "naslov": "Đakovac junak Vojvodine na Karaburmi VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281300/golcina-djakovca-vojvodina-pobedila-ofk-beograd-20/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "31. 10. 2026. у 19:12",
+      "datum": "1. 11. 2026. у 16:55",
       "slika": null
     }
   ]
