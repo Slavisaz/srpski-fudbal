@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-11-01T20:31:18.390701+00:00",
-  "azurirano_sr": "1. 11. 2026. у 21:31",
+  "azurirano": "2026-11-01T23:48:32.411739+00:00",
+  "azurirano_sr": "2. 11. 2026. у 00:48",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Rugajte se, ismevajte: Boka dobila MMA Superklasiko, ali sledi nešto mnogo važnije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rugajte-se-ismevajte-boka-dobila-mma-superklasiko-ali-sledi-nesto-mnogo-vaznije/557810",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 11. 2026. у 22:25",
+      "slika": null
+    },
     {
       "naslov": "Dogovoren zimski transfer: Luka Ilić treći put u Zvezdi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/dogovoren-zimski-transfer-luka-ilic-treci-put-u-zvezdi/557801",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Pala Grobina, slavi se titula: Kvartet srpskih fudbalera krunisan u Letoniji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pala-grobina-slavi-se-titula-kvartet-srpskih-fudbalera-krunisan-u-letoniji/557781",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 11. 2026. у 17:51",
+      "naslov": "Alajbegović i Boga za pobedu fudbalera Juventusa protiv Napolija",
+      "url": "https://www.tanjug.rs/sport/fudbal/294334/alajbegovic-i-boga-za-pobedu-fudbalera-juventusa-protiv-napolija/vest",
+      "izvor": "Танјуг",
+      "datum": "1. 11. 2026. у 22:39",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/294302/druga-pobeda-stanojevica-fudbaleri-partizana-bolji-od-zemuna/vest",
       "izvor": "Танјуг",
       "datum": "1. 11. 2026. у 19:02",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Reala ubedljivo savladali Rasing u Santanderu",
-      "url": "https://www.tanjug.rs/sport/fudbal/294298/fudbaleri-reala-ubedljivo-savladali-rasing-u-santanderu/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 11. 2026. у 18:34",
       "slika": null
     },
     {
