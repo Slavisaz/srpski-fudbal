@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-11-01T02:30:10.897859+00:00",
-  "azurirano_sr": "1. 11. 2026. у 03:30",
+  "azurirano": "2026-11-01T09:32:28.559720+00:00",
+  "azurirano_sr": "1. 11. 2026. у 10:32",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Železničar raste – odbijeno 2.800.000 evra!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281214/zeleznicar-odbio-2800000-evra-za-simaa-pedra/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "1. 11. 2026. у 10:18",
+      "slika": null
+    },
+    {
       "naslov": "Rijera: &quot;Moglo je da bude 4:0&quot;; Glušica: &quot;Mogu da budem zadovoljan&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281123/zvezda-macva-izjave-trenera/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "31. 10. 2026. у 19:12",
-      "slika": null
-    },
-    {
-      "naslov": "Dijeng het-trikom spasao Zvezdu u Šapcu! VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281077/superliga-srbije-14-kolo-macva-crvena-zvezda-24-12/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "31. 10. 2026. у 18:51",
       "slika": null
     }
   ]
