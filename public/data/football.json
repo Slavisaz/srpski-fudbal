@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-11-01T16:16:16.325318+00:00",
-  "azurirano_sr": "1. 11. 2026. у 17:16",
+  "azurirano": "2026-11-01T20:31:18.390701+00:00",
+  "azurirano_sr": "1. 11. 2026. у 21:31",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Dogovoren zimski transfer: Luka Ilić treći put u Zvezdi",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/dogovoren-zimski-transfer-luka-ilic-treci-put-u-zvezdi/557801",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 11. 2026. у 20:41",
+      "slika": null
+    },
+    {
+      "naslov": "Vi nas napadajte, a mi ćemo \"ono naše\": Arsenal osvojio Enfild posle 14 godina",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vi-nas-napadajte-a-mi-cemo-ono-nase-arsenal-osvojio-enfild-posle-14-godina/557797",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 11. 2026. у 20:28",
+      "slika": null
+    },
+    {
+      "naslov": "Priča dana iz holandskog fudbala: Pogledajte semafor",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prica-dana-iz-holandskog-fudbala-pogledajte-semafor/557788",
+      "izvor": "Мозарт Спорт",
+      "datum": "1. 11. 2026. у 19:18",
+      "slika": null
+    },
     {
       "naslov": "Pala Grobina, slavi se titula: Kvartet srpskih fudbalera krunisan u Letoniji",
       "url": "https://www.mozzartsport.com/fudbal/vesti/pala-grobina-slavi-se-titula-kvartet-srpskih-fudbalera-krunisan-u-letoniji/557781",
@@ -11,66 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Strpljenju došao kraj, Dinamo traži trenera: Poraz od novog prvoligaša presudio Kovačeviću",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/strpljenju-dosao-kraj-dinamo-trazi-trenera-poraz-od-novog-prvoligasa-presudio-kovacevicu/557777",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 11. 2026. у 17:26",
-      "slika": null
-    },
-    {
-      "naslov": "Petica kao nada, Keln želi da izbegne crni rekord",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/petica-kao-nada-keln-zeli-da-izbegne-crni-rekord/557756",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 11. 2026. у 13:25",
-      "slika": null
-    },
-    {
-      "naslov": "Bam, bam, Bamba! Brzina odluke koju zahteva moderan fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bam-bam-bamba-brzina-odluke-koju-zahteva-moderan-fudbal/557754",
-      "izvor": "Мозарт Спорт",
-      "datum": "1. 11. 2026. у 12:41",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Koma nadigrali Veneciju u 10. kolu Serije A",
-      "url": "https://www.tanjug.rs/sport/fudbal/294259/fudbaleri-koma-nadigrali-veneciju-u-10-kolu-serije-a/vest",
+      "naslov": "Stanojević: Vreme će pokazati našu realnu sliku",
+      "url": "https://www.tanjug.rs/sport/fudbal/294311/stanojevic-vreme-ce-pokazati-nasu-realnu-sliku/vest",
       "izvor": "Танјуг",
-      "datum": "1. 11. 2026. у 14:43",
+      "datum": "1. 11. 2026. у 19:57",
       "slika": null
     },
     {
-      "naslov": "Mario Kovačević nije više trener fudbalera Dinama iz Zagreba",
-      "url": "https://www.tanjug.rs/sport/fudbal/294255/mario-kovacevic-nije-vise-trener-fudbalera-dinama-iz-zagreba/vest",
+      "naslov": "Fudbaleri Arsenala posle 14 godina savladali Liverpul na Enfildu",
+      "url": "https://www.tanjug.rs/sport/fudbal/294307/fudbaleri-arsenala-posle-14-godina-savladali-liverpul-na-enfildu/vest",
       "izvor": "Танјуг",
-      "datum": "1. 11. 2026. у 14:33",
+      "datum": "1. 11. 2026. у 19:50",
       "slika": null
     },
     {
-      "naslov": "\"Šestica\" fudbalera Barselone protiv Alavesa u La Ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/294159/sestica-fudbalera-barselone-protiv-alavesa-u-la-ligi/vest",
+      "naslov": "Druga pobeda Stanojevića, fudbaleri Partizana bolji od Zemuna",
+      "url": "https://www.tanjug.rs/sport/fudbal/294302/druga-pobeda-stanojevica-fudbaleri-partizana-bolji-od-zemuna/vest",
       "izvor": "Танјуг",
-      "datum": "31. 10. 2026. у 22:59",
+      "datum": "1. 11. 2026. у 19:02",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Milana u gradskom derbiju bolji od Intera",
-      "url": "https://www.tanjug.rs/sport/fudbal/294157/fudbaleri-milana-u-gradskom-derbiju-bolji-od-intera/vest",
+      "naslov": "Fudbaleri Reala ubedljivo savladali Rasing u Santanderu",
+      "url": "https://www.tanjug.rs/sport/fudbal/294298/fudbaleri-reala-ubedljivo-savladali-rasing-u-santanderu/vest",
       "izvor": "Танјуг",
-      "datum": "31. 10. 2026. у 22:43",
+      "datum": "1. 11. 2026. у 18:34",
       "slika": null
     },
     {
-      "naslov": "Stanojević opet u Humskoj – prve šanse za Partizan",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281249/uzivo-superliga-partizan-zemun-live-prenos-gde-gledati/vest",
+      "naslov": "Zvezda radi na pojačanjima: Osiguran povratnik!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281353/luka-ilic-se-vraca-u-crvenu-zvezdu-po-treci-put/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 11. 2026. у 17:10",
+      "datum": "1. 11. 2026. у 21:00",
       "slika": null
     },
     {
-      "naslov": "Đakovac junak Vojvodine na Karaburmi VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281300/golcina-djakovca-vojvodina-pobedila-ofk-beograd-20/vest",
+      "naslov": "Stanojević posle druge pobede u nizu: &quot;Neću sada biti tih&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281334/aleksandar-stanojevic-posle-pobede-protiv-zemuna/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 11. 2026. у 16:55",
+      "datum": "1. 11. 2026. у 19:11",
       "slika": null
     }
   ]
