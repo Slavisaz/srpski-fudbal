@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-11-02T02:45:58.116315+00:00",
-  "azurirano_sr": "2. 11. 2026. у 03:45",
+  "azurirano": "2026-11-02T10:00:16.007064+00:00",
+  "azurirano_sr": "2. 11. 2026. у 11:00",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Rugajte se, ismevajte: Boka dobila MMA Superklasiko, ali sledi nešto mnogo važnije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rugajte-se-ismevajte-boka-dobila-mma-superklasiko-ali-sledi-nesto-mnogo-vaznije/557810",
+      "naslov": "Zvanično: Propali izbori u Fudbalskom savezu Srbije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvanicno-propali-izbori-u-fudbalskom-savezu-srbije/557846",
       "izvor": "Мозарт Спорт",
-      "datum": "1. 11. 2026. у 22:25",
+      "datum": "2. 11. 2026. у 11:26",
       "slika": null
     },
     {
-      "naslov": "Dogovoren zimski transfer: Luka Ilić treći put u Zvezdi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/dogovoren-zimski-transfer-luka-ilic-treci-put-u-zvezdi/557801",
+      "naslov": "Jajsle i Njukasl imaju popravni protiv Evertona, Mojes pred istorijskim činom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jajsle-i-njukasl-imaju-popravni-protiv-evertona-mojes-pred-istorijskim-cinom/557842",
       "izvor": "Мозарт Спорт",
-      "datum": "1. 11. 2026. у 20:41",
+      "datum": "2. 11. 2026. у 10:53",
       "slika": null
     },
     {
-      "naslov": "Vi nas napadajte, a mi ćemo \"ono naše\": Arsenal osvojio Enfild posle 14 godina",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vi-nas-napadajte-a-mi-cemo-ono-nase-arsenal-osvojio-enfild-posle-14-godina/557797",
+      "naslov": "Vreme je da se Nolan Fero predstavi srpskom fudbalu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vreme-je-da-se-nolan-fero-predstavi-srpskom-fudbalu/557840",
       "izvor": "Мозарт Спорт",
-      "datum": "1. 11. 2026. у 20:28",
+      "datum": "2. 11. 2026. у 10:40",
       "slika": null
     },
     {
-      "naslov": "Priča dana iz holandskog fudbala: Pogledajte semafor",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prica-dana-iz-holandskog-fudbala-pogledajte-semafor/557788",
+      "naslov": "Na Čairu je vreme za – fudbal: Železničar na suprotnoj strani, kao da je bilo pre sto godina",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/na-cairu-je-vreme-za-fudbal-zeleznicar-na-suprotnoj-strani-kao-da-je-bilo-pre-sto-godina/557830",
       "izvor": "Мозарт Спорт",
-      "datum": "1. 11. 2026. у 19:18",
+      "datum": "2. 11. 2026. у 09:22",
+      "slika": null
+    },
+    {
+      "naslov": "FSS: Istekao rok, bez podnetih kandidatura za predsednika i članove Izvršnog odbora",
+      "url": "https://www.tanjug.rs/sport/fudbal/294394/fss-istekao-rok-bez-podnetih-kandidatura-za-predsednika-i-clanove-izvrsnog-odbora/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 11. 2026. у 10:40",
+      "slika": null
+    },
+    {
+      "naslov": "Nastavlja se Liga šampiona, PSŽ gostuje Viljarealu, Atletiko Madrid čeka Bajern",
+      "url": "https://www.tanjug.rs/sport/fudbal/294387/nastavlja-se-liga-sampiona-psz-gostuje-viljarealu-atletiko-madrid-ceka-bajern/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 11. 2026. у 10:20",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Arsenala posle 14 godina savladali Liverpul na Enfildu",
-      "url": "https://www.tanjug.rs/sport/fudbal/294307/fudbaleri-arsenala-posle-14-godina-savladali-liverpul-na-enfildu/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 11. 2026. у 19:50",
-      "slika": null
-    },
-    {
-      "naslov": "Druga pobeda Stanojevića, fudbaleri Partizana bolji od Zemuna",
-      "url": "https://www.tanjug.rs/sport/fudbal/294302/druga-pobeda-stanojevica-fudbaleri-partizana-bolji-od-zemuna/vest",
-      "izvor": "Танјуг",
-      "datum": "1. 11. 2026. у 19:02",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda radi na pojačanjima: Osiguran povratnik!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281353/luka-ilic-se-vraca-u-crvenu-zvezdu-po-treci-put/vest",
+      "naslov": "Niko ne želi da bude predsednik FSS",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281449/fudbalski-savez-srbije-objavio-da-nije-stigla-nijedna-kandidatura-za-predsednika/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 11. 2026. у 21:00",
+      "datum": "2. 11. 2026. у 10:28",
       "slika": null
     },
     {
-      "naslov": "Stanojević posle druge pobede u nizu: &quot;Neću sada biti tih&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281334/aleksandar-stanojevic-posle-pobede-protiv-zemuna/vest",
+      "naslov": "Apel za spas Partizana: &quot;Svi dajte ostavke!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281436/saopstenje-apela-za-spas-partizana-u-kom-se-traze-ostavke-svih-celnika/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "1. 11. 2026. у 19:11",
+      "datum": "2. 11. 2026. у 10:00",
       "slika": null
     }
   ]
