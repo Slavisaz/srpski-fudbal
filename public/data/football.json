@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-11-02T20:00:46.823045+00:00",
-  "azurirano_sr": "2. 11. 2026. у 21:00",
+  "azurirano": "2026-11-03T02:05:42.891861+00:00",
+  "azurirano_sr": "3. 11. 2026. у 03:05",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,20 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Evertona pobedili Njukasl u devetom kolu Premijer lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/294634/fudbaleri-evertona-pobedili-njukasl-u-devetom-kolu-premijer-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 11. 2026. у 23:41",
+      "slika": null
+    },
+    {
+      "naslov": "FK Crvena zvezda: Stopostotan učinak 5. novembra u evropskim utakmicama na Marakani",
+      "url": "https://www.tanjug.rs/sport/fudbal/294624/fk-crvena-zvezda-stopostotan-ucinak-5-novembra-u-evropskim-utakmicama-na-marakani/vest",
+      "izvor": "Танјуг",
+      "datum": "2. 11. 2026. у 21:39",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Fiorentine savladali Sasuolo u Seriji A, Nemanja Matić asistent",
       "url": "https://www.tanjug.rs/sport/fudbal/294617/fudbaleri-fiorentine-savladali-sasuolo-u-seriji-a-nemanja-matic-asistent/vest",
       "izvor": "Танјуг",
@@ -43,20 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/294614/fudbaleri-radnika-pobedili-mladost-u-superligi-srbije/vest",
       "izvor": "Танјуг",
       "datum": "2. 11. 2026. у 20:12",
-      "slika": null
-    },
-    {
-      "naslov": "Zbog nestanka struje odložena utakmica između Radničkog iz Niša i Železničara",
-      "url": "https://www.tanjug.rs/sport/fudbal/294597/zbog-nestanka-struje-odlozena-utakmica-izmedu-radnickog-iz-nisa-i-zeleznicara/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 11. 2026. у 18:51",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaler Mančester junajteda Patrik Dorgu spreman za duel sa Romom u Ligi šampiona",
-      "url": "https://www.tanjug.rs/sport/fudbal/294491/fudbaler-mancester-junajteda-patrik-dorgu-spreman-za-duel-sa-romom-u-ligi-sampiona/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 11. 2026. у 14:03",
       "slika": null
     },
     {
