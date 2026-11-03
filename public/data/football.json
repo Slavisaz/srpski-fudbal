@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-11-03T02:05:42.891861+00:00",
-  "azurirano_sr": "3. 11. 2026. у 03:05",
+  "azurirano": "2026-11-03T09:26:33.379516+00:00",
+  "azurirano_sr": "3. 11. 2026. у 10:26",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Kup Azije u fudbalu pomeren za kraj 2027. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/294697/kup-azije-u-fudbalu-pomeren-za-kraj-2027-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "3. 11. 2026. у 10:22",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaleri Evertona pobedili Njukasl u devetom kolu Premijer lige",
       "url": "https://www.tanjug.rs/sport/fudbal/294634/fudbaleri-evertona-pobedili-njukasl-u-devetom-kolu-premijer-lige/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Radnika pobedili Mladost u Superligi Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/294614/fudbaleri-radnika-pobedili-mladost-u-superligi-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "2. 11. 2026. у 20:12",
+      "naslov": "Partizan se oglasio zbog Alta banke: Otkriveno šta se dešavalo iza kulisa sa generalnim sponzorom",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281753/partizan-o-maxbetu-i-alta-banci-za-raskid-ugovora-trazeno-800000-evra/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "3. 11. 2026. у 10:11",
       "slika": null
     },
     {
-      "naslov": "Priča Petra Sukačeva: Od dečaka koji je autobusom satima putovao na treninge do dresa Srbije",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/280953/expertiva-45-epizoda-petar-sukacev-fudbaler-vojvodine-video/vest",
+      "naslov": "Petrović otvoreno o svemu: &quot;Imamo najbolju nameru&quot;; &quot;Saletu su vrata Partizana uvek otvorena&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281743/radosav-petrovic-o-aktuelnostima-u-partizanu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "2. 11. 2026. у 20:05",
-      "slika": null
-    },
-    {
-      "naslov": "Radnik do prve pobede u gostima – Mladost kažnjena za promašaje",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281655/radnik-do-prve-pobede-u-gostima-mladost-kaznjena-za-promasaje/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "2. 11. 2026. у 19:55",
+      "datum": "3. 11. 2026. у 09:33",
       "slika": null
     }
   ]
