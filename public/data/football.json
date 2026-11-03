@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-11-03T17:11:32.863894+00:00",
-  "azurirano_sr": "3. 11. 2026. у 18:11",
+  "azurirano": "2026-11-03T22:16:49.436364+00:00",
+  "azurirano_sr": "3. 11. 2026. у 23:16",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Atletiko nije hteo da igra fudbal, desetkovani Bajern samo malo dodao gas za laganih 2:0 (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/atletiko-nije-hteo-da-igra-fudbal-desetkovani-bajern-samo-malo-dodao-gas-za-laganih-20-video/557969",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 11. 2026. у 23:58",
+      "slika": null
+    },
+    {
+      "naslov": "KRAJ - LIGA ŠAMPIONA: Ekstaza na Old Trafordu, Bajern pobedio na Metropolitanu, PSŽ razorio Viljareal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-sampiona-ekstaza-na-old-trafordu-bajern-pobedio-na-metropolitanu-psz-razorio-viljareal/557955",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 11. 2026. у 23:57",
+      "slika": null
+    },
+    {
+      "naslov": "Proletos igrao Seriju B, sada rešava Ligu šampiona: Sporting je znao šta kupuje i zato ubira plodove",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/proletos-igrao-seriju-b-sada-resava-ligu-sampiona-sporting-je-znao-sta-kupuje-i-zato-ubira-plodove/557965",
+      "izvor": "Мозарт Спорт",
+      "datum": "3. 11. 2026. у 21:48",
+      "slika": null
+    },
     {
       "naslov": "Rat odložio Azijski kup za godinu dana: Potresi u Saudijskoj Arabiji, slave klubovi širom Evrope",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rat-odlozio-azijski-kup-za-godinu-dana-potresi-u-saudijskoj-arabiji-slave-klubovi-sirom-evrope/557956",
@@ -11,66 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "UŽIVO - LIGA ŠAMPIONA",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uzivo-liga-sampiona/557955",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 11. 2026. у 17:46",
-      "slika": null
-    },
-    {
-      "naslov": "Van Bronkhorst: Inter nije Komo, ali ima slabe tačke",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/van-bronkhorst-inter-nije-komo-ali-ima-slabe-tacke/557940",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 11. 2026. у 14:53",
-      "slika": null
-    },
-    {
-      "naslov": "Srbi dominiraju Grčkom: Nikolić najbolji trener, Jović i Živković u idealnih jedanaest",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbi-dominiraju-grckom-nikolic-najbolji-trener-jovic-i-zivkovic-u-idealnih-jedanaest/557939",
-      "izvor": "Мозарт Спорт",
-      "datum": "3. 11. 2026. у 14:40",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalerke Srbije igraće u Grupi B1 Lige nacija protiv Belgije, Rumunije i Albanije",
-      "url": "https://www.tanjug.rs/sport/fudbal/294852/fudbalerke-srbije-igrace-u-grupi-b1-lige-nacija-protiv-belgije-rumunije-i-albanije/vest",
+      "naslov": "Fudbaleri Junajteda protiv Rome od 0:2 do 3:2, PSŽ \"gazi\", pobeda Bajerna u Madridu",
+      "url": "https://www.tanjug.rs/sport/fudbal/294980/fudbaleri-junajteda-protiv-rome-od-02-do-32-psz-gazi-pobeda-bajerna-u-madridu/vest",
       "izvor": "Танјуг",
-      "datum": "3. 11. 2026. у 15:14",
+      "datum": "3. 11. 2026. у 22:57",
       "slika": null
     },
     {
-      "naslov": "Sve utakmice takmičenja pod okriljem UEFA počeće minutom ćutanja za Hesusa de Migela",
-      "url": "https://www.tanjug.rs/sport/fudbal/294825/sve-utakmice-takmicenja-pod-okriljem-uefa-pocece-minutom-cutanja-za-hesusa-de-migela/vest",
+      "naslov": "Dva gola Rusa Alekseja Batrakova za pobedu fudbalera Galatasaraja protiv Štutgarta",
+      "url": "https://www.tanjug.rs/sport/fudbal/294951/dva-gola-rusa-alekseja-batrakova-za-pobedu-fudbalera-galatasaraja-protiv-stutgarta/vest",
       "izvor": "Танјуг",
-      "datum": "3. 11. 2026. у 14:26",
+      "datum": "3. 11. 2026. у 20:41",
       "slika": null
     },
     {
-      "naslov": "FK Crvena zvezda: Elšnik u seriji u Ligi konferencije, nova prilika za gol protiv Inter Eskaldesa",
-      "url": "https://www.tanjug.rs/sport/fudbal/294803/fk-crvena-zvezda-elsnik-u-seriji-u-ligi-konferencije-nova-prilika-za-gol-protiv-inter-eskaldesa/vest",
+      "naslov": "Đovani Malago biće protivkandidat Adrianu Galijaniju za mesto predsednika Fudbalskog saveza Italije",
+      "url": "https://www.tanjug.rs/sport/fudbal/294946/dovani-malago-bice-protivkandidat-adrianu-galijaniju-za-mesto-predsednika-fudbalskog-saveza-italije/vest",
       "izvor": "Танјуг",
-      "datum": "3. 11. 2026. у 13:48",
+      "datum": "3. 11. 2026. у 20:22",
       "slika": null
     },
     {
-      "naslov": "Selektor fudbalera Srbije Paunović objavio spisak, vraćaju se Mitrović i Vlahović",
-      "url": "https://www.tanjug.rs/sport/fudbal/294784/selektor-fudbalera-srbije-paunovic-objavio-spisak-vracaju-se-mitrovic-i-vlahovic/vest",
+      "naslov": "Fudbalski savez Španije odložio sve mečeve do vikenda zbog smrti Hesusa de Migela",
+      "url": "https://www.tanjug.rs/sport/fudbal/294914/fudbalski-savez-spanije-odlozio-sve-meceve-do-vikenda-zbog-smrti-hesusa-de-migela/vest",
       "izvor": "Танјуг",
-      "datum": "3. 11. 2026. у 13:22",
+      "datum": "3. 11. 2026. у 18:11",
       "slika": null
     },
     {
-      "naslov": "Milija Babović donirao Partizanu 50.000 evra",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281899/milija-babovic-donirao-50000-evra-za-izgradnju-partizanove-akademije/vest",
+      "naslov": "Ljajić: &quot;Mnogo je kandidata po kafićima, a niko da dođe u Partizan&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281978/rasim-ljajic-o-partizanu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "3. 11. 2026. у 16:44",
+      "datum": "3. 11. 2026. у 22:34",
       "slika": null
     },
     {
-      "naslov": "UKP u Partizanu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281873/ukp-u-partizanu/vest",
+      "naslov": "Srbija saznala rivale u Ligi nacija: Poznato protiv koga će igrati fudbalerke",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/281928/srbija-saznala-rivale-u-ligi-nacija-fudbalerke-protiv-belgije-rumunije-i-albanije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "3. 11. 2026. у 15:23",
+      "datum": "3. 11. 2026. у 18:54",
       "slika": null
     }
   ]
