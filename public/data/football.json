@@ -1,13 +1,27 @@
 {
-  "azurirano": "2026-11-04T17:25:03.093221+00:00",
-  "azurirano_sr": "4. 11. 2026. у 18:25",
+  "azurirano": "2026-11-04T22:43:08.195822+00:00",
+  "azurirano_sr": "4. 11. 2026. у 23:43",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "SASTAVI - LIGA ŠAMPIONA: Jović i Gaćinović napadaju Real",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sastavi-liga-sampiona-jovic-i-gacinovic-napadaju-real/558030",
+      "naslov": "Lepo, lepše, Komo!!! Seskova deca u istoriji Lige šampiona",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/lepo-lepse-komo-seskova-deca-u-istoriji-lige-sampiona/558055",
       "izvor": "Мозарт Спорт",
-      "datum": "4. 11. 2026. у 18:30",
+      "datum": "5. 11. 2026. у 00:02",
+      "slika": null
+    },
+    {
+      "naslov": "KRAJ - LIGA ŠAMPIONA",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-sampiona/558030",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 11. 2026. у 21:27",
+      "slika": null
+    },
+    {
+      "naslov": "Potpuna konfuzija u Njukaslu: Trener krivi fudbalere, oni kivni što ih je javno prozvao",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/potpuna-konfuzija-u-njukaslu-trener-krivi-fudbalere-oni-kivni-sto-ih-je-javno-prozvao/558037",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 11. 2026. у 20:09",
       "slika": null
     },
     {
@@ -18,45 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Potres u australijskom fudbalu: Reprezentativci tužili Savez zbog neisplaćenih zarada",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/potres-u-australijskom-fudbalu-reprezentativci-tuzili-savez-zbog-neisplacenih-zarada/558013",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 11. 2026. у 15:24",
-      "slika": null
-    },
-    {
-      "naslov": "Paraliza fudbala iliti PSŽ i teorija o kompleksu niže vrednosti",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/paraliza-fudbala-iliti-psz-i-teorija-o-kompleksu-nize-vrednosti/557988",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 11. 2026. у 10:56",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera: Najbitniji je pristup utakmici, oni se neće predati; Lučić: Najvažnije mi je da igram i ispunim sve zadatke",
-      "url": "https://www.tanjug.rs/sport/fudbal/295165/rijera-najbitniji-je-pristup-utakmici-oni-se-nece-predati-lucic-najvaznije-mi-je-da-igram-i-ispunim-sve-zadatke/vest",
+      "naslov": "Fudbaleri Koma kao gosti pobedili Lans rezultatom 9:1 i oborili rekord Lige šampiona",
+      "url": "https://www.tanjug.rs/sport/fudbal/295256/fudbaleri-koma-kao-gosti-pobedili-lans-rezultatom-91-i-oborili-rekord-lige-sampiona/vest",
       "izvor": "Танјуг",
-      "datum": "4. 11. 2026. у 17:30",
+      "datum": "4. 11. 2026. у 23:07",
       "slika": null
     },
     {
-      "naslov": "Aleksandar Stanojević: Loše smo počeli, u drugom poluvremenu smo pokazali karakter",
-      "url": "https://www.tanjug.rs/sport/fudbal/295150/aleksandar-stanojevic-lose-smo-poceli-u-drugom-poluvremenu-smo-pokazali-karakter/vest",
+      "naslov": "Srpski fudbaler Aleksandar Mitrović postigao prvi takmičarski gol od aprila",
+      "url": "https://www.tanjug.rs/sport/fudbal/295245/srpski-fudbaler-aleksandar-mitrovic-postigao-prvi-takmicarski-gol-od-aprila/vest",
       "izvor": "Танјуг",
-      "datum": "4. 11. 2026. у 15:56",
+      "datum": "4. 11. 2026. у 22:23",
       "slika": null
     },
     {
-      "naslov": "Rafael Nadal novi član UO Fudbalskog kluba Real Madrid",
-      "url": "https://www.tanjug.rs/sport/fudbal/295148/rafael-nadal-novi-clan-uo-fudbalskog-kluba-real-madrid/vest",
+      "naslov": "Liga šampiona: Fudbaleri Reala savladali AEK, Fenerbahče pobedio Liverpul",
+      "url": "https://www.tanjug.rs/sport/fudbal/295230/liga-sampiona-fudbaleri-reala-savladali-aek-fenerbahce-pobedio-liverpul/vest",
       "izvor": "Танјуг",
-      "datum": "4. 11. 2026. у 15:39",
+      "datum": "4. 11. 2026. у 20:45",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Partizana pobedili Budućnost Krušik za osminu finala Kupa Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/295128/fudbaleri-partizana-pobedili-buducnost-krusik-za-osminu-finala-kupa-srbije/vest",
+      "naslov": "Fudbalski klub Crvena zvezda organizuje akciju skupljanja hrane za pse i mačke",
+      "url": "https://www.tanjug.rs/sport/fudbal/295214/fudbalski-klub-crvena-zvezda-organizuje-akciju-skupljanja-hrane-za-pse-i-macke/vest",
       "izvor": "Танјуг",
-      "datum": "4. 11. 2026. у 14:59",
+      "datum": "4. 11. 2026. у 19:35",
+      "slika": null
+    },
+    {
+      "naslov": "Ljajić otkrio: &quot;UKP nam tražio sve ugovore od 2020. do 2024. godine&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282255/ljajic-otkrio-ukp-nam-trazio-sve-ugovore-od-2020-do-2024-godine/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "4. 11. 2026. у 20:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282091/kup-srbije-buducnost-krusik-partizan-14-10/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 11. 2026. у 15:13",
-      "slika": null
-    },
-    {
-      "naslov": "Stanojević: &quot;Razočaran sam, rešićemo to između sebe&quot;; Stojaković: &quot;Prevelik rezultat&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282174/aleksandar-stanojevic-i-igor-stojakovic-izjava-posle-buducnost-krusik-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 11. 2026. у 15:01",
       "slika": null
     }
   ]
