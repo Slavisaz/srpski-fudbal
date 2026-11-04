@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-11-04T09:29:29.982994+00:00",
-  "azurirano_sr": "4. 11. 2026. у 10:29",
+  "azurirano": "2026-11-04T17:25:03.093221+00:00",
+  "azurirano_sr": "4. 11. 2026. у 18:25",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "SASTAVI - LIGA ŠAMPIONA: Jović i Gaćinović napadaju Real",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/sastavi-liga-sampiona-jovic-i-gacinovic-napadaju-real/558030",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 11. 2026. у 18:30",
+      "slika": null
+    },
+    {
+      "naslov": "Partizanov život na ivici: Poluvreme panike, pa šetnja kroz Valjevo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/partizanov-zivot-na-ivici-poluvreme-panike-pa-setnja-kroz-valjevo/558015",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 11. 2026. у 15:49",
+      "slika": null
+    },
+    {
+      "naslov": "Potres u australijskom fudbalu: Reprezentativci tužili Savez zbog neisplaćenih zarada",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/potres-u-australijskom-fudbalu-reprezentativci-tuzili-savez-zbog-neisplacenih-zarada/558013",
+      "izvor": "Мозарт Спорт",
+      "datum": "4. 11. 2026. у 15:24",
+      "slika": null
+    },
     {
       "naslov": "Paraliza fudbala iliti PSŽ i teorija o kompleksu niže vrednosti",
       "url": "https://www.mozzartsport.com/fudbal/vesti/paraliza-fudbala-iliti-psz-i-teorija-o-kompleksu-nize-vrednosti/557988",
@@ -11,66 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Kraj jedne fudbalske bajke: Povlači se najdugovečniji trener u evropskom klubu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-jedne-fudbalske-bajke-povlaci-se-najdugovecniji-trener-u-evropskom-klubu/557989",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 11. 2026. у 10:55",
-      "slika": null
-    },
-    {
-      "naslov": "Najava dana (sreda, 4. novembar): Razglednica Lige šampiona i Lige Evrope, plus Mozzart Bet Kup Srbije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-sreda-4-novembar-razglednica-lige-sampiona-i-lige-evrope-plus-mozzart-bet-kup-srbije/557933",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 11. 2026. у 09:20",
-      "slika": null
-    },
-    {
-      "naslov": "Koga Sremska Mitrovica opeče i u Valjevo duva",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/koga-sremska-mitrovica-opece-i-u-valjevo-duva/557977",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 11. 2026. у 09:08",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Junajteda protiv Rome od 0:2 do 3:2, PSŽ \"gazi\", pobeda Bajerna u Madridu",
-      "url": "https://www.tanjug.rs/sport/fudbal/294980/fudbaleri-junajteda-protiv-rome-od-02-do-32-psz-gazi-pobeda-bajerna-u-madridu/vest",
+      "naslov": "Rijera: Najbitniji je pristup utakmici, oni se neće predati; Lučić: Najvažnije mi je da igram i ispunim sve zadatke",
+      "url": "https://www.tanjug.rs/sport/fudbal/295165/rijera-najbitniji-je-pristup-utakmici-oni-se-nece-predati-lucic-najvaznije-mi-je-da-igram-i-ispunim-sve-zadatke/vest",
       "izvor": "Танјуг",
-      "datum": "3. 11. 2026. у 22:57",
+      "datum": "4. 11. 2026. у 17:30",
       "slika": null
     },
     {
-      "naslov": "Dva gola Rusa Alekseja Batrakova za pobedu fudbalera Galatasaraja protiv Štutgarta",
-      "url": "https://www.tanjug.rs/sport/fudbal/294951/dva-gola-rusa-alekseja-batrakova-za-pobedu-fudbalera-galatasaraja-protiv-stutgarta/vest",
+      "naslov": "Aleksandar Stanojević: Loše smo počeli, u drugom poluvremenu smo pokazali karakter",
+      "url": "https://www.tanjug.rs/sport/fudbal/295150/aleksandar-stanojevic-lose-smo-poceli-u-drugom-poluvremenu-smo-pokazali-karakter/vest",
       "izvor": "Танјуг",
-      "datum": "3. 11. 2026. у 20:41",
+      "datum": "4. 11. 2026. у 15:56",
       "slika": null
     },
     {
-      "naslov": "Đovani Malago biće protivkandidat Adrianu Galijaniju za mesto predsednika Fudbalskog saveza Italije",
-      "url": "https://www.tanjug.rs/sport/fudbal/294946/dovani-malago-bice-protivkandidat-adrianu-galijaniju-za-mesto-predsednika-fudbalskog-saveza-italije/vest",
+      "naslov": "Rafael Nadal novi član UO Fudbalskog kluba Real Madrid",
+      "url": "https://www.tanjug.rs/sport/fudbal/295148/rafael-nadal-novi-clan-uo-fudbalskog-kluba-real-madrid/vest",
       "izvor": "Танјуг",
-      "datum": "3. 11. 2026. у 20:22",
+      "datum": "4. 11. 2026. у 15:39",
       "slika": null
     },
     {
-      "naslov": "Fudbalski savez Španije odložio sve mečeve do vikenda zbog smrti Hesusa de Migela",
-      "url": "https://www.tanjug.rs/sport/fudbal/294914/fudbalski-savez-spanije-odlozio-sve-meceve-do-vikenda-zbog-smrti-hesusa-de-migela/vest",
+      "naslov": "Fudbaleri Partizana pobedili Budućnost Krušik za osminu finala Kupa Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/295128/fudbaleri-partizana-pobedili-buducnost-krusik-za-osminu-finala-kupa-srbije/vest",
       "izvor": "Танјуг",
-      "datum": "3. 11. 2026. у 18:11",
+      "datum": "4. 11. 2026. у 14:59",
       "slika": null
     },
     {
-      "naslov": "Skandal u Prvoj ligi Srbije: Trener glavom udario sudiju! VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282051/trener-fk-bor-udario-glavom-sudiju-video/vest",
+      "naslov": "Partizan blickrig preokretom sprečio iznenađenje u Kupu! VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282091/kup-srbije-buducnost-krusik-partizan-14-10/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 11. 2026. у 10:05",
+      "datum": "4. 11. 2026. у 15:13",
       "slika": null
     },
     {
-      "naslov": "Partizan u Valjevu – šta je Stanojević spremio za Kup?",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282031/partizan-protiv-buducnosti-krusik-u-kupu-srbije-stanojevic-najavio-promene/vest",
+      "naslov": "Stanojević: &quot;Razočaran sam, rešićemo to između sebe&quot;; Stojaković: &quot;Prevelik rezultat&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282174/aleksandar-stanojevic-i-igor-stojakovic-izjava-posle-buducnost-krusik-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "4. 11. 2026. у 09:17",
+      "datum": "4. 11. 2026. у 15:01",
       "slika": null
     }
   ]
