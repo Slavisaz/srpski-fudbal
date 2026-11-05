@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-11-05T02:47:32.182129+00:00",
-  "azurirano_sr": "5. 11. 2026. у 03:47",
+  "azurirano": "2026-11-05T09:52:47.144240+00:00",
+  "azurirano_sr": "5. 11. 2026. у 10:52",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Čovek koji poznaje švedski fudbal do detalja poručuje: Borac ima čemu da se nada protiv Mjalbija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/covek-koji-poznaje-svedski-fudbal-do-detalja-porucuje-borac-ima-cemu-da-se-nada-protiv-mjalbija/558078",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 11. 2026. у 11:23",
+      "slika": null
+    },
+    {
+      "naslov": "Buongiorno Italia: Muke Rosonera sa skupocenim Ramosem, bratski duel Kopmejners u Alkmaru",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/buongiorno-italia-muke-rosonera-sa-skupocenim-ramosem-bratski-duel-kopmejners-u-alkmaru/558076",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 11. 2026. у 11:00",
+      "slika": null
+    },
+    {
+      "naslov": "Jednu petardu, molim! Za malo iskupljenja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jednu-petardu-molim-za-malo-iskupljenja/558075",
+      "izvor": "Мозарт Спорт",
+      "datum": "5. 11. 2026. у 10:48",
+      "slika": null
+    },
     {
       "naslov": "Lepo, lepše, Komo!!! Seskova deca u istoriji Lige šampiona",
       "url": "https://www.mozzartsport.com/fudbal/vesti/lepo-lepse-komo-seskova-deca-u-istoriji-lige-sampiona/558055",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "KRAJ - LIGA ŠAMPIONA",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-liga-sampiona/558030",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 11. 2026. у 21:27",
+      "naslov": "Engleski fudbaler Hari Kejn produžio ugovor sa Bajernom do 2029. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/295310/engleski-fudbaler-hari-kejn-produzio-ugovor-sa-bajernom-do-2029-godine/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 11. 2026. у 09:55",
       "slika": null
     },
     {
-      "naslov": "Potpuna konfuzija u Njukaslu: Trener krivi fudbalere, oni kivni što ih je javno prozvao",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/potpuna-konfuzija-u-njukaslu-trener-krivi-fudbalere-oni-kivni-sto-ih-je-javno-prozvao/558037",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 11. 2026. у 20:09",
-      "slika": null
-    },
-    {
-      "naslov": "Partizanov život na ivici: Poluvreme panike, pa šetnja kroz Valjevo",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/partizanov-zivot-na-ivici-poluvreme-panike-pa-setnja-kroz-valjevo/558015",
-      "izvor": "Мозарт Спорт",
-      "datum": "4. 11. 2026. у 15:49",
+      "naslov": "Fudbaleri Zvezde večeras dočekuju Inter Eskaldes u Ligi konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/295281/fudbaleri-zvezde-veceras-docekuju-inter-eskaldes-u-ligi-konferencije/vest",
+      "izvor": "Танјуг",
+      "datum": "5. 11. 2026. у 07:38",
       "slika": null
     },
     {
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Liga šampiona: Fudbaleri Reala savladali AEK, Fenerbahče pobedio Liverpul",
-      "url": "https://www.tanjug.rs/sport/fudbal/295230/liga-sampiona-fudbaleri-reala-savladali-aek-fenerbahce-pobedio-liverpul/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 11. 2026. у 20:45",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbalski klub Crvena zvezda organizuje akciju skupljanja hrane za pse i mačke",
-      "url": "https://www.tanjug.rs/sport/fudbal/295214/fudbalski-klub-crvena-zvezda-organizuje-akciju-skupljanja-hrane-za-pse-i-macke/vest",
-      "izvor": "Танјуг",
-      "datum": "4. 11. 2026. у 19:35",
+      "naslov": "Oglasio se FK Bor posle optužbi za napad na sudiju: &quot;Angažovali smo advokata&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282353/saopstenje-fk-bor-zbog-desavanja-na-mecu-sa-fk-spartak/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "5. 11. 2026. у 10:21",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282255/ljajic-otkrio-ukp-nam-trazio-sve-ugovore-od-2020-do-2024-godine/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "4. 11. 2026. у 20:00",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan blickrig preokretom sprečio iznenađenje u Kupu! VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282091/kup-srbije-buducnost-krusik-partizan-14-10/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "4. 11. 2026. у 15:13",
       "slika": null
     }
   ]
