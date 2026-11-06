@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-11-06T17:05:49.456803+00:00",
-  "azurirano_sr": "6. 11. 2026. у 18:05",
+  "azurirano": "2026-11-06T22:00:47.013872+00:00",
+  "azurirano_sr": "6. 11. 2026. у 23:00",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Stanković ubrizgao samopouzdanje saigračima, Venecija slavila u derbiju začelja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-ubrizgao-samopouzdanje-saigracima-venecija-slavila-u-derbiju-zacelja/558228",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 11. 2026. у 23:47",
+      "slika": null
+    },
+    {
+      "naslov": "Santos duguje 200.000.000 evra, Nejmarov tata ulazi da gasi požar",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/santos-duguje-200000000-evra-nejmarov-tata-ulazi-da-gasi-pozar/558221",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 11. 2026. у 22:16",
+      "slika": null
+    },
+    {
+      "naslov": "U susret derbiju: Koke u društvu Mesija i Ćavija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/u-susret-derbiju-koke-u-drustvu-mesija-i-cavija/558215",
+      "izvor": "Мозарт Спорт",
+      "datum": "6. 11. 2026. у 20:32",
+      "slika": null
+    },
     {
       "naslov": "Grujić sa Levskim blizu nokaut faze Lige Evrope: Potrebna su nam još tri ili četiri boda",
       "url": "https://www.mozzartsport.com/fudbal/vesti/grujic-sa-levskim-blizu-nokaut-faze-lige-evrope-potrebna-su-nam-jos-tri-ili-cetiri-boda/558203",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Želela ga tri premijerligaša, engleski mu pomrsio račune: Možda jednom, sad skupljam poene na Duolingu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zelela-ga-tri-premijerligasa-engleski-mu-pomrsio-racune-mozda-jednom-sad-skupljam-poene-na-duolingu/558198",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 11. 2026. у 15:52",
-      "slika": null
-    },
-    {
-      "naslov": "Počinje život bez Ronalda: Žezus otvorio novu eru Portugala, sedam novih imena na spisku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pocinje-zivot-bez-ronalda-zezus-otvorio-novu-eru-portugala-sedam-novih-imena-na-spisku/558193",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 11. 2026. у 14:51",
-      "slika": null
-    },
-    {
-      "naslov": "Osam godina čekamo na gol na meču Hamburga i Menhengladbaha",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/osam-godina-cekamo-na-gol-na-mecu-hamburga-i-menhengladbaha/558189",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 11. 2026. у 14:02",
+      "naslov": "Selektor Francuske Zidan saopštio spisak fudbalera za mečeve protiv Italije i Turske",
+      "url": "https://www.tanjug.rs/sport/fudbal/295844/selektor-francuske-zidan-saopstio-spisak-fudbalera-za-meceve-protiv-italije-i-turske/vest",
+      "izvor": "Танјуг",
+      "datum": "6. 11. 2026. у 22:12",
       "slika": null
     },
     {
@@ -50,13 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/295742/miting-zlatne-kategorije-odrzace-se-27-januara-u-atletskoj-dvorani-na-banjici/vest",
       "izvor": "Танјуг",
       "datum": "6. 11. 2026. у 14:28",
-      "slika": null
-    },
-    {
-      "naslov": "Nastavlja se Superliga Srbije, Zvezda gostuje Vojvodini u derbiju kola, Partizan dočekuje Mačvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/295720/nastavlja-se-superliga-srbije-zvezda-gostuje-vojvodini-u-derbiju-kola-partizan-docekuje-macvu/vest",
-      "izvor": "Танјуг",
-      "datum": "6. 11. 2026. у 13:00",
       "slika": null
     },
     {
