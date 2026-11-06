@@ -1,83 +1,76 @@
 {
-  "azurirano": "2026-11-06T09:57:23.180858+00:00",
-  "azurirano_sr": "6. 11. 2026. у 10:57",
+  "azurirano": "2026-11-06T17:05:49.456803+00:00",
+  "azurirano_sr": "6. 11. 2026. у 18:05",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Jovan Mijatović još bez starta i gola u sezoni",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jovan-mijatovic-jos-bez-starta-i-gola-u-sezoni/558167",
+      "naslov": "Grujić sa Levskim blizu nokaut faze Lige Evrope: Potrebna su nam još tri ili četiri boda",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/grujic-sa-levskim-blizu-nokaut-faze-lige-evrope-potrebna-su-nam-jos-tri-ili-cetiri-boda/558203",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 11. 2026. у 11:30",
+      "datum": "6. 11. 2026. у 17:33",
       "slika": null
     },
     {
-      "naslov": "Klopov vafl za Srbiju: Prošlog leta teran zbog trećeligaša, u januaru radio u školi, a sada reprezentativac",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/klopov-vafl-za-srbiju-proslog-leta-teran-zbog-treceligasa-u-januaru-radio-u-skoli-a-sada-reprezentativac/558165",
+      "naslov": "Želela ga tri premijerligaša, engleski mu pomrsio račune: Možda jednom, sad skupljam poene na Duolingu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zelela-ga-tri-premijerligasa-engleski-mu-pomrsio-racune-mozda-jednom-sad-skupljam-poene-na-duolingu/558198",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 11. 2026. у 11:13",
+      "datum": "6. 11. 2026. у 15:52",
       "slika": null
     },
     {
-      "naslov": "Bordalas opet digao glas: Svi znaju da smo jedini profesionalan klub koji nema krila",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bordalas-opet-digao-glas-svi-znaju-da-smo-jedini-profesionalan-klub-koji-nema-krila/558164",
+      "naslov": "Počinje život bez Ronalda: Žezus otvorio novu eru Portugala, sedam novih imena na spisku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pocinje-zivot-bez-ronalda-zezus-otvorio-novu-eru-portugala-sedam-novih-imena-na-spisku/558193",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 11. 2026. у 11:12",
+      "datum": "6. 11. 2026. у 14:51",
       "slika": null
     },
     {
-      "naslov": "Makedonci pozvali junaka Zvezdinih omladinaca da igra protiv Srbije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/makedonci-pozvali-junaka-zvezdinih-omladinaca-da-igra-protiv-srbije/558162",
+      "naslov": "Osam godina čekamo na gol na meču Hamburga i Menhengladbaha",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/osam-godina-cekamo-na-gol-na-mecu-hamburga-i-menhengladbaha/558189",
       "izvor": "Мозарт Спорт",
-      "datum": "6. 11. 2026. у 10:45",
+      "datum": "6. 11. 2026. у 14:02",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Crvene zvezde 15. na tabeli Lige konferencije posle odigrana tri kola",
-      "url": "https://www.tanjug.rs/sport/fudbal/295597/fudbaleri-crvene-zvezde-15-na-tabeli-lige-konferencije-posle-odigrana-tri-kola/vest",
+      "naslov": "Žezus: Mislio sam da će Ronaldo da se vrati, nameravao sam da ga uvrstim na spisak",
+      "url": "https://www.tanjug.rs/sport/fudbal/295799/zezus-mislio-sam-da-ce-ronaldo-da-se-vrati-nameravao-sam-da-ga-uvrstim-na-spisak/vest",
       "izvor": "Танјуг",
-      "datum": "5. 11. 2026. у 23:13",
+      "datum": "6. 11. 2026. у 17:07",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Benfike, Bornmuta i Ferencvaroša ostali jedini maksimalni u Ligi Evrope",
-      "url": "https://www.tanjug.rs/sport/fudbal/295592/fudbaleri-benfike-bornmuta-i-ferencvarosa-ostali-jedini-maksimalni-u-ligi-evrope/vest",
+      "naslov": "Ćavi saopštio spisak fudbalera Holandije za mečeve sa Grčkom i Nemačkom",
+      "url": "https://www.tanjug.rs/sport/fudbal/295786/cavi-saopstio-spisak-fudbalera-holandije-za-meceve-sa-grckom-i-nemackom/vest",
       "izvor": "Танјуг",
-      "datum": "5. 11. 2026. у 23:03",
+      "datum": "6. 11. 2026. у 16:23",
       "slika": null
     },
     {
-      "naslov": "Rijera: Ovo je tip utakmice koje volim kao trener, bilo je važno da uzmemo tri boda",
-      "url": "https://www.tanjug.rs/sport/fudbal/295577/rijera-ovo-je-tip-utakmice-koje-volim-kao-trener-bilo-je-vazno-da-uzmemo-tri-boda/vest",
+      "naslov": "Miting Zlatne kategorije održaće se 27. januara u Atletskoj dvorani na Banjici",
+      "url": "https://www.tanjug.rs/sport/fudbal/295742/miting-zlatne-kategorije-odrzace-se-27-januara-u-atletskoj-dvorani-na-banjici/vest",
       "izvor": "Танјуг",
-      "datum": "5. 11. 2026. у 21:17",
+      "datum": "6. 11. 2026. у 14:28",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Crvene zvezde preokretom u finišu meča pobedili Inter Eskaldes",
-      "url": "https://www.tanjug.rs/sport/fudbal/295281/fudbaleri-crvene-zvezde-preokretom-u-finisu-meca-pobedili-inter-eskaldes/vest",
+      "naslov": "Nastavlja se Superliga Srbije, Zvezda gostuje Vojvodini u derbiju kola, Partizan dočekuje Mačvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/295720/nastavlja-se-superliga-srbije-zvezda-gostuje-vojvodini-u-derbiju-kola-partizan-docekuje-macvu/vest",
       "izvor": "Танјуг",
-      "datum": "5. 11. 2026. у 20:46",
+      "datum": "6. 11. 2026. у 13:00",
       "slika": null
     },
     {
-      "naslov": "Bivši štoper Zvezde završio karijeru sa 29 godina",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282492/milos-stojanovic-zavrsio-karijeru-sa-29-godina/vest",
+      "naslov": "Marko Marin napušta Zvezdu? Ima poziv iz Nemačke!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282815/hanover-zeli-marka-marina-za-sportskog-direktora/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 11. 2026. у 23:15",
+      "datum": "6. 11. 2026. у 16:30",
       "slika": null
     },
     {
-      "naslov": "&quot;Zvezda je najskuplji tim u Srbiji, ali mi smo bolji nego što smo bili&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282522/dragan-rosic-pred-vojvodina-zvezda-poslao-jasnu-poruku/vest",
+      "naslov": "Ilićeve prve reči: &quot;Zvezda uvek raste iz godine u godinu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282740/iliceve-prve-reci-zvezda-uvek-raste-iz-godine-u-godinu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "5. 11. 2026. у 18:28",
-      "slika": null
-    },
-    {
-      "naslov": "Oglasio se FK Bor posle optužbi za napad na sudiju: &quot;Angažovali smo advokata&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282353/saopstenje-fk-bor-zbog-desavanja-na-mecu-sa-fk-spartak/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "5. 11. 2026. у 10:21",
+      "datum": "6. 11. 2026. у 15:52",
       "slika": null
     }
   ]
