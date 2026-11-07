@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-11-07T14:22:17.359248+00:00",
-  "azurirano_sr": "7. 11. 2026. у 15:22",
+  "azurirano": "2026-11-07T18:52:59.377210+00:00",
+  "azurirano_sr": "7. 11. 2026. у 19:52",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nešto najbolje što je Rusija dala Galati i evropskom fudbalu: Kurdi kleknuli pred Batrakovim",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nesto-najbolje-sto-je-rusija-dala-galati-i-evropskom-fudbalu-kurdi-kleknuli-pred-batrakovim/558297",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 11. 2026. у 20:14",
+      "slika": null
+    },
+    {
+      "naslov": "Midtjiland i dva bundesligaša prate Zvezdinog Kima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/midtjiland-i-dva-bundesligasa-prate-zvezdinog-kima/558293",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 11. 2026. у 18:36",
+      "slika": null
+    },
+    {
+      "naslov": "Veljko Paunović: Regionalna liga ključ za srpski fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/veljko-paunovic-regionalna-liga-kljuc-za-srpski-fudbal/558286",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 11. 2026. у 17:04",
+      "slika": null
+    },
     {
       "naslov": "Groznica poslednjeg kola MLS-a: Joveljićev Sijetl biti ili ne biti, mora da pobedi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/groznica-poslednjeg-kola-mlsa-joveljicev-sijetl-biti-ili-ne-biti-mora-da-pobedi/558281",
@@ -11,66 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Blindiran još jedan talenat: Šarić u Zvezdi do 2031.",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/blindiran-jos-jedan-talenat-saric-u-zvezdi-do-2031/558269",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 11. 2026. у 13:24",
-      "slika": null
-    },
-    {
-      "naslov": "Veliki dan za Greja, posle gola prvenca vraća se u Jorkšir",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/veliki-dan-za-greja-posle-gola-prvenca-vraca-se-u-jorksir/558253",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 11. 2026. у 10:34",
-      "slika": null
-    },
-    {
-      "naslov": "Stanković ubrizgao samopouzdanje saigračima, Venecija slavila u derbiju začelja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/stankovic-ubrizgao-samopouzdanje-saigracima-venecija-slavila-u-derbiju-zacelja/558228",
-      "izvor": "Мозарт Спорт",
-      "datum": "6. 11. 2026. у 23:47",
-      "slika": null
-    },
-    {
-      "naslov": "Stanojević: Već smo nešto uradili i predstavio sam igračima prve ideje",
-      "url": "https://www.tanjug.rs/sport/fudbal/295947/stanojevic-vec-smo-nesto-uradili-i-predstavio-sam-igracima-prve-ideje/vest",
+      "naslov": "Fudbaleri Železničara savladali kragujevački Radnički u 15. kolu Superlige Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/296006/fudbaleri-zeleznicara-savladali-kragujevacki-radnicki-u-15-kolu-superlige-srbije/vest",
       "izvor": "Танјуг",
-      "datum": "7. 11. 2026. у 14:22",
+      "datum": "7. 11. 2026. у 19:04",
       "slika": null
     },
     {
-      "naslov": "Srpski fudbaler Strahinja Pavlović neće igrati za Milan protiv Đenove",
-      "url": "https://www.tanjug.rs/sport/fudbal/295943/srpski-fudbaler-strahinja-pavlovic-nece-igrati-za-milan-protiv-denove/vest",
+      "naslov": "Fudbaleri Arsenala pobedili Hal, remi Fulama i Njukasla u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/295996/fudbaleri-arsenala-pobedili-hal-remi-fulama-i-njukasla-u-premijer-ligi/vest",
       "izvor": "Танјуг",
-      "datum": "7. 11. 2026. у 14:11",
+      "datum": "7. 11. 2026. у 18:33",
       "slika": null
     },
     {
-      "naslov": "Fudbaler Galatasaraja Viktor Osimen uspešno operisao koleno leve noge",
-      "url": "https://www.tanjug.rs/sport/fudbal/295935/fudbaler-galatasaraja-viktor-osimen-uspesno-operisao-koleno-leve-noge/vest",
+      "naslov": "Pobede fudbalera Bajerna, Borusije Dortmund i Lajpciga u Bundesligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/295982/pobede-fudbalera-bajerna-borusije-dortmund-i-lajpciga-u-bundesligi/vest",
       "izvor": "Танјуг",
-      "datum": "7. 11. 2026. у 13:35",
+      "datum": "7. 11. 2026. у 17:29",
       "slika": null
     },
     {
-      "naslov": "Selektor Francuske Zidan saopštio spisak fudbalera za mečeve protiv Italije i Turske",
-      "url": "https://www.tanjug.rs/sport/fudbal/295844/selektor-francuske-zidan-saopstio-spisak-fudbalera-za-meceve-protiv-italije-i-turske/vest",
+      "naslov": "Čukarički preokretom do pobede protiv niškog Radničkog u SLS",
+      "url": "https://www.tanjug.rs/sport/fudbal/295978/cukaricki-preokretom-do-pobede-protiv-niskog-radnickog-u-sls/vest",
       "izvor": "Танјуг",
-      "datum": "6. 11. 2026. у 22:12",
+      "datum": "7. 11. 2026. у 17:04",
       "slika": null
     },
     {
-      "naslov": "Zemun u finišu ostao bez podviga",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283039/zemun-u-finisu-ostao-bez-podviga/vest",
+      "naslov": "Kiksevi golmana u Pančevu – profitirao Železničar VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283085/kiksevi-golmana-u-pancevu-profitirao-zeleznicar-video/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "7. 11. 2026. у 15:00",
+      "datum": "7. 11. 2026. у 19:00",
       "slika": null
     },
     {
-      "naslov": "Muslin šokirao: &quot;Obećaj da će biti u reprezentaciji ili ćeš dobiti otkaz&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282993/muslin-sokirao-obecaj-da-ce-biti-u-reprezentaciji-ili-ces-dobiti-otkaz/vest",
+      "naslov": "Paunović: &quot;Regionalna liga je ključ – UEFA se pita&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283057/veljko-paunovic-regionalna-liga-je-kljuc-za-srpski-fudbal/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "7. 11. 2026. у 12:59",
+      "datum": "7. 11. 2026. у 18:23",
       "slika": null
     }
   ]
