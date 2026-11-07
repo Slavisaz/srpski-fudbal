@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-11-06T22:00:47.013872+00:00",
-  "azurirano_sr": "6. 11. 2026. у 23:00",
+  "azurirano": "2026-11-07T01:43:12.165575+00:00",
+  "azurirano_sr": "7. 11. 2026. у 02:43",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Koković: &quot;Presudiće detalji&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282834/konferencija-radomira-kokovica-pred-mec-zeleznicar-radnicki-1923/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "6. 11. 2026. у 23:31",
+      "slika": null
+    },
+    {
       "naslov": "Marko Marin napušta Zvezdu? Ima poziv iz Nemačke!",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282815/hanover-zeli-marka-marina-za-sportskog-direktora/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "6. 11. 2026. у 16:30",
-      "slika": null
-    },
-    {
-      "naslov": "Ilićeve prve reči: &quot;Zvezda uvek raste iz godine u godinu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/282740/iliceve-prve-reci-zvezda-uvek-raste-iz-godine-u-godinu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "6. 11. 2026. у 15:52",
       "slika": null
     }
   ]
