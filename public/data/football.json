@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-11-07T18:52:59.377210+00:00",
-  "azurirano_sr": "7. 11. 2026. у 19:52",
+  "azurirano": "2026-11-07T22:22:18.065853+00:00",
+  "azurirano_sr": "7. 11. 2026. у 23:22",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Više od gradskog prestiža: Amerika i Deportivo Kali u borbi za „nevidljivi bod“",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/vise-od-gradskog-prestiza-amerika-i-deportivo-kali-u-borbi-za-nevidljivi-bod/558282",
+      "izvor": "Мозарт Спорт",
+      "datum": "7. 11. 2026. у 23:00",
+      "slika": null
+    },
     {
       "naslov": "Nešto najbolje što je Rusija dala Galati i evropskom fudbalu: Kurdi kleknuli pred Batrakovim",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nesto-najbolje-sto-je-rusija-dala-galati-i-evropskom-fudbalu-kurdi-kleknuli-pred-batrakovim/558297",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Groznica poslednjeg kola MLS-a: Joveljićev Sijetl biti ili ne biti, mora da pobedi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/groznica-poslednjeg-kola-mlsa-joveljicev-sijetl-biti-ili-ne-biti-mora-da-pobedi/558281",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 11. 2026. у 15:40",
+      "naslov": "Fudbaleri Reala pobedili Valensiju u 12. kolu španske La Lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/296056/fudbaleri-reala-pobedili-valensiju-u-12-kolu-spanske-la-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 11. 2026. у 23:00",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Rome savladali Sasuolo u Seriji A",
+      "url": "https://www.tanjug.rs/sport/fudbal/296051/fudbaleri-rome-savladali-sasuolo-u-seriji-a/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 11. 2026. у 22:40",
+      "slika": null
+    },
+    {
+      "naslov": "Fudbaleri Notingem Foresta pobedili Mančester siti u Premijer ligi",
+      "url": "https://www.tanjug.rs/sport/fudbal/296026/fudbaleri-notingem-foresta-pobedili-mancester-siti-u-premijer-ligi/vest",
+      "izvor": "Танјуг",
+      "datum": "7. 11. 2026. у 20:35",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/296006/fudbaleri-zeleznicara-savladali-kragujevacki-radnicki-u-15-kolu-superlige-srbije/vest",
       "izvor": "Танјуг",
       "datum": "7. 11. 2026. у 19:04",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Arsenala pobedili Hal, remi Fulama i Njukasla u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/295996/fudbaleri-arsenala-pobedili-hal-remi-fulama-i-njukasla-u-premijer-ligi/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 11. 2026. у 18:33",
-      "slika": null
-    },
-    {
-      "naslov": "Pobede fudbalera Bajerna, Borusije Dortmund i Lajpciga u Bundesligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/295982/pobede-fudbalera-bajerna-borusije-dortmund-i-lajpciga-u-bundesligi/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 11. 2026. у 17:29",
-      "slika": null
-    },
-    {
-      "naslov": "Čukarički preokretom do pobede protiv niškog Radničkog u SLS",
-      "url": "https://www.tanjug.rs/sport/fudbal/295978/cukaricki-preokretom-do-pobede-protiv-niskog-radnickog-u-sls/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 11. 2026. у 17:04",
       "slika": null
     },
     {
