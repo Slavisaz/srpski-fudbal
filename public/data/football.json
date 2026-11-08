@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-11-08T14:33:28.683139+00:00",
-  "azurirano_sr": "8. 11. 2026. у 15:33",
+  "azurirano": "2026-11-08T19:00:53.998683+00:00",
+  "azurirano_sr": "8. 11. 2026. у 20:00",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Bugarski fudbal je sve zanimljiviji, ali fali mu Bugara",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/bugarski-fudbal-je-sve-zanimljiviji-ali-fali-mu-bugara/558402",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 11. 2026. у 20:10",
+      "slika": null
+    },
     {
       "naslov": "Robija Sevidža izbacio njegov sin iz FA kupa",
       "url": "https://www.mozzartsport.com/fudbal/vesti/robija-sevidza-izbacio-njegov-sin-iz-fa-kupa/558369",
@@ -25,52 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Kakva groteska! Njuels slavio komšijsku nesreću kao da je prvak sveta, Rosario nije znao za gol Boke",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kakva-groteska-njuels-slavio-komsijsku-nesrecu-kao-da-je-prvak-sveta-rosario-nije-znao-za-gol-boke/558334",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 11. 2026. у 04:15",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Radnika pobedili OFK Beograd, Novi Pazar savladao Mladost",
-      "url": "https://www.tanjug.rs/sport/fudbal/296175/fudbaleri-radnika-pobedili-ofk-beograd-novi-pazar-savladao-mladost/vest",
+      "naslov": "Nova drama na \"Old Trafordu\", Junajted u 90+6. minutu do boda protiv Aston Vile",
+      "url": "https://www.tanjug.rs/sport/fudbal/296218/nova-drama-na-old-trafordu-junajted-u-906-minutu-do-boda-protiv-aston-vile/vest",
       "izvor": "Танјуг",
-      "datum": "8. 11. 2026. у 15:07",
+      "datum": "8. 11. 2026. у 19:32",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Reala pobedili Valensiju u 12. kolu španske La Lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/296056/fudbaleri-reala-pobedili-valensiju-u-12-kolu-spanske-la-lige/vest",
+      "naslov": "Stanojević posle poraza od Mačve: Realnost koju moramo da rešavamo",
+      "url": "https://www.tanjug.rs/sport/fudbal/296215/stanojevic-posle-poraza-od-macve-realnost-koju-moramo-da-resavamo/vest",
       "izvor": "Танјуг",
-      "datum": "7. 11. 2026. у 23:00",
+      "datum": "8. 11. 2026. у 19:09",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Rome savladali Sasuolo u Seriji A",
-      "url": "https://www.tanjug.rs/sport/fudbal/296051/fudbaleri-rome-savladali-sasuolo-u-seriji-a/vest",
+      "naslov": "Prvi poraz Stanojevića, fudbaleri Mačve \"šokirali\" Partizan u Humskoj",
+      "url": "https://www.tanjug.rs/sport/fudbal/296214/prvi-poraz-stanojevica-fudbaleri-macve-sokirali-partizan-u-humskoj/vest",
       "izvor": "Танјуг",
-      "datum": "7. 11. 2026. у 22:40",
+      "datum": "8. 11. 2026. у 18:58",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Notingem Foresta pobedili Mančester siti u Premijer ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/296026/fudbaleri-notingem-foresta-pobedili-mancester-siti-u-premijer-ligi/vest",
+      "naslov": "Fudbaleri Sanderlenda pobedili Čelsi, Liverpul bolji od Kristal Palasa",
+      "url": "https://www.tanjug.rs/sport/fudbal/296198/fudbaleri-sanderlenda-pobedili-celsi-liverpul-bolji-od-kristal-palasa/vest",
       "izvor": "Танјуг",
-      "datum": "7. 11. 2026. у 20:35",
+      "datum": "8. 11. 2026. у 17:05",
       "slika": null
     },
     {
-      "naslov": "Pomračenje uma Adema Ljajića, ali Pazar slavi pobedu – Radnik u 94. minutu &quot;srušio&quot; OFK Beograd",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283244/pomracenje-uma-adema-ljajica-ali-pazar-slavi-pobedu-radnik-u-94-minutu-srusio-ofk-beograd/vest",
+      "naslov": "Vojvodina promašila nemoguće – Zvezda preživela finiš poluvremena!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283284/uzivo-vojvodina-crvena-zvezda-15-kolo-sls/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "8. 11. 2026. у 15:04",
+      "datum": "8. 11. 2026. у 19:52",
       "slika": null
     },
     {
-      "naslov": "Bivši igrač Zvezde pohvalio Rijeru: &quot;Zvezda je sa njim na pravom putu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283218/albert-rijera-pravi-trener-za-crvenu-zvezdu/vest",
+      "naslov": "Novi skandal: Sukob direktora Partizana i trenera Mačve VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283309/direktor-partizana-radosav-petrovic-verbalni-sukob-sa-nemanjom-glusicom-trenerom-fk-macva/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "8. 11. 2026. у 13:24",
+      "datum": "8. 11. 2026. у 19:51",
       "slika": null
     }
   ]
