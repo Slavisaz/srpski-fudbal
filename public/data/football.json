@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-11-08T07:50:58.368251+00:00",
-  "azurirano_sr": "8. 11. 2026. у 08:50",
+  "azurirano": "2026-11-08T14:33:28.683139+00:00",
+  "azurirano_sr": "8. 11. 2026. у 15:33",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Robija Sevidža izbacio njegov sin iz FA kupa",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/robija-sevidza-izbacio-njegov-sin-iz-fa-kupa/558369",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 11. 2026. у 15:16",
+      "slika": null
+    },
+    {
+      "naslov": "Kauzak: Vraćamo se osnovama, Marselj je prilika da pokažemo karakter",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kauzak-vracamo-se-osnovama-marselj-je-prilika-da-pokazemo-karakter/558350",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 11. 2026. у 11:39",
+      "slika": null
+    },
+    {
+      "naslov": "Finskoj legendi u čast: Temu Puki sa šampionskim peharom svira kraj",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/finskoj-legendi-u-cast-temu-puki-sa-sampionskim-peharom-svira-kraj/558344",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 11. 2026. у 10:33",
+      "slika": null
+    },
     {
       "naslov": "Kakva groteska! Njuels slavio komšijsku nesreću kao da je prvak sveta, Rosario nije znao za gol Boke",
       "url": "https://www.mozzartsport.com/fudbal/vesti/kakva-groteska-njuels-slavio-komsijsku-nesrecu-kao-da-je-prvak-sveta-rosario-nije-znao-za-gol-boke/558334",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Više od gradskog prestiža: Amerika i Deportivo Kali u borbi za „nevidljivi bod“",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vise-od-gradskog-prestiza-amerika-i-deportivo-kali-u-borbi-za-nevidljivi-bod/558282",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 11. 2026. у 23:00",
-      "slika": null
-    },
-    {
-      "naslov": "Nešto najbolje što je Rusija dala Galati i evropskom fudbalu: Kurdi kleknuli pred Batrakovim",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nesto-najbolje-sto-je-rusija-dala-galati-i-evropskom-fudbalu-kurdi-kleknuli-pred-batrakovim/558297",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 11. 2026. у 20:14",
-      "slika": null
-    },
-    {
-      "naslov": "Midtjiland i dva bundesligaša prate Zvezdinog Kima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/midtjiland-i-dva-bundesligasa-prate-zvezdinog-kima/558293",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 11. 2026. у 18:36",
+      "naslov": "Fudbaleri Radnika pobedili OFK Beograd, Novi Pazar savladao Mladost",
+      "url": "https://www.tanjug.rs/sport/fudbal/296175/fudbaleri-radnika-pobedili-ofk-beograd-novi-pazar-savladao-mladost/vest",
+      "izvor": "Танјуг",
+      "datum": "8. 11. 2026. у 15:07",
       "slika": null
     },
     {
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Železničara savladali kragujevački Radnički u 15. kolu Superlige Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/296006/fudbaleri-zeleznicara-savladali-kragujevacki-radnicki-u-15-kolu-superlige-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "7. 11. 2026. у 19:04",
+      "naslov": "Pomračenje uma Adema Ljajića, ali Pazar slavi pobedu – Radnik u 94. minutu &quot;srušio&quot; OFK Beograd",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283244/pomracenje-uma-adema-ljajica-ali-pazar-slavi-pobedu-radnik-u-94-minutu-srusio-ofk-beograd/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "8. 11. 2026. у 15:04",
       "slika": null
     },
     {
-      "naslov": "Kiksevi golmana u Pančevu – profitirao Železničar VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283085/kiksevi-golmana-u-pancevu-profitirao-zeleznicar-video/vest",
+      "naslov": "Bivši igrač Zvezde pohvalio Rijeru: &quot;Zvezda je sa njim na pravom putu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283218/albert-rijera-pravi-trener-za-crvenu-zvezdu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "7. 11. 2026. у 19:00",
-      "slika": null
-    },
-    {
-      "naslov": "Paunović: &quot;Regionalna liga je ključ – UEFA se pita&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283057/veljko-paunovic-regionalna-liga-je-kljuc-za-srpski-fudbal/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "7. 11. 2026. у 18:23",
+      "datum": "8. 11. 2026. у 13:24",
       "slika": null
     }
   ]
