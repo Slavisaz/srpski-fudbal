@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-11-08T01:31:20.436691+00:00",
-  "azurirano_sr": "8. 11. 2026. у 02:31",
+  "azurirano": "2026-11-08T07:50:58.368251+00:00",
+  "azurirano_sr": "8. 11. 2026. у 08:50",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Kakva groteska! Njuels slavio komšijsku nesreću kao da je prvak sveta, Rosario nije znao za gol Boke",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kakva-groteska-njuels-slavio-komsijsku-nesrecu-kao-da-je-prvak-sveta-rosario-nije-znao-za-gol-boke/558334",
+      "izvor": "Мозарт Спорт",
+      "datum": "8. 11. 2026. у 04:15",
+      "slika": null
+    },
     {
       "naslov": "Više od gradskog prestiža: Amerika i Deportivo Kali u borbi za „nevidljivi bod“",
       "url": "https://www.mozzartsport.com/fudbal/vesti/vise-od-gradskog-prestiza-amerika-i-deportivo-kali-u-borbi-za-nevidljivi-bod/558282",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/midtjiland-i-dva-bundesligasa-prate-zvezdinog-kima/558293",
       "izvor": "Мозарт Спорт",
       "datum": "7. 11. 2026. у 18:36",
-      "slika": null
-    },
-    {
-      "naslov": "Veljko Paunović: Regionalna liga ključ za srpski fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/veljko-paunovic-regionalna-liga-kljuc-za-srpski-fudbal/558286",
-      "izvor": "Мозарт Спорт",
-      "datum": "7. 11. 2026. у 17:04",
       "slika": null
     },
     {
