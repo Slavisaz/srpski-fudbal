@@ -1,20 +1,34 @@
 {
-  "azurirano": "2026-11-09T01:58:24.571490+00:00",
-  "azurirano_sr": "9. 11. 2026. у 02:58",
+  "azurirano": "2026-11-09T09:05:56.908944+00:00",
+  "azurirano_sr": "9. 11. 2026. у 10:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Definitivno: Srbija bez Strahinje Pavlovića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/definitivno-srbija-bez-strahinje-pavlovica/558442",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 11. 2026. у 10:36",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET, ponedeljak, 848.654 dinara: Leskovačka mućkalica od čak 33 para",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-ponedeljak-848654-dinara-leskovacka-muckalica-od-cak-33-para/558437",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 11. 2026. у 09:17",
+      "slika": null
+    },
+    {
+      "naslov": "Začarani krug u Radničkom: Skupština u najavi, Caki u fokusu i enigma (dis)kontinuiteta",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zacarani-krug-u-radnickom-skupstina-u-najavi-caki-u-fokusu-i-enigma-diskontinuiteta/558432",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 11. 2026. у 08:57",
+      "slika": null
+    },
     {
       "naslov": "Bugarski fudbal je sve zanimljiviji, ali fali mu Bugara",
       "url": "https://www.mozzartsport.com/fudbal/vesti/bugarski-fudbal-je-sve-zanimljiviji-ali-fali-mu-bugara/558402",
       "izvor": "Мозарт Спорт",
       "datum": "8. 11. 2026. у 20:10",
-      "slika": null
-    },
-    {
-      "naslov": "Robija Sevidža izbacio njegov sin iz FA kupa",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/robija-sevidza-izbacio-njegov-sin-iz-fa-kupa/558369",
-      "izvor": "Мозарт Спорт",
-      "datum": "8. 11. 2026. у 15:16",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "FSS pred potpunim kolapsom! Istekli mandati, tri sednice otkazane, Džajić se povukao!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283392/fss-u-krizi-blokada-saveza-dzajic-se-povukao/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 11. 2026. у 09:17",
+      "slika": null
+    },
+    {
       "naslov": "Rijera prepun sebe: &quot;Ni Gvardiola nam ne bi mogao ništa!&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283346/konferencija-alberta-rijere-posle-utakmice-vojvodina-crvena-zvezda-01/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "8. 11. 2026. у 23:25",
-      "slika": null
-    },
-    {
-      "naslov": "Partizan se emotivno oprostio od Prekazija",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283330/fudbalski-klub-partizan-se-oprostio-od-preminulog-dzevada-prekazija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "8. 11. 2026. у 21:45",
-      "slika": null
-    },
-    {
-      "naslov": "Rijera posle minimalca u Novom Sadu: &quot;Pokazali smo ko je najbolji tim u zemlji!&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283324/albert-rijera-izjava-posle-minimalne-pobede-nad-vojvodinom/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "8. 11. 2026. у 21:15",
-      "slika": null
-    },
-    {
-      "naslov": "Bivši napadač Zvezde: &quot;Pitaju me u Srbiji za Sabah&quot;",
-      "url": "https://www.b92.net/sport/fudbal/vesti/283219/bivsi-napadac-zvezde-pitaju-me-u-srbiji-za-sabah/vest",
-      "izvor": "Б92 Фудбал",
-      "datum": "8. 11. 2026. у 23:52",
       "slika": null
     }
   ]
