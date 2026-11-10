@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-11-10T02:23:27.318058+00:00",
-  "azurirano_sr": "10. 11. 2026. у 03:23",
+  "azurirano": "2026-11-10T10:04:54.001933+00:00",
+  "azurirano_sr": "10. 11. 2026. у 11:04",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Najava dana (utorak, 10. novembar): Od EFL Liga trofeja Engleske, do kontinentalnih košarkaških takmičenja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-10-novembar-od-efl-liga-trofeja-engleske-do-kontinentalnih-kosarkaskih-takmicenja/558486",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 11. 2026. у 09:22",
+      "slika": null
+    },
     {
       "naslov": "Korak po korak - ugovor karijere: Gvardiolin đak od pomoćnika u U12 ekipi, do 'liga petice'",
       "url": "https://www.mozzartsport.com/fudbal/vesti/korak-po-korak-ugovor-karijere-gvardiolin-ak-od-pomocnika-u-u12-ekipi-do-liga-petice/558519",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/istorijski-presedan-u-izboru-za-tim-godine-nema-mesta-za-zlatnu-loptu/558506",
       "izvor": "Мозарт Спорт",
       "datum": "9. 11. 2026. у 20:27",
-      "slika": null
-    },
-    {
-      "naslov": "Tončev otišao i iz Skupštine, na računu Radničkog preko 3.000.000 dinara i 900.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/toncev-otisao-i-iz-skupstine-na-racunu-radnickog-preko-3000000-dinara-i-900000-evra/558507",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 11. 2026. у 20:26",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "&quot;Efekat Vlahović&quot;: Paunoviću otkazao još jedan reprezentativac",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283682/filip-kostic-ne-igra-za-srbiju-protiv-nemacke-i-grcke/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 11. 2026. у 08:55",
+      "slika": null
+    },
+    {
       "naslov": "Mirković: &quot;Imamo deset igrača u A selekciji&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283591/mirkovic-imamo-deset-igraca-u-a-selekciji/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "9. 11. 2026. у 21:35",
-      "slika": null
-    },
-    {
-      "naslov": "&quot;Orlovi&quot; počeli pripreme za Nemačku i Grčku VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283608/fudbaleri-srbije-se-okupili-pred-meceve-lige-nacija-protiv-nemacke-i-grcke/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "9. 11. 2026. у 19:08",
       "slika": null
     }
   ]
