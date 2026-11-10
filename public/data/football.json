@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-11-09T19:43:43.133881+00:00",
-  "azurirano_sr": "9. 11. 2026. у 20:43",
+  "azurirano": "2026-11-10T02:23:27.318058+00:00",
+  "azurirano_sr": "10. 11. 2026. у 03:23",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Korak po korak - ugovor karijere: Gvardiolin đak od pomoćnika u U12 ekipi, do 'liga petice'",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/korak-po-korak-ugovor-karijere-gvardiolin-ak-od-pomocnika-u-u12-ekipi-do-liga-petice/558519",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 11. 2026. у 00:02",
+      "slika": null
+    },
+    {
+      "naslov": "Kad onako nadigraš premijerligaša... Leko kupio poverenje Dinama, Barsin čovek preuzima rezervi tim!?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kad-onako-nadigras-premijerligasa-leko-kupio-poverenje-dinama-barsin-covek-preuzima-rezervi-tim/558514",
+      "izvor": "Мозарт Спорт",
+      "datum": "9. 11. 2026. у 21:50",
+      "slika": null
+    },
     {
       "naslov": "Istorijski presedan u izboru za tim godine - nema mesta za Zlatnu loptu!?",
       "url": "https://www.mozzartsport.com/fudbal/vesti/istorijski-presedan-u-izboru-za-tim-godine-nema-mesta-za-zlatnu-loptu/558506",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Pad Berlinskog zida i kako je ubijen socijalistički fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pad-berlinskog-zida-i-kako-je-ubijen-socijalisticki-fudbal/558495",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 11. 2026. у 18:12",
-      "slika": null
-    },
-    {
-      "naslov": "Lončar o radu sa Blagojevićem: Zbog njega sam završio u Rusiji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/loncar-o-radu-sa-blagojevicem-zbog-njega-sam-zavrsio-u-rusiji/558494",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 11. 2026. у 17:35",
+      "naslov": "Španac Karlos Visens novi trener fudbalera Olimpika iz Liona",
+      "url": "https://www.tanjug.rs/sport/fudbal/296537/spanac-karlos-visens-novi-trener-fudbalera-olimpika-iz-liona/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 11. 2026. у 22:46",
       "slika": null
     },
     {
@@ -39,6 +46,13 @@
       "slika": null
     },
     {
+      "naslov": "Holandski fudbaleri Van Dajk i Brobi propuštaju mečeve protiv Grčke i Nemačke u Ligi nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/296498/holandski-fudbaleri-van-dajk-i-brobi-propustaju-meceve-protiv-grcke-i-nemacke-u-ligi-nacija/vest",
+      "izvor": "Танјуг",
+      "datum": "9. 11. 2026. у 18:56",
+      "slika": null
+    },
+    {
       "naslov": "Fudbaler Reala Kilijan Mbape najbolji igrač La Lige u oktobru",
       "url": "https://www.tanjug.rs/sport/fudbal/296495/fudbaler-reala-kilijan-mbape-najbolji-igrac-la-lige-u-oktobru/vest",
       "izvor": "Танјуг",
@@ -46,17 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Barselone Pau Kubarsi osvojio nagradu \"Zlatni dečko\"",
-      "url": "https://www.tanjug.rs/sport/fudbal/296487/fudbaler-barselone-pau-kubarsi-osvojio-nagradu-zlatni-decko/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 11. 2026. у 18:23",
-      "slika": null
-    },
-    {
-      "naslov": "Zoran Mirković: Od momaka očekujem da budu motivisani i orni za rad",
-      "url": "https://www.tanjug.rs/sport/fudbal/296470/zoran-mirkovic-od-momaka-ocekujem-da-budu-motivisani-i-orni-za-rad/vest",
-      "izvor": "Танјуг",
-      "datum": "9. 11. 2026. у 17:07",
+      "naslov": "Mirković: &quot;Imamo deset igrača u A selekciji&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283591/mirkovic-imamo-deset-igraca-u-a-selekciji/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "9. 11. 2026. у 21:35",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283608/fudbaleri-srbije-se-okupili-pred-meceve-lige-nacija-protiv-nemacke-i-grcke/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "9. 11. 2026. у 19:08",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda potvrdila loše vesti",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283596/oglasila-se-zvezda-povredili-se-elsnik-i-dijeng/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "9. 11. 2026. у 18:15",
       "slika": null
     }
   ]
