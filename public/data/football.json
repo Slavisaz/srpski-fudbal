@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-11-10T17:40:40.797409+00:00",
-  "azurirano_sr": "10. 11. 2026. у 18:40",
+  "azurirano": "2026-11-10T22:31:05.558050+00:00",
+  "azurirano_sr": "10. 11. 2026. у 23:31",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Baskija ponovo traži fudbalsku nezavisnost: Pokrenut postupak za ulazak u FIFA i UEFA",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/baskija-ponovo-trazi-fudbalsku-nezavisnost-pokrenut-postupak-za-ulazak-u-fifa-i-uefa/558579",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 11. 2026. у 20:54",
+      "slika": null
+    },
+    {
+      "naslov": "Čemu silni milioni kad može i ovako? Prkos modernom fudbalu, jeftini golgeteri pokorili Evropu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/cemu-silni-milioni-kad-moze-i-ovako-prkos-modernom-fudbalu-jeftini-golgeteri-pokorili-evropu/558576",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 11. 2026. у 19:36",
+      "slika": null
+    },
     {
       "naslov": "Caki Stojanović novi sportski direktor: Radnički da postane centar regiona",
       "url": "https://www.mozzartsport.com/fudbal/vesti/caki-stojanovic-novi-sportski-direktor-radnicki-da-postane-centar-regiona/558564",
@@ -18,45 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Tavernes gori od uzbuđenja, šestoligaš domaćin Valensiji na Mestalji",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/tavernes-gori-od-uzbuenja-sestoligas-domacin-valensiji-na-mestalji/558543",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 11. 2026. у 11:48",
-      "slika": null
-    },
-    {
-      "naslov": "Najava dana (utorak, 10. novembar): Od EFL Liga trofeja Engleske, do kontinentalnih košarkaških takmičenja",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-10-novembar-od-efl-liga-trofeja-engleske-do-kontinentalnih-kosarkaskih-takmicenja/558486",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 11. 2026. у 09:22",
-      "slika": null
-    },
-    {
-      "naslov": "Venger razmatra kandidaturu za predsednika FIFA",
-      "url": "https://www.tanjug.rs/sport/fudbal/296784/venger-razmatra-kandidaturu-za-predsednika-fifa/vest",
+      "naslov": "Romano Florijani Musolini produžio ugovor sa Lacijom do 2031. godine",
+      "url": "https://www.tanjug.rs/sport/fudbal/296850/romano-florijani-musolini-produzio-ugovor-sa-lacijom-do-2031-godine/vest",
       "izvor": "Танјуг",
-      "datum": "10. 11. 2026. у 17:49",
+      "datum": "10. 11. 2026. у 21:40",
       "slika": null
     },
     {
-      "naslov": "Saša Stojanović novi sportski direktor Fudbalskog kluba Radnički Niš",
-      "url": "https://www.tanjug.rs/sport/fudbal/296768/sasa-stojanovic-novi-sportski-direktor-fudbalskog-kluba-radnicki-nis/vest",
+      "naslov": "Eli Žunior Krupi menja povređenog Markusa Tirama u reprezentaciji Francuske",
+      "url": "https://www.tanjug.rs/sport/fudbal/296836/eli-zunior-krupi-menja-povredenog-markusa-tirama-u-reprezentaciji-francuske/vest",
       "izvor": "Танјуг",
-      "datum": "10. 11. 2026. у 17:08",
+      "datum": "10. 11. 2026. у 20:39",
       "slika": null
     },
     {
-      "naslov": "Srpski fudbaler Filip Kostić zbog povrede propušta mečeve protiv Nemačke i Grčke",
-      "url": "https://www.tanjug.rs/sport/fudbal/296743/srpski-fudbaler-filip-kostic-zbog-povrede-propusta-meceve-protiv-nemacke-i-grcke/vest",
+      "naslov": "FSS: Stanković se vraća u Inter, zbog povrede neće igrati protiv Nemačke i Grčke",
+      "url": "https://www.tanjug.rs/sport/fudbal/296801/fss-stankovic-se-vraca-u-inter-zbog-povrede-nece-igrati-protiv-nemacke-i-grcke/vest",
       "izvor": "Танјуг",
-      "datum": "10. 11. 2026. у 16:00",
+      "datum": "10. 11. 2026. у 18:32",
       "slika": null
     },
     {
-      "naslov": "Fudbaler Barselone Dani Olmo se za 10 dana vraća na teren",
-      "url": "https://www.tanjug.rs/sport/fudbal/296727/fudbaler-barselone-dani-olmo-se-za-10-dana-vraca-na-teren/vest",
+      "naslov": "Ronaldov sin pozvan u reprezentaciju Portugala do 17 godina",
+      "url": "https://www.tanjug.rs/sport/fudbal/296799/ronaldov-sin-pozvan-u-reprezentaciju-portugala-do-17-godina/vest",
       "izvor": "Танјуг",
-      "datum": "10. 11. 2026. у 15:24",
+      "datum": "10. 11. 2026. у 18:27",
+      "slika": null
+    },
+    {
+      "naslov": "&quot;Ostao bih u Zvezdi do kraja karijere&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283849/mateus-hoce-da-ostane-u-crvenoj-zvezdi-do-kraja-karijere/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 11. 2026. у 18:55",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283882/aleksandar-stankovic-napustio-pripreme-reprezentacije-srbije-zbog-povrede/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 11. 2026. у 18:26",
-      "slika": null
-    },
-    {
-      "naslov": "Paunović pozvao zamenu za Kostića",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283834/srbija-ostala-bez-filipa-kostica-menja-ga-stefan-bukinac/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 11. 2026. у 16:30",
       "slika": null
     }
   ]
