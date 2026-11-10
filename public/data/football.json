@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-11-10T10:04:54.001933+00:00",
-  "azurirano_sr": "10. 11. 2026. у 11:04",
+  "azurirano": "2026-11-10T17:40:40.797409+00:00",
+  "azurirano_sr": "10. 11. 2026. у 18:40",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Caki Stojanović novi sportski direktor: Radnički da postane centar regiona",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/caki-stojanovic-novi-sportski-direktor-radnicki-da-postane-centar-regiona/558564",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 11. 2026. у 15:58",
+      "slika": null
+    },
+    {
+      "naslov": "Pod lupom tužilaštva transfer Filipa Stevanovića iz Partizana u Mančester Siti",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/pod-lupom-tuzilastva-transfer-filipa-stevanovica-iz-partizana-u-mancester-siti/558562",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 11. 2026. у 15:27",
+      "slika": null
+    },
+    {
+      "naslov": "Tavernes gori od uzbuđenja, šestoligaš domaćin Valensiji na Mestalji",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/tavernes-gori-od-uzbuenja-sestoligas-domacin-valensiji-na-mestalji/558543",
+      "izvor": "Мозарт Спорт",
+      "datum": "10. 11. 2026. у 11:48",
+      "slika": null
+    },
     {
       "naslov": "Najava dana (utorak, 10. novembar): Od EFL Liga trofeja Engleske, do kontinentalnih košarkaških takmičenja",
       "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-utorak-10-novembar-od-efl-liga-trofeja-engleske-do-kontinentalnih-kosarkaskih-takmicenja/558486",
@@ -11,66 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Korak po korak - ugovor karijere: Gvardiolin đak od pomoćnika u U12 ekipi, do 'liga petice'",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/korak-po-korak-ugovor-karijere-gvardiolin-ak-od-pomocnika-u-u12-ekipi-do-liga-petice/558519",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 11. 2026. у 00:02",
-      "slika": null
-    },
-    {
-      "naslov": "Kad onako nadigraš premijerligaša... Leko kupio poverenje Dinama, Barsin čovek preuzima rezervi tim!?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kad-onako-nadigras-premijerligasa-leko-kupio-poverenje-dinama-barsin-covek-preuzima-rezervi-tim/558514",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 11. 2026. у 21:50",
-      "slika": null
-    },
-    {
-      "naslov": "Istorijski presedan u izboru za tim godine - nema mesta za Zlatnu loptu!?",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/istorijski-presedan-u-izboru-za-tim-godine-nema-mesta-za-zlatnu-loptu/558506",
-      "izvor": "Мозарт Спорт",
-      "datum": "9. 11. 2026. у 20:27",
-      "slika": null
-    },
-    {
-      "naslov": "Španac Karlos Visens novi trener fudbalera Olimpika iz Liona",
-      "url": "https://www.tanjug.rs/sport/fudbal/296537/spanac-karlos-visens-novi-trener-fudbalera-olimpika-iz-liona/vest",
+      "naslov": "Venger razmatra kandidaturu za predsednika FIFA",
+      "url": "https://www.tanjug.rs/sport/fudbal/296784/venger-razmatra-kandidaturu-za-predsednika-fifa/vest",
       "izvor": "Танјуг",
-      "datum": "9. 11. 2026. у 22:46",
+      "datum": "10. 11. 2026. у 17:49",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Srbije odradili prvi trening uoči duela protiv Nemačke i Grčke",
-      "url": "https://www.tanjug.rs/sport/fudbal/296502/fudbaleri-srbije-odradili-prvi-trening-uoci-duela-protiv-nemacke-i-grcke/vest",
+      "naslov": "Saša Stojanović novi sportski direktor Fudbalskog kluba Radnički Niš",
+      "url": "https://www.tanjug.rs/sport/fudbal/296768/sasa-stojanovic-novi-sportski-direktor-fudbalskog-kluba-radnicki-nis/vest",
       "izvor": "Танјуг",
-      "datum": "9. 11. 2026. у 19:11",
+      "datum": "10. 11. 2026. у 17:08",
       "slika": null
     },
     {
-      "naslov": "Holandski fudbaleri Van Dajk i Brobi propuštaju mečeve protiv Grčke i Nemačke u Ligi nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/296498/holandski-fudbaleri-van-dajk-i-brobi-propustaju-meceve-protiv-grcke-i-nemacke-u-ligi-nacija/vest",
+      "naslov": "Srpski fudbaler Filip Kostić zbog povrede propušta mečeve protiv Nemačke i Grčke",
+      "url": "https://www.tanjug.rs/sport/fudbal/296743/srpski-fudbaler-filip-kostic-zbog-povrede-propusta-meceve-protiv-nemacke-i-grcke/vest",
       "izvor": "Танјуг",
-      "datum": "9. 11. 2026. у 18:56",
+      "datum": "10. 11. 2026. у 16:00",
       "slika": null
     },
     {
-      "naslov": "Fudbaler Reala Kilijan Mbape najbolji igrač La Lige u oktobru",
-      "url": "https://www.tanjug.rs/sport/fudbal/296495/fudbaler-reala-kilijan-mbape-najbolji-igrac-la-lige-u-oktobru/vest",
+      "naslov": "Fudbaler Barselone Dani Olmo se za 10 dana vraća na teren",
+      "url": "https://www.tanjug.rs/sport/fudbal/296727/fudbaler-barselone-dani-olmo-se-za-10-dana-vraca-na-teren/vest",
       "izvor": "Танјуг",
-      "datum": "9. 11. 2026. у 18:39",
+      "datum": "10. 11. 2026. у 15:24",
       "slika": null
     },
     {
-      "naslov": "&quot;Efekat Vlahović&quot;: Paunoviću otkazao još jedan reprezentativac",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283682/filip-kostic-ne-igra-za-srbiju-protiv-nemacke-i-grcke/vest",
+      "naslov": "Srbija ostala bez još jednog igrača!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283882/aleksandar-stankovic-napustio-pripreme-reprezentacije-srbije-zbog-povrede/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 11. 2026. у 08:55",
+      "datum": "10. 11. 2026. у 18:26",
       "slika": null
     },
     {
-      "naslov": "Mirković: &quot;Imamo deset igrača u A selekciji&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283591/mirkovic-imamo-deset-igraca-u-a-selekciji/vest",
+      "naslov": "Paunović pozvao zamenu za Kostića",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283834/srbija-ostala-bez-filipa-kostica-menja-ga-stefan-bukinac/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "9. 11. 2026. у 21:35",
+      "datum": "10. 11. 2026. у 16:30",
       "slika": null
     }
   ]
