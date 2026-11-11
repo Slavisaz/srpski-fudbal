@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-11-10T22:31:05.558050+00:00",
-  "azurirano_sr": "10. 11. 2026. у 23:31",
+  "azurirano": "2026-11-11T02:07:18.280814+00:00",
+  "azurirano_sr": "11. 11. 2026. у 03:07",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Rezzime dana (utorak): Kiša, hladnoća i pravi engleski fudbal",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-utorak-kisa-hladnoca-i-pravi-engleski-fudbal/558589",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 11. 2026. у 00:27",
+      "slika": null
+    },
     {
       "naslov": "Baskija ponovo traži fudbalsku nezavisnost: Pokrenut postupak za ulazak u FIFA i UEFA",
       "url": "https://www.mozzartsport.com/fudbal/vesti/baskija-ponovo-trazi-fudbalsku-nezavisnost-pokrenut-postupak-za-ulazak-u-fifa-i-uefa/558579",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/caki-stojanovic-novi-sportski-direktor-radnicki-da-postane-centar-regiona/558564",
       "izvor": "Мозарт Спорт",
       "datum": "10. 11. 2026. у 15:58",
-      "slika": null
-    },
-    {
-      "naslov": "Pod lupom tužilaštva transfer Filipa Stevanovića iz Partizana u Mančester Siti",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/pod-lupom-tuzilastva-transfer-filipa-stevanovica-iz-partizana-u-mancester-siti/558562",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 11. 2026. у 15:27",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Radnički vratio legendu u klub",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283858/sasa-stojanovic-novi-direktor-radnickog-iz-nisa/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "10. 11. 2026. у 23:45",
+      "slika": null
+    },
+    {
       "naslov": "&quot;Ostao bih u Zvezdi do kraja karijere&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283849/mateus-hoce-da-ostane-u-crvenoj-zvezdi-do-kraja-karijere/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "10. 11. 2026. у 18:55",
-      "slika": null
-    },
-    {
-      "naslov": "Srbija ostala bez još jednog igrača!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283882/aleksandar-stankovic-napustio-pripreme-reprezentacije-srbije-zbog-povrede/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "10. 11. 2026. у 18:26",
       "slika": null
     }
   ]
