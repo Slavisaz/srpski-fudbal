@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-11-11T17:09:24.367597+00:00",
-  "azurirano_sr": "11. 11. 2026. у 18:09",
+  "azurirano": "2026-11-11T23:26:30.061315+00:00",
+  "azurirano_sr": "12. 11. 2026. у 00:26",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Mladi fudbaleri Srbije posle preokreta ubedljivo savladali Farska Ostrva",
+      "url": "https://www.tanjug.rs/sport/fudbal/297074/mladi-fudbaleri-srbije-posle-preokreta-ubedljivo-savladali-farska-ostrva/vest",
+      "izvor": "Танјуг",
+      "datum": "11. 11. 2026. у 19:01",
+      "slika": null
+    },
+    {
       "naslov": "Fudbalski klub Olimpijakos kompletno će renovirati stadion \"Jorgos Karaiskakis\"",
       "url": "https://www.tanjug.rs/sport/fudbal/297052/fudbalski-klub-olimpijakos-kompletno-ce-renovirati-stadion-jorgos-karaiskakis/vest",
       "izvor": "Танјуг",
@@ -53,24 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler Pari Sen Žermena Seni Majulu naknadno pozvan u reprezentaciju Francuske",
-      "url": "https://www.tanjug.rs/sport/fudbal/297002/fudbaler-pari-sen-zermena-seni-majulu-naknadno-pozvan-u-reprezentaciju-francuske/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 11. 2026. у 14:16",
+      "naslov": "Čuka dobila novog trenera",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/284211/mihajlo-trajkovic-novi-trener-fk-cukaricki/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "11. 11. 2026. у 23:21",
       "slika": null
     },
     {
-      "naslov": "&quot;Vidim sebe za dve godine kao prvog napadača Crvene zvezde&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283929/uros-sremcevic-zeli-da-bude-prvi-napadac-crvene-zvezde/vest",
+      "naslov": "Srbiju čeka rasprodat stadion u Volosu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/284148/rasprodate-karte-za-grcka-srbija-u-volosu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "11. 11. 2026. у 16:15",
-      "slika": null
-    },
-    {
-      "naslov": "Kadeti počeli pripreme za SP u Kataru",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/284072/kadetska-reprezentacija-srbije-pocela-pripreme-za-svetsko-prvenstvo-u17-u-kataru/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "11. 11. 2026. у 14:02",
+      "datum": "11. 11. 2026. у 21:19",
       "slika": null
     }
   ]
