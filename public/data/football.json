@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-11-11T02:07:18.280814+00:00",
-  "azurirano_sr": "11. 11. 2026. у 03:07",
+  "azurirano": "2026-11-11T09:15:38.559549+00:00",
+  "azurirano_sr": "11. 11. 2026. у 10:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nije Krpić džaba kapiten šampiona Mađarske: Paunović je dobio polivalentnog igrača sa elitnim fizikalijama",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nije-krpic-dzaba-kapiten-sampiona-maarske-paunovic-je-dobio-polivalentnog-igraca-sa-elitnim-fizikalijama/558593",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 11. 2026. у 09:26",
+      "slika": null
+    },
+    {
+      "naslov": "Najava dana (sreda, 11. novembar): Evroliga u Partizan Mozzart Bet sa Baskonijom, plus ostale teme",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-sreda-11-novembar-evroliga-u-partizan-mozzart-bet-sa-baskonijom-plus-ostale-teme/558565",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 11. 2026. у 09:20",
+      "slika": null
+    },
     {
       "naslov": "Rezzime dana (utorak): Kiša, hladnoća i pravi engleski fudbal",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-utorak-kisa-hladnoca-i-pravi-engleski-fudbal/558589",
@@ -15,20 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/baskija-ponovo-trazi-fudbalsku-nezavisnost-pokrenut-postupak-za-ulazak-u-fifa-i-uefa/558579",
       "izvor": "Мозарт Спорт",
       "datum": "10. 11. 2026. у 20:54",
-      "slika": null
-    },
-    {
-      "naslov": "Čemu silni milioni kad može i ovako? Prkos modernom fudbalu, jeftini golgeteri pokorili Evropu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/cemu-silni-milioni-kad-moze-i-ovako-prkos-modernom-fudbalu-jeftini-golgeteri-pokorili-evropu/558576",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 11. 2026. у 19:36",
-      "slika": null
-    },
-    {
-      "naslov": "Caki Stojanović novi sportski direktor: Radnički da postane centar regiona",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/caki-stojanovic-novi-sportski-direktor-radnicki-da-postane-centar-regiona/558564",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 11. 2026. у 15:58",
       "slika": null
     },
     {
