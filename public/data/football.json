@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-11-11T09:15:38.559549+00:00",
-  "azurirano_sr": "11. 11. 2026. у 10:15",
+  "azurirano": "2026-11-11T17:09:24.367597+00:00",
+  "azurirano_sr": "11. 11. 2026. у 18:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Maler poterao Embapea: Novo okupljanje, nova povreda… Zidan pozvao Majulua",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/maler-poterao-embapea-novo-okupljanje-nova-povreda-zidan-pozvao-majulua/558628",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 11. 2026. у 18:06",
+      "slika": null
+    },
+    {
+      "naslov": "Kadeti hvataju zalet za Katar: Pokušaćemo da igramo dobar fudbal, čeka nas istorijski trenutak",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kadeti-hvataju-zalet-za-katar-pokusacemo-da-igramo-dobar-fudbal-ceka-nas-istorijski-trenutak/558615",
+      "izvor": "Мозарт Спорт",
+      "datum": "11. 11. 2026. у 14:29",
+      "slika": null
+    },
     {
       "naslov": "Nije Krpić džaba kapiten šampiona Mađarske: Paunović je dobio polivalentnog igrača sa elitnim fizikalijama",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nije-krpic-dzaba-kapiten-sampiona-maarske-paunovic-je-dobio-polivalentnog-igraca-sa-elitnim-fizikalijama/558593",
@@ -18,59 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Rezzime dana (utorak): Kiša, hladnoća i pravi engleski fudbal",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-utorak-kisa-hladnoca-i-pravi-engleski-fudbal/558589",
-      "izvor": "Мозарт Спорт",
-      "datum": "11. 11. 2026. у 00:27",
-      "slika": null
-    },
-    {
-      "naslov": "Baskija ponovo traži fudbalsku nezavisnost: Pokrenut postupak za ulazak u FIFA i UEFA",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/baskija-ponovo-trazi-fudbalsku-nezavisnost-pokrenut-postupak-za-ulazak-u-fifa-i-uefa/558579",
-      "izvor": "Мозарт Спорт",
-      "datum": "10. 11. 2026. у 20:54",
-      "slika": null
-    },
-    {
-      "naslov": "Romano Florijani Musolini produžio ugovor sa Lacijom do 2031. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/296850/romano-florijani-musolini-produzio-ugovor-sa-lacijom-do-2031-godine/vest",
+      "naslov": "Fudbalski klub Olimpijakos kompletno će renovirati stadion \"Jorgos Karaiskakis\"",
+      "url": "https://www.tanjug.rs/sport/fudbal/297052/fudbalski-klub-olimpijakos-kompletno-ce-renovirati-stadion-jorgos-karaiskakis/vest",
       "izvor": "Танјуг",
-      "datum": "10. 11. 2026. у 21:40",
+      "datum": "11. 11. 2026. у 16:58",
       "slika": null
     },
     {
-      "naslov": "Eli Žunior Krupi menja povređenog Markusa Tirama u reprezentaciji Francuske",
-      "url": "https://www.tanjug.rs/sport/fudbal/296836/eli-zunior-krupi-menja-povredenog-markusa-tirama-u-reprezentaciji-francuske/vest",
+      "naslov": "Dirk Kajt napustio Fenerbahče, neće biti deo novog stručnog štaba",
+      "url": "https://www.tanjug.rs/sport/fudbal/297049/dirk-kajt-napustio-fenerbahce-nece-biti-deo-novog-strucnog-staba/vest",
       "izvor": "Танјуг",
-      "datum": "10. 11. 2026. у 20:39",
+      "datum": "11. 11. 2026. у 16:51",
       "slika": null
     },
     {
-      "naslov": "FSS: Stanković se vraća u Inter, zbog povrede neće igrati protiv Nemačke i Grčke",
-      "url": "https://www.tanjug.rs/sport/fudbal/296801/fss-stankovic-se-vraca-u-inter-zbog-povrede-nece-igrati-protiv-nemacke-i-grcke/vest",
+      "naslov": "Centar Fenerbahčea Kris Silva doputovao u Beograd na lekarske preglede u Partizanu",
+      "url": "https://www.tanjug.rs/sport/fudbal/297033/centar-fenerbahcea-kris-silva-doputovao-u-beograd-na-lekarske-preglede-u-partizanu/vest",
       "izvor": "Танјуг",
-      "datum": "10. 11. 2026. у 18:32",
+      "datum": "11. 11. 2026. у 15:55",
       "slika": null
     },
     {
-      "naslov": "Ronaldov sin pozvan u reprezentaciju Portugala do 17 godina",
-      "url": "https://www.tanjug.rs/sport/fudbal/296799/ronaldov-sin-pozvan-u-reprezentaciju-portugala-do-17-godina/vest",
+      "naslov": "Fudbaler Pari Sen Žermena Seni Majulu naknadno pozvan u reprezentaciju Francuske",
+      "url": "https://www.tanjug.rs/sport/fudbal/297002/fudbaler-pari-sen-zermena-seni-majulu-naknadno-pozvan-u-reprezentaciju-francuske/vest",
       "izvor": "Танјуг",
-      "datum": "10. 11. 2026. у 18:27",
+      "datum": "11. 11. 2026. у 14:16",
       "slika": null
     },
     {
-      "naslov": "Radnički vratio legendu u klub",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283858/sasa-stojanovic-novi-direktor-radnickog-iz-nisa/vest",
+      "naslov": "&quot;Vidim sebe za dve godine kao prvog napadača Crvene zvezde&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283929/uros-sremcevic-zeli-da-bude-prvi-napadac-crvene-zvezde/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 11. 2026. у 23:45",
+      "datum": "11. 11. 2026. у 16:15",
       "slika": null
     },
     {
-      "naslov": "&quot;Ostao bih u Zvezdi do kraja karijere&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/283849/mateus-hoce-da-ostane-u-crvenoj-zvezdi-do-kraja-karijere/vest",
+      "naslov": "Kadeti počeli pripreme za SP u Kataru",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/284072/kadetska-reprezentacija-srbije-pocela-pripreme-za-svetsko-prvenstvo-u17-u-kataru/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "10. 11. 2026. у 18:55",
+      "datum": "11. 11. 2026. у 14:02",
       "slika": null
     }
   ]
