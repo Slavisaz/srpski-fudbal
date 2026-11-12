@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-11-12T03:58:13.610080+00:00",
-  "azurirano_sr": "12. 11. 2026. у 04:58",
+  "azurirano": "2026-11-12T12:09:32.213375+00:00",
+  "azurirano_sr": "12. 11. 2026. у 13:09",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Maler poterao Embapea: Novo okupljanje, nova povreda… Zidan pozvao Majulua",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/maler-poterao-embapea-novo-okupljanje-nova-povreda-zidan-pozvao-majulua/558628",
+      "naslov": "Steže se obruč oko Infantina: Evropa nagovara Vengera na kandidaturu, u napad krenuo i Japanac",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/steze-se-obruc-oko-infantina-evropa-nagovara-vengera-na-kandidaturu-u-napad-krenuo-i-japanac/558681",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 11. 2026. у 18:06",
+      "datum": "12. 11. 2026. у 12:43",
       "slika": null
     },
     {
-      "naslov": "Kadeti hvataju zalet za Katar: Pokušaćemo da igramo dobar fudbal, čeka nas istorijski trenutak",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kadeti-hvataju-zalet-za-katar-pokusacemo-da-igramo-dobar-fudbal-ceka-nas-istorijski-trenutak/558615",
+      "naslov": "Zvezdini Afrikanci poispadali sa spiskova reprezentacija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezdini-afrikanci-poispadali-sa-spiskova-reprezentacija/558680",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 11. 2026. у 14:29",
+      "datum": "12. 11. 2026. у 12:09",
       "slika": null
     },
     {
-      "naslov": "Nije Krpić džaba kapiten šampiona Mađarske: Paunović je dobio polivalentnog igrača sa elitnim fizikalijama",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nije-krpic-dzaba-kapiten-sampiona-maarske-paunovic-je-dobio-polivalentnog-igraca-sa-elitnim-fizikalijama/558593",
+      "naslov": "Srbija neće videti Klopovo čudo od deteta",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-nece-videti-klopovo-cudo-od-deteta/558671",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 11. 2026. у 09:26",
+      "datum": "12. 11. 2026. у 10:48",
       "slika": null
     },
     {
-      "naslov": "Najava dana (sreda, 11. novembar): Evroliga u Partizan Mozzart Bet sa Baskonijom, plus ostale teme",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-sreda-11-novembar-evroliga-u-partizan-mozzart-bet-sa-baskonijom-plus-ostale-teme/558565",
+      "naslov": "Niklas Zile otvoreno: Možda sam previše često pio po tri piva i jeo u Meku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/niklas-zile-otvoreno-mozda-sam-previse-cesto-pio-po-tri-piva-i-jeo-u-meku/558669",
       "izvor": "Мозарт Спорт",
-      "datum": "11. 11. 2026. у 09:20",
+      "datum": "12. 11. 2026. у 10:29",
+      "slika": null
+    },
+    {
+      "naslov": "Majkl Kerik nije više menadžer Mančester junajteda",
+      "url": "https://www.tanjug.rs/sport/fudbal/297202/majkl-kerik-nije-vise-menadzer-mancester-junajteda/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 11. 2026. у 11:49",
+      "slika": null
+    },
+    {
+      "naslov": "Dragojević: Mislim da svaki fudbaler jedva čeka da igra za reprezentaciju Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/297167/dragojevic-mislim-da-svaki-fudbaler-jedva-ceka-da-igra-za-reprezentaciju-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "12. 11. 2026. у 10:06",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Dirk Kajt napustio Fenerbahče, neće biti deo novog stručnog štaba",
-      "url": "https://www.tanjug.rs/sport/fudbal/297049/dirk-kajt-napustio-fenerbahce-nece-biti-deo-novog-strucnog-staba/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 11. 2026. у 16:51",
-      "slika": null
-    },
-    {
-      "naslov": "Centar Fenerbahčea Kris Silva doputovao u Beograd na lekarske preglede u Partizanu",
-      "url": "https://www.tanjug.rs/sport/fudbal/297033/centar-fenerbahcea-kris-silva-doputovao-u-beograd-na-lekarske-preglede-u-partizanu/vest",
-      "izvor": "Танјуг",
-      "datum": "11. 11. 2026. у 15:55",
-      "slika": null
-    },
-    {
-      "naslov": "Čuka dobila novog trenera",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/284211/mihajlo-trajkovic-novi-trener-fk-cukaricki/vest",
+      "naslov": "Zdravko Mamić imao rak: &quot;Pitaju koliko mi je još ostalo vremena...&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/284330/zdravko-mamic-imao-rak-koze/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "11. 11. 2026. у 23:21",
+      "datum": "12. 11. 2026. у 13:05",
       "slika": null
     },
     {
-      "naslov": "Srbiju čeka rasprodat stadion u Volosu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/284148/rasprodate-karte-za-grcka-srbija-u-volosu/vest",
+      "naslov": "Paunović se obraća naciji pred Nemačku",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/284318/konferencija-veljka-paunovica-pred-mec-srbija-nemacka-u-ligi-nacije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "11. 11. 2026. у 21:19",
+      "datum": "12. 11. 2026. у 13:00",
       "slika": null
     }
   ]
