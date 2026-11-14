@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-11-14T01:35:32.343256+00:00",
-  "azurirano_sr": "14. 11. 2026. у 02:35",
+  "azurirano": "2026-11-14T07:58:02.626454+00:00",
+  "azurirano_sr": "14. 11. 2026. у 08:58",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Crveni se od pogleda na rezultate: Srbija još gora nego 2007. godine",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/crveni-se-od-pogleda-na-rezultate-srbija-jos-gora-nego-2007-godine/558823",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 11. 2026. у 09:28",
+      "slika": null
+    },
+    {
+      "naslov": "LUDI TIKET, subota, 78.430 dinara: Teže od sedmice na Lotou! Za 20 dinara pogodio četiri tačna rezultata",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-subota-78430-dinara-teze-od-sedmice-na-lotou-za-20-dinara-pogodio-cetiri-tacna-rezultata/558819",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 11. 2026. у 08:59",
+      "slika": null
+    },
     {
       "naslov": "Konačno je pao i taj rekord: Salah \"Panenkom\" postao najbolji strelac u istoriji Egipta",
       "url": "https://www.mozzartsport.com/fudbal/vesti/konacno-je-pao-i-taj-rekord-salah-panenkom-postao-najbolji-strelac-u-istoriji-egipta/558817",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Bugarska se bruka iznova i iznova: Island sa pet golova ponizio Balova i saigrače, Slovačka u B ligi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/bugarska-se-bruka-iznova-i-iznova-island-sa-pet-golova-ponizio-balova-i-saigrace-slovacka-u-b-ligi/558807",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 11. 2026. у 00:04",
-      "slika": null
-    },
-    {
-      "naslov": "A, gde je lopta? Istorijska nemoć Orlova, kapitulacija potpisana posle 137 sekundi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/a-gde-je-lopta-istorijska-nemoc-orlova-kapitulacija-potpisana-posle-137-sekundi/558803",
-      "izvor": "Мозарт Спорт",
-      "datum": "13. 11. 2026. у 23:36",
+      "naslov": "Paunović: Nemačka je bila dominantna, naivno smo primali golove",
+      "url": "https://www.tanjug.rs/sport/fudbal/297669/paunovic-nemacka-je-bila-dominantna-naivno-smo-primali-golove/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 11. 2026. у 00:00",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Srbije poraženi od Nemačke u petom kolu Lige nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/297653/fudbaleri-srbije-porazeni-od-nemacke-u-petom-kolu-lige-nacija/vest",
-      "izvor": "Танјуг",
-      "datum": "13. 11. 2026. у 22:44",
+      "naslov": "Pokisli od kiše i sramote",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/284814/b92sport-skener-reprezentacije-srbije-u-mecu-lige-nacija-protiv-nemacke/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 11. 2026. у 08:00",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/284851/uzivo-konferencija-velja-paunovica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "13. 11. 2026. у 23:54",
-      "slika": null
-    },
-    {
-      "naslov": "Srbija na 0/5 – sedmi poraz u nizu;  Paunović o sudijama: &quot;Svlačionica je razočarana&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/284741/liga-nacija-5-kolo-a-divizije-srbija-nemacka-13/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "13. 11. 2026. у 23:53",
       "slika": null
     }
   ]
