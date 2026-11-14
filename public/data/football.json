@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-11-14T19:29:08.977396+00:00",
-  "azurirano_sr": "14. 11. 2026. у 20:29",
+  "azurirano": "2026-11-14T23:14:37.586556+00:00",
+  "azurirano_sr": "15. 11. 2026. у 00:14",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srpski napadač kupuje poverenje u klubu Đerara Pikea",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-napadac-kupuje-poverenje-u-klubu-erara-pikea/558881",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 11. 2026. у 23:12",
+      "slika": null
+    },
+    {
+      "naslov": "Prvi porazi Milojevića i Tufegdžića u Liga kupu, prva pobeda Ivića",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-porazi-milojevica-i-tufegdzica-u-liga-kupu-prva-pobeda-ivica/558880",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 11. 2026. у 23:06",
+      "slika": null
+    },
     {
       "naslov": "Živković tužio Grke zbog 1.000 evra",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zivkovic-tuzio-grke-zbog-1000-evra/558873",
@@ -18,17 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Boka misli na jedno, a bori se za drugo finale",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/boka-misli-na-jedno-a-bori-se-za-drugo-finale/558854",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 11. 2026. у 16:48",
-      "slika": null
-    },
-    {
-      "naslov": "Marin o povratku u Nemačku: Bundesliga je interesantna… Ali, zasad ne, srećan sam u Zvezdi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/marin-o-povratku-u-nemacku-bundesliga-je-interesantna-ali-zasad-ne-srecan-sam-u-zvezdi/558852",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 11. 2026. у 16:23",
+      "naslov": "Fudbaleri Danske ubedljivi protiv Portugala u prvom meču posle povlačenja Ronalda",
+      "url": "https://www.tanjug.rs/sport/fudbal/297850/fudbaleri-danske-ubedljivi-protiv-portugala-u-prvom-mecu-posle-povlacenja-ronalda/vest",
+      "izvor": "Танјуг",
+      "datum": "14. 11. 2026. у 22:48",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri PAOK-a pobedili Partizan na proslavi 100. godina postojanja grčkog kluba",
-      "url": "https://www.tanjug.rs/sport/fudbal/297794/fudbaleri-paok-a-pobedili-partizan-na-proslavi-100-godina-postojanja-grckog-kluba/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 11. 2026. у 17:45",
+      "naslov": "&quot;Ovo nema ni u Severnoj Koreji&quot;: Nameštena utakmica u Srbiji? FSS krenuo u istraživanje!",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285038/ovo-nema-ni-u-severnoj-koreji-namestena-utakmica-u-srbiji-fss-krenuo-u-istrazivanje/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "14. 11. 2026. у 21:18",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285017/aleksandar-stanojevic-izjava-posle-paok-partizan/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "14. 11. 2026. у 18:45",
-      "slika": null
-    },
-    {
-      "naslov": "Još jedan istorijski rekord &quot;orlova&quot; koji nije viđen čak 94 godine",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285005/srbija-ispisala-crnu-istoriju-sedam-poraza-zaredom/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 11. 2026. у 18:15",
       "slika": null
     }
   ]
