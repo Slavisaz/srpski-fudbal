@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-11-14T14:44:17.023163+00:00",
-  "azurirano_sr": "14. 11. 2026. у 15:44",
+  "azurirano": "2026-11-14T19:29:08.977396+00:00",
+  "azurirano_sr": "14. 11. 2026. у 20:29",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Živković tužio Grke zbog 1.000 evra",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zivkovic-tuzio-grke-zbog-1000-evra/558873",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 11. 2026. у 20:40",
+      "slika": null
+    },
+    {
+      "naslov": "Još jedno ’prvi put u istoriji’",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedno-prvi-put-u-istoriji/558855",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 11. 2026. у 17:13",
+      "slika": null
+    },
+    {
+      "naslov": "Boka misli na jedno, a bori se za drugo finale",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/boka-misli-na-jedno-a-bori-se-za-drugo-finale/558854",
+      "izvor": "Мозарт Спорт",
+      "datum": "14. 11. 2026. у 16:48",
+      "slika": null
+    },
     {
       "naslov": "Marin o povratku u Nemačku: Bundesliga je interesantna… Ali, zasad ne, srećan sam u Zvezdi",
       "url": "https://www.mozzartsport.com/fudbal/vesti/marin-o-povratku-u-nemacku-bundesliga-je-interesantna-ali-zasad-ne-srecan-sam-u-zvezdi/558852",
@@ -11,66 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Sat i po sa Brašancem: Javi vlasniku da nemam za kiriju… Koga smo ovo doveli, misliće da sam cicija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/sat-i-po-sa-brasancem-javi-vlasniku-da-nemam-za-kiriju-koga-smo-ovo-doveli-mislice-da-sam-cicija/558842",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 11. 2026. у 14:00",
-      "slika": null
-    },
-    {
-      "naslov": "Ako nekog zanima, još smo na mestu za baraž",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ako-nekog-zanima-jos-smo-na-mestu-za-baraz/558828",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 11. 2026. у 10:11",
-      "slika": null
-    },
-    {
-      "naslov": "Crveni se od pogleda na rezultate: Srbija još gora nego 2007. godine",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/crveni-se-od-pogleda-na-rezultate-srbija-jos-gora-nego-2007-godine/558823",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 11. 2026. у 09:28",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Japana pobedili Brazil u prijateljskom meču",
-      "url": "https://www.tanjug.rs/sport/fudbal/297728/fudbaleri-japana-pobedili-brazil-u-prijateljskom-mecu/vest",
+      "naslov": "Fudbaleri Norveške pobedili Vels u petom kolu Lige nacija",
+      "url": "https://www.tanjug.rs/sport/fudbal/297823/fudbaleri-norveske-pobedili-vels-u-petom-kolu-lige-nacija/vest",
       "izvor": "Танјуг",
-      "datum": "14. 11. 2026. у 13:14",
+      "datum": "14. 11. 2026. у 20:00",
       "slika": null
     },
     {
-      "naslov": "Srpski arbitar Nenad Minaković sudiće meč između fudbalera Estonije i Bugarske u LN",
-      "url": "https://www.tanjug.rs/sport/fudbal/297708/srpski-arbitar-nenad-minakovic-sudice-mec-izmedu-fudbalera-estonije-i-bugarske-u-ln/vest",
+      "naslov": "Fudbaleri Srbije do 19 godina nadigrali Azerbejdžan u kvalifikacijama za EP",
+      "url": "https://www.tanjug.rs/sport/fudbal/297801/fudbaleri-srbije-do-19-godina-nadigrali-azerbejdzan-u-kvalifikacijama-za-ep/vest",
       "izvor": "Танјуг",
-      "datum": "14. 11. 2026. у 11:41",
+      "datum": "14. 11. 2026. у 18:13",
       "slika": null
     },
     {
-      "naslov": "Engleski sudija Majkl Oliver biće glavni na meču između fudbalera Grčke i Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/297706/engleski-sudija-majkl-oliver-bice-glavni-na-mecu-izmedu-fudbalera-grcke-i-srbije/vest",
+      "naslov": "Kadetska fudbalska reprezentacija Srbije savladala Andoru u kvalifikacijama za Evropsko prvenstvo",
+      "url": "https://www.tanjug.rs/sport/fudbal/297798/kadetska-fudbalska-reprezentacija-srbije-savladala-andoru-u-kvalifikacijama-za-evropsko-prvenstvo/vest",
       "izvor": "Танјуг",
-      "datum": "14. 11. 2026. у 11:28",
+      "datum": "14. 11. 2026. у 18:00",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Urugvaja kao gosti pobedili Argentinu u prijateljskom meču",
-      "url": "https://www.tanjug.rs/sport/fudbal/297686/fudbaleri-urugvaja-kao-gosti-pobedili-argentinu-u-prijateljskom-mecu/vest",
+      "naslov": "Fudbaleri PAOK-a pobedili Partizan na proslavi 100. godina postojanja grčkog kluba",
+      "url": "https://www.tanjug.rs/sport/fudbal/297794/fudbaleri-paok-a-pobedili-partizan-na-proslavi-100-godina-postojanja-grckog-kluba/vest",
       "izvor": "Танјуг",
-      "datum": "14. 11. 2026. у 08:59",
+      "datum": "14. 11. 2026. у 17:45",
       "slika": null
     },
     {
-      "naslov": "Oglasio se FSS dan nakon poraza od Nemačke",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/284971/fss-vraca-novac-navijacima-zbog-meca-sa-nemackom-obezbedjen-i-besplatan-ulaz-na-narednu-utakmicu/vest",
+      "naslov": "Stanojević: &quot;Neozbiljno je da se obnovi povreda – mi se ne takmičimo&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285017/aleksandar-stanojevic-izjava-posle-paok-partizan/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "14. 11. 2026. у 15:31",
+      "datum": "14. 11. 2026. у 18:45",
       "slika": null
     },
     {
-      "naslov": "PAOK i Partizan u crno-belom duelu – poznati sastavi (TV B92)",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/284946/uzivo-paok-partizan-prijateljska-utakmica-tv-b92-prenos/vest",
+      "naslov": "Još jedan istorijski rekord &quot;orlova&quot; koji nije viđen čak 94 godine",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285005/srbija-ispisala-crnu-istoriju-sedam-poraza-zaredom/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "14. 11. 2026. у 15:24",
+      "datum": "14. 11. 2026. у 18:15",
       "slika": null
     }
   ]
