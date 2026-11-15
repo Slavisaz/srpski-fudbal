@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-11-15T02:39:37.866260+00:00",
-  "azurirano_sr": "15. 11. 2026. у 03:39",
+  "azurirano": "2026-11-15T09:53:36.600929+00:00",
+  "azurirano_sr": "15. 11. 2026. у 10:53",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ančeloti, pokupi stvari i odlazi! Predsedniče, pošalji ga dođavola...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/anceloti-pokupi-stvari-i-odlazi-predsednice-posalji-ga-doavola/558907",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 11. 2026. у 11:35",
+      "slika": null
+    },
+    {
+      "naslov": "Srbija navija za Hrvatsku, BiH potencijalni rival u baražu za ostanak u eliti",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-navija-za-hrvatsku-bih-potencijalni-rival-u-barazu-za-ostanak-u-eliti/558909",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 11. 2026. у 11:30",
+      "slika": null
+    },
+    {
+      "naslov": "Nema fudbala bez lopte: Samo San Marino i Lihtenštajn gori od Srbije u posedu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nema-fudbala-bez-lopte-samo-san-marino-i-lihtenstajn-gori-od-srbije-u-posedu/558896",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 11. 2026. у 09:01",
+      "slika": null
+    },
     {
       "naslov": "Srpski napadač kupuje poverenje u klubu Đerara Pikea",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srpski-napadac-kupuje-poverenje-u-klubu-erara-pikea/558881",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Prvi porazi Milojevića i Tufegdžića u Liga kupu, prva pobeda Ivića",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/prvi-porazi-milojevica-i-tufegdzica-u-liga-kupu-prva-pobeda-ivica/558880",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 11. 2026. у 23:06",
-      "slika": null
-    },
-    {
-      "naslov": "Živković tužio Grke zbog 1.000 evra",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/zivkovic-tuzio-grke-zbog-1000-evra/558873",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 11. 2026. у 20:40",
-      "slika": null
-    },
-    {
-      "naslov": "Još jedno ’prvi put u istoriji’",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jos-jedno-prvi-put-u-istoriji/558855",
-      "izvor": "Мозарт Спорт",
-      "datum": "14. 11. 2026. у 17:13",
+      "naslov": "Svitolina u finalu Završnog turnira u Indijan Velsu",
+      "url": "https://www.tanjug.rs/sport/fudbal/297895/svitolina-u-finalu-zavrsnog-turnira-u-indijan-velsu/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 11. 2026. у 08:49",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Kadetska fudbalska reprezentacija Srbije savladala Andoru u kvalifikacijama za Evropsko prvenstvo",
-      "url": "https://www.tanjug.rs/sport/fudbal/297798/kadetska-fudbalska-reprezentacija-srbije-savladala-andoru-u-kvalifikacijama-za-evropsko-prvenstvo/vest",
-      "izvor": "Танјуг",
-      "datum": "14. 11. 2026. у 18:00",
+      "naslov": "Alarmantno: Srbija među najgorim reprezentacijama",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285097/srbija-medju-najgorim-reprezentacijama-lige-nacija-po-posedu-lopte/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "15. 11. 2026. у 10:15",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285038/ovo-nema-ni-u-severnoj-koreji-namestena-utakmica-u-srbiji-fss-krenuo-u-istrazivanje/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "14. 11. 2026. у 21:18",
-      "slika": null
-    },
-    {
-      "naslov": "Stanojević: &quot;Neozbiljno je da se obnovi povreda – mi se ne takmičimo&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285017/aleksandar-stanojevic-izjava-posle-paok-partizan/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "14. 11. 2026. у 18:45",
       "slika": null
     }
   ]
