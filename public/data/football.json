@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-11-15T16:39:10.424578+00:00",
-  "azurirano_sr": "15. 11. 2026. у 17:39",
+  "azurirano": "2026-11-15T21:15:00.879457+00:00",
+  "azurirano_sr": "15. 11. 2026. у 22:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nek si se ti nama vratio, makar samo na jedno veče, protiv tamo nekog Forlija, pred nekim čudnim ljudima",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nek-si-se-ti-nama-vratio-makar-samo-na-jedno-vece-protiv-tamo-nekog-forlija-pred-nekim-cudnim-ljudima/558953",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 11. 2026. у 21:19",
+      "slika": null
+    },
+    {
+      "naslov": "SRBIJA – TIM ZA GRČKU: Kreće Luka Jović! Promena i na golu",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-tim-za-grcku-krece-luka-jovic-promena-i-na-golu/558949",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 11. 2026. у 20:08",
+      "slika": null
+    },
+    {
+      "naslov": "Grci bez Kurbelisa protiv Srbije",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/grci-bez-kurbelisa-protiv-srbije/558940",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 11. 2026. у 18:38",
+      "slika": null
+    },
     {
       "naslov": "Ivan Jovanović: Ne prihvatam ulogu favorita, Srbija nije zaslužila da bude bez bodova",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ivan-jovanovic-ne-prihvatam-ulogu-favorita-srbija-nije-zasluzila-da-bude-bez-bodova/558936",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "Jedni po iskupljenje, drugi po večnost: Argentina noćas dobija novog prvoligaša",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/jedni-po-iskupljenje-drugi-po-vecnost-argentina-nocas-dobija-novog-prvoligasa/558928",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 11. 2026. у 15:59",
+      "naslov": "Srđan Babić: Nadam se da ćemo protiv Grčke popraviti utisak",
+      "url": "https://www.tanjug.rs/sport/fudbal/297999/srdan-babic-nadam-se-da-cemo-protiv-grcke-popraviti-utisak/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 11. 2026. у 18:45",
       "slika": null
     },
     {
-      "naslov": "Ognjen Mudrinski promenio treći klub u Italiji za godinu dana - igraće za šestoligaša",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ognjen-mudrinski-promenio-treci-klub-u-italiji-za-godinu-dana-igrace-za-sestoligasa/558927",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 11. 2026. у 15:45",
-      "slika": null
-    },
-    {
-      "naslov": "Raulova misija u Ovijedu - \"više od trenera\"",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/raulova-misija-u-ovijedu-vise-od-trenera/558923",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 11. 2026. у 14:32",
+      "naslov": "Veljko Paunović: Protiv Grčke da sačuvamo ponos i osvojimo bodove",
+      "url": "https://www.tanjug.rs/sport/fudbal/297997/veljko-paunovic-protiv-grcke-da-sacuvamo-ponos-i-osvojimo-bodove/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 11. 2026. у 18:33",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Venger odustao od kandidature za predsednika FIFA",
-      "url": "https://www.tanjug.rs/sport/fudbal/297949/venger-odustao-od-kandidature-za-predsednika-fifa/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 11. 2026. у 14:27",
-      "slika": null
-    },
-    {
-      "naslov": "Jovan Aćimović: Panatinaikos me i dan danas progranja, boli me",
-      "url": "https://www.tanjug.rs/sport/fudbal/297938/jovan-acimovic-panatinaikos-me-i-dan-danas-progranja-boli-me/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 11. 2026. у 13:37",
-      "slika": null
-    },
-    {
-      "naslov": "Ostavio Srbiju &quot;na cedilu&quot; – dobija drugu šansu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285183/vanja-dragojevic-prekomandovan-u-mladu-reprezentaciju-srbije/vest",
+      "naslov": "Aćimović: &quot;Panatinaikos me i dan danas progranja, boli me&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285233/acimovic-panatinaikos-me-i-dan-danas-progranja-boli-me/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "15. 11. 2026. у 16:30",
+      "datum": "15. 11. 2026. у 21:09",
       "slika": null
     },
     {
-      "naslov": "Partizanovo &quot;čudo&quot; pokorilo Evropu – iza sebe ostavio zvezde Bajerna i Reala FOTO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285121/samson-nvulu-iz-partizana-prvi-na-cies-listi/vest",
+      "naslov": "Babić: &quot;Nadam se da ćemo popraviti utisak&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285214/konferencija-za-medije-srdjana-babica-pred-grcu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "15. 11. 2026. у 15:33",
+      "datum": "15. 11. 2026. у 19:15",
       "slika": null
     }
   ]
