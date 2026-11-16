@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-11-16T01:02:59.420884+00:00",
-  "azurirano_sr": "16. 11. 2026. у 02:02",
+  "azurirano": "2026-11-16T07:51:31.129062+00:00",
+  "azurirano_sr": "16. 11. 2026. у 08:51",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (nedelja, 16. novembar): Srbija za baraž, Nemci za četvrtfinale",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-nedelja-16-novembar-srbija-za-baraz-nemci-za-cetvrtfinale/558924",
+      "izvor": "Мозарт Спорт",
+      "datum": "16. 11. 2026. у 09:10",
+      "slika": null
+    },
     {
       "naslov": "Englezi su treća fudbalska sila! Odbranili pobedu u Madridu i podsetili Špance kako izgleda poraz",
       "url": "https://www.mozzartsport.com/fudbal/vesti/englezi-su-treca-fudbalska-sila-odbranili-pobedu-u-madridu-i-podsetili-spance-kako-izgleda-poraz/558967",
@@ -11,8 +18,8 @@
       "slika": null
     },
     {
-      "naslov": "Srbija blizu baraža: Moguć balkanski rat sa Bosnom, „crtaju“ se i Slovenci",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-blizu-baraza-moguc-balkanski-rat-sa-bosnom-crtaju-se-i-slovenci/558966",
+      "naslov": "Srbija blizu baraža: Moguć balkanski okršaj sa Bosnom, „crtaju“ se i Slovenci",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-blizu-baraza-moguc-balkanski-okrsaj-sa-bosnom-crtaju-se-i-slovenci/558966",
       "izvor": "Мозарт Спорт",
       "datum": "15. 11. 2026. у 23:46",
       "slika": null
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/avolski-dobar-fudbal-otreznio-italijane-bolji-ide-dalje/558963",
       "izvor": "Мозарт Спорт",
       "datum": "15. 11. 2026. у 23:41",
-      "slika": null
-    },
-    {
-      "naslov": "Nek si se ti nama vratio, makar samo na jedno veče, protiv tamo nekog Forlija, pred nekim čudnim ljudima",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/nek-si-se-ti-nama-vratio-makar-samo-na-jedno-vece-protiv-tamo-nekog-forlija-pred-nekim-cudnim-ljudima/558953",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 11. 2026. у 21:19",
       "slika": null
     },
     {
