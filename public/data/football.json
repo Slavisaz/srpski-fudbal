@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-11-15T21:15:00.879457+00:00",
-  "azurirano_sr": "15. 11. 2026. у 22:15",
+  "azurirano": "2026-11-16T01:02:59.420884+00:00",
+  "azurirano_sr": "16. 11. 2026. у 02:02",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Englezi su treća fudbalska sila! Odbranili pobedu u Madridu i podsetili Špance kako izgleda poraz",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/englezi-su-treca-fudbalska-sila-odbranili-pobedu-u-madridu-i-podsetili-spance-kako-izgleda-poraz/558967",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 11. 2026. у 23:54",
+      "slika": null
+    },
+    {
+      "naslov": "Srbija blizu baraža: Moguć balkanski rat sa Bosnom, „crtaju“ se i Slovenci",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-blizu-baraza-moguc-balkanski-rat-sa-bosnom-crtaju-se-i-slovenci/558966",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 11. 2026. у 23:46",
+      "slika": null
+    },
+    {
+      "naslov": "Đavolski dobar fudbal otreznio Italijane, bolji ide dalje",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/avolski-dobar-fudbal-otreznio-italijane-bolji-ide-dalje/558963",
+      "izvor": "Мозарт Спорт",
+      "datum": "15. 11. 2026. у 23:41",
+      "slika": null
+    },
     {
       "naslov": "Nek si se ti nama vratio, makar samo na jedno veče, protiv tamo nekog Forlija, pred nekim čudnim ljudima",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nek-si-se-ti-nama-vratio-makar-samo-na-jedno-vece-protiv-tamo-nekog-forlija-pred-nekim-cudnim-ljudima/558953",
@@ -11,24 +32,17 @@
       "slika": null
     },
     {
-      "naslov": "SRBIJA – TIM ZA GRČKU: Kreće Luka Jović! Promena i na golu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-tim-za-grcku-krece-luka-jovic-promena-i-na-golu/558949",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 11. 2026. у 20:08",
+      "naslov": "Fudbaleri Engleske savladali Španiju u Madridu, Belgija ubedljiva protiv Italije",
+      "url": "https://www.tanjug.rs/sport/fudbal/298026/fudbaleri-engleske-savladali-spaniju-u-madridu-belgija-ubedljiva-protiv-italije/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 11. 2026. у 23:09",
       "slika": null
     },
     {
-      "naslov": "Grci bez Kurbelisa protiv Srbije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/grci-bez-kurbelisa-protiv-srbije/558940",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 11. 2026. у 18:38",
-      "slika": null
-    },
-    {
-      "naslov": "Ivan Jovanović: Ne prihvatam ulogu favorita, Srbija nije zaslužila da bude bez bodova",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ivan-jovanovic-ne-prihvatam-ulogu-favorita-srbija-nije-zasluzila-da-bude-bez-bodova/558936",
-      "izvor": "Мозарт Спорт",
-      "datum": "15. 11. 2026. у 18:04",
+      "naslov": "Francuska bolja od Turske, Hrvati nadigrali Češku, Srbija blizu baraža",
+      "url": "https://www.tanjug.rs/sport/fudbal/298025/francuska-bolja-od-turske-hrvati-nadigrali-cesku-srbija-blizu-baraza/vest",
+      "izvor": "Танјуг",
+      "datum": "15. 11. 2026. у 23:01",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Ubedljiva pobeda fudbalera Crne Gore protiv Kipra u Ligi nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/297984/ubedljiva-pobeda-fudbalera-crne-gore-protiv-kipra-u-ligi-nacija/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 11. 2026. у 16:59",
-      "slika": null
-    },
-    {
-      "naslov": "FSS: Vanja Dragojević prekomandovan u mladu reprezentaciju Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/297958/fss-vanja-dragojevic-prekomandovan-u-mladu-reprezentaciju-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "15. 11. 2026. у 14:55",
-      "slika": null
-    },
-    {
-      "naslov": "Aćimović: &quot;Panatinaikos me i dan danas progranja, boli me&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285233/acimovic-panatinaikos-me-i-dan-danas-progranja-boli-me/vest",
+      "naslov": "Hrvatska odigrala za Srbiju: Baraž na vidiku – ako se izbegne debakl u Volosu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285252/hrvati-ispunili-zelju-srbiji-francuzi-potvrdili-orlovi-izbegli-direktno-ispadanje/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "15. 11. 2026. у 21:09",
+      "datum": "15. 11. 2026. у 22:58",
       "slika": null
     },
     {
-      "naslov": "Babić: &quot;Nadam se da ćemo popraviti utisak&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285214/konferencija-za-medije-srdjana-babica-pred-grcu/vest",
+      "naslov": "Slava pomerila utakmicu Zvezde",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285202/promenjen-termin-utakmice-crvene-zvezde-i-radnika-u-16-kolu-superlige/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "15. 11. 2026. у 19:15",
+      "datum": "15. 11. 2026. у 22:35",
       "slika": null
     }
   ]
