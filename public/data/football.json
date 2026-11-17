@@ -1,34 +1,34 @@
 {
-  "azurirano": "2026-11-17T00:58:59.023248+00:00",
-  "azurirano_sr": "17. 11. 2026. у 01:58",
+  "azurirano": "2026-11-17T08:49:16.934098+00:00",
+  "azurirano_sr": "17. 11. 2026. у 09:49",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "LUDI TIKET, utorak, 548.876 dinara: Budimo realni, ko je verovao u Orlove",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ludi-tiket-utorak-548876-dinara-budimo-realni-ko-je-verovao-u-orlove/559037",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 11. 2026. у 10:16",
+      "slika": null
+    },
+    {
+      "naslov": "Ne ponovila se",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ne-ponovila-se/559035",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 11. 2026. у 10:02",
+      "slika": null
+    },
+    {
+      "naslov": "Ipak se ne okreće",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ipak-se-ne-okrece/559034",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 11. 2026. у 09:31",
+      "slika": null
+    },
     {
       "naslov": "OCENE – SRBIJA: Teško je gledati ovakvog Mitra, ali još više ovakvu igru pod Paunovićem",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ocene-srbija-tesko-je-gledati-ovakvog-mitra-ali-jos-vise-ovakvu-igru-pod-paunovicem/559028",
       "izvor": "Мозарт Спорт",
       "datum": "17. 11. 2026. у 00:31",
-      "slika": null
-    },
-    {
-      "naslov": "Mitrović: Slika i prilika svega što se dešava u našem fudbalu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mitrovic-slika-i-prilika-svega-sto-se-desava-u-nasem-fudbalu/559029",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 11. 2026. у 00:06",
-      "slika": null
-    },
-    {
-      "naslov": "„Okrećemo se baražu...” Slovenija, BiH ili još dve opcije",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/okrecemo-se-barazu-slovenija-bih-ili-jos-dve-opcije/559027",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 11. 2026. у 23:39",
-      "slika": null
-    },
-    {
-      "naslov": "Samo kad se završilo: Beda za kraj, baraž bez gola i boda u Volosu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/samo-kad-se-zavrsilo-beda-za-kraj-baraz-bez-gola-i-boda-u-volosu/559025",
-      "izvor": "Мозарт Спорт",
-      "datum": "16. 11. 2026. у 23:38",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Jovanović posle duple pobede nad Srbijom: &quot;Nadmašili smo očekivanja&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285638/konferencija-za-medije-ivana-jovanovica-posle-pobede-nad-srbijom-u-ligi-nacija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "17. 11. 2026. у 09:37",
+      "slika": null
+    },
+    {
       "naslov": "Ni bod, ni gol u Volosu – Srbija u baražu: Pale teške reči, Paunović &quot;zna dijagnozu&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285504/a-liga-nacija-6-kolo-grcka-srbija-10-uzivo-prenos/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "16. 11. 2026. у 23:50",
-      "slika": null
-    },
-    {
-      "naslov": "Paunović: &quot;Nismo ispali – situacija nije sjajna&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285600/veljko-paunovic-konferencija-za-medije-srbija-grcka-fudbal-liga-nacija/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "16. 11. 2026. у 23:47",
       "slika": null
     }
   ]
