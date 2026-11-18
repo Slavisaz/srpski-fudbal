@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-11-18T00:09:52.556988+00:00",
-  "azurirano_sr": "18. 11. 2026. у 01:09",
+  "azurirano": "2026-11-18T07:17:09.433245+00:00",
+  "azurirano_sr": "18. 11. 2026. у 08:17",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zvezda BiH u susret žrebu: Srbija je moja želja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zvezda-bih-u-susret-zrebu-srbija-je-moja-zelja/559112",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 11. 2026. у 02:35",
+      "slika": null
+    },
     {
       "naslov": "Srbija zna sve potencijalne rivale u baražu: Mađarima opet pao mrak na oči od Irske, ovaj put Severne",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-zna-sve-potencijalne-rivale-u-barazu-maarima-opet-pao-mrak-na-oci-od-irske-ovaj-put-severne/559105",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/jedini-pravi-sampion-afrike-prvi-overio-vizu-za-naredni-kup-nacija-nekoliko-velikih-iznenaenja/559082",
       "izvor": "Мозарт Спорт",
       "datum": "17. 11. 2026. у 20:11",
-      "slika": null
-    },
-    {
-      "naslov": "Srbija tone na svim nivoima: Crna Gora izbacila omladince u preliminarnoj rundi kvalifikacija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-tone-na-svim-nivoima-crna-gora-izbacila-omladince-u-preliminarnoj-rundi-kvalifikacija/559076",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 11. 2026. у 19:02",
       "slika": null
     },
     {
