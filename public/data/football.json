@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-11-17T17:55:12.450253+00:00",
-  "azurirano_sr": "17. 11. 2026. у 18:55",
+  "azurirano": "2026-11-18T00:09:52.556988+00:00",
+  "azurirano_sr": "18. 11. 2026. у 01:09",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbija zna sve potencijalne rivale u baražu: Mađarima opet pao mrak na oči od Irske, ovaj put Severne",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-zna-sve-potencijalne-rivale-u-barazu-maarima-opet-pao-mrak-na-oci-od-irske-ovaj-put-severne/559105",
+      "izvor": "Мозарт Спорт",
+      "datum": "18. 11. 2026. у 00:06",
+      "slika": null
+    },
+    {
+      "naslov": "Matijašević: Nemanja Vidić i Milija Babović na čelu srpskog fudbala, idealan scenario",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/matijasevic-nemanja-vidic-i-milija-babovic-na-celu-srpskog-fudbala-idealan-scenario/559068",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 11. 2026. у 21:40",
+      "slika": null
+    },
+    {
+      "naslov": "Jedini pravi šampion Afrike prvi overio vizu za naredni Kup nacija, nekoliko velikih iznenađenja",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/jedini-pravi-sampion-afrike-prvi-overio-vizu-za-naredni-kup-nacija-nekoliko-velikih-iznenaenja/559082",
+      "izvor": "Мозарт Спорт",
+      "datum": "17. 11. 2026. у 20:11",
+      "slika": null
+    },
     {
       "naslov": "Srbija tone na svim nivoima: Crna Gora izbacila omladince u preliminarnoj rundi kvalifikacija",
       "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-tone-na-svim-nivoima-crna-gora-izbacila-omladince-u-preliminarnoj-rundi-kvalifikacija/559076",
@@ -11,24 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Ostoja Mijailović kupuje Čukarički",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ostoja-mijailovic-kupuje-cukaricki/559065",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 11. 2026. у 16:10",
+      "naslov": "Baraž za ostanak u A diviziji Lige nacija: BiH, Irska, Slovenija i Mađarska mogući rivali Srbije",
+      "url": "https://www.tanjug.rs/sport/fudbal/298656/baraz-za-ostanak-u-a-diviziji-lige-nacija-bih-irska-slovenija-i-madarska-moguci-rivali-srbije/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 11. 2026. у 23:35",
       "slika": null
     },
     {
-      "naslov": "Barbarez: Nisu Srbija i Hrvatska taj nivo, možemo protiv njih",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/barbarez-nisu-srbija-i-hrvatska-taj-nivo-mozemo-protiv-njih/559061",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 11. 2026. у 15:21",
+      "naslov": "Mirković posle poraza od Poljske: Dobra provera protiv ozbiljnog protivnika",
+      "url": "https://www.tanjug.rs/sport/fudbal/298632/mirkovic-posle-poraza-od-poljske-dobra-provera-protiv-ozbiljnog-protivnika/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 11. 2026. у 20:53",
       "slika": null
     },
     {
-      "naslov": "Rumunija poslednja prepreka, Srbija mogući rival Zmajeva u borbi za Ligu A",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rumunija-poslednja-prepreka-srbija-moguci-rival-zmajeva-u-borbi-za-ligu-a/559050",
-      "izvor": "Мозарт Спорт",
-      "datum": "17. 11. 2026. у 13:23",
+      "naslov": "Mladi fudbaleri Srbije poraženi od Poljske u prijateljskom meču, Dragojević isključen",
+      "url": "https://www.tanjug.rs/sport/fudbal/298625/mladi-fudbaleri-srbije-porazeni-od-poljske-u-prijateljskom-mecu-dragojevic-iskljucen/vest",
+      "izvor": "Танјуг",
+      "datum": "17. 11. 2026. у 20:23",
       "slika": null
     },
     {
@@ -39,38 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Engleska želi da organizuje završni turnir Lige nacija",
-      "url": "https://www.tanjug.rs/sport/fudbal/298582/engleska-zeli-da-organizuje-zavrsni-turnir-lige-nacija/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 11. 2026. у 17:38",
-      "slika": null
-    },
-    {
-      "naslov": "Kadetska fudbalska reprezentacija Srbije otputovala na Svetsko prvenstvo u Katar",
-      "url": "https://www.tanjug.rs/sport/fudbal/298575/kadetska-fudbalska-reprezentacija-srbije-otputovala-na-svetsko-prvenstvo-u-katar/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 11. 2026. у 17:09",
-      "slika": null
-    },
-    {
-      "naslov": "Francuski fudbaler Lajvin Kurzava završio igračku karijeru",
-      "url": "https://www.tanjug.rs/sport/fudbal/298542/francuski-fudbaler-lajvin-kurzava-zavrsio-igracku-karijeru/vest",
-      "izvor": "Танјуг",
-      "datum": "17. 11. 2026. у 15:34",
-      "slika": null
-    },
-    {
-      "naslov": "Tradicija na strani Zvezde pred novi duel sa Radnikom",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285795/zvezda-u-novembru-bez-poraza-protiv-radnika/vest",
+      "naslov": "Srbija saznala sve potencijalne rivale u baražu za Ligu nacija",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285885/potencijalni-rivali-srbije-u-barazu-za-a-diviziju-lige-nacija/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 11. 2026. у 18:42",
+      "datum": "17. 11. 2026. у 22:43",
       "slika": null
     },
     {
-      "naslov": "Crna Gora nokautirala Srbiju",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285814/omladinci-crne-gore-pobedili-srbiju-u-pancevu/vest",
+      "naslov": "Minimalan poraz Srbije – Dragojević opet dobio crveni",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/285856/u21-poljska-pobedila-srbiju-u-prijateljskoj-utakmici/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "17. 11. 2026. у 17:53",
+      "datum": "17. 11. 2026. у 19:52",
       "slika": null
     }
   ]
