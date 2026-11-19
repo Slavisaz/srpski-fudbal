@@ -1,34 +1,48 @@
 {
-  "azurirano": "2026-11-19T04:00:11.910192+00:00",
-  "azurirano_sr": "19. 11. 2026. у 05:00",
+  "azurirano": "2026-11-19T12:36:10.319497+00:00",
+  "azurirano_sr": "19. 11. 2026. у 13:36",
   "vesti_24h": 10,
   "vesti": [
     {
-      "naslov": "Eskperiment uspeo, širi se po svetu: Južna Amerika bi svoju Ligu nacija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/eskperiment-uspeo-siri-se-po-svetu-juzna-amerika-bi-svoju-ligu-nacija/559177",
+      "naslov": "Katar otvara najveću fudbalsku lutriju budućnosti: Jedni će pojesti svet, svet će druge",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/katar-otvara-najvecu-fudbalsku-lutriju-buducnosti-jedni-ce-pojesti-svet-svet-ce-druge/559195",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 11. 2026. у 12:26",
+      "slika": null
+    },
+    {
+      "naslov": "Ekvadorac suspendovan na osam godina jer je pogodio sudiju kamenom u glavu (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ekvadorac-suspendovan-na-osam-godina-jer-je-pogodio-sudiju-kamenom-u-glavu-video/559189",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 11. 2026. у 11:06",
+      "slika": null
+    },
+    {
+      "naslov": "Mudrik optužio ukrajinski savez za doping aferu i bacio rukavicu Ševčenku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/mudrik-optuzio-ukrajinski-savez-za-doping-aferu-i-bacio-rukavicu-sevcenku/559187",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 11. 2026. у 10:31",
+      "slika": null
+    },
+    {
+      "naslov": "Eksperiment uspeo, širi se po svetu: Južna Amerika bi svoju Ligu nacija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/eksperiment-uspeo-siri-se-po-svetu-juzna-amerika-bi-svoju-ligu-nacija/559177",
       "izvor": "Мозарт Спорт",
       "datum": "19. 11. 2026. у 01:05",
       "slika": null
     },
     {
-      "naslov": "REZZIME DANA (sreda): Dva iznenađenja u Kupu Srbije, Alimpijev Bešiktaš obarao tikete",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-sreda-dva-iznenaenja-u-kupu-srbije-alimpijev-besiktas-obarao-tikete/559176",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 11. 2026. у 00:20",
+      "naslov": "Kompani: Osećam se dobro, očekujem da se sve vrati u normalu",
+      "url": "https://www.tanjug.rs/sport/fudbal/299120/kompani-osecam-se-dobro-ocekujem-da-se-sve-vrati-u-normalu/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 11. 2026. у 12:23",
       "slika": null
     },
     {
-      "naslov": "Konte najavljuje: Zatvoriću krug s Juveom",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/konte-najavljuje-zatvoricu-krug-s-juveom/559172",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 11. 2026. у 23:30",
-      "slika": null
-    },
-    {
-      "naslov": "Švajcarcima je nekad branio poštar, a danas su ispred nas, lenjih Italijana zavaljenih u fotelje",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/svajcarcima-je-nekad-branio-postar-a-danas-su-ispred-nas-lenjih-italijana-zavaljenih-u-fotelje/559170",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 11. 2026. у 22:08",
+      "naslov": "Fudbaler iz Ekvadora suspendovan na osam godina zbog napada na sudiju kamenom",
+      "url": "https://www.tanjug.rs/sport/fudbal/299096/fudbaler-iz-ekvadora-suspendovan-na-osam-godina-zbog-napada-na-sudiju-kamenom/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 11. 2026. у 11:24",
       "slika": null
     },
     {
@@ -46,31 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Kadetska fudbalska reprezentacija Srbije odradila prvi trening u Kataru uoči Svetskog prvenstva",
-      "url": "https://www.tanjug.rs/sport/fudbal/298942/kadetska-fudbalska-reprezentacija-srbije-odradila-prvi-trening-u-kataru-uoci-svetskog-prvenstva/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 11. 2026. у 18:13",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Radničkog iz Niša u osmini finala Kupa Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/298938/fudbaleri-radnickog-iz-nisa-u-osmini-finala-kupa-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 11. 2026. у 17:57",
-      "slika": null
-    },
-    {
-      "naslov": "Poznato koliko će Mijailović platiti za Čukarički",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/286206/ostoja-mijailovic-izdvaja-20-miliona-evra-za-cukaricki/vest",
+      "naslov": "Poznata budućnost Marka Marina",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/286245/marko-marin-ostaje-u-crvenoj-zvezdi/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 11. 2026. у 22:58",
+      "datum": "19. 11. 2026. у 11:08",
       "slika": null
     },
     {
-      "naslov": "Zvezdina prilika za 20. trijumf u sezoni – protiv jedinog tima koji nisu dobili",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/286121/zvezda-protiv-radnika-juri-20-pobedu-u-superligi/vest",
+      "naslov": "Zvezdina mini-provera – pogađali Ivanić i Loizu VIDEO",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/286237/crvena-zvezda-odigrala-prijateljsku-sa-graficarem/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "18. 11. 2026. у 22:19",
+      "datum": "19. 11. 2026. у 10:55",
       "slika": null
     }
   ]
