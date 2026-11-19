@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-11-18T23:00:15.253484+00:00",
-  "azurirano_sr": "19. 11. 2026. у 00:00",
+  "azurirano": "2026-11-19T04:00:11.910192+00:00",
+  "azurirano_sr": "19. 11. 2026. у 05:00",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Eskperiment uspeo, širi se po svetu: Južna Amerika bi svoju Ligu nacija",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/eskperiment-uspeo-siri-se-po-svetu-juzna-amerika-bi-svoju-ligu-nacija/559177",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 11. 2026. у 01:05",
+      "slika": null
+    },
     {
       "naslov": "REZZIME DANA (sreda): Dva iznenađenja u Kupu Srbije, Alimpijev Bešiktaš obarao tikete",
       "url": "https://www.mozzartsport.com/fudbal/vesti/rezzime-dana-sreda-dva-iznenaenja-u-kupu-srbije-alimpijev-besiktas-obarao-tikete/559176",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/svajcarcima-je-nekad-branio-postar-a-danas-su-ispred-nas-lenjih-italijana-zavaljenih-u-fotelje/559170",
       "izvor": "Мозарт Спорт",
       "datum": "18. 11. 2026. у 22:08",
-      "slika": null
-    },
-    {
-      "naslov": "Kragujevački kup kriptonit je zeleno-plave boje i ime mu je Zemun",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/kragujevacki-kup-kriptonit-je-zelenoplave-boje-i-ime-mu-je-zemun/559167",
-      "izvor": "Мозарт Спорт",
-      "datum": "18. 11. 2026. у 21:18",
       "slika": null
     },
     {
