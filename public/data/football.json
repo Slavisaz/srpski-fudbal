@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-11-19T12:36:10.319497+00:00",
-  "azurirano_sr": "19. 11. 2026. у 13:36",
+  "azurirano": "2026-11-19T20:56:08.259495+00:00",
+  "azurirano_sr": "19. 11. 2026. у 21:56",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Stojićeve bajke o Cvetkoviću: Bolji od Mitrovića, liči na Benzemu i Aguera, u ravni sa Siseom i Sahom",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/stojiceve-bajke-o-cvetkovicu-bolji-od-mitrovica-lici-na-benzemu-i-aguera-u-ravni-sa-siseom-i-sahom/559215",
+      "izvor": "Мозарт Спорт",
+      "datum": "19. 11. 2026. у 18:04",
+      "slika": null
+    },
     {
       "naslov": "Katar otvara najveću fudbalsku lutriju budućnosti: Jedni će pojesti svet, svet će druge",
       "url": "https://www.mozzartsport.com/fudbal/vesti/katar-otvara-najvecu-fudbalsku-lutriju-buducnosti-jedni-ce-pojesti-svet-svet-ce-druge/559195",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Eksperiment uspeo, širi se po svetu: Južna Amerika bi svoju Ligu nacija",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/eksperiment-uspeo-siri-se-po-svetu-juzna-amerika-bi-svoju-ligu-nacija/559177",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 11. 2026. у 01:05",
+      "naslov": "Francuski fudbaler Ferlan Mendi u konkurenciji za sastav Reala protiv Selte",
+      "url": "https://www.tanjug.rs/sport/fudbal/299269/francuski-fudbaler-ferlan-mendi-u-konkurenciji-za-sastav-reala-protiv-selte/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 11. 2026. у 19:06",
       "slika": null
     },
     {
@@ -46,31 +53,31 @@
       "slika": null
     },
     {
+      "naslov": "Dve grupe na žrebu za Kup Srbije – poznat i termin",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/286414/zreb-za-18-finala-kupa-srbije-24-novembra/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 11. 2026. у 18:45",
+      "slika": null
+    },
+    {
+      "naslov": "Zvezda se opet aktivirala oko desnog beka",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/286324/crvena-zvezda-opet-zove-ognjena-mimovica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 11. 2026. у 17:15",
+      "slika": null
+    },
+    {
+      "naslov": "Oglasio se Dušan Tadić o povratku u Vojvodinu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/286271/dusan-tadic-o-povratku-u-vojvodinu/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "19. 11. 2026. у 14:27",
+      "slika": null
+    },
+    {
       "naslov": "Zvezda pozvala mališane do 14 godina da postanu deo programa \"Super zvezdaš\"",
       "url": "https://www.tanjug.rs/sport/fudbal/298972/zvezda-pozvala-malisane-do-14-godina-da-postanu-deo-programa-super-zvezdas/vest",
       "izvor": "Танјуг",
       "datum": "18. 11. 2026. у 20:35",
-      "slika": null
-    },
-    {
-      "naslov": "Fudbaleri Zemuna u osmini finala Kupa Srbije",
-      "url": "https://www.tanjug.rs/sport/fudbal/298970/fudbaleri-zemuna-u-osmini-finala-kupa-srbije/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 11. 2026. у 20:20",
-      "slika": null
-    },
-    {
-      "naslov": "Poznata budućnost Marka Marina",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/286245/marko-marin-ostaje-u-crvenoj-zvezdi/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 11. 2026. у 11:08",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezdina mini-provera – pogađali Ivanić i Loizu VIDEO",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/286237/crvena-zvezda-odigrala-prijateljsku-sa-graficarem/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 11. 2026. у 10:55",
       "slika": null
     }
   ]
