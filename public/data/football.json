@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-11-19T20:56:08.259495+00:00",
-  "azurirano_sr": "19. 11. 2026. у 21:56",
+  "azurirano": "2026-11-20T01:57:32.929398+00:00",
+  "azurirano_sr": "20. 11. 2026. у 02:57",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -29,6 +29,13 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/mudrik-optuzio-ukrajinski-savez-za-doping-aferu-i-bacio-rukavicu-sevcenku/559187",
       "izvor": "Мозарт Спорт",
       "datum": "19. 11. 2026. у 10:31",
+      "slika": null
+    },
+    {
+      "naslov": "UEFA kaznila Fudbalski savez BiH sa 45.000 evra i zabranom prodaje karata za naredno gostovanje",
+      "url": "https://www.tanjug.rs/sport/fudbal/299300/uefa-kaznila-fudbalski-savez-bih-sa-45000-evra-i-zabranom-prodaje-karata-za-naredno-gostovanje/vest",
+      "izvor": "Танјуг",
+      "datum": "19. 11. 2026. у 22:00",
       "slika": null
     },
     {
@@ -64,20 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/286324/crvena-zvezda-opet-zove-ognjena-mimovica/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 11. 2026. у 17:15",
-      "slika": null
-    },
-    {
-      "naslov": "Oglasio se Dušan Tadić o povratku u Vojvodinu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/286271/dusan-tadic-o-povratku-u-vojvodinu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 11. 2026. у 14:27",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda pozvala mališane do 14 godina da postanu deo programa \"Super zvezdaš\"",
-      "url": "https://www.tanjug.rs/sport/fudbal/298972/zvezda-pozvala-malisane-do-14-godina-da-postanu-deo-programa-super-zvezdas/vest",
-      "izvor": "Танјуг",
-      "datum": "18. 11. 2026. у 20:35",
       "slika": null
     }
   ]
