@@ -1,8 +1,29 @@
 {
-  "azurirano": "2026-11-20T01:57:32.929398+00:00",
-  "azurirano_sr": "20. 11. 2026. у 02:57",
+  "azurirano": "2026-11-20T09:34:56.244353+00:00",
+  "azurirano_sr": "20. 11. 2026. у 10:34",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (petak, 20. novembar): Fokus na Bajern - Keln,  evroligaški izazovi Večitih",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-petak-20-novembar-fokus-na-bajern-keln-evroligaski-izazovi-vecitih/559249",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 11. 2026. у 10:45",
+      "slika": null
+    },
+    {
+      "naslov": "Kad fudbaler postaje previše star za povišicu?",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kad-fudbaler-postaje-previse-star-za-povisicu/559242",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 11. 2026. у 09:44",
+      "slika": null
+    },
+    {
+      "naslov": "Srbija u podne saznaje sudbinu: Put u komšiluk ili u Irsku",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-u-podne-saznaje-sudbinu-put-u-komsiluk-ili-u-irsku/559241",
+      "izvor": "Мозарт Спорт",
+      "datum": "20. 11. 2026. у 09:34",
+      "slika": null
+    },
     {
       "naslov": "Stojićeve bajke o Cvetkoviću: Bolji od Mitrovića, liči na Benzemu i Aguera, u ravni sa Siseom i Sahom",
       "url": "https://www.mozzartsport.com/fudbal/vesti/stojiceve-bajke-o-cvetkovicu-bolji-od-mitrovica-lici-na-benzemu-i-aguera-u-ravni-sa-siseom-i-sahom/559215",
@@ -11,24 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "Katar otvara najveću fudbalsku lutriju budućnosti: Jedni će pojesti svet, svet će druge",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/katar-otvara-najvecu-fudbalsku-lutriju-buducnosti-jedni-ce-pojesti-svet-svet-ce-druge/559195",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 11. 2026. у 12:26",
-      "slika": null
-    },
-    {
-      "naslov": "Ekvadorac suspendovan na osam godina jer je pogodio sudiju kamenom u glavu (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/ekvadorac-suspendovan-na-osam-godina-jer-je-pogodio-sudiju-kamenom-u-glavu-video/559189",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 11. 2026. у 11:06",
-      "slika": null
-    },
-    {
-      "naslov": "Mudrik optužio ukrajinski savez za doping aferu i bacio rukavicu Ševčenku",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/mudrik-optuzio-ukrajinski-savez-za-doping-aferu-i-bacio-rukavicu-sevcenku/559187",
-      "izvor": "Мозарт Спорт",
-      "datum": "19. 11. 2026. у 10:31",
+      "naslov": "Napadač OFK Beograda Silue blizu Zvezde, Pavlović ima ponudu iz inostranstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/299365/napadac-ofk-beograda-silue-blizu-zvezde-pavlovic-ima-ponudu-iz-inostranstva/vest",
+      "izvor": "Танјуг",
+      "datum": "20. 11. 2026. у 10:06",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaler iz Ekvadora suspendovan na osam godina zbog napada na sudiju kamenom",
-      "url": "https://www.tanjug.rs/sport/fudbal/299096/fudbaler-iz-ekvadora-suspendovan-na-osam-godina-zbog-napada-na-sudiju-kamenom/vest",
-      "izvor": "Танјуг",
-      "datum": "19. 11. 2026. у 11:24",
+      "naslov": "Dan D za Srbiju",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/286523/kad-srbija-dobija-rivala-u-barazu-za-ligu-nacija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "20. 11. 2026. у 07:55",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/286414/zreb-za-18-finala-kupa-srbije-24-novembra/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "19. 11. 2026. у 18:45",
-      "slika": null
-    },
-    {
-      "naslov": "Zvezda se opet aktivirala oko desnog beka",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/286324/crvena-zvezda-opet-zove-ognjena-mimovica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "19. 11. 2026. у 17:15",
       "slika": null
     }
   ]
