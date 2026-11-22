@@ -1,8 +1,22 @@
 {
-  "azurirano": "2026-11-22T12:46:45.226424+00:00",
-  "azurirano_sr": "22. 11. 2026. у 13:46",
+  "azurirano": "2026-11-22T19:59:03.469779+00:00",
+  "azurirano_sr": "22. 11. 2026. у 20:59",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nije ukusno porediti Vojvodu i Kaku, ali Rabio igra fudbal života: Milanova sezona uopšte nije tako loša (VIDEO)",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nije-ukusno-porediti-vojvodu-i-kaku-ali-rabio-igra-fudbal-zivota-milanova-sezona-uopste-nije-tako-losa-video/559472",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 11. 2026. у 20:55",
+      "slika": null
+    },
+    {
+      "naslov": "Kraj sezone za Dezirea Duea",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-sezone-za-dezirea-duea/559442",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 11. 2026. у 14:43",
+      "slika": null
+    },
     {
       "naslov": "Skupoceni Leonardo promašaj, ali Ajaksov džekpot - Tolu Arokodare",
       "url": "https://www.mozzartsport.com/fudbal/vesti/skupoceni-leonardo-promasaj-ali-ajaksov-dzekpot-tolu-arokodare/559422",
@@ -18,59 +32,45 @@
       "slika": null
     },
     {
-      "naslov": "Fudbalska fatamorgana ili stvarnost: Tinjaju šampionski snovi Dortmunda (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fudbalska-fatamorgana-ili-stvarnost-tinjaju-sampionski-snovi-dortmunda-video/559392",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 11. 2026. у 21:21",
-      "slika": null
-    },
-    {
-      "naslov": "Đuričić na večitom derbiju postigao prvi gol u kiparskom fudbalu (VIDEO)",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/uricic-na-vecitom-derbiju-postigao-prvi-gol-u-kiparskom-fudbalu-video/559395",
-      "izvor": "Мозарт Спорт",
-      "datum": "21. 11. 2026. у 21:17",
-      "slika": null
-    },
-    {
-      "naslov": "Crvena zvezda zainteresovana za mađarskog fudbalera Dominika Kočiša",
-      "url": "https://www.tanjug.rs/sport/fudbal/299914/crvena-zvezda-zainteresovana-za-madarskog-fudbalera-dominika-kocisa/vest",
+      "naslov": "Srpski fudbaler Andrija Živković postigao tri gola za PAOK",
+      "url": "https://www.tanjug.rs/sport/fudbal/300037/srpski-fudbaler-andrija-zivkovic-postigao-tri-gola-za-paok/vest",
       "izvor": "Танјуг",
-      "datum": "22. 11. 2026. у 12:46",
+      "datum": "22. 11. 2026. у 20:22",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Kolumbusa pobedili Inter Majami u prvom meču plej-ofa MLS lige",
-      "url": "https://www.tanjug.rs/sport/fudbal/299884/fudbaleri-kolumbusa-pobedili-inter-majami-u-prvom-mecu-plej-ofa-mls-lige/vest",
+      "naslov": "Fudbaleri Milana deklasirali Frozinone",
+      "url": "https://www.tanjug.rs/sport/fudbal/300035/fudbaleri-milana-deklasirali-frozinone/vest",
       "izvor": "Танјуг",
-      "datum": "22. 11. 2026. у 10:51",
+      "datum": "22. 11. 2026. у 20:05",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Boke Juniors osvojili Kopa Sudamerikanu",
-      "url": "https://www.tanjug.rs/sport/fudbal/299869/fudbaleri-boke-juniors-osvojili-kopa-sudamerikanu/vest",
+      "naslov": "Fudbaleri Liverpula ubedljivo pobedili Mančester Junajted",
+      "url": "https://www.tanjug.rs/sport/fudbal/300027/fudbaleri-liverpula-ubedljivo-pobedili-mancester-junajted/vest",
       "izvor": "Танјуг",
-      "datum": "22. 11. 2026. у 09:13",
+      "datum": "22. 11. 2026. у 19:25",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Reala preokretom do pobede protiv Selte u La Ligi",
-      "url": "https://www.tanjug.rs/sport/fudbal/299822/fudbaleri-reala-preokretom-do-pobede-protiv-selte-u-la-ligi/vest",
+      "naslov": "Fudbaleri Vojvodine deklasirali Mačvu",
+      "url": "https://www.tanjug.rs/sport/fudbal/300020/fudbaleri-vojvodine-deklasirali-macvu/vest",
       "izvor": "Танјуг",
-      "datum": "21. 11. 2026. у 23:10",
+      "datum": "22. 11. 2026. у 19:09",
       "slika": null
     },
     {
-      "naslov": "Novi reprezentativac Srbije je kapiten Mađarima – za B92.sport otkriva njihove tajne!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/286973/miljan-krpic-b92sport-intervju-o-reprezentacijama-srbije-i-madjarske/vest",
+      "naslov": "Vazura tužio Partizan",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/287221/milos-vazura-tuzio-partizan-potrazuje-oko-50000-evra-n/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "22. 11. 2026. у 10:43",
+      "datum": "22. 11. 2026. у 20:05",
       "slika": null
     },
     {
-      "naslov": "Koković: &quot;Nametnuli smo naš stil igre&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/286989/izjava-radomira-kokovica-posle-utakmice-mladost-lucani-zeleznicar/vest",
+      "naslov": "Vojvodina pregazila Mačvu – &quot;pukla petarda&quot; u Šapcu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/287208/vojvodina-pregazila-macvu-u-sapcu/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "21. 11. 2026. у 23:50",
+      "datum": "22. 11. 2026. у 19:00",
       "slika": null
     }
   ]
