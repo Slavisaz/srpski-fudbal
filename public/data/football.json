@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-11-22T19:59:03.469779+00:00",
-  "azurirano_sr": "22. 11. 2026. у 20:59",
+  "azurirano": "2026-11-23T00:35:41.111768+00:00",
+  "azurirano_sr": "23. 11. 2026. у 01:35",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Nema gore odbrane među klubovima iz 'liga petice' od Junajtedove...",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/nema-gore-odbrane-meu-klubovima-iz-liga-petice-od-junajtedove/559479",
+      "izvor": "Мозарт Спорт",
+      "datum": "22. 11. 2026. у 23:00",
+      "slika": null
+    },
     {
       "naslov": "Nije ukusno porediti Vojvodu i Kaku, ali Rabio igra fudbal života: Milanova sezona uopšte nije tako loša (VIDEO)",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nije-ukusno-porediti-vojvodu-i-kaku-ali-rabio-igra-fudbal-zivota-milanova-sezona-uopste-nije-tako-losa-video/559472",
@@ -25,10 +32,10 @@
       "slika": null
     },
     {
-      "naslov": "FIFPRO optužuje Bajern za prljavu kampanju: Musijala trpi organizovani pritisak Henesa, Rumenigea i Drezena",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/fifpro-optuzuje-bajern-za-prljavu-kampanju-musijala-trpi-organizovani-pritisak-henesa-rumenigea-i-drezena/559409",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 11. 2026. у 01:10",
+      "naslov": "Fudbaleri Atalante i Intera odigrali nerešeno 4:4 u Seriji A",
+      "url": "https://www.tanjug.rs/sport/fudbal/300054/fudbaleri-atalante-i-intera-odigrali-nereseno-44-u-seriji-a/vest",
+      "izvor": "Танјуг",
+      "datum": "22. 11. 2026. у 22:44",
       "slika": null
     },
     {
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Vojvodine deklasirali Mačvu",
-      "url": "https://www.tanjug.rs/sport/fudbal/300020/fudbaleri-vojvodine-deklasirali-macvu/vest",
-      "izvor": "Танјуг",
-      "datum": "22. 11. 2026. у 19:09",
+      "naslov": "Zvezda želi Mađara – menja Bukarija",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/287231/zvezda-zeli-dominika-kocisa-iz-debrecina-rijera-ga-vidi-kao-zamenu-za-bukarija/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "22. 11. 2026. у 21:50",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/287221/milos-vazura-tuzio-partizan-potrazuje-oko-50000-evra-n/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "22. 11. 2026. у 20:05",
-      "slika": null
-    },
-    {
-      "naslov": "Vojvodina pregazila Mačvu – &quot;pukla petarda&quot; u Šapcu",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/287208/vojvodina-pregazila-macvu-u-sapcu/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "22. 11. 2026. у 19:00",
       "slika": null
     }
   ]
