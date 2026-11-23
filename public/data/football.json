@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-11-23T00:35:41.111768+00:00",
-  "azurirano_sr": "23. 11. 2026. у 01:35",
+  "azurirano": "2026-11-23T08:06:52.599147+00:00",
+  "azurirano_sr": "23. 11. 2026. у 09:06",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "NAJAVA DANA (ponedeljak, 23. novembar): Sve u znaku fudbala",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/najava-dana-ponedeljak-23-novembar-sve-u-znaku-fudbala/559435",
+      "izvor": "Мозарт Спорт",
+      "datum": "23. 11. 2026. у 08:48",
+      "slika": null
+    },
     {
       "naslov": "Nema gore odbrane među klubovima iz 'liga petice' od Junajtedove...",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nema-gore-odbrane-meu-klubovima-iz-liga-petice-od-junajtedove/559479",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/kraj-sezone-za-dezirea-duea/559442",
       "izvor": "Мозарт Спорт",
       "datum": "22. 11. 2026. у 14:43",
-      "slika": null
-    },
-    {
-      "naslov": "Skupoceni Leonardo promašaj, ali Ajaksov džekpot - Tolu Arokodare",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/skupoceni-leonardo-promasaj-ali-ajaksov-dzekpot-tolu-arokodare/559422",
-      "izvor": "Мозарт Спорт",
-      "datum": "22. 11. 2026. у 11:11",
       "slika": null
     },
     {
