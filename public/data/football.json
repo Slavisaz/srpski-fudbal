@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-11-23T20:05:04.046605+00:00",
-  "azurirano_sr": "23. 11. 2026. у 21:05",
+  "azurirano": "2026-11-24T04:42:04.620599+00:00",
+  "azurirano_sr": "24. 11. 2026. у 05:42",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -32,6 +32,13 @@
       "slika": null
     },
     {
+      "naslov": "Fudbaleri Brentforda ubedljivo savladali Everton u 11. kolu Premijer lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/300367/fudbaleri-brentforda-ubedljivo-savladali-everton-u-11-kolu-premijer-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "23. 11. 2026. у 23:27",
+      "slika": null
+    },
+    {
       "naslov": "Aleksandar Mitrović posetio kadete: Ne postoji granica, niste svesni koliko možete",
       "url": "https://www.tanjug.rs/sport/fudbal/300330/aleksandar-mitrovic-posetio-kadete-ne-postoji-granica-niste-svesni-koliko-mozete/vest",
       "izvor": "Танјуг",
@@ -53,10 +60,10 @@
       "slika": null
     },
     {
-      "naslov": "FK Crvena zvezda na deobi drugog mesta u svetu po broju igrača na Svetskom prvenstvu za kadete",
-      "url": "https://www.tanjug.rs/sport/fudbal/300217/fk-crvena-zvezda-na-deobi-drugog-mesta-u-svetu-po-broju-igraca-na-svetskom-prvenstvu-za-kadete/vest",
-      "izvor": "Танјуг",
-      "datum": "23. 11. 2026. у 14:15",
+      "naslov": "Nije dao gol ove sezone, ali Rijera ga želi u Zvezdi: Sprema se neočekivan transfer?",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/287562/crvena-zvezda-zeli-cukvubuikema-ikvuemesija-iz-levena-na-insistiranje-alberta-rijere/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "23. 11. 2026. у 21:53",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/287532/partizan-protiv-vazure-advokat-otkrio-kada-se-ocekuje-kraj-spora-oko-bonusa/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "23. 11. 2026. у 19:48",
-      "slika": null
-    },
-    {
-      "naslov": "Mitrović posetio kadete Srbije u Kataru: &quot;Takmičite se bez straha&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/287530/aleksandar-mitrovic-posetio-fudbalere-srbije-u-kataru/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "23. 11. 2026. у 19:25",
       "slika": null
     }
   ]
