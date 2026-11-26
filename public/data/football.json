@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-11-26T00:38:00.917300+00:00",
-  "azurirano_sr": "26. 11. 2026. у 01:38",
+  "azurirano": "2026-11-26T08:51:33.107403+00:00",
+  "azurirano_sr": "26. 11. 2026. у 09:51",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Zamena domaćinstva: Partizan i Teleoptik igraju u Humskoj",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/zamena-domacinstva-partizan-i-teleoptik-igraju-u-humskoj/559721",
+      "izvor": "Мозарт Спорт",
+      "datum": "26. 11. 2026. у 09:35",
+      "slika": null
+    },
     {
       "naslov": "Neviđeno u engleskom fudbalu: Barnli 403 dana bez pobede kod kuće",
       "url": "https://www.mozzartsport.com/fudbal/vesti/nevieno-u-engleskom-fudbalu-barnli-403-dana-bez-pobede-kod-kuce/559714",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/a-da-probate-neki-drugi-kup-slavija-oborila-rekord-lige-sampiona/559703",
       "izvor": "Мозарт Спорт",
       "datum": "25. 11. 2026. у 22:35",
-      "slika": null
-    },
-    {
-      "naslov": "Vlahović pre pola godine otišao iz Juvea, a tamo i dalje pričaju o njemu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/vlahovic-pre-pola-godine-otisao-iz-juvea-a-tamo-i-dalje-pricaju-o-njemu/559686",
-      "izvor": "Мозарт Спорт",
-      "datum": "25. 11. 2026. у 18:14",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Srpski fudbal ima najsvetliju budućnost u regionu",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/288154/srbija-medju-20-najperspektivnijih-reprezentacija-sveta/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 11. 2026. у 09:48",
+      "slika": null
+    },
+    {
       "naslov": "&quot;Nedopustivo – 2026. godina, a igra se na ovakvoj podlozi&quot;",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/288053/izjava-radomira-kokovica-posle-meca-radnicki-nis-zeleznicar/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "25. 11. 2026. у 16:27",
-      "slika": null
-    },
-    {
-      "naslov": "Osma uzastopna pobeda Železničara",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/288017/osma-uzastopna-pobeda-zeleznicara/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "25. 11. 2026. у 15:05",
       "slika": null
     }
   ]
