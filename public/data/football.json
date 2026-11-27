@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-11-27T01:54:58.425896+00:00",
-  "azurirano_sr": "27. 11. 2026. у 02:54",
+  "azurirano": "2026-11-27T10:15:03.015514+00:00",
+  "azurirano_sr": "27. 11. 2026. у 11:15",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Da se ne brukamo",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/da-se-ne-brukamo/559814",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 11. 2026. у 10:13",
+      "slika": null
+    },
     {
       "naslov": "Ozbiljna tragedija Borca – imao 2:0 protiv Atalante i izgubio u nadoknadi! Baždar probušio Hajduk",
       "url": "https://www.mozzartsport.com/fudbal/vesti/ozbiljna-tragedija-borca-imao-20-protiv-atalante-i-izgubio-u-nadoknadi-bazdar-probusio-hajduk/559796",
@@ -22,13 +29,6 @@
       "url": "https://www.mozzartsport.com/fudbal/vesti/catovic-polomio-nogu-moze-da-mu-propadne-transfer-u-barselonu/559765",
       "izvor": "Мозарт Спорт",
       "datum": "26. 11. 2026. у 17:13",
-      "slika": null
-    },
-    {
-      "naslov": "Orlići se ne zadovoljavaju prolazom: Želimo prvo mesto u grupi",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/orlici-se-ne-zadovoljavaju-prolazom-zelimo-prvo-mesto-u-grupi/559764",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 11. 2026. у 17:06",
       "slika": null
     },
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
-      "naslov": "Bata Mirković posle paklenog žreba za EURO: &quot;Da prođemo grupu&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/288433/bata-mirkovic-izjava-posle-zreba-za-u21-evropsko-prvenstvo/vest",
+      "naslov": "Stanojević: &quot;Vanredna je situacija, ovo je nenormalno!&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/288560/konferencija-aleksandra-stanojevica-pred-mec-partizan-radnicki-nis-u-superligi-srbije/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 11. 2026. у 20:10",
+      "datum": "27. 11. 2026. у 10:59",
       "slika": null
     },
     {
-      "naslov": "Užasan žreb za Srbiju!",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/288401/zreb-za-u21-euro-srbija-protiv-engleske-francuske-i-poljske/vest",
+      "naslov": "Ljajić: &quot;Drugi su u većem problemu nego Partizan – Zvezda posebno, imala je privilegije&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/288559/ljajic-zvezda-je-bila-privilegovana-drugi-ce-biti-u-vecem-problemu-od-partizana/vest",
       "izvor": "Б92 Српски фудбал",
-      "datum": "26. 11. 2026. у 19:13",
+      "datum": "27. 11. 2026. у 10:49",
       "slika": null
     }
   ]
