@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-11-26T18:40:16.400412+00:00",
-  "azurirano_sr": "26. 11. 2026. у 19:40",
+  "azurirano": "2026-11-27T01:54:58.425896+00:00",
+  "azurirano_sr": "27. 11. 2026. у 02:54",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Ozbiljna tragedija Borca – imao 2:0 protiv Atalante i izgubio u nadoknadi! Baždar probušio Hajduk",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/ozbiljna-tragedija-borca-imao-20-protiv-atalante-i-izgubio-u-nadoknadi-bazdar-probusio-hajduk/559796",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 11. 2026. у 00:03",
+      "slika": null
+    },
     {
       "naslov": "Žreb za EP U21: Srbija udara na dvostrukog prvaka Evrope",
       "url": "https://www.mozzartsport.com/fudbal/vesti/zreb-za-ep-u21-srbija-udara-na-dvostrukog-prvaka-evrope/559777",
@@ -25,38 +32,38 @@
       "slika": null
     },
     {
-      "naslov": "Brana Ilić odveo dvojicu srpskih fudbalera u Janjinu",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/brana-ilic-odveo-dvojicu-srpskih-fudbalera-u-janjinu/559760",
-      "izvor": "Мозарт Спорт",
-      "datum": "26. 11. 2026. у 16:40",
+      "naslov": "Rijera: Nisam ljut, stvorili smo dosta šansi, imamo još šest bodova u igri",
+      "url": "https://www.tanjug.rs/sport/fudbal/301376/rijera-nisam-ljut-stvorili-smo-dosta-sansi-imamo-jos-sest-bodova-u-igri/vest",
+      "izvor": "Танјуг",
+      "datum": "26. 11. 2026. у 23:36",
       "slika": null
     },
     {
-      "naslov": "Mladi fudbaleri Srbije protiv Engleske, Francuske i Poljske na Evropskom prvenstvu 2027. godine",
-      "url": "https://www.tanjug.rs/sport/fudbal/301318/mladi-fudbaleri-srbije-protiv-engleske-francuske-i-poljske-na-evropskom-prvenstvu-2027-godine/vest",
+      "naslov": "Fudbaleri Borca iz Banjaluke vodili 2:0, pa izgubili 3:2 od Atalante u Ligi konferencije",
+      "url": "https://www.tanjug.rs/sport/fudbal/301347/fudbaleri-borca-iz-banjaluke-vodili-20-pa-izgubili-32-od-atalante-u-ligi-konferencije/vest",
       "izvor": "Танјуг",
-      "datum": "26. 11. 2026. у 19:06",
+      "datum": "26. 11. 2026. у 23:28",
       "slika": null
     },
     {
-      "naslov": "Radujko: Ovo je najveći fudbalski događaj u našoj zemlji u poslednjih 50 godina",
-      "url": "https://www.tanjug.rs/sport/fudbal/301315/radujko-ovo-je-najveci-fudbalski-dogadaj-u-nasoj-zemlji-u-poslednjih-50-godina/vest",
+      "naslov": "Gaštarov: Odigrali smo dobro protiv Genta, dominirali smo u drugom poluvremenu",
+      "url": "https://www.tanjug.rs/sport/fudbal/301375/gastarov-odigrali-smo-dobro-protiv-genta-dominirali-smo-u-drugom-poluvremenu/vest",
       "izvor": "Танјуг",
-      "datum": "26. 11. 2026. у 19:00",
+      "datum": "26. 11. 2026. у 23:20",
       "slika": null
     },
     {
-      "naslov": "Fudbaleri Kairata pobedili Mjalbi u Ligi konferencije",
-      "url": "https://www.tanjug.rs/sport/fudbal/301308/fudbaleri-kairata-pobedili-mjalbi-u-ligi-konferencije/vest",
+      "naslov": "Fudbaleri Juventusa preokretom do pobede protiv Omonije u Ligi Evrope",
+      "url": "https://www.tanjug.rs/sport/fudbal/301343/fudbaleri-juventusa-preokretom-do-pobede-protiv-omonije-u-ligi-evrope/vest",
       "izvor": "Танјуг",
-      "datum": "26. 11. 2026. у 18:24",
+      "datum": "26. 11. 2026. у 23:08",
       "slika": null
     },
     {
-      "naslov": "Strahinja Baucal: Želimo da se izborimo za prvo mesto u grupi",
-      "url": "https://www.tanjug.rs/sport/fudbal/301290/strahinja-baucal-zelimo-da-se-izborimo-za-prvo-mesto-u-grupi/vest",
-      "izvor": "Танјуг",
-      "datum": "26. 11. 2026. у 17:03",
+      "naslov": "Bata Mirković posle paklenog žreba za EURO: &quot;Da prođemo grupu&quot;",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/288433/bata-mirkovic-izjava-posle-zreba-za-u21-evropsko-prvenstvo/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "26. 11. 2026. у 20:10",
       "slika": null
     },
     {
@@ -64,13 +71,6 @@
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/288401/zreb-za-u21-euro-srbija-protiv-engleske-francuske-i-poljske/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "26. 11. 2026. у 19:13",
-      "slika": null
-    },
-    {
-      "naslov": "Matić pred Kolumbiju: &quot;Svi nam govore...&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/288338/igor-matic-pred-kolumbiju/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "26. 11. 2026. у 17:33",
       "slika": null
     }
   ]
