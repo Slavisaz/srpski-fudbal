@@ -1,8 +1,15 @@
 {
-  "azurirano": "2026-11-27T19:28:57.416016+00:00",
-  "azurirano_sr": "27. 11. 2026. у 20:28",
+  "azurirano": "2026-11-28T02:05:19.225498+00:00",
+  "azurirano_sr": "28. 11. 2026. у 03:05",
   "vesti_24h": 10,
   "vesti": [
+    {
+      "naslov": "Srbija preko Kine juri osminu finala i meč sa Francuskom, Zvezdini biseri u idealnih 11 grupne faze",
+      "url": "https://www.mozzartsport.com/fudbal/vesti/srbija-preko-kine-juri-osminu-finala-i-mec-sa-francuskom-zvezdini-biseri-u-idealnih-11-grupne-faze/559866",
+      "izvor": "Мозарт Спорт",
+      "datum": "27. 11. 2026. у 21:20",
+      "slika": null
+    },
     {
       "naslov": "Možda najradikalniji zahtev u istoriji Premijer lige: Naterajte šeika da proda Mančester Siti",
       "url": "https://www.mozzartsport.com/fudbal/vesti/mozda-najradikalniji-zahtev-u-istoriji-premijer-lige-naterajte-seika-da-proda-mancester-siti/559864",
@@ -25,10 +32,24 @@
       "slika": null
     },
     {
-      "naslov": "Potez koji je potreban fudbalu... Svi se nešto foliraju, Moreira je iskren i prkosan",
-      "url": "https://www.mozzartsport.com/fudbal/vesti/potez-koji-je-potreban-fudbalu-svi-se-nesto-foliraju-moreira-je-iskren-i-prkosan/559850",
-      "izvor": "Мозарт Спорт",
-      "datum": "27. 11. 2026. у 15:34",
+      "naslov": "Fudbaleri Notingem Foresta pobedili Čelsi u 12. kolu Premijer lige",
+      "url": "https://www.tanjug.rs/sport/fudbal/301653/fudbaleri-notingem-foresta-pobedili-celsi-u-12-kolu-premijer-lige/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 11. 2026. у 23:20",
+      "slika": null
+    },
+    {
+      "naslov": "Košarkaši Italije bez Pročide i Petručelija protiv Srbije, Pajola se priključio timu",
+      "url": "https://www.tanjug.rs/sport/fudbal/301635/kosarkasi-italije-bez-procide-i-petrucelija-protiv-srbije-pajola-se-prikljucio-timu/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 11. 2026. у 22:17",
+      "slika": null
+    },
+    {
+      "naslov": "Kadeti Srbije 1. decembra protiv Kine u šesnaestini finala Svetskog prvenstva",
+      "url": "https://www.tanjug.rs/sport/fudbal/301611/kadeti-srbije-1-decembra-protiv-kine-u-sesnaestini-finala-svetskog-prvenstva/vest",
+      "izvor": "Танјуг",
+      "datum": "27. 11. 2026. у 20:26",
       "slika": null
     },
     {
@@ -36,27 +57,6 @@
       "url": "https://www.tanjug.rs/sport/fudbal/301608/fudbaleri-imt-a-sa-dva-gola-u-finisu-meca-do-pobede-protiv-macve/vest",
       "izvor": "Танјуг",
       "datum": "27. 11. 2026. у 20:08",
-      "slika": null
-    },
-    {
-      "naslov": "Bugarski fudbalski savez zatražio najstrože kazne od UEFA zbog napada na navijače Levskog",
-      "url": "https://www.tanjug.rs/sport/fudbal/301588/bugarski-fudbalski-savez-zatrazio-najstroze-kazne-od-uefa-zbog-napada-na-navijace-levskog/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 11. 2026. у 18:38",
-      "slika": null
-    },
-    {
-      "naslov": "Matić: Ostvarili smo lep uspeh u grupi, pobedili smo šampiona Azije i Južne Amerike",
-      "url": "https://www.tanjug.rs/sport/fudbal/301561/matic-ostvarili-smo-lep-uspeh-u-grupi-pobedili-smo-sampiona-azije-i-juzne-amerike/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 11. 2026. у 17:04",
-      "slika": null
-    },
-    {
-      "naslov": "Kadetska fudbalska reprezentacija Srbije pobedila Kolumbiju za prvo mesto u Grupi",
-      "url": "https://www.tanjug.rs/sport/fudbal/301554/kadetska-fudbalska-reprezentacija-srbije-pobedila-kolumbiju-za-prvo-mesto-u-grupi/vest",
-      "izvor": "Танјуг",
-      "datum": "27. 11. 2026. у 16:35",
       "slika": null
     },
     {
