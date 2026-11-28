@@ -1,6 +1,6 @@
 {
-  "azurirano": "2026-11-28T02:05:19.225498+00:00",
-  "azurirano_sr": "28. 11. 2026. у 03:05",
+  "azurirano": "2026-11-28T10:12:40.198932+00:00",
+  "azurirano_sr": "28. 11. 2026. у 11:12",
   "vesti_24h": 10,
   "vesti": [
     {
@@ -60,17 +60,17 @@
       "slika": null
     },
     {
+      "naslov": "Sneg napravio probleme u srpskom fudbalu – odložena utakmica",
+      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/288834/sneg-napravio-probleme-u-srpskom-fudbalu-odlozena-utakmica/vest",
+      "izvor": "Б92 Српски фудбал",
+      "datum": "28. 11. 2026. у 10:49",
+      "slika": null
+    },
+    {
       "naslov": "Kakav preokret IMT-a – Mačva &quot;pala&quot; u nadoknadi VIDEO",
       "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/288727/imt-posle-preokreta-savladao-macvu/vest",
       "izvor": "Б92 Српски фудбал",
       "datum": "27. 11. 2026. у 18:53",
-      "slika": null
-    },
-    {
-      "naslov": "Prvo saopštenje inicijative &quot;Zvezda se budi&quot; – traže promene na &quot;Marakani&quot;",
-      "url": "https://www.b92.net/sport/fudbal/srpski-fudbal/288711/inicijativa-zvezda-se-budi-saopstenje-i-kritika-zvezdana-terzica/vest",
-      "izvor": "Б92 Српски фудбал",
-      "datum": "27. 11. 2026. у 17:51",
       "slika": null
     }
   ]
